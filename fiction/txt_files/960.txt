@@ -1,588 +1,588 @@
-हरिधन	XC	O	O	O
-जेठ	NN	O	O	O
-की	PSP	O	O	O
-दुपहरी	NN	O	O	O
-में	PSP	O	O	O
-ऊख	NN	O	O	O
-में	PSP	O	O	O
-पानी	NN	O	B-MISC	OCC
-देकर	VM	O	I-MISC	O
-आया	VAUX	O	I-MISC	O
-और	CC	O	O	O
-बाहर	NST	O	B-MISC	OCC
-बैठा	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-से	PSP	O	O	O
-धुआं	NN	O	O	O
-उठता	VM	O	O	O
-नजर	NN	O	B-MISC	OCC
-आता	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-छन-छन	NN	O	O	O
-की	PSP	O	O	O
-आवाज	NN	O	O	O
-भी	RP	O	O	O
-आ	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसके	PRP	O	O	O
-दोनों	JJ	O	O	O
-साले	NN	O	O	O
-उसके	PRP	O	O	O
-बाद	NST	O	O	O
-आये	VM	O	B-MISC	O
-और	CC	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-चले	VM	O	B-MISC	OCC
-गए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-दोनों	JJ	O	O	O
-सालों	NN	O	O	O
-के	PSP	O	O	O
-लड़के	NNP	O	O	O
-भी	RP	O	O	O
-आये	VM	O	B-MISC	OCC
-और	CC	O	O	O
-उसी	PRP	O	O	O
-तरह	NN	O	O	O
-अंदर	NST	O	O	O
-दाखिल	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गये	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-हरिधन	NN	O	O	O
-अंदर	NST	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-सका	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इधर	NST	O	O	O
-एक	QC	B	O	O
-महीने	NN	I	O	O
-से	PSP	O	O	O
-उसके	PRP	O	O	O
-साथ	NST	O	O	O
-यहां	PRP	O	O	O
-जो	PRP	O	O	O
-बर्ताव	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-और	CC	O	O	O
-विशेषकर	RB	O	O	O
-कल	NN	O	O	O
-उसे	PRP	O	O	O
-जैसी	PSP	O	O	O
-फटकार	NN	O	O	O
-सुननी	VM	O	O	O
-पड़ी	XC	O	O	O
-थी	NNP	O	O	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-उसके	PRP	O	O	O
-पांव	NN	O	O	O
-में	PSP	O	O	O
-बेड़ियां-सी	NN	O	B-MISC	O
-डाले	VM	O	I-MISC	OCC
-हुए	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कल	NN	O	O	O
-उसकी	PRP	O	O	O
-सास	NN	O	O	O
-ही	RP	O	O	O
-ने	PSP	O	O	O
-तो	RP	O	O	O
-कहा	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-था	VAUX	O	O	O
-,	SYM	O	O	O
-मेरा	PRP	O	O	O
-जी	RP	O	O	O
-तुमसे	PRP	O	O	O
-भर	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मैं	PRP	O	O	O
-तुम्हारी	PRP	O	O	O
-जिंदगी-भर	NN	O	O	O
-का	PSP	O	O	O
-ठीका	NN	O	O	O
-लिये	VM	O	B-MISC	OCC
-बैठी	VM	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-क्या	WQ	O	O	O
-?	SYM	O	O	O
-और	CC	O	O	O
-सबसे	JJ	O	O	O
-बढ़कर	VM	O	O	O
-अपनी	PRP	O	O	O
-स्त्री	NN	O	O	O
-की	PSP	O	O	O
-निष्ठुरता	NN	O	O	O
-ने	PSP	O	O	O
-उसके	PRP	O	O	O
-हृदय	NN	O	O	O
-के	PSP	O	O	O
-टुकड़े-टुकड़े	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिये	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-बैठी	VM	O	B-MISC	O
-यह	DEM	O	O	O
-फटकार	NN	O	B-MISC	OCC
-सुनती	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-एक	QC	O	O	O
-बार	RP	O	O	O
-तो	RP	O	O	O
-उसके	PRP	O	O	O
-मुंह	NN	O	O	O
-से	PSP	O	O	O
-न	NEG	O	O	O
-निकला	VM	O	O	O
-,	SYM	O	O	O
-अम्मां	NN	O	O	O
-,	SYM	O	O	O
-तुम	PRP	O	O	O
-क्यों	WQ	O	O	O
-इनका	PRP	O	O	O
-अपमान	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-!	SYM	O	O	O
-बैठी	RDP	O	O	O
-गट-गट	NN	O	O	O
-सुनती	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-शायद	RB	O	O	O
-मेरी	PRP	O	O	O
-दुर्गति	NN	O	O	O
-पर	PSP	O	O	O
-खुश	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-वह	PRP	O	O	O
-कैसे	WQ	O	O	O
-जाय	VAUX	O	O	O
-?	SYM	O	O	O
-क्या	WQ	O	O	O
-फिर	RB	O	O	O
-वही	PRP	O	O	O
-गालियां	NN	O	O	O
-खाने	VM	O	O	O
-,	SYM	O	O	O
-वही	PRP	O	O	O
-फटकार	NN	O	B-MISC	O
-सुनने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-?	SYM	O	O	O
-और	CC	O	O	O
-आज	NN	O	O	O
-इस	DEM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-जीवन	NN	O	O	O
-के	PSP	O	O	O
-दस	QC	O	O	O
-साल	NN	O	O	O
-गुजर	VM	O	B-MISC	OCC
-जाने	VAUX	O	I-MISC	O
-पर	CC	O	O	O
-यह	DEM	O	O	O
-हाल	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-किसी	PRP	O	O	O
-से	PSP	O	O	O
-कम	QF	O	O	O
-काम	NN	O	O	O
-करता	VM	O	B-MISC	O
-हूं	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-दोनों	JJ	O	O	O
-साले	NN	O	O	O
-मीठी	JJ	O	O	O
-नींद	NN	O	O	O
-सो	VM	O	B-MISC	OCC
-रहते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-मैं	PRP	O	O	O
-बैलों	NN	O	O	O
-को	PSP	O	O	O
-सानी-पानी	NN	O	O	OCC
-देता	VM	O	B-MISC	O
-हूं	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-छांटी	NN	O	O	O
-काटता	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वहां	PRP	O	O	O
-सब	QF	O	O	O
-लोग	NN	O	O	O
-पल-पल	NN	O	O	O
-पर	PSP	O	O	O
-चिलम	NN	O	B-MISC	OCC
-पीते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मैं	PRP	O	O	O
-आंखें	NN	O	O	O
-बन्द	JJ	O	B-MISC	O
-किये	VM	O	I-MISC	O
-अपने	PRP	O	O	O
-काम	NN	O	O	O
-में	PSP	O	O	O
-लगा	VM	O	B-MISC	O
-रहता	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-संध्या	NN	O	O	O
-समय	NN	O	O	O
-घरवाले	JJ	O	O	O
-गाने-बजाने	VM	O	O	O
-चले	VM	O	B-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मैं	PRP	O	O	O
-घड़ी	XC	O	O	O
-रात	NNP	O	O	O
-तक	RP	O	O	O
-गाय-भैंसे	NN	O	B-MISC	OCC
-दुहता	VM	O	I-MISC	O
-रहता	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसका	PRP	O	O	O
-यह	PRP	O	O	O
-पुरस्कार	NN	O	B-MISC	O
-मिल	VM	O	I-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-कोई	PRP	O	O	O
-खाने	VM	O	O	O
-को	PSP	O	O	O
-भी	RP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-पूछता	VM	O	I-MISC	O
-.	SYM	O	O	O
-उल्टे	JJ	O	O	O
-गालियां	NN	O	O	O
-मिलती	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसकी	PRP	O	O	O
-स्त्री	XC	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-से	PSP	O	O	O
-डोल	NN	O	O	OCC
-लेकर	VM	O	B-MISC	O
-निकली	VAUX	O	I-MISC	O
-और	CC	O	O	O
-बोली-	NN	O	O	O
-जरा	RB	O	O	O
-इसे	PRP	O	O	O
-कुएं	NN	O	O	O
-से	PSP	O	O	O
-खींच	VM	O	B-MISC	OCC
-लो	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एक	QC	O	O	O
-बूंद	NN	O	O	O
-पानी	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-है	VM	O	I-MISC	O
-.	SYM	O	O	O
-हरिधन	NN	O	O	O
-ने	PSP	O	O	O
-डोल	VM	O	B-MISC	OCC
-लिया	VAUX	O	I-MISC	O
-और	CC	O	O	O
-कुएं	NN	O	O	O
-से	PSP	O	O	O
-पानी	NN	O	B-MISC	O
-भर	VM	O	I-MISC	OCC
-लाया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसे	PRP	O	O	O
-जोर	NN	O	O	O
-की	PSP	O	O	O
-भूख	NN	O	O	O
-लगी	VM	O	B-MISC	OCC
-हुई	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-समझा	VM	O	O	O
-अब	PRP	O	O	O
-खाने	VM	O	O	O
-को	PSP	O	O	O
-बुलाने	VM	O	O	OCC
-आवेगी	NN	O	O	O
-;	SYM	O	O	O
-मगर	CC	O	O	O
-स्त्री	NN	O	O	O
-डोल	NN	O	O	O
-लेकर	VM	O	O	O
-अंदर	NST	O	O	O
-गयी	VM	O	B-MISC	OCC
-तो	CC	O	O	O
-वहीं	PRP	O	O	O
-की	PSP	O	O	O
-हो	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हरिधन	XC	O	O	O
-थका-मांदा	NN	O	O	O
-क्षुधा	NN	O	O	O
-से	PSP	O	O	O
-व्याकुल	XC	O	O	O
-पड़ा-पड़ा	NNP	O	O	O
-सो	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सहसा	RB	O	O	O
-उसकी	PRP	O	O	O
-स्त्री	XC	O	O	O
-गुमानी	NN	O	O	O
-ने	PSP	O	O	O
-आकर	VM	O	B-MISC	OCC
-उसे	PRP	O	O	O
-जगाया	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-हरिधन	NN	O	O	O
-ने	PSP	O	O	O
-पड़े-पड़े	JJ	O	O	O
-कहा-	NN	O	O	O
-क्या	WQ	O	O	O
-है	VM	O	B-STAT	O
-?	SYM	O	O	O
-क्या	WQ	O	O	O
-पड़ा	NNP	O	O	O
-भी	RP	O	O	O
-न	NEG	O	B-MISC	OCC
-रहने	VM	O	I-MISC	O
-देगी	VAUX	O	I-MISC	O
-या	CC	O	O	O
-और	CC	O	O	O
-पानी	NN	O	B-STAT	O
-चाहिए	VM	O	I-STAT	O
-.	SYM	O	O	O
-गुमानी	JJ	O	O	O
-कटु	XC	O	O	O
-स्वर	NN	O	O	O
-में	PSP	O	O	O
-बोली-	NN	O	O	O
-गुर्राते	VM	O	B-MISC	OCC
-क्या	WQ	O	O	O
-हो	VM	O	O	OCC
-,	SYM	O	O	O
-खाने	VM	O	O	O
-को	PSP	O	O	O
-तो	RP	O	O	O
-बुलाने	VM	O	B-MISC	OCC
-आयी	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हरिधन	NN	O	O	O
-ने	PSP	O	O	O
-देखा	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-उसके	PRP	O	O	O
-दोनों	JJ	O	O	O
-साले	NN	O	O	O
-और	CC	O	O	O
-बड़े	NNP	O	O	O
-साले	NN	O	O	O
-के	PSP	O	O	O
-दोनों	NN	O	O	O
-लड़के	NNP	O	O	O
-भोजन	NN	O	O	O
-किये	VM	O	B-MISC	OCC
-चले	VM	O	I-MISC	O
-आ	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसकी	PRP	O	O	O
-देह	NN	O	O	O
-में	PSP	O	O	O
-आग	NN	O	B-MISC	OCC
-लग	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मेरी	PRP	O	O	O
-अब	PRP	O	O	O
-यह	DEM	O	O	O
-नौबत	NN	O	O	O
-पहुंच	VM	O	B-MISC	OCC
-गयी	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इन	DEM	O	O	O
-लोगों	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-बैठकर	VM	O	B-MISC	OCC
-खा	VAUX	O	I-MISC	O
-भी	RP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-सकता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ये	DEM	O	O	O
-लोग	NN	O	O	O
-मालिक	NN	O	O	O
-हैं	VM	O	B-STAT	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-इनकी	PRP	O	O	O
-जूठी	JJ	O	O	O
-थाली	NN	O	O	O
-चाटने	VM	O	O	O
-वाला	PSP	O	O	O
-हूं	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-इनका	PRP	O	O	O
-कुत्ता	NN	O	O	O
-हूं	VM	O	O	O
-,	SYM	O	O	O
-जिसे	PRP	O	O	O
-खाने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-बाद	NST	O	O	O
-एक	QC	O	O	O
-टुकड़ा	XC	O	O	O
-रोटी	NN	O	O	O
-डाल	VM	O	B-MISC	OCC
-दी	VAUX	O	I-MISC	O
-जाती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यही	DEM	O	O	O
-घर	NN	O	O	O
-है	VM	O	O	O
-जहां	PRP	O	O	O
-आज	NN	O	O	O
-से	PSP	O	O	O
-दस	QC	B	O	O
-साल	NN	I	O	O
-पहले	NST	O	O	O
-उसका	PRP	O	O	O
-कितना	QF	O	O	O
-आदर-सत्कार	NN	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-साले	JJ	O	O	O
-गुलाम	NN	O	O	O
-बने	VM	O	B-MISC	OCC
-रहते	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सास	XC	O	O	O
-मुंह	NN	O	O	O
-जोहती	VM	O	B-MISC	OCC
-रहती	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-स्त्री	XC	O	O	O
-पूजा	NN	O	O	O
-करती	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-तब	PRP	O	O	O
-उसके	PRP	O	O	O
-पास	NST	O	O	O
-रुपये	NN	O	O	O
-थे	VM	O	B-MISC	O
-,	SYM	O	O	O
-जायदाद	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-अब	PRP	O	O	O
-वह	PRP	O	O	O
-दरिद्र	NN	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-उसकी	PRP	O	O	O
-सारी	QF	O	O	O
-जायदाद	NN	O	O	O
-को	PSP	O	O	O
-इन्हीं	DEM	O	O	O
-लोगों	NN	O	O	O
-ने	PSP	O	O	O
-कूड़ा	VM	O	B-MISC	OCC
-कर	VAUX	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-उसे	PRP	O	O	O
-रोटियों	NN	O	O	O
-के	PSP	O	O	O
-भी	RP	O	O	O
-लाले	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसके	PRP	O	O	O
-जी	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-ज्वाला-सी	NN	O	O	O
-उठी	VM	O	B-MISC	OCC
-कि	CC	O	O	O
-इसी	DEM	O	O	O
-वक्त	NN	O	O	O
-अंदर	NST	O	O	O
-जाकर	VM	O	B-MISC	OCC
-सास	NN	O	O	O
-को	PSP	O	O	O
-और	CC	O	O	O
-सालों	NN	O	O	O
-को	PSP	O	O	O
-भिगो-	NN	O	O	O
-भिगोकर	VM	O	B-STAT	OCC
-लगाये	VM	O	I-STAT	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-जब्त	JJ	O	B-MISC	OCC
-करके	VM	O	I-MISC	O
-रह	VAUX	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पड़े-पड़े	NNP	O	O	O
-बोला-	NN	O	O	O
-मुझे	PRP	O	O	O
-भूख	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-है	VM	O	I-MISC	O
-.	SYM	O	O	O
-आज	NN	O	B-MISC	O
-न	NEG	O	I-MISC	O
-खाऊंगा	VM	O	I-MISC	O
-.	SYM	O	O	O
+हरिधन
+जेठ
+की
+दुपहरी
+में
+ऊख
+में
+पानी
+देकर
+आया
+और
+बाहर
+बैठा
+रहा
+.
+घर
+में
+से
+धुआं
+उठता
+नजर
+आता
+था
+.
+छन-छन
+की
+आवाज
+भी
+आ
+रही
+थी
+.
+उसके
+दोनों
+साले
+उसके
+बाद
+आये
+और
+घर
+में
+चले
+गए
+.
+दोनों
+सालों
+के
+लड़के
+भी
+आये
+और
+उसी
+तरह
+अंदर
+दाखिल
+हो
+गये
+;
+पर
+हरिधन
+अंदर
+न
+जा
+सका
+.
+इधर
+एक
+महीने
+से
+उसके
+साथ
+यहां
+जो
+बर्ताव
+हो
+रहा
+था
+और
+विशेषकर
+कल
+उसे
+जैसी
+फटकार
+सुननी
+पड़ी
+थी
+,
+वह
+उसके
+पांव
+में
+बेड़ियां-सी
+डाले
+हुए
+था
+.
+कल
+उसकी
+सास
+ही
+ने
+तो
+कहा
+,
+था
+,
+मेरा
+जी
+तुमसे
+भर
+गया
+,
+मैं
+तुम्हारी
+जिंदगी-भर
+का
+ठीका
+लिये
+बैठी
+हूं
+क्या
+?
+और
+सबसे
+बढ़कर
+अपनी
+स्त्री
+की
+निष्ठुरता
+ने
+उसके
+हृदय
+के
+टुकड़े-टुकड़े
+कर
+दिये
+थे
+.
+वह
+बैठी
+यह
+फटकार
+सुनती
+रही
+;
+पर
+एक
+बार
+तो
+उसके
+मुंह
+से
+न
+निकला
+,
+अम्मां
+,
+तुम
+क्यों
+इनका
+अपमान
+कर
+रही
+हो
+!
+बैठी
+गट-गट
+सुनती
+रही
+.
+शायद
+मेरी
+दुर्गति
+पर
+खुश
+हो
+रही
+थी
+.
+इस
+घर
+में
+वह
+कैसे
+जाय
+?
+क्या
+फिर
+वही
+गालियां
+खाने
+,
+वही
+फटकार
+सुनने
+के
+लिए
+?
+और
+आज
+इस
+घर
+में
+जीवन
+के
+दस
+साल
+गुजर
+जाने
+पर
+यह
+हाल
+हो
+रहा
+है
+.
+मैं
+किसी
+से
+कम
+काम
+करता
+हूं
+?
+दोनों
+साले
+मीठी
+नींद
+सो
+रहते
+हैं
+और
+मैं
+बैलों
+को
+सानी-पानी
+देता
+हूं
+;
+छांटी
+काटता
+हूं
+.
+वहां
+सब
+लोग
+पल-पल
+पर
+चिलम
+पीते
+हैं
+,
+मैं
+आंखें
+बन्द
+किये
+अपने
+काम
+में
+लगा
+रहता
+हूं
+.
+संध्या
+समय
+घरवाले
+गाने-बजाने
+चले
+जाते
+हैं
+,
+मैं
+घड़ी
+रात
+तक
+गाय-भैंसे
+दुहता
+रहता
+हूं
+.
+उसका
+यह
+पुरस्कार
+मिल
+रहा
+है
+कि
+कोई
+खाने
+को
+भी
+नहीं
+पूछता
+.
+उल्टे
+गालियां
+मिलती
+हैं
+.
+उसकी
+स्त्री
+घर
+में
+से
+डोल
+लेकर
+निकली
+और
+बोली-
+जरा
+इसे
+कुएं
+से
+खींच
+लो
+.
+एक
+बूंद
+पानी
+नहीं
+है
+.
+हरिधन
+ने
+डोल
+लिया
+और
+कुएं
+से
+पानी
+भर
+लाया
+.
+उसे
+जोर
+की
+भूख
+लगी
+हुई
+थी
+,
+समझा
+अब
+खाने
+को
+बुलाने
+आवेगी
+;
+मगर
+स्त्री
+डोल
+लेकर
+अंदर
+गयी
+तो
+वहीं
+की
+हो
+रही
+.
+हरिधन
+थका-मांदा
+क्षुधा
+से
+व्याकुल
+पड़ा-पड़ा
+सो
+गया
+.
+सहसा
+उसकी
+स्त्री
+गुमानी
+ने
+आकर
+उसे
+जगाया
+.
+हरिधन
+ने
+पड़े-पड़े
+कहा-
+क्या
+है
+?
+क्या
+पड़ा
+भी
+न
+रहने
+देगी
+या
+और
+पानी
+चाहिए
+.
+गुमानी
+कटु
+स्वर
+में
+बोली-
+गुर्राते
+क्या
+हो
+,
+खाने
+को
+तो
+बुलाने
+आयी
+हूं
+.
+हरिधन
+ने
+देखा
+,
+उसके
+दोनों
+साले
+और
+बड़े
+साले
+के
+दोनों
+लड़के
+भोजन
+किये
+चले
+आ
+रहे
+थे
+.
+उसकी
+देह
+में
+आग
+लग
+गयी
+.
+मेरी
+अब
+यह
+नौबत
+पहुंच
+गयी
+कि
+इन
+लोगों
+के
+साथ
+बैठकर
+खा
+भी
+नहीं
+सकता
+.
+ये
+लोग
+मालिक
+हैं
+.
+मैं
+इनकी
+जूठी
+थाली
+चाटने
+वाला
+हूं
+.
+मैं
+इनका
+कुत्ता
+हूं
+,
+जिसे
+खाने
+के
+बाद
+एक
+टुकड़ा
+रोटी
+डाल
+दी
+जाती
+है
+.
+यही
+घर
+है
+जहां
+आज
+से
+दस
+साल
+पहले
+उसका
+कितना
+आदर-सत्कार
+होता
+था
+.
+साले
+गुलाम
+बने
+रहते
+थे
+.
+सास
+मुंह
+जोहती
+रहती
+थी
+.
+स्त्री
+पूजा
+करती
+थी
+.
+तब
+उसके
+पास
+रुपये
+थे
+,
+जायदाद
+थी
+.
+अब
+वह
+दरिद्र
+है
+,
+उसकी
+सारी
+जायदाद
+को
+इन्हीं
+लोगों
+ने
+कूड़ा
+कर
+दिया
+.
+अब
+उसे
+रोटियों
+के
+भी
+लाले
+हैं
+.
+उसके
+जी
+में
+एक
+ज्वाला-सी
+उठी
+कि
+इसी
+वक्त
+अंदर
+जाकर
+सास
+को
+और
+सालों
+को
+भिगो-
+भिगोकर
+लगाये
+;
+पर
+जब्त
+करके
+रह
+गया
+.
+पड़े-पड़े
+बोला-
+मुझे
+भूख
+नहीं
+है
+.
+आज
+न
+खाऊंगा
+.

@@ -1,327 +1,327 @@
-डायरेक्ट	XC	O	O	O
-टैक्स	XC	O	O	O
-रिफॉर्म	NNP	O	O	O
-पर	PSP	O	O	O
-टास्क	NN	O	O	O
-फोर्स	NN	O	O	O
-की	PSP	O	O	O
-सिफारिशों	NN	O	O	O
-को	PSP	O	O	O
-लागू	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-में	PSP	O	O	O
-देरी	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सूत्रों	NN	O	O	O
-ने	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-कि	CC	O	O	O
-न्यू	XC	O	O	O
-डायरेक्ट	XC	O	O	O
-टैक्स	XC	O	O	O
-कोड	NNP	O	O	O
-(	SYM	O	O	O
-DTC	NN	O	O	O
-)	SYM	O	O	O
-पर	PSP	O	O	O
-टास्क	NN	O	O	O
-फोर्स	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-सौंपी	VM	O	B-STAT	DES
-गई	VAUX	O	I-STAT	O
-रिपोर्ट	NN	O	O	O
-की	PSP	O	O	O
-सिफारिशों	NN	O	O	O
-को	PSP	O	O	O
-लागू	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-की	PSP	O	O	O
-अवधि	NN	O	O	O
-को	PSP	O	O	O
-एक	QC	B	O	O
-साल	NN	I	O	O
-तक	RP	O	O	O
-टाला	VM	O	B-MISC	OCC
-जा	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसका	PRP	O	O	O
-मतलब	NN	O	O	O
-है	VM	O	O	O
-कि	CC	O	O	O
-टास्क	NN	O	O	O
-फोर्स	NN	O	O	O
-ने	PSP	O	O	O
-इनकम	DEM	O	O	O
-टैक्स	NN	O	O	O
-के	PSP	O	O	O
-स्लैब	NN	O	O	O
-और	CC	O	O	O
-दरों	NN	O	O	O
-में	PSP	O	O	O
-बदलाव	NN	O	O	O
-की	PSP	O	O	O
-जो	PRP	O	O	O
-सिफारिशें	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उसका	PRP	O	O	O
-लाभ	NN	O	O	O
-अगले	JJ	O	O	O
-वित्त	JJ	O	O	O
-वर्ष	NN	O	O	O
-में	PSP	O	O	O
-टैक्सपेयर्स	NN	O	O	O
-को	PSP	O	O	O
-शायद	RB	O	O	O
-मिल	VM	O	B-MISC	OCC
-ना	NEG	O	I-MISC	O
-पाए	VM	O	I-MISC	O
-.	SYM	O	O	O
-सरकार	NN	O	O	O
-ने	PSP	O	O	O
-फिलहाल	RB	O	O	O
-डायरेक्ट	XC	O	O	O
-टैक्स	NN	O	O	O
-रिफॉर्म	NN	O	O	O
-पर	PSP	O	O	O
-सिफारिशों	NN	O	O	O
-का	PSP	O	O	O
-वित्तीय	JJ	O	O	O
-नजरिए	NN	O	O	O
-से	PSP	O	O	O
-आकलन	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-रेवेन्यू	XC	O	O	O
-डिपार्टमेंट	NNP	O	O	O
-को	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-डिपार्टमेंट	NN	O	O	O
-यह	DEM	O	O	O
-अनुमान	NN	O	O	O
-लगाएगा	VM	O	B-MISC	O
-कि	CC	O	O	O
-टास्क	NN	O	O	O
-फोर्स	NN	O	O	O
-की	PSP	O	O	O
-सिफारिशें	NN	O	O	O
-लागू	JJ	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-से	PSP	O	O	O
-सरकारी	JJ	O	O	O
-खजाने	NN	O	O	O
-पर	PSP	O	O	O
-कितना	QF	O	O	O
-बोझ	NN	O	O	O
-बढ़ेगा	VM	O	B-MISC	OCC
-और	CC	O	O	O
-क्या	WQ	O	O	O
-यह	DEM	O	O	O
-बोझ	NN	O	O	O
-सरकार	NN	O	O	OCC
-उठा	VM	O	B-MISC	O
-पाएगी	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-इस	DEM	O	O	O
-आकलन	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-यह	DEM	O	O	O
-फैसला	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-टास्क	NN	O	O	O
-फोर्स	NN	O	O	O
-की	PSP	O	O	O
-सिफारिशों	NN	O	O	O
-को	PSP	O	O	O
-लागू	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जाए	VAUX	O	I-MISC	O
-या	CC	O	O	O
-नहीं	NEG	O	O	O
-.	SYM	O	O	O
-एक	QC	O	O	O
-सरकारी	JJ	O	O	O
-अधिकारी	NN	O	O	O
-के	PSP	O	O	O
-अनुसार	PSP:?	O	O	O
-इकॉनमी	NN	O	O	O
-में	PSP	O	O	O
-स्लोडाउन	NN	O	O	O
-के	PSP	O	O	O
-दौर	NN	O	O	O
-में	PSP	O	O	O
-सरकार	NN	O	O	O
-ऐसे	DEM	O	O	O
-कदम	NN	O	O	O
-नहीं	NEG	O	B-MISC	O
-उठाना	VM	O	I-MISC	O
-चाहती	VAUX	O	I-MISC	O
-जिनसे	PRP	O	O	O
-सरकारी	JJ	O	O	O
-खजाने	NN	O	O	O
-पर	PSP	O	O	O
-अतिरिक्त	JJ	O	O	O
-बोझ	NN	O	O	O
-पड़े	NN	O	O	O
-.	SYM	O	O	O
-अभी	RDP	O	O	O
-सरकार	NN	O	O	O
-का	PSP	O	O	O
-जोर	NN	O	O	O
-कई	QF	O	O	O
-सेक्टर्स	NN	O	O	O
-में	PSP	O	O	O
-मंदी	NN	O	O	O
-को	PSP	O	O	O
-समाप्त	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-सरकार	NN	O	O	O
-को	PSP	O	O	O
-अतिरिक्त	JJ	O	O	O
-खर्च	NN	O	O	O
-भी	RP	O	O	O
-करना	VM	O	B-MISC	OCC
-पड़	NN	O	I-MISC	O
-रहा	VM	O	I-MISC	DECL
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-डायरेक्ट	XC	O	O	O
-टैक्स	NN	O	O	O
-पर	PSP	O	O	O
-गठित	JJ	O	O	O
-टास्क	NN	O	O	O
-फोर्स	NN	O	O	O
-ने	PSP	O	O	O
-पिछले	JJ	B	O	O
-महीने	NN	I	O	O
-वित्त	JJ	O	O	O
-मंत्रालय	NN	O	O	O
-को	PSP	O	O	O
-न्यू	XC	O	O	O
-डायरेक्ट	XC	O	O	O
-टैक्स	XC	O	O	O
-कोड	NNP	O	O	O
-पर	PSP	O	O	O
-अपनी	PRP	O	O	O
-रिपोर्ट	NN	O	O	O
-सौंपी	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-इस	DEM	O	O	O
-पर	PSP	O	O	O
-सरकार	NN	O	O	O
-की	PSP	O	O	O
-मुहर	NN	O	B-MISC	OCC
-लग	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-यह	PRP	O	O	O
-मौजूदा	JJ	O	O	O
-इनकम	DEM	O	O	O
-टैक्स	NN	O	O	O
-ऐक्ट	NN	O	O	O
-की	PSP	O	O	O
-जगह	NN	O	O	OCC
-ले	VM	O	B-MISC	O
-लेगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मौजूदा	JJ	O	O	O
-इनकम	DEM	O	O	O
-टैक्स	NN	O	O	O
-ऐक्ट	NN	O	O	O
-58	QC	O	O	O
-साल	NN	O	O	O
-पुराना	JJ	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-टास्क	XC	O	O	O
-फोर्स	NN	O	O	O
-ने	PSP	O	O	O
-इनकम	DEM	O	O	O
-टैक्स	NN	O	O	O
-छूट	NN	O	O	O
-की	PSP	O	O	O
-मौजूदा	NN	O	O	O
-2.5	QC	O	O	O
-लाख	QC	O	O	O
-रुपये	NN	O	O	O
-की	PSP	O	O	O
-सीमा	NN	O	O	O
-बढ़ाने	NN	O	O	O
-का	PSP	O	O	O
-फैसला	NN	O	B-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-लेकिन	CC	O	O	O
-उसने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-टैक्सेबल	NN	O	O	O
-इनकम	NN	O	O	O
-को	PSP	O	O	O
-5	QC	O	O	O
-लाख	QC	O	O	O
-रुपये	NN	O	O	O
-से	PSP	O	O	O
-बढ़ाकर	VM	O	O	OCC
-6	QC	O	O	O
-लाख	QC	O	O	O
-रुपये	NN	O	O	O
-कर	VM	O	B-MISC	OCC
-देना	VAUX	O	I-MISC	O
-चहिए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसका	PRP	O	O	O
-मतलब	NN	O	O	O
-है	VM	O	O	O
-कि	CC	O	O	O
-निवेश	NN	O	O	O
-तथा	CC	O	O	O
-अन्य	JJ	O	O	O
-छूटों	NN	O	O	O
-को	PSP	O	O	O
-लेने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-बाद	NST	O	O	O
-अगर	CC	O	O	O
-किसी	PRP	O	O	O
-की	PSP	O	O	O
-सालाना	NN	O	O	O
-आमदनी	JJ	O	O	O
-6	QC	O	O	O
-लाख	QC	O	O	O
-रुपये	NN	O	O	O
-बनती	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-उस	PRP	O	O	O
-पर	PSP	O	O	O
-कोई	PRP	O	O	O
-इनकम	DEM	O	O	O
-टैक्स	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-लगेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
+डायरेक्ट
+टैक्स
+रिफॉर्म
+पर
+टास्क
+फोर्स
+की
+सिफारिशों
+को
+लागू
+करने
+में
+देरी
+हो
+सकती
+है
+.
+सूत्रों
+ने
+बताया
+कि
+न्यू
+डायरेक्ट
+टैक्स
+कोड
+(
+DTC
+)
+पर
+टास्क
+फोर्स
+की
+ओर
+से
+सौंपी
+गई
+रिपोर्ट
+की
+सिफारिशों
+को
+लागू
+करने
+की
+अवधि
+को
+एक
+साल
+तक
+टाला
+जा
+सकता
+है
+.
+इसका
+मतलब
+है
+कि
+टास्क
+फोर्स
+ने
+इनकम
+टैक्स
+के
+स्लैब
+और
+दरों
+में
+बदलाव
+की
+जो
+सिफारिशें
+की
+हैं
+,
+उसका
+लाभ
+अगले
+वित्त
+वर्ष
+में
+टैक्सपेयर्स
+को
+शायद
+मिल
+ना
+पाए
+.
+सरकार
+ने
+फिलहाल
+डायरेक्ट
+टैक्स
+रिफॉर्म
+पर
+सिफारिशों
+का
+वित्तीय
+नजरिए
+से
+आकलन
+करने
+के
+लिए
+रेवेन्यू
+डिपार्टमेंट
+को
+कहा
+है
+.
+डिपार्टमेंट
+यह
+अनुमान
+लगाएगा
+कि
+टास्क
+फोर्स
+की
+सिफारिशें
+लागू
+होने
+से
+सरकारी
+खजाने
+पर
+कितना
+बोझ
+बढ़ेगा
+और
+क्या
+यह
+बोझ
+सरकार
+उठा
+पाएगी
+?
+इस
+आकलन
+के
+बाद
+यह
+फैसला
+किया
+जाएगा
+कि
+टास्क
+फोर्स
+की
+सिफारिशों
+को
+लागू
+किया
+जाए
+या
+नहीं
+.
+एक
+सरकारी
+अधिकारी
+के
+अनुसार
+इकॉनमी
+में
+स्लोडाउन
+के
+दौर
+में
+सरकार
+ऐसे
+कदम
+नहीं
+उठाना
+चाहती
+जिनसे
+सरकारी
+खजाने
+पर
+अतिरिक्त
+बोझ
+पड़े
+.
+अभी
+सरकार
+का
+जोर
+कई
+सेक्टर्स
+में
+मंदी
+को
+समाप्त
+करने
+पर
+है
+.
+इसके
+लिए
+सरकार
+को
+अतिरिक्त
+खर्च
+भी
+करना
+पड़
+रहा
+है
+.
+डायरेक्ट
+टैक्स
+पर
+गठित
+टास्क
+फोर्स
+ने
+पिछले
+महीने
+वित्त
+मंत्रालय
+को
+न्यू
+डायरेक्ट
+टैक्स
+कोड
+पर
+अपनी
+रिपोर्ट
+सौंपी
+है
+.
+अगर
+इस
+पर
+सरकार
+की
+मुहर
+लग
+गई
+तो
+यह
+मौजूदा
+इनकम
+टैक्स
+ऐक्ट
+की
+जगह
+ले
+लेगा
+.
+मौजूदा
+इनकम
+टैक्स
+ऐक्ट
+58
+साल
+पुराना
+है
+.
+इस
+टास्क
+फोर्स
+ने
+इनकम
+टैक्स
+छूट
+की
+मौजूदा
+2.5
+लाख
+रुपये
+की
+सीमा
+बढ़ाने
+का
+फैसला
+नहीं
+किया
+है
+लेकिन
+उसने
+कहा
+है
+कि
+टैक्सेबल
+इनकम
+को
+5
+लाख
+रुपये
+से
+बढ़ाकर
+6
+लाख
+रुपये
+कर
+देना
+चहिए
+.
+इसका
+मतलब
+है
+कि
+निवेश
+तथा
+अन्य
+छूटों
+को
+लेने
+के
+बाद
+अगर
+किसी
+की
+सालाना
+आमदनी
+6
+लाख
+रुपये
+बनती
+है
+तो
+उस
+पर
+कोई
+इनकम
+टैक्स
+नहीं
+लगेगा
+.

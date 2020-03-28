@@ -1,255 +1,255 @@
-मध्य	XC	O	O	O
-प्रदेश	NNP	O	O	O
-के	PSP	O	O	O
-मुख्यमंत्री	JJ	O	O	O
-कमलनाथ	NN	O	O	O
-ने	PSP	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-वोट	NN	O	B-MISC	O
-लेने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-भारतीय	JJ	O	O	O
-जनता	NN	O	O	O
-पार्टी	NN	O	O	O
-(	SYM	O	O	O
-बीजेपी	NNP	O	O	O
-)	SYM	O	O	O
-भावनाओं	NN	O	O	O
-को	PSP	O	O	O
-भडकाती	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-कहा	VM	O	B-MISC	OCC
-जाता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-‘	NN	O	O	O
-हिंदू	JJ	O	O	O
-धर्म	NN	O	O	O
-खतरे	NN	O	O	O
-में	PSP	O	O	O
-है	VM	O	B-STAT	O
-’	NN	O	I-STAT	O
-.	SYM	O	O	O
-राज्य	NN	O	O	O
-की	PSP	O	O	O
-झाबुआ	NN	O	O	O
-विधानसभा	JJ	O	O	O
-सीट	NN	O	O	O
-के	PSP	O	O	O
-उपचुनाव	NN	O	O	O
-में	PSP	O	O	O
-कांग्रेस	XC	O	O	O
-उम्मीदवार	NN	O	O	O
-कांतिलाल	XC	O	O	O
-भूरिया	NNP	O	O	O
-के	PSP	O	O	O
-समर्थन	NN	O	O	O
-में	PSP	O	O	O
-आयोजित	JJ	O	O	O
-रोड	XC	O	O	O
-शो	NN	O	O	O
-में	PSP	O	O	O
-मुख्यमंत्री	JJ	O	O	O
-कमलनाथ	NN	O	O	O
-ने	PSP	O	O	O
-हिस्सा	NN	O	B-MISC	O
-लिया	VM	O	I-MISC	O
-और	CC	O	O	O
-उसके	PRP	O	O	O
-बाद	NST	O	O	O
-एक	QC	O	O	O
-जनसभा	NN	O	O	O
-को	PSP	O	O	O
-संबोधित	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-कमलनाथ	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘	XC	O	O	O
-बीजेपी	NNP	O	O	O
-ने	PSP	O	O	O
-जो	PRP	O	O	O
-काम	NN	O	O	O
-15	QC	O	O	O
-सालों	NN	O	O	O
-में	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-किए	VM	O	I-MISC	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-काम	NN	O	O	O
-कांग्रेस	NN	O	O	O
-की	PSP	O	O	O
-सरकार	NN	O	O	O
-15	QC	B	O	O
-माह	NN	I	O	O
-में	PSP	O	O	O
-कर	VM	O	B-MISC	OCC
-दिखाएगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बीते	JJ	B	O	O
-आठ	QC	I	O	O
-महीने	NN	I	O	O
-इस	DEM	O	O	O
-बात	NN	O	O	O
-की	PSP	O	O	O
-गवाही	NN	O	B-MISC	O
-देते	VM	O	I-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-चुनाव	NN	O	O	O
-से	PSP	O	O	O
-पहले	NST	O	O	O
-जो	PRP	O	O	O
-वादे	NN	O	B-MISC	OCC
-किए	VAUX	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-चाहे	CC:?	O	O	O
-किसान	NN	O	O	O
-कर्जमाफी	NN	O	O	O
-हो	VM	O	O	O
-,	SYM	O	O	O
-सामाजिक	JJ	O	O	O
-सुरक्षा	XC	O	O	O
-पेंशन	NN	O	O	O
-हो	VM	O	O	O
-,	SYM	O	O	O
-सभी	QF	O	O	O
-को	PSP	O	O	O
-पूरा	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’	NN	O	O	O
-उन्होंने	PRP	O	O	O
-आगे	NST	O	O	O
-कहा	VM	O	B-MISC	O
-,	SYM	O	O	O
-‘	XC	O	O	O
-बीजेपी	NNP	O	O	O
-का	PSP	O	O	O
-काम	NN	O	O	O
-सिर्फ	RB	O	O	O
-झूठ	NN	O	B-MISC	OCC
-बोलना	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इनका	PRP	O	O	O
-तो	RP	O	O	O
-मुंह	NN	O	O	O
-बहुत	QF	O	O	O
-चलता	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सिर्फ	RB	O	O	O
-बोलते	VM	O	B-MISC	OCC
-जाएंगे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-गुमराह	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-जाएंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भावनाएं	NN	O	O	O
-बहाएंगे	VM	O	B-MISC	OCC
-और	CC	O	O	O
-कहेंगे	VM	O	B-MISC	O
-कि	CC	O	O	O
-हिदू	XC	O	O	O
-धर्म	XC	O	O	O
-खतरे	NN	O	O	O
-में	PSP	O	O	O
-है	VM	O	B-STAT	O
-और	CC	O	O	O
-आगे	NST	O	O	O
-कुछ	QF	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-बताएंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-इनकी	PRP	O	O	O
-ध्यान	NN	O	B-MISC	O
-मोडने	VM	O	I-MISC	O
-की	PSP	O	O	O
-राजनीति	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-वे	PRP	O	O	O
-सच्चाई	NN	O	O	O
-से	PSP	O	O	O
-आपका	PRP	O	O	O
-ध्यान	NN	O	B-MISC	OCC
-मोडना	VM	O	I-MISC	O
-चाहते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’	NN	O	O	O
-आपको	PRP	O	O	O
-बता	VM	O	B-MISC	OCC
-दें	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-झाबुआ	NN	O	O	O
-में	PSP	O	O	O
-21	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-उपचुनाव	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-मतदान	NN	O	B-MISC	OCC
-होना	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कांग्रेस	NN	O	O	O
-ने	PSP	O	O	O
-यहां	PRP	O	O	O
-से	PSP	O	O	O
-पूर्व	NST	O	O	O
-केंद्रीय	XC	O	O	O
-मंत्री	NN	O	O	O
-कांतिलाल	XC	O	O	O
-भूरिया	NNP	O	O	O
-को	PSP	O	O	O
-उम्मीदवार	NN	O	B-MISC	O
-बनाया	VM	O	I-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-,	SYM	O	O	O
-बीजेपी	NNP	O	O	O
-ने	PSP	O	O	O
-भानु	XC	O	O	O
-भूरिया	NNP	O	O	O
-को	PSP	O	O	O
-मैदान	NN	O	O	O
-में	PSP	O	O	O
-उतारा	VM	O	B-STAT	OCC
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-यहां	PRP	O	O	O
-के	PSP	O	O	O
-विधायक	JJ	O	O	O
-रहे	VM	O	O	O
-जी	RP	O	O	O
-.	SYM	O	O	O
-एस	QC	O	O	O
-.	SYM	O	O	O
-डामोर	NNP	O	O	O
-के	PSP	O	O	O
-सांसद	NN	O	O	O
-निर्वाचित	JJ	O	B-MISC	O
-होने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-यहां	PRP	O	O	O
-उपचुनाव	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+मध्य
+प्रदेश
+के
+मुख्यमंत्री
+कमलनाथ
+ने
+बुधवार
+को
+कहा
+कि
+वोट
+लेने
+के
+लिए
+भारतीय
+जनता
+पार्टी
+(
+बीजेपी
+)
+भावनाओं
+को
+भडकाती
+है
+और
+कहा
+जाता
+है
+कि
+‘
+हिंदू
+धर्म
+खतरे
+में
+है
+’
+.
+राज्य
+की
+झाबुआ
+विधानसभा
+सीट
+के
+उपचुनाव
+में
+कांग्रेस
+उम्मीदवार
+कांतिलाल
+भूरिया
+के
+समर्थन
+में
+आयोजित
+रोड
+शो
+में
+मुख्यमंत्री
+कमलनाथ
+ने
+हिस्सा
+लिया
+और
+उसके
+बाद
+एक
+जनसभा
+को
+संबोधित
+किया
+.
+कमलनाथ
+ने
+कहा
+,
+‘
+बीजेपी
+ने
+जो
+काम
+15
+सालों
+में
+नहीं
+किए
+,
+वह
+काम
+कांग्रेस
+की
+सरकार
+15
+माह
+में
+कर
+दिखाएगी
+.
+बीते
+आठ
+महीने
+इस
+बात
+की
+गवाही
+देते
+हैं
+.
+चुनाव
+से
+पहले
+जो
+वादे
+किए
+गए
+,
+चाहे
+किसान
+कर्जमाफी
+हो
+,
+सामाजिक
+सुरक्षा
+पेंशन
+हो
+,
+सभी
+को
+पूरा
+किया
+गया
+.
+’
+उन्होंने
+आगे
+कहा
+,
+‘
+बीजेपी
+का
+काम
+सिर्फ
+झूठ
+बोलना
+है
+.
+इनका
+तो
+मुंह
+बहुत
+चलता
+है
+.
+सिर्फ
+बोलते
+जाएंगे
+,
+गुमराह
+करते
+जाएंगे
+.
+भावनाएं
+बहाएंगे
+और
+कहेंगे
+कि
+हिदू
+धर्म
+खतरे
+में
+है
+और
+आगे
+कुछ
+नहीं
+बताएंगे
+.
+यह
+इनकी
+ध्यान
+मोडने
+की
+राजनीति
+है
+.
+वे
+सच्चाई
+से
+आपका
+ध्यान
+मोडना
+चाहते
+हैं
+.
+’
+आपको
+बता
+दें
+कि
+झाबुआ
+में
+21
+अक्टूबर
+को
+उपचुनाव
+के
+लिए
+मतदान
+होना
+है
+.
+कांग्रेस
+ने
+यहां
+से
+पूर्व
+केंद्रीय
+मंत्री
+कांतिलाल
+भूरिया
+को
+उम्मीदवार
+बनाया
+है
+.
+वहीं
+,
+बीजेपी
+ने
+भानु
+भूरिया
+को
+मैदान
+में
+उतारा
+है
+.
+यहां
+के
+विधायक
+रहे
+जी
+.
+एस
+.
+डामोर
+के
+सांसद
+निर्वाचित
+होने
+पर
+यहां
+उपचुनाव
+हो
+रहा
+है
+.

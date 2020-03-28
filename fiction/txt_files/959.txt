@@ -1,353 +1,353 @@
-जोखू	NN	O	O	O
-ने	PSP	O	O	O
-लोटा	NN	O	O	O
-मुंह	NN	O	O	O
-से	PSP	O	O	O
-लगाया	VM	O	B-MISC	O
-तो	CC	O	O	O
-पानी	NN	O	O	O
-में	PSP	O	O	O
-सख्त	JJ	O	O	O
-बदबू	NN	O	O	O
-आयी	VM	O	B-MISC	O
-.	SYM	O	O	O
-गंगी	NN	O	O	O
-से	PSP	O	O	O
-बोला-	JJ	O	O	O
-यह	PRP	O	O	O
-कैसा	WQ	O	O	O
-पानी	NN	O	O	O
-है	VM	O	B-STAT	O
-?	SYM	O	O	O
-मारे	VM	O	O	O
-बास	NN	O	O	O
-के	PSP	O	O	O
-पिया	VM	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-जाता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-गला	NN	O	B-MISC	O
-सूखा	VM	O	I-MISC	OCC
-जा	VAUX	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-तू	PRP	O	O	O
-सड़ा	JJ	O	O	O
-पानी	NN	O	O	O
-पिलाये	VM	O	B-MISC	OCC
-देती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-!	SYM	O	O	O
-गंगी	NN	O	O	O
-प्रतिदिन	NN	O	O	O
-शाम	NN	O	O	O
-पानी	NN	O	O	O
-भर	VM	O	B-MISC	OCC
-लिया	VAUX	O	I-MISC	O
-करती	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कुआं	NN	O	O	O
-दूर	NST	O	O	O
-था	VM	O	O	O
-,	SYM	O	O	O
-बार-बार	NN	O	O	O
-जाना	VM	O	O	O
-मुश्किल	JJ	O	B-STAT	O
-था	VM	O	I-STAT	O
-.	SYM	O	O	O
-कल	NN	O	O	O
-वह	PRP	O	O	O
-पानी	NN	O	O	O
-लायी	VM	O	O	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-उसमें	PRP	O	O	O
-बू	RP	O	O	O
-बिलकुल	RB	O	O	O
-न	NEG	O	O	O
-थी	VM	O	B-STAT	O
-,	SYM	O	O	O
-आज	NN	O	O	O
-पानी	NN	O	O	O
-में	PSP	O	O	O
-बदबू	NN	O	O	O
-कैसी	WQ	O	O	O
-!	SYM	O	O	O
-लोटा	XC	O	O	O
-नाक	NN	O	O	O
-से	PSP	O	O	O
-लगाया	VM	O	O	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-सचमुच	RB	O	O	O
-बदबू	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-जरुर	NN	O	O	O
-कोई	PRP	O	O	O
-जानवर	NN	O	O	O
-कुएं	NN	O	O	O
-में	PSP	O	O	O
-गिरकर	VM	O	B-MISC	O
-मर	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-होगा	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मगर	CC	O	O	O
-दूसरा	QO	O	O	O
-पानी	NN	O	O	O
-आवे	VM	O	O	OCC
-कहां	WQ	O	O	O
-से	PSP	O	O	O
-?	SYM	O	O	O
-ठाकुर	NNP	O	O	O
-के	PSP	O	O	O
-कुएं	NN	O	O	O
-पर	PSP	O	O	O
-कौन	WQ	O	O	O
-चढ़ने	VM	O	B-MISC	OCC
-देगा	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-दूर	NST	O	O	O
-से	PSP	O	O	O
-लोग	NN	O	O	O
-डांट	NN	O	B-MISC	O
-बतायेंगे	VM	O	I-MISC	OCC
-.	SYM	O	O	O
-साहू	NN	O	O	O
-का	PSP	O	O	O
-कुआं	NN	O	O	O
-गांव	NN	O	O	O
-के	PSP	O	O	O
-उस	DEM	O	O	O
-सिरे	NN	O	O	O
-पर	PSP	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-परंतु	CC	O	O	O
-वहां	PRP	O	O	O
-भी	RP	O	O	O
-कौन	WQ	O	O	O
-पानी	NN	O	B-MISC	OCC
-भरने	VM	O	I-MISC	O
-देगा	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-कोई	PRP	O	O	O
-तीसरा	QO	O	O	O
-कुआं	NN	O	O	O
-गांव	NN	O	O	O
-में	PSP	O	O	O
-है	VM	O	B-STAT	DECL
-नहीं	NEG	O	I-STAT	O
-.	SYM	O	O	O
-जोखू	NN	O	O	O
-कई	QF	B	O	O
-दिन	NN	I	O	O
-से	PSP	O	O	O
-बीमार	JJ	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-कुछ	QF	O	O	O
-देर	NN	O	O	O
-तक	RP	O	O	O
-तो	RP	O	O	O
-प्यास	NN	O	O	O
-रोके	VM	O	O	O
-चुप	JJ	O	O	O
-पड़ा	XC	O	O	O
-रहा	NNP	O	O	O
-,	SYM	O	O	O
-फिर	RB	O	O	O
-बोला-	NN	O	O	O
-अब	PRP	O	O	O
-तो	RP	O	O	O
-मारे	VM	O	O	O
-प्यास	NN	O	O	OCC
-के	PSP	O	O	O
-रहा	VAUX	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-जाता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ला	XC	O	O	O
-,	SYM	O	O	O
-थोड़ा	RDP	O	O	O
-पानी	NN	O	O	O
-नाक	NN	O	O	OCC
-बंद	JJ	O	B-MISC	O
-करके	VM	O	I-MISC	O
-पी	XC	O	O	O
-लूं	NNP	O	O	O
-.	SYM	O	O	O
-गंगी	NN	O	O	O
-ने	PSP	O	O	O
-पानी	NN	O	B-MISC	O
-न	NEG	O	I-MISC	OCC
-दिया	VM	O	I-MISC	O
-.	SYM	O	O	O
-खराब	JJ	O	O	O
-पानी	NN	O	O	O
-से	PSP	O	O	O
-बीमारी	NN	O	O	O
-बढ़	NN	O	O	O
-जायगी	NN	O	O	O
-इतना	QF	O	O	O
-जानती	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-परंतु	CC	O	O	O
-यह	PRP	O	O	O
-न	NEG	O	B-MISC	O
-जानती	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-पानी	NN	O	O	O
-को	PSP	O	O	O
-उबाल	NN	O	B-MISC	O
-देने	VM	O	I-MISC	O
-से	PSP	O	O	O
-उसकी	PRP	O	O	O
-खराबी	NN	O	B-MISC	OCC
-जाती	VM	O	I-MISC	O
-रहती	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बोली-	NN	O	O	O
-यह	DEM	O	O	O
-पानी	NN	O	O	O
-कैसे	WQ	O	O	O
-पियोगे	VM	O	O	O
-?	SYM	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-जाने	VM	O	I-MISC	O
-कौन	WQ	O	O	O
-जानवर	NN	O	B-MISC	O
-मरा	VM	O	I-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कुएं	NN	O	O	O
-से	PSP	O	O	O
-मैं	PRP	O	O	O
-दूसरा	QO	O	O	O
-पानी	NN	O	O	O
-लाये	VM	O	B-MISC	OCC
-देती	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जोखू	NN	O	O	O
-ने	PSP	O	O	O
-आश्चर्य	NN	O	O	O
-से	PSP	O	O	O
-उसकी	PRP	O	O	O
-ओर	NST	O	O	O
-देखा-	JJ	O	O	O
-पानी	NN	O	O	O
-कहां	WQ	O	O	O
-से	PSP	O	O	O
-लायेगी	VM	O	B-MISC	OCC
-?	SYM	O	O	O
-ठाकुर	NNP	O	O	O
-और	CC	O	O	O
-साहू	NN	O	O	O
-के	PSP	O	O	O
-दो	QC	O	O	O
-कुएं	NN	O	O	O
-तो	RP	O	O	O
-हैं	VM	O	B-STAT	O
-.	SYM	O	O	O
-क्या	WQ	O	O	O
-एक	QC	O	O	O
-लोटा	NN	O	O	O
-पानी	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-भरने	VM	O	I-MISC	O
-देंगे	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-'	SYM	O	O	O
-हाथ-पांव	NN	O	O	O
-तुड़वा	VM	O	B-MISC	OCC
-आयेगी	VM	O	I-MISC	O
-और	CC	O	O	O
-कुछ	PRP	O	O	O
-न	NEG	O	B-MISC	OCC
-होगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-बैठ	VM	O	B-MISC	O
-चुपके	VAUX	O	I-MISC	O
-से	PSP	O	O	O
-.	SYM	O	O	O
-ब्रह्म-देवता	XC	O	O	O
-आशीर्वाद	NN	O	O	O
-देंगे	VM	O	O	O
-,	SYM	O	O	O
-ठाकुर	XC	O	O	O
-लाठी	NN	O	O	O
-मारेगें	VM	O	O	O
-,	SYM	O	O	O
-साहूजी	NN	O	O	O
-एक	QC	O	O	O
-के	PSP	O	O	O
-पांच	QC	O	O	O
-लेंगे	VM	O	B-MISC	O
-.	SYM	O	O	O
-गरीबों	NN	O	O	O
-का	PSP	O	O	O
-दर्द	NN	O	O	O
-कौन	WQ	O	O	O
-समझता	VM	O	B-MISC	O
-है	VAUX	O	I-MISC	O
-!	SYM	O	O	O
-हम	PRP	O	O	O
-तो	RP	O	O	O
-मर	VM	O	B-MISC	OCC
-भी	RP	O	O	O
-जाते	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-कोई	PRP	O	O	O
-दुआर	NN	O	O	O
-पर	PSP	O	O	O
-झांकने	VM	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-आता	VM	O	I-MISC	O
-,	SYM	O	O	O
-कंधा	NN	O	O	O
-देना	VM	O	B-MISC	O
-तो	CC	O	O	O
-बड़ी	JJ	O	O	O
-बात	NN	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-ऐसे	DEM	O	O	O
-लोग	NN	O	O	O
-कुएं	NN	O	O	O
-से	PSP	O	O	O
-पानी	NN	O	O	OCC
-भरने	VM	O	O	O
-देंगे	VAUX	O	O	O
-?	SYM	O	O	O
-'	SYM	O	O	O
-इन	DEM	O	O	O
-शब्दों	NN	O	O	O
-में	PSP	O	O	O
-कड़वा	VM	O	B-MISC	OCC
-सत्य	NN	O	I-MISC	O
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-गंगी	NN	O	O	O
-क्या	WQ	O	O	O
-जवाब	NN	O	O	O
-देती	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-किन्तु	CC	O	O	O
-उसने	PRP	O	O	O
-वह	PRP	O	O	O
-बदबूदार	JJ	O	O	O
-पानी	NN	O	O	O
-पीने	VM	O	O	O
-को	PSP	O	O	O
-न	NEG	O	B-MISC	OCC
-दिया	VM	O	I-MISC	O
-.	SYM	O	O	O
+जोखू
+ने
+लोटा
+मुंह
+से
+लगाया
+तो
+पानी
+में
+सख्त
+बदबू
+आयी
+.
+गंगी
+से
+बोला-
+यह
+कैसा
+पानी
+है
+?
+मारे
+बास
+के
+पिया
+नहीं
+जाता
+.
+गला
+सूखा
+जा
+रहा
+है
+और
+तू
+सड़ा
+पानी
+पिलाये
+देती
+है
+!
+गंगी
+प्रतिदिन
+शाम
+पानी
+भर
+लिया
+करती
+थी
+.
+कुआं
+दूर
+था
+,
+बार-बार
+जाना
+मुश्किल
+था
+.
+कल
+वह
+पानी
+लायी
+,
+तो
+उसमें
+बू
+बिलकुल
+न
+थी
+,
+आज
+पानी
+में
+बदबू
+कैसी
+!
+लोटा
+नाक
+से
+लगाया
+,
+तो
+सचमुच
+बदबू
+थी
+.
+जरुर
+कोई
+जानवर
+कुएं
+में
+गिरकर
+मर
+गया
+होगा
+,
+मगर
+दूसरा
+पानी
+आवे
+कहां
+से
+?
+ठाकुर
+के
+कुएं
+पर
+कौन
+चढ़ने
+देगा
+?
+दूर
+से
+लोग
+डांट
+बतायेंगे
+.
+साहू
+का
+कुआं
+गांव
+के
+उस
+सिरे
+पर
+है
+,
+परंतु
+वहां
+भी
+कौन
+पानी
+भरने
+देगा
+?
+कोई
+तीसरा
+कुआं
+गांव
+में
+है
+नहीं
+.
+जोखू
+कई
+दिन
+से
+बीमार
+है
+.
+कुछ
+देर
+तक
+तो
+प्यास
+रोके
+चुप
+पड़ा
+रहा
+,
+फिर
+बोला-
+अब
+तो
+मारे
+प्यास
+के
+रहा
+नहीं
+जाता
+.
+ला
+,
+थोड़ा
+पानी
+नाक
+बंद
+करके
+पी
+लूं
+.
+गंगी
+ने
+पानी
+न
+दिया
+.
+खराब
+पानी
+से
+बीमारी
+बढ़
+जायगी
+इतना
+जानती
+थी
+,
+परंतु
+यह
+न
+जानती
+थी
+कि
+पानी
+को
+उबाल
+देने
+से
+उसकी
+खराबी
+जाती
+रहती
+हैं
+.
+बोली-
+यह
+पानी
+कैसे
+पियोगे
+?
+न
+जाने
+कौन
+जानवर
+मरा
+है
+.
+कुएं
+से
+मैं
+दूसरा
+पानी
+लाये
+देती
+हूं
+.
+जोखू
+ने
+आश्चर्य
+से
+उसकी
+ओर
+देखा-
+पानी
+कहां
+से
+लायेगी
+?
+ठाकुर
+और
+साहू
+के
+दो
+कुएं
+तो
+हैं
+.
+क्या
+एक
+लोटा
+पानी
+न
+भरने
+देंगे
+?
+'
+हाथ-पांव
+तुड़वा
+आयेगी
+और
+कुछ
+न
+होगा
+.
+बैठ
+चुपके
+से
+.
+ब्रह्म-देवता
+आशीर्वाद
+देंगे
+,
+ठाकुर
+लाठी
+मारेगें
+,
+साहूजी
+एक
+के
+पांच
+लेंगे
+.
+गरीबों
+का
+दर्द
+कौन
+समझता
+है
+!
+हम
+तो
+मर
+भी
+जाते
+है
+,
+तो
+कोई
+दुआर
+पर
+झांकने
+नहीं
+आता
+,
+कंधा
+देना
+तो
+बड़ी
+बात
+है
+.
+ऐसे
+लोग
+कुएं
+से
+पानी
+भरने
+देंगे
+?
+'
+इन
+शब्दों
+में
+कड़वा
+सत्य
+था
+.
+गंगी
+क्या
+जवाब
+देती
+,
+किन्तु
+उसने
+वह
+बदबूदार
+पानी
+पीने
+को
+न
+दिया
+.

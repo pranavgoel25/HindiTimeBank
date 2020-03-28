@@ -1,298 +1,298 @@
-स्मार्टफोन	XC	O	O	O
-कंपनियां	NN	O	O	O
-अपने	PRP	O	O	O
-स्मार्टफोन्स	NN	O	O	O
-को	PSP	O	O	O
-5	QC	O	O	O
-G	JJ	O	O	O
-कनेक्टिविटी	NN	O	O	O
-सपॉर्ट	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-लॉन्च	VM	O	B-MISC	OCC
-कर	VAUX	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-नोकिया	NNP	O	O	O
-भी	RP	O	O	O
-इस	DEM	O	O	O
-रेस	NN	O	O	O
-में	PSP	O	O	O
-पीछे	NST	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-रहना	VM	O	I-MISC	O
-चाहता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हुवावे	NN	O	O	O
-और	CC	O	O	O
-सैमसंग	NN	O	O	O
-जैसी	PSP	O	O	O
-कंपनियों	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-नोकिया	NNP	O	O	O
-अपने	PRP	O	O	O
-Nokia	NN	O	O	O
-8.2	QC	O	O	O
-स्मार्टफोन	NN	O	O	O
-को	PSP	O	O	O
-5	QC	O	O	O
-G	NN	O	O	O
-कनेक्टिविटी	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-लॉन्च	VM	O	B-MISC	OCC
-कर	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-Nokiapoweruser	NN	O	O	O
-की	PSP	O	O	O
-रिपोर्ट	NN	O	O	O
-में	PSP	O	O	O
-कहा	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-मोबाइल	XC	O	O	O
-वर्ल्ड	XC	O	O	O
-कांग्रेस	XC	O	O	O
-(	SYM	O	O	O
-MWC	NN	O	O	O
-)	SYM	O	O	O
-2020	QC	O	O	O
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-अगले	JJ	O	O	O
-साल	NN	O	O	O
-एचएमडी	NN	O	O	O
-ग्लोबल	JJ	O	O	O
-Nokia	NN	O	O	O
-8.2	QC	O	O	O
-को	PSP	O	O	O
-5	QC	O	O	O
-G	JJ	O	O	O
-कनेक्टिविटी	NN	O	O	O
-सपॉर्ट	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-लॉन्च	VM	O	B-MISC	OCC
-कर	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-रिपोर्ट	NN	O	O	O
-में	PSP	O	O	O
-कहा	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इस	DEM	O	O	O
-स्मार्टफोन	NN	O	O	O
-में	PSP	O	O	O
-कंपनी	NN	O	O	O
-रियर	XC	O	O	O
-पैनल	NNP	O	O	O
-पर	PSP	O	O	O
-क्वॉड-कैमरा	NN	O	O	O
-सेटअप	NN	O	B-MISC	OCC
-दे	VM	O	I-MISC	O
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-सेल्फी	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-Nokia	NN	O	O	O
-8.2	QC	O	O	O
-में	PSP	O	O	O
-पॉप-अप	NN	O	O	O
-सेल्फी	JJ	O	O	O
-कैमरा	NN	O	O	O
-मकैनिज्म	NN	O	O	O
-देखने	VM	O	O	O
-को	PSP	O	O	O
-मिलेगा	VM	O	O	O
-,	SYM	O	O	O
-जिससे	PRP	O	O	O
-हाई	XC	O	O	O
-स्क्रीन-टू-बॉडी	XC	O	O	O
-रेशियो	XC	O	O	O
-नोकिया	NNP	O	O	O
-इस	DEM	O	O	O
-स्मार्टफोन	NN	O	O	O
-में	PSP	O	O	O
-देगा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-रिपोर्ट	NN	O	O	O
-में	PSP	O	O	O
-कहा	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-Nokia	NN	O	O	O
-8.2	QC	O	O	O
-में	PSP	O	O	O
-हालांकि	CC	O	O	O
-सारे	QF	O	O	O
-स्पेसिफिकेशंस	NN	O	O	O
-फ्लैगशिप	JJ	O	O	O
-लेवल	NN	O	O	O
-के	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-होंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
-ऐसे	PRP	O	O	O
-में	PSP	O	O	O
-माना	VM	O	B-MISC	OCC
-जा	VAUX	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-5	QC	O	O	O
-G	JJ	O	O	O
-Nokia	NN	O	O	O
-8.2	QC	O	O	O
-को	PSP	O	O	O
-फ्लैगशिप	JJ	O	O	O
-स्पेसिफिकेशंस	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-अलग	JJ	O	O	O
-से	PSP	O	O	O
-लॉन्च	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-रिपोर्ट	NN	O	O	O
-में	PSP	O	O	O
-कहा	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इस	DEM	O	O	O
-स्मार्टफोन	NN	O	O	O
-की	PSP	O	O	O
-कीमत	NN	O	O	O
-एचएमडी	NN	O	O	O
-ग्लोबल	JJ	O	O	O
-सीईओ	NN	O	O	O
-जूहो	NN	O	O	O
-सर्विकास	NN	O	O	O
-के	PSP	O	O	O
-मुताबिक	JJ	O	O	O
-500	QC	O	O	O
-डॉलर	NN	O	O	O
-(	SYM	O	O	O
-करीब	RB	O	O	O
-33,500	QC	O	O	O
-रुपये	NN	O	O	O
-)	SYM	O	O	O
-के	PSP	O	O	O
-आसपास	NST	O	B-MISC	O
-हो	VM	O	I-MISC	OCC
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पिछले	JJ	B	O	O
-साल	NN	I	O	O
-लॉन्च	VM	O	B-MISC	O
-हुए	VAUX	O	I-MISC	O
-Nokia	NN	O	O	O
-8.1	QC	O	O	O
-का	PSP	O	O	O
-अपग्रेडेड	NN	O	O	O
-वेरियंट	JJ	O	O	O
-Nokia	NN	O	O	O
-8.2	QC	O	O	O
-पॉप-अप	NN	O	O	O
-सेल्फी	VM	O	O	O
-कैमरे	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-आना	VM	O	O	O
-वाला	PSP	O	O	O
-यह	PRP	O	O	O
-कंपनी	NN	O	O	O
-का	PSP	O	O	O
-पहला	QO	O	O	O
-फोन	NN	O	B-MISC	OCC
-होगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-एचएमडी	NNP	O	O	O
-ग्लोबल	NN	O	O	O
-के	PSP	O	O	O
-मालिकाना	NN	O	O	O
-हक	VM	O	B-MISC	O
-वाली	VAUX	O	I-MISC	O
-कंपनी	NN	O	O	O
-पहले	NST	O	O	O
-ही	RP	O	O	O
-Nokia	JJ	O	O	O
-X	NN	O	O	O
-71	QC	O	O	O
-में	PSP	O	O	O
-पंच	XC	O	O	O
-होल	NNP	O	O	O
-डिजाइन	NN	O	O	O
-ला	VM	O	B-MISC	OCC
-चुकी	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-टिपस्टर	XC	O	O	O
-ईशान	XC	O	O	O
-अग्रवाल	NNP	O	O	O
-ने	PSP	O	O	O
-ट्विटर	NN	O	O	O
-पर	PSP	O	O	O
-कुछ	QF	O	O	O
-डीटेल्स	NN	O	O	O
-शेयर	NN	O	B-MISC	OCC
-किए	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिनमें	PRP	O	O	O
-दावा	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-नोकिया	JJ	O	O	O
-8.2	QC	O	O	O
-स्मार्टफोन	NN	O	O	O
-में	PSP	O	O	O
-32	QC	O	O	O
-मेगापिक्सल	NN	O	O	O
-का	PSP	O	O	O
-पॉप-अप	NN	O	O	O
-सेल्फी	JJ	O	O	O
-कैमरा	NN	O	O	O
-दिया	VM	O	B-MISC	OCC
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-फोन	NN	O	O	O
-ऐंड्रॉयड	JJ	O	O	O
-क्यू	NN	O	O	O
-और	CC	O	O	O
-8	QC	O	O	O
-GB	JJ	O	O	O
-रैम	NN	O	O	O
-+	SYM	O	O	O
-256	QC	O	O	O
-GB	XC	O	O	O
-स्टोरेज	XC	O	O	O
-ऑप्शन	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-पेश	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+स्मार्टफोन
+कंपनियां
+अपने
+स्मार्टफोन्स
+को
+5
+G
+कनेक्टिविटी
+सपॉर्ट
+के
+साथ
+लॉन्च
+कर
+रहे
+हैं
+और
+नोकिया
+भी
+इस
+रेस
+में
+पीछे
+नहीं
+रहना
+चाहता
+.
+हुवावे
+और
+सैमसंग
+जैसी
+कंपनियों
+के
+बाद
+नोकिया
+अपने
+Nokia
+8.2
+स्मार्टफोन
+को
+5
+G
+कनेक्टिविटी
+के
+साथ
+लॉन्च
+कर
+सकता
+है
+.
+Nokiapoweruser
+की
+रिपोर्ट
+में
+कहा
+गया
+है
+कि
+मोबाइल
+वर्ल्ड
+कांग्रेस
+(
+MWC
+)
+2020
+के
+दौरान
+अगले
+साल
+एचएमडी
+ग्लोबल
+Nokia
+8.2
+को
+5
+G
+कनेक्टिविटी
+सपॉर्ट
+के
+साथ
+लॉन्च
+कर
+सकता
+है
+.
+रिपोर्ट
+में
+कहा
+गया
+है
+कि
+इस
+स्मार्टफोन
+में
+कंपनी
+रियर
+पैनल
+पर
+क्वॉड-कैमरा
+सेटअप
+दे
+सकती
+है
+.
+साथ
+ही
+सेल्फी
+के
+लिए
+Nokia
+8.2
+में
+पॉप-अप
+सेल्फी
+कैमरा
+मकैनिज्म
+देखने
+को
+मिलेगा
+,
+जिससे
+हाई
+स्क्रीन-टू-बॉडी
+रेशियो
+नोकिया
+इस
+स्मार्टफोन
+में
+देगा
+.
+रिपोर्ट
+में
+कहा
+गया
+है
+कि
+Nokia
+8.2
+में
+हालांकि
+सारे
+स्पेसिफिकेशंस
+फ्लैगशिप
+लेवल
+के
+नहीं
+होंगे
+.
+ऐसे
+में
+माना
+जा
+रहा
+है
+कि
+5
+G
+Nokia
+8.2
+को
+फ्लैगशिप
+स्पेसिफिकेशंस
+के
+साथ
+अलग
+से
+लॉन्च
+किया
+जा
+सकता
+है
+.
+रिपोर्ट
+में
+कहा
+गया
+है
+कि
+इस
+स्मार्टफोन
+की
+कीमत
+एचएमडी
+ग्लोबल
+सीईओ
+जूहो
+सर्विकास
+के
+मुताबिक
+500
+डॉलर
+(
+करीब
+33,500
+रुपये
+)
+के
+आसपास
+हो
+सकती
+है
+.
+पिछले
+साल
+लॉन्च
+हुए
+Nokia
+8.1
+का
+अपग्रेडेड
+वेरियंट
+Nokia
+8.2
+पॉप-अप
+सेल्फी
+कैमरे
+के
+साथ
+आना
+वाला
+यह
+कंपनी
+का
+पहला
+फोन
+होगा
+.
+एचएमडी
+ग्लोबल
+के
+मालिकाना
+हक
+वाली
+कंपनी
+पहले
+ही
+Nokia
+X
+71
+में
+पंच
+होल
+डिजाइन
+ला
+चुकी
+है
+.
+टिपस्टर
+ईशान
+अग्रवाल
+ने
+ट्विटर
+पर
+कुछ
+डीटेल्स
+शेयर
+किए
+थे
+,
+जिनमें
+दावा
+किया
+गया
+है
+कि
+नोकिया
+8.2
+स्मार्टफोन
+में
+32
+मेगापिक्सल
+का
+पॉप-अप
+सेल्फी
+कैमरा
+दिया
+जाएगा
+.
+इसके
+साथ
+ही
+फोन
+ऐंड्रॉयड
+क्यू
+और
+8
+GB
+रैम
++
+256
+GB
+स्टोरेज
+ऑप्शन
+के
+साथ
+पेश
+किया
+जाएगा
+.

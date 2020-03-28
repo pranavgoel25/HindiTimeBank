@@ -1,210 +1,210 @@
-बैंकिंग	NN	O	O	O
-तथा	CC	O	O	O
-फाइनैंशल	JJ	O	O	O
-शेयरों	NN	O	O	O
-में	PSP	O	O	O
-भारी	JJ	O	O	O
-खरीदारी	NN	O	O	O
-से	PSP	O	O	O
-शेयर	XC	O	O	O
-बाजार	NNP	O	O	O
-बुधवार	NN	O	O	O
-को	PSP	O	O	O
-646	QC	O	O	O
-अंकों	NN	O	O	O
-के	PSP	O	O	O
-उछाल	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-बंद	JJ	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-,	SYM	O	O	O
-जिसके	PRP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-लगातार	RB	O	O	O
-छह	QC	O	O	O
-सत्रों	NN	O	O	O
-से	PSP	O	O	O
-बाजार	NN	O	O	O
-में	PSP	O	O	O
-गिरावट	NN	O	O	O
-पर	PSP	O	O	O
-ब्रेक	NN	O	B-MISC	OCC
-लग	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-नकारात्मक	JJ	O	O	O
-वैश्विक	JJ	O	O	O
-संकेतों	NN	O	O	O
-को	PSP	O	O	O
-दरकिनार	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-निचले	JJ	O	O	O
-स्तर	NN	O	O	O
-पर	PSP	O	O	O
-हुई	VM	O	B-STAT	O
-खरीदारी	NN	O	O	O
-से	PSP	O	O	O
-बीएसई	NNP	O	O	O
-के	PSP	O	O	O
-30	QC	O	O	O
-कंपनियों	NN	O	O	O
-के	PSP	O	O	O
-शेयरों	NN	O	O	O
-पर	PSP	O	O	O
-आधारित	JJ	O	O	O
-संवेदी	JJ	O	O	O
-सूचकांक	NN	O	O	O
-सेंसेक्स	NN	O	O	O
-645.97	QC	O	O	O
-अंक	NN	O	O	O
-(	SYM	O	O	O
-1.72	QC	O	O	O
-%	SYM	O	O	O
-)	SYM	O	O	O
-उछलकर	VM	O	O	O
-38,177.95	QC	O	O	O
-पर	PSP	O	O	O
-बंद	JJ	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-,	SYM	O	O	O
-नैशनल	XC	O	O	O
-स्टॉक	XC	O	O	O
-एक्सचेंज	NNP	O	O	O
-(	SYM	O	O	O
-NSE	NN	O	O	O
-)	SYM	O	O	O
-का	PSP	O	O	O
-निफ्टी	NN	O	O	O
-186.90	QC	O	O	O
-अंकों	NN	O	O	O
-(	SYM	O	O	O
-1.68	QC	O	O	O
-%	SYM	O	O	O
-)	SYM	O	O	O
-की	PSP	O	O	O
-तेजी	NN	O	B-MISC	OCC
-के	PSP	O	O	O
-साथ	NST	O	O	O
-11,313.30	QC	O	O	O
-पर	PSP	O	O	O
-बंद	JJ	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-.	SYM	O	O	O
-दिनभर	NN	O	O	O
-के	PSP	O	O	O
-कारोबार	NN	O	O	O
-में	PSP	O	O	O
-सेंसेक्स	NN	O	O	O
-ने	PSP	O	O	O
-11,321.60	QC	O	O	O
-का	PSP	O	O	O
-ऊपरी	JJ	O	O	O
-स्तर	NN	O	O	O
-तथा	CC	O	O	O
-11,090.15	QC	O	O	O
-का	PSP	O	O	O
-निचला	JJ	O	O	O
-स्तर	NN	O	O	O
-छुआ	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-जबकि	CC	O	O	O
-निफ्टी	NN	O	O	O
-ने	PSP	O	O	O
-11,321.60	QC	O	O	O
-का	PSP	O	O	O
-उच्च	JJ	O	O	O
-स्तर	NN	O	O	O
-और	CC	O	O	O
-11,090.15	QC	O	O	O
-का	PSP	O	O	O
-निम्न	JJ	O	O	O
-स्तर	NN	O	B-MISC	OCC
-छुआ	VM	O	I-MISC	O
-.	SYM	O	O	O
-बीएसई	NNP	O	O	O
-पर	PSP	O	O	O
-22	QC	O	O	O
-कंपनियों	NN	O	O	O
-के	PSP	O	O	O
-शेयर	NN	O	O	O
-हरे	JJ	O	O	O
-निशान	NN	O	O	O
-पर	PSP	O	O	O
-,	SYM	O	O	O
-जबकि	CC	O	O	O
-आठ	QC	O	O	O
-कंपनियों	NN	O	O	O
-के	PSP	O	O	O
-शेयर	NN	O	O	O
-लाल	JJ	O	O	O
-निशान	NN	O	O	O
-पर	PSP	O	O	O
-बंद	JJ	O	B-STAT	DECL
-हुए	VM	O	I-STAT	O
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-,	SYM	O	O	O
-एनएसई	NNP	O	O	O
-पर	PSP	O	O	O
-38	QC	O	O	O
-कंपनियों	NN	O	O	O
-के	PSP	O	O	O
-शेयरों	NN	O	O	O
-में	PSP	O	O	O
-लिवाली	NN	O	O	O
-तथा	CC	O	O	O
-12	QC	O	O	O
-कंपनियों	NN	O	O	O
-के	PSP	O	O	O
-शेयरों	NN	O	O	O
-में	PSP	O	O	O
-बिकवाली	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बैंकिंग	NN	O	O	O
-और	CC	O	O	O
-फाइनैंशल	JJ	O	O	O
-सेक्टर्स	NN	O	O	O
-में	PSP	O	O	O
-इंडसइंड	XC	O	O	O
-बैंक	NN	O	O	O
-में	PSP	O	O	O
-सर्वाधिक	JJ	O	O	O
-छह	QC	O	O	O
-फीसदी	NN	O	O	O
-की	PSP	O	O	O
-तेजी	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसके	PRP	O	O	O
-वित्तीय	JJ	O	O	O
-नतीजे	NN	O	O	O
-गुरुवार	NN	O	O	O
-को	PSP	O	O	O
-आने	VM	O	B-MISC	OCC
-वाले	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ब्रोकरेज	JJ	O	O	O
-कंपनियों	NN	O	O	O
-ने	PSP	O	O	O
-कंपनी	NN	O	O	O
-की	PSP	O	O	O
-आय	NN	O	O	O
-में	PSP	O	O	O
-भारी	JJ	O	O	O
-बढ़ोतरी	NN	O	O	O
-की	PSP	O	O	O
-उम्मीद	NN	O	B-MISC	OCC
-जताई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+बैंकिंग
+तथा
+फाइनैंशल
+शेयरों
+में
+भारी
+खरीदारी
+से
+शेयर
+बाजार
+बुधवार
+को
+646
+अंकों
+के
+उछाल
+के
+साथ
+बंद
+हुआ
+,
+जिसके
+साथ
+ही
+लगातार
+छह
+सत्रों
+से
+बाजार
+में
+गिरावट
+पर
+ब्रेक
+लग
+गया
+.
+नकारात्मक
+वैश्विक
+संकेतों
+को
+दरकिनार
+करते
+हुए
+निचले
+स्तर
+पर
+हुई
+खरीदारी
+से
+बीएसई
+के
+30
+कंपनियों
+के
+शेयरों
+पर
+आधारित
+संवेदी
+सूचकांक
+सेंसेक्स
+645.97
+अंक
+(
+1.72
+%
+)
+उछलकर
+38,177.95
+पर
+बंद
+हुआ
+.
+वहीं
+,
+नैशनल
+स्टॉक
+एक्सचेंज
+(
+NSE
+)
+का
+निफ्टी
+186.90
+अंकों
+(
+1.68
+%
+)
+की
+तेजी
+के
+साथ
+11,313.30
+पर
+बंद
+हुआ
+.
+दिनभर
+के
+कारोबार
+में
+सेंसेक्स
+ने
+11,321.60
+का
+ऊपरी
+स्तर
+तथा
+11,090.15
+का
+निचला
+स्तर
+छुआ
+,
+जबकि
+निफ्टी
+ने
+11,321.60
+का
+उच्च
+स्तर
+और
+11,090.15
+का
+निम्न
+स्तर
+छुआ
+.
+बीएसई
+पर
+22
+कंपनियों
+के
+शेयर
+हरे
+निशान
+पर
+,
+जबकि
+आठ
+कंपनियों
+के
+शेयर
+लाल
+निशान
+पर
+बंद
+हुए
+.
+वहीं
+,
+एनएसई
+पर
+38
+कंपनियों
+के
+शेयरों
+में
+लिवाली
+तथा
+12
+कंपनियों
+के
+शेयरों
+में
+बिकवाली
+दर्ज
+की
+गई
+.
+बैंकिंग
+और
+फाइनैंशल
+सेक्टर्स
+में
+इंडसइंड
+बैंक
+में
+सर्वाधिक
+छह
+फीसदी
+की
+तेजी
+दर्ज
+की
+गई
+,
+जिसके
+वित्तीय
+नतीजे
+गुरुवार
+को
+आने
+वाले
+हैं
+.
+ब्रोकरेज
+कंपनियों
+ने
+कंपनी
+की
+आय
+में
+भारी
+बढ़ोतरी
+की
+उम्मीद
+जताई
+है
+.

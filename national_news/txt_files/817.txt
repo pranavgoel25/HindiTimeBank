@@ -1,238 +1,238 @@
-ड्रग	XC	O	O	O
-तस्करी	NN	O	O	O
-से	PSP	O	O	O
-जुड़े	JJ	O	O	O
-एक	QC	O	O	O
-मामले	NN	O	O	O
-में	PSP	O	O	O
-हरियाणा	NNP	O	O	O
-के	PSP	O	O	O
-सिरसा	XC	O	O	O
-जिले	NNP	O	O	O
-के	PSP	O	O	O
-गांव	NN	O	O	O
-देसू	XC	O	O	O
-जोधा	NNP	O	O	O
-में	PSP	O	O	O
-रेड	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-पहुंची	VM	O	I-MISC	OCC
-पंजाब	XC	O	O	O
-पुलिस	NN	O	O	O
-की	PSP	O	O	O
-टीम	NN	O	O	O
-पर	PSP	O	O	O
-हमला	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ग्रामीणों	NN	O	O	O
-ने	PSP	O	O	O
-हमला	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-पुलिस	NN	O	O	O
-वाहन	NN	O	O	O
-को	PSP	O	O	O
-भी	RP	O	O	O
-आग	NN	O	B-MISC	OCC
-लगा	VM	O	I-MISC	O
-दी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-बाद	NST	O	O	O
-आत्मरक्षा	NN	O	O	O
-में	PSP	O	O	O
-पुलिस	NN	O	O	O
-ने	PSP	O	O	O
-भी	RP	O	O	O
-हवाई	XC	O	B-MISC	O
-फायरिंग	NN	O	I-MISC	O
-की	PSP	O	I-MISC	O
-.	SYM	O	O	O
-घटना	NN	O	B-MISC	OCC
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-कई	QF	O	O	O
-पुलिसकर्मी	NN	O	O	O
-घायल	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-प्रकरण	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-हेड	XC	O	O	O
-कॉन्स्टेबल	NN	O	O	O
-और	CC	O	O	O
-एक	QC	O	O	O
-ग्रामीण	NN	O	O	O
-को	PSP	O	O	O
-गोली	VM	O	B-MISC	OCC
-लगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-घायल	JJ	O	O	O
-ग्रामीण	NN	O	O	O
-को	PSP	O	O	O
-आनन-फानन	NN	O	O	O
-में	PSP	O	O	O
-ओढा	VM	O	B-MISC	O
-सामुदायिक	JJ	O	O	O
-स्वास्थ्य	XC	O	O	O
-केंद्र	NN	O	O	O
-ले	VM	O	B-MISC	OCC
-जाया	VAUX	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जहां	PRP	O	O	O
-इलाज	NN	O	O	O
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-उसकी	PRP	O	O	O
-मौत	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जबकि	CC	O	O	O
-गंभीर	JJ	O	O	O
-रूप	NN	O	O	O
-से	PSP	O	O	O
-घायल	VM	O	B-MISC	O
-हुए	VAUX	O	I-MISC	O
-पंजाब	NNP	O	O	O
-पुलिस	NN	O	O	O
-के	PSP	O	O	O
-हेड	XC	O	O	O
-कॉन्स्टेबल	NN	O	O	O
-को	PSP	O	O	O
-इलाज	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-बठिंडा	NN	O	O	O
-के	PSP	O	O	O
-एक	QC	O	O	O
-अस्पताल	NN	O	O	O
-में	PSP	O	O	O
-भर्ती	NN	O	B-MISC	OCC
-कराया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उधर	NST	O	O	O
-,	SYM	O	O	O
-हरियाणा	NNP	O	O	O
-पुलिस	NN	O	O	O
-ने	PSP	O	O	O
-इस	DEM	O	O	O
-मामले	NN	O	O	O
-की	PSP	O	O	O
-जांच	NN	O	B-MISC	OCC
-शुरू	NN	O	B-MISC	ASP
-कर	VM	O	I-MISC	O
-दी	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-पंजाब	NNP	O	O	O
-पुलिस	NN	O	O	O
-के	PSP	O	O	O
-वरिष्ठ	JJ	O	O	O
-अधिकारियों	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-मामला	NN	O	B-MISC	OCC
-उठाया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हरियाणा	NNP	O	O	O
-पुलिस	NN	O	O	O
-इस	DEM	O	O	O
-मामले	NN	O	O	O
-में	PSP	O	O	O
-कानून	NN	O	O	O
-का	PSP	O	O	O
-हवाला	NN	O	B-MISC	OCC
-देते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-कह	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-बठिंडा	JJ	O	O	O
-पुलिस	NN	O	O	O
-को	PSP	O	O	O
-दूसरे	JJ	O	O	O
-राज्य	NN	O	O	O
-में	PSP	O	O	O
-छापेमारी	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-जाने	VM	O	B-MISC	O
-से	PSP	O	O	O
-पहले	NST	O	O	O
-स्थानीय	JJ	O	O	O
-पुलिस	NN	O	O	O
-को	PSP	O	O	O
-सूचित	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-मदद	NN	O	B-MISC	OCC
-लेनी	VM	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-लेकिन	CC	O	O	O
-,	SYM	O	O	O
-पंजाब	NNP	O	O	O
-पुलिस	NN	O	O	O
-की	PSP	O	O	O
-टीम	NN	O	O	O
-ने	PSP	O	O	O
-ऐसा	PRP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-हरियाणा	NNP	O	O	O
-पुलिस	NN	O	O	O
-इसे	PRP	O	O	O
-बठिंडा	JJ	O	O	OCC
-पुलिस	NN	O	O	O
-की	PSP	O	O	O
-लापरवाही	NN	O	O	O
-बताया	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हरियाणा	NNP	O	O	O
-पुलिस	NN	O	O	O
-के	PSP	O	O	O
-प्रवक्ता	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-सिरसा	XC	O	O	O
-जिला	NNP	O	O	O
-के	PSP	O	O	O
-देसू	XC	O	O	O
-जोधा	XC	O	O	O
-गांव	NN	O	O	O
-में	PSP	O	O	O
-रेड	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-आई	XC	O	O	O
-पंजाब	NNP	O	O	O
-पुलिस	NN	O	O	O
-की	PSP	O	O	O
-टीम	NN	O	O	O
-को	PSP	O	O	O
-बंधक	JJ	O	O	O
-बनाकर	VM	O	O	O
-मारपीट	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-मामले	NN	O	O	O
-में	PSP	O	O	O
-जांच	NN	O	B-MISC	OCC
-तेज	JJ	O	B-MISC	ASP
-कर	VM	O	I-MISC	O
-दी	VAUX	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+ड्रग
+तस्करी
+से
+जुड़े
+एक
+मामले
+में
+हरियाणा
+के
+सिरसा
+जिले
+के
+गांव
+देसू
+जोधा
+में
+रेड
+करने
+पहुंची
+पंजाब
+पुलिस
+की
+टीम
+पर
+हमला
+हो
+गया
+.
+ग्रामीणों
+ने
+हमला
+कर
+पुलिस
+वाहन
+को
+भी
+आग
+लगा
+दी
+.
+इसके
+बाद
+आत्मरक्षा
+में
+पुलिस
+ने
+भी
+हवाई
+फायरिंग
+की
+.
+घटना
+के
+दौरान
+कई
+पुलिसकर्मी
+घायल
+हो
+गए
+.
+इस
+प्रकरण
+में
+एक
+हेड
+कॉन्स्टेबल
+और
+एक
+ग्रामीण
+को
+गोली
+लगी
+.
+घायल
+ग्रामीण
+को
+आनन-फानन
+में
+ओढा
+सामुदायिक
+स्वास्थ्य
+केंद्र
+ले
+जाया
+गया
+,
+जहां
+इलाज
+के
+दौरान
+उसकी
+मौत
+हो
+गई
+,
+जबकि
+गंभीर
+रूप
+से
+घायल
+हुए
+पंजाब
+पुलिस
+के
+हेड
+कॉन्स्टेबल
+को
+इलाज
+के
+लिए
+बठिंडा
+के
+एक
+अस्पताल
+में
+भर्ती
+कराया
+गया
+है
+.
+उधर
+,
+हरियाणा
+पुलिस
+ने
+इस
+मामले
+की
+जांच
+शुरू
+कर
+दी
+है
+और
+पंजाब
+पुलिस
+के
+वरिष्ठ
+अधिकारियों
+के
+साथ
+मामला
+उठाया
+है
+.
+हरियाणा
+पुलिस
+इस
+मामले
+में
+कानून
+का
+हवाला
+देते
+हुए
+कह
+रही
+है
+कि
+बठिंडा
+पुलिस
+को
+दूसरे
+राज्य
+में
+छापेमारी
+करने
+के
+लिए
+जाने
+से
+पहले
+स्थानीय
+पुलिस
+को
+सूचित
+कर
+मदद
+लेनी
+चाहिए
+थी
+लेकिन
+,
+पंजाब
+पुलिस
+की
+टीम
+ने
+ऐसा
+नहीं
+किया
+.
+हरियाणा
+पुलिस
+इसे
+बठिंडा
+पुलिस
+की
+लापरवाही
+बताया
+है
+.
+हरियाणा
+पुलिस
+के
+प्रवक्ता
+ने
+कहा
+कि
+सिरसा
+जिला
+के
+देसू
+जोधा
+गांव
+में
+रेड
+करने
+आई
+पंजाब
+पुलिस
+की
+टीम
+को
+बंधक
+बनाकर
+मारपीट
+करने
+के
+मामले
+में
+जांच
+तेज
+कर
+दी
+गई
+है
+.

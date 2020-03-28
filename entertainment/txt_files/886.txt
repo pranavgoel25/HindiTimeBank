@@ -1,182 +1,182 @@
-डांस	XC	O	O	O
-रिऐलिटी	XC	O	O	O
-शो	XC	O	O	O
-'	SYM	O	O	O
-नच	NN	O	O	O
-बलिए	PSP	O	O	O
-9	QC	O	O	O
-'	SYM	O	O	O
-में	PSP	O	O	O
-कंटेस्	NN	O	O	O
-‍	JJ	O	O	O
-टेंट	NN	O	O	O
-के	PSP	O	O	O
-रूप	NN	O	O	O
-में	PSP	O	O	O
-नजर	NN	O	O	OCC
-आ	VM	O	B-MISC	O
-रहीं	VAUX	O	I-MISC	O
-टीवी	NN	O	O	O
-ऐक्	PSP	O	O	O
-‍	XC	O	O	O
-ट्रेस	XC	O	O	O
-श्रद्धा	XC	O	O	O
-आर्या	NNP	O	O	O
-की	PSP	O	O	O
-सोशल	XC	O	O	O
-मीडिया	NNP	O	O	O
-पर	PSP	O	O	O
-काफी	QF	O	O	O
-ज्	NN	O	O	O
-‍	NNP	O	O	O
-यादा	QF	O	O	O
-फैन	NN	O	O	O
-फॉलोइंग	NN	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-हम	PRP	O	O	O
-यहां	PRP	O	O	O
-हमेशा	RB	O	O	O
-बेस्	XC	O	O	O
-‍	NNP	O	O	O
-ट	RP	O	O	O
-ड्रेसेस	NN	O	O	O
-में	PSP	O	O	O
-दिखने	VM	O	O	O
-वाली	PSP	O	O	O
-श्रद्धा	NN	O	O	O
-की	PSP	O	O	O
-कुछ	QF	O	O	O
-स्	SYM	O	O	O
-‍	SYM	O	O	O
-टाइलिश	NN	O	O	O
-तस्	PSP	O	O	O
-‍	NN	O	O	O
-वीरें	NNP	O	O	O
-दिखा	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इनसे	PRP	O	O	O
-आप	PRP	O	O	O
-भी	RP	O	O	O
-अपने	PRP	O	O	O
-फैशन	XC	O	O	O
-इंस्पिरेशन	NNP	O	O	O
-ले	VM	O	B-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आउटिंग	NN	O	O	O
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-जम्	VM	O	B-MISC	O
-‍	VAUX	O	I-MISC	O
-पसूट	NN	O	O	O
-में	PSP	O	O	O
-श्रद्धा	NN	O	O	O
-बेहद	JJ	O	O	O
-गॉरजस	NN	O	O	O
-नजर	NN	O	B-MISC	OCC
-आ	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐक्	QC	O	O	O
-‍	NN	O	O	O
-ट्रेस	NN	O	O	O
-ने	PSP	O	O	O
-बेल्	XC	O	O	O
-‍	NNP	O	O	O
-ट	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-वन	XC	O	O	O
-शोल्	XC	O	O	O
-‍	XC	O	O	O
-डर	NN	O	O	O
-crochet	NN	O	O	O
-वाला	PSP	O	O	O
-अपना	PRP	O	O	O
-हॉलिडे	NN	O	O	O
-लुक	VM	O	O	O
-शेयर	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-32	QC	O	O	O
-वर्षीय	JJ	O	O	O
-श्रद्धा	NN	O	O	O
-इंडस्	NN	O	O	O
-‍	JJ	O	O	O
-ट्री	NN	O	O	O
-की	PSP	O	O	O
-सबसे	INTF	O	O	O
-वेल	XC	O	O	O
-ड्रेस्	NNP	O	O	O
-‍	RP	O	O	O
-ड	RP	O	O	O
-ऐक्	PSP	O	O	O
-‍	XC	O	O	O
-ट्रेसेस	NNP	O	O	O
-में	PSP	O	O	O
-से	PSP	O	O	O
-एक	QC	O	B-MISC	O
-मानी	VM	O	I-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यहां	PRP	O	O	O
-भी	RP	O	O	O
-वाइट	XC	O	O	O
-आउटफिट	NN	O	O	O
-में	PSP	O	O	O
-फैंस	NN	O	O	O
-को	PSP	O	O	O
-फैशन	NN	O	B-MISC	O
-गोल्	VAUX	O	I-MISC	O
-‍	NN	O	O	O
-स	RP	O	O	O
-दे	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-श्रद्धा	XC	O	O	O
-'	SYM	O	O	O
-कुंडली	NN	O	O	O
-भाग्	XC	O	O	O
-‍	NNP	O	O	O
-य	RP	O	O	O
-'	SYM	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-मैं	PRP	O	O	O
-लक्ष्	XC	O	O	O
-‍	NN	O	O	O
-मी	RP	O	O	O
-तेरे	PRP	O	O	O
-आंगन	NN	O	O	O
-की	PSP	O	O	O
-'	SYM	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-तुम्	XC	O	O	O
-‍	NNP	O	O	O
-हारी	NN	O	O	O
-पाखी	VM	O	O	OCC
-'	SYM	O	O	O
-और	CC	O	O	O
-'	SYM	O	O	O
-ड्रीम	XC	O	O	O
-गर्ल	NN	O	O	O
-'	SYM	O	O	O
-जैसे	CC	O	O	O
-डेली	XC	O	O	O
-सोप्	XC	O	O	O
-‍	NNP	O	O	O
-स	RP	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-जानी	VM	O	B-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+डांस
+रिऐलिटी
+शो
+'
+नच
+बलिए
+9
+'
+में
+कंटेस्
+‍
+टेंट
+के
+रूप
+में
+नजर
+आ
+रहीं
+टीवी
+ऐक्
+‍
+ट्रेस
+श्रद्धा
+आर्या
+की
+सोशल
+मीडिया
+पर
+काफी
+ज्
+‍
+यादा
+फैन
+फॉलोइंग
+है
+.
+हम
+यहां
+हमेशा
+बेस्
+‍
+ट
+ड्रेसेस
+में
+दिखने
+वाली
+श्रद्धा
+की
+कुछ
+स्
+‍
+टाइलिश
+तस्
+‍
+वीरें
+दिखा
+रहे
+हैं
+.
+इनसे
+आप
+भी
+अपने
+फैशन
+इंस्पिरेशन
+ले
+सकते
+हैं
+.
+आउटिंग
+के
+दौरान
+जम्
+‍
+पसूट
+में
+श्रद्धा
+बेहद
+गॉरजस
+नजर
+आ
+रही
+हैं
+.
+ऐक्
+‍
+ट्रेस
+ने
+बेल्
+‍
+ट
+के
+साथ
+वन
+शोल्
+‍
+डर
+crochet
+वाला
+अपना
+हॉलिडे
+लुक
+शेयर
+किया
+.
+32
+वर्षीय
+श्रद्धा
+इंडस्
+‍
+ट्री
+की
+सबसे
+वेल
+ड्रेस्
+‍
+ड
+ऐक्
+‍
+ट्रेसेस
+में
+से
+एक
+मानी
+जाती
+हैं
+.
+यहां
+भी
+वाइट
+आउटफिट
+में
+फैंस
+को
+फैशन
+गोल्
+‍
+स
+दे
+रही
+हैं
+.
+श्रद्धा
+'
+कुंडली
+भाग्
+‍
+य
+'
+,
+'
+मैं
+लक्ष्
+‍
+मी
+तेरे
+आंगन
+की
+'
+,
+'
+तुम्
+‍
+हारी
+पाखी
+'
+और
+'
+ड्रीम
+गर्ल
+'
+जैसे
+डेली
+सोप्
+‍
+स
+के
+लिए
+जानी
+जाती
+हैं
+.

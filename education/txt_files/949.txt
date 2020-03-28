@@ -1,210 +1,210 @@
-रास्थान	NN	O	O	O
-बीएसटीसी	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-दूसरे	PRP	O	O	O
-चरण	NN	O	O	O
-का	PSP	O	O	O
-रिजल्ट	NN	O	O	O
-जारी	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-यह	DEM	O	O	O
-रिजल्ट	NN	O	O	O
-अपवार्ड	JJ	O	O	O
-मूवमेंट	NN	O	O	O
-की	PSP	O	O	O
-दाखिला	JJ	O	O	O
-प्रक्रिया	NN	O	O	O
-खत्म	JJ	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-के	PSP	O	O	O
-पूरे	JJ	O	O	O
-एक	QC	B	O	O
-महीने	NN	I	O	O
-बाद	NST	O	O	O
-जारी	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जिन	DEM	O	O	O
-आवेदकों	NN	O	O	O
-को	PSP	O	O	O
-दूसरे	PRP	O	O	O
-चरण	NN	O	O	O
-में	PSP	O	O	O
-संस्थान	NN	O	O	O
-आवंटित	JJ	O	B-MISC	OCC
-किए	VM	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-उन्हे	PRP	O	O	O
-तय	JJ	O	O	O
-समय	NN	O	O	O
-में	PSP	O	O	O
-दाखिले	NN	O	O	O
-की	PSP	O	O	O
-प्रक्रिया	NN	O	O	O
-पूरी	JJ	O	B-MISC	O
-करनी	VM	O	I-MISC	OCC
-होगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-प्री	XC	O	O	O
-डीएलएड	XC	O	O	O
-सेकंड	XC	O	O	O
-राउंड	XC	O	O	O
-संस्थान	NN	O	O	O
-आवंटन	NN	O	O	O
-22	QC	B	O	O
-सितंबर	NNP	I	O	O
-को	PSP	O	O	O
-जारी	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-और	CC	O	O	O
-जिन	DEM	O	O	O
-अभ्यर्थियों	NN	O	O	O
-को	PSP	O	O	O
-इस	DEM	O	O	O
-राउंड	NN	O	O	O
-में	PSP	O	O	O
-संस्था	NN	O	O	O
-या	CC	O	O	O
-संस्थान	NN	O	O	O
-आवंटित	JJ	O	B-MISC	O
-किए	VM	O	I-MISC	OCC
-गए	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-उन्हें	PRP	O	O	O
-26	QC	B	O	O
-सितंबर	NNP	I	O	O
-2019	QC	O	O	O
-शाम	NN	O	O	O
-5	QC	O	O	O
-बजे	VM	O	O	O
-तक	RP	O	O	O
-शुल्क	NN	O	O	O
-जमा	JJ	O	B-STAT	O
-करवाकर	VM	O	I-STAT	O
-ऐडमिशन	NN	O	O	O
-लेना	VM	O	B-MISC	OCC
-होगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बता	VM	O	B-MISC	REP
-दें	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-शुल्क	NN	O	B-MISC	O
-जमा	NN	O	I-MISC	O
-कराने	VM	O	I-MISC	O
-की	PSP	O	O	O
-अंतिम	JJ	O	O	O
-तारीख	NN	O	O	O
-25	QC	O	O	O
-सितंबर	NNP	O	O	O
-2019	QC	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-अभ्यर्थियों	NN	O	O	O
-को	PSP	O	O	O
-अपने	PRP	O	O	O
-संभी	JJ	O	O	O
-मूल	JJ	O	O	O
-दस्तावेज	NN	O	O	O
-और	CC	O	O	O
-फोटोकॉपी	NN	O	O	O
-लेकर	VM	O	O	O
-आवंटित	JJ	O	O	O
-संस्थान	NN	O	O	O
-में	PSP	O	O	O
-उपस्थित	JJ	O	B-MISC	OCC
-होना	VM	O	I-MISC	O
-होगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-दाखिले	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-संस्थान	NN	O	O	O
-26	QC	O	O	O
-सितंबर	NNP	O	O	O
-तक	RP	O	O	O
-खुले	VM	O	B-MISC	OCC
-रहेंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-किसी	PRP	O	O	O
-संस्थान	NN	O	O	O
-में	PSP	O	O	O
-अभ्यर्थियों	NN	O	O	O
-को	PSP	O	O	O
-कोई	PRP	O	O	O
-परेशानी	NN	O	B-MISC	OCC
-आती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-वो	PRP	O	O	O
-इसकी	PRP	O	O	O
-शिकायत	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इससे	PRP	O	O	O
-पहले	NST	O	O	O
-प्री	XC	O	O	O
-डीएलड	NNP	O	O	O
-अभ्यर्थियों	NN	O	O	O
-के	PSP	O	O	O
-अपवार्ड	JJ	O	O	O
-मूवमेंट	NN	O	O	O
-की	PSP	O	O	O
-प्रक्रिया	NN	O	O	O
-खत्म	JJ	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-प्रक्रिया	NN	O	O	O
-में	PSP	O	O	O
-ज्यादा	QF	O	O	O
-समय	NN	O	B-MISC	O
-लगने	VM	O	I-MISC	O
-के	PSP	O	O	O
-कारण	NN	O	O	O
-ही	RP	O	O	O
-दूसरे	PRP	O	O	O
-चरण	NN	O	O	O
-की	PSP	O	O	O
-सीट	NN	O	O	O
-आवंटन	NN	O	O	O
-में	PSP	O	O	O
-देरी	NN	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अपवार्ड	XC	O	O	O
-मूवमेंट	NNP	O	O	O
-के	PSP	O	O	O
-तहत	JJ	O	O	O
-दाखिला	NN	O	O	O
-ने	PSP	O	O	O
-ले	VM	O	B-STAT	O
-पाने	VAUX	O	I-STAT	O
-वाले	PSP	O	I-STAT	O
-अभ्यर्थियों	NN	O	O	O
-को	PSP	O	O	O
-13	QC	B	O	O
-सितंबर	NNP	I	O	O
-को	PSP	O	O	O
-अंतिम	JJ	O	O	O
-मौका	NN	O	O	O
-दिया	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+रास्थान
+बीएसटीसी
+के
+लिए
+दूसरे
+चरण
+का
+रिजल्ट
+जारी
+कर
+दिया
+गया
+है
+.
+हालांकि
+यह
+रिजल्ट
+अपवार्ड
+मूवमेंट
+की
+दाखिला
+प्रक्रिया
+खत्म
+होने
+के
+पूरे
+एक
+महीने
+बाद
+जारी
+किया
+गया
+है
+.
+जिन
+आवेदकों
+को
+दूसरे
+चरण
+में
+संस्थान
+आवंटित
+किए
+गए
+हैं
+उन्हे
+तय
+समय
+में
+दाखिले
+की
+प्रक्रिया
+पूरी
+करनी
+होगी
+.
+प्री
+डीएलएड
+सेकंड
+राउंड
+संस्थान
+आवंटन
+22
+सितंबर
+को
+जारी
+कर
+दिया
+गया
+था
+और
+जिन
+अभ्यर्थियों
+को
+इस
+राउंड
+में
+संस्था
+या
+संस्थान
+आवंटित
+किए
+गए
+हैं
+उन्हें
+26
+सितंबर
+2019
+शाम
+5
+बजे
+तक
+शुल्क
+जमा
+करवाकर
+ऐडमिशन
+लेना
+होगा
+.
+बता
+दें
+कि
+शुल्क
+जमा
+कराने
+की
+अंतिम
+तारीख
+25
+सितंबर
+2019
+है
+.
+अभ्यर्थियों
+को
+अपने
+संभी
+मूल
+दस्तावेज
+और
+फोटोकॉपी
+लेकर
+आवंटित
+संस्थान
+में
+उपस्थित
+होना
+होगा
+.
+दाखिले
+के
+लिए
+संस्थान
+26
+सितंबर
+तक
+खुले
+रहेंगे
+.
+अगर
+किसी
+संस्थान
+में
+अभ्यर्थियों
+को
+कोई
+परेशानी
+आती
+है
+तो
+वो
+इसकी
+शिकायत
+कर
+सकते
+हैं
+.
+इससे
+पहले
+प्री
+डीएलड
+अभ्यर्थियों
+के
+अपवार्ड
+मूवमेंट
+की
+प्रक्रिया
+खत्म
+हुई
+थी
+.
+इस
+प्रक्रिया
+में
+ज्यादा
+समय
+लगने
+के
+कारण
+ही
+दूसरे
+चरण
+की
+सीट
+आवंटन
+में
+देरी
+हुई
+है
+.
+अपवार्ड
+मूवमेंट
+के
+तहत
+दाखिला
+ने
+ले
+पाने
+वाले
+अभ्यर्थियों
+को
+13
+सितंबर
+को
+अंतिम
+मौका
+दिया
+गया
+था
+.

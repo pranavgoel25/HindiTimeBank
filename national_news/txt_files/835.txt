@@ -1,223 +1,223 @@
-राजकोट	XC	O	O	O
-जिले	NNP	O	O	O
-के	PSP	O	O	O
-विंछिया	JJ	O	O	O
-कस्बे	NN	O	O	O
-में	PSP	O	O	O
-कोली	NNP	O	O	O
-समुदाय	NN	O	O	O
-के	PSP	O	O	O
-दो	QC	O	O	O
-परिवार	NN	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-आपस	PRP	O	O	O
-में	PSP	O	O	O
-भिड़	NNP	O	B-MISC	O
-गये	VAUX	O	I-MISC	O
-जिसमें	PRP	O	O	O
-कुछ	QF	O	O	O
-महिलाओं	NN	O	O	O
-समेत	PSP	O	O	O
-कम	QF	O	O	O
-से	PSP	O	O	O
-कम	QF	O	O	O
-10	QC	O	O	O
-लोग	NN	O	O	O
-घायल	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गये	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एक	QC	O	O	O
-अधिकारी	NN	O	O	O
-के	PSP	O	O	O
-मुताबिक	JJ	O	O	O
-प्रारंभिक	JJ	O	O	O
-जांच	NN	O	B-MISC	O
-में	PSP	O	O	O
-पता	JJ	O	B-MISC	OCC
-चला	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-दोनों	JJ	O	O	O
-परिवार	NN	O	O	O
-एक	QC	O	O	O
-प्रेम	NN	O	O	O
-प्रसंग	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	O
-आपस	PRP	O	O	O
-में	PSP	O	O	O
-रंजिश	NN	O	B-MISC	O
-पाले	VM	O	I-MISC	OCC
-हुए	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-राजकोट	NNP	O	O	O
-के	PSP	O	O	O
-पुलिस	NN	O	O	O
-अधीक्षक	JJ	O	O	O
-बलराम	XC	O	O	O
-मीणा	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘‘	JJ	O	O	O
-आज	NN	O	O	O
-का	PSP	O	O	O
-संघर्ष	NN	O	O	O
-इन	DEM	O	O	O
-परिवारों	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-प्रेम	NN	O	O	O
-प्रसंग	NN	O	O	O
-का	PSP	O	O	O
-नतीजा	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-’’	NN	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘‘	NN	O	O	O
-कुछ	QF	B	O	O
-महीने	NN	I	O	O
-पहले	NST	O	O	O
-दोनों	JJ	O	O	O
-परिवारों	NN	O	O	O
-में	PSP	O	O	O
-सुलह	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-लेकिन	CC	O	O	O
-आज	NN	O	O	O
-इन	DEM	O	O	O
-परिवारों	NN	O	O	O
-के	PSP	O	O	O
-दो	QC	O	O	O
-सदस्यों	NN	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-झगड़ा	VM	O	B-MISC	OCC
-हो	VAUX	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अन्य	JJ	O	O	O
-सदस्यों	NN	O	O	O
-के	PSP	O	O	O
-भी	RP	O	O	O
-शामिल	JJ	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-और	CC	O	O	O
-एक	QC	O	O	O
-दूसरे	NN	O	O	O
-पर	PSP	O	O	O
-हमला	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-से	PSP	O	O	O
-यह	DEM	O	O	O
-झड़प	NN	O	O	O
-हिंसक	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’’	XC	O	O	O
-मोबाइल	NN	O	O	O
-में	PSP	O	O	O
-कैद	NN	O	B-STAT	O
-हुए	VM	O	I-STAT	O
-घटना	NN	O	B-MISC	OCC
-के	PSP	O	O	O
-वीडियो	NN	O	O	O
-में	PSP	O	O	O
-कुछ	QF	O	O	O
-लोगों	NN	O	O	O
-को	PSP	O	O	O
-दूसरों	NN	O	O	O
-पर	PSP	O	O	O
-लाठियों	NN	O	O	O
-से	PSP	O	O	O
-हमला	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-देखा	VM	O	B-MISC	OCC
-जा	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वहीं	PRP	O	O	O
-कुछ	QF	O	O	O
-अन्य	JJ	O	O	O
-जान	NN	O	O	O
-बचाने	VM	O	O	O
-को	PSP	O	O	O
-भागते	VM	O	B-MISC	OCC
-दिख	VAUX	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘‘	JJ	O	O	O
-घटना	NN	O	O	O
-में	PSP	O	O	O
-कुछ	QF	O	O	O
-महिलाओं	NN	O	O	O
-समेत	PSP	O	O	O
-करीब	RB	O	O	O
-10	QC	O	O	O
-लोग	NN	O	O	O
-घायल	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गये	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कुछ	QF	O	O	O
-को	PSP	O	O	O
-फ्रेक्चर	NN	O	B-MISC	OCC
-भी	RP	O	I-MISC	O
-हो	VM	O	I-MISC	OCC
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्हें	PRP	O	O	O
-बोताड	NN	O	O	O
-और	CC	O	O	O
-राजकोट	NNP	O	O	O
-के	PSP	O	O	O
-अस्पतालों	NN	O	O	O
-में	PSP	O	O	O
-भर्ती	NN	O	B-MISC	OCC
-कराया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’’	JJ	O	O	O
-अधिकारी	NN	O	O	O
-के	PSP	O	O	O
-मुताबिक	JJ	O	O	O
-करीब	RB	O	O	O
-20	QC	O	O	O
-लोगों	NN	O	O	O
-को	PSP	O	O	O
-हिरासत	NN	O	B-MISC	OCC
-में	PSP	O	I-MISC	O
-लिया	VM	O	I-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-हालात	NN	O	O	O
-अब	PRP	O	O	O
-नियंत्रण	NN	O	O	O
-में	PSP	O	O	O
-हैं	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-पुलिस	NN	O	O	O
-जल्द	NN	O	O	O
-मामले	NN	O	O	O
-में	PSP	O	O	O
-प्राथमिकी	JJ	O	O	O
-दर्ज	NN	O	B-MISC	OCC
-करेगी	VM	O	I-MISC	O
-.	SYM	O	O	O
+राजकोट
+जिले
+के
+विंछिया
+कस्बे
+में
+कोली
+समुदाय
+के
+दो
+परिवार
+बुधवार
+को
+आपस
+में
+भिड़
+गये
+जिसमें
+कुछ
+महिलाओं
+समेत
+कम
+से
+कम
+10
+लोग
+घायल
+हो
+गये
+.
+एक
+अधिकारी
+के
+मुताबिक
+प्रारंभिक
+जांच
+में
+पता
+चला
+है
+कि
+दोनों
+परिवार
+एक
+प्रेम
+प्रसंग
+को
+लेकर
+आपस
+में
+रंजिश
+पाले
+हुए
+थे
+.
+राजकोट
+के
+पुलिस
+अधीक्षक
+बलराम
+मीणा
+ने
+कहा
+,
+‘‘
+आज
+का
+संघर्ष
+इन
+परिवारों
+में
+एक
+प्रेम
+प्रसंग
+का
+नतीजा
+है
+.
+’’
+उन्होंने
+कहा
+,
+‘‘
+कुछ
+महीने
+पहले
+दोनों
+परिवारों
+में
+सुलह
+हो
+गयी
+थी
+लेकिन
+आज
+इन
+परिवारों
+के
+दो
+सदस्यों
+के
+बीच
+झगड़ा
+हो
+गया
+.
+अन्य
+सदस्यों
+के
+भी
+शामिल
+होने
+और
+एक
+दूसरे
+पर
+हमला
+करने
+से
+यह
+झड़प
+हिंसक
+हो
+गयी
+.
+’’
+मोबाइल
+में
+कैद
+हुए
+घटना
+के
+वीडियो
+में
+कुछ
+लोगों
+को
+दूसरों
+पर
+लाठियों
+से
+हमला
+करते
+हुए
+देखा
+जा
+सकता
+है
+,
+वहीं
+कुछ
+अन्य
+जान
+बचाने
+को
+भागते
+दिख
+रहे
+हैं
+.
+उन्होंने
+कहा
+,
+‘‘
+घटना
+में
+कुछ
+महिलाओं
+समेत
+करीब
+10
+लोग
+घायल
+हो
+गये
+.
+कुछ
+को
+फ्रेक्चर
+भी
+हो
+गया
+.
+उन्हें
+बोताड
+और
+राजकोट
+के
+अस्पतालों
+में
+भर्ती
+कराया
+गया
+है
+.
+’’
+अधिकारी
+के
+मुताबिक
+करीब
+20
+लोगों
+को
+हिरासत
+में
+लिया
+गया
+है
+और
+हालात
+अब
+नियंत्रण
+में
+हैं
+.
+पुलिस
+जल्द
+मामले
+में
+प्राथमिकी
+दर्ज
+करेगी
+.

@@ -1,618 +1,618 @@
-पंडित	XC	O	O	O
-हृदयनाथ	XC	O	O	O
-अयोध्याय	NNP	O	O	O
-के	PSP	O	O	O
-एक	QC	O	O	O
-सम्मानित	JJ	O	O	O
-पुरुष	NN	O	B-STAT	O
-थे	VM	O	I-STAT	O
-.	SYM	O	O	O
-धनवान्	NN	O	O	O
-तो	RP	O	O	O
-नहीं	NEG	O	O	O
-लेकिन	CC	O	O	O
-खाने-पीने	NN	O	O	O
-से	PSP	O	O	O
-खुश	JJ	O	B-STAT	OCC
-थे	VM	O	I-STAT	O
-.	SYM	O	O	O
-कई	QF	O	O	O
-मकान	NN	O	O	O
-थे	VM	O	B-MISC	O
-,	SYM	O	O	O
-उन्हीं	PRP	O	O	O
-के	PSP	O	O	O
-किराये	NN	O	O	O
-पर	PSP	O	O	O
-गुजर	VM	O	B-MISC	OCC
-होता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इधर	XC	O	O	O
-किराये	NN	O	O	O
-बढ़	NNP	O	B-MISC	OCC
-गये	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-अपनी	PRP	O	O	O
-सवारी	NN	O	O	O
-भी	RP	O	O	O
-रख	VM	O	B-MISC	OCC
-ली	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बहुत	INTF	O	O	O
-विचारशील	JJ	O	O	O
-आदमी	NN	O	O	O
-थे	VM	O	B-STAT	O
-,	SYM	O	O	O
-अच्छी	JJ	O	O	O
-शिक्षा	NN	O	O	O
-पायी	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-संसार	NN	O	O	O
-का	PSP	O	O	O
-काफी	QF	O	O	O
-तजुरबा	NN	O	O	OCC
-था	VM	O	O	O
-,	SYM	O	O	O
-पर	PSP	O	O	O
-क्रियात्मक	JJ	O	O	O
-शक्ति	NN	O	O	O
-से	PSP	O	O	O
-वंचित	JJ	O	B-STAT	O
-थे	VM	O	I-STAT	O
-,	SYM	O	O	O
-सबकुछ	NN	O	O	O
-न	NEG	O	B-MISC	O
-जानते	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-समाज	NN	O	O	O
-उनकी	PRP	O	O	O
-आंखों	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-भयंकर	JJ	O	O	O
-भूत	NN	O	O	O
-था	VM	O	O	O
-जिससे	PRP	O	O	O
-सदैव	RB	O	O	O
-डरते	VM	O	B-MISC	OCC
-रहना	VAUX	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसे	PRP	O	O	O
-जरा	QF	O	O	O
-भी	RP	O	O	O
-रुष्ट	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-तो	CC	O	O	O
-फिर	RB	O	O	O
-जान	NN	O	O	O
-की	PSP	O	O	O
-खैर	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-.	SYM	O	O	O
-उनकी	PRP	O	O	O
-स्त्री	NN	O	O	O
-जागेश्वरी	NNP	O	O	O
-उनका	PRP	O	O	O
-प्रतिबिम्ब	NN	O	O	O
-थी	VM	O	B-STAT	O
-,	SYM	O	O	O
-पति	NN	O	O	O
-के	PSP	O	O	O
-विचार	NN	O	O	O
-उसके	PRP	O	O	O
-विचार	NN	O	O	O
-और	CC	O	O	O
-पति	NN	O	O	O
-की	PSP	O	O	O
-इच्छा	NN	O	O	O
-उसकी	PRP	O	O	O
-इच्छा	NN	O	O	O
-थी	VM	O	O	O
-,	SYM	O	O	O
-दोनों	JJ	O	O	O
-प्राणियों	NN	O	O	O
-में	PSP	O	O	O
-कभी	PRP	O	O	O
-मतभेद	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जागेश्वरी	NNP	O	O	O
-शिव	NNP	O	O	O
-की	PSP	O	O	O
-उपासक	NN	O	O	O
-थी	VM	O	B-STAT	O
-,	SYM	O	O	O
-हृदयनाथ	NN	O	O	O
-वैष्णव	JJ	O	B-STAT	O
-थे	VM	O	I-STAT	O
-,	SYM	O	O	O
-पर	PSP	O	O	O
-दान	NN	O	O	O
-और	CC	O	O	O
-व्रत	NN	O	O	O
-में	PSP	O	O	O
-दोनों	NN	O	O	O
-को	PSP	O	O	O
-समान	JJ	O	O	O
-श्रध्दा	NN	O	O	O
-थी	VM	O	O	O
-,	SYM	O	O	O
-दोनों	JJ	O	O	O
-धर्मनिष्ठ	NN	O	O	O
-थे	VM	O	B-MISC	O
-,	SYM	O	O	O
-उससे	PRP	O	O	O
-कहीं	PRP	O	O	O
-अधिक	QF	O	O	O
-,	SYM	O	O	O
-जितना	QF	O	O	O
-सामान्यत	JJ	O	O	O
-:	SYM	O	O	O
-शिक्षित	JJ	O	O	O
-लोग	NN	O	O	O
-हुआ	VM	O	B-MISC	OCC
-करते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसका	PRP	O	O	O
-कदाचित्	NN	O	O	O
-यह	DEM	O	O	O
-कारण	NN	O	O	O
-था	VM	O	B-MISC	O
-कि	CC	O	O	O
-एक	QC	O	O	O
-कन्या	NN	O	O	O
-के	PSP	O	O	O
-सिवा	PSP:?	O	O	O
-उनके	PRP	O	O	O
-और	CC	O	O	O
-कोई	PRP	O	O	O
-संतान	NN	O	O	O
-न	NEG	O	B-MISC	O
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-उसका	PRP	O	O	O
-विवाह	NN	O	O	O
-तेरहवें	PRP	O	O	O
-वर्ष	NN	O	O	O
-में	PSP	O	O	O
-हो	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-और	CC	O	O	O
-माता-पिता	NN	O	O	O
-की	PSP	O	O	O
-अब	PRP	O	O	O
-यही	DEM	O	O	O
-लालसा	NN	O	O	O
-थी	VM	O	O	O
-कि	CC	O	O	O
-भगवान्	NN	O	O	O
-इसे	PRP	O	O	O
-पुत्रवती	NN	O	B-MISC	OCC
-करें	VM	O	I-MISC	O
-तो	CC	O	O	O
-हम	PRP	O	O	O
-लोग	NN	O	O	O
-नवासे	NN	O	O	O
-के	PSP	O	O	O
-नाम	NN	O	O	O
-अपना	PRP	O	O	O
-सब-कुछ	NN	O	O	O
-लिख-लिखाकर	VM	O	B-MISC	OCC
-निश्चिंत	JJ	O	B-MISC	O
-हो	VM	O	I-MISC	O
-जायें	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-किंतु	CC	O	O	O
-विधाता	NN	O	O	O
-को	PSP	O	O	O
-कुछ	QF	O	O	O
-और	CC	O	O	O
-ही	RP	O	O	O
-मंजूर	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कैलासकुमारी	NN	O	O	O
-का	PSP	O	O	O
-अभी	PRP	O	O	O
-गौना	VM	O	B-MISC	OCC
-भी	RP	O	O	O
-न	NEG	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-अभी	PRP	O	O	O
-तक	RP	O	O	O
-यह	PRP	O	O	O
-भी	RP	O	O	O
-न	NEG	O	B-MISC	OCC
-जानने	VM	O	I-MISC	O
-पायी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-विवाह	NN	O	O	O
-का	PSP	O	O	O
-आशय	NN	O	O	O
-क्या	WQ	O	O	O
-है	VM	O	B-STAT	DEC
-,	SYM	O	O	O
-कि	CC	O	O	O
-उसका	PRP	O	O	O
-सोहाग	NN	O	B-MISC	O
-उठ	VM	O	I-MISC	OCC
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वैधव्य	NN	O	O	O
-ने	PSP	O	O	O
-उसके	PRP	O	O	O
-जीवन	NN	O	O	O
-की	PSP	O	O	O
-अभिलाषाओं	NN	O	O	O
-का	PSP	O	O	O
-दीपक	NN	O	O	O
-बुझा	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-माता	NN	O	O	O
-और	CC	O	O	O
-पिता	NN	O	O	O
-विलाप	NN	O	O	OCC
-कर	VM	O	B-MISC	O
-रहे	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-कुहराम	NN	O	O	O
-मचा	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-पर	PSP	O	O	O
-कैलासकुमारी	JJ	O	O	O
-भौंचक्की	NN	O	O	O
-हो-होकर	VM	O	O	O
-सबके	PRP	O	O	O
-मुंह	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-ताकती	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसकी	PRP	O	O	O
-समझ	NN	O	O	O
-ही	RP	O	O	O
-में	PSP	O	O	O
-न	NEG	O	B-MISC	OCC
-आता	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-यह	DEM	O	O	O
-लोग	NN	O	O	O
-रोते	VM	O	O	OCC
-क्यों	WQ	O	O	O
-हैं	VM	O	B-STAT	O
-?	SYM	O	O	O
-मां-बाप	NN	O	O	O
-की	PSP	O	O	O
-इकलौती	JJ	O	O	O
-बेटी	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-मां-बाप	NN	O	O	O
-के	PSP	O	O	O
-अतिरिक्त	PSP:?	O	O	O
-वह	PRP	O	O	O
-किसी	PRP	O	O	O
-तीसरे	QO	O	O	O
-व्यक्ति	NN	O	O	O
-को	PSP	O	O	O
-अपने	PRP	O	O	O
-लिए	PSP	O	O	O
-आवश्यक	JJ	O	B-MISC	O
-न	NEG	O	I-MISC	O
-समझती	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसकी	PRP	O	O	O
-सुख-कल्पनाओं	NN	O	O	O
-में	PSP	O	O	O
-अभी	PRP	O	O	O
-तक	RP	O	O	O
-पति	NN	O	O	O
-का	PSP	O	O	O
-प्रवेश	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-समझती	VM	O	O	O
-थी	VAUX	O	O	O
-,	SYM	O	O	O
-स्त्रियां	NN	O	O	O
-पति	NN	O	O	O
-के	PSP	O	O	O
-मरने	VM	O	O	O
-पर	PSP	O	O	O
-इसलिए	PSP	O	O	O
-रोती	VM	O	B-MISC	REP
-हैं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-वह	PRP	O	O	O
-उनका	PRP	O	O	O
-और	CC	O	O	O
-उनके	PRP	O	O	O
-बच्चों	NN	O	O	O
-का	PSP	O	O	O
-पालन	NN	O	B-MISC	OCC
-करता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मेरे	PRP	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-किस	WQ	O	O	O
-बात	NN	O	O	O
-की	PSP	O	O	O
-कमी	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-?	SYM	O	O	O
-मुझे	PRP	O	O	O
-इसकी	PRP	O	O	O
-क्या	WQ	O	O	O
-चिन्ता	NN	O	O	DEC
-है	VM	O	B-STAT	O
-कि	CC	O	O	O
-खायेंगे	VM	O	O	O
-क्या	WQ	O	O	O
-,	SYM	O	O	O
-पहनेंगे	VM	O	O	OCC
-क्या	WQ	O	O	O
-?	SYM	O	O	O
-मुझे	PRP	O	O	O
-जिस	DEM	O	O	O
-चीज	NN	O	O	O
-की	PSP	O	O	O
-जरूरत	NN	O	B-MISC	O
-होगी	VM	O	I-MISC	O
-बाबूजी	NN	O	O	O
-तुरन्त	RB	O	O	O
-ला	VM	O	B-MISC	OCC
-देंगे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-अम्मा	NN	O	O	O
-से	PSP	O	O	O
-जो	PRP	O	O	O
-चीज	NN	O	O	O
-मांगूंगी	VM	O	O	O
-वह	PRP	O	O	O
-दे	VM	O	B-MISC	OCC
-देंगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फिर	RB	O	O	O
-रोऊं	VM	O	O	OCC
-क्यों	WQ	O	O	O
-?	SYM	O	O	O
-यह	PRP	O	O	O
-अपनी	PRP	O	O	O
-मां	NN	O	O	O
-को	PSP	O	O	O
-रोते	VM	O	B-MISC	OCC
-देखती	VM	O	I-MISC	O
-तो	CC	O	O	O
-रोती	XC	O	O	O
-,	SYM	O	O	O
-पति	NN	O	O	O
-के	PSP	O	O	O
-शोक	NN	O	O	O
-से	PSP	O	O	O
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-मां	NN	O	O	O
-के	PSP	O	O	O
-प्रेम	NN	O	O	O
-से	PSP	O	O	O
-.	SYM	O	O	O
-कभी	RDP	O	O	O
-सोचती	VM	O	O	O
-,	SYM	O	O	O
-शायद	RB	O	O	O
-यह	DEM	O	O	O
-लोग	NN	O	O	O
-इसलिए	PSP	O	O	O
-रोते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-कहीं	PRP	O	O	O
-मैं	PRP	O	O	O
-कोई	PRP	O	O	O
-ऐसी	DEM	O	O	O
-चीज	NN	O	O	O
-न	NEG	O	O	O
-मांग	XC	O	O	O
-बैठूं	NN	O	O	O
-जिसे	PRP	O	O	O
-वह	PRP	O	O	O
-दे	VM	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-सकें	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-तो	CC	O	O	O
-मैं	PRP	O	O	O
-ऐसी	DEM	O	O	O
-चीज	NN	O	O	O
-मांगूंगी	VM	O	O	O
-ही	RP	O	O	O
-क्यों	WQ	O	O	O
-?	SYM	O	O	O
-मैं	PRP	O	O	O
-अब	PRP	O	O	O
-भी	RP	O	O	O
-तो	RP	O	O	O
-उनसे	PRP	O	O	O
-कुछ	QF	O	O	O
-नहीं	NEG	O	B-MISC	O
-मांगती	VM	O	I-MISC	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-आप	PRP	O	O	O
-ही	RP	O	O	O
-मेरे	PRP	O	O	O
-लिए	PSP	O	O	O
-एक	QC	O	O	O
-न	NEG	O	O	O
-एक	QC	O	O	O
-चीज	NN	O	O	O
-नित्य	RB	O	O	O
-लाते	VM	O	B-MISC	OCC
-रहते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-क्या	WQ	O	O	O
-मैं	PRP	O	O	O
-अब	PRP	O	O	O
-कुछ	QF	O	O	O
-और	CC	O	O	O
-हो	VM	O	B-MISC	O
-जाऊंगी	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-इधर	XC	O	O	O
-माता	NN	O	O	O
-का	PSP	O	O	O
-यह	DEM	O	O	O
-हाल	NN	O	B-MISC	OCC
-था	VM	O	I-MISC	O
-कि	CC	O	O	O
-बेटी	NN	O	O	O
-की	PSP	O	O	O
-सूरत	NN	O	B-MISC	O
-देखते	VM	O	I-MISC	O
-ही	RP	O	O	O
-आंखों	NN	O	O	O
-से	PSP	O	O	O
-आंसू	NN	O	B-MISC	O
-की	VM	O	I-MISC	O
-झड़ी	NN	O	B-MISC	OCC
-लग	VM	O	I-MISC	O
-जाती	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बाप	NN	O	O	O
-की	PSP	O	O	O
-दशा	NN	O	O	O
-और	CC	O	O	O
-भी	RP	O	O	O
-करुणाजनक	JJ	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-आना-जाना	VM	O	B-MISC	O
-छोड़	NNP	O	B-MISC	OCC
-दिया	VM	O	I-MISC	O
-.	SYM	O	O	O
-सिर	NN	O	O	O
-पर	PSP	O	O	O
-हाथ	NN	O	B-MISC	O
-धरे	VM	O	I-MISC	O
-कमरे	NN	O	O	O
-में	PSP	O	O	O
-अकेले	JJ	O	O	O
-उदास	NN	O	O	O
-बैठे	VM	O	B-MISC	OCC
-रहते	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसे	PRP	O	O	O
-विशेष	JJ	O	O	O
-दु	QC	O	O	O
-:	SYM	O	O	O
-ख	SYM	O	O	O
-इस	DEM	O	O	O
-बात	NN	O	O	O
-का	PSP	O	O	O
-था	VM	O	B-MISC	O
-कि	CC	O	O	O
-सहेलियां	NN	O	O	O
-भी	RP	O	O	O
-अब	PRP	O	O	O
-उसके	PRP	O	O	O
-साथ	NST	O	O	O
-खेलने	VM	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-आतीं	VM	O	I-MISC	O
-.	SYM	O	O	O
-उसने	PRP	O	O	O
-उनके	PRP	O	O	O
-घर	NN	O	O	O
-जाने	VM	O	B-MISC	OCC
-की	PSP	O	O	O
-माता	NN	O	O	O
-से	PSP	O	O	O
-आज्ञा	NN	O	O	O
-मांगी	VM	O	B-MISC	OCC
-तो	CC	O	O	O
-वह	PRP	O	O	O
-फूट-फूट	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रोने	VM	O	B-MISC	OCC
-लगीं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-माता-पिता	NN	O	O	O
-की	PSP	O	O	O
-यह	DEM	O	O	O
-दशा	NN	O	B-MISC	O
-देखी	VM	O	I-MISC	OCC
-तो	CC	O	O	O
-उसने	PRP	O	O	O
-उनके	PRP	O	O	O
-सामने	NST	O	B-MISC	O
-जाना	VM	O	I-MISC	O
-छोड़	NNP	O	O	O
-दिया	VM	O	B-MISC	O
-,	SYM	O	O	O
-बैठी	RDP	O	O	O
-किस्से-कहानियां	NN	O	O	O
-पढ़ा	XC	O	B-MISC	O
-करती	VM	O	I-MISC	O
-.	SYM	O	O	O
-उसकी	PRP	O	O	O
-एकांतप्रियता	NN	O	O	O
-का	PSP	O	O	O
-मां-बाप	NN	O	O	O
-ने	PSP	O	O	O
-कुछ	QF	O	O	O
-और	CC	O	O	O
-ही	RP	O	O	O
-अर्थ	NN	O	B-MISC	O
-समझा	VM	O	I-MISC	O
-.	SYM	O	O	O
-लड़की	XC	O	O	O
-शोक	NN	O	O	O
-के	PSP	O	O	O
-मारे	NN	O	O	O
-घुली	VM	O	B-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-इस	DEM	O	O	O
-वज्रपात	NN	O	O	O
-ने	PSP	O	O	O
-उसके	PRP	O	O	O
-हृदय	NN	O	O	O
-को	PSP	O	O	O
-टुकड़े-टुकड़े	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-डाला	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+पंडित
+हृदयनाथ
+अयोध्याय
+के
+एक
+सम्मानित
+पुरुष
+थे
+.
+धनवान्
+तो
+नहीं
+लेकिन
+खाने-पीने
+से
+खुश
+थे
+.
+कई
+मकान
+थे
+,
+उन्हीं
+के
+किराये
+पर
+गुजर
+होता
+था
+.
+इधर
+किराये
+बढ़
+गये
+थे
+,
+उन्होंने
+अपनी
+सवारी
+भी
+रख
+ली
+थी
+.
+बहुत
+विचारशील
+आदमी
+थे
+,
+अच्छी
+शिक्षा
+पायी
+थी
+.
+संसार
+का
+काफी
+तजुरबा
+था
+,
+पर
+क्रियात्मक
+शक्ति
+से
+वंचित
+थे
+,
+सबकुछ
+न
+जानते
+थे
+.
+समाज
+उनकी
+आंखों
+में
+एक
+भयंकर
+भूत
+था
+जिससे
+सदैव
+डरते
+रहना
+चाहिए
+.
+उसे
+जरा
+भी
+रुष्ट
+किया
+तो
+फिर
+जान
+की
+खैर
+नहीं
+.
+उनकी
+स्त्री
+जागेश्वरी
+उनका
+प्रतिबिम्ब
+थी
+,
+पति
+के
+विचार
+उसके
+विचार
+और
+पति
+की
+इच्छा
+उसकी
+इच्छा
+थी
+,
+दोनों
+प्राणियों
+में
+कभी
+मतभेद
+न
+होता
+था
+.
+जागेश्वरी
+शिव
+की
+उपासक
+थी
+,
+हृदयनाथ
+वैष्णव
+थे
+,
+पर
+दान
+और
+व्रत
+में
+दोनों
+को
+समान
+श्रध्दा
+थी
+,
+दोनों
+धर्मनिष्ठ
+थे
+,
+उससे
+कहीं
+अधिक
+,
+जितना
+सामान्यत
+:
+शिक्षित
+लोग
+हुआ
+करते
+हैं
+.
+इसका
+कदाचित्
+यह
+कारण
+था
+कि
+एक
+कन्या
+के
+सिवा
+उनके
+और
+कोई
+संतान
+न
+थी
+.
+उसका
+विवाह
+तेरहवें
+वर्ष
+में
+हो
+गया
+था
+और
+माता-पिता
+की
+अब
+यही
+लालसा
+थी
+कि
+भगवान्
+इसे
+पुत्रवती
+करें
+तो
+हम
+लोग
+नवासे
+के
+नाम
+अपना
+सब-कुछ
+लिख-लिखाकर
+निश्चिंत
+हो
+जायें
+.
+किंतु
+विधाता
+को
+कुछ
+और
+ही
+मंजूर
+था
+.
+कैलासकुमारी
+का
+अभी
+गौना
+भी
+न
+हुआ
+था
+,
+वह
+अभी
+तक
+यह
+भी
+न
+जानने
+पायी
+थी
+कि
+विवाह
+का
+आशय
+क्या
+है
+,
+कि
+उसका
+सोहाग
+उठ
+गया
+.
+वैधव्य
+ने
+उसके
+जीवन
+की
+अभिलाषाओं
+का
+दीपक
+बुझा
+दिया
+.
+माता
+और
+पिता
+विलाप
+कर
+रहे
+थे
+,
+घर
+में
+कुहराम
+मचा
+हुआ
+था
+,
+पर
+कैलासकुमारी
+भौंचक्की
+हो-होकर
+सबके
+मुंह
+की
+ओर
+ताकती
+थी
+.
+उसकी
+समझ
+ही
+में
+न
+आता
+था
+कि
+यह
+लोग
+रोते
+क्यों
+हैं
+?
+मां-बाप
+की
+इकलौती
+बेटी
+थी
+.
+मां-बाप
+के
+अतिरिक्त
+वह
+किसी
+तीसरे
+व्यक्ति
+को
+अपने
+लिए
+आवश्यक
+न
+समझती
+थी
+.
+उसकी
+सुख-कल्पनाओं
+में
+अभी
+तक
+पति
+का
+प्रवेश
+न
+हुआ
+था
+.
+वह
+समझती
+थी
+,
+स्त्रियां
+पति
+के
+मरने
+पर
+इसलिए
+रोती
+हैं
+कि
+वह
+उनका
+और
+उनके
+बच्चों
+का
+पालन
+करता
+है
+.
+मेरे
+घर
+में
+किस
+बात
+की
+कमी
+है
+?
+मुझे
+इसकी
+क्या
+चिन्ता
+है
+कि
+खायेंगे
+क्या
+,
+पहनेंगे
+क्या
+?
+मुझे
+जिस
+चीज
+की
+जरूरत
+होगी
+बाबूजी
+तुरन्त
+ला
+देंगे
+,
+अम्मा
+से
+जो
+चीज
+मांगूंगी
+वह
+दे
+देंगी
+.
+फिर
+रोऊं
+क्यों
+?
+यह
+अपनी
+मां
+को
+रोते
+देखती
+तो
+रोती
+,
+पति
+के
+शोक
+से
+नहीं
+,
+मां
+के
+प्रेम
+से
+.
+कभी
+सोचती
+,
+शायद
+यह
+लोग
+इसलिए
+रोते
+हैं
+कि
+कहीं
+मैं
+कोई
+ऐसी
+चीज
+न
+मांग
+बैठूं
+जिसे
+वह
+दे
+न
+सकें
+.
+तो
+मैं
+ऐसी
+चीज
+मांगूंगी
+ही
+क्यों
+?
+मैं
+अब
+भी
+तो
+उनसे
+कुछ
+नहीं
+मांगती
+,
+वह
+आप
+ही
+मेरे
+लिए
+एक
+न
+एक
+चीज
+नित्य
+लाते
+रहते
+हैं
+.
+क्या
+मैं
+अब
+कुछ
+और
+हो
+जाऊंगी
+?
+इधर
+माता
+का
+यह
+हाल
+था
+कि
+बेटी
+की
+सूरत
+देखते
+ही
+आंखों
+से
+आंसू
+की
+झड़ी
+लग
+जाती
+.
+बाप
+की
+दशा
+और
+भी
+करुणाजनक
+थी
+.
+घर
+में
+आना-जाना
+छोड़
+दिया
+.
+सिर
+पर
+हाथ
+धरे
+कमरे
+में
+अकेले
+उदास
+बैठे
+रहते
+.
+उसे
+विशेष
+दु
+:
+ख
+इस
+बात
+का
+था
+कि
+सहेलियां
+भी
+अब
+उसके
+साथ
+खेलने
+न
+आतीं
+.
+उसने
+उनके
+घर
+जाने
+की
+माता
+से
+आज्ञा
+मांगी
+तो
+वह
+फूट-फूट
+कर
+रोने
+लगीं
+.
+माता-पिता
+की
+यह
+दशा
+देखी
+तो
+उसने
+उनके
+सामने
+जाना
+छोड़
+दिया
+,
+बैठी
+किस्से-कहानियां
+पढ़ा
+करती
+.
+उसकी
+एकांतप्रियता
+का
+मां-बाप
+ने
+कुछ
+और
+ही
+अर्थ
+समझा
+.
+लड़की
+शोक
+के
+मारे
+घुली
+जाती
+है
+,
+इस
+वज्रपात
+ने
+उसके
+हृदय
+को
+टुकड़े-टुकड़े
+कर
+डाला
+है
+.

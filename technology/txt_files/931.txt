@@ -1,347 +1,347 @@
-Whatsapp	NN	O	O	O
-इस	DEM	O	O	O
-वक्त	NN	O	O	O
-दुनियाभर	NN	O	O	O
-के	PSP	O	O	O
-करोड़ों	NN	O	O	O
-यूजर्स	NNP	O	O	O
-का	PSP	O	O	O
-सबसे	INTF	O	O	O
-पसंदीदा	JJ	O	O	O
-इंस्टैंट	XC	O	O	O
-मेसेजिंग	NNP	O	O	O
-ऐप	NN	O	O	O
-बना	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फ्रेंड्स	NN	O	O	O
-और	CC	O	O	O
-फैमिली	NN	O	O	O
-से	PSP	O	O	O
-कनेक्ट	NN	O	B-MISC	O
-रहने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-यूजर्स	NN	O	O	O
-इसका	PRP	O	O	O
-खूब	JJ	O	O	O
-इस्तेमाल	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वॉट्सऐप	NN	O	O	O
-भी	RP	O	O	O
-यूजर्स	NN	O	O	O
-के	PSP	O	O	O
-इन-ऐप	DEM	O	O	O
-एक्सपीरियंस	NN	O	O	O
-तो	RP	O	O	O
-बेहतर	JJ	O	O	O
-बनाने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-नए-नए	JJ	O	O	O
-अपडेट	NN	O	B-MISC	O
-लाता	VM	O	I-MISC	OCC
-रहता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अपडेट्स	NN	O	O	O
-के	PSP	O	O	O
-जरिए	PSP	O	O	O
-ऐप	NN	O	O	O
-में	PSP	O	O	O
-नए	JJ	O	O	O
-फीचर	NN	O	O	O
-तो	CC	O	O	O
-जुड़	NN	O	B-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-वॉट्सऐप	NN	O	O	O
-में	PSP	O	O	O
-कुछ	QF	O	O	O
-ऐसी	DEM	O	O	O
-ट्रिक्स	NN	O	O	O
-भी	RP	O	O	O
-हैं	VM	O	B-STAT	O
-जिनके	PRP	O	O	O
-जरिए	PSP	O	O	O
-चैटिंग	NN	O	O	O
-का	PSP	O	O	O
-मजा	NN	O	O	O
-दोगुना	VM	O	B-MISC	OCC
-हो	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यहां	PRP	O	O	O
-हम	PRP	O	O	O
-आपको	PRP	O	O	O
-कुछ	QF	O	O	O
-ऐसी	PRP	O	O	O
-की	VM	O	O	O
-वॉट्सऐप	DEM	O	O	O
-ट्रिक्स	NN	O	O	O
-के	PSP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-बता	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वॉट्सऐप	NN	O	O	O
-पर	PSP	O	O	O
-आप	PRP	O	O	O
-टेक्स्ट	NN	O	O	O
-मेसेज	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-स्टिकर्स	NN	O	O	O
-,	SYM	O	O	O
-GIF	NN	O	O	O
-,	SYM	O	O	O
-या	CC	O	O	O
-किसी	PRP	O	O	O
-भी	RP	O	O	O
-भेजी	VM	O	B-MISC	OCC
-या	CC	O	O	O
-रिसीव	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-मीडिया	XC	O	O	O
-फाइल	NN	O	O	O
-को	PSP	O	O	O
-खास	JJ	O	O	O
-कॉन्टैक्ट	NN	O	O	O
-या	CC	O	O	O
-ग्रुप	NN	O	O	O
-से	PSP	O	O	O
-डिलीट	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इससे	PRP	O	O	O
-आपके	PRP	O	O	O
-फोन	NN	O	O	O
-का	PSP	O	O	O
-स्पेस	NN	O	O	O
-भी	RP	O	O	O
-बढ़ेगा	VM	O	B-MISC	-1
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-आपको	PRP	O	O	O
-वॉट्सऐप	DEM	O	O	O
-सेटिंग	NN	O	O	O
-में	PSP	O	O	O
-जाकर	VM	O	B-MISC	OCC
-डेटा	XC	O	O	O
-ऐंड	XC	O	O	O
-स्टोरेज	XC	O	O	O
-यूसेज	XC	O	O	O
-ऑप्शन	NN	O	O	O
-में	PSP	O	O	O
-जाना	VM	O	B-STAT	DECL
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-यहां	PRP	O	O	O
-स्टोरेज	NN	O	O	O
-पर	PSP	O	O	O
-टैप	NN	O	B-MISC	OCC
-करें	VM	O	I-MISC	O
-.	SYM	O	O	O
-ऐसा	PRP	O	O	O
-करते	VM	O	O	O
-ही	RP	O	O	O
-ज्यादा	QF	O	O	O
-से	PSP	O	O	O
-कम	QF	O	O	O
-साइज	NN	O	O	O
-के	PSP	O	O	O
-मीडिया	XC	O	O	O
-चैट्स	NNP	O	O	O
-की	PSP	O	O	O
-एक	QC	O	O	O
-लिस्ट	NN	O	O	O
-तैयार	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाएगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यहां	PRP	O	O	O
-आप	PRP	O	O	O
-किसी	PRP	O	O	O
-एक	QC	O	O	O
-ग्रुप	NN	O	O	O
-या	CC	O	O	O
-कॉन्टैक्ट	NN	O	O	O
-के	PSP	O	O	O
-द्वारा	PSP	O	O	O
-ली	VM	O	B-STAT	DES
-गई	VAUX	O	I-STAT	O
-स्टोरेज	NN	O	O	O
-की	PSP	O	O	O
-जानकारी	NN	O	B-MISC	OCC
-पा	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-नीचे	NST	O	O	OCC
-दिए	VM	O	B-MISC	O
-गए	VAUX	O	I-MISC	O
-फ्री	XC	O	O	O
-अप	NN	O	O	O
-स्पेस	XC	O	O	O
-ऑप्शन	NN	O	O	O
-में	PSP	O	O	O
-जाकर	VM	O	B-MISC	OCC
-स्टोरेज	XC	O	O	O
-क्लियर	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आप	PRP	O	O	O
-यहां	PRP	O	O	O
-चुन	VM	O	B-MISC	OCC
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-आपको	PRP	O	O	O
-कौन	WQ	O	O	O
-सी	RP	O	O	O
-चैट	NN	O	O	O
-को	PSP	O	O	O
-रखना	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-किसे	WQ	O	O	O
-डिलीट	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हर	QF	O	O	O
-यूजर	NN	O	O	O
-के	PSP	O	O	O
-कॉन्टैक्ट	NN	O	O	O
-लिस्ट	NN	O	O	O
-में	PSP	O	O	O
-कोई	PRP	O	O	O
-न	NEG	O	O	O
-कोई	PRP	O	O	O
-ऐसा	PRP	O	O	O
-जरूर	RB	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-जिसके	PRP	O	O	O
-द्वारा	PSP	O	O	O
-भेजे	VM	O	B-STAT	DESC
-गए	VAUX	O	I-STAT	O
-फोटो	NN	O	O	O
-और	CC	O	O	O
-विडियो	NN	O	O	O
-को	PSP	O	O	O
-छिपा	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-रखने	VM	O	O	O
-की	PSP	O	O	O
-जरूरत	NN	O	O	O
-पड़ती	XC	O	O	O
-है	NNP	O	O	O
-.	SYM	O	O	O
-आमतौर	NN	O	O	O
-पर	PSP	O	O	O
-यूजर	NN	O	O	O
-ऐसे	DEM	O	O	O
-फोटो	NN	O	O	O
-और	CC	O	O	O
-विडियो	NN	O	O	O
-को	PSP	O	O	O
-डिलीट	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-देते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-हम	PRP	O	O	O
-आपको	PRP	O	O	O
-बता	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-कैसे	WQ	O	O	O
-आप	PRP	O	O	O
-उन	DEM	O	O	O
-फोटो	NN	O	O	O
-और	CC	O	O	O
-विडियो	NN	O	O	O
-को	PSP	O	O	O
-फोन	NN	O	O	O
-में	PSP	O	O	O
-ही	RP	O	O	O
-रख	VM	O	B-MISC	OCC
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-इसे	PRP	O	O	O
-कोई	PRP	O	O	O
-देख	VM	O	B-MISC	OCC
-भी	RP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-पाएगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-आपको	PRP	O	O	O
-चैट	NN	O	O	O
-में	PSP	O	O	O
-जाकर	VM	O	B-MISC	OCC
-ग्रुप	NN	O	O	O
-या	CC	O	O	O
-कॉन्टैक्ट	NN	O	O	O
-पर	PSP	O	O	O
-टैप	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यहां	PRP	O	O	O
-आपको	PRP	O	O	O
-मीडिया	XC	O	O	O
-विजिबिलिटी	NN	O	O	O
-का	PSP	O	O	O
-ऑप्शन	NN	O	B-MISC	OCC
-मिलेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-इसे	PRP	O	O	O
-'	SYM	O	O	O
-No	NN	O	O	O
-'	SYM	O	B-MISC	O
-कर	VAUX	O	I-MISC	O
-दें	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसा	PRP	O	O	O
-करने	VM	O	B-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-आगे	NST	O	O	O
-आने	VM	O	B-STAT	O
-वाले	PSP	O	I-STAT	O
-कोई	PRP	O	O	O
-भी	RP	O	O	O
-मीडिया	XC	O	O	O
-फाइल	NN	O	O	O
-फोन	NN	O	O	O
-की	PSP	O	O	O
-गैलरी	NN	O	O	O
-में	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-दिखेंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
+Whatsapp
+इस
+वक्त
+दुनियाभर
+के
+करोड़ों
+यूजर्स
+का
+सबसे
+पसंदीदा
+इंस्टैंट
+मेसेजिंग
+ऐप
+बना
+हुआ
+है
+.
+फ्रेंड्स
+और
+फैमिली
+से
+कनेक्ट
+रहने
+के
+लिए
+यूजर्स
+इसका
+खूब
+इस्तेमाल
+करते
+हैं
+.
+वॉट्सऐप
+भी
+यूजर्स
+के
+इन-ऐप
+एक्सपीरियंस
+तो
+बेहतर
+बनाने
+के
+लिए
+नए-नए
+अपडेट
+लाता
+रहता
+है
+.
+अपडेट्स
+के
+जरिए
+ऐप
+में
+नए
+फीचर
+तो
+जुड़
+जाते
+हैं
+,
+लेकिन
+वॉट्सऐप
+में
+कुछ
+ऐसी
+ट्रिक्स
+भी
+हैं
+जिनके
+जरिए
+चैटिंग
+का
+मजा
+दोगुना
+हो
+सकता
+है
+.
+यहां
+हम
+आपको
+कुछ
+ऐसी
+की
+वॉट्सऐप
+ट्रिक्स
+के
+बारे
+में
+बता
+रहे
+हैं
+.
+वॉट्सऐप
+पर
+आप
+टेक्स्ट
+मेसेज
+के
+साथ
+ही
+स्टिकर्स
+,
+GIF
+,
+या
+किसी
+भी
+भेजी
+या
+रिसीव
+की
+गई
+मीडिया
+फाइल
+को
+खास
+कॉन्टैक्ट
+या
+ग्रुप
+से
+डिलीट
+कर
+सकते
+हैं
+.
+इससे
+आपके
+फोन
+का
+स्पेस
+भी
+बढ़ेगा
+.
+इसके
+लिए
+आपको
+वॉट्सऐप
+सेटिंग
+में
+जाकर
+डेटा
+ऐंड
+स्टोरेज
+यूसेज
+ऑप्शन
+में
+जाना
+है
+.
+यहां
+स्टोरेज
+पर
+टैप
+करें
+.
+ऐसा
+करते
+ही
+ज्यादा
+से
+कम
+साइज
+के
+मीडिया
+चैट्स
+की
+एक
+लिस्ट
+तैयार
+हो
+जाएगी
+.
+यहां
+आप
+किसी
+एक
+ग्रुप
+या
+कॉन्टैक्ट
+के
+द्वारा
+ली
+गई
+स्टोरेज
+की
+जानकारी
+पा
+सकते
+हैं
+.
+इसके
+साथ
+ही
+नीचे
+दिए
+गए
+फ्री
+अप
+स्पेस
+ऑप्शन
+में
+जाकर
+स्टोरेज
+क्लियर
+कर
+सकते
+हैं
+.
+आप
+यहां
+चुन
+सकते
+हैं
+कि
+आपको
+कौन
+सी
+चैट
+को
+रखना
+है
+और
+किसे
+डिलीट
+करना
+है
+.
+हर
+यूजर
+के
+कॉन्टैक्ट
+लिस्ट
+में
+कोई
+न
+कोई
+ऐसा
+जरूर
+होता
+है
+जिसके
+द्वारा
+भेजे
+गए
+फोटो
+और
+विडियो
+को
+छिपा
+के
+रखने
+की
+जरूरत
+पड़ती
+है
+.
+आमतौर
+पर
+यूजर
+ऐसे
+फोटो
+और
+विडियो
+को
+डिलीट
+कर
+देते
+हैं
+.
+हालांकि
+,
+हम
+आपको
+बता
+रहे
+हैं
+कि
+कैसे
+आप
+उन
+फोटो
+और
+विडियो
+को
+फोन
+में
+ही
+रख
+सकते
+हैं
+और
+इसे
+कोई
+देख
+भी
+नहीं
+पाएगा
+.
+इसके
+लिए
+आपको
+चैट
+में
+जाकर
+ग्रुप
+या
+कॉन्टैक्ट
+पर
+टैप
+करना
+है
+.
+यहां
+आपको
+मीडिया
+विजिबिलिटी
+का
+ऑप्शन
+मिलेगा
+.
+इसे
+'
+No
+'
+कर
+दें
+.
+ऐसा
+करने
+के
+बाद
+आगे
+आने
+वाले
+कोई
+भी
+मीडिया
+फाइल
+फोन
+की
+गैलरी
+में
+नहीं
+दिखेंगे
+.

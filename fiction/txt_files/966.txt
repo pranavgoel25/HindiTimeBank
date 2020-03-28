@@ -1,427 +1,427 @@
-अनाथ	NN	O	O	O
-और	CC	O	O	O
-विधवा	NN	O	O	O
-मानी	VM	O	O	O
-के	PSP	O	O	O
-लिये	PSP	O	O	O
-जीवन	NN	O	O	O
-में	PSP	O	O	O
-अब	PRP	O	O	O
-रोने	VM	O	O	O
-के	PSP	O	O	O
-सिवा	PSP:?	O	O	O
-दूसरा	QO	O	O	O
-अवलंब	NN	O	B-STAT	O
-न	NEG	O	I-STAT	OCC
-था	VM	O	I-STAT	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-पांच	QC	O	O	O
-वर्ष	NN	O	O	O
-की	VM	O	B-MISC	O
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जब	PRP	O	O	O
-पिता	NN	O	O	O
-का	PSP	O	O	O
-देहांत	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-माता	NN	O	O	O
-ने	PSP	O	O	O
-किसी	PRP	O	O	O
-तरह	NN	O	O	O
-उसका	PRP	O	O	O
-पालन	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-सोलह	QC	B	O	O
-वर्ष	NN	I	O	O
-की	PSP	O	O	O
-अवस्था	NN	O	O	O
-में	PSP	O	O	O
-मुहल्ले	NN	O	O	O
-वालों	PSP	O	O	O
-की	PSP	O	O	O
-मदद	NN	O	O	O
-से	PSP	O	O	O
-उसका	PRP	O	O	O
-विवाह	NN	O	B-MISC	OCC
-भी	RP	O	I-MISC	O
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-पर	PSP	O	O	O
-साल	NN	O	O	O
-के	PSP	O	O	O
-अंदर	NST	O	O	O
-ही	RP	O	O	O
-माता	NN	O	O	O
-और	CC	O	O	O
-‍	JJ	O	O	O
-पति	NN	O	O	O
-दोनों	JJ	O	O	O
-विदा	NN	O	O	O
-हो	VM	O	B-MISC	OCC
-गये	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-विपत्ति	NN	O	O	O
-में	PSP	O	O	O
-उसे	PRP	O	O	O
-उपने	VM	O	B-MISC	OCC
-चचा	VAUX	O	I-MISC	O
-वंशीधर	NN	O	O	O
-के	PSP	O	O	O
-सिवा	PSP:?	O	O	O
-और	CC	O	O	O
-कोई	PRP	O	O	O
-नजर	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-आया	VM	O	I-MISC	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-उसे	PRP	O	O	O
-आश्रय	NN	O	B-MISC	OCC
-देता	VM	O	I-MISC	O
-.	SYM	O	O	O
-वंशीधर	NN	O	O	O
-ने	PSP	O	O	O
-अब	PRP	O	O	O
-तक	RP	O	O	O
-जो	PRP	O	O	O
-व्यवहार	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उससे	PRP	O	O	O
-यह	PRP	O	O	O
-आशा	NN	O	B-MISC	O
-न	NEG	O	I-MISC	OCC
-हो	VM	O	I-MISC	O
-सकती	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-वहां	PRP	O	O	O
-वह	PRP	O	O	O
-शांति	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-रह	VM	O	B-MISC	O
-सकेगी	VAUX	O	I-MISC	O
-पर	PSP	O	O	O
-वह	PRP	O	O	O
-सब	QF	O	O	O
-कुछ	PRP	O	O	O
-सहने	VM	O	B-MISC	O
-और	CC	O	O	O
-सब	QF	O	O	O
-कुछ	QF	O	O	O
-करने	VM	O	O	O
-को	PSP	O	O	O
-तैयार	JJ	O	B-MISC	OCC
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-गाली	XC	O	O	O
-,	SYM	O	O	O
-झिड़की	NNP	O	O	O
-,	SYM	O	O	O
-मारपीट	NN	O	O	O
-सब	QF	O	O	O
-सह	VM	O	B-MISC	OCC
-लेगी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-कोई	PRP	O	O	O
-उस	DEM	O	O	O
-पर	PSP	O	O	O
-संदेह	NN	O	O	OCC
-तो	RP	O	O	O
-न	NEG	O	B-MISC	O
-करेगा	VM	O	I-MISC	O
-,	SYM	O	O	O
-उस	PRP	O	O	O
-पर	PSP	O	O	O
-मिथ्या	JJ	O	O	OCC
-लांछन	NN	O	O	O
-तो	RP	O	O	O
-न	NEG	O	O	O
-लगेगा	VM	O	O	O
-,	SYM	O	O	O
-शोहदों	NN	O	O	O
-और	CC	O	O	O
-लुच्चों	NN	O	O	O
-से	PSP	O	O	O
-तो	RP	O	O	O
-उसकी	PRP	O	O	O
-रक्षा	NN	O	B-MISC	OCC
-होगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-वंशीधर	NN	O	O	O
-को	PSP	O	O	O
-कुल	QF	O	O	O
-मर्यादा	NN	O	O	O
-की	PSP	O	O	O
-कुछ	QF	O	O	O
-चिंता	NN	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-.	SYM	O	O	O
-मानी	NN	O	O	O
-की	PSP	O	O	O
-याचना	NN	O	O	O
-को	PSP	O	O	O
-अस्वीकार	NN	O	B-MISC	O
-न	NEG	O	I-MISC	OCC
-कर	VM	O	I-MISC	O
-सके	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-लेकिन	CC	O	O	O
-दो	QC	B	O	O
-चार	QC	I	O	O
-महीने	NN	I	O	O
-में	PSP	O	O	O
-ही	RP	O	O	O
-मानी	NN	O	O	O
-को	PSP	O	O	O
-मालूम	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इस	DEM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-बहुत	QF	B	O	O
-दिनों	NN	I	O	O
-तक	RP	O	O	O
-उसका	PRP	O	O	O
-निबाह	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-होगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-घर	NN	O	O	O
-का	PSP	O	O	O
-सारा	QF	O	O	O
-काम	NN	O	O	O
-करती	VM	O	O	O
-,	SYM	O	O	O
-इशारों	NN	O	O	O
-पर	PSP	O	O	O
-नाचती	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-सबको	NN	O	O	O
-खुश	JJ	O	B-MISC	O
-रखने	VM	O	I-MISC	O
-की	PSP	O	O	O
-कोशिश	NN	O	B-MISC	O
-करती	VM	O	I-MISC	O
-पर	PSP	O	O	O
-न	NEG	O	B-MISC	OCC
-जाने	VM	O	I-MISC	O
-क्यों	WQ	O	O	O
-चचा	NN	O	O	O
-और	CC	O	O	O
-चची	NN	O	O	O
-दोनों	JJ	O	O	O
-उससे	PRP	O	O	O
-जलते	VM	O	B-MISC	OCC
-रहते	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसके	PRP	O	O	O
-आते	VM	O	O	O
-ही	RP	O	O	O
-महरी	NN	O	O	O
-अलग	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दी	VAUX	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-नहलाने-धुलाने	VM	O	O	O
-के	PSP	O	O	O
-लिये	PSP	O	O	O
-एक	QC	O	O	O
-लौंडा	NN	O	O	O
-था	VM	O	B-MISC	O
-उसे	PRP	O	O	O
-भी	RP	O	O	O
-जवाब	NN	O	B-MISC	OCC
-दे	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-पर	PSP	O	O	O
-मानी	VM	O	B-MISC	O
-से	PSP	O	O	O
-इतना	QF	O	O	O
-उबार	NN	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-भी	RP	O	O	O
-चचा	VM	O	B-MISC	OCC
-और	CC	O	O	O
-चची	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-जाने	VM	O	I-MISC	O
-क्यो	WQ	O	O	O
-उससे	PRP	O	O	O
-मुंह	NN	O	B-MISC	OCC
-फुलाये	VM	O	I-MISC	O
-रहते	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कभी	RDP	O	O	O
-चचा	NN	O	O	O
-घुड़कियां	NN	O	O	O
-जमाते	XC	O	O	O
-,	SYM	O	O	O
-कभी	RDP	O	O	O
-चची	NN	O	O	O
-कोसती	VM	O	O	OCC
-,	SYM	O	O	O
-यहां	PRP	O	O	O
-तक	RP	O	O	O
-कि	CC	O	O	O
-उसकी	PRP	O	O	O
-चचेरी	JJ	O	O	O
-बहन	NN	O	O	O
-ललिता	VM	O	B-MISC	O
-भी	RP	O	O	O
-बात-बात	NN	O	O	O
-पर	PSP	O	O	O
-उसे	PRP	O	O	O
-गालियां	NN	O	B-MISC	OCC
-देती	VM	O	I-MISC	O
-.	SYM	O	O	O
-घर-भर	NN	O	O	O
-में	PSP	O	O	O
-केवल	RP	O	O	O
-उसके	PRP	O	O	O
-चचेरे	JJ	O	O	O
-भाई	NN	O	O	O
-गोकुल	NN	O	O	O
-ही	RP	O	O	O
-को	PSP	O	O	O
-उससे	PRP	O	O	O
-सहानुभूति	NN	O	B-MISC	OCC
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-उसी	DEM	O	O	O
-की	PSP	O	O	O
-बातों	NN	O	O	O
-में	PSP	O	O	O
-कुछ	QF	O	O	O
-स्नेह	NN	O	O	O
-का	PSP	O	O	O
-परिचय	NN	O	B-MISC	O
-मिलता	VM	O	I-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-उपनी	PRP	O	O	O
-माता	NN	O	O	O
-का	PSP	O	O	O
-स्वभाव	NN	O	B-MISC	O
-जानता	VM	O	I-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-वह	PRP	O	O	O
-उसे	PRP	O	O	O
-समझाने	VM	O	B-MISC	OCC
-की	PSP	O	O	O
-चेष्टा	NN	O	B-MISC	OCC
-करता	VM	O	I-MISC	O
-,	SYM	O	O	O
-या	CC	O	O	O
-खुल्लमखुल्ला	JJ	O	O	O
-मानी	NN	O	O	O
-का	PSP	O	O	O
-पक्ष	NN	O	O	O
-लेता	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-मानी	NN	O	O	O
-को	PSP	O	O	O
-एक	QC	O	O	O
-घड़ी	XC	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-रहना	VM	O	B-MISC	O
-कठिन	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाता	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-इसलिये	CC	O	O	O
-उसकी	PRP	O	O	O
-सहानुभूति	NN	O	O	O
-मानी	VM	O	O	O
-ही	RP	O	O	O
-को	PSP	O	O	O
-दिलासा	NN	O	B-MISC	OCC
-देने	VM	O	I-MISC	O
-तक	RP	O	O	O
-रह	VM	O	B-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-कहता-	JJ	O	O	O
-बहन	NN	O	O	O
-,	SYM	O	O	O
-मुझे	PRP	O	O	O
-कहीं	PRP	O	O	O
-नौकर	NN	O	B-MISC	O
-हो	VM	O	I-MISC	OCC
-जाने	VAUX	O	I-MISC	O
-दो	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-‍	NN	O	O	O
-फिर	RB	O	O	O
-तुम्हारे	PRP	O	O	O
-कष्टों	NN	O	O	O
-का	PSP	O	O	O
-अंत	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जायगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-तब	PRP	O	O	O
-देखूंगा	VM	O	O	OCC
-,	SYM	O	O	O
-कौन	WQ	O	O	O
-तुम्हें	PRP	O	O	O
-तिरछी	JJ	O	O	O
-आंखों	NN	O	O	O
-से	PSP	O	O	O
-देखता	VM	O	B-STAT	OCC
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-तक	RP	O	O	O
-पढ़ता	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तभी	PRP	O	O	O
-तक	RP	O	O	O
-तुम्हारे	PRP	O	O	O
-बुरे	JJ	O	O	O
-दिन	NN	O	O	O
-हैं	VM	O	B-STAT	O
-.	SYM	O	O	O
-मानी	VM	O	O	O
-ये	DEM	O	O	O
-स्नेह	NN	O	O	O
-में	PSP	O	O	O
-डूबी	NN	O	O	O
-हुई	VM	O	O	O
-बात	NN	O	O	O
-सुनकर	VM	O	B-MISC	O
-पुलकित	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाती	VAUX	O	I-MISC	O
-और	CC	O	O	O
-उसका	PRP	O	O	O
-रोआं-रोआं	NN	O	O	O
-गोकुल	NN	O	O	O
-को	PSP	O	O	O
-आशीर्वाद	NN	O	O	OCC
-देने	VM	O	B-MISC	O
-लगता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+अनाथ
+और
+विधवा
+मानी
+के
+लिये
+जीवन
+में
+अब
+रोने
+के
+सिवा
+दूसरा
+अवलंब
+न
+था
+.
+वह
+पांच
+वर्ष
+की
+थी
+,
+जब
+पिता
+का
+देहांत
+हो
+गया
+.
+माता
+ने
+किसी
+तरह
+उसका
+पालन
+किया
+.
+सोलह
+वर्ष
+की
+अवस्था
+में
+मुहल्ले
+वालों
+की
+मदद
+से
+उसका
+विवाह
+भी
+हो
+गया
+पर
+साल
+के
+अंदर
+ही
+माता
+और
+‍
+पति
+दोनों
+विदा
+हो
+गये
+.
+इस
+विपत्ति
+में
+उसे
+उपने
+चचा
+वंशीधर
+के
+सिवा
+और
+कोई
+नजर
+न
+आया
+,
+जो
+उसे
+आश्रय
+देता
+.
+वंशीधर
+ने
+अब
+तक
+जो
+व्यवहार
+किया
+था
+,
+उससे
+यह
+आशा
+न
+हो
+सकती
+थी
+कि
+वहां
+वह
+शांति
+के
+साथ
+रह
+सकेगी
+पर
+वह
+सब
+कुछ
+सहने
+और
+सब
+कुछ
+करने
+को
+तैयार
+थी
+.
+वह
+गाली
+,
+झिड़की
+,
+मारपीट
+सब
+सह
+लेगी
+,
+कोई
+उस
+पर
+संदेह
+तो
+न
+करेगा
+,
+उस
+पर
+मिथ्या
+लांछन
+तो
+न
+लगेगा
+,
+शोहदों
+और
+लुच्चों
+से
+तो
+उसकी
+रक्षा
+होगी
+.
+वंशीधर
+को
+कुल
+मर्यादा
+की
+कुछ
+चिंता
+हुई
+.
+मानी
+की
+याचना
+को
+अस्वीकार
+न
+कर
+सके
+.
+लेकिन
+दो
+चार
+महीने
+में
+ही
+मानी
+को
+मालूम
+हो
+गया
+कि
+इस
+घर
+में
+बहुत
+दिनों
+तक
+उसका
+निबाह
+न
+होगा
+.
+वह
+घर
+का
+सारा
+काम
+करती
+,
+इशारों
+पर
+नाचती
+,
+सबको
+खुश
+रखने
+की
+कोशिश
+करती
+पर
+न
+जाने
+क्यों
+चचा
+और
+चची
+दोनों
+उससे
+जलते
+रहते
+.
+उसके
+आते
+ही
+महरी
+अलग
+कर
+दी
+गयी
+.
+नहलाने-धुलाने
+के
+लिये
+एक
+लौंडा
+था
+उसे
+भी
+जवाब
+दे
+दिया
+गया
+पर
+मानी
+से
+इतना
+उबार
+होने
+पर
+भी
+चचा
+और
+चची
+न
+जाने
+क्यो
+उससे
+मुंह
+फुलाये
+रहते
+.
+कभी
+चचा
+घुड़कियां
+जमाते
+,
+कभी
+चची
+कोसती
+,
+यहां
+तक
+कि
+उसकी
+चचेरी
+बहन
+ललिता
+भी
+बात-बात
+पर
+उसे
+गालियां
+देती
+.
+घर-भर
+में
+केवल
+उसके
+चचेरे
+भाई
+गोकुल
+ही
+को
+उससे
+सहानुभूति
+थी
+.
+उसी
+की
+बातों
+में
+कुछ
+स्नेह
+का
+परिचय
+मिलता
+था
+.
+वह
+उपनी
+माता
+का
+स्वभाव
+जानता
+था
+.
+अगर
+वह
+उसे
+समझाने
+की
+चेष्टा
+करता
+,
+या
+खुल्लमखुल्ला
+मानी
+का
+पक्ष
+लेता
+,
+तो
+मानी
+को
+एक
+घड़ी
+घर
+में
+रहना
+कठिन
+हो
+जाता
+,
+इसलिये
+उसकी
+सहानुभूति
+मानी
+ही
+को
+दिलासा
+देने
+तक
+रह
+जाती
+थी
+.
+वह
+कहता-
+बहन
+,
+मुझे
+कहीं
+नौकर
+हो
+जाने
+दो
+,
+‍
+फिर
+तुम्हारे
+कष्टों
+का
+अंत
+हो
+जायगा
+.
+तब
+देखूंगा
+,
+कौन
+तुम्हें
+तिरछी
+आंखों
+से
+देखता
+है
+.
+जब
+तक
+पढ़ता
+हूं
+,
+तभी
+तक
+तुम्हारे
+बुरे
+दिन
+हैं
+.
+मानी
+ये
+स्नेह
+में
+डूबी
+हुई
+बात
+सुनकर
+पुलकित
+हो
+जाती
+और
+उसका
+रोआं-रोआं
+गोकुल
+को
+आशीर्वाद
+देने
+लगता
+.

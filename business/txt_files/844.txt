@@ -1,320 +1,320 @@
-इक्विटी	JJ	O	O	O
-स्कीमों	NN	O	O	O
-में	PSP	O	O	O
-SIP	NN	O	O	O
-के	PSP	O	O	O
-जरिए	PSP	O	O	O
-निवेश	XC	O	O	O
-सितंबर	NNP	O	O	O
-में	PSP	O	O	O
-8,263	QC	O	O	O
-करोड़	XC	O	O	O
-रुपये	NN	O	O	O
-रहा	VAUX	O	O	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-अगस्त	NN	O	O	O
-में	PSP	O	O	O
-8,230	QC	O	O	O
-करोड़	XC	O	O	O
-रुपये	NN	O	O	O
-था	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-सितंबर	NNP	O	O	O
-लगातार	RB	O	O	O
-दसवां	NN	O	O	O
-ऐसा	PRP	O	O	O
-महीना	VM	O	B-MISC	O
-रहा	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसमें	PRP	O	O	O
-मंथली	JJ	O	O	O
-SIP	NN	O	O	O
-कलेक्शन	NN	O	O	O
-8,000	QC	O	O	O
-करोड़	XC	O	O	O
-रुपये	NN	O	O	O
-से	PSP	O	O	O
-अधिक	QF	O	O	O
-रहा	VM	O	B-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-रिटेल	XC	O	O	O
-इनवेस्टर्स	NN	O	O	O
-ने	PSP	O	O	O
-सितंबर	NNP	O	O	O
-में	PSP	O	O	O
-सिस्टेमैटिक	JJ	O	O	O
-इनवेस्टमेंट	XC	O	O	O
-प्लान	NN	O	O	O
-(	SYM	O	O	O
-SIP	NN	O	O	O
-)	SYM	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-इक्विटी	NN	O	O	O
-म्यूचुअल	JJ	O	O	O
-फंड्स	NN	O	O	O
-में	PSP	O	O	O
-निवेश	NN	O	O	O
-जारी	JJ	O	B-MISC	O
-रखा	VM	O	I-MISC	O
-.	SYM	O	O	O
-डेट	XC	O	O	O
-म्यूचुअल	XC	O	O	O
-फंड	XC	O	O	O
-कैटेगरीज	NN	O	O	O
-(	SYM	O	O	O
-लिक्विड	NN	O	O	O
-और	CC	O	O	O
-क्रेडिट	XC	O	O	O
-रिस्क	XC	O	O	O
-फंड्स	NNP	O	O	O
-)	SYM	O	O	O
-में	PSP	O	O	O
-आउटफ्लो	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-PPFAS	NN	O	O	O
-म्यूचुअल	JJ	O	O	O
-फंड	NN	O	O	O
-के	PSP	O	O	O
-डायरेक्टर	NN	O	O	O
-नील	JJ	O	O	O
-पारिख	NN	O	O	O
-ने	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-अमेरिका	NNP	O	O	O
-और	CC	O	O	O
-चीन	NNP	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-ट्रेड	XC	O	O	O
-वॉर	NN	O	O	O
-जारी	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-और	CC	O	O	O
-कुछ	QF	O	O	O
-सेगमेंट	NN	O	O	O
-में	PSP	O	O	O
-मंदी	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-,	SYM	O	O	O
-जिससे	PRP	O	O	O
-इनवेस्टर्स	NN	O	O	O
-एकमुश्त	JJ	O	O	O
-निवेश	NN	O	O	O
-से	PSP	O	O	O
-बच	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-इकनॉमिक	JJ	O	O	O
-स्लोडाउन	NN	O	O	O
-और	CC	O	O	O
-फाइनेंशियल	XC	O	O	O
-सेक्टर	NN	O	O	O
-में	PSP	O	O	O
-मुश्किलों	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	O
-इनवेस्टर्स	NN	O	O	O
-चिंतित	JJ	O	B-STAT	O
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-कॉरपोरेट	JJ	O	O	O
-टैक्स	NN	O	O	O
-रेट	NN	O	O	O
-में	PSP	O	O	O
-कटौती	NN	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	O	O
-मंदी	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	O
-आशंकाएं	NN	O	O	O
-कुछ	QF	O	O	O
-कम	QF	O	O	O
-हुई	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इक्विटी	XC	O	O	O
-फंड्स	NNP	O	O	O
-में	PSP	O	O	O
-अगस्त	NN	O	O	O
-में	PSP	O	O	O
-नेट	XC	O	O	O
-इनफ्लो	XC	O	O	O
-9,152	QC	O	O	O
-करोड़	XC	O	O	O
-रुपये	NN	O	O	O
-और	CC	O	O	O
-जुलाई	NNP	O	O	O
-में	PSP	O	O	O
-8,112	QC	O	O	O
-करोड़	XC	O	O	O
-रुपये	NN	O	O	O
-रहा	VAUX	O	B-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बजाज	XC	O	O	O
-कैपिटल	NNP	O	O	O
-के	PSP	O	O	O
-रिसर्च	NN	O	O	O
-हेड	XC	O	O	O
-,	SYM	O	O	O
-आलोक	XC	O	O	O
-अग्रवाल	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-एकमुश्त	JJ	O	O	O
-निवेश	NN	O	O	O
-पर	PSP	O	O	O
-शॉर्ट	XC	O	O	O
-टर्म	NN	O	O	O
-के	PSP	O	O	O
-उतार-चढ़ाव	NNP	O	O	O
-का	PSP	O	O	O
-असर	NN	O	B-MISC	OCC
-पड़ता	NNP	O	I-MISC	O
-है	VM	O	I-MISC	O
-.	SYM	O	O	O
-फेस्टिव	NN	O	O	O
-सीजन	NN	O	O	O
-से	PSP	O	O	O
-पहले	NST	O	O	O
-इनवेस्टर्स	NN	O	O	O
-एकमुश्त	JJ	O	O	O
-निवेश	NN	O	B-MISC	O
-करने	VM	O	I-MISC	O
-से	PSP	O	O	O
-बचते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-इक्विटी	JJ	O	O	O
-स्कीमों	NN	O	O	O
-में	PSP	O	O	O
-SIP	NN	O	O	O
-के	PSP	O	O	O
-जरिए	PSP	O	O	O
-निवेश	XC	O	O	O
-सितंबर	NNP	O	O	O
-में	PSP	O	O	O
-8,263	QC	O	O	O
-करोड़	XC	O	O	O
-रुपये	NN	O	O	O
-रहा	VAUX	O	B-MISC	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-अगस्त	NN	O	O	O
-में	PSP	O	O	O
-8,230	QC	O	O	O
-करोड़	XC	O	O	O
-रुपये	NN	O	O	O
-था	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-सितंबर	NNP	O	O	O
-लगातार	RB	O	O	O
-दसवां	NN	O	O	O
-ऐसा	PRP	O	O	O
-महीना	VM	O	B-MISC	O
-रहा	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसमें	PRP	O	O	O
-मंथली	JJ	O	O	O
-SIP	NN	O	O	O
-कलेक्शन	NN	O	O	O
-8,000	QC	O	O	O
-करोड़	XC	O	O	O
-रुपये	NN	O	O	O
-से	PSP	O	O	O
-अधिक	QF	O	O	O
-रहा	VM	O	B-MISC	DECL
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-SBIकैप	XC	O	O	O
-सिक्योरिटीज	NNP	O	O	O
-के	PSP	O	O	O
-एनालिस्ट	XC	O	O	O
-राजन	XC	O	O	O
-जैन	NNP	O	O	O
-ने	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-पिछले	JJ	O	O	O
-कुछ	QF	O	O	O
-महीनों	NN	O	O	O
-में	PSP	O	O	O
-SIP	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	IAC
-दिलचस्पी	NN	O	O	O
-कम	QF	O	B-MISC	O
-हुई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसका	PRP	O	O	O
-संकेत	NN	O	O	O
-नए	JJ	O	O	O
-SIP	NN	O	O	O
-रजिस्ट्रेशन	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-SIP	NN	O	O	O
-बंद	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-की	PSP	O	O	O
-संख्या	NN	O	O	O
-से	PSP	O	O	O
-मिल	VM	O	B-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हमें	PRP	O	O	O
-टोटल	NN	O	O	O
-एक्सपेंस	NN	O	O	O
-रेशियो	XC	O	O	O
-(	SYM	O	O	O
-TER	NN	O	O	O
-)	SYM	O	O	O
-में	PSP	O	O	O
-बदलाव	NN	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	O	O
-2019	QC	O	O	O
-में	PSP	O	O	O
-कुल	QF	O	O	O
-SIP	XC	O	O	O
-इनफ्लो	NNP	O	O	O
-बढ़ने	NNP	O	O	O
-की	PSP	O	O	O
-उम्मीद	NN	O	B-STAT	OCC
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-TER	NN	O	O	O
-वह	PRP	O	O	O
-कुल	QF	O	O	O
-फीस	NN	O	O	O
-फीस	NN	O	B-MISC	O
-होती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-जो	PRP	O	O	O
-इनवेस्टर्स	NN	O	O	O
-से	PSP	O	O	O
-म्यूचुअल	JJ	O	O	O
-फंड	NN	O	O	O
-लेते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+इक्विटी
+स्कीमों
+में
+SIP
+के
+जरिए
+निवेश
+सितंबर
+में
+8,263
+करोड़
+रुपये
+रहा
+,
+जो
+अगस्त
+में
+8,230
+करोड़
+रुपये
+था
+.
+सितंबर
+लगातार
+दसवां
+ऐसा
+महीना
+रहा
+,
+जिसमें
+मंथली
+SIP
+कलेक्शन
+8,000
+करोड़
+रुपये
+से
+अधिक
+रहा
+.
+हालांकि
+,
+रिटेल
+इनवेस्टर्स
+ने
+सितंबर
+में
+सिस्टेमैटिक
+इनवेस्टमेंट
+प्लान
+(
+SIP
+)
+के
+साथ
+इक्विटी
+म्यूचुअल
+फंड्स
+में
+निवेश
+जारी
+रखा
+.
+डेट
+म्यूचुअल
+फंड
+कैटेगरीज
+(
+लिक्विड
+और
+क्रेडिट
+रिस्क
+फंड्स
+)
+में
+आउटफ्लो
+हुआ
+.
+PPFAS
+म्यूचुअल
+फंड
+के
+डायरेक्टर
+नील
+पारिख
+ने
+बताया
+,
+'
+अमेरिका
+और
+चीन
+के
+बीच
+ट्रेड
+वॉर
+जारी
+है
+और
+कुछ
+सेगमेंट
+में
+मंदी
+है
+,
+जिससे
+इनवेस्टर्स
+एकमुश्त
+निवेश
+से
+बच
+रहे
+हैं
+.
+'
+इकनॉमिक
+स्लोडाउन
+और
+फाइनेंशियल
+सेक्टर
+में
+मुश्किलों
+को
+लेकर
+इनवेस्टर्स
+चिंतित
+हैं
+.
+हालांकि
+,
+कॉरपोरेट
+टैक्स
+रेट
+में
+कटौती
+के
+कारण
+मंदी
+को
+लेकर
+आशंकाएं
+कुछ
+कम
+हुई
+हैं
+.
+इक्विटी
+फंड्स
+में
+अगस्त
+में
+नेट
+इनफ्लो
+9,152
+करोड़
+रुपये
+और
+जुलाई
+में
+8,112
+करोड़
+रुपये
+रहा
+था
+.
+बजाज
+कैपिटल
+के
+रिसर्च
+हेड
+,
+आलोक
+अग्रवाल
+ने
+कहा
+,
+'
+एकमुश्त
+निवेश
+पर
+शॉर्ट
+टर्म
+के
+उतार-चढ़ाव
+का
+असर
+पड़ता
+है
+.
+फेस्टिव
+सीजन
+से
+पहले
+इनवेस्टर्स
+एकमुश्त
+निवेश
+करने
+से
+बचते
+हैं
+.
+'
+इक्विटी
+स्कीमों
+में
+SIP
+के
+जरिए
+निवेश
+सितंबर
+में
+8,263
+करोड़
+रुपये
+रहा
+.
+यह
+अगस्त
+में
+8,230
+करोड़
+रुपये
+था
+.
+सितंबर
+लगातार
+दसवां
+ऐसा
+महीना
+रहा
+,
+जिसमें
+मंथली
+SIP
+कलेक्शन
+8,000
+करोड़
+रुपये
+से
+अधिक
+रहा
+है
+.
+SBIकैप
+सिक्योरिटीज
+के
+एनालिस्ट
+राजन
+जैन
+ने
+बताया
+,
+'
+पिछले
+कुछ
+महीनों
+में
+SIP
+को
+लेकर
+दिलचस्पी
+कम
+हुई
+है
+.
+इसका
+संकेत
+नए
+SIP
+रजिस्ट्रेशन
+के
+साथ
+ही
+SIP
+बंद
+करने
+की
+संख्या
+से
+मिल
+रहा
+है
+.
+हमें
+टोटल
+एक्सपेंस
+रेशियो
+(
+TER
+)
+में
+बदलाव
+के
+कारण
+2019
+में
+कुल
+SIP
+इनफ्लो
+बढ़ने
+की
+उम्मीद
+है
+.
+'
+TER
+वह
+कुल
+फीस
+फीस
+होती
+है
+जो
+इनवेस्टर्स
+से
+म्यूचुअल
+फंड
+लेते
+हैं
+.

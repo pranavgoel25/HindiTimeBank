@@ -1,417 +1,417 @@
-युवक	NN	O	O	O
-का	PSP	O	O	O
-नाम	NN	O	O	OCC
-केशव	NN	O	O	O
-था	VM	O	O	O
-,	SYM	O	O	O
-युवती	NN	O	O	O
-का	PSP	O	O	O
-प्रेमा	NN	O	B-MISC	O
-.	SYM	O	O	O
-दोनों	JJ	O	O	O
-एक	QC	O	O	O
-ही	RP	O	O	O
-कालेज	NN	O	O	O
-के	PSP	O	O	O
-और	CC	O	O	O
-एक	QC	O	O	O
-ही	RP	O	O	O
-क्लास	NN	O	O	O
-के	PSP	O	O	O
-विद्यार्थी	NN	O	B-STAT	O
-थे	VM	O	I-STAT	O
-.	SYM	O	O	O
-केशव	NN	O	O	O
-नये	JJ	O	O	O
-विचारों	NN	O	O	O
-का	PSP	O	O	O
-युवक	NN	O	O	O
-था	VM	O	O	O
-,	SYM	O	O	O
-जात-पांत	NN	O	O	O
-के	PSP	O	O	O
-बन्धनों	NN	O	O	O
-का	PSP	O	O	O
-विरोधी	JJ	O	O	O
-.	SYM	O	O	O
-प्रेमा	NN	O	O	O
-पुराने	JJ	O	O	O
-संस्कारों	NN	O	O	O
-की	PSP	O	O	O
-कायल	NN	O	O	O
-थी	VM	O	O	O
-,	SYM	O	O	O
-पुरानी	JJ	O	O	O
-मर्यादाओं	NN	O	O	O
-और	CC	O	O	O
-प्रथाओं	NN	O	O	O
-में	PSP	O	O	O
-पूरा	JJ	O	O	O
-विश्वास	NN	O	O	O
-रखनेवाली	VM	O	O	OCC
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-फिर	RB	O	O	O
-भी	RP	O	O	O
-दोनों	NN	O	O	O
-में	PSP	O	O	O
-गाढ़ा	XC	O	O	O
-प्रेम	NN	O	O	OCC
-हो	VM	O	B-MISC	O
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-और	CC	O	O	O
-यह	DEM	O	O	O
-बात	NN	O	O	O
-सारे	QF	O	O	O
-कालेज	NN	O	O	O
-में	PSP	O	O	O
-मशहूर	JJ	O	O	O
-थी	VM	O	B-STAT	DEC
-.	SYM	O	O	O
-केशव	XC	O	O	O
-ब्राह्मण	NN	O	O	O
-होकर	VM	O	B-MISC	O
-भी	RP	O	O	O
-वैश्य	JJ	O	O	O
-कन्या	NN	O	O	O
-प्रेमा	NN	O	O	O
-से	PSP	O	O	O
-विवाह	NN	O	B-MISC	OCC
-करके	VM	O	I-MISC	O
-अपना	PRP	O	O	O
-जीवन	NN	O	O	O
-सार्थक	JJ	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-चाहता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसे	PRP	O	O	O
-अपने	PRP	O	O	O
-माता-पिता	NN	O	O	O
-की	PSP	O	O	O
-परवाह	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-कुल-मर्यादा	NN	O	O	O
-का	PSP	O	O	O
-विचार	NN	O	O	O
-भी	RP	O	O	O
-उसे	PRP	O	O	O
-स्वांग-सा	NN	O	B-MISC	OCC
-लगता	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसके	PRP	O	O	O
-लिए	PSP	O	O	O
-सत्य	NN	O	O	O
-कोई	PRP	O	O	O
-वस्तु	NN	O	O	O
-थी	VM	O	O	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-प्रेम	NN	O	O	O
-थी	VM	O	O	O
-;	SYM	O	O	O
-किन्तु	CC	O	O	O
-प्रेमा	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-माता-पिता	NN	O	O	O
-और	CC	O	O	O
-कुल-परिवार	NN	O	O	O
-के	PSP	O	O	O
-आदेश	NN	O	O	O
-के	PSP	O	O	O
-विरुद्ध	NN	O	O	O
-एक	QC	O	O	O
-कदम	NN	O	O	O
-बढ़ाना	VM	O	B-MISC	O
-भी	RP	O	O	O
-असम्भव	JJ	O	B-MISC	OCC
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-सन्ध्या	NN	O	O	O
-का	PSP	O	O	O
-समय	NN	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-विक्टोरिया-पार्क	NN	O	O	O
-के	PSP	O	O	O
-एक	QC	O	O	O
-निर्जन	JJ	O	O	O
-स्थान	NN	O	O	O
-में	PSP	O	O	O
-दोनों	JJ	O	O	O
-आमने-सामने	NN	O	O	O
-हरियाली	NN	O	O	O
-पर	PSP	O	O	O
-बैठे	VM	O	B-STAT	OCC
-हुए	VAUX	O	I-STAT	O
-हैं	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-सैर	NN	O	B-STAT	O
-करने	VM	O	I-STAT	O
-वाले	PSP	O	I-STAT	O
-एक-एक	NN	O	O	O
-करके	VM	O	O	O
-विदा	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गये	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-किन्तु	CC	O	O	O
-ये	DEM	O	O	O
-दोनों	NN	O	O	O
-अभी	PRP	O	O	O
-वहीं	PRP	O	O	O
-बैठे	VM	O	B-MISC	OCC
-हुए	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उनमें	PRP	O	O	O
-एक	QC	O	O	O
-ऐसा	DEM	O	O	O
-प्रसंग	NN	O	B-MISC	OCC
-छिड़ा	VM	O	I-MISC	O
-हुआ	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-किसी	PRP	O	O	O
-तरह	NN	O	O	O
-समाप्त	JJ	O	B-MISC	O
-नहीं	NEG	O	I-MISC	O
-होता	VM	O	I-MISC	O
-.	SYM	O	O	O
-केशव	NN	O	O	O
-ने	PSP	O	O	O
-झुंझलाकर	VM	O	B-MISC	OCC
-कहा-इसका	NN	O	O	O
-यह	DEM	O	O	O
-अर्थ	NN	O	B-MISC	O
-है	VM	O	I-MISC	O
-कि	CC	O	O	O
-तुम्हें	PRP	O	O	O
-मेरी	PRP	O	O	O
-परवाह	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-है	VM	O	I-MISC	O
-?	SYM	O	O	O
-प्रेमा	NN	O	O	O
-ने	PSP	O	O	O
-उसको	PRP	O	O	O
-शान्त	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-की	PSP	O	O	O
-चेष्टा	NN	O	B-MISC	OCC
-करके	VM	O	I-MISC	O
-कहा-तुम	PRP	O	O	O
-मेरे	PRP	O	O	O
-साथ	NST	O	O	O
-अन्याय	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-केशव	XC	O	O	O
-!	SYM	O	O	O
-लेकिन	CC	O	O	O
-मैं	PRP	O	O	O
-इस	DEM	O	O	O
-विषय	NN	O	O	O
-को	PSP	O	O	O
-माता-पिता	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	O	O
-कैसे	WQ	O	O	O
-छेड़ूं	VM	O	O	O
-,	SYM	O	O	O
-यह	PRP	O	O	O
-मेरी	PRP	O	O	O
-समझ	NN	O	O	OCC
-में	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-आता	VM	O	I-MISC	O
-.	SYM	O	O	O
-वे	PRP	O	O	O
-लोग	NN	O	O	O
-पुरानी	JJ	O	O	O
-रूढिय़ों	NN	O	O	O
-के	PSP	O	O	O
-भक्त	NN	O	B-STAT	O
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-मेरी	PRP	O	O	O
-तरफ	NST	O	O	O
-से	PSP	O	O	O
-कोई	PRP	O	O	O
-ऐसी	DEM	O	O	O
-बात	NN	O	O	O
-सुनकर	VM	O	O	O
-मन	NN	O	O	O
-में	PSP	O	O	O
-जो-जो	JJ	O	O	O
-शंकाएं	NN	O	O	O
-होंगी	VM	O	O	O
-,	SYM	O	O	O
-उनकी	PRP	O	O	O
-तुम	PRP	O	O	O
-कल्पना	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-केशव	NN	O	O	O
-ने	PSP	O	O	O
-उग्र	JJ	O	O	O
-भाव	NN	O	O	O
-से	PSP	O	O	O
-पूछा-तो	VM	O	B-MISC	OCC
-तुम	PRP	O	O	O
-भी	RP	O	O	O
-उन्हीं	PRP	O	O	O
-पुरानी	JJ	O	O	O
-रूढ़ियों	NN	O	O	O
-की	PSP	O	O	O
-गुलाम	NN	O	O	OCC
-हो	VM	O	O	O
-?	SYM	O	O	O
-प्रेमा	NN	O	O	O
-ने	PSP	O	O	O
-अपनी	PRP	O	O	O
-बड़ी-बड़ी	XC	O	O	O
-आंखों	NN	O	O	O
-में	PSP	O	O	O
-मृदु-स्नेह	NN	O	O	OCC
-भरकर	VM	O	B-MISC	O
-कहा-नहीं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मैं	PRP	O	O	O
-उनकी	PRP	O	O	O
-गुलाम	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-हूं	VM	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-माता-पिता	NN	O	O	O
-की	PSP	O	O	O
-इच्छा	NN	O	O	O
-मेरे	PRP	O	O	O
-लिए	PSP	O	O	O
-और	CC	O	O	O
-सब	QF	O	O	O
-चीजों	NN	O	O	O
-से	PSP	O	O	O
-अधिक	QF	O	O	O
-मान्य	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-तुम्हारा	PRP	O	O	O
-व्यक्तित्व	NN	O	O	O
-कुछ	QF	O	O	O
-नहीं	NEG	O	B-STAT	O
-है	VM	O	I-STAT	O
-?	SYM	O	O	O
-'	SYM	O	O	O
-'	SYM	O	O	O
-ऐसा	PRP	O	O	O
-ही	RP	O	O	O
-समझ	VM	O	B-MISC	OCC
-लो	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-'	SYM	O	O	O
-मैं	PRP	O	O	O
-तो	RP	O	O	O
-समझता	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-ये	PRP	O	O	O
-ढकोसले	JJ	O	O	O
-मूर्खों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-ही	RP	O	O	O
-हैं	VM	O	O	OCC
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-अब	PRP	O	O	O
-मालूम	JJ	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-कि	CC	O	O	O
-तुम-जैसी	JJ	O	O	O
-विदुषियां	NN	O	O	O
-भी	RP	O	O	O
-उनकी	PRP	O	O	O
-पूजा	NN	O	B-MISC	OCC
-करती	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-मैं	PRP	O	O	O
-तुम्हारे	PRP	O	O	O
-लिए	PSP	O	O	O
-संसार	NN	O	O	O
-को	PSP	O	O	O
-छोडने	VM	O	O	O
-को	PSP	O	O	O
-तैयार	JJ	O	B-MISC	OCC
-हूं	VM	O	I-MISC	O
-तो	CC	O	O	O
-तुमसे	PRP	O	O	O
-भी	RP	O	O	O
-यही	DEM	O	O	O
-आशा	NN	O	B-MISC	OCC
-करता	VM	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-प्रेमा	NN	O	O	O
-ने	PSP	O	O	O
-मन	NN	O	O	O
-में	PSP	O	O	O
-सोचा	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-मेरा	PRP	O	O	O
-अपनी	PRP	O	O	O
-देह	NN	O	O	O
-पर	PSP	O	O	O
-क्या	WQ	O	O	O
-अधिकार	NN	O	O	O
-है	VM	O	B-STAT	DEC
-.	SYM	O	O	O
-जिन	DEM	O	O	O
-माता-पिता	NN	O	O	O
-ने	PSP	O	O	O
-अपने	PRP	O	O	O
-रक्त	NN	O	O	O
-से	PSP	O	O	O
-मेरी	PRP	O	O	O
-सृष्टि	NN	O	O	O
-की	PSP	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-और	CC	O	O	O
-अपने	PRP	O	O	O
-स्नेह	NN	O	O	O
-से	PSP	O	O	O
-उसे	PRP	O	O	O
-पाला	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उनकी	PRP	O	O	O
-मरजी	NN	O	O	O
-के	PSP	O	O	O
-खिलाफ	PSP:?	O	O	O
-कोई	PRP	O	O	O
-काम	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-का	PSP	O	O	O
-उसे	PRP	O	O	O
-कोई	PRP	O	O	O
-हक	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-.	SYM	O	O	O
+युवक
+का
+नाम
+केशव
+था
+,
+युवती
+का
+प्रेमा
+.
+दोनों
+एक
+ही
+कालेज
+के
+और
+एक
+ही
+क्लास
+के
+विद्यार्थी
+थे
+.
+केशव
+नये
+विचारों
+का
+युवक
+था
+,
+जात-पांत
+के
+बन्धनों
+का
+विरोधी
+.
+प्रेमा
+पुराने
+संस्कारों
+की
+कायल
+थी
+,
+पुरानी
+मर्यादाओं
+और
+प्रथाओं
+में
+पूरा
+विश्वास
+रखनेवाली
+;
+लेकिन
+फिर
+भी
+दोनों
+में
+गाढ़ा
+प्रेम
+हो
+गया
+था
+.
+और
+यह
+बात
+सारे
+कालेज
+में
+मशहूर
+थी
+.
+केशव
+ब्राह्मण
+होकर
+भी
+वैश्य
+कन्या
+प्रेमा
+से
+विवाह
+करके
+अपना
+जीवन
+सार्थक
+करना
+चाहता
+था
+.
+उसे
+अपने
+माता-पिता
+की
+परवाह
+न
+थी
+.
+कुल-मर्यादा
+का
+विचार
+भी
+उसे
+स्वांग-सा
+लगता
+था
+.
+उसके
+लिए
+सत्य
+कोई
+वस्तु
+थी
+,
+तो
+प्रेम
+थी
+;
+किन्तु
+प्रेमा
+के
+लिए
+माता-पिता
+और
+कुल-परिवार
+के
+आदेश
+के
+विरुद्ध
+एक
+कदम
+बढ़ाना
+भी
+असम्भव
+था
+.
+सन्ध्या
+का
+समय
+है
+.
+विक्टोरिया-पार्क
+के
+एक
+निर्जन
+स्थान
+में
+दोनों
+आमने-सामने
+हरियाली
+पर
+बैठे
+हुए
+हैं
+.
+सैर
+करने
+वाले
+एक-एक
+करके
+विदा
+हो
+गये
+;
+किन्तु
+ये
+दोनों
+अभी
+वहीं
+बैठे
+हुए
+हैं
+.
+उनमें
+एक
+ऐसा
+प्रसंग
+छिड़ा
+हुआ
+है
+,
+जो
+किसी
+तरह
+समाप्त
+नहीं
+होता
+.
+केशव
+ने
+झुंझलाकर
+कहा-इसका
+यह
+अर्थ
+है
+कि
+तुम्हें
+मेरी
+परवाह
+नहीं
+है
+?
+प्रेमा
+ने
+उसको
+शान्त
+करने
+की
+चेष्टा
+करके
+कहा-तुम
+मेरे
+साथ
+अन्याय
+कर
+रहे
+हो
+,
+केशव
+!
+लेकिन
+मैं
+इस
+विषय
+को
+माता-पिता
+के
+सामने
+कैसे
+छेड़ूं
+,
+यह
+मेरी
+समझ
+में
+नहीं
+आता
+.
+वे
+लोग
+पुरानी
+रूढिय़ों
+के
+भक्त
+हैं
+.
+मेरी
+तरफ
+से
+कोई
+ऐसी
+बात
+सुनकर
+मन
+में
+जो-जो
+शंकाएं
+होंगी
+,
+उनकी
+तुम
+कल्पना
+कर
+सकते
+हो
+?
+केशव
+ने
+उग्र
+भाव
+से
+पूछा-तो
+तुम
+भी
+उन्हीं
+पुरानी
+रूढ़ियों
+की
+गुलाम
+हो
+?
+प्रेमा
+ने
+अपनी
+बड़ी-बड़ी
+आंखों
+में
+मृदु-स्नेह
+भरकर
+कहा-नहीं
+,
+मैं
+उनकी
+गुलाम
+नहीं
+हूं
+,
+लेकिन
+माता-पिता
+की
+इच्छा
+मेरे
+लिए
+और
+सब
+चीजों
+से
+अधिक
+मान्य
+है
+.
+'
+तुम्हारा
+व्यक्तित्व
+कुछ
+नहीं
+है
+?
+'
+'
+ऐसा
+ही
+समझ
+लो
+.
+'
+'
+मैं
+तो
+समझता
+था
+कि
+ये
+ढकोसले
+मूर्खों
+के
+लिए
+ही
+हैं
+;
+लेकिन
+अब
+मालूम
+हुआ
+कि
+तुम-जैसी
+विदुषियां
+भी
+उनकी
+पूजा
+करती
+हैं
+.
+जब
+मैं
+तुम्हारे
+लिए
+संसार
+को
+छोडने
+को
+तैयार
+हूं
+तो
+तुमसे
+भी
+यही
+आशा
+करता
+हूं
+.
+'
+प्रेमा
+ने
+मन
+में
+सोचा
+,
+मेरा
+अपनी
+देह
+पर
+क्या
+अधिकार
+है
+.
+जिन
+माता-पिता
+ने
+अपने
+रक्त
+से
+मेरी
+सृष्टि
+की
+है
+,
+और
+अपने
+स्नेह
+से
+उसे
+पाला
+है
+,
+उनकी
+मरजी
+के
+खिलाफ
+कोई
+काम
+करने
+का
+उसे
+कोई
+हक
+नहीं
+.

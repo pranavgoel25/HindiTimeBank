@@ -1,470 +1,470 @@
-हाल	NN	O	O	O
-में	PSP	O	O	O
-ही	RP	O	O	O
-सनी	XC	O	O	O
-सिंह	NNP	O	O	O
-स्टारर	XC	O	O	O
-फिल्म	NN	O	O	O
-'	SYM	O	O	O
-उजड़ा	XC	O	O	O
-चमन	NN	O	O	O
-'	SYM	O	O	O
-का	PSP	O	O	O
-ट्रेलर	NN	O	O	O
-सोशल	XC	O	O	O
-मीडिया	NNP	O	O	O
-पर	PSP	O	O	O
-लॉन्च	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जाने-माने	JJ	O	O	O
-फिल्म	NN	O	O	O
-क्रिटिक	JJ	O	O	O
-तरण	NN	O	O	O
-आदर्श	NN	O	O	O
-ने	PSP	O	O	O
-जब	PRP	O	O	O
-फिल्म	NN	O	O	O
-का	PSP	O	O	O
-ट्रेलर	NN	O	O	O
-टि्वटर	XC	O	O	O
-पर	PSP	O	O	O
-शेयर	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-ट्रेलर	NN	O	O	O
-देखने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-बाद	NST	O	O	O
-फिल्म	NN	O	O	O
-की	PSP	O	O	O
-तुलना	NN	O	O	O
-आयुष्मान	JJ	O	O	O
-खुराना	NN	O	O	O
-की	PSP	O	O	O
-नई	JJ	O	O	O
-फिल्म	NN	O	O	O
-'	SYM	O	O	O
-बाला	NN	O	O	O
-'	SYM	O	O	O
-से	PSP	O	O	O
-होने	VM	O	B-MISC	OCC
-लगी	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-दरअसल	CC	O	O	O
-इस	DEM	O	O	O
-फिल्म	NN	O	O	O
-में	PSP	O	O	O
-सनी	NN	O	O	O
-भी	RP	O	O	O
-आयुष्मान	NN	O	O	O
-की	PSP	O	O	O
-ही	RP	O	O	O
-तरह	NN	O	O	O
-गंजे	JJ	O	O	O
-आदमी	NN	O	O	O
-का	PSP	O	O	O
-किरदार	NN	O	O	O
-निभाते	VM	O	O	OCC
-नजर	NN	O	O	O
-आ	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	PRP	O	O	O
-महज	RB	O	O	O
-संयोग	NN	O	O	O
-की	PSP	O	O	O
-ही	RP	O	O	O
-बात	NN	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-कि	CC	O	O	O
-यह	DEM	O	O	O
-फिल्म	NN	O	O	O
-भी	RP	O	O	O
-नवंबर	NNP	B	O	O
-महीने	NN	I	O	O
-में	PSP	O	O	O
-ही	RP	O	O	O
-रिलीज	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-उजड़ा	RDP	O	O	O
-चमन	NN	O	O	O
-'	SYM	O	O	O
-8	QC	B	O	O
-नवंबर	NNP	I	O	O
-को	PSP	O	O	O
-आएगी	VM	O	O	OCC
-जबकि	CC	O	O	O
-'	SYM	O	O	O
-बाला	NN	O	O	O
-'	SYM	O	O	O
-22	QC	B	O	O
-नवंबर	NNP	I	O	O
-को	PSP	O	O	O
-रिलीज	NN	O	B-MISC	OCC
-होगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-सनी	NN	O	O	O
-ने	PSP	O	O	O
-एनबीटी	NN	O	O	O
-से	PSP	O	O	O
-खास	JJ	O	O	O
-बातचीत	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-इसे	PRP	O	O	O
-महज	RB	O	O	O
-संयोग	NN	O	O	O
-बताया	VM	O	B-MISC	DECL
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बकौल	JJ	O	O	O
-सनी	XC	O	O	O
-'	SYM	O	O	O
-उजड़ा	RDP	O	O	O
-चमन	NN	O	O	O
-'	SYM	O	O	O
-और	CC	O	O	O
-'	SYM	O	O	O
-बाला	NN	O	O	O
-'	SYM	O	O	O
-की	PSP	O	O	O
-स्टोरी	NN	O	O	O
-में	PSP	O	O	O
-कोई	PRP	O	O	O
-समानता	NN	O	O	OCC
-नहीं	NEG	O	B-STAT	O
-है	VM	O	I-STAT	O
-,	SYM	O	O	O
-बस	RP	O	O	O
-इसके	PRP	O	O	O
-किरदार	NN	O	O	O
-की	PSP	O	O	O
-समस्या	NN	O	O	O
-एक	QC	O	O	O
-सी	RP	O	O	O
-है	VM	O	B-STAT	DEC
-.	SYM	O	O	O
-इस	DEM	O	O	O
-फिल्म	NN	O	O	O
-से	PSP	O	O	O
-जुड़ने	VM	O	O	O
-पर	PSP	O	O	O
-सनी	NN	O	O	OCC
-बताते	VM	O	O	O
-हैं	VAUX	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-उजड़ा	XC	O	O	O
-चमन	XC	O	O	O
-कन्नड़	NNP	O	O	O
-फिल्म	NN	O	O	O
-की	PSP	O	O	O
-रीमेक	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-मेरे	PRP	O	O	O
-पास	NST	O	O	O
-स्क्रिप्ट	NN	O	O	O
-आई	VM	O	O	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-मुझे	PRP	O	O	O
-यह	DEM	O	O	O
-काफी	QF	O	O	O
-इंट्रेस्टिंग	NN	O	B-MISC	OCC
-लगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-मैंने	XC	O	O	O
-कन्नड़	XC	O	O	O
-फिल्म	NNP	O	O	O
-'	SYM	O	O	O
-ओंदू	NNP	O	O	O
-मोत्या	VM	O	O	O
-कथे	VAUX	O	O	O
-'	SYM	O	O	O
-देखी	VM	O	O	O
-,	SYM	O	O	O
-कहानी	NN	O	O	O
-मुझे	PRP	O	O	O
-इतनी	QF	O	O	O
-पसंद	NN	O	B-MISC	OCC
-आई	VM	O	I-MISC	O
-.	SYM	O	O	O
-मुझे	PRP	O	O	O
-यह	PRP	O	O	O
-भी	RP	O	O	O
-लगा	VM	O	B-MISC	OCC
-कि	CC	O	O	O
-मेरे	PRP	O	O	O
-लिए	PSP	O	O	O
-यह	DEM	O	O	O
-स्क्रिप्ट	NN	O	B-MISC	OCC
-बोल्ड	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-मैं	PRP	O	O	O
-इससे	PRP	O	O	O
-कुछ	QF	O	O	O
-अलग	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फिल्म	NN	O	O	O
-की	PSP	O	O	O
-शूटिंग	NN	O	O	O
-भी	RP	O	O	O
-काफी	QF	O	O	O
-जल्दी	RB	O	O	O
-शुरू	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-और	CC	O	O	O
-फिल्म	NN	O	B-MISC	O
-बनने	VM	O	I-MISC	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-समय	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-लगा	VM	O	I-MISC	O
-और	CC	O	O	O
-अब	PRP	O	O	O
-ट्रेलर	NN	O	O	O
-आपके	PRP	O	O	O
-सामने	NST	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-वहीं	PRP	O	O	O
-करियर	NN	O	O	O
-की	PSP	O	O	O
-शुरूआत	NN	O	O	O
-में	PSP	O	O	O
-ऐसे	DEM	O	O	O
-रिस्क	NN	O	O	O
-भरे	VM	O	O	O
-रोल	NN	O	O	O
-पर	PSP	O	O	O
-सनी	NN	O	O	O
-का	PSP	O	O	O
-कहना	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-मैं	PRP	O	O	O
-किरदार	NN	O	O	O
-के	PSP	O	O	O
-लुक	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	O
-कभी	PRP	O	O	O
-परेशान	JJ	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-होता	VM	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-लोगों	NN	O	O	O
-ने	PSP	O	O	O
-मुझे	PRP	O	O	O
-मेरी	PRP	O	O	O
-पिछली	JJ	O	O	O
-फिल्मों	NN	O	O	O
-में	PSP	O	O	O
-देखा	VM	O	B-STAT	DECL
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-तो	RP	O	O	O
-दौर	NN	O	O	O
-ऐसा	PRP	O	O	O
-है	VM	O	O	O
-कि	CC	O	O	O
-ऐक्टर	NN	O	O	O
-अपने	PRP	O	O	O
-लुक	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	O
-एक्स्पेरिमेंट	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-रहते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-आपको	PRP	O	O	O
-यहां	PRP	O	O	O
-टिकना	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-आपको	PRP	O	O	O
-खुद	PRP	O	O	O
-को	PSP	O	O	O
-एक्स्प्लोर	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-की	PSP	O	O	O
-जरूरत	NN	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-उजड़ा	RDP	O	O	O
-चमन	NN	O	O	O
-की	PSP	O	O	O
-बाला	NN	O	O	O
-से	PSP	O	O	O
-तुलना	NN	O	O	O
-पर	PSP	O	O	O
-सनी	NN	O	O	O
-का	PSP	O	O	O
-कहना	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-यार	NN	O	O	O
-,	SYM	O	O	O
-मैं	PRP	O	O	O
-अभी	PRP	O	O	O
-तक	RP	O	O	O
-समझ	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-पा	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-लोग	NN	O	O	O
-तुलना	NN	O	O	O
-क्यों	WQ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-मैं	PRP	O	O	O
-आयुष्मान	NN	O	O	O
-को	PSP	O	O	O
-बहुत	QF	O	O	O
-पसंद	NN	O	B-MISC	OCC
-करता	VM	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-भी	RP	O	O	O
-उनसे	PRP	O	O	O
-मिला	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-बहुत	QF	O	O	O
-ही	RP	O	O	O
-प्यार	NN	O	O	O
-से	PSP	O	O	O
-मिलते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हां	RDP	O	O	O
-,	SYM	O	O	O
-बस	RP	O	O	O
-समय	NN	O	O	O
-का	PSP	O	O	O
-संयोग	NN	O	O	O
-ही	RP	O	O	O
-कहें	VM	O	B-MISC	OCC
-कि	CC	O	O	O
-ये	DEM	O	O	O
-दोनों	JJ	O	O	O
-फिल्में	NN	O	O	O
-एक	QC	B	O	O
-महीने	NN	I	O	O
-में	PSP	O	O	O
-रिलीज	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-हमारी	PRP	O	O	O
-तुलना	NN	O	O	O
-संभव	JJ	O	O	OCC
-नहीं	NEG	O	O	O
-क्योंकि	CC	O	O	O
-हमारी	PRP	O	O	O
-फिल्म	NN	O	O	O
-रीमेक	NN	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-तो	RP	O	O	O
-चाहूंगा	VM	O	B-MISC	O
-कि	CC	O	O	O
-हम	PRP	O	O	O
-दोनों	NN	O	O	O
-की	PSP	O	O	O
-फिल्में	NN	O	O	O
-अच्छा	JJ	O	O	O
-बिजनस	NN	O	B-MISC	O
-करें	VM	O	I-MISC	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-लोग	NN	O	O	O
-इसे	PRP	O	O	O
-ट्रोल	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-मैं	PRP	O	O	O
-इस	DEM	O	O	O
-निगेटिविटी	NN	O	O	O
-से	PSP	O	O	O
-दूर	NST	O	O	O
-ही	RP	O	O	O
-हूं	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-रही	DEM	O	O	O
-बात	NN	O	O	O
-आस-पास	NNP	O	O	O
-रिलीज	NN	O	O	O
-की	PSP	O	O	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-यह	PRP	O	O	O
-मेरा	PRP	O	O	O
-डिपार्टमेंट	NN	O	B-MISC	O
-है	VM	O	I-MISC	O
-ही	RP	O	I-MISC	O
-नहीं	NEG	O	I-MISC	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-सब	PRP	O	O	O
-मेकर्स	NN	O	O	O
-और	CC	O	O	O
-प्रॉडक्शन	NN	O	B-MISC	O
-देखते	VM	O	I-MISC	DECL
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हम	PRP	O	O	O
-ऐक्टर्स	NN	O	O	O
-का	PSP	O	O	O
-जॉब	NN	O	O	O
-तो	RP	O	O	O
-बस	RP	O	O	O
-ऐक्टिंग	NN	O	O	O
-पर	PSP	O	O	O
-फोकस	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-ही	RP	O	I-MISC	O
-होता	VM	O	I-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
+हाल
+में
+ही
+सनी
+सिंह
+स्टारर
+फिल्म
+'
+उजड़ा
+चमन
+'
+का
+ट्रेलर
+सोशल
+मीडिया
+पर
+लॉन्च
+किया
+गया
+.
+जाने-माने
+फिल्म
+क्रिटिक
+तरण
+आदर्श
+ने
+जब
+फिल्म
+का
+ट्रेलर
+टि्वटर
+पर
+शेयर
+किया
+,
+तो
+ट्रेलर
+देखने
+के
+बाद
+फिल्म
+की
+तुलना
+आयुष्मान
+खुराना
+की
+नई
+फिल्म
+'
+बाला
+'
+से
+होने
+लगी
+है
+.
+दरअसल
+इस
+फिल्म
+में
+सनी
+भी
+आयुष्मान
+की
+ही
+तरह
+गंजे
+आदमी
+का
+किरदार
+निभाते
+नजर
+आ
+रहे
+हैं
+.
+यह
+महज
+संयोग
+की
+ही
+बात
+है
+कि
+यह
+फिल्म
+भी
+नवंबर
+महीने
+में
+ही
+रिलीज
+हो
+रही
+है
+.
+हालांकि
+,
+'
+उजड़ा
+चमन
+'
+8
+नवंबर
+को
+आएगी
+जबकि
+'
+बाला
+'
+22
+नवंबर
+को
+रिलीज
+होगी
+.
+सनी
+ने
+एनबीटी
+से
+खास
+बातचीत
+करते
+हुए
+इसे
+महज
+संयोग
+बताया
+है
+.
+बकौल
+सनी
+'
+उजड़ा
+चमन
+'
+और
+'
+बाला
+'
+की
+स्टोरी
+में
+कोई
+समानता
+नहीं
+है
+,
+बस
+इसके
+किरदार
+की
+समस्या
+एक
+सी
+है
+.
+इस
+फिल्म
+से
+जुड़ने
+पर
+सनी
+बताते
+हैं
+,
+'
+उजड़ा
+चमन
+कन्नड़
+फिल्म
+की
+रीमेक
+है
+.
+जब
+मेरे
+पास
+स्क्रिप्ट
+आई
+,
+तो
+मुझे
+यह
+काफी
+इंट्रेस्टिंग
+लगा
+.
+मैंने
+कन्नड़
+फिल्म
+'
+ओंदू
+मोत्या
+कथे
+'
+देखी
+,
+कहानी
+मुझे
+इतनी
+पसंद
+आई
+.
+मुझे
+यह
+भी
+लगा
+कि
+मेरे
+लिए
+यह
+स्क्रिप्ट
+बोल्ड
+है
+और
+मैं
+इससे
+कुछ
+अलग
+कर
+सकता
+हूं
+.
+फिल्म
+की
+शूटिंग
+भी
+काफी
+जल्दी
+शुरू
+हो
+गई
+और
+फिल्म
+बनने
+में
+भी
+समय
+नहीं
+लगा
+और
+अब
+ट्रेलर
+आपके
+सामने
+है
+.
+'
+वहीं
+करियर
+की
+शुरूआत
+में
+ऐसे
+रिस्क
+भरे
+रोल
+पर
+सनी
+का
+कहना
+है
+,
+'
+मैं
+किरदार
+के
+लुक
+को
+लेकर
+कभी
+परेशान
+नहीं
+होता
+हूं
+.
+लोगों
+ने
+मुझे
+मेरी
+पिछली
+फिल्मों
+में
+देखा
+है
+.
+अब
+तो
+दौर
+ऐसा
+है
+कि
+ऐक्टर
+अपने
+लुक
+को
+लेकर
+एक्स्पेरिमेंट
+करते
+रहते
+हैं
+.
+अगर
+आपको
+यहां
+टिकना
+है
+,
+तो
+आपको
+खुद
+को
+एक्स्प्लोर
+करने
+की
+जरूरत
+है
+.
+'
+उजड़ा
+चमन
+की
+बाला
+से
+तुलना
+पर
+सनी
+का
+कहना
+है
+,
+'
+यार
+,
+मैं
+अभी
+तक
+समझ
+नहीं
+पा
+रहा
+हूं
+कि
+लोग
+तुलना
+क्यों
+कर
+रहे
+हैं
+?
+मैं
+आयुष्मान
+को
+बहुत
+पसंद
+करता
+हूं
+.
+जब
+भी
+उनसे
+मिला
+हूं
+,
+वह
+बहुत
+ही
+प्यार
+से
+मिलते
+हैं
+.
+हां
+,
+बस
+समय
+का
+संयोग
+ही
+कहें
+कि
+ये
+दोनों
+फिल्में
+एक
+महीने
+में
+रिलीज
+हो
+रही
+है
+.
+हालांकि
+हमारी
+तुलना
+संभव
+नहीं
+क्योंकि
+हमारी
+फिल्म
+रीमेक
+है
+.
+मैं
+तो
+चाहूंगा
+कि
+हम
+दोनों
+की
+फिल्में
+अच्छा
+बिजनस
+करें
+.
+अब
+लोग
+इसे
+ट्रोल
+कर
+रहे
+हैं
+,
+तो
+मैं
+इस
+निगेटिविटी
+से
+दूर
+ही
+हूं
+.
+रही
+बात
+आस-पास
+रिलीज
+की
+,
+तो
+यह
+मेरा
+डिपार्टमेंट
+है
+ही
+नहीं
+.
+यह
+सब
+मेकर्स
+और
+प्रॉडक्शन
+देखते
+हैं
+.
+हम
+ऐक्टर्स
+का
+जॉब
+तो
+बस
+ऐक्टिंग
+पर
+फोकस
+करना
+ही
+होता
+है
+.
+'

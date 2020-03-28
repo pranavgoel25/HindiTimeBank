@@ -1,474 +1,474 @@
-आज	NN	O	O	O
-बन्दी	NN	O	O	O
-छूटकर	VM	O	O	O
-घर	NN	O	O	O
-आ	VM	O	B-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-करुणा	NN	O	O	O
-ने	PSP	O	O	O
-एक	QC	B	O	O
-दिन	NN	I	O	O
-पहले	NST	O	O	O
-ही	RP	O	O	O
-घर	NN	O	O	O
-लीप-पोत	JJ	O	B-MISC	OCC
-रखा	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इन	DEM	B	O	O
-तीन	QC	I	O	O
-वर्षों	NN	I	O	O
-में	PSP	O	O	O
-उसने	PRP	O	O	O
-कठिन	JJ	O	O	O
-तपस्या	NN	O	B-MISC	O
-करके	VM	O	I-MISC	O
-जो	PRP	O	O	O
-दस-पांच	XC	O	O	O
-रूपये	NN	O	O	O
-जमा	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रखे	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-सब	QF	O	O	O
-पति	NN	O	O	O
-के	PSP	O	O	O
-सत्कार	NN	O	O	O
-और	CC	O	O	O
-स्वागत	NN	O	O	O
-की	PSP	O	O	O
-तैयारियों	NN	O	O	O
-में	PSP	O	O	O
-खर्च	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिये	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पति	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-धोतियों	NN	O	O	O
-का	PSP	O	O	O
-नया	JJ	O	O	O
-जोड़ा	NN	O	O	O
-लायी	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-नये	JJ	O	O	O
-कुरते	NN	O	O	O
-बनवाये	VM	O	B-MISC	O
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-बच्चे	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-नये	JJ	O	O	O
-कोट	NN	O	O	O
-और	CC	O	O	O
-टोपी	NN	O	O	O
-की	PSP	O	O	O
-आयोजना	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बार-बार	JJ	O	O	O
-बच्चे	NN	O	O	O
-को	PSP	O	O	O
-गले	NN	O	O	O
-लगाती	VM	O	O	O
-ओर	NST	O	O	O
-प्रसन्न	JJ	O	B-MISC	O
-होती	VM	O	I-MISC	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-इस	DEM	O	O	O
-बच्चे	NN	O	O	O
-ने	PSP	O	O	O
-सूर्य	NN	O	O	O
-की	PSP	O	O	O
-भांति	PSP	O	O	O
-उदय	NN	O	B-MISC	O
-होकर	VM	O	I-MISC	O
-उसके	PRP	O	O	O
-अंधेरे	JJ	O	O	O
-जीवन	NN	O	O	O
-को	PSP	O	O	O
-प्रदीप्त	JJ	O	B-MISC	O
-न	NEG	O	I-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-होता	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-कदाचित्	NN	O	O	O
-ठोकरों	NN	O	O	O
-ने	PSP	O	O	O
-उसके	PRP	O	O	O
-जीवन	NN	O	O	O
-का	PSP	O	O	O
-अंत	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-होता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पति	NN	O	O	O
-के	PSP	O	O	O
-कारावास-दण्ड	NN	O	O	O
-के	PSP	O	O	O
-तीन	QC	O	O	O
-ही	RP	O	O	O
-महीने	NN	O	O	O
-बाद	NST	O	O	O
-इस	DEM	O	O	O
-बालक	NN	O	O	O
-का	PSP	O	O	O
-जन्म	NN	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-.	SYM	O	O	O
-उसी	DEM	O	O	O
-का	PSP	O	O	O
-मुंह	NN	O	O	O
-देख-देखकर	VM	O	O	O
-करूणा	NN	O	O	O
-ने	PSP	O	O	O
-यह	PRP	O	O	O
-तीन	QC	O	O	O
-साल	NN	O	O	O
-काट	VM	O	B-MISC	OCC
-दिये	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-सोचती-	NN	O	O	O
-जब	PRP	O	O	O
-मैं	PRP	O	O	O
-बालक	NN	O	O	O
-को	PSP	O	O	O
-उनके	PRP	O	O	O
-सामने	NST	O	B-MISC	OCC
-ले	VM	O	I-MISC	O
-जाऊंगी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-वह	PRP	O	O	O
-कितने	WQ	O	O	O
-प्रसन्न	JJ	O	O	O
-होंगे	VM	O	O	O
-!	SYM	O	O	O
-उसे	PRP	O	O	O
-देखकर	VM	O	B-MISC	OCC
-पहले	NST	O	O	O
-तो	RP	O	O	O
-चकित	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जायेंगे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-फिर	RB	O	O	O
-गोद	NN	O	O	O
-में	PSP	O	O	O
-उठा	VM	O	B-MISC	OCC
-लेंगे	VAUX	O	I-MISC	O
-और	CC	O	O	O
-कहेंगे-	JJ	O	O	O
-करूणा	NN	O	O	O
-,	SYM	O	O	O
-तुमने	PRP	O	O	O
-यह	DEM	O	O	O
-रत्न	NN	O	B-MISC	O
-देकर	VM	O	I-MISC	O
-मुझे	PRP	O	O	O
-निहाल	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कैद	NN	O	O	O
-के	PSP	O	O	O
-सारे	QF	O	O	O
-कष्ट	NN	O	O	O
-बालक	NN	O	O	O
-की	PSP	O	O	O
-तोतली	JJ	O	O	O
-बातों	NN	O	O	O
-में	PSP	O	O	O
-भूल	VM	O	B-MISC	OCC
-जायेंगे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उनकी	PRP	O	O	O
-एक	QC	O	O	O
-सरल	JJ	O	O	O
-,	SYM	O	O	O
-पवित्र	JJ	O	O	O
-,	SYM	O	O	O
-मोहक	JJ	O	O	O
-दृष्टि	NN	O	O	O
-दृदय	NN	O	O	O
-की	PSP	O	O	O
-सारी	QF	O	O	O
-व्यथाओं	NN	O	O	O
-को	PSP	O	O	O
-धो	VM	O	B-MISC	OCC
-डालेगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-कल्पना	NN	O	O	O
-का	PSP	O	O	O
-आनंद	NN	O	O	O
-लेकर	VM	O	O	O
-वह	PRP	O	O	O
-फूली	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-समाती	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-सोच	VM	O	B-MISC	O
-रही	VAUX	O	I-MISC	O
-थी-	JJ	O	O	O
-आदित्य	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-बहुत-से	JJ	O	O	O
-आदमी	NN	O	B-MISC	O
-होंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
-जिस	DEM	O	O	O
-समय	NN	O	O	O
-वह	PRP	O	O	O
-द्वार	NN	O	O	O
-पर	PSP	O	O	O
-पहुंचेगे	VM	O	B-MISC	O
-,	SYM	O	O	O
-जय-जयकार	NN	O	O	O
-'	SYM	O	O	O
-की	PSP	O	O	O
-ध्वनि	NN	O	O	O
-से	PSP	O	O	O
-आकाश	NN	O	B-MISC	O
-गूंज	VM	O	I-MISC	OCC
-उठेगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-कितना	QF	O	O	O
-स्वर्गीय	JJ	O	O	O
-दृश्य	NN	O	O	O
-होगा	VM	O	O	O
-!	SYM	O	O	O
-उन	DEM	O	O	O
-आदमियों	NN	O	O	O
-के	PSP	O	O	O
-बैठने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-करूणा	NN	O	O	O
-ने	PSP	O	O	O
-एक	QC	O	O	O
-फटा-सा	NN	O	O	O
-टाट	NN	O	O	O
-बिछा	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-कुछ	QF	O	O	O
-पान	NN	O	O	O
-बना	VM	O	B-MISC	OCC
-दिये	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-ओर	NST	O	O	O
-बार-बार	JJ	O	O	O
-आशामय	NN	O	O	O
-नेत्रों	NN	O	O	O
-से	PSP	O	O	O
-द्वार	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-ताकती	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पति	NN	O	O	O
-की	PSP	O	O	O
-वह	PRP	O	O	O
-सुदृढ़	NN	O	O	O
-उदार	JJ	O	O	O
-तेजपूर्ण	JJ	O	O	O
-मुद्रा	NN	O	O	O
-बार-बार	JJ	O	O	O
-आंखों	NN	O	O	O
-में	PSP	O	O	O
-फिर	RB	O	O	O
-जाती	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उनकी	PRP	O	O	O
-वे	PRP	O	O	O
-बातें	NN	O	O	O
-बार-बार	JJ	O	O	O
-याद	NN	O	O	O
-आती	VM	O	B-MISC	O
-थीं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-चलते	VM	O	O	O
-समय	NN	O	O	O
-उनके	PRP	O	O	O
-मुख	NN	O	O	O
-से	PSP	O	O	O
-निकलती	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उनका	PRP	O	O	O
-वह	PRP	O	O	O
-धैर्य	NN	O	O	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-आत्मबल	NN	O	O	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-पुलिस	NN	O	O	O
-के	PSP	O	O	O
-प्रहारों	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	O	O
-भी	RP	O	O	O
-अटल	NN	O	O	OCC
-रहा	VM	O	O	O
-था	VAUX	O	O	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-मुस्कराहट	NN	O	O	O
-जो	PRP	O	O	O
-उस	DEM	O	O	O
-समय	NN	O	O	O
-भी	RP	O	O	O
-उनके	PRP	O	O	O
-अधरों	NN	O	O	O
-पर	PSP	O	O	O
-खेल	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-वह	PRP	O	O	O
-आत्मभिमान	NN	O	O	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-उस	DEM	O	O	O
-समय	NN	O	O	O
-भी	RP	O	O	O
-उनके	PRP	O	O	O
-मुख	NN	O	O	O
-से	PSP	O	O	O
-टपक	VM	O	B-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-क्या	WQ	O	O	O
-करूणा	NN	O	O	O
-के	PSP	O	O	O
-हृदय	NN	O	O	O
-से	PSP	O	O	O
-कभी	PRP	O	O	O
-विस्मृत	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-!	SYM	O	O	O
-उसका	PRP	O	O	O
-स्मरण	NN	O	O	O
-आते	VM	O	B-MISC	O
-ही	RP	O	O	O
-करुणा	NN	O	O	O
-के	PSP	O	O	O
-निस्तेज	JJ	O	O	O
-मुख	NN	O	O	O
-पर	PSP	O	O	O
-आत्मगौरव	NN	O	O	O
-की	PSP	O	O	O
-लालिमा	NN	O	B-MISC	O
-छा	VM	O	I-MISC	OCC
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यही	DEM	O	O	O
-वह	PRP	O	O	O
-अवलम्ब	NN	O	O	O
-था	VM	O	O	O
-,	SYM	O	O	O
-जिसने	PRP	O	O	O
-इन	DEM	O	O	O
-तीन	QC	O	O	O
-वर्षों	NN	O	O	O
-की	PSP	O	O	O
-घोर	JJ	O	O	O
-यातनाओं	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-उसके	PRP	O	O	O
-हृदय	NN	O	O	O
-को	PSP	O	O	O
-आश्वासन	NN	O	B-MISC	OCC
-दिया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कितनी	QF	O	O	O
-ही	RP	O	O	O
-राते	VM	O	O	O
-फाकों	NN	O	O	O
-से	PSP	O	O	O
-गुजरीं	VM	O	O	O
-,	SYM	O	O	O
-बहुधा	QF	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-दीपक	NN	O	B-MISC	O
-जलने	VM	O	I-MISC	O
-की	PSP	O	O	O
-नौबत	NN	O	O	O
-भी	RP	O	O	O
-न	NEG	O	B-MISC	OCC
-आती	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-पर	PSP	O	O	O
-दीनता	NN	O	O	O
-के	PSP	O	O	O
-आंसू	NN	O	O	O
-कभी	PRP	O	O	O
-उसकी	PRP	O	O	O
-आंखों	NN	O	O	O
-से	PSP	O	O	O
-न	NEG	O	B-MISC	OCC
-गिरे	VM	O	I-MISC	O
-.	SYM	O	O	O
-आज	NN	O	O	O
-उन	DEM	O	O	O
-सारी	QF	O	O	O
-विपत्तियों	NN	O	O	O
-का	PSP	O	O	O
-अंत	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पति	NN	O	O	O
-के	PSP	O	O	O
-प्रगाढ़	NNP	O	O	O
-आलिंगन	NN	O	O	O
-में	PSP	O	O	O
-वह	PRP	O	O	O
-सब	QF	O	O	O
-कुछ	PRP	O	O	O
-हंसकर	VM	O	B-MISC	O
-झेल	VM	O	I-MISC	OCC
-लेगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-अनंत	JJ	O	O	O
-निधि	NN	O	O	O
-पाकर	VM	O	O	O
-फिर	RB	O	O	O
-उसे	PRP	O	O	O
-कोई	PRP	O	O	O
-अभिलाषा	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-रहेगी	VM	O	I-MISC	O
-.	SYM	O	O	O
+आज
+बन्दी
+छूटकर
+घर
+आ
+रहा
+है
+.
+करुणा
+ने
+एक
+दिन
+पहले
+ही
+घर
+लीप-पोत
+रखा
+था
+.
+इन
+तीन
+वर्षों
+में
+उसने
+कठिन
+तपस्या
+करके
+जो
+दस-पांच
+रूपये
+जमा
+कर
+रखे
+थे
+,
+वह
+सब
+पति
+के
+सत्कार
+और
+स्वागत
+की
+तैयारियों
+में
+खर्च
+कर
+दिये
+.
+पति
+के
+लिए
+धोतियों
+का
+नया
+जोड़ा
+लायी
+थी
+,
+नये
+कुरते
+बनवाये
+थे
+,
+बच्चे
+के
+लिए
+नये
+कोट
+और
+टोपी
+की
+आयोजना
+की
+थी
+.
+बार-बार
+बच्चे
+को
+गले
+लगाती
+ओर
+प्रसन्न
+होती
+.
+अगर
+इस
+बच्चे
+ने
+सूर्य
+की
+भांति
+उदय
+होकर
+उसके
+अंधेरे
+जीवन
+को
+प्रदीप्त
+न
+कर
+दिया
+होता
+,
+तो
+कदाचित्
+ठोकरों
+ने
+उसके
+जीवन
+का
+अंत
+कर
+दिया
+होता
+.
+पति
+के
+कारावास-दण्ड
+के
+तीन
+ही
+महीने
+बाद
+इस
+बालक
+का
+जन्म
+हुआ
+.
+उसी
+का
+मुंह
+देख-देखकर
+करूणा
+ने
+यह
+तीन
+साल
+काट
+दिये
+थे
+.
+वह
+सोचती-
+जब
+मैं
+बालक
+को
+उनके
+सामने
+ले
+जाऊंगी
+,
+तो
+वह
+कितने
+प्रसन्न
+होंगे
+!
+उसे
+देखकर
+पहले
+तो
+चकित
+हो
+जायेंगे
+,
+फिर
+गोद
+में
+उठा
+लेंगे
+और
+कहेंगे-
+करूणा
+,
+तुमने
+यह
+रत्न
+देकर
+मुझे
+निहाल
+कर
+दिया
+.
+कैद
+के
+सारे
+कष्ट
+बालक
+की
+तोतली
+बातों
+में
+भूल
+जायेंगे
+,
+उनकी
+एक
+सरल
+,
+पवित्र
+,
+मोहक
+दृष्टि
+दृदय
+की
+सारी
+व्यथाओं
+को
+धो
+डालेगी
+.
+इस
+कल्पना
+का
+आनंद
+लेकर
+वह
+फूली
+न
+समाती
+थी
+.
+वह
+सोच
+रही
+थी-
+आदित्य
+के
+साथ
+बहुत-से
+आदमी
+होंगे
+.
+जिस
+समय
+वह
+द्वार
+पर
+पहुंचेगे
+,
+जय-जयकार
+'
+की
+ध्वनि
+से
+आकाश
+गूंज
+उठेगा
+.
+वह
+कितना
+स्वर्गीय
+दृश्य
+होगा
+!
+उन
+आदमियों
+के
+बैठने
+के
+लिए
+करूणा
+ने
+एक
+फटा-सा
+टाट
+बिछा
+दिया
+था
+,
+कुछ
+पान
+बना
+दिये
+थे
+ओर
+बार-बार
+आशामय
+नेत्रों
+से
+द्वार
+की
+ओर
+ताकती
+थी
+.
+पति
+की
+वह
+सुदृढ़
+उदार
+तेजपूर्ण
+मुद्रा
+बार-बार
+आंखों
+में
+फिर
+जाती
+थी
+.
+उनकी
+वे
+बातें
+बार-बार
+याद
+आती
+थीं
+,
+जो
+चलते
+समय
+उनके
+मुख
+से
+निकलती
+थी
+,
+उनका
+वह
+धैर्य
+,
+वह
+आत्मबल
+,
+जो
+पुलिस
+के
+प्रहारों
+के
+सामने
+भी
+अटल
+रहा
+था
+,
+वह
+मुस्कराहट
+जो
+उस
+समय
+भी
+उनके
+अधरों
+पर
+खेल
+रही
+थी
+;
+वह
+आत्मभिमान
+,
+जो
+उस
+समय
+भी
+उनके
+मुख
+से
+टपक
+रहा
+था
+,
+क्या
+करूणा
+के
+हृदय
+से
+कभी
+विस्मृत
+हो
+सकता
+था
+!
+उसका
+स्मरण
+आते
+ही
+करुणा
+के
+निस्तेज
+मुख
+पर
+आत्मगौरव
+की
+लालिमा
+छा
+गयी
+.
+यही
+वह
+अवलम्ब
+था
+,
+जिसने
+इन
+तीन
+वर्षों
+की
+घोर
+यातनाओं
+में
+भी
+उसके
+हृदय
+को
+आश्वासन
+दिया
+था
+.
+कितनी
+ही
+राते
+फाकों
+से
+गुजरीं
+,
+बहुधा
+घर
+में
+दीपक
+जलने
+की
+नौबत
+भी
+न
+आती
+थी
+,
+पर
+दीनता
+के
+आंसू
+कभी
+उसकी
+आंखों
+से
+न
+गिरे
+.
+आज
+उन
+सारी
+विपत्तियों
+का
+अंत
+हो
+जाएगा
+.
+पति
+के
+प्रगाढ़
+आलिंगन
+में
+वह
+सब
+कुछ
+हंसकर
+झेल
+लेगी
+.
+वह
+अनंत
+निधि
+पाकर
+फिर
+उसे
+कोई
+अभिलाषा
+न
+रहेगी
+.

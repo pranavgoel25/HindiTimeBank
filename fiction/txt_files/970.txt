@@ -1,450 +1,450 @@
-दूसरे	QO	B	O	O
-दिन	NN	I	O	O
-मैंने	PRP	O	O	O
-दो	QC	O	O	O
-तार	NN	O	O	O
-दिये	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-एक	QC	B	O	O
-पिताजी	NN	I	O	O
-को	PSP	O	O	O
-,	SYM	O	O	O
-दूसरा	QO	O	O	O
-ससुरजी	NN	O	O	O
-को	PSP	O	O	O
-.	SYM	O	O	O
-ससुरजी	NNP	O	O	O
-पेंशन	NN	O	O	O
-पाते	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पिताजी	NN	O	O	O
-जंगल	NN	O	O	O
-के	PSP	O	O	O
-महकमे	NN	O	O	O
-में	PSP	O	O	O
-अच्छे	JJ	O	O	O
-पद	NN	O	O	O
-पर	PSP	O	O	O
-थे	VM	O	B-STAT	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-सारा	QF	O	O	O
-दिन	NN	O	O	OCC
-गुजर	VM	O	B-MISC	O
-गया	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तार	NN	O	O	O
-का	PSP	O	O	O
-जवाब	NN	O	O	O
-नदारद	NN	O	O	O
-!	SYM	O	O	O
-दूसरे	QO	B	O	O
-दिन	NN	I	O	O
-भी	RP	O	O	O
-कोई	PRP	O	O	O
-जवाब	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-.	SYM	O	O	O
-तीसरे	QO	B	O	O
-दिन	NN	I	O	O
-दोनों	JJ	O	O	O
-महाशयों	NN	O	O	O
-के	PSP	O	O	O
-पत्र	NN	O	O	O
-आये	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-दोनों	JJ	O	O	O
-जामे	NN	O	O	O
-से	PSP	O	O	O
-बाहर	NST	O	O	OCC
-थे	VM	O	B-STAT	O
-.	SYM	O	O	O
-ससुरजी	NNP	O	O	O
-ने	PSP	O	O	O
-लिखा	VM	O	B-MISC	OCC
--	SYM	O	O	O
-आशा	NN	O	O	O
-थी	VM	O	O	O
-,	SYM	O	O	O
-तुम	PRP	O	O	O
-लोग	NN	O	O	O
-बुढ़ापे	NNP	O	O	O
-में	PSP	O	O	O
-मेरा	PRP	O	O	O
-पालन	NN	O	B-MISC	OCC
-करोगे	VM	O	I-MISC	O
-.	SYM	O	O	O
-तुमने	PRP	O	O	O
-उस	DEM	O	O	O
-आशा	NN	O	O	O
-पर	PSP	O	O	O
-पानी	NN	O	B-MISC	O
-फेर	VM	O	I-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-क्या	WQ	O	O	O
-अब	PRP	O	O	O
-चाहती	VM	O	B-MISC	OCC
-हो	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मैं	PRP	O	O	O
-भिक्षा	NN	O	B-MISC	O
-मांगूं	VM	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-सरकार	NN	O	O	O
-से	PSP	O	O	O
-पेंशन	NN	O	O	O
-पाता	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-तुम्हें	PRP	O	O	O
-आश्रय	NN	O	B-MISC	O
-देकर	VM	O	I-MISC	O
-मैं	PRP	O	O	O
-अपनी	PRP	O	O	O
-पेंशन	NN	O	O	O
-से	PSP	O	O	O
-हाथ	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-धो	VM	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पिताजी	NN	O	O	O
-के	PSP	O	O	O
-शब्द	NN	O	O	O
-इतने	QF	O	O	O
-कठोर	JJ	O	O	O
-न	NEG	O	O	O
-थे	VM	O	O	O
-,	SYM	O	O	O
-पर	PSP	O	O	O
-भाव	NN	O	O	O
-लगभग	RB	O	O	O
-ऐसा	PRP	O	O	O
-ही	RP	O	O	O
-था	VM	O	B-MISC	O
-.	SYM	O	O	O
-इसी	DEM	O	O	O
-साल	NN	O	O	O
-उन्हें	PRP	O	O	O
-ग्रेड	NN	O	B-MISC	O
-मिलनेवाला	VM	O	I-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-मुझे	PRP	O	O	O
-बुलायेंगे	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-तो	RP	O	O	O
-संभव	JJ	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-ग्रेड	NN	O	O	O
-से	PSP	O	O	O
-वंचित	JJ	O	O	O
-होना	VM	O	O	OCC
-पड़े	NN	O	B-MISC	O
-.	SYM	O	O	O
-हां	INJ	O	O	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-मेरी	PRP	O	O	O
-सहायता	NN	O	O	O
-मौखिक	JJ	O	O	O
-रूप	NN	O	O	O
-से	PSP	O	O	O
-करने	VM	O	O	O
-को	PSP	O	O	O
-तैयार	JJ	O	B-MISC	OCC
-थे	VM	O	I-MISC	O
-.	SYM	O	O	O
-मैंने	PRP	O	O	O
-दोनों	JJ	O	O	O
-पत्र	NN	O	O	O
-फाड़कर	NNP	O	O	O
-फेंक	VM	O	B-MISC	OCC
-दिये	VAUX	O	I-MISC	O
-और	CC	O	O	O
-उन्हें	PRP	O	O	O
-कोई	PRP	O	O	O
-पत्र	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-लिखा	VM	O	I-MISC	O
-.	SYM	O	O	O
-हा	XC	O	O	O
-स्वार्थ	NN	O	O	O
-!	SYM	O	O	O
-तेरी	PRP	O	O	O
-माया	NN	O	O	O
-कितनी	QF	O	O	O
-प्रबल	NN	O	O	O
-है	VM	O	O	O
-!	SYM	O	O	O
-अपना	PRP	O	O	O
-ही	RP	O	O	O
-पिता	NN	O	O	O
-,	SYM	O	O	O
-केवल	RP	O	O	O
-स्वार्थ	NN	O	O	O
-में	PSP	O	O	O
-बाधा	NN	O	O	O
-पड़ने	NNP	O	O	O
-के	PSP	O	O	O
-भय	NN	O	O	O
-से	PSP	O	O	O
-,	SYM	O	O	O
-लड़की	NNP	O	O	O
-की	PSP	O	O	O
-तरफ	NST	O	O	O
-से	PSP	O	O	O
-इतना	QF	O	O	O
-निर्दय	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाय	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अपना	PRP	O	O	O
-ससुर	NN	O	O	O
-अपनी	PRP	O	O	O
-बहू	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-इतना	QF	O	O	O
-उदासीन	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाय	VAUX	O	I-MISC	O
-!	SYM	O	O	O
-मगर	CC	O	O	O
-अभी	PRP	O	O	O
-मेरी	PRP	O	O	O
-उम्र	NN	O	O	O
-ही	RP	O	O	O
-क्या	WQ	O	O	O
-है	VM	O	B-STAT	O
-!	SYM	O	O	O
-अभी	PRP	O	O	O
-तो	RP	O	O	O
-सारी	QF	O	O	O
-दुनिया	NN	O	O	O
-देखने	VM	O	O	O
-को	PSP	O	O	O
-पड़ी	XC	O	O	O
-है	NNP	O	O	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-तक	RP	O	O	O
-मैं	PRP	O	O	O
-अपने	PRP	O	O	O
-विषय	NN	O	O	O
-में	PSP	O	O	O
-निश्चिंत	JJ	O	O	O
-थी	VM	O	B-STAT	O
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-अब	PRP	O	O	O
-यह	PRP	O	O	O
-नयी	JJ	O	O	O
-चिंता	NN	O	O	O
-सवार	JJ	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-निर्जन	JJ	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-,	SYM	O	O	O
-निराधार	NN	O	O	O
-,	SYM	O	O	O
-निराश्रय	NN	O	O	O
-कैसे	WQ	O	O	O
-रहूंगी	VM	O	B-MISC	O
-.	SYM	O	O	O
-मगर	CC	O	O	O
-जाऊंगी	VM	O	O	O
-कहां	WQ	O	O	O
-?	SYM	O	O	O
-अगर	CC	O	O	O
-कोई	PRP	O	O	O
-मर्द	NN	O	O	O
-होती	VM	O	O	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-कांग्रेस	NN	O	O	O
-के	PSP	O	O	O
-आश्रम	NN	O	O	O
-में	PSP	O	O	O
-चली	VM	O	B-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-या	CC	O	O	O
-कोई	PRP	O	O	O
-मजूरी	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-लेती	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मेरे	PRP	O	O	O
-पैरों	NN	O	O	O
-में	PSP	O	O	O
-नारीत्व	NN	O	O	O
-की	PSP	O	O	O
-बेड़ियां	NN	O	O	O
-पड़ी	NN	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-थीं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अपनी	PRP	O	O	O
-रक्षा	NN	O	O	O
-की	PSP	O	O	O
-इतनी	QF	O	O	O
-चिंता	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-थी	VM	O	I-MISC	O
-,	SYM	O	O	O
-जितनी	QF	O	O	O
-अपने	PRP	O	O	O
-नारीत्व	NN	O	O	O
-की	PSP	O	O	O
-रक्षा	NN	O	B-MISC	OCC
-की	PSP	O	I-MISC	O
-.	SYM	O	O	O
-अपनी	PRP	O	O	O
-जान	NN	O	O	O
-की	PSP	O	O	O
-फिक्र	NN	O	O	OCC
-न	NEG	O	O	O
-थी	VM	O	B-STAT	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-नारीत्व	NN	O	O	O
-की	PSP	O	O	O
-ओर	PSP	O	O	O
-किसी	PRP	O	O	O
-की	PSP	O	O	O
-आंख	NN	O	O	O
-भी	RP	O	O	O
-न	NEG	O	B-MISC	OCC
-उठनी	VM	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-किसी	PRP	O	O	O
-की	PSP	O	O	O
-आहट	NN	O	B-MISC	O
-पाकर	VM	O	I-MISC	OCC
-मैंने	PRP	O	O	O
-नीचे	NST	O	O	O
-देखा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-दो	QC	O	O	O
-आदमी	NN	O	O	O
-खड़े	JJ	O	B-STAT	DECL
-थे	VM	O	I-STAT	O
-.	SYM	O	O	O
-जी	NN	O	O	O
-में	PSP	O	O	O
-आया	VM	O	B-MISC	O
-,	SYM	O	O	O
-पूछूं	NN	O	O	O
-तुम	PRP	O	O	O
-कौन	WQ	O	B-MISC	O
-हो	VM	O	I-MISC	OCC
-.	SYM	O	O	O
-यहां	PRP	O	O	O
-क्यों	WQ	O	O	O
-खड़े	JJ	O	O	OCC
-हो	VM	O	O	O
-?	SYM	O	O	O
-मगर	CC	O	O	O
-फिर	RB	O	O	O
-खयाल	NN	O	O	O
-आया	VM	O	O	O
-,	SYM	O	O	O
-मुझे	PRP	O	O	O
-यह	PRP	O	O	O
-पूछने	VM	O	B-MISC	O
-का	PSP	O	O	O
-क्या	WQ	O	O	O
-हक	NN	O	O	O
-?	SYM	O	O	O
-आम	JJ	O	O	O
-रास्ता	NN	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-जिसका	PRP	O	O	O
-जी	NN	O	O	O
-चाहे	CC:?	O	O	O
-खड़ा	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-.	SYM	O	O	O
-पर	PSP	O	O	O
-मुझे	PRP	O	O	O
-खटका	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उस	DEM	O	O	O
-शंका	NN	O	O	O
-को	PSP	O	O	O
-किसी	PRP	O	O	O
-तरह	NN	O	O	O
-दिल	NN	O	O	O
-से	PSP	O	O	O
-न	NEG	O	B-MISC	OCC
-निकाल	VM	O	I-MISC	O
-सकती	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-एक	QC	O	O	O
-चिनगारी	NN	O	O	O
-की	PSP	O	O	O
-भांति	PSP	O	O	O
-हृदय	NN	O	O	O
-के	PSP	O	O	O
-अंदर	NST	O	O	O
-समा	VM	O	B-MISC	OCC
-गयी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-गरमी	NN	O	O	O
-से	PSP	O	O	O
-देह	NN	O	O	O
-फुंकी	NN	O	O	OCC
-जाती	VM	O	B-MISC	O
-थी	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-मैंने	PRP	O	O	O
-कमरे	NN	O	O	O
-का	PSP	O	O	O
-द्वार	NN	O	O	O
-भीतर	NST	O	O	O
-से	PSP	O	O	O
-बंद	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-लिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-बड़ा-सा	NN	O	O	O
-चाकू	NN	O	B-STAT	OCC
-था	VM	O	I-STAT	O
-.	SYM	O	O	O
-उसे	PRP	O	O	O
-निकालकर	VM	O	B-MISC	O
-सिरहाने	VM	O	I-MISC	OCC
-रख	VAUX	O	I-MISC	O
-लिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	DEM	O	O	O
-शंका	NN	O	O	O
-सामने	NST	O	O	O
-बैठी	VM	O	O	O
-घूरती	NN	O	B-MISC	O
-हुई	VM	O	I-MISC	O
-मालूम	JJ	O	B-MISC	OCC
-होती	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+दूसरे
+दिन
+मैंने
+दो
+तार
+दिये
+.
+एक
+पिताजी
+को
+,
+दूसरा
+ससुरजी
+को
+.
+ससुरजी
+पेंशन
+पाते
+थे
+.
+पिताजी
+जंगल
+के
+महकमे
+में
+अच्छे
+पद
+पर
+थे
+;
+पर
+सारा
+दिन
+गुजर
+गया
+,
+तार
+का
+जवाब
+नदारद
+!
+दूसरे
+दिन
+भी
+कोई
+जवाब
+नहीं
+.
+तीसरे
+दिन
+दोनों
+महाशयों
+के
+पत्र
+आये
+.
+दोनों
+जामे
+से
+बाहर
+थे
+.
+ससुरजी
+ने
+लिखा
+-
+आशा
+थी
+,
+तुम
+लोग
+बुढ़ापे
+में
+मेरा
+पालन
+करोगे
+.
+तुमने
+उस
+आशा
+पर
+पानी
+फेर
+दिया
+.
+क्या
+अब
+चाहती
+हो
+,
+मैं
+भिक्षा
+मांगूं
+.
+मैं
+सरकार
+से
+पेंशन
+पाता
+हूं
+.
+तुम्हें
+आश्रय
+देकर
+मैं
+अपनी
+पेंशन
+से
+हाथ
+नहीं
+धो
+सकता
+.
+पिताजी
+के
+शब्द
+इतने
+कठोर
+न
+थे
+,
+पर
+भाव
+लगभग
+ऐसा
+ही
+था
+.
+इसी
+साल
+उन्हें
+ग्रेड
+मिलनेवाला
+था
+.
+वह
+मुझे
+बुलायेंगे
+,
+तो
+संभव
+है
+,
+ग्रेड
+से
+वंचित
+होना
+पड़े
+.
+हां
+,
+वह
+मेरी
+सहायता
+मौखिक
+रूप
+से
+करने
+को
+तैयार
+थे
+.
+मैंने
+दोनों
+पत्र
+फाड़कर
+फेंक
+दिये
+और
+उन्हें
+कोई
+पत्र
+न
+लिखा
+.
+हा
+स्वार्थ
+!
+तेरी
+माया
+कितनी
+प्रबल
+है
+!
+अपना
+ही
+पिता
+,
+केवल
+स्वार्थ
+में
+बाधा
+पड़ने
+के
+भय
+से
+,
+लड़की
+की
+तरफ
+से
+इतना
+निर्दय
+हो
+जाय
+.
+अपना
+ससुर
+अपनी
+बहू
+की
+ओर
+से
+इतना
+उदासीन
+हो
+जाय
+!
+मगर
+अभी
+मेरी
+उम्र
+ही
+क्या
+है
+!
+अभी
+तो
+सारी
+दुनिया
+देखने
+को
+पड़ी
+है
+.
+अब
+तक
+मैं
+अपने
+विषय
+में
+निश्चिंत
+थी
+;
+लेकिन
+अब
+यह
+नयी
+चिंता
+सवार
+हुई
+.
+इस
+निर्जन
+घर
+में
+,
+निराधार
+,
+निराश्रय
+कैसे
+रहूंगी
+.
+मगर
+जाऊंगी
+कहां
+?
+अगर
+कोई
+मर्द
+होती
+,
+तो
+कांग्रेस
+के
+आश्रम
+में
+चली
+जाती
+,
+या
+कोई
+मजूरी
+कर
+लेती
+.
+मेरे
+पैरों
+में
+नारीत्व
+की
+बेड़ियां
+पड़ी
+हुई
+थीं
+.
+अपनी
+रक्षा
+की
+इतनी
+चिंता
+न
+थी
+,
+जितनी
+अपने
+नारीत्व
+की
+रक्षा
+की
+.
+अपनी
+जान
+की
+फिक्र
+न
+थी
+;
+पर
+नारीत्व
+की
+ओर
+किसी
+की
+आंख
+भी
+न
+उठनी
+चाहिए
+.
+किसी
+की
+आहट
+पाकर
+मैंने
+नीचे
+देखा
+.
+दो
+आदमी
+खड़े
+थे
+.
+जी
+में
+आया
+,
+पूछूं
+तुम
+कौन
+हो
+.
+यहां
+क्यों
+खड़े
+हो
+?
+मगर
+फिर
+खयाल
+आया
+,
+मुझे
+यह
+पूछने
+का
+क्या
+हक
+?
+आम
+रास्ता
+है
+.
+जिसका
+जी
+चाहे
+खड़ा
+हो
+.
+पर
+मुझे
+खटका
+हो
+गया
+.
+उस
+शंका
+को
+किसी
+तरह
+दिल
+से
+न
+निकाल
+सकती
+थी
+.
+वह
+एक
+चिनगारी
+की
+भांति
+हृदय
+के
+अंदर
+समा
+गयी
+थी
+.
+गरमी
+से
+देह
+फुंकी
+जाती
+थी
+;
+पर
+मैंने
+कमरे
+का
+द्वार
+भीतर
+से
+बंद
+कर
+लिया
+.
+घर
+में
+एक
+बड़ा-सा
+चाकू
+था
+.
+उसे
+निकालकर
+सिरहाने
+रख
+लिया
+.
+वह
+शंका
+सामने
+बैठी
+घूरती
+हुई
+मालूम
+होती
+थी
+.

@@ -1,276 +1,276 @@
-एनसीईआरटी	NN	O	O	O
-10	QC	O	O	O
-वीं	XC	O	O	O
-क्लास	NN	O	O	O
-के	PSP	O	O	O
-छात्रों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-नैशनल	JJ	O	O	O
-टैलंट	NN	O	O	O
-सर्च	XC	O	O	O
-एग्जाम	NNP	O	O	O
-का	PSP	O	O	O
-आयोजन	NN	O	B-MISC	OCC
-करता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-आवेदन	NN	O	O	O
-का	PSP	O	O	O
-समय	NN	O	O	O
-अभी	PRP	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-परीक्षा	NN	O	O	O
-के	PSP	O	O	O
-माध्यम	NN	O	O	O
-से	PSP	O	O	O
-प्रतिभाशाली	JJ	O	O	O
-छात्रों	NN	O	O	O
-का	PSP	O	O	O
-चयन	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जाता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-चयनित	JJ	O	O	O
-छात्रों	NN	O	O	O
-को	PSP	O	O	O
-उनकी	PRP	O	O	O
-शिक्षा	NN	O	O	O
-के	PSP	O	O	O
-विभिन्न	JJ	O	O	O
-स्तरों	NN	O	O	O
-पर	PSP	O	O	O
-वित्तीय	JJ	O	O	O
-सहायता	NN	O	O	O
-मुहैया	JJ	O	B-MISC	OCC
-कराई	VM	O	I-MISC	O
-जाती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-परीक्षा	NN	O	O	O
-का	PSP	O	O	O
-आयोजन	NN	O	O	O
-राज्य	NN	O	O	O
-और	CC	O	O	O
-राष्ट्रीय	XC	O	O	O
-,	SYM	O	O	O
-दो	QC	O	O	O
-स्तरों	NN	O	O	O
-पर	PSP	O	O	O
-होता	VM	O	B-STAT	DECL
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-स्कॉलरशिप	NN	O	O	O
-नैशनल	JJ	O	O	O
-काउंसिल	NN	O	O	O
-ऑफ	PSP	O	O	O
-एजुकेशनल	XC	O	O	O
-रिसर्च	XC	O	O	O
-ऐंड	XC	O	O	O
-ट्रेनिंग	NN	O	O	O
-(	SYM	O	O	O
-एनसीईआरटी	NN	O	O	O
-)	SYM	O	B-MISC	O
-देता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मान्यता	NN	O	O	O
-प्राप्त	JJ	O	O	O
-स्कूलों	NN	O	O	O
-में	PSP	O	O	O
-10	QC	O	O	O
-वीं	XC	O	O	O
-क्लास	NN	O	O	O
-में	PSP	O	O	O
-पढ़ने	NNP	O	O	O
-वाले	PSP	O	O	O
-सभी	QF	O	O	O
-छात्र	NN	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-आवेदन	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पहले	NST	O	O	O
-चरण	NN	O	O	O
-की	PSP	O	O	O
-परीक्षा	NN	O	O	O
-को	PSP	O	O	O
-पास	NST	O	O	O
-करने	VM	O	B-STAT	O
-वाले	PSP	O	I-STAT	O
-छात्र	NN	O	O	O
-ही	RP	O	O	O
-दूसरे	PRP	O	O	O
-चरण	NN	O	O	O
-की	PSP	O	O	O
-परीक्षा	NN	O	B-MISC	OCC
-दे	VM	O	I-MISC	O
-पाएंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-18	QC	B	O	O
-साल	NN	I	O	O
-से	PSP	O	O	O
-कम	QF	O	O	O
-आयु	NN	O	O	O
-के	PSP	O	O	O
-ओपन	NN	O	O	O
-के	PSP	O	O	O
-छात्र	NN	O	O	O
-भी	RP	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-आवेदन	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसमें	PRP	O	O	O
-शिक्षा	NN	O	O	O
-के	PSP	O	O	O
-हर	QF	O	O	O
-स्तर	NN	O	O	O
-पर	PSP	O	O	O
-एक	QC	O	O	O
-निश्चित	JJ	O	O	O
-राशि	NN	O	O	O
-स्कॉलरशिप	NN	O	O	O
-के	PSP	O	O	O
-तौर	NN	O	O	O
-पर	PSP	O	O	O
-हर	QF	O	O	O
-महीने	NN	O	B-MISC	OCC
-मिलती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-11	QC	O	O	O
-वीं	XC	O	O	O
-और	CC	O	O	O
-12	QC	O	O	O
-वीं	XC	O	O	O
-क्लास	NN	O	O	O
-में	PSP	O	O	O
-छात्रों	NN	O	O	O
-को	PSP	O	O	O
-हर	QF	B	O	O
-महीने	NN	I	O	O
-1,250	QC	O	O	O
-रुपये	NN	O	O	O
-मिलता	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अंडरग्रैजुएट	NN	O	O	O
-और	CC	O	O	O
-पोस्ट	NN	O	O	O
-ग्रैजुएट	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-2,000	QC	O	O	O
-रुपये	NN	O	O	O
-हर	QF	O	O	O
-महीने	NN	O	B-MISC	O
-मिलता	VM	O	I-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पीएचडी	NN	O	O	O
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-यूजीसी	NN	O	O	O
-के	PSP	O	O	O
-नियमों	NN	O	O	O
-के	PSP	O	O	O
-मुताबिक	JJ	O	O	O
-स्कॉलरशिप	NN	O	B-MISC	O
-मिलती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मिजोरम	NN	O	O	O
-,	SYM	O	O	O
-मेघालय	NNP	O	O	O
-,	SYM	O	O	O
-नगालैंड	NN	O	O	O
-और	CC	O	O	O
-अंडमान	NN	O	O	O
-एवं	CC	O	O	O
-निकोबार	JJ	O	O	O
-द्वीप	NN	O	O	O
-समूहों	NN	O	O	O
-के	PSP	O	O	O
-कैंडिडेट	NN	O	O	O
-2	QC	B	O	O
-नवंबर	NNP	I	O	O
-,	SYM	O	O	O
-2019	QC	O	O	O
-तक	RP	O	O	O
-आवेदन	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पश्चिम	JJ	O	O	O
-बंगाल	NNP	O	O	O
-को	PSP	O	O	O
-छोड़कर	XC	O	O	O
-अन्य	JJ	O	O	O
-सभी	QF	O	O	O
-राज्य	NN	O	O	O
-और	CC	O	O	O
-केंद्रशासित	JJ	O	O	O
-प्रदेश	NN	O	O	O
-के	PSP	O	O	O
-कैंडिडेट्स	NN	O	O	O
-3	QC	O	O	O
-नवंबर	NNP	O	O	O
-,	SYM	O	O	O
-2019	QC	O	O	O
-तक	RP	O	O	O
-आवेदन	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पश्चिम	JJ	O	O	O
-बंगाल	NNP	O	O	O
-के	PSP	O	O	O
-कैंडिडेट	NN	O	O	O
-17	QC	B	O	O
-नवंबर	NNP	I	O	O
-,	SYM	O	O	O
-2019	QC	O	O	O
-तक	RP	O	O	O
-आवेदन	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-दूसरे	QO	O	O	O
-चरण	NN	O	O	O
-की	PSP	O	O	O
-परीक्षा	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-सभी	QF	O	O	O
-राज्यों	NN	O	O	O
-और	CC	O	O	O
-केंद्रशासित	JJ	O	O	O
-प्रदेश	NN	O	O	O
-के	PSP	O	O	O
-कैंडिडेट	NN	O	O	O
-20	QC	O	O	O
-मई	NNP	O	O	O
-,	SYM	O	O	O
-2020	QC	O	O	O
-तक	RP	O	O	O
-आवेदन	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+एनसीईआरटी
+10
+वीं
+क्लास
+के
+छात्रों
+के
+लिए
+नैशनल
+टैलंट
+सर्च
+एग्जाम
+का
+आयोजन
+करता
+है
+.
+इसके
+लिए
+आवेदन
+का
+समय
+अभी
+है
+.
+इस
+परीक्षा
+के
+माध्यम
+से
+प्रतिभाशाली
+छात्रों
+का
+चयन
+किया
+जाता
+है
+और
+चयनित
+छात्रों
+को
+उनकी
+शिक्षा
+के
+विभिन्न
+स्तरों
+पर
+वित्तीय
+सहायता
+मुहैया
+कराई
+जाती
+है
+.
+परीक्षा
+का
+आयोजन
+राज्य
+और
+राष्ट्रीय
+,
+दो
+स्तरों
+पर
+होता
+है
+.
+यह
+स्कॉलरशिप
+नैशनल
+काउंसिल
+ऑफ
+एजुकेशनल
+रिसर्च
+ऐंड
+ट्रेनिंग
+(
+एनसीईआरटी
+)
+देता
+है
+.
+मान्यता
+प्राप्त
+स्कूलों
+में
+10
+वीं
+क्लास
+में
+पढ़ने
+वाले
+सभी
+छात्र
+इसके
+लिए
+आवेदन
+कर
+सकते
+हैं
+.
+पहले
+चरण
+की
+परीक्षा
+को
+पास
+करने
+वाले
+छात्र
+ही
+दूसरे
+चरण
+की
+परीक्षा
+दे
+पाएंगे
+.
+18
+साल
+से
+कम
+आयु
+के
+ओपन
+के
+छात्र
+भी
+इसके
+लिए
+आवेदन
+कर
+सकते
+हैं
+.
+इसमें
+शिक्षा
+के
+हर
+स्तर
+पर
+एक
+निश्चित
+राशि
+स्कॉलरशिप
+के
+तौर
+पर
+हर
+महीने
+मिलती
+है
+.
+11
+वीं
+और
+12
+वीं
+क्लास
+में
+छात्रों
+को
+हर
+महीने
+1,250
+रुपये
+मिलता
+है
+.
+अंडरग्रैजुएट
+और
+पोस्ट
+ग्रैजुएट
+के
+लिए
+2,000
+रुपये
+हर
+महीने
+मिलता
+है
+.
+पीएचडी
+के
+दौरान
+यूजीसी
+के
+नियमों
+के
+मुताबिक
+स्कॉलरशिप
+मिलती
+है
+.
+मिजोरम
+,
+मेघालय
+,
+नगालैंड
+और
+अंडमान
+एवं
+निकोबार
+द्वीप
+समूहों
+के
+कैंडिडेट
+2
+नवंबर
+,
+2019
+तक
+आवेदन
+कर
+सकते
+हैं
+.
+पश्चिम
+बंगाल
+को
+छोड़कर
+अन्य
+सभी
+राज्य
+और
+केंद्रशासित
+प्रदेश
+के
+कैंडिडेट्स
+3
+नवंबर
+,
+2019
+तक
+आवेदन
+कर
+सकते
+हैं
+.
+पश्चिम
+बंगाल
+के
+कैंडिडेट
+17
+नवंबर
+,
+2019
+तक
+आवेदन
+कर
+सकते
+हैं
+.
+दूसरे
+चरण
+की
+परीक्षा
+के
+लिए
+सभी
+राज्यों
+और
+केंद्रशासित
+प्रदेश
+के
+कैंडिडेट
+20
+मई
+,
+2020
+तक
+आवेदन
+कर
+सकते
+हैं
+.

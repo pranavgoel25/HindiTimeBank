@@ -1,194 +1,194 @@
-भरण-पोषण	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-मुख्य	JJ	O	O	O
-रूप	NN	O	O	O
-से	PSP	O	O	O
-बैंकों	NN	O	O	O
-में	PSP	O	O	O
-किए	VM	O	B-MISC	O
-गए	VAUX	O	I-MISC	O
-फिक्स्ड	XC	O	O	O
-डिपॉजिट्स	NNP	O	O	O
-(	SYM	O	O	O
-एफडी	NN	O	O	O
-)	SYM	O	O	O
-से	PSP	O	O	O
-प्राप्त	JJ	O	O	O
-ब्याज	NN	O	O	O
-की	PSP	O	O	O
-रकम	NN	O	O	O
-पर	PSP	O	O	O
-निर्भर	JJ	O	O	O
-वरिष्ठ	JJ	O	O	O
-नागरिकों	NN	O	O	O
-एवं	CC	O	O	O
-सेवानिवृत्ति	NN	O	O	O
-प्राप्त	JJ	O	O	O
-लोगों	NN	O	O	O
-को	PSP	O	O	O
-जल्द	NN	O	O	O
-ही	RP	O	O	O
-कुछ	QF	O	O	O
-पैसे	NN	O	O	O
-डेट	NN	O	O	O
-म्यूचुअल	JJ	O	O	O
-फंड्स	NN	O	O	O
-में	PSP	O	O	O
-डालने	VM	O	B-MISC	O
-की	PSP	O	O	O
-जरूरत	NN	O	B-MISC	OCC
-पड़	NNP	O	I-MISC	O
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-देश	NN	O	O	O
-के	PSP	O	O	O
-सबसे	INTF	O	O	O
-बड़े	JJ	O	O	O
-बैंक	NN	O	O	O
-स्टेट	XC	O	O	O
-बैंक	XC	O	O	O
-ऑफ	XC	O	O	O
-इंडिया	NNP	O	O	O
-(	SYM	O	O	O
-एसबीआई	NN	O	O	O
-)	SYM	O	O	O
-ने	PSP	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-लोन	NN	O	O	O
-पर	PSP	O	O	O
-ब्याज	NN	O	B-MISC	OCC
-दर	NN	O	I-MISC	O
-घटाने	VM	O	I-MISC	O
-के	PSP	O	O	O
-साथ-साथ	NST	O	O	O
-सीनियर	JJ	O	O	O
-सिटिजन	NNP	O	O	O
-के	PSP	O	O	O
-1	QC	O	O	O
--	SYM	O	O	O
-2	QC	B	O	O
-वर्ष	NN	I	O	O
-की	PSP	O	O	O
-अवधि	NN	O	O	O
-वाले	PSP	O	O	O
-बैंक	NN	O	O	O
-एफडी	NN	O	O	O
-पर	PSP	O	O	O
-भी	RP	O	O	O
-ब्याज	XC	O	O	O
-दर	NN	O	O	O
-7	QC	O	O	O
-%	SYM	O	O	O
-से	PSP	O	O	O
-घटाकर	VM	O	O	OCC
-6.9	QC	O	O	O
-%	SYM	O	O	O
-जबकि	CC	O	O	O
-बचत	JJ	O	O	O
-खाते	NN	O	O	O
-में	PSP	O	O	O
-1	QC	O	O	O
-लाख	QC	O	O	O
-रुपये	NN	O	O	O
-तक	RP	O	O	O
-की	PSP	O	O	O
-जमा	JJ	O	O	O
-रकम	NN	O	O	O
-पर	PSP	O	O	O
-ब्याज	XC	O	O	O
-दर	NN	O	O	O
-3.5	QC	O	O	O
-%	SYM	O	O	O
-से	PSP	O	O	O
-घटाकर	VM	O	O	OCC
-3.25	QC	O	O	O
-%	SYM	O	B-MISC	O
-कर	VM	O	I-MISC	O
-दी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-स्वाभाविक	JJ	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-कि	CC	O	O	O
-दूसरे	QO	O	O	O
-बैंक	NN	O	O	O
-भी	RP	O	O	O
-एसबीआई	NN	O	O	O
-जैसा	PSP	O	O	O
-कदम	NN	O	B-MISC	O
-उठाएंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
-दरअसल	NN	O	O	O
-,	SYM	O	O	O
-देश	NN	O	O	O
-के	PSP	O	O	O
-सारे	QF	O	O	O
-बैंक	NN	O	O	O
-रिजर्व	XC	O	O	O
-बैंक	XC	O	O	O
-ऑफ	XC	O	O	O
-इंडिया	NNP	O	O	O
-(	SYM	O	O	O
-आरबीआई	NN	O	O	O
-)	SYM	O	O	O
-के	PSP	O	O	O
-निर्देश	NN	O	O	O
-पर	PSP	O	O	O
-ब्याज	XC	O	O	O
-दरों	NN	O	O	O
-को	PSP	O	O	O
-मार्जिनल	XC	O	O	O
-कॉस्ट	XC	O	O	O
-ऑफ	XC	O	O	O
-लेंडिंग	XC	O	O	O
-रेट	NN	O	O	O
-(	SYM	O	O	O
-एमसीएलआर	NN	O	O	O
-)	SYM	O	O	O
-की	PSP	O	O	O
-जगह	NN	O	O	O
-अब	PRP	O	O	O
-रीपो	XC	O	O	O
-रेट	NN	O	O	O
-आधारित	JJ	O	O	O
-एक्सटर्नल	XC	O	O	O
-बेंचमार्क	NNP	O	O	O
-से	PSP	O	O	O
-जोड़	XC	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-जो	PRP	O	O	O
-लोन	NN	O	O	O
-पर	PSP	O	O	O
-निर्धारित	JJ	O	O	O
-ब्याज	XC	O	O	O
-दरों	NN	O	O	O
-के	PSP	O	O	O
-मुताबिक	JJ	O	O	O
-बदलते	VM	O	B-MISC	OCC
-रहते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-चूंकि	CC	O	O	O
-लोन	NN	O	O	O
-की	PSP	O	O	O
-ब्याज	XC	O	O	O
-दर	NN	O	O	O
-लगातार	RB	O	O	O
-बदलती	VM	O	B-MISC	OCC
-रहती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-इसलिए	CC	O	O	O
-जमा	JJ	O	O	O
-रकम	NN	O	O	O
-पर	PSP	O	O	O
-ब्याज	XC	O	O	OCC
-दर	NN	O	O	O
-भी	RP	O	O	O
-लगातार	RB	O	O	O
-बदलती	VM	O	B-MISC	OCC
-रहेगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+भरण-पोषण
+के
+लिए
+मुख्य
+रूप
+से
+बैंकों
+में
+किए
+गए
+फिक्स्ड
+डिपॉजिट्स
+(
+एफडी
+)
+से
+प्राप्त
+ब्याज
+की
+रकम
+पर
+निर्भर
+वरिष्ठ
+नागरिकों
+एवं
+सेवानिवृत्ति
+प्राप्त
+लोगों
+को
+जल्द
+ही
+कुछ
+पैसे
+डेट
+म्यूचुअल
+फंड्स
+में
+डालने
+की
+जरूरत
+पड़
+सकती
+है
+.
+देश
+के
+सबसे
+बड़े
+बैंक
+स्टेट
+बैंक
+ऑफ
+इंडिया
+(
+एसबीआई
+)
+ने
+बुधवार
+को
+लोन
+पर
+ब्याज
+दर
+घटाने
+के
+साथ-साथ
+सीनियर
+सिटिजन
+के
+1
+-
+2
+वर्ष
+की
+अवधि
+वाले
+बैंक
+एफडी
+पर
+भी
+ब्याज
+दर
+7
+%
+से
+घटाकर
+6.9
+%
+जबकि
+बचत
+खाते
+में
+1
+लाख
+रुपये
+तक
+की
+जमा
+रकम
+पर
+ब्याज
+दर
+3.5
+%
+से
+घटाकर
+3.25
+%
+कर
+दी
+.
+स्वाभाविक
+है
+कि
+दूसरे
+बैंक
+भी
+एसबीआई
+जैसा
+कदम
+उठाएंगे
+.
+दरअसल
+,
+देश
+के
+सारे
+बैंक
+रिजर्व
+बैंक
+ऑफ
+इंडिया
+(
+आरबीआई
+)
+के
+निर्देश
+पर
+ब्याज
+दरों
+को
+मार्जिनल
+कॉस्ट
+ऑफ
+लेंडिंग
+रेट
+(
+एमसीएलआर
+)
+की
+जगह
+अब
+रीपो
+रेट
+आधारित
+एक्सटर्नल
+बेंचमार्क
+से
+जोड़
+रहे
+हैं
+जो
+लोन
+पर
+निर्धारित
+ब्याज
+दरों
+के
+मुताबिक
+बदलते
+रहते
+हैं
+.
+चूंकि
+लोन
+की
+ब्याज
+दर
+लगातार
+बदलती
+रहती
+है
+,
+इसलिए
+जमा
+रकम
+पर
+ब्याज
+दर
+भी
+लगातार
+बदलती
+रहेगी
+.

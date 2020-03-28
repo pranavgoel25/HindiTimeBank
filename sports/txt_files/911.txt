@@ -1,204 +1,204 @@
-भारतीय	JJ	O	O	O
-महिला	NN	O	O	O
-हॉकी	JJ	O	O	O
-टीम	NN	O	O	O
-ने	PSP	O	O	O
-इंग्लैंड	NNP	O	O	O
-दौरे	NN	O	O	O
-का	PSP	O	O	O
-अपना	PRP	O	O	O
-तीसरा	QO	O	O	O
-मैच	NN	O	O	O
-मंगलवार	NN	B	O	O
-को	PSP	O	O	O
-यहां	PRP	O	O	O
-गोलरहित	JJ	O	O	O
-ड्रॉ	NN	O	B-MISC	OCC
-खेला	VM	O	I-MISC	O
-.	SYM	O	O	O
-दोनों	JJ	O	O	O
-टीमों	NN	O	O	O
-ने	PSP	O	O	O
-सतर्क	JJ	O	O	O
-शुरुआत	NN	O	B-MISC	O
-की	PSP	O	I-MISC	O
-.	SYM	O	O	O
-भारतीय	JJ	O	O	O
-टीम	NN	O	O	O
-ने	PSP	O	O	O
-पहले	NST	O	O	O
-क्वॉर्टर	NN	O	O	O
-के	PSP	O	O	O
-आखिर	RB	O	O	O
-में	PSP	O	O	O
-आक्रामक	JJ	O	O	O
-रवैया	NN	O	O	O
-अपनाया	VM	O	B-MISC	O
-और	CC	O	O	O
-पेनल्टी	JJ	O	O	O
-कॉर्नर	NN	O	O	O
-हासिल	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-लेकिन	CC	O	O	O
-वह	PRP	O	O	O
-इसका	PRP	O	O	O
-फायदा	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-उठा	VM	O	I-MISC	O
-पाई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भारतीय	JJ	O	O	O
-टीम	NN	O	O	O
-ने	PSP	O	O	O
-दूसरे	PRP	O	O	O
-क्वॉर्टर	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-आक्रामक	JJ	O	O	O
-रवैया	NN	O	B-MISC	O
-अपनाया	VM	O	I-MISC	O
-.	SYM	O	O	O
-उसे	PRP	O	O	O
-20	QC	O	O	O
-वें	PRP	O	O	O
-मिनट	NN	O	O	O
-में	PSP	O	O	O
-दूसरा	QO	O	O	O
-पेनल्टी	JJ	O	O	O
-कॉर्नर	NN	O	B-MISC	OCC
-मिला	VM	O	I-MISC	O
-लेकिन	CC	O	O	O
-ब्रिटिश	JJ	O	O	O
-टीम	NN	O	O	O
-ने	PSP	O	O	O
-इसका	PRP	O	O	O
-भी	RP	O	O	O
-शानदार	JJ	O	O	O
-बचाव	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-तीसरे	QO	O	O	O
-क्वार्टर	NN	O	O	O
-के	PSP	O	O	O
-शुरू	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-भारतीय	JJ	O	O	O
-टीम	NN	O	O	O
-ने	PSP	O	O	O
-पेनल्टी	JJ	O	O	O
-कॉर्नर	NN	O	O	O
-हासिल	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-लेकिन	CC	O	O	O
-उसने	PRP	O	O	O
-इसे	PRP	O	O	O
-भी	RP	O	O	O
-खराब	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ब्रिटेन	NNP	O	O	O
-ने	PSP	O	O	O
-जवाबी	JJ	O	O	O
-हमला	NN	O	B-MISC	O
-करके	VM	O	I-MISC	O
-35	QC	O	O	O
-वें	PRP	O	O	O
-मिनट	NN	O	O	O
-में	PSP	O	O	O
-पहला	QO	O	O	O
-पेनल्टी	JJ	O	O	O
-कॉर्नर	NN	O	O	OCC
-हासिल	NN	O	B-MISC	O
-किया	VM	O	I-MISC	O
-लेकिन	CC	O	O	O
-भारतीय	JJ	O	O	O
-गोलकीपर	XC	O	O	O
-सविता	NN	O	O	O
-ने	PSP	O	O	O
-उसका	PRP	O	O	O
-अच्छा	JJ	O	O	O
-बचाव	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-भारतीय	JJ	O	O	O
-टीम	NN	O	O	O
-ने	PSP	O	O	O
-आक्रामक	JJ	O	O	O
-रवैया	NN	O	O	O
-बरकरार	JJ	O	B-STAT	O
-रखा	VM	O	I-STAT	O
-और	CC	O	O	O
-38	QC	O	O	O
-वें	PRP	O	O	O
-मिनट	NN	O	O	O
-में	PSP	O	O	O
-उसे	PRP	O	O	O
-चौथा	NN	O	O	O
-पेनल्टी	JJ	O	O	O
-कॉर्नर	NN	O	O	O
-मिला	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-इस	PRP	O	O	O
-बार	RP	O	O	O
-भी	RP	O	O	O
-उन्हें	PRP	O	O	O
-नाकामी	NN	O	B-MISC	OCC
-मिली	VM	O	I-MISC	O
-.	SYM	O	O	O
-चौथे	QO	O	O	O
-क्वॉर्टर	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-दोनों	JJ	O	O	O
-टीमों	NN	O	O	O
-ने	PSP	O	O	O
-गोल	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-की	PSP	O	O	O
-पूरी	JJ	O	O	O
-कोशिश	NN	O	B-MISC	OCC
-की	PSP	O	I-MISC	O
-लेकिन	CC	O	O	O
-उन्हें	PRP	O	O	O
-सफलता	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-मिली	VM	O	I-MISC	O
-.	SYM	O	O	O
-भारत	NNP	O	O	O
-के	PSP	O	O	O
-पास	NST	O	O	O
-अंतिम	JJ	O	O	O
-क्षणों	NN	O	O	O
-में	PSP	O	O	O
-गोल	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-का	PSP	O	O	O
-मौका	NN	O	B-MISC	OCC
-था	VM	O	I-MISC	O
-लेकिन	CC	O	O	O
-इस	DEM	O	O	O
-बार	RP	O	O	O
-भी	RP	O	O	O
-उसने	PRP	O	O	O
-पेनल्टी	JJ	O	O	O
-कॉर्नर	NN	O	O	O
-बेकार	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भारतीय	JJ	O	O	O
-महिला	NN	O	O	O
-हॉकी	JJ	O	O	O
-टीम	NN	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-ब्रिटेन	NNP	O	O	O
-से	PSP	O	O	O
-अपना	PRP	O	O	O
-चौथा	QC	O	O	O
-मैच	NN	O	B-MISC	OCC
-खेलेगी	VM	O	I-MISC	O
-.	SYM	O	O	O
+भारतीय
+महिला
+हॉकी
+टीम
+ने
+इंग्लैंड
+दौरे
+का
+अपना
+तीसरा
+मैच
+मंगलवार
+को
+यहां
+गोलरहित
+ड्रॉ
+खेला
+.
+दोनों
+टीमों
+ने
+सतर्क
+शुरुआत
+की
+.
+भारतीय
+टीम
+ने
+पहले
+क्वॉर्टर
+के
+आखिर
+में
+आक्रामक
+रवैया
+अपनाया
+और
+पेनल्टी
+कॉर्नर
+हासिल
+किया
+लेकिन
+वह
+इसका
+फायदा
+नहीं
+उठा
+पाई
+.
+भारतीय
+टीम
+ने
+दूसरे
+क्वॉर्टर
+में
+भी
+आक्रामक
+रवैया
+अपनाया
+.
+उसे
+20
+वें
+मिनट
+में
+दूसरा
+पेनल्टी
+कॉर्नर
+मिला
+लेकिन
+ब्रिटिश
+टीम
+ने
+इसका
+भी
+शानदार
+बचाव
+किया
+.
+तीसरे
+क्वार्टर
+के
+शुरू
+में
+भी
+भारतीय
+टीम
+ने
+पेनल्टी
+कॉर्नर
+हासिल
+किया
+लेकिन
+उसने
+इसे
+भी
+खराब
+कर
+दिया
+.
+ब्रिटेन
+ने
+जवाबी
+हमला
+करके
+35
+वें
+मिनट
+में
+पहला
+पेनल्टी
+कॉर्नर
+हासिल
+किया
+लेकिन
+भारतीय
+गोलकीपर
+सविता
+ने
+उसका
+अच्छा
+बचाव
+किया
+.
+भारतीय
+टीम
+ने
+आक्रामक
+रवैया
+बरकरार
+रखा
+और
+38
+वें
+मिनट
+में
+उसे
+चौथा
+पेनल्टी
+कॉर्नर
+मिला
+,
+लेकिन
+इस
+बार
+भी
+उन्हें
+नाकामी
+मिली
+.
+चौथे
+क्वॉर्टर
+में
+भी
+दोनों
+टीमों
+ने
+गोल
+करने
+की
+पूरी
+कोशिश
+की
+लेकिन
+उन्हें
+सफलता
+नहीं
+मिली
+.
+भारत
+के
+पास
+अंतिम
+क्षणों
+में
+गोल
+करने
+का
+मौका
+था
+लेकिन
+इस
+बार
+भी
+उसने
+पेनल्टी
+कॉर्नर
+बेकार
+कर
+दिया
+.
+भारतीय
+महिला
+हॉकी
+टीम
+बुधवार
+को
+ब्रिटेन
+से
+अपना
+चौथा
+मैच
+खेलेगी
+.

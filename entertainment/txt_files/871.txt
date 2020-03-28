@@ -1,251 +1,251 @@
-बॉलिवुड	NN	O	O	O
-के	PSP	O	O	O
-शहंशाह	NN	O	O	O
-यानी	CC	O	O	O
-अमिताभ	JJ	O	O	O
-बच्चन	NN	O	O	O
-11	QC	O	O	O
-अक्टबर	XC	O	O	O
-को	PSP	O	O	O
-77	QC	B	O	O
-साल	NN	I	O	O
-के	PSP	O	O	O
-हो	VM	O	B-MISC	OCC
-जाएंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-मौके	NN	O	O	O
-पर	PSP	O	O	O
-दुनियाभर	NN	O	O	O
-में	PSP	O	O	O
-मौजूद	JJ	O	O	O
-उनके	PRP	O	O	O
-फैन्स	NN	O	O	O
-खास	JJ	O	O	O
-सेलिब्रेशन	NN	O	O	OCC
-करते	VM	O	B-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-इसकी	PRP	O	O	O
-तस्वीरें	NN	O	O	O
-भी	RP	O	O	O
-पोस्ट	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बिग	XC	O	O	O
-बी	NNP	O	O	O
-ने	PSP	O	O	O
-अपने	PRP	O	O	O
-करियर	NN	O	O	O
-में	PSP	O	O	O
-कई	QF	O	O	O
-तरह	NN	O	O	O
-के	PSP	O	O	O
-किरदार	NN	O	O	O
-निभाए	VM	O	B-MISC	OCC
-और	CC	O	O	O
-उनमें	PRP	O	O	O
-ऐसी	DEM	O	O	O
-जान	NN	O	B-MISC	OCC
-डाली	VM	O	I-MISC	O
-कि	CC	O	O	O
-आज	NN	O	O	O
-भी	RP	O	O	O
-उन	DEM	O	O	O
-किरदारों	NN	O	O	O
-को	PSP	O	O	O
-याद	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जाता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-फिर	RB	O	O	O
-चाहे	CC:?	O	O	O
-रोल	NN	O	O	O
-'	SYM	O	O	O
-ऐंग्री	NN	O	O	O
-यंग	XC	O	O	O
-मैन	NNP	O	O	O
-'	SYM	O	O	O
-का	PSP	O	O	O
-हो	VM	O	O	DEC
-या	CC	O	O	O
-फिर	RB	O	O	O
-'	SYM	O	O	O
-ऑरो	XC	O	O	O
-'	SYM	O	O	O
-का	PSP	O	O	O
-,	SYM	O	O	O
-इन	DEM	O	O	O
-रोल्स	NN	O	O	O
-को	PSP	O	O	O
-लोग	NN	O	O	O
-कभी	PRP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-भूल	VM	O	I-MISC	O
-पाएंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-क्या	WQ	O	O	O
-आप	PRP	O	O	O
-जानते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-अमिताभ	NN	O	O	O
-ने	PSP	O	O	O
-अपने	PRP	O	O	O
-अभिनय	NN	O	O	O
-की	PSP	O	O	O
-एबीसीडी	NN	O	O	O
-कहां	WQ	O	O	O
-से	PSP	O	O	O
-सीखी	VM	O	B-MISC	OCC
-?	SYM	O	O	O
-हम	PRP	O	O	O
-बता	VM	O	B-MISC	OCC
-रहें	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-बिग	XC	O	O	O
-बी	NNP	O	O	O
-के	PSP	O	O	O
-ऐक्टिंग	XC	O	O	O
-गुरु	XC	O	O	O
-फ्रैंक	XC	O	O	O
-ठाकुर	NNP	O	O	O
-दास	NN	O	O	O
-के	PSP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-जिनके	PRP	O	O	O
-कारण	NN	O	O	O
-बीटाउन	NN	O	O	O
-को	PSP	O	O	O
-यह	DEM	O	O	O
-मेगास्टार	NN	O	O	O
-मिल	VM	O	B-MISC	OCC
-सका	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-दिल्ली	NNP	O	O	O
-विश्वविद्यालय	NN	O	O	O
-के	PSP	O	O	O
-किरोडीमल	NNP	O	O	O
-कॉलेज	NN	O	O	O
-के	PSP	O	O	O
-ड्रामा	XC	O	O	O
-शिक्षक	XC	O	O	O
-फ्रैंक	XC	O	O	O
-ठाकुर	NNP	O	O	O
-दास	NN	O	O	O
-ने	PSP	O	O	O
-अगर	CC	O	O	O
-शर्मीले	NN	O	O	O
-और	CC	O	O	O
-मितभाषी	JJ	O	O	O
-अमिताभ	JJ	O	O	O
-बच्चन	NN	O	O	O
-को	PSP	O	O	O
-कॉलेज	NN	O	O	O
-की	PSP	O	O	O
-ड्रामा	XC	O	O	O
-सोसायटी	NNP	O	O	O
-में	PSP	O	O	O
-होने	VM	O	B-STAT	DES
-वाले	PSP	O	I-STAT	O
-कार्यक्रमों	NN	O	O	O
-में	PSP	O	O	O
-भाग	NN	O	B-MISC	OCC
-लेने	VM	O	I-MISC	O
-को	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-कहा	VM	O	I-MISC	O
-होता	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-शायद	RB	O	O	O
-फिल्म	NN	O	O	O
-प्रेमी	NN	O	O	O
-उन्हें	PRP	O	O	O
-कभी	PRP	O	O	O
-बडे	JJ	O	O	O
-पर्दे	NN	O	O	O
-पर	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-देख	VM	O	I-MISC	O
-पाते	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-केएम	XC	O	O	O
-कॉलेज	NN	O	O	O
-के	PSP	O	O	O
-बीएससी	NN	O	O	O
-के	PSP	O	O	O
-छात्र	NN	O	O	O
-अमिताभ	JJ	O	O	O
-बच्चन	NN	O	O	O
-का	PSP	O	O	O
-जीवन	NN	O	O	O
-फ्रैंक	XC	O	O	O
-ठाकुरदास	NNP	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-हुई	VM	O	B-STAT	DES
-मुलाकात	NN	O	O	O
-ने	PSP	O	O	O
-पूरी	JJ	O	O	O
-तरह	NN	O	B-MISC	OCC
-बदल	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अमिताभ	JJ	O	O	O
-बच्चन	NN	O	O	O
-ने	PSP	O	O	O
-केएम	XC	O	O	O
-कॉलेज	NN	O	O	O
-में	PSP	O	O	O
-साल	NN	O	O	O
-1959	QC	O	O	O
-से	PSP	O	O	O
-1962	QC	O	O	O
-तक	RP	O	O	O
-शिक्षा	NN	O	O	O
-प्राप्त	JJ	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हर	QF	O	O	O
-वक्त	NN	O	O	O
-काम	NN	O	O	O
-में	PSP	O	O	O
-लगे	VM	O	B-STAT	DES
-रहने	VM	O	I-STAT	DES
-वाले	PSP	O	I-STAT	O
-पंजाबी	XC	O	O	O
-ईसाई	XC	O	O	O
-फ्रैंक	XC	O	O	O
-ठाकुर	XC	O	O	O
-दास	XC	O	O	O
-केएम	XC	O	O	O
-कॉलेज	NN	O	O	O
-में	PSP	O	O	O
-कई	QF	O	O	O
-अहम	JJ	O	O	O
-भूमिकाएं	NN	O	O	O
-निभाते	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एक	QC	O	O	O
-कुशल	JJ	O	O	O
-अंग्रेजी	NN	O	O	O
-शिक्षक	NN	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-उनका	PRP	O	O	O
-कॉलेज	NN	O	O	O
-ड्रामा	XC	O	O	O
-सोसायटी	NNP	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-अहम	JJ	O	O	O
-स्थान	NN	O	B-STAT	O
-था	VM	O	I-STAT	O
-.	SYM	O	O	O
+बॉलिवुड
+के
+शहंशाह
+यानी
+अमिताभ
+बच्चन
+11
+अक्टबर
+को
+77
+साल
+के
+हो
+जाएंगे
+.
+इस
+मौके
+पर
+दुनियाभर
+में
+मौजूद
+उनके
+फैन्स
+खास
+सेलिब्रेशन
+करते
+हैं
+और
+इसकी
+तस्वीरें
+भी
+पोस्ट
+करते
+हैं
+.
+बिग
+बी
+ने
+अपने
+करियर
+में
+कई
+तरह
+के
+किरदार
+निभाए
+और
+उनमें
+ऐसी
+जान
+डाली
+कि
+आज
+भी
+उन
+किरदारों
+को
+याद
+किया
+जाता
+है
+फिर
+चाहे
+रोल
+'
+ऐंग्री
+यंग
+मैन
+'
+का
+हो
+या
+फिर
+'
+ऑरो
+'
+का
+,
+इन
+रोल्स
+को
+लोग
+कभी
+नहीं
+भूल
+पाएंगे
+.
+क्या
+आप
+जानते
+हैं
+कि
+अमिताभ
+ने
+अपने
+अभिनय
+की
+एबीसीडी
+कहां
+से
+सीखी
+?
+हम
+बता
+रहें
+हैं
+बिग
+बी
+के
+ऐक्टिंग
+गुरु
+फ्रैंक
+ठाकुर
+दास
+के
+बारे
+में
+जिनके
+कारण
+बीटाउन
+को
+यह
+मेगास्टार
+मिल
+सका
+.
+दिल्ली
+विश्वविद्यालय
+के
+किरोडीमल
+कॉलेज
+के
+ड्रामा
+शिक्षक
+फ्रैंक
+ठाकुर
+दास
+ने
+अगर
+शर्मीले
+और
+मितभाषी
+अमिताभ
+बच्चन
+को
+कॉलेज
+की
+ड्रामा
+सोसायटी
+में
+होने
+वाले
+कार्यक्रमों
+में
+भाग
+लेने
+को
+नहीं
+कहा
+होता
+,
+तो
+शायद
+फिल्म
+प्रेमी
+उन्हें
+कभी
+बडे
+पर्दे
+पर
+नहीं
+देख
+पाते
+.
+केएम
+कॉलेज
+के
+बीएससी
+के
+छात्र
+अमिताभ
+बच्चन
+का
+जीवन
+फ्रैंक
+ठाकुरदास
+के
+साथ
+हुई
+मुलाकात
+ने
+पूरी
+तरह
+बदल
+दिया
+.
+अमिताभ
+बच्चन
+ने
+केएम
+कॉलेज
+में
+साल
+1959
+से
+1962
+तक
+शिक्षा
+प्राप्त
+की
+थी
+.
+हर
+वक्त
+काम
+में
+लगे
+रहने
+वाले
+पंजाबी
+ईसाई
+फ्रैंक
+ठाकुर
+दास
+केएम
+कॉलेज
+में
+कई
+अहम
+भूमिकाएं
+निभाते
+थे
+.
+एक
+कुशल
+अंग्रेजी
+शिक्षक
+होने
+के
+साथ
+ही
+उनका
+कॉलेज
+ड्रामा
+सोसायटी
+में
+भी
+अहम
+स्थान
+था
+.

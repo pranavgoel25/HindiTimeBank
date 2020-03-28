@@ -1,242 +1,242 @@
-वर्ल्ड	XC	O	O	O
-चैंपियन	NNP	O	O	O
-शटलर	NN	O	O	O
-पीवी	XC	O	O	O
-सिंधु	NNP	O	O	O
-ने	PSP	O	O	O
-गुरुवार	NN	B	O	O
-को	PSP	O	O	O
-यहां	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-वह	PRP	O	O	O
-अगले	JJ	O	O	O
-साल	NN	O	O	O
-तोक्यो	NN	O	O	OCC
-में	PSP	O	O	O
-होने	VM	O	B-STAT	O
-वाले	PSP	O	O	O
-ओलिंपिक	JJ	O	O	O
-खेलों	NN	O	O	O
-से	PSP	O	O	O
-पहले	NST	O	O	O
-फिट	NN	O	B-MISC	O
-रहने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-टूर्नमेंटों	NN	O	O	O
-का	PSP	O	O	O
-चयन	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-खेलेंगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ओलिंपिक	JJ	O	O	O
-क्वॉलिफिकेशन	XC	O	O	O
-प्रक्रिया	NN	O	O	O
-इस	DEM	O	O	O
-साल	NN	O	O	O
-29	QC	B	O	O
-अप्रैल	NNP	I	O	O
-को	PSP	O	O	O
-शुरु	NN	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-वर्ल्ड	XC	O	O	O
-बैडमिंटन	NNP	O	O	O
-महासंघ	NN	O	O	O
-(	SYM	O	O	O
-बीडब्ल्यूएफ	NN	O	O	O
-)	SYM	O	O	O
-30	QC	B	O	O
-अप्रैल	NNP	I	O	O
-2020	QC	I	O	O
-को	PSP	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-रैंकिंग	NN	O	O	O
-जारी	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-विचार	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पिछले	JJ	B	O	O
-साल	NN	I	O	O
-बीडब्ल्यूएफ	NN	O	O	O
-ने	PSP	O	O	O
-टॉप-	NN	O	O	O
-15	QC	O	O	O
-एकल	XC	O	O	O
-खिलाड़ियों	NNP	O	O	O
-और	CC	O	O	O
-टॉप-	NN	O	O	O
-10	QC	O	O	O
-युगल	NN	O	O	O
-जोड़ियों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-वर्ल्ड	XC	O	O	O
-टूर	NN	O	O	O
-के	PSP	O	O	O
-15	QC	O	O	O
-में	PSP	O	O	O
-से	PSP	O	O	O
-12	QC	O	O	O
-टूर्नमेंटों	NN	O	O	O
-में	PSP	O	O	O
-खेलना	VM	O	B-MISC	O
-जरूरी	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसा	PRP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-उनके	PRP	O	O	O
-खिलाफ	PSP:?	O	O	O
-पेनल्टी	NN	O	B-MISC	OCC
-लग	VM	O	I-MISC	O
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सिंधु	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘	NN	O	O	O
-यह	PRP	O	O	O
-ओलिंपिक	JJ	O	O	O
-वर्ष	NN	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-ऐसे	PRP	O	O	O
-में	PSP	O	O	O
-हर	QF	O	O	O
-टूर्नमेंट	NN	O	O	O
-महत्वपूर्ण	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-आपको	PRP	O	O	O
-फिटनेस	NN	O	O	O
-का	PSP	O	O	O
-स्तर	NN	O	O	O
-बनाए	VM	O	B-MISC	O
-रखने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-शारीरिक	JJ	O	O	O
-और	CC	O	O	O
-मानसिक	JJ	O	O	O
-तौर	NN	O	O	O
-पर	PSP	O	O	O
-फिट	NN	O	O	OCC
-रहना	VM	O	B-MISC	O
-होगा	VAUX	O	I-MISC	O
-और	CC	O	O	O
-हर	QF	O	O	O
-टूर्नमेंट	NN	O	O	O
-में	PSP	O	O	O
-अपना	PRP	O	O	O
-सौ	QC	O	O	O
-प्रतिशत	NN	O	B-MISC	O
-देना	VM	O	I-MISC	OCC
-होगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’	XC	O	O	O
-हैदराबाद	NNP	O	O	O
-की	PSP	O	O	O
-इस	DEM	O	O	O
-खिलाड़ी	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘	NN	O	O	O
-जाहिर	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-कि	CC	O	O	O
-मैं	PRP	O	O	O
-चोट	NN	O	O	O
-से	PSP	O	O	O
-बचने	VM	O	B-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-टूर्नमेंटों	NN	O	O	O
-का	PSP	O	O	O
-चयन	NN	O	B-MISC	O
-करूंगी	VM	O	I-MISC	OCC
-और	CC	O	O	O
-अपना	PRP	O	O	O
-सौ	QC	O	O	O
-प्रतिशत	NN	O	B-MISC	O
-दूंगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’	NN	O	O	O
-24	QC	B	O	O
-साल	NN	I	O	O
-की	PSP	O	O	O
-यह	DEM	O	O	O
-खिलाड़ी	XC	O	O	O
-अगस्त	NN	O	O	O
-में	PSP	O	O	O
-जापान	NNP	O	O	O
-की	PSP	O	O	O
-नोजोमी	JJ	O	O	O
-ओकुहारा	NN	O	O	O
-को	PSP	O	O	O
-हराकर	VM	O	O	O
-वर्ल्ड	XC	O	O	O
-चैंपियनशिप	NNP	O	O	O
-का	PSP	O	O	O
-खिताब	NN	O	O	O
-जीतने	VM	O	O	O
-वाली	PSP	O	O	O
-पहली	QC	O	O	O
-भारतीय	JJ	O	O	O
-खिलाड़ी	NNP	O	O	O
-बनी	VM	O	B-MISC	OCC
-थीं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सिंधु	NNP	O	O	O
-ने	PSP	O	O	O
-इस	DEM	O	O	O
-मौके	NN	O	O	O
-पर	PSP	O	O	O
-वेलाम्माल	XC	O	O	O
-नेक्सस	XC	O	O	O
-स्कूल	NN	O	O	O
-के	PSP	O	O	O
-खेल	NN	O	O	O
-में	PSP	O	O	O
-उपलब्धि	NN	O	O	OCC
-हासिल	NN	O	B-STAT	O
-करने	VM	O	I-STAT	O
-वाले	PSP	O	I-STAT	O
-छात्रों	NN	O	O	O
-को	PSP	O	O	O
-सम्मानित	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-बाद	NST	O	O	O
-में	PSP	O	O	O
-अभिनेता	NN	O	O	O
-और	CC	O	O	O
-मक्कल	JJ	O	O	O
-निधि	NN	O	O	O
-मय्यम	NN	O	O	O
-के	PSP	O	O	O
-प्रमुख	JJ	O	O	O
-कमल	NN	O	O	O
-हासन	NN	O	O	O
-से	PSP	O	O	O
-उनके	PRP	O	O	O
-कार्यालय	NN	O	O	O
-में	PSP	O	O	O
-मुलाकात	NN	O	B-MISC	OCC
-की	PSP	O	I-MISC	O
-.	SYM	O	O	O
+वर्ल्ड
+चैंपियन
+शटलर
+पीवी
+सिंधु
+ने
+गुरुवार
+को
+यहां
+कहा
+कि
+वह
+अगले
+साल
+तोक्यो
+में
+होने
+वाले
+ओलिंपिक
+खेलों
+से
+पहले
+फिट
+रहने
+के
+लिए
+टूर्नमेंटों
+का
+चयन
+कर
+खेलेंगी
+.
+ओलिंपिक
+क्वॉलिफिकेशन
+प्रक्रिया
+इस
+साल
+29
+अप्रैल
+को
+शुरु
+हुई
+है
+और
+वर्ल्ड
+बैडमिंटन
+महासंघ
+(
+बीडब्ल्यूएफ
+)
+30
+अप्रैल
+2020
+को
+इसके
+लिए
+रैंकिंग
+जारी
+करने
+पर
+विचार
+कर
+रहा
+है
+.
+पिछले
+साल
+बीडब्ल्यूएफ
+ने
+टॉप-
+15
+एकल
+खिलाड़ियों
+और
+टॉप-
+10
+युगल
+जोड़ियों
+के
+लिए
+वर्ल्ड
+टूर
+के
+15
+में
+से
+12
+टूर्नमेंटों
+में
+खेलना
+जरूरी
+कर
+दिया
+है
+.
+ऐसा
+नहीं
+करने
+पर
+उनके
+खिलाफ
+पेनल्टी
+लग
+सकती
+है
+.
+सिंधु
+ने
+कहा
+,
+‘
+यह
+ओलिंपिक
+वर्ष
+है
+,
+ऐसे
+में
+हर
+टूर्नमेंट
+महत्वपूर्ण
+है
+.
+आपको
+फिटनेस
+का
+स्तर
+बनाए
+रखने
+के
+लिए
+शारीरिक
+और
+मानसिक
+तौर
+पर
+फिट
+रहना
+होगा
+और
+हर
+टूर्नमेंट
+में
+अपना
+सौ
+प्रतिशत
+देना
+होगा
+.
+’
+हैदराबाद
+की
+इस
+खिलाड़ी
+ने
+कहा
+,
+‘
+जाहिर
+है
+कि
+मैं
+चोट
+से
+बचने
+के
+लिए
+टूर्नमेंटों
+का
+चयन
+करूंगी
+और
+अपना
+सौ
+प्रतिशत
+दूंगी
+.
+’
+24
+साल
+की
+यह
+खिलाड़ी
+अगस्त
+में
+जापान
+की
+नोजोमी
+ओकुहारा
+को
+हराकर
+वर्ल्ड
+चैंपियनशिप
+का
+खिताब
+जीतने
+वाली
+पहली
+भारतीय
+खिलाड़ी
+बनी
+थीं
+.
+सिंधु
+ने
+इस
+मौके
+पर
+वेलाम्माल
+नेक्सस
+स्कूल
+के
+खेल
+में
+उपलब्धि
+हासिल
+करने
+वाले
+छात्रों
+को
+सम्मानित
+किया
+.
+उन्होंने
+बाद
+में
+अभिनेता
+और
+मक्कल
+निधि
+मय्यम
+के
+प्रमुख
+कमल
+हासन
+से
+उनके
+कार्यालय
+में
+मुलाकात
+की
+.

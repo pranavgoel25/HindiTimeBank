@@ -1,169 +1,169 @@
-मेरठ	NN	O	O	O
-में	PSP	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-भारतीय	JJ	O	O	O
-किसान	NN	O	O	O
-यूनियन	NN	O	O	O
-के	PSP	O	O	O
-कार्यकर्ताओं	NN	O	O	O
-ने	PSP	O	O	O
-बिजली	JJ	O	O	O
-कटौती	NN	O	O	O
-और	CC	O	O	O
-कर्मचारियों	NN	O	O	O
-पर	PSP	O	O	O
-उत्पीड़न	NN	O	O	O
-का	PSP	O	O	O
-आरोप	NN	O	B-MISC	OCC
-लगाते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-परतापुर	NN	O	O	O
-बिजली	JJ	O	O	O
-घर	NN	O	O	O
-पर	PSP	O	O	O
-हंगामा	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-दौरान	NST	O	O	O
-प्रदर्शन	NN	O	O	OCC
-कर	VM	O	B-STAT	O
-रहे	VAUX	O	I-STAT	O
-लोगों	NN	O	O	O
-ने	PSP	O	O	O
-कर्मचारियों	NN	O	O	O
-को	PSP	O	O	O
-बंधक	JJ	O	B-MISC	OCC
-बना	VM	O	I-MISC	O
-लिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बाद	NST	O	O	O
-में	PSP	O	O	O
-पुलिस	NN	O	O	O
-के	PSP	O	O	O
-हस्तक्षेप	NN	O	O	O
-से	PSP	O	O	O
-काफी	QF	O	O	O
-देर	NN	O	O	O
-बाद	NST	O	O	O
-किसान	NN	O	B-MISC	O
-शांत	JJ	O	I-MISC	O
-हुए	VM	O	I-MISC	O
-.	SYM	O	O	O
-मेरठ	NN	O	O	O
-के	PSP	O	O	O
-परतापुर	NN	O	O	O
-के	PSP	O	O	O
-उद्योग	NN	O	O	O
-पुरम	JJ	O	O	O
-बिजली	NN	O	O	O
-घर	NN	O	O	O
-पर	PSP	O	O	O
-सुबह	NN	O	O	O
-ही	RP	O	O	O
-भारतीय	JJ	O	O	O
-किसान	NN	O	O	O
-यूनियन	NN	O	O	O
-के	PSP	O	O	O
-सैकड़ों	XC	O	O	O
-कार्यकर्ता	NN	O	O	O
-ने	PSP	O	O	O
-हंगामा	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-कर्मचारियों	NN	O	O	O
-को	PSP	O	O	O
-कमरों	NN	O	O	O
-में	PSP	O	O	O
-बंद	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आरोप	NN	O	O	O
-है	VM	O	O	O
-कि	CC	O	O	O
-बिजली	NN	O	O	O
-कर्मचारी	NN	O	O	O
-और	CC	O	O	O
-अधिकारी	JJ	O	O	O
-किसानों	NN	O	O	O
-का	PSP	O	O	O
-उत्पीड़न	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-किसानों	NN	O	O	O
-ने	PSP	O	O	O
-आरोप	NN	O	B-MISC	OCC
-लगाते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-बिजली	NN	O	O	O
-कर्मचारी	NN	O	O	O
-कनेक्शन	NN	O	B-MISC	O
-काटने	VM	O	I-MISC	O
-के	PSP	O	O	O
-नाम	NN	O	O	O
-पर	PSP	O	O	O
-अवैध	JJ	O	O	O
-वसूली	NN	O	O	O
-और	CC	O	O	O
-मुकदमा	NN	O	O	O
-दर्ज	JJ	O	B-MISC	O
-कराने	VM	O	I-MISC	O
-का	PSP	O	O	O
-कार्य	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-प्रदर्शनकारियों	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-अगर	CC	O	O	O
-बिजली	NN	O	O	O
-विभाग	NN	O	O	O
-के	PSP	O	O	O
-अफसरों	NN	O	O	O
-ने	PSP	O	O	O
-अपनी	PRP	O	O	O
-कार्यप्रणाली	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-सुधारी	VM	O	I-MISC	O
-तो	CC	O	O	O
-क्षेत्र	NN	O	O	O
-की	PSP	O	O	O
-बिजली	NN	O	O	O
-को	PSP	O	O	O
-बंद	JJ	O	B-MISC	OCC
-करा	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-अलावा	PSP:?	O	O	O
-किसानों	NN	O	O	O
-ने	PSP	O	O	O
-यहां	PRP	O	O	O
-अनिश्चितकालीन	JJ	O	O	O
-प्रदर्शन	NN	O	O	O
-का	PSP	O	O	O
-ऐलान	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-अन्य	JJ	O	O	O
-जिलों	NN	O	O	O
-से	PSP	O	O	O
-भी	RP	O	O	O
-कार्यकर्ताओं	NN	O	O	O
-को	PSP	O	O	O
-बुलाने	VM	O	O	O
-की	PSP	O	O	O
-चेतावनी	NN	O	O	O
-भी	RP	O	O	O
-दी	VM	O	I-MISC	-1
-.	SYM	O	O	O
+मेरठ
+में
+बुधवार
+को
+भारतीय
+किसान
+यूनियन
+के
+कार्यकर्ताओं
+ने
+बिजली
+कटौती
+और
+कर्मचारियों
+पर
+उत्पीड़न
+का
+आरोप
+लगाते
+हुए
+परतापुर
+बिजली
+घर
+पर
+हंगामा
+किया
+.
+इस
+दौरान
+प्रदर्शन
+कर
+रहे
+लोगों
+ने
+कर्मचारियों
+को
+बंधक
+बना
+लिया
+.
+बाद
+में
+पुलिस
+के
+हस्तक्षेप
+से
+काफी
+देर
+बाद
+किसान
+शांत
+हुए
+.
+मेरठ
+के
+परतापुर
+के
+उद्योग
+पुरम
+बिजली
+घर
+पर
+सुबह
+ही
+भारतीय
+किसान
+यूनियन
+के
+सैकड़ों
+कार्यकर्ता
+ने
+हंगामा
+करते
+हुए
+कर्मचारियों
+को
+कमरों
+में
+बंद
+कर
+दिया
+.
+आरोप
+है
+कि
+बिजली
+कर्मचारी
+और
+अधिकारी
+किसानों
+का
+उत्पीड़न
+कर
+रहे
+हैं
+.
+किसानों
+ने
+आरोप
+लगाते
+हुए
+कहा
+कि
+बिजली
+कर्मचारी
+कनेक्शन
+काटने
+के
+नाम
+पर
+अवैध
+वसूली
+और
+मुकदमा
+दर्ज
+कराने
+का
+कार्य
+कर
+रहे
+हैं
+.
+प्रदर्शनकारियों
+ने
+कहा
+कि
+अगर
+बिजली
+विभाग
+के
+अफसरों
+ने
+अपनी
+कार्यप्रणाली
+नहीं
+सुधारी
+तो
+क्षेत्र
+की
+बिजली
+को
+बंद
+करा
+दिया
+जाएगा
+.
+इसके
+अलावा
+किसानों
+ने
+यहां
+अनिश्चितकालीन
+प्रदर्शन
+का
+ऐलान
+करते
+हुए
+अन्य
+जिलों
+से
+भी
+कार्यकर्ताओं
+को
+बुलाने
+की
+चेतावनी
+भी
+दी
+.

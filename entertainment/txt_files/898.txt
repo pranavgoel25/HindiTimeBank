@@ -1,292 +1,292 @@
-अमिताभ	JJ	O	O	O
-बच्चन	NN	O	O	O
-11	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-77	QC	O	O	O
-साल	NN	O	O	O
-के	PSP	O	O	O
-हो	VM	O	B-MISC	O
-जाएंगे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-इस	DEM	O	O	O
-अवसर	NN	O	O	O
-पर	PSP	O	O	O
-सुपरस्टार	NN	O	O	O
-का	PSP	O	O	O
-अपने	PRP	O	O	O
-जन्मदिन	NN	O	O	O
-को	PSP	O	O	O
-धूम-धडाके	NN	O	O	O
-से	PSP	O	O	O
-मनाने	VM	O	B-MISC	O
-का	PSP	O	O	O
-कोई	PRP	O	O	O
-इरादा	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-रखते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अपने	PRP	O	O	O
-प्रशंसकों	NN	O	O	O
-से	PSP	O	O	O
-अपने	PRP	O	O	O
-अच्छे	JJ	O	O	O
-स्वास्थ्य	NN	O	O	O
-की	PSP	O	O	O
-प्रार्थना	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-विनम्रतापूर्वक	JJ	O	O	O
-अनुरोध	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-बिग	XC	O	O	O
-बी	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-इसमें	PRP	O	O	O
-जश्न	NN	O	O	O
-मनाने	VM	O	B-MISC	OCC
-जैसा	PSP	O	O	O
-क्या	WQ	O	O	O
-है	VM	O	B-STAT	DEC
-?	SYM	O	O	O
-यह	PRP	O	O	O
-भी	RP	O	O	O
-एक	QC	O	O	O
-सामान्य	JJ	O	O	O
-दिन	NN	O	O	O
-की	PSP	O	O	O
-तरह	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-आभारी	NN	O	B-MISC	O
-हूं	VM	O	I-MISC	O
-कि	CC	O	O	O
-मैं	PRP	O	O	O
-अभी	PRP	O	O	O
-भी	RP	O	O	O
-काम	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-मेरा	PRP	O	O	O
-शरीर	NN	O	O	O
-मेरी	PRP	O	O	O
-आत्मा	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-तालमेल	NN	O	O	O
-बिठाए	VM	O	B-MISC	O
-रखने	VM	O	I-MISC	O
-में	PSP	O	O	O
-सक्षम	JJ	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-जन्मदिन	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	O
-बिग	XC	O	O	O
-बी	NNP	O	O	O
-ने	PSP	O	O	O
-अपने	PRP	O	O	O
-पुराने	JJ	O	O	O
-दिनों	NN	O	O	O
-को	PSP	O	O	O
-याद	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जब	PRP	O	O	O
-उनके	PRP	O	O	O
-पिता	NN	O	O	O
-और	CC	O	O	O
-दिवंगत	JJ	O	O	O
-कवि	XC	O	O	O
-हरिवंश	XC	O	O	O
-राय	NNP	O	O	O
-बच्चन	NN	O	O	O
-उनके	PRP	O	O	O
-जन्मदिन	NN	O	O	O
-पर	PSP	O	O	O
-उनके	PRP	O	O	O
-लिए	PSP	O	O	O
-एक	QC	O	O	O
-कविता	NN	O	O	O
-लिखते	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-और	CC	O	O	O
-उन्हें	PRP	O	O	O
-सुनाते	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पुराने	JJ	B	O	O
-दिनों	NN	I	O	O
-को	PSP	O	O	O
-याद	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-बिग	XC	O	O	O
-बी	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-यह	DEM	O	O	O
-परिवार	NN	O	O	O
-की	PSP	O	O	O
-एक	QC	O	O	O
-परंपरा	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-लेकिन	CC	O	O	O
-,	SYM	O	O	O
-इस	DEM	O	O	O
-परंपरा	NN	O	O	O
-को	PSP	O	O	O
-नई	JJ	O	O	O
-परिभाषा	NN	O	O	O
-तब	PRP	O	O	O
-मिली	VM	O	O	OCC
-जब	PRP	O	O	O
-,	SYM	O	O	O
-1984	QC	O	O	O
-में	PSP	O	O	O
-मेरे	PRP	O	O	O
-साथ	NST	O	O	O
-हुई	VM	O	B-MISC	OCC
-जानलेवा	JJ	O	O	O
-दुर्घटना	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-मेरे	PRP	O	O	O
-पिता	NN	O	O	O
-ने	PSP	O	O	O
-मेरे	PRP	O	O	O
-जन्मदिन	NN	O	O	O
-पर	PSP	O	O	O
-कविता	NN	O	B-MISC	OCC
-सुनाई	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-मेरे	PRP	O	O	O
-लिए	PSP	O	O	O
-एक	QC	O	O	O
-नई	JJ	O	O	O
-जिंदगी	NN	O	O	O
-पाने	VM	O	B-MISC	OCC
-जैसा	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कविता	XC	O	O	O
-पढ़ने	NNP	O	O	O
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-मेरे	PRP	O	O	O
-पिता	NN	O	O	O
-टूट	VM	O	B-MISC	O
-से	PSP	O	O	O
-गए	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसा	DEM	O	O	O
-पहली	QO	O	O	O
-बार	RP	O	O	O
-था	VM	O	O	OCC
-,	SYM	O	O	O
-जब	PRP	O	O	O
-मैंने	PRP	O	O	O
-उन्हें	PRP	O	O	O
-इस	DEM	O	O	O
-तरह	NN	O	B-MISC	OCC
-रोते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-देखा	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-बिग	XC	O	O	O
-बी	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-समय	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-बहुत	QF	O	O	O
-सी	RP	O	O	O
-चीजें	NN	O	B-MISC	OCC
-बदल	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-और	CC	O	O	O
-जन्मदिन	NN	O	O	O
-की	PSP	O	O	O
-रस्में	NN	O	O	OCC
-भी	RP	O	O	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-मैं	PRP	O	O	O
-अपने	PRP	O	O	O
-पिता	NN	O	O	O
-की	PSP	O	O	O
-कविता	NN	O	O	O
-को	PSP	O	O	O
-बहुत	QF	O	O	O
-याद	NN	O	B-MISC	OCC
-करता	VM	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-उस	DEM	O	O	O
-दिन	NN	O	O	O
-जिस	DEM	O	O	O
-तरह	NN	O	O	O
-मेरी	PRP	O	O	O
-मां	NN	O	O	O
-उत्साहित	JJ	O	B-MISC	OCC
-रहती	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उसकी	PRP	O	O	O
-भी	RP	O	O	O
-बहुत	QF	O	O	O
-याद	NN	O	B-MISC	OCC
-आती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-हर	QF	B	O	O
-साल	NN	I	O	O
-केक	NN	O	O	O
-काटने	VM	O	O	O
-के	PSP	O	O	O
-रिवाज	NN	O	O	O
-में	PSP	O	O	O
-मुझे	PRP	O	O	O
-दिलचस्पी	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-रही	VM	O	I-MISC	O
-.	SYM	O	O	O
-इसकी	PRP	O	O	O
-जगह	NN	O	O	O
-सूखे	JJ	O	O	O
-मेवों	NN	O	O	O
-की	PSP	O	O	O
-प्लेट	NN	O	O	O
-ने	PSP	O	O	O
-ले	VM	O	B-MISC	OCC
-ली	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
+अमिताभ
+बच्चन
+11
+अक्टूबर
+को
+77
+साल
+के
+हो
+जाएंगे
+,
+लेकिन
+इस
+अवसर
+पर
+सुपरस्टार
+का
+अपने
+जन्मदिन
+को
+धूम-धडाके
+से
+मनाने
+का
+कोई
+इरादा
+नहीं
+रखते
+हैं
+.
+अपने
+प्रशंसकों
+से
+अपने
+अच्छे
+स्वास्थ्य
+की
+प्रार्थना
+करने
+के
+लिए
+विनम्रतापूर्वक
+अनुरोध
+करते
+हुए
+बिग
+बी
+ने
+कहा
+,
+'
+इसमें
+जश्न
+मनाने
+जैसा
+क्या
+है
+?
+यह
+भी
+एक
+सामान्य
+दिन
+की
+तरह
+है
+.
+मैं
+आभारी
+हूं
+कि
+मैं
+अभी
+भी
+काम
+कर
+रहा
+हूं
+और
+मेरा
+शरीर
+मेरी
+आत्मा
+के
+साथ
+तालमेल
+बिठाए
+रखने
+में
+सक्षम
+है
+.
+'
+जन्मदिन
+को
+लेकर
+बिग
+बी
+ने
+अपने
+पुराने
+दिनों
+को
+याद
+किया
+जब
+उनके
+पिता
+और
+दिवंगत
+कवि
+हरिवंश
+राय
+बच्चन
+उनके
+जन्मदिन
+पर
+उनके
+लिए
+एक
+कविता
+लिखते
+थे
+और
+उन्हें
+सुनाते
+थे
+.
+पुराने
+दिनों
+को
+याद
+करते
+हुए
+बिग
+बी
+ने
+कहा
+,
+'
+यह
+परिवार
+की
+एक
+परंपरा
+थी
+.
+लेकिन
+,
+इस
+परंपरा
+को
+नई
+परिभाषा
+तब
+मिली
+जब
+,
+1984
+में
+मेरे
+साथ
+हुई
+जानलेवा
+दुर्घटना
+के
+बाद
+मेरे
+पिता
+ने
+मेरे
+जन्मदिन
+पर
+कविता
+सुनाई
+थी
+.
+वह
+मेरे
+लिए
+एक
+नई
+जिंदगी
+पाने
+जैसा
+था
+.
+कविता
+पढ़ने
+के
+दौरान
+मेरे
+पिता
+टूट
+से
+गए
+थे
+.
+ऐसा
+पहली
+बार
+था
+,
+जब
+मैंने
+उन्हें
+इस
+तरह
+रोते
+हुए
+देखा
+था
+.
+'
+बिग
+बी
+ने
+कहा
+कि
+समय
+के
+साथ
+बहुत
+सी
+चीजें
+बदल
+गई
+हैं
+,
+और
+जन्मदिन
+की
+रस्में
+भी
+.
+उन्होंने
+कहा
+,
+'
+मैं
+अपने
+पिता
+की
+कविता
+को
+बहुत
+याद
+करता
+हूं
+और
+उस
+दिन
+जिस
+तरह
+मेरी
+मां
+उत्साहित
+रहती
+थी
+,
+उसकी
+भी
+बहुत
+याद
+आती
+है
+.
+अब
+हर
+साल
+केक
+काटने
+के
+रिवाज
+में
+मुझे
+दिलचस्पी
+नहीं
+रही
+.
+इसकी
+जगह
+सूखे
+मेवों
+की
+प्लेट
+ने
+ले
+ली
+है
+.
+'

@@ -1,380 +1,380 @@
-चौदह	QC	B	O	O
-साल	NN	I	O	O
-तक	RP	O	O	O
-निरन्तर	JJ	O	O	O
-मानसिक	JJ	O	O	O
-वेदना	NN	O	O	O
-और	CC	O	O	O
-शारीरिक	JJ	O	O	O
-यातना	NN	O	O	O
-भोगने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-बाद	NST	O	O	O
-आइवन	NN	O	O	O
-ओखोटस्क	JJ	O	O	O
-जेल	NN	O	O	O
-से	PSP	O	O	O
-निकला	VM	O	O	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-उस	DEM	O	O	O
-पक्षी	NN	O	O	O
-की	PSP	O	O	O
-भांति	NN	O	O	OCC
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-शिकारी	NN	O	O	O
-के	PSP	O	O	O
-पिंजरे	NN	O	O	O
-से	PSP	O	O	O
-पंखहीन	NN	O	B-MISC	O
-होकर	VM	O	I-MISC	OCC
-निकला	VAUX	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-बल्कि	CC	O	O	O
-उस	DEM	O	O	O
-सिंह	NNP	O	O	O
-की	PSP	O	O	O
-भांति	NN	O	O	O
-,	SYM	O	O	O
-जिसे	PRP	O	O	O
-कठघरे	NN	O	O	O
-की	PSP	O	O	O
-दीवारों	NN	O	O	O
-ने	PSP	O	O	O
-और	INTF	O	O	O
-भी	RP	O	O	O
-भयंकर	JJ	O	O	O
-तथा	CC	O	O	O
-और	INTF	O	O	O
-भी	RP	O	O	O
-रक्त-लोलुप	JJ	O	O	O
-बना	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसके	PRP	O	O	O
-अन्तस्तल	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-द्रव	NN	O	O	O
-ज्वाला	NN	O	O	OCC
-उमड़	NNP	O	B-MISC	O
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसने	PRP	O	O	O
-अपने	PRP	O	O	O
-ताप	NN	O	O	O
-से	PSP	O	O	O
-उसके	PRP	O	O	O
-बलिष्ठ	JJ	O	O	O
-शरीर	NN	O	O	O
-,	SYM	O	O	O
-सुडौल	JJ	O	O	O
-अंग-प्रत्यंग	NN	O	O	O
-और	CC	O	O	O
-लहराती	JJ	O	B-STAT	O
-हुई	VM	O	I-STAT	O
-अभिलाषाओं	NN	O	O	O
-को	PSP	O	O	O
-झुलस	VM	O	B-MISC	OCC
-डाला	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-और	CC	O	O	O
-आज	NN	O	O	O
-उसके	PRP	O	O	O
-अस्तित्व	NN	O	O	O
-का	PSP	O	O	O
-एक-एक	RB	O	O	O
-अणु	NN	O	O	O
-एक-एक	RB	O	O	O
-चिनगारी	NN	O	O	O
-बना	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-क्षुधित	JJ	O	O	O
-,	SYM	O	O	O
-चंचल	NN	O	O	O
-और	CC	O	O	O
-विद्रोहमय	JJ	O	O	O
-.	SYM	O	O	O
-जेलर	NN	O	O	O
-ने	PSP	O	O	O
-उसे	PRP	O	O	O
-तौला	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-प्रवेश	NN	O	O	O
-के	PSP	O	O	O
-समय	NN	O	O	O
-दो	QC	O	O	O
-मन	NN	O	O	O
-तीस	QC	O	O	O
-सेर	NN	O	O	O
-था	VM	O	O	O
-,	SYM	O	O	O
-आज	NN	O	O	O
-केवल	RP	O	O	O
-एक	QC	O	O	O
-मन	NN	O	O	O
-पांच	QC	O	O	O
-सेर	XC	O	O	O
-.	SYM	O	O	O
-जेलर	NN	O	O	O
-ने	PSP	O	O	O
-सहानुभूति	NN	O	O	O
-दिखाकर	VM	O	O	O
-कहा	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-तुम	PRP	O	O	O
-बहुत	INTF	O	O	O
-दुर्बल	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गये	VAUX	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-आइवन	NN	O	O	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-जरा	QF	O	O	O
-भी	RP	O	O	O
-पथ्य	NN	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-बुरा	JJ	O	B-MISC	O
-होगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-आइवन	NN	O	O	O
-ने	PSP	O	O	O
-अपने	PRP	O	O	O
-हड्डियों	NN	O	O	O
-के	PSP	O	O	O
-ढॉचे	NN	O	O	O
-को	PSP	O	O	O
-विजय-भाव	NN	O	O	O
-से	PSP	O	O	O
-देखा	VM	O	B-MISC	OCC
-और	CC	O	O	O
-अपने	PRP	O	O	O
-अन्दर	NST	O	O	O
-एक	QC	O	O	O
-अग्निमय	JJ	O	O	O
-प्रवाह	NN	O	O	O
-का	PSP	O	O	O
-अनुभव	NN	O	B-MISC	OCC
-करता	VM	O	I-MISC	O
-हुआ	VAUX	O	I-MISC	O
-बोला	XC	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-क़ौन	NN	O	O	O
-कहता	VM	O	B-MISC	DEC
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-मैं	PRP	O	O	O
-दुर्बल	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-'	SYM	O	O	O
-'	SYM	O	O	O
-तुम	PRP	O	O	O
-खुद	PRP	O	O	O
-देख	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-होगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-'	SYM	O	O	O
-दिल	NN	O	O	O
-की	PSP	O	O	O
-आग	NN	O	O	O
-जब	PRP	O	O	O
-तक	RP	O	O	O
-नहीं	NEG	O	B-MISC	O
-बुझेगी	VM	O	I-MISC	O
-,	SYM	O	O	O
-आइवन	NN	O	O	O
-नहीं	NEG	O	B-MISC	O
-मरेगा	VM	O	I-MISC	O
-,	SYM	O	O	O
-मि	RP	O	O	O
-.	SYM	O	O	O
-जेलर	XC	O	O	O
-,	SYM	O	O	O
-सौ	QC	O	O	O
-वर्ष	NN	O	O	O
-तक	RP	O	O	O
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-विश्वास	NN	O	O	O
-रखिए	VM	O	B-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-आइवन	NN	O	O	O
-इसी	DEM	O	O	O
-प्रकार	NN	O	O	O
-बहकी-बहकी	JJ	O	O	O
-बातें	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-करता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-इसलिए	CC	O	O	O
-जेलर	NN	O	O	O
-ने	PSP	O	O	O
-ज्यादा	QF	O	O	O
-परवाह	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-की	VM	O	I-MISC	O
-.	SYM	O	O	O
-सब	QF	O	O	O
-उसे	PRP	O	O	O
-अर्ध्द-विक्षिप्त	JJ	O	B-MISC	OCC
-समझते	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कुछ	PRP	O	O	O
-लिखा-पढ़ी	NNP	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाने	VAUX	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-उसके	PRP	O	O	O
-कपड़े	JJ	O	O	O
-और	CC	O	O	O
-पुस्तकें	NN	O	O	OCC
-मंगवायी	VM	O	O	O
-गयीं	VAUX	O	O	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-वे	PRP	O	O	O
-सारे	QF	O	O	O
-सूट	NN	O	O	O
-अब	PRP	O	O	O
-उसे	PRP	O	O	O
-उतारे	VM	O	B-MISC	OCC
-हुए-से	VAUX	O	I-MISC	O
-लगते	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कोटों	NN	O	O	O
-की	PSP	O	O	O
-जेबों	NN	O	O	O
-में	PSP	O	O	O
-कई	QF	O	O	O
-नोट	NN	O	O	O
-निकले	VM	O	B-MISC	O
-,	SYM	O	O	O
-कई	QF	O	O	O
-नगद	JJ	O	O	O
-रूबेल	NN	O	O	O
-.	SYM	O	O	O
-उसने	PRP	O	O	O
-सबकुछ	NN	O	O	O
-वहीं	PRP	O	O	O
-जेल	NN	O	O	O
-के	PSP	O	O	O
-वार्डरों	NN	O	O	O
-और	CC	O	O	O
-निम्न	JJ	O	O	O
-कर्मचारियों	NN	O	O	O
-को	PSP	O	O	O
-दे	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-मानो	RP:?	O	O	O
-उसे	PRP	O	O	O
-कोई	PRP	O	O	O
-राज्य	NN	O	O	O
-मिल	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जेलर	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-यह	PRP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-आइवन	NN	O	O	O
-!	SYM	O	O	O
-तुम	PRP	O	O	O
-सरकारी	JJ	O	O	O
-आदमियों	NN	O	O	O
-को	PSP	O	O	O
-रिश्वत	NN	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-दे	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-आइवन	NN	O	O	O
-साधु-भाव	NN	O	O	O
-से	PSP	O	O	O
-हंसा	XC	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-यह	PRP	O	O	O
-रिश्वत	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-है	VM	O	I-MISC	O
-,	SYM	O	O	O
-मि	RP	O	O	O
-.	SYM	O	O	O
-जेलर	NN	O	O	O
-!	SYM	O	O	O
-इन्हें	PRP	O	O	O
-रिश्वत	NN	O	B-MISC	OCC
-देकर	VM	O	I-MISC	O
-अब	PRP	O	O	O
-मुझे	PRP	O	O	O
-इनसे	PRP	O	O	O
-क्या	WQ	O	O	O
-लेना-देना	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-अब	PRP	O	O	O
-ये	PRP	O	O	O
-अप्रसन्न	JJ	O	B-MISC	O
-होकर	VM	O	I-MISC	O
-मेरा	PRP	O	O	O
-क्या	WQ	O	O	O
-बिगाड़	NNP	O	B-MISC	O
-लेंगे	VM	O	I-MISC	OCC
-और	CC	O	O	O
-प्रसन्न	JJ	O	B-MISC	O
-होकर	VM	O	I-MISC	O
-मुझे	PRP	O	O	O
-क्या	WQ	O	O	O
-देंगे	VM	O	B-MISC	OCC
-?	SYM	O	O	O
-यह	PRP	O	O	O
-उन	DEM	O	O	O
-कृपाओं	NN	O	O	O
-का	PSP	O	O	O
-धन्यवाद	NN	O	O	O
-है	VM	O	O	O
-जिनके	PRP	O	O	O
-बिना	NEG	O	O	O
-चौदह	QC	O	O	O
-साल	NN	O	O	O
-तो	RP	O	O	O
-क्या	WQ	O	O	O
-,	SYM	O	O	O
-मेरा	PRP	O	O	O
-यहां	PRP	O	O	O
-चौदह	QC	O	O	O
-घंटे	NN	O	O	O
-रहना	VM	O	B-MISC	O
-असह्य	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
+चौदह
+साल
+तक
+निरन्तर
+मानसिक
+वेदना
+और
+शारीरिक
+यातना
+भोगने
+के
+बाद
+आइवन
+ओखोटस्क
+जेल
+से
+निकला
+;
+पर
+उस
+पक्षी
+की
+भांति
+नहीं
+,
+जो
+शिकारी
+के
+पिंजरे
+से
+पंखहीन
+होकर
+निकला
+हो
+बल्कि
+उस
+सिंह
+की
+भांति
+,
+जिसे
+कठघरे
+की
+दीवारों
+ने
+और
+भी
+भयंकर
+तथा
+और
+भी
+रक्त-लोलुप
+बना
+दिया
+हो
+.
+उसके
+अन्तस्तल
+में
+एक
+द्रव
+ज्वाला
+उमड़
+रही
+थी
+,
+जिसने
+अपने
+ताप
+से
+उसके
+बलिष्ठ
+शरीर
+,
+सुडौल
+अंग-प्रत्यंग
+और
+लहराती
+हुई
+अभिलाषाओं
+को
+झुलस
+डाला
+था
+और
+आज
+उसके
+अस्तित्व
+का
+एक-एक
+अणु
+एक-एक
+चिनगारी
+बना
+हुआ
+था
+क्षुधित
+,
+चंचल
+और
+विद्रोहमय
+.
+जेलर
+ने
+उसे
+तौला
+.
+प्रवेश
+के
+समय
+दो
+मन
+तीस
+सेर
+था
+,
+आज
+केवल
+एक
+मन
+पांच
+सेर
+.
+जेलर
+ने
+सहानुभूति
+दिखाकर
+कहा
+,
+तुम
+बहुत
+दुर्बल
+हो
+गये
+हो
+,
+आइवन
+.
+अगर
+जरा
+भी
+पथ्य
+हुआ
+,
+तो
+बुरा
+होगा
+.
+आइवन
+ने
+अपने
+हड्डियों
+के
+ढॉचे
+को
+विजय-भाव
+से
+देखा
+और
+अपने
+अन्दर
+एक
+अग्निमय
+प्रवाह
+का
+अनुभव
+करता
+हुआ
+बोला
+,
+'
+क़ौन
+कहता
+है
+कि
+मैं
+दुर्बल
+हो
+गया
+हूं
+?
+'
+'
+तुम
+खुद
+देख
+रहे
+होगे
+.
+'
+'
+दिल
+की
+आग
+जब
+तक
+नहीं
+बुझेगी
+,
+आइवन
+नहीं
+मरेगा
+,
+मि
+.
+जेलर
+,
+सौ
+वर्ष
+तक
+नहीं
+,
+विश्वास
+रखिए
+.
+'
+आइवन
+इसी
+प्रकार
+बहकी-बहकी
+बातें
+किया
+करता
+था
+,
+इसलिए
+जेलर
+ने
+ज्यादा
+परवाह
+न
+की
+.
+सब
+उसे
+अर्ध्द-विक्षिप्त
+समझते
+थे
+.
+कुछ
+लिखा-पढ़ी
+हो
+जाने
+के
+बाद
+उसके
+कपड़े
+और
+पुस्तकें
+मंगवायी
+गयीं
+;
+पर
+वे
+सारे
+सूट
+अब
+उसे
+उतारे
+हुए-से
+लगते
+थे
+.
+कोटों
+की
+जेबों
+में
+कई
+नोट
+निकले
+,
+कई
+नगद
+रूबेल
+.
+उसने
+सबकुछ
+वहीं
+जेल
+के
+वार्डरों
+और
+निम्न
+कर्मचारियों
+को
+दे
+दिया
+मानो
+उसे
+कोई
+राज्य
+मिल
+गया
+हो
+.
+जेलर
+ने
+कहा
+,
+'
+यह
+नहीं
+हो
+सकता
+,
+आइवन
+!
+तुम
+सरकारी
+आदमियों
+को
+रिश्वत
+नहीं
+दे
+सकते
+.
+'
+आइवन
+साधु-भाव
+से
+हंसा
+,
+'
+यह
+रिश्वत
+नहीं
+है
+,
+मि
+.
+जेलर
+!
+इन्हें
+रिश्वत
+देकर
+अब
+मुझे
+इनसे
+क्या
+लेना-देना
+है
+?
+अब
+ये
+अप्रसन्न
+होकर
+मेरा
+क्या
+बिगाड़
+लेंगे
+और
+प्रसन्न
+होकर
+मुझे
+क्या
+देंगे
+?
+यह
+उन
+कृपाओं
+का
+धन्यवाद
+है
+जिनके
+बिना
+चौदह
+साल
+तो
+क्या
+,
+मेरा
+यहां
+चौदह
+घंटे
+रहना
+असह्य
+हो
+जाता
+.
+'

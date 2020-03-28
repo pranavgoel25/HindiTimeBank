@@ -1,298 +1,298 @@
-भारतीय	JJ	O	O	O
-मौसम	NN	O	O	O
-विभाग	NN	O	O	O
-(	SYM	O	O	O
-IMD	NN	O	O	O
-)	SYM	O	O	O
-ने	PSP	O	O	O
-बुधवार	NN	O	O	O
-को	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-उत्तरी-पश्चिमी	XC	O	O	O
-भारत	NNP	O	O	O
-के	PSP	O	O	O
-ऊपर	NST	O	O	O
-निचले	JJ	O	O	O
-ट्रोपोस्फेरिक	JJ	O	O	O
-स्तर	NN	O	O	O
-में	PSP	O	O	O
-एंटी-साइक्लोनिक	JJ	O	O	O
-स्थिति	NN	O	O	O
-बनने	VM	O	O	O
-,	SYM	O	O	O
-निचले	JJ	O	O	O
-और	CC	O	O	O
-मध्य-ट्रोपोस्फेरिक	JJ	O	O	O
-स्तरों	NN	O	O	O
-में	PSP	O	O	O
-नमी	NN	O	O	O
-में	PSP	O	O	O
-लगातार	RB	O	O	O
-कमी	NN	O	O	O
-और	CC	O	O	O
-बारिश	NN	O	O	O
-घटने	VM	O	O	O
-से	PSP	O	O	O
-दक्षिणी-पश्चिमी	JJ	O	O	O
-मॉनसून	NN	O	O	O
-ने	PSP	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-पंजाब	XC	O	O	O
-,	SYM	O	O	O
-हरियाणा	NNP	O	O	O
-और	CC	O	O	O
-उत्तरी	JJ	O	O	O
-राजस्थान	NNP	O	O	O
-के	PSP	O	O	O
-कुछ	QF	O	O	O
-हिस्सों	NN	O	O	O
-से	PSP	O	O	O
-वापस	JJ	O	B-MISC	O
-लौटना	VM	O	I-MISC	OCC
-शुरू	NN	O	B-MISC	ASP
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-मॉनसून	NN	O	O	O
-ने	PSP	O	O	O
-करीब	RB	O	O	O
-एक	QC	B	O	O
-महीने	NN	I	O	O
-की	PSP	O	O	O
-देरी	NN	O	O	O
-से	PSP	O	O	O
-वापसी	NN	O	O	O
-की	PSP	O	O	O
-राह	NN	O	O	O
-पकड़	NN	O	B-MISC	OCC
-ली	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इससे	PRP	O	O	O
-पहले	NST	O	O	O
-उसने	PRP	O	O	O
-उत्तर	XC	O	O	O
-भारत	NNP	O	O	O
-में	PSP	O	O	O
-सबसे	INTF	O	O	O
-ज्यादा	QF	O	O	O
-लंबे	JJ	O	O	O
-समय	NN	O	O	O
-तक	RP	O	O	O
-रुकने	VM	O	O	O
-का	PSP	O	O	O
-रेकॉर्ड	NN	O	B-MISC	O
-बनाया	VM	O	I-MISC	OCC
-.	SYM	O	O	O
-मॉनसून	NN	O	O	O
-सीजन	NN	O	O	O
-की	PSP	O	O	O
-शुरुआत	NN	O	O	O
-अच्छी	JJ	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-रही	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कई	QF	O	O	O
-इलाकों	NN	O	O	O
-में	PSP	O	O	O
-काफी	QF	O	O	O
-समय	NN	O	O	O
-तक	RP	O	O	O
-सूखे	JJ	O	O	O
-जैसे	RP	O	O	O
-हालात	NN	O	B-MISC	OCC
-थे	VM	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-बाद	NST	O	O	O
-में	PSP	O	O	O
-इसने	PRP	O	O	O
-रफ्तार	NN	O	O	O
-पकड़ी	NN	O	O	O
-और	CC	O	O	O
-इस	DEM	O	O	O
-सीजन	NN	O	O	O
-में	PSP	O	O	O
-रिकॉर्ड	NN	O	O	O
-बारिश	NN	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-.	SYM	O	O	O
-इसी	DEM	O	O	O
-वजह	NN	O	O	O
-से	PSP	O	O	O
-अभी	PRP	O	O	O
-कई	QF	O	O	O
-इलाकों	NN	O	O	O
-में	PSP	O	O	O
-बाढ़	NNP	O	O	O
-की	PSP	O	O	O
-स्थिति	NN	O	B-MISC	OCC
-बन	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आमतौर	NN	O	O	O
-पर	PSP	O	O	O
-मॉनसून	NN	O	O	O
-1	QC	O	O	O
-सितंबर	NNP	O	O	O
-से	PSP	O	O	O
-लौटता	VM	O	B-STAT	OCC
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-इससे	PRP	O	O	O
-पहले	NST	O	O	O
-1961	QC	O	O	O
-में	PSP	O	O	O
-मॉनसून	NN	O	O	O
-ने	PSP	O	O	O
-सबसे	INTF	O	O	O
-देर	JJ	O	O	O
-यानी	CC	O	O	O
-1	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-से	PSP	O	O	O
-लौटना	VM	O	B-MISC	OCC
-शुरू	NN	O	B-MISC	ASP
-किया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-2007	QC	O	O	O
-में	PSP	O	O	O
-यह	DEM	O	O	O
-30	QC	O	O	O
-सितंबर	NNP	O	O	O
-को	PSP	O	O	O
-लौटा	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मौसम	NN	O	O	O
-विभाग	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-अगले	NST	O	O	O
-दो	QC	B	O	O
-दिनों	NN	I	O	O
-में	PSP	O	O	O
-उत्तर	XC	O	O	O
-और	CC	O	O	O
-मध्य	XC	O	O	O
-भारत	NNP	O	O	O
-के	PSP	O	O	O
-बाकी	JJ	O	O	O
-इलाकों	NN	O	O	O
-से	PSP	O	O	O
-भी	RP	O	O	O
-मॉनसून	NN	O	O	O
-की	PSP	O	O	O
-विदाई	NN	O	B-MISC	OCC
-शुरू	NN	O	B-MISC	ASP
-हो	VM	O	I-MISC	O
-जाएगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-साल	NN	O	O	O
-मॉनसून	NN	O	O	O
-सीजन	NN	O	O	O
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-देश	NN	O	O	O
-में	PSP	O	O	O
-पिछले	JJ	B	O	O
-25	QC	I	O	O
-सालों	NN	O	O	O
-की	PSP	O	O	O
-सबसे	INTF	O	O	O
-अधिक	QF	O	O	O
-बारिश	NN	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-.	SYM	O	O	O
-1931	QC	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-पहली	QO	O	O	O
-बार	RP	O	O	O
-मौसमी	NN	O	O	OCC
-बारिश	NN	O	O	O
-अपने	PRP	O	O	O
-लॉन्ग	XC	O	O	O
-पीरियड	XC	O	O	O
-एवरेज	NNP	O	O	O
-(	SYM	O	O	O
-LPA	NN	O	O	O
-)	SYM	O	O	O
-से	PSP	O	O	O
-अधिक	QF	O	O	O
-रही	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अगस्त	NN	O	O	O
-में	PSP	O	O	O
-हुई	VM	O	B-MISC	O
-बारिश	NN	O	O	O
-पिछले	JJ	O	O	O
-23	QC	O	O	O
-सालों	NN	O	O	O
-में	PSP	O	O	O
-सबसे	INTF	O	O	O
-अधिक	QF	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-1996	QC	O	O	O
-में	PSP	O	O	O
-LPA	NN	O	O	O
-के	PSP	O	O	O
-119	QC	O	O	O
-पर्सेंट	NN	O	O	O
-बारिश	NN	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-और	CC	O	O	O
-उसके	PRP	O	O	O
-बाद	NST	O	O	O
-इस	DEM	O	O	O
-साल	NN	O	O	O
-अगस्त	NN	O	O	O
-में	PSP	O	O	O
-बारिश	NN	O	O	O
-LPA	NN	O	O	O
-के	PSP	O	O	O
-115	QC	O	O	O
-पर्सेंट	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सितंबर	NNP	O	O	O
-में	PSP	O	O	O
-LPA	NN	O	O	O
-के	PSP	O	O	O
-152	QC	O	O	O
-पर्सेंट	NN	O	O	O
-बारिश	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-पिछले	JJ	O	O	O
-102	QC	O	O	O
-सालों	NN	O	O	O
-में	PSP	O	O	O
-इस	DEM	O	O	O
-महीने	NN	O	O	O
-में	PSP	O	O	O
-हुई	VM	O	B-MISC	O
-दूसरी	QO	O	O	O
-सबसे	INTF	O	O	O
-अधिक	QF	O	O	O
-बारिश	NN	O	O	O
-थी	VM	O	B-STAT	O
+भारतीय
+मौसम
+विभाग
+(
+IMD
+)
+ने
+बुधवार
+को
+बताया
+,
+'
+उत्तरी-पश्चिमी
+भारत
+के
+ऊपर
+निचले
+ट्रोपोस्फेरिक
+स्तर
+में
+एंटी-साइक्लोनिक
+स्थिति
+बनने
+,
+निचले
+और
+मध्य-ट्रोपोस्फेरिक
+स्तरों
+में
+नमी
+में
+लगातार
+कमी
+और
+बारिश
+घटने
+से
+दक्षिणी-पश्चिमी
+मॉनसून
+ने
+बुधवार
+को
+पंजाब
+,
+हरियाणा
+और
+उत्तरी
+राजस्थान
+के
+कुछ
+हिस्सों
+से
+वापस
+लौटना
+शुरू
+कर
+दिया
+.
+'
+मॉनसून
+ने
+करीब
+एक
+महीने
+की
+देरी
+से
+वापसी
+की
+राह
+पकड़
+ली
+है
+.
+इससे
+पहले
+उसने
+उत्तर
+भारत
+में
+सबसे
+ज्यादा
+लंबे
+समय
+तक
+रुकने
+का
+रेकॉर्ड
+बनाया
+.
+मॉनसून
+सीजन
+की
+शुरुआत
+अच्छी
+नहीं
+रही
+थी
+.
+कई
+इलाकों
+में
+काफी
+समय
+तक
+सूखे
+जैसे
+हालात
+थे
+.
+हालांकि
+,
+बाद
+में
+इसने
+रफ्तार
+पकड़ी
+और
+इस
+सीजन
+में
+रिकॉर्ड
+बारिश
+हुई
+.
+इसी
+वजह
+से
+अभी
+कई
+इलाकों
+में
+बाढ़
+की
+स्थिति
+बन
+गई
+है
+.
+आमतौर
+पर
+मॉनसून
+1
+सितंबर
+से
+लौटता
+है
+.
+इससे
+पहले
+1961
+में
+मॉनसून
+ने
+सबसे
+देर
+यानी
+1
+अक्टूबर
+से
+लौटना
+शुरू
+किया
+था
+.
+2007
+में
+यह
+30
+सितंबर
+को
+लौटा
+था
+.
+मौसम
+विभाग
+ने
+कहा
+कि
+अगले
+दो
+दिनों
+में
+उत्तर
+और
+मध्य
+भारत
+के
+बाकी
+इलाकों
+से
+भी
+मॉनसून
+की
+विदाई
+शुरू
+हो
+जाएगी
+.
+इस
+साल
+मॉनसून
+सीजन
+के
+दौरान
+देश
+में
+पिछले
+25
+सालों
+की
+सबसे
+अधिक
+बारिश
+हुई
+.
+1931
+के
+बाद
+पहली
+बार
+मौसमी
+बारिश
+अपने
+लॉन्ग
+पीरियड
+एवरेज
+(
+LPA
+)
+से
+अधिक
+रही
+है
+.
+अगस्त
+में
+हुई
+बारिश
+पिछले
+23
+सालों
+में
+सबसे
+अधिक
+थी
+.
+1996
+में
+LPA
+के
+119
+पर्सेंट
+बारिश
+हुई
+थी
+और
+उसके
+बाद
+इस
+साल
+अगस्त
+में
+बारिश
+LPA
+के
+115
+पर्सेंट
+दर्ज
+हुई
+है
+.
+सितंबर
+में
+LPA
+के
+152
+पर्सेंट
+बारिश
+दर्ज
+की
+गई
+थी
+,
+जो
+पिछले
+102
+सालों
+में
+इस
+महीने
+में
+हुई
+दूसरी
+सबसे
+अधिक
+बारिश
+थी

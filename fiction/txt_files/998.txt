@@ -1,579 +1,579 @@
-विपिन	XC	O	O	O
-बाबू	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-स्त्री	NN	O	O	O
-ही	RP	O	O	O
-संसार	NN	O	O	O
-की	PSP	O	O	O
-सुन्दर	JJ	O	O	O
-वस्तु	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-वह	PRP	O	O	O
-कवि	NN	O	O	O
-थे	VM	O	B-MISC	O
-और	CC	O	O	O
-उनकी	PRP	O	O	O
-कविता	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-स्त्रियों	NN	O	O	O
-के	PSP	O	O	O
-रूप	NN	O	O	O
-और	CC	O	O	O
-यौवन	NN	O	O	O
-की	PSP	O	O	O
-प्रशंसा	NN	O	O	O
-ही	RP	O	O	O
-सबसे	INTF	O	O	O
-चित्तकर्षक	JJ	O	O	O
-विषय	NN	O	O	O
-था	VM	O	B-STAT	O
-.	SYM	O	O	O
-उनकी	PRP	O	O	O
-दृष्टि	NN	O	O	O
-में	PSP	O	O	O
-स्त्री	XC	O	O	O
-जगत्	NN	O	O	O
-में	PSP	O	O	O
-व्याप्त	JJ	O	O	O
-कोमलता	NN	O	O	O
-,	SYM	O	O	O
-माधुर्य	NN	O	O	O
-और	CC	O	O	O
-अलंकारों	NN	O	O	O
-की	PSP	O	O	O
-सजीव	JJ	O	O	O
-प्रतिमा	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-जबान	NN	O	O	O
-पर	PSP	O	O	O
-स्त्री	NN	O	O	O
-का	PSP	O	O	O
-नाम	NN	O	B-MISC	O
-आते	VM	O	I-MISC	O
-ही	RP	O	O	O
-उनकी	PRP	O	O	O
-आंखें	NN	O	O	O
-जगमगा	VM	O	B-MISC	OCC
-उठती	VAUX	O	I-MISC	O
-थीं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-कान	NN	O	O	O
-खड़े	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाते	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मानो	RP:?	O	O	O
-किसी	PRP	O	O	O
-रसिक	NN	O	O	O
-ने	PSP	O	O	O
-गान	NN	O	O	O
-की	PSP	O	O	O
-आवाज	NN	O	O	O
-सुन	VM	O	B-MISC	OCC
-ली	VAUX	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-से	PSP	O	O	O
-होश	NN	O	B-MISC	OCC
-संभाला	VM	O	I-MISC	O
-,	SYM	O	O	O
-तभी	PRP	O	O	O
-से	PSP	O	O	O
-उन्होंने	PRP	O	O	O
-उस	DEM	O	O	O
-सुंदरी	NN	O	O	O
-की	PSP	O	O	O
-कल्पना	NN	O	O	O
-करनी	VM	O	B-MISC	OCC
-शुरू	NN	O	O	O
-की	PSP	O	O	O
-जो	PRP	O	O	O
-उनके	PRP	O	O	O
-हृदय	NN	O	O	O
-की	PSP	O	O	O
-रानी	NN	O	B-MISC	OCC
-होगी	VM	O	I-MISC	O
-;	SYM	O	O	O
-उसमें	PRP	O	O	O
-ऊषा	NN	O	O	O
-की	PSP	O	O	O
-प्रफुल्लता	NN	O	B-MISC	OCC
-होगी	VM	O	I-MISC	O
-,	SYM	O	O	O
-पुष्प	NN	O	O	O
-की	PSP	O	O	O
-कोमलता	NN	O	O	O
-,	SYM	O	O	O
-कुंदन	NN	O	O	O
-की	PSP	O	O	O
-चमक	NN	O	O	O
-,	SYM	O	O	O
-बसंत	NN	O	O	O
-की	PSP	O	O	O
-छवि	XC	O	O	O
-,	SYM	O	O	O
-कोयल	NN	O	O	O
-की	PSP	O	O	O
-दनि-	NN	O	O	O
-वह	PRP	O	O	O
-कवि-वर्णित	JJ	O	O	O
-सभी	QF	O	O	O
-उपमाओं	NN	O	O	O
-से	PSP	O	O	O
-विभूषित	JJ	O	B-MISC	OCC
-होगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-उस	DEM	O	O	O
-कल्पित	JJ	O	O	O
-मूर्ति	NN	O	O	O
-के	PSP	O	O	O
-उपासक	NN	O	O	O
-थे	VM	O	O	O
-,	SYM	O	O	O
-कविताओं	NN	O	O	O
-में	PSP	O	O	O
-उसका	PRP	O	O	O
-गुण	NN	O	O	O
-गाते	VM	O	O	O
-,	SYM	O	O	O
-मित्रों	NN	O	O	O
-से	PSP	O	O	O
-उसकी	PRP	O	O	O
-चर्चा	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-,	SYM	O	O	O
-नित्य	RB	O	O	O
-उसी	PRP	O	O	O
-के	PSP	O	O	O
-खयाल	NN	O	O	O
-में	PSP	O	O	O
-मस्त	JJ	O	O	O
-रहते	VM	O	B-STAT	DEC
-थे	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-दिन	NN	O	O	O
-भी	RP	O	O	O
-समीप	NST	O	O	O
-आ	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जब	PRP	O	O	O
-उनकी	PRP	O	O	O
-आशाएं	NN	O	O	O
-हरे-हरे	JJ	O	O	O
-पत्ताो	NN	O	O	O
-से	PSP	O	O	O
-लहरायेंगी	NN	O	O	O
-,	SYM	O	O	O
-उनकी	PRP	O	O	O
-मुरादें	NN	O	O	O
-पूरी	JJ	O	B-MISC	O
-होंगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-कालेज	NN	O	O	O
-की	PSP	O	O	O
-अंतिम	JJ	O	O	O
-परीक्षा	NN	O	O	O
-समाप्त	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-और	CC	O	O	O
-विवाह	NN	O	O	O
-के	PSP	O	O	O
-संदेशे	NN	O	O	O
-आने	VM	O	B-MISC	OCC
-लगे	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-विवाह	NN	O	B-MISC	OCC
-तय	JJ	O	I-MISC	O
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-विपिन	XC	O	O	O
-बाबू	NN	O	O	O
-ने	PSP	O	O	O
-कन्या	NN	O	O	O
-को	PSP	O	O	O
-देखने	VM	O	B-MISC	OCC
-का	PSP	O	O	O
-बहुत	QF	O	O	O
-आग्रह	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-जब	PRP	O	O	O
-उनके	PRP	O	O	O
-मामूं	VM	O	O	O
-ने	PSP	O	O	O
-विश्वास	NN	O	B-MISC	OCC
-दिलाया	VM	O	I-MISC	O
-कि	CC	O	O	O
-लड़की	NN	O	O	O
-बहुत	QF	O	O	O
-ही	RP	O	O	O
-रूपवती	JJ	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-मैंने	PRP	O	O	O
-उसे	PRP	O	O	O
-अपनी	PRP	O	O	O
-आंखों	NN	O	O	O
-से	PSP	O	O	O
-देखा	VM	O	B-STAT	DEC
-है	VAUX	O	I-STAT	O
-,	SYM	O	O	O
-तब	PRP	O	O	O
-वह	PRP	O	O	O
-राजी	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गये	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-धूमधाम	NN	O	O	O
-से	PSP	O	O	O
-बारात	NN	O	B-MISC	OCC
-निकली	VM	O	I-MISC	O
-और	CC	O	O	O
-विवाह	NN	O	O	O
-का	PSP	O	O	O
-मूर्हूत	NN	O	B-MISC	OCC
-आया	VM	O	I-MISC	O
-.	SYM	O	O	O
-वधू	RDP	O	O	O
-आभूषणों	NN	O	O	O
-से	PSP	O	O	O
-सजी	JJ	O	B-MISC	O
-हुई	VM	O	I-MISC	O
-मंडप	NN	O	O	O
-में	PSP	O	O	O
-आयी	VM	O	B-MISC	OCC
-तो	CC	O	O	O
-विपिन	NN	O	O	O
-को	PSP	O	O	O
-उसके	PRP	O	O	O
-हाथ-पांव	JJ	O	O	O
-नजर	NN	O	O	O
-आये	VM	O	B-MISC	O
-.	SYM	O	O	O
-कितनी	QF	O	O	O
-सुंदर	JJ	O	O	O
-उंगलियां	NN	O	O	O
-थीं	VM	O	O	OCC
-,	SYM	O	O	O
-मानो	RP:?	O	O	O
-दीप-शिखाएं	NN	O	O	O
-हों	VM	O	O	O
-,	SYM	O	O	O
-अंगों	NN	O	O	O
-की	PSP	O	O	O
-शोभा	NN	O	O	O
-कितनी	QF	O	O	O
-मनोहारिणी	JJ	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-विपिन	NN	O	O	O
-फूले	VM	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-समाये	VM	O	I-MISC	O
-.	SYM	O	O	O
-दूसरे	QO	B	O	O
-दिन	NN	I	O	O
-वधू	NN	O	O	OCC
-विदा	NN	O	B-MISC	O
-हुई	VM	O	I-MISC	OCC
-तो	CC	O	O	O
-वह	PRP	O	O	O
-उसके	PRP	O	O	O
-दर्शनों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-इतने	QF	O	O	O
-अधीर	JJ	O	B-MISC	O
-हुए	VM	O	I-MISC	O
-कि	CC	O	O	O
-ज्यों	NN	O	O	O
-ही	RP	O	O	O
-रास्ते	NN	O	O	O
-में	PSP	O	O	O
-कहारों	NN	O	O	O
-ने	PSP	O	O	O
-पालकी	NN	O	O	O
-रखकर	VM	O	B-MISC	OCC
-मुंह-हाथ	NN	O	O	O
-धोना	VM	O	B-MISC	OCC
-शुरू	NN	O	B-MISC	ASP
-किया	VM	O	I-MISC	O
-,	SYM	O	O	O
-आप	PRP	O	O	O
-चुपके	NN	O	O	O
-से	PSP	O	O	O
-वधू	NN	O	O	O
-के	PSP	O	O	O
-पास	NST	O	O	O
-जा	VM	O	B-MISC	OCC
-पहुंचे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-घूंघट	NN	O	O	O
-हटाये	VM	O	O	O
-,	SYM	O	O	O
-पालकी	NN	O	O	O
-से	PSP	O	O	O
-सिर	NN	O	B-MISC	O
-निकाले	VM	O	I-MISC	OCC
-बाहर	NST	O	O	O
-झांक	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-विपिन	NN	O	O	O
-की	PSP	O	O	O
-निगाह	NN	O	O	O
-उस	DEM	O	O	O
-पर	PSP	O	O	O
-पड़	XC	O	B-MISC	O
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-घृणा	NN	O	O	O
-,	SYM	O	O	O
-क्रोध	NN	O	O	O
-और	CC	O	O	O
-निराशा	NN	O	O	O
-की	PSP	O	O	O
-एक	QC	O	O	O
-लहर-सी	NN	O	O	O
-उन	DEM	O	O	O
-पर	PSP	O	O	O
-दौड़	NN	O	B-MISC	OCC
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	PRP	O	O	O
-वह	PRP	O	O	O
-परम	JJ	O	O	O
-सुन्दरी	JJ	O	O	O
-रमणी	NN	O	B-MISC	O
-न	NEG	O	I-MISC	O
-थी	VM	O	I-MISC	O
-जिसकी	PRP	O	O	O
-उन्होंने	PRP	O	O	O
-कल्पना	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसकी	PRP	O	O	O
-वह	PRP	O	O	O
-बरसों	NN	O	O	O
-से	PSP	O	O	O
-कल्पना	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-थे-	NN	O	O	O
-यह	PRP	O	O	O
-एक	QC	O	O	O
-चौड़े	JJ	O	O	O
-मुंह	NN	O	O	O
-,	SYM	O	O	O
-चिपटी	JJ	O	O	O
-नाक	NN	O	O	O
-,	SYM	O	O	O
-और	CC	O	O	O
-फूले	VM	O	B-MISC	O
-हुए	VAUX	O	I-MISC	O
-गालों	NN	O	O	O
-वाली	PSP	O	O	O
-कुरूपा	XC	O	O	O
-स्त्री	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-रंग	NN	O	O	OCC
-गोरा	VM	O	O	O
-था	VAUX	O	O	O
-,	SYM	O	O	O
-पर	PSP	O	O	O
-उसमें	PRP	O	O	O
-लाली	NN	O	O	O
-के	PSP	O	O	O
-बदले	NN	O	O	O
-सफेदी	JJ	O	O	O
-थी	VM	O	O	O
-;	SYM	O	O	O
-और	CC	O	O	O
-फिर	RB	O	O	O
-रंग	NN	O	O	O
-कैसा	WQ	O	O	O
-ही	RP	O	O	O
-सुंदर	JJ	O	O	OCC
-हो	VM	O	O	O
-,	SYM	O	O	O
-रूप	NN	O	O	O
-की	PSP	O	O	O
-कमी	NN	O	O	OCC
-नहीं	NEG	O	B-MISC	O
-पूरी	JJ	O	I-MISC	O
-कर	VM	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-विपिन	NN	O	O	O
-का	PSP	O	O	O
-सारा	QF	O	O	O
-उत्साह	NN	O	O	O
-ठंडा	JJ	O	O	O
-पड़	XC	O	O	O
-गया-	NN	O	O	O
-हा	VM	O	O	O
-!	SYM	O	O	O
-इसे	PRP	O	O	O
-मेरे	PRP	O	O	O
-ही	RP	O	O	O
-गले	NN	O	B-MISC	OCC
-पड़ना	XC	O	I-MISC	O
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-क्या	WQ	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-समस्त	JJ	O	O	O
-संसार	NN	O	O	O
-में	PSP	O	O	O
-और	CC	O	O	O
-कोई	PRP	O	O	O
-न	NEG	O	B-MISC	OCC
-मिलता	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-उन्हें	PRP	O	O	O
-अपने	PRP	O	O	O
-मामूं	VM	O	O	O
-पर	PSP	O	O	O
-क्रोध	NN	O	B-MISC	OCC
-आया	VM	O	I-MISC	O
-जिन्होंने	PRP	O	O	O
-वधू	NN	O	O	O
-की	PSP	O	O	O
-तारीफों	NN	O	O	O
-के	PSP	O	O	O
-पुल	NN	O	O	O
-बांध	VM	O	B-MISC	OCC
-दिये	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-इस	DEM	O	O	O
-वक्त	NN	O	O	O
-वह	PRP	O	O	O
-मिल	VM	O	B-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-विपिन	NN	O	O	O
-उनकी	PRP	O	O	O
-ऐसी	DEM	O	O	O
-खबर	NN	O	O	O
-लेता	VM	O	O	OCC
-कि	CC	O	O	O
-वह	PRP	O	O	O
-भी	RP	O	O	O
-याद	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-कहारों	NN	O	O	O
-ने	PSP	O	O	O
-फिर	RB	O	O	O
-पालकियां	NN	O	B-MISC	OCC
-उठायीं	VM	O	I-MISC	O
-तो	CC	O	O	O
-विपिन	XC	O	O	O
-मन	NN	O	O	O
-में	PSP	O	O	O
-सोचने	VM	O	B-MISC	OCC
-लगा	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-इस	DEM	O	O	O
-स्त्री	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-कैसे	WQ	O	O	O
-मैं	PRP	O	O	O
-बोलूंगा	VM	O	O	OCC
-,	SYM	O	O	O
-कैसे	WQ	O	O	O
-इसके	PRP	O	O	O
-साथ	NST	O	O	O
-जीवन	NN	O	B-MISC	O
-काटूंगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-इसकी	PRP	O	O	O
-ओर	NST	O	O	O
-तो	RP	O	O	O
-ताकने	VM	O	B-MISC	O
-ही	RP	O	O	O
-से	PSP	O	O	O
-घृणा	NN	O	B-MISC	OCC
-होती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसी	DEM	O	O	O
-कुरूपा	XC	O	O	O
-स्त्रियां	NN	O	O	O
-भी	RP	O	O	O
-संसार	NN	O	O	O
-में	PSP	O	O	O
-हैं	VM	O	B-STAT	O
-,	SYM	O	O	O
-इसका	PRP	O	O	O
-मुझे	PRP	O	O	O
-अब	PRP	O	O	O
-तक	RP	O	O	O
-पता	JJ	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-क्या	WQ	O	O	O
-मुंह	NN	O	O	O
-ईश्वर	NN	O	O	O
-ने	PSP	O	O	O
-बनाया	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-क्या	WQ	O	O	O
-आंखें	NN	O	O	O
-हैं	VM	O	B-STAT	O
-!	SYM	O	O	O
-मैं	PRP	O	O	O
-और	CC	O	O	O
-सारे	QF	O	O	O
-ऐबों	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-आंखें	NN	O	O	O
-बंद	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-लेता	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-वह	PRP	O	O	O
-चौड़ा-सा	JJ	O	O	O
-मुंह	NN	O	O	O
-!	SYM	O	O	O
-भगवान्	NN	O	O	O
-!	SYM	O	O	O
-क्या	WQ	O	O	O
-तुम्हें	PRP	O	O	O
-मुझी	NN	O	O	O
-पर	PSP	O	O	O
-यह	DEM	O	O	O
-वज्रपात	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+विपिन
+बाबू
+के
+लिए
+स्त्री
+ही
+संसार
+की
+सुन्दर
+वस्तु
+थी
+.
+वह
+कवि
+थे
+और
+उनकी
+कविता
+के
+लिए
+स्त्रियों
+के
+रूप
+और
+यौवन
+की
+प्रशंसा
+ही
+सबसे
+चित्तकर्षक
+विषय
+था
+.
+उनकी
+दृष्टि
+में
+स्त्री
+जगत्
+में
+व्याप्त
+कोमलता
+,
+माधुर्य
+और
+अलंकारों
+की
+सजीव
+प्रतिमा
+थी
+.
+जबान
+पर
+स्त्री
+का
+नाम
+आते
+ही
+उनकी
+आंखें
+जगमगा
+उठती
+थीं
+,
+कान
+खड़े
+हो
+जाते
+थे
+,
+मानो
+किसी
+रसिक
+ने
+गान
+की
+आवाज
+सुन
+ली
+हो
+.
+जब
+से
+होश
+संभाला
+,
+तभी
+से
+उन्होंने
+उस
+सुंदरी
+की
+कल्पना
+करनी
+शुरू
+की
+जो
+उनके
+हृदय
+की
+रानी
+होगी
+;
+उसमें
+ऊषा
+की
+प्रफुल्लता
+होगी
+,
+पुष्प
+की
+कोमलता
+,
+कुंदन
+की
+चमक
+,
+बसंत
+की
+छवि
+,
+कोयल
+की
+दनि-
+वह
+कवि-वर्णित
+सभी
+उपमाओं
+से
+विभूषित
+होगी
+.
+वह
+उस
+कल्पित
+मूर्ति
+के
+उपासक
+थे
+,
+कविताओं
+में
+उसका
+गुण
+गाते
+,
+मित्रों
+से
+उसकी
+चर्चा
+करते
+,
+नित्य
+उसी
+के
+खयाल
+में
+मस्त
+रहते
+थे
+.
+वह
+दिन
+भी
+समीप
+आ
+गया
+था
+,
+जब
+उनकी
+आशाएं
+हरे-हरे
+पत्ताो
+से
+लहरायेंगी
+,
+उनकी
+मुरादें
+पूरी
+होंगी
+.
+कालेज
+की
+अंतिम
+परीक्षा
+समाप्त
+हो
+गयी
+थी
+और
+विवाह
+के
+संदेशे
+आने
+लगे
+थे
+.
+विवाह
+तय
+हो
+गया
+.
+विपिन
+बाबू
+ने
+कन्या
+को
+देखने
+का
+बहुत
+आग्रह
+किया
+,
+लेकिन
+जब
+उनके
+मामूं
+ने
+विश्वास
+दिलाया
+कि
+लड़की
+बहुत
+ही
+रूपवती
+है
+,
+मैंने
+उसे
+अपनी
+आंखों
+से
+देखा
+है
+,
+तब
+वह
+राजी
+हो
+गये
+.
+धूमधाम
+से
+बारात
+निकली
+और
+विवाह
+का
+मूर्हूत
+आया
+.
+वधू
+आभूषणों
+से
+सजी
+हुई
+मंडप
+में
+आयी
+तो
+विपिन
+को
+उसके
+हाथ-पांव
+नजर
+आये
+.
+कितनी
+सुंदर
+उंगलियां
+थीं
+,
+मानो
+दीप-शिखाएं
+हों
+,
+अंगों
+की
+शोभा
+कितनी
+मनोहारिणी
+थी
+.
+विपिन
+फूले
+न
+समाये
+.
+दूसरे
+दिन
+वधू
+विदा
+हुई
+तो
+वह
+उसके
+दर्शनों
+के
+लिए
+इतने
+अधीर
+हुए
+कि
+ज्यों
+ही
+रास्ते
+में
+कहारों
+ने
+पालकी
+रखकर
+मुंह-हाथ
+धोना
+शुरू
+किया
+,
+आप
+चुपके
+से
+वधू
+के
+पास
+जा
+पहुंचे
+.
+वह
+घूंघट
+हटाये
+,
+पालकी
+से
+सिर
+निकाले
+बाहर
+झांक
+रही
+थी
+.
+विपिन
+की
+निगाह
+उस
+पर
+पड़
+गयी
+.
+घृणा
+,
+क्रोध
+और
+निराशा
+की
+एक
+लहर-सी
+उन
+पर
+दौड़
+गयी
+.
+यह
+वह
+परम
+सुन्दरी
+रमणी
+न
+थी
+जिसकी
+उन्होंने
+कल्पना
+की
+थी
+,
+जिसकी
+वह
+बरसों
+से
+कल्पना
+कर
+रहे
+थे-
+यह
+एक
+चौड़े
+मुंह
+,
+चिपटी
+नाक
+,
+और
+फूले
+हुए
+गालों
+वाली
+कुरूपा
+स्त्री
+थी
+.
+रंग
+गोरा
+था
+,
+पर
+उसमें
+लाली
+के
+बदले
+सफेदी
+थी
+;
+और
+फिर
+रंग
+कैसा
+ही
+सुंदर
+हो
+,
+रूप
+की
+कमी
+नहीं
+पूरी
+कर
+सकता
+.
+विपिन
+का
+सारा
+उत्साह
+ठंडा
+पड़
+गया-
+हा
+!
+इसे
+मेरे
+ही
+गले
+पड़ना
+था
+.
+क्या
+इसके
+लिए
+समस्त
+संसार
+में
+और
+कोई
+न
+मिलता
+था
+?
+उन्हें
+अपने
+मामूं
+पर
+क्रोध
+आया
+जिन्होंने
+वधू
+की
+तारीफों
+के
+पुल
+बांध
+दिये
+थे
+.
+अगर
+इस
+वक्त
+वह
+मिल
+जाते
+तो
+विपिन
+उनकी
+ऐसी
+खबर
+लेता
+कि
+वह
+भी
+याद
+करते
+.
+जब
+कहारों
+ने
+फिर
+पालकियां
+उठायीं
+तो
+विपिन
+मन
+में
+सोचने
+लगा
+,
+इस
+स्त्री
+के
+साथ
+कैसे
+मैं
+बोलूंगा
+,
+कैसे
+इसके
+साथ
+जीवन
+काटूंगा
+.
+इसकी
+ओर
+तो
+ताकने
+ही
+से
+घृणा
+होती
+है
+.
+ऐसी
+कुरूपा
+स्त्रियां
+भी
+संसार
+में
+हैं
+,
+इसका
+मुझे
+अब
+तक
+पता
+न
+था
+.
+क्या
+मुंह
+ईश्वर
+ने
+बनाया
+है
+,
+क्या
+आंखें
+हैं
+!
+मैं
+और
+सारे
+ऐबों
+की
+ओर
+से
+आंखें
+बंद
+कर
+लेता
+,
+लेकिन
+वह
+चौड़ा-सा
+मुंह
+!
+भगवान्
+!
+क्या
+तुम्हें
+मुझी
+पर
+यह
+वज्रपात
+करना
+था
+.

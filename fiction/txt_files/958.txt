@@ -1,473 +1,473 @@
-शिवदास	NNP	O	O	O
-ने	PSP	O	O	O
-भंडारे	NN	O	O	O
-की	PSP	O	O	O
-कुंजी	NN	O	O	O
-अपनी	PRP	O	O	O
-बहू	NN	O	O	O
-रामप्यारी	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	O	O
-फेंककर	VM	O	O	O
-अपनी	PRP	O	O	O
-बूढ़ी	XC	O	O	O
-आंखों	NN	O	O	O
-में	PSP	O	O	O
-आंसू	NN	O	O	O
-भरकर	VM	O	B-STAT	OCC
-कहा-	VM	O	I-STAT	O
-बहू	INJ	O	O	O
-,	SYM	O	O	O
-आज	NN	O	O	O
-से	PSP	O	O	O
-गिरस्ती	NN	O	O	O
-की	PSP	O	O	O
-देखभाल	NN	O	O	O
-तुम्हारे	PRP	O	O	O
-ऊपर	NST	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-मेरा	PRP	O	O	O
-सुख	NN	O	O	O
-भगवान	NN	O	O	O
-से	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-देखा	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-नहीं	NEG	O	O	O
-तो	RP	O	O	O
-क्या	WQ	O	O	O
-जवान	JJ	O	O	O
-बेटे	NN	O	O	O
-को	PSP	O	O	O
-यों	RP	O	O	O
-छीन	VM	O	B-MISC	OCC
-लेते	VAUX	O	I-MISC	O
-!	SYM	O	O	O
-उसका	PRP	O	O	O
-काम	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-वाला	PSP	O	O	O
-तो	RP	O	O	O
-कोई	PRP	O	O	O
-चाहिए	VM	O	B-MISC	O
-.	SYM	O	O	O
-एक	QC	O	O	O
-हल	NN	O	O	O
-तोड़	NNP	O	O	O
-दूं	VM	O	O	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-गुजारा	NN	O	B-MISC	O
-न	NEG	O	I-MISC	OCC
-होगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-मेरे	PRP	O	O	O
-ही	RP	O	O	O
-कुकरम	NN	O	O	O
-से	PSP	O	O	O
-भगवान	NN	O	O	O
-का	PSP	O	O	O
-यह	DEM	O	O	O
-कोप	NN	O	B-MISC	OCC
-आया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-और	CC	O	O	O
-मैं	PRP	O	O	O
-ही	RP	O	O	O
-अपने	PRP	O	O	O
-माथे	NN	O	O	O
-पर	PSP	O	O	O
-उसे	PRP	O	O	O
-लूंगा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-बिरजू	NNP	O	O	O
-का	PSP	O	O	O
-हल	NN	O	O	O
-अब	PRP	O	O	O
-मैं	PRP	O	O	O
-ही	RP	O	O	O
-संभालूंगा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-अब	PRP	O	O	O
-घर	NN	O	O	O
-की	PSP	O	O	O
-देख-रेख	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-वाला	PSP	O	O	O
-,	SYM	O	O	O
-धरने-उठाने	NN	O	O	O
-वाला	PSP	O	O	O
-तुम्हारे	PRP	O	O	O
-सिवा	PSP:?	O	O	O
-दूसरा	QO	O	O	O
-कौन	WQ	O	O	O
-है	VM	O	B-STAT	DEC
-?	SYM	O	O	O
-रोओ	RDP	O	O	O
-मत	XC	O	O	O
-बेटा	NNP	O	O	O
-,	SYM	O	O	O
-भगवान	NN	O	O	O
-की	PSP	O	O	O
-जो	PRP	O	O	O
-इच्छा	NN	O	O	O
-थी	VM	O	O	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-हुआ	VM	O	O	OCC
-;	SYM	O	O	O
-और	CC	O	O	O
-जो	PRP	O	O	O
-इच्छा	NN	O	B-MISC	O
-होगी	VM	O	I-MISC	O
-वह	PRP	O	O	O
-होगा	VM	O	B-MISC	O
-.	SYM	O	O	O
-हमारा-तुम्हारा	NN	O	O	O
-क्या	WQ	O	O	O
-बस	RP	O	O	O
-है	VM	O	B-STAT	O
-?	SYM	O	O	O
-मेरे	XC	O	O	O
-जीते-जी	NNP	O	O	O
-तुम्हें	PRP	O	O	O
-कोई	PRP	O	O	O
-टेढ़ी	XC	O	O	O
-आंख	NN	O	O	O
-से	PSP	O	O	O
-देख	VM	O	B-MISC	OCC
-भी	RP	O	O	O
-न	NEG	O	B-MISC	OCC
-सकेगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-तुम	PRP	O	O	O
-किसी	PRP	O	O	O
-बात	NN	O	O	O
-का	PSP	O	O	O
-सोच	NN	O	O	O
-मत	NEG	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-करो	VM	O	I-MISC	O
-.	SYM	O	O	O
-बिरजू	VM	O	B-MISC	O
-गया	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-अभी	PRP	O	O	O
-बैठा	VM	O	B-MISC	OCC
-ही	RP	O	I-MISC	O
-हुआ	VM	O	I-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-रामप्यारी	NNP	O	O	O
-और	CC	O	O	O
-रामदुलारी	NNP	O	O	O
-दो	QC	O	O	O
-सगी	JJ	O	O	O
-बहनें	NN	O	B-MISC	O
-थीं	VM	O	I-MISC	O
-.	SYM	O	O	O
-दोनों	NN	O	O	O
-का	PSP	O	O	O
-विवाह	NN	O	O	OCC
-मथुरा	NNP	O	O	O
-और	CC	O	O	O
-बिरजू	NNP	O	O	O
-दो	QC	O	O	O
-सगे	JJ	O	O	O
-भाइयों	NN	O	O	O
-से	PSP	O	O	O
-हुआ	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-दोनों	JJ	O	O	O
-बहनें	NN	O	O	O
-नैहर	NN	O	O	O
-की	PSP	O	O	O
-तरह	PSP	O	O	O
-ससुराल	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-प्रेम	NN	O	O	O
-और	CC	O	O	O
-आनंद	NN	O	O	O
-से	PSP	O	O	O
-रहने	VM	O	B-MISC	OCC
-लगीं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-शिवदास	NNP	O	O	O
-को	PSP	O	O	O
-पेंशन	NN	O	O	O
-मिली	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-दिन-भर	NN	O	O	O
-द्वा	PSP	O	O	O
-र	RP	O	O	O
-पर	PSP	O	O	O
-गप-शप	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-.	SYM	O	O	O
-भरा-पूरा	NNP	O	O	O
-परिवार	NN	O	O	O
-देखकर	VM	O	O	O
-प्रसन्न	JJ	O	B-MISC	OCC
-होते	VM	O	I-MISC	O
-और	CC	O	O	O
-अधिकतर	JJ	O	O	O
-धर्म-चर्चा	NN	O	O	O
-में	PSP	O	O	O
-लगे	VM	O	B-STAT	OCC
-रहते	VAUX	O	I-STAT	O
-थे	VAUX	O	I-STAT	O
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-दैवगति	NN	O	O	O
-से	PSP	O	O	O
-बड़ा	XC	O	O	O
-लड़का	NNP	O	O	O
-बिरजू	JJ	O	O	O
-बिमार	NN	O	O	O
-पड़ा	NNP	O	O	O
-और	CC	O	O	O
-आज	NN	O	O	O
-उसे	PRP	O	O	O
-मरे	VM	O	B-MISC	OCC
-हुए	VAUX	O	I-MISC	O
-पंद्रह	QC	O	O	O
-दिन	NN	O	O	O
-बीत	VM	O	B-MISC	OCC
-गये	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आज	NN	O	O	O
-क्रिया-कर्म	NN	O	O	O
-से	PSP	O	O	O
-फुरसत	NN	O	O	O
-मिली	VM	O	B-MISC	O
-और	CC	O	O	O
-शिवदास	NNP	O	O	O
-ने	PSP	O	O	O
-सच्चे	JJ	O	O	O
-कर्मवीर	NN	O	O	O
-की	PSP	O	O	O
-भांति	PSP	O	O	O
-फिर	RB	O	O	O
-जीवन	NN	O	O	O
-संग्राम	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-कमर	NN	O	B-MISC	O
-कस	VM	O	I-MISC	OCC
-ली	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मन	NN	O	O	O
-में	PSP	O	O	O
-उसे	PRP	O	O	O
-चाहे	CC:?	O	O	O
-कितना	QF	O	O	O
-ही	RP	O	O	O
-दु	QC	O	O	O
-:	SYM	O	O	O
-ख	SYM	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उसे	PRP	O	O	O
-किसी	PRP	O	O	O
-ने	PSP	O	O	O
-रोते	VM	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-देखा	VM	O	I-MISC	O
-.	SYM	O	O	O
-आज	NN	O	O	O
-अपनी	PRP	O	O	O
-बहू	NN	O	O	O
-को	PSP	O	O	O
-देखकर	VM	O	B-MISC	IAC
-एक	QC	O	O	O
-क्षण	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-उसकी	PRP	O	O	O
-आंखें	NN	O	B-MISC	O
-सजल	JJ	O	I-MISC	OCC
-हो	VM	O	I-MISC	O
-गयीं	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-उसने	PRP	O	O	O
-मन	NN	O	O	O
-को	PSP	O	O	O
-संभाला	VM	O	B-MISC	OCC
-और	CC	O	O	O
-रूद्ध	JJ	O	O	O
-कंठ	NN	O	O	O
-से	PSP	O	O	O
-उसे	PRP	O	O	O
-दिलासा	NN	O	B-MISC	OCC
-देने	VM	O	I-MISC	O
-लगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कदाचित्	NN	O	O	O
-उसने	PRP	O	O	O
-,	SYM	O	O	O
-सोचा	VM	O	O	O
-था	VAUX	O	O	O
-,	SYM	O	O	O
-घर	NN	O	O	O
-की	PSP	O	O	O
-स्वामिनी	NN	O	O	O
-बनकर	VM	O	O	O
-विधवा	NN	O	O	O
-के	PSP	O	O	O
-आंसू	NN	O	O	O
-पुंछ	VM	O	B-MISC	O
-जायेंगे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-कम-से-कम	NNP	O	O	O
-उसे	PRP	O	O	O
-इतना	QF	O	O	O
-कठिन	JJ	O	O	O
-परिश्रम	NN	O	O	O
-न	NEG	O	B-MISC	O
-करना	VM	O	I-MISC	O
-पड़ेगा	XC	O	O	O
-,	SYM	O	O	O
-इसलिए	CC	O	O	O
-उसने	PRP	O	O	O
-भंडारे	NN	O	O	O
-की	PSP	O	O	O
-कुंजी	NN	O	O	O
-बहू	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	O	O
-फेंक	VM	O	B-MISC	OCC
-दी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वैधव्य	NN	O	O	O
-की	PSP	O	O	O
-व्यथा	NN	O	O	O
-को	PSP	O	O	O
-स्वामित्व	NN	O	O	O
-के	PSP	O	O	O
-गर्व	NN	O	O	O
-से	PSP	O	O	O
-दबा	VM	O	B-MISC	OCC
-देना	VAUX	O	I-MISC	O
-चाहता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-रामप्यारी	NN	O	O	O
-ने	PSP	O	O	O
-पुलकित	JJ	O	O	O
-कंठ	NN	O	O	O
-से	PSP	O	O	O
-कहा-	JJ	O	O	O
-यह	PRP	O	O	O
-कैसे	WQ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-दादा	NN	O	O	O
-,	SYM	O	O	O
-कि	CC	O	O	O
-तुम	PRP	O	O	O
-मेहनत-मजदूरी	NN	O	B-MISC	O
-करो	VM	O	I-MISC	OCC
-और	CC	O	O	O
-मैं	PRP	O	O	O
-मालकिन	NN	O	O	O
-बनकर	VM	O	B-MISC	OCC
-बैठूं	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-काम	NN	O	O	O
-धंधे	NN	O	O	O
-में	PSP	O	O	O
-लगी	VM	O	B-MISC	OCC
-रहूंगी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-मन	NN	O	O	O
-बदला	VM	O	B-MISC	OCC
-रहेगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बैठे-बैठे	NN	O	O	O
-तो	RP	O	O	O
-रोने	VM	O	O	O
-के	PSP	O	O	O
-सिवा	PSP:?	O	O	O
-और	CC	O	O	O
-कुछ	QF	O	O	O
-न	NEG	O	B-MISC	OCC
-होगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-शिवदास	NNP	O	O	O
-ने	PSP	O	O	O
-समझाया-	JJ	O	O	O
-बेटा	NN	O	O	O
-,	SYM	O	O	O
-दैवगति	NN	O	O	O
-में	PSP	O	O	O
-तो	RP	O	O	O
-किसी	PRP	O	O	O
-का	PSP	O	O	O
-बस	RP	O	O	O
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-रोने-धोने	NN	O	O	O
-से	PSP	O	O	O
-हलकानी	NN	O	O	O
-के	PSP	O	O	O
-सिवा	PSP:?	O	O	O
-और	CC	O	O	O
-क्या	WQ	O	O	O
-हाथ	NN	O	O	O
-आयेगा	VM	O	B-MISC	OCC
-?	SYM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-तो	RP	O	O	O
-बीसों	QC	O	O	O
-काम	NN	O	O	O
-हैं	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-कोई	PRP	O	O	O
-साधु-संत	JJ	O	O	O
-आ	VM	O	B-MISC	O
-जायं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-कोई	PRP	O	O	O
-पाहुना	XC	O	O	O
-ही	RP	O	O	O
-आ	VM	O	B-MISC	O
-पहुंचे	VAUX	O	I-MISC	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-उनके	PRP	O	O	O
-सेवा-सत्कार	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-किसी	PRP	O	O	O
-को	PSP	O	O	O
-घर	NN	O	O	O
-पर	PSP	O	O	O
-रहना	VM	O	B-MISC	OCC
-ही	RP	O	O	O
-पड़ेगा	XC	O	O	O
-.	SYM	O	O	O
-बहू	RDP	O	O	O
-ने	PSP	O	O	O
-बहुत-से	JJ	O	O	O
-हीले	NN	O	O	O
-किये	VM	O	O	O
-,	SYM	O	O	O
-पर	PSP	O	O	O
-शिवदास	NNP	O	O	O
-ने	PSP	O	O	O
-एक	QC	O	B-MISC	O
-न	NEG	O	I-MISC	O
-सुनी	VM	O	I-MISC	O
-.	SYM	O	O	O
+शिवदास
+ने
+भंडारे
+की
+कुंजी
+अपनी
+बहू
+रामप्यारी
+के
+सामने
+फेंककर
+अपनी
+बूढ़ी
+आंखों
+में
+आंसू
+भरकर
+कहा-
+बहू
+,
+आज
+से
+गिरस्ती
+की
+देखभाल
+तुम्हारे
+ऊपर
+है
+.
+मेरा
+सुख
+भगवान
+से
+नहीं
+देखा
+गया
+,
+नहीं
+तो
+क्या
+जवान
+बेटे
+को
+यों
+छीन
+लेते
+!
+उसका
+काम
+करने
+वाला
+तो
+कोई
+चाहिए
+.
+एक
+हल
+तोड़
+दूं
+,
+तो
+गुजारा
+न
+होगा
+.
+मेरे
+ही
+कुकरम
+से
+भगवान
+का
+यह
+कोप
+आया
+है
+,
+और
+मैं
+ही
+अपने
+माथे
+पर
+उसे
+लूंगा
+.
+बिरजू
+का
+हल
+अब
+मैं
+ही
+संभालूंगा
+.
+अब
+घर
+की
+देख-रेख
+करने
+वाला
+,
+धरने-उठाने
+वाला
+तुम्हारे
+सिवा
+दूसरा
+कौन
+है
+?
+रोओ
+मत
+बेटा
+,
+भगवान
+की
+जो
+इच्छा
+थी
+,
+वह
+हुआ
+;
+और
+जो
+इच्छा
+होगी
+वह
+होगा
+.
+हमारा-तुम्हारा
+क्या
+बस
+है
+?
+मेरे
+जीते-जी
+तुम्हें
+कोई
+टेढ़ी
+आंख
+से
+देख
+भी
+न
+सकेगा
+.
+तुम
+किसी
+बात
+का
+सोच
+मत
+किया
+करो
+.
+बिरजू
+गया
+,
+तो
+अभी
+बैठा
+ही
+हुआ
+हूं
+.
+रामप्यारी
+और
+रामदुलारी
+दो
+सगी
+बहनें
+थीं
+.
+दोनों
+का
+विवाह
+मथुरा
+और
+बिरजू
+दो
+सगे
+भाइयों
+से
+हुआ
+.
+दोनों
+बहनें
+नैहर
+की
+तरह
+ससुराल
+में
+भी
+प्रेम
+और
+आनंद
+से
+रहने
+लगीं
+.
+शिवदास
+को
+पेंशन
+मिली
+.
+दिन-भर
+द्वा
+र
+पर
+गप-शप
+करते
+.
+भरा-पूरा
+परिवार
+देखकर
+प्रसन्न
+होते
+और
+अधिकतर
+धर्म-चर्चा
+में
+लगे
+रहते
+थे
+;
+लेकिन
+दैवगति
+से
+बड़ा
+लड़का
+बिरजू
+बिमार
+पड़ा
+और
+आज
+उसे
+मरे
+हुए
+पंद्रह
+दिन
+बीत
+गये
+.
+आज
+क्रिया-कर्म
+से
+फुरसत
+मिली
+और
+शिवदास
+ने
+सच्चे
+कर्मवीर
+की
+भांति
+फिर
+जीवन
+संग्राम
+के
+लिए
+कमर
+कस
+ली
+.
+मन
+में
+उसे
+चाहे
+कितना
+ही
+दु
+:
+ख
+हुआ
+हो
+,
+उसे
+किसी
+ने
+रोते
+नहीं
+देखा
+.
+आज
+अपनी
+बहू
+को
+देखकर
+एक
+क्षण
+के
+लिए
+उसकी
+आंखें
+सजल
+हो
+गयीं
+;
+लेकिन
+उसने
+मन
+को
+संभाला
+और
+रूद्ध
+कंठ
+से
+उसे
+दिलासा
+देने
+लगा
+.
+कदाचित्
+उसने
+,
+सोचा
+था
+,
+घर
+की
+स्वामिनी
+बनकर
+विधवा
+के
+आंसू
+पुंछ
+जायेंगे
+,
+कम-से-कम
+उसे
+इतना
+कठिन
+परिश्रम
+न
+करना
+पड़ेगा
+,
+इसलिए
+उसने
+भंडारे
+की
+कुंजी
+बहू
+के
+सामने
+फेंक
+दी
+थी
+.
+वैधव्य
+की
+व्यथा
+को
+स्वामित्व
+के
+गर्व
+से
+दबा
+देना
+चाहता
+था
+.
+रामप्यारी
+ने
+पुलकित
+कंठ
+से
+कहा-
+यह
+कैसे
+हो
+सकता
+है
+दादा
+,
+कि
+तुम
+मेहनत-मजदूरी
+करो
+और
+मैं
+मालकिन
+बनकर
+बैठूं
+?
+काम
+धंधे
+में
+लगी
+रहूंगी
+,
+तो
+मन
+बदला
+रहेगा
+.
+बैठे-बैठे
+तो
+रोने
+के
+सिवा
+और
+कुछ
+न
+होगा
+.
+शिवदास
+ने
+समझाया-
+बेटा
+,
+दैवगति
+में
+तो
+किसी
+का
+बस
+नहीं
+,
+रोने-धोने
+से
+हलकानी
+के
+सिवा
+और
+क्या
+हाथ
+आयेगा
+?
+घर
+में
+भी
+तो
+बीसों
+काम
+हैं
+.
+कोई
+साधु-संत
+आ
+जायं
+,
+कोई
+पाहुना
+ही
+आ
+पहुंचे
+,
+तो
+उनके
+सेवा-सत्कार
+के
+लिए
+किसी
+को
+घर
+पर
+रहना
+ही
+पड़ेगा
+.
+बहू
+ने
+बहुत-से
+हीले
+किये
+,
+पर
+शिवदास
+ने
+एक
+न
+सुनी
+.

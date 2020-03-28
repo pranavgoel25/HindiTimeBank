@@ -1,108 +1,108 @@
-अमेरिकी	JJ	O	O	O
-की	PSP	O	O	O
-युवा	JJ	O	O	O
-कोको	NN	O	O	O
-गौफ	NN	O	O	O
-ने	PSP	O	O	O
-लिंज	NN	O	O	O
-में	PSP	O	O	O
-डब्ल्यूटीए	JJ	O	O	O
-टूर्नामेंट	NN	O	O	O
-में	PSP	O	O	O
-क्वालीफायर	NN	O	O	O
-से	PSP	O	O	O
-मिले	VM	O	B-MISC	OCC
-मौके	NN	O	O	O
-का	PSP	O	O	O
-फायदा	NN	O	B-MISC	OCC
-उठाकर	VM	O	I-MISC	O
-दूसरे	PRP	O	O	O
-दौर	NN	O	O	O
-में	PSP	O	O	O
-प्रवेश	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-पंद्रह	QC	B	O	O
-साल	NN	I	O	O
-की	PSP	O	O	O
-खिलाड़ी	NNP	O	O	O
-हफ्ते	NN	O	O	O
-के	PSP	O	O	O
-शुरू	NN	O	O	O
-में	PSP	O	O	O
-क्वालीफाइंग	NN	O	O	O
-में	PSP	O	O	O
-हार	VM	O	B-MISC	OCC
-गयी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-लेकिन	CC	O	O	O
-उन्हें	PRP	O	O	O
-तब	PRP	O	O	O
-ड्रा	NN	O	O	O
-में	PSP	O	O	O
-शामिल	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जब	PRP	O	O	O
-यूनान	NN	O	O	O
-की	PSP	O	O	O
-मारिया	NN	O	O	O
-सकारी	JJ	O	O	O
-चोट	NN	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	O	O
-पहले	NST	O	O	O
-दौर	NN	O	O	O
-के	PSP	O	O	O
-मैच	NN	O	O	O
-से	PSP	O	O	O
-पहले	NST	O	O	O
-हट	VM	O	B-MISC	OCC
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-विश्व	XC	O	O	O
-रैंकिंग	NN	O	O	O
-में	PSP	O	O	O
-110	QC	O	O	O
-वें	PRP	O	O	O
-नंबर	NN	O	O	O
-की	PSP	O	O	O
-खिलाड़ी	XC	O	O	O
-गौफ	NN	O	O	O
-क्वालीफाइंग	XC	O	O	O
-दौर	NN	O	O	O
-में	PSP	O	O	O
-हारने	VM	O	O	OCC
-वाली	PSP	O	O	O
-सबसे	INTF	O	O	O
-ऊंची	JJ	O	O	O
-रैंकिंग	NN	O	O	O
-की	PSP	O	O	O
-खिलाड़ी	NNP	O	B-MISC	O
-थी	VAUX	O	I-MISC	O
-जिससे	PRP	O	O	O
-उन्हें	PRP	O	O	O
-मौका	NN	O	B-MISC	OCC
-मिला	VM	O	I-MISC	O
-.	SYM	O	O	O
-गौफ	NN	O	O	O
-ने	PSP	O	O	O
-स्विट्जरलैंड	NN	O	O	O
-की	PSP	O	O	O
-स्टेफानी	JJ	O	O	O
-वोएगिली	NN	O	O	O
-पर	PSP	O	O	O
-6	QC	O	O	O
--	SYM	O	O	O
-3	QC	B	O	O
-7	QC	I	O	O
--	SYM	O	O	O
-6	QC	O	O	O
-से	PSP	O	O	O
-जीत	JJ	O	B-MISC	OCC
-हासिल	NN	O	I-MISC	O
-की	PSP	O	I-MISC	O
-.	SYM	O	O	O
-एएफपी	JJ	O	O	O
-नमिता	NN	O	O	O
-आनन्द	NN	O	O	O
-आनन्द	NN	O	O	O
+अमेरिकी
+की
+युवा
+कोको
+गौफ
+ने
+लिंज
+में
+डब्ल्यूटीए
+टूर्नामेंट
+में
+क्वालीफायर
+से
+मिले
+मौके
+का
+फायदा
+उठाकर
+दूसरे
+दौर
+में
+प्रवेश
+किया
+.
+पंद्रह
+साल
+की
+खिलाड़ी
+हफ्ते
+के
+शुरू
+में
+क्वालीफाइंग
+में
+हार
+गयी
+थी
+लेकिन
+उन्हें
+तब
+ड्रा
+में
+शामिल
+किया
+जब
+यूनान
+की
+मारिया
+सकारी
+चोट
+के
+कारण
+पहले
+दौर
+के
+मैच
+से
+पहले
+हट
+गयी
+.
+विश्व
+रैंकिंग
+में
+110
+वें
+नंबर
+की
+खिलाड़ी
+गौफ
+क्वालीफाइंग
+दौर
+में
+हारने
+वाली
+सबसे
+ऊंची
+रैंकिंग
+की
+खिलाड़ी
+थी
+जिससे
+उन्हें
+मौका
+मिला
+.
+गौफ
+ने
+स्विट्जरलैंड
+की
+स्टेफानी
+वोएगिली
+पर
+6
+-
+3
+7
+-
+6
+से
+जीत
+हासिल
+की
+.
+एएफपी
+नमिता
+आनन्द
+आनन्द

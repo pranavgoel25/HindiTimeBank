@@ -1,154 +1,154 @@
-भारतीय	JJ	O	O	O
-वायुसेना	NN	O	O	O
-दिवस	NN	O	O	O
-के	PSP	O	O	O
-अवसर	NN	O	O	O
-पर	PSP	O	O	O
-वायुसेना	NN	O	O	O
-की	PSP	O	O	O
-दक्षिण	NN	O	O	O
-पश्चिमी	JJ	O	O	O
-कमान	NN	O	O	O
-का	PSP	O	O	O
-एक	QC	O	O	O
-दल	NN	O	O	O
-साइकिल	NN	O	O	O
-चलाकर	VM	O	O	O
-मंगलवार	NN	O	O	O
-को	PSP	O	O	O
-नर्मदा	JJ	O	O	O
-जिले	NN	O	O	O
-में	PSP	O	O	O
-स्थित	JJ	O	O	O
-‘	XC	O	O	O
-स्टैच्यू	XC	O	O	O
-ऑफ	XC	O	O	O
-यूनिटी	NNP	O	O	O
-’	NN	O	B-MISC	O
-पहुंचा	VM	O	I-MISC	OCC
-.	SYM	O	O	O
-वायुसेना	NN	O	O	O
-के	PSP	O	O	O
-87	QC	O	O	O
-वें	PRP	O	O	O
-स्थापना	NN	O	O	O
-दिवस	NN	O	O	O
-पर	PSP	O	O	O
-यह	DEM	O	O	O
-साइकिल	NN	O	O	O
-अभियान	NN	O	O	O
-गांधीनगर	NNP	O	O	O
-स्थित	JJ	O	O	O
-कमान	NN	O	O	O
-मुख्यालय	NN	O	O	O
-से	PSP	O	O	O
-सोमवार	NNP	B	O	O
-को	PSP	O	O	O
-चला	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-महिला	NN	O	O	O
-अधिकारियों	NN	O	O	O
-समेत	PSP	O	O	O
-कई	QF	O	O	O
-वायुसैनिकों	NN	O	O	O
-ने	PSP	O	O	O
-230	QC	O	O	O
-किमी	NN	O	O	O
-लंबे	JJ	O	O	O
-इस	DEM	O	O	O
-अभियान	NN	O	B-MISC	O
-में	PSP	O	O	O
-हिस्सा	NN	O	B-MISC	OCC
-लिया	VM	O	I-MISC	O
-.	SYM	O	O	O
-रक्षा	XC	O	O	O
-मंत्रालय	NN	O	O	O
-द्वारा	PSP	O	O	O
-जारी	JJ	O	O	O
-एक	QC	O	O	O
-विज्ञप्ति	NN	O	O	O
-में	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-गया	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इस	DEM	O	O	O
-अभियान	NN	O	O	O
-को	PSP	O	O	O
-दक्षिण	XC	O	O	O
-पश्चिमी	JJ	O	O	O
-वायु	NN	O	O	O
-कमान	NN	O	O	O
-के	PSP	O	O	O
-प्रमुख	JJ	O	O	O
-एयर	XC	O	O	O
-ऑफिसर	XC	O	O	O
-कमांडिंग-इन-चीफ	XC	O	O	O
-एयर	XC	O	O	O
-मार्शल	XC	O	O	O
-एस	NNP	O	O	O
-के	PSP	O	O	O
-घोटिया	NN	O	O	O
-ने	PSP	O	O	O
-हरी	JJ	O	O	O
-झंडी	NN	O	O	O
-दिखायी	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एयर	XC	O	O	O
-मार्शल	XC	O	O	O
-घोटिया	NNP	O	O	O
-ने	PSP	O	O	O
-बेहद	INTF	O	O	O
-कम	QF	O	O	O
-समय	NN	O	O	O
-में	PSP	O	O	O
-इतनी	QF	O	O	O
-दूरी	NN	O	B-MISC	OCC
-तय	JJ	O	I-MISC	O
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-अभियान	NN	O	O	O
-में	PSP	O	O	O
-शामिल	JJ	O	O	O
-वायु	NN	O	O	O
-सैनिकों	NN	O	O	O
-की	PSP	O	O	O
-प्रशंसा	NN	O	B-MISC	OCC
-की	PSP	O	I-MISC	O
-.	SYM	O	O	O
-‘‘	XC	O	O	O
-स्टैच्यू	XC	O	O	O
-ऑफ	XC	O	O	O
-यूनिटी	NNP	O	O	O
-’’	NN	O	O	O
-पर	PSP	O	O	O
-आयोजित	JJ	O	O	O
-कार्यक्रम	NN	O	O	O
-में	PSP	O	O	O
-अपने	PRP	O	O	O
-संबोधन	NN	O	O	O
-में	PSP	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-साइकिल	NN	O	B-MISC	O
-चलाना	VM	O	I-MISC	O
-पूरी	JJ	O	O	O
-तरह	NN	O	O	O
-से	PSP	O	O	O
-पर्यावरण	NN	O	O	O
-के	PSP	O	O	O
-अनुकूल	PSP	O	O	O
-है	VM	O	B-STAT	O
-और	CC	O	O	O
-जलवायु	XC	O	O	O
-परिवर्तन	NN	O	O	O
-के	PSP	O	O	O
-संदर्भ	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-प्रासंगिक	JJ	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
+भारतीय
+वायुसेना
+दिवस
+के
+अवसर
+पर
+वायुसेना
+की
+दक्षिण
+पश्चिमी
+कमान
+का
+एक
+दल
+साइकिल
+चलाकर
+मंगलवार
+को
+नर्मदा
+जिले
+में
+स्थित
+‘
+स्टैच्यू
+ऑफ
+यूनिटी
+’
+पहुंचा
+.
+वायुसेना
+के
+87
+वें
+स्थापना
+दिवस
+पर
+यह
+साइकिल
+अभियान
+गांधीनगर
+स्थित
+कमान
+मुख्यालय
+से
+सोमवार
+को
+चला
+था
+.
+महिला
+अधिकारियों
+समेत
+कई
+वायुसैनिकों
+ने
+230
+किमी
+लंबे
+इस
+अभियान
+में
+हिस्सा
+लिया
+.
+रक्षा
+मंत्रालय
+द्वारा
+जारी
+एक
+विज्ञप्ति
+में
+कहा
+गया
+कि
+इस
+अभियान
+को
+दक्षिण
+पश्चिमी
+वायु
+कमान
+के
+प्रमुख
+एयर
+ऑफिसर
+कमांडिंग-इन-चीफ
+एयर
+मार्शल
+एस
+के
+घोटिया
+ने
+हरी
+झंडी
+दिखायी
+थी
+.
+एयर
+मार्शल
+घोटिया
+ने
+बेहद
+कम
+समय
+में
+इतनी
+दूरी
+तय
+करने
+के
+लिए
+अभियान
+में
+शामिल
+वायु
+सैनिकों
+की
+प्रशंसा
+की
+.
+‘‘
+स्टैच्यू
+ऑफ
+यूनिटी
+’’
+पर
+आयोजित
+कार्यक्रम
+में
+अपने
+संबोधन
+में
+उन्होंने
+कहा
+कि
+साइकिल
+चलाना
+पूरी
+तरह
+से
+पर्यावरण
+के
+अनुकूल
+है
+और
+जलवायु
+परिवर्तन
+के
+संदर्भ
+में
+भी
+प्रासंगिक
+है
+.

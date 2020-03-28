@@ -1,77 +1,77 @@
-लंबे	JJ	O	O	O
-प्रारूप	NN	O	O	O
-में	PSP	O	O	O
-विश्व	XC	O	O	O
-बिलियर्ड्स	XC	O	O	O
-चैंपियन	XC	O	O	O
-सौरव	XC	O	O	O
-कोठारी	NNP	O	O	O
-ने	PSP	O	O	O
-गुरुवार	NN	B	O	O
-को	PSP	O	O	O
-यहां	PRP	O	O	O
-विश्व	XC	O	O	O
-चैम्पियनशिप	NNP	O	O	O
-के	PSP	O	O	O
-प्री-क्वार्टर	XC	O	O	O
-फाइनल	NNP	O	O	O
-में	PSP	O	O	O
-दिग्गज	XC	O	O	O
-पंकज	XC	O	O	O
-आडवाणी	NN	O	O	O
-को	PSP	O	O	O
-बड़े	NNP	O	O	O
-अंतर	NN	O	O	O
-से	PSP	O	O	O
-हराया	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-कोठारी	NN	O	O	O
-ने	PSP	O	O	O
-दमदार	JJ	O	O	O
-प्रदर्शन	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-407	QC	O	O	O
-,	SYM	O	O	O
-295	QC	O	O	O
-और	CC	O	O	O
-170	QC	O	O	O
-के	PSP	O	O	O
-बड़े	JJ	O	O	O
-ब्रेक	NN	O	B-MISC	O
-बनाये	VM	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-दो	QC	O	O	O
-घंटे	NN	O	O	O
-30	QC	O	O	O
-मिनट	NN	O	O	O
-तक	RP	O	O	O
-चले	VM	O	O	OCC
-मुकाबले	NN	O	O	O
-को	PSP	O	O	O
-1047	QC	O	O	O
--	SYM	O	O	O
-663	QC	O	O	O
-के	PSP	O	O	O
-बड़े	NNP	O	O	O
-अंतर	NN	O	O	O
-से	PSP	O	O	O
-अपने	PRP	O	O	O
-नाम	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-कोठारी	NN	O	O	O
-शुक्रवार	NN	O	O	O
-को	PSP	O	O	O
-क्वार्टर	XC	O	O	O
-फाइनल	NNP	O	O	O
-में	PSP	O	O	O
-इंग्लैंड	NNP	O	O	O
-के	PSP	O	O	O
-रोबर्ट	JJ	O	O	O
-हाल	NN	O	O	O
-का	PSP	O	O	O
-सामना	NN	O	B-MISC	OCC
-करेंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
+लंबे
+प्रारूप
+में
+विश्व
+बिलियर्ड्स
+चैंपियन
+सौरव
+कोठारी
+ने
+गुरुवार
+को
+यहां
+विश्व
+चैम्पियनशिप
+के
+प्री-क्वार्टर
+फाइनल
+में
+दिग्गज
+पंकज
+आडवाणी
+को
+बड़े
+अंतर
+से
+हराया
+.
+कोठारी
+ने
+दमदार
+प्रदर्शन
+करते
+हुए
+407
+,
+295
+और
+170
+के
+बड़े
+ब्रेक
+बनाये
+.
+उन्होंने
+दो
+घंटे
+30
+मिनट
+तक
+चले
+मुकाबले
+को
+1047
+-
+663
+के
+बड़े
+अंतर
+से
+अपने
+नाम
+किया
+.
+कोठारी
+शुक्रवार
+को
+क्वार्टर
+फाइनल
+में
+इंग्लैंड
+के
+रोबर्ट
+हाल
+का
+सामना
+करेंगे
+.

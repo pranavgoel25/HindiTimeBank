@@ -1,526 +1,526 @@
-जिन	DEM	O	O	O
-वीर	JJ	O	O	O
-तुर्कों	NN	O	O	O
-के	PSP	O	O	O
-प्रखर	XC	O	O	O
-प्रताप	NNP	O	O	O
-से	PSP	O	O	O
-ईसाई-दुनिया	NN	O	O	O
-कांप	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उन्हीं	PRP	O	O	O
-का	PSP	O	O	O
-रक्त	NN	O	O	O
-आज	NN	O	O	O
-कुस्तुन्तुनिया	NNP	O	O	O
-की	PSP	O	O	O
-गलियों	NN	O	O	O
-में	PSP	O	O	O
-बह	VM	O	B-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वही	DEM	O	O	O
-कुस्तुन्तुनिया	NN	O	O	O
-जो	PRP	O	O	O
-सौ	QC	B	O	O
-साल	NN	I	O	O
-पहले	NST	O	O	O
-तुर्कों	NN	O	O	O
-के	PSP	O	O	O
-आतंक	NN	O	O	O
-से	PSP	O	O	O
-आहत	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-आज	NN	O	O	O
-उनके	PRP	O	O	O
-गर्म	JJ	O	O	O
-रक्त	NN	O	O	O
-से	PSP	O	O	O
-अपना	PRP	O	O	O
-कलेजा	NN	O	O	O
-ठंडा	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-और	CC	O	O	O
-तुर्की	PRP	O	O	O
-सेनापति	NN	O	O	O
-एक	QC	O	O	O
-लाख	QC	O	O	O
-सिपाहियों	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-तैमूरी	JJ	O	O	O
-तेज	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	O	O
-अपनी	PRP	O	O	O
-किस्मत	NN	O	O	O
-का	PSP	O	O	O
-फैसला	NN	O	O	O
-सुनने	VM	O	B-MISC	O
-के	PSP	O	O	O
-लिये	PSP	O	O	O
-खड़ा	VM	O	B-STAT	OCC
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-तैमूर	NN	O	O	O
-ने	PSP	O	O	O
-विजय	NN	O	O	O
-से	PSP	O	O	O
-भरी	VM	O	O	OCC
-आंखें	NN	O	O	O
-उठाई	VM	O	B-MISC	O
-और	CC	O	O	O
-सेनापति	NN	O	O	O
-यजदानी	NN	O	O	O
-की	PSP	O	O	O
-ओर	PSP	O	O	O
-देख	VM	O	B-MISC	OCC
-कर	VAUX	O	I-MISC	O
-सिंह	NNP	O	O	O
-के	PSP	O	O	O
-समान	PSP:?	O	O	O
-गरजा-	NN	O	O	O
-क्या	WQ	O	O	O
-चाहते	VM	O	B-MISC	OCC
-हो	VAUX	O	I-MISC	O
-जिंदगी	NN	O	O	O
-या	CC	O	O	O
-मौत	NN	O	O	O
-?	SYM	O	O	O
-यजदानी	NN	O	O	O
-ने	PSP	O	O	O
-गर्व	NN	O	O	O
-से	PSP	O	O	O
-सिर	NN	O	O	O
-उठाकार	NN	O	O	O
-कहा-	JJ	O	O	O
-इज्जत	NN	O	O	O
-की	PSP	O	O	O
-जिंदगी	NN	O	O	O
-मिले	VM	O	B-MISC	OCC
-तो	CC	O	O	O
-जिंदगी	NN	O	O	O
-,	SYM	O	O	O
-वरना	CC	O	O	O
-मौत	NN	O	O	O
-.	SYM	O	O	O
-तैमूर	NN	O	O	O
-का	PSP	O	O	O
-क्रोध	NN	O	O	O
-प्रचंड	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-उठा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसने	NN	O	O	O
-बड़े-बड़े	JJ	O	O	O
-अभिमानियों	NN	O	O	O
-का	PSP	O	O	O
-सिर	NN	O	O	O
-नीचा	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-जबाब	NN	O	O	O
-इस	DEM	O	O	O
-अवसर	NN	O	O	O
-पर	PSP	O	O	O
-सुनने	VM	O	B-MISC	OCC
-की	PSP	O	O	O
-उसे	PRP	O	O	O
-ताव	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-इन	DEM	O	O	O
-एक	QC	O	O	O
-लाख	QC	O	O	O
-आदमियों	NN	O	O	O
-की	PSP	O	O	O
-जान	NN	O	O	O
-उसकी	PRP	O	O	O
-मुट्ठी	NN	O	O	O
-में	PSP	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-इन्हें	PRP	O	O	O
-वह	PRP	O	O	O
-एक	QC	O	O	O
-क्षण	NN	O	O	O
-में	PSP	O	O	O
-मसल	VM	O	B-MISC	OCC
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उस	DEM	O	O	O
-पर	PSP	O	O	O
-इतना	QF	O	O	O
-अभिमान	NN	O	O	O
-!	SYM	O	O	O
-इज्जत	NN	O	O	O
-की	PSP	O	O	O
-जिंदगी	NN	O	O	O
-!	SYM	O	O	O
-इसका	PRP	O	O	O
-यही	DEM	O	O	O
-तो	RP	O	O	O
-अर्थ	NN	O	O	O
-है	VM	O	O	O
-कि	CC	O	O	O
-गरीबों	NN	O	O	O
-का	PSP	O	O	O
-जीवन	NN	O	O	O
-अमीरों	NN	O	O	O
-के	PSP	O	O	O
-भोग-विलास	NN	O	O	O
-पर	PSP	O	O	O
-बलिदान	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जाय	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वही	PRP	O	O	O
-शराब	NN	O	O	O
-की	PSP	O	O	O
-मजलिसें	NN	O	O	O
-,	SYM	O	O	O
-वही	DEM	O	O	O
-अरमीनिया	NN	O	O	O
-और	CC	O	O	O
-काफ	NN	O	O	O
-की	PSP	O	O	O
-परियां	NN	O	B-MISC	O
-.	SYM	O	O	O
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-तैमूर	NN	O	O	O
-ने	PSP	O	O	O
-खलीफा	XC	O	O	O
-बायजीद	NNP	O	O	O
-का	PSP	O	O	O
-घमंड	NN	O	O	O
-इसलिये	PRP	O	O	O
-नहीं	NEG	O	B-MISC	O
-तोड़ा	NNP	O	I-MISC	O
-है	VM	O	I-MISC	O
-कि	CC	O	O	O
-तुर्कों	NN	B	O	O
-को	PSP	O	O	O
-फिर	RB	O	O	O
-उसी	DEM	O	O	O
-मदांध	JJ	O	O	O
-स्वाधीनता	NN	O	O	O
-में	PSP	O	O	O
-इस्लाम	NN	O	O	O
-का	PSP	O	O	O
-नाम	NN	O	O	O
-डुबाने	VM	O	O	O
-को	PSP	O	O	O
-छोड़	NNP	O	B-MISC	OCC
-दे	VM	O	I-MISC	O
-.	SYM	O	O	O
-तब	PRP	O	O	O
-उसे	PRP	O	O	O
-इतना	QF	O	O	O
-रक्त	NN	O	B-MISC	O
-बहाने	VM	O	I-MISC	O
-की	PSP	O	O	O
-क्या	WQ	O	O	O
-जरूरत	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-मानव-रक्त	NN	O	O	O
-का	PSP	O	O	O
-प्रवाह	NN	O	O	O
-संगीत	NN	O	O	O
-का	PSP	O	O	O
-प्रवाह	NN	O	O	OCC
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-रस	NN	O	O	O
-का	PSP	O	O	O
-प्रवाह	NN	O	O	O
-नहीं-	NN	O	O	O
-एक	QC	O	O	O
-बीभत्स	NN	O	O	O
-दृश्य	NN	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-जिसे	PRP	O	O	O
-देखकर	VM	O	B-MISC	O
-आंखें	NN	O	O	O
-मुंह	NN	O	B-MISC	O
-फेर	VM	O	I-MISC	OCC
-लेती	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-दृश्य	NN	O	O	O
-सिर	NN	O	O	O
-झुका	VM	O	B-MISC	OCC
-लेता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-तैमूर	NN	O	O	O
-हिंसक	JJ	O	O	O
-पशु	NN	O	O	O
-नहीं	NEG	O	B-STAT	O
-है	VM	O	I-STAT	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-यह	DEM	O	O	O
-दृश्य	NN	O	B-MISC	O
-देखने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिये	PSP	O	O	O
-अपने	PRP	O	O	O
-जीवन	NN	O	O	O
-की	PSP	O	O	O
-बाजी	NN	O	B-MISC	O
-लगा	VM	O	I-MISC	OCC
-दे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-अपने	PRP	O	O	O
-शब्दों	NN	O	O	O
-में	PSP	O	O	O
-धिक्कार	NN	O	B-MISC	O
-भरकर	VM	O	I-MISC	OCC
-बोला-	NN	O	O	O
-जिसे	PRP	O	O	O
-तुम	PRP	O	O	O
-इज्जत	NN	O	O	O
-की	PSP	O	O	O
-जिंदगी	NN	O	O	OCC
-कहते	VM	O	B-MISC	O
-हो	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-गुनाह	NN	O	O	O
-और	CC	O	O	O
-जहन्नुम	NN	O	O	O
-की	PSP	O	O	O
-जिंदगी	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-यजदानी	NN	O	O	O
-को	PSP	O	O	O
-तैमूर	NN	O	O	O
-से	PSP	O	O	O
-दया	NN	O	O	O
-या	CC	O	O	O
-क्षमा	NN	O	O	O
-की	PSP	O	O	O
-आशा	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-उसकी	PRP	O	O	O
-या	CC	O	O	O
-उसके	PRP	O	O	O
-योद्धाओं	NN	O	O	O
-की	PSP	O	O	O
-जान	NN	O	O	O
-किसी	PRP	O	O	O
-तरह	NN	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-बच	VM	O	I-MISC	O
-सकती	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फिर	RB	O	O	O
-यह	PRP	O	O	O
-क्यों	WQ	O	O	O
-दबे	VM	O	B-MISC	OCC
-और	CC	O	O	O
-क्यों	WQ	O	O	O
-न	NEG	O	O	O
-जान	VM	O	O	O
-पर	PSP	O	O	O
-खेलकर	VM	O	B-MISC	OCC
-तैमूर	NN	O	O	O
-के	PSP	O	O	O
-प्रति	PSP	O	O	O
-उसके	PRP	O	O	O
-मन	NN	O	O	O
-में	PSP	O	O	O
-जो	PRP	O	O	O
-घृणा	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-,	SYM	O	O	O
-उसे	PRP	O	O	O
-प्रकट	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसने	PRP	O	O	O
-एक	QC	O	O	O
-बार	RP	O	O	O
-कातर	JJ	O	O	O
-नेत्रों	NN	O	O	O
-से	PSP	O	O	O
-उस	DEM	O	O	O
-रूपवान	NN	O	O	O
-युवक	NN	O	O	O
-की	PSP	O	O	O
-ओर	PSP	O	O	O
-देखा	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-जो	PRP	O	O	O
-उसके	PRP	O	O	O
-पीछे	NST	O	O	O
-खड़ा	XC	O	O	O
-,	SYM	O	O	O
-जैसे	RDP	O	O	O
-अपनी	PRP	O	O	O
-जवानी	NN	O	O	O
-की	PSP	O	O	O
-लगाम	NN	O	O	O
-खींच	VM	O	B-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सान	NN	O	O	O
-पर	PSP	O	O	O
-चढ़े	JJ	O	B-STAT	O
-हुए	VM	O	I-STAT	O
-,	SYM	O	O	O
-इस्पात	NN	O	O	O
-के	PSP	O	O	O
-समान	PSP:?	O	O	O
-उसके	PRP	O	O	O
-अंग-अंग	XC	O	O	O
-से	PSP	O	O	O
-अतुल	JJ	O	O	O
-क्रोध	NN	O	O	O
-की	PSP	O	O	O
-चिनगारियां	NN	O	O	O
-निकल	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-थीं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यजदानी	NN	O	O	O
-ने	PSP	O	O	O
-उसकी	PRP	O	O	O
-सूरत	NN	O	B-MISC	OCC
-देखी	VM	O	I-MISC	O
-और	CC	O	O	O
-जैसे	PRP	O	O	O
-अपनी	PRP	O	O	O
-खींची	NN	O	B-MISC	O
-हुई	VM	O	I-MISC	O
-तलवार	NN	O	O	O
-म्यान	NN	O	O	O
-में	PSP	O	O	O
-कर	VM	O	B-MISC	OCC
-ली	VAUX	O	I-MISC	O
-और	CC	O	O	O
-खून	NN	O	O	O
-के	PSP	O	O	O
-घूंट	NN	O	O	O
-पीकर	VM	O	O	O
-बोला-	JJ	O	O	O
-जहांपनाह	NN	O	O	O
-इस	DEM	O	O	O
-वक्त	NN	O	O	O
-फतहमंद	NN	O	O	O
-हैं	VM	O	O	O
-लेकिन	CC	O	O	O
-अपराध	NN	O	O	O
-क्षमा	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-तो	CC	O	O	O
-कह	VM	O	B-MISC	O
-दूं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-अपने	PRP	O	O	O
-जीवन	NN	O	O	O
-के	PSP	O	O	O
-विषय	NN	O	O	O
-में	PSP	O	O	O
-तुर्कों	NN	O	O	O
-को	PSP	O	O	O
-तातारियों	NN	O	O	O
-से	PSP	O	O	O
-उपदेश	NN	O	B-MISC	O
-लेने	VM	O	I-MISC	O
-की	PSP	O	O	O
-जरूरत	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-.	SYM	O	O	O
-दुनिया	NN	O	O	O
-से	PSP	O	O	O
-अलग	JJ	O	O	O
-,	SYM	O	O	O
-तातार	NN	O	O	O
-के	PSP	O	O	O
-ऊसर	NN	O	O	O
-मैदानों	NN	O	O	O
-में	PSP	O	O	O
-न	NEG	O	O	O
-त्याग	NN	O	O	O
-और	CC	O	O	O
-व्रत	NN	O	O	O
-की	PSP	O	O	O
-उपासना	NN	O	B-MISC	OCC
-की	PSP	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-न	NEG	O	O	OCC
-मयस्सर	NN	O	O	O
-होने	VM	O	B-STAT	O
-वाले	PSP	O	I-STAT	O
-पदार्थों	NN	O	O	O
-का	PSP	O	O	O
-बहिष्कार	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-जहां	PRP	O	O	O
-खुदा	NN	O	O	O
-ने	PSP	O	O	O
-नेमतों	NN	O	O	O
-की	PSP	O	O	O
-वर्षा	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वहां	PRP	O	O	O
-उन	DEM	O	O	O
-नेमतों	NN	O	O	O
-का	PSP	O	O	O
-भोग	NN	O	O	OCC
-न	NEG	O	B-MISC	O
-करना	VM	O	I-MISC	O
-नाशुक्री	NN	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-तलवार	NN	O	O	O
-ही	RP	O	O	O
-सभ्यता	NN	O	O	O
-की	PSP	O	O	O
-सनद	NN	O	O	O
-होती	VM	O	O	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-गाल	NN	O	O	O
-कौम	NN	O	O	O
-रोमनों	NN	O	O	O
-से	PSP	O	O	O
-कहीं	PRP	O	O	O
-ज्यादा	QF	O	O	O
-सभ्य	JJ	O	B-MISC	OCC
-होती	VM	O	I-MISC	O
-.	SYM	O	O	O
+जिन
+वीर
+तुर्कों
+के
+प्रखर
+प्रताप
+से
+ईसाई-दुनिया
+कांप
+रही
+थी
+,
+उन्हीं
+का
+रक्त
+आज
+कुस्तुन्तुनिया
+की
+गलियों
+में
+बह
+रहा
+है
+.
+वही
+कुस्तुन्तुनिया
+जो
+सौ
+साल
+पहले
+तुर्कों
+के
+आतंक
+से
+आहत
+हो
+रहा
+था
+,
+आज
+उनके
+गर्म
+रक्त
+से
+अपना
+कलेजा
+ठंडा
+कर
+रहा
+है
+.
+और
+तुर्की
+सेनापति
+एक
+लाख
+सिपाहियों
+के
+साथ
+तैमूरी
+तेज
+के
+सामने
+अपनी
+किस्मत
+का
+फैसला
+सुनने
+के
+लिये
+खड़ा
+है
+.
+तैमूर
+ने
+विजय
+से
+भरी
+आंखें
+उठाई
+और
+सेनापति
+यजदानी
+की
+ओर
+देख
+कर
+सिंह
+के
+समान
+गरजा-
+क्या
+चाहते
+हो
+जिंदगी
+या
+मौत
+?
+यजदानी
+ने
+गर्व
+से
+सिर
+उठाकार
+कहा-
+इज्जत
+की
+जिंदगी
+मिले
+तो
+जिंदगी
+,
+वरना
+मौत
+.
+तैमूर
+का
+क्रोध
+प्रचंड
+हो
+उठा
+.
+उसने
+बड़े-बड़े
+अभिमानियों
+का
+सिर
+नीचा
+कर
+दिया
+था
+.
+यह
+जबाब
+इस
+अवसर
+पर
+सुनने
+की
+उसे
+ताव
+न
+थी
+.
+इन
+एक
+लाख
+आदमियों
+की
+जान
+उसकी
+मुट्ठी
+में
+है
+.
+इन्हें
+वह
+एक
+क्षण
+में
+मसल
+सकता
+है
+.
+उस
+पर
+इतना
+अभिमान
+!
+इज्जत
+की
+जिंदगी
+!
+इसका
+यही
+तो
+अर्थ
+है
+कि
+गरीबों
+का
+जीवन
+अमीरों
+के
+भोग-विलास
+पर
+बलिदान
+किया
+जाय
+,
+वही
+शराब
+की
+मजलिसें
+,
+वही
+अरमीनिया
+और
+काफ
+की
+परियां
+.
+नहीं
+,
+तैमूर
+ने
+खलीफा
+बायजीद
+का
+घमंड
+इसलिये
+नहीं
+तोड़ा
+है
+कि
+तुर्कों
+को
+फिर
+उसी
+मदांध
+स्वाधीनता
+में
+इस्लाम
+का
+नाम
+डुबाने
+को
+छोड़
+दे
+.
+तब
+उसे
+इतना
+रक्त
+बहाने
+की
+क्या
+जरूरत
+थी
+.
+मानव-रक्त
+का
+प्रवाह
+संगीत
+का
+प्रवाह
+नहीं
+,
+रस
+का
+प्रवाह
+नहीं-
+एक
+बीभत्स
+दृश्य
+है
+,
+जिसे
+देखकर
+आंखें
+मुंह
+फेर
+लेती
+हैं
+दृश्य
+सिर
+झुका
+लेता
+है
+.
+तैमूर
+हिंसक
+पशु
+नहीं
+है
+,
+जो
+यह
+दृश्य
+देखने
+के
+लिये
+अपने
+जीवन
+की
+बाजी
+लगा
+दे
+.
+वह
+अपने
+शब्दों
+में
+धिक्कार
+भरकर
+बोला-
+जिसे
+तुम
+इज्जत
+की
+जिंदगी
+कहते
+हो
+,
+वह
+गुनाह
+और
+जहन्नुम
+की
+जिंदगी
+है
+.
+यजदानी
+को
+तैमूर
+से
+दया
+या
+क्षमा
+की
+आशा
+न
+थी
+.
+उसकी
+या
+उसके
+योद्धाओं
+की
+जान
+किसी
+तरह
+नहीं
+बच
+सकती
+.
+फिर
+यह
+क्यों
+दबे
+और
+क्यों
+न
+जान
+पर
+खेलकर
+तैमूर
+के
+प्रति
+उसके
+मन
+में
+जो
+घृणा
+है
+,
+उसे
+प्रकट
+कर
+दे
+.
+उसने
+एक
+बार
+कातर
+नेत्रों
+से
+उस
+रूपवान
+युवक
+की
+ओर
+देखा
+,
+जो
+उसके
+पीछे
+खड़ा
+,
+जैसे
+अपनी
+जवानी
+की
+लगाम
+खींच
+रहा
+था
+.
+सान
+पर
+चढ़े
+हुए
+,
+इस्पात
+के
+समान
+उसके
+अंग-अंग
+से
+अतुल
+क्रोध
+की
+चिनगारियां
+निकल
+रही
+थीं
+.
+यजदानी
+ने
+उसकी
+सूरत
+देखी
+और
+जैसे
+अपनी
+खींची
+हुई
+तलवार
+म्यान
+में
+कर
+ली
+और
+खून
+के
+घूंट
+पीकर
+बोला-
+जहांपनाह
+इस
+वक्त
+फतहमंद
+हैं
+लेकिन
+अपराध
+क्षमा
+हो
+तो
+कह
+दूं
+कि
+अपने
+जीवन
+के
+विषय
+में
+तुर्कों
+को
+तातारियों
+से
+उपदेश
+लेने
+की
+जरूरत
+नहीं
+.
+दुनिया
+से
+अलग
+,
+तातार
+के
+ऊसर
+मैदानों
+में
+न
+त्याग
+और
+व्रत
+की
+उपासना
+की
+जा
+सकती
+है
+और
+न
+मयस्सर
+होने
+वाले
+पदार्थों
+का
+बहिष्कार
+किया
+जा
+सकता
+है
+;
+पर
+जहां
+खुदा
+ने
+नेमतों
+की
+वर्षा
+की
+हो
+,
+वहां
+उन
+नेमतों
+का
+भोग
+न
+करना
+नाशुक्री
+है
+.
+अगर
+तलवार
+ही
+सभ्यता
+की
+सनद
+होती
+,
+तो
+गाल
+कौम
+रोमनों
+से
+कहीं
+ज्यादा
+सभ्य
+होती
+.

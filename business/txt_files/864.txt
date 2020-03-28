@@ -1,219 +1,219 @@
-कारोबारी	JJ	O	O	O
-सत्र	NN	O	O	O
-के	PSP	O	O	O
-आखिरी	JJ	O	O	O
-दिन	NN	O	O	O
-शुक्रवार	NN	O	O	O
-को	PSP	O	O	O
-शेयर	XC	O	O	O
-बाजार	NNP	O	O	O
-गिरावट	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-बंद	JJ	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-.	SYM	O	O	O
-बैंकिंग	XC	O	O	O
-शेयरों	NN	O	O	O
-में	PSP	O	O	O
-भारी	JJ	O	O	O
-बिकवाली	NN	O	O	O
-से	PSP	O	O	O
-बीएसई	NNP	O	O	O
-के	PSP	O	O	O
-30	QC	O	O	O
-कंपनियों	NN	O	O	O
-के	PSP	O	O	O
-शेयरों	NN	O	O	O
-पर	PSP	O	O	O
-आधारित	JJ	O	O	O
-संवेदी	JJ	O	O	O
-सूचकांक	NN	O	O	O
-सेंसेक्स	NN	O	O	O
-433.56	QC	O	O	O
-अंक	NN	O	O	O
-(	SYM	O	O	O
-1.14	QC	O	O	O
-%	SYM	O	O	O
-)	SYM	O	O	O
-लुढ़ककर	NN	O	O	O
-37,673.31	QC	O	O	O
-पर	PSP	O	O	O
-बंद	JJ	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-,	SYM	O	O	O
-नैशनल	XC	O	O	O
-स्टॉक	XC	O	O	O
-एक्सचेंज	NNP	O	O	O
-(	SYM	O	O	O
-एनएसई	NNP	O	O	O
-)	SYM	O	O	O
-के	PSP	O	O	O
-50	QC	O	O	O
-कंपनियों	NN	O	O	O
-के	PSP	O	O	O
-शेयरों	NN	O	O	O
-पर	PSP	O	O	O
-आधारित	JJ	O	O	O
-संवेदी	JJ	O	O	O
-सूचकांक	NN	O	O	O
-निफ्टी	NN	O	O	O
-139.25	QC	O	O	O
-अंक	NN	O	O	O
-(	SYM	O	O	O
-1.23	QC	O	O	O
-%	SYM	O	O	O
-)	SYM	O	O	O
-टूटकर	NN	O	O	O
-11,174.75	QC	O	O	O
-पर	PSP	O	O	O
-बंद	JJ	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-.	SYM	O	O	O
-दिनभर	NN	O	O	O
-के	PSP	O	O	O
-कारोबार	NN	O	O	O
-में	PSP	O	O	O
-सेंसेक्स	NN	O	O	O
-ने	PSP	O	O	O
-38,403.54	QC	O	O	O
-का	PSP	O	O	O
-ऊपरी	JJ	O	O	O
-स्तर	NN	O	O	O
-तथा	CC	O	O	O
-37,633.36	QC	O	O	O
-का	PSP	O	O	O
-निचला	JJ	O	O	O
-स्तर	NN	O	O	O
-छुआ	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-जबकि	CC	O	O	O
-निफ्टी	NN	O	O	O
-ने	PSP	O	O	O
-11,400.30	QC	O	O	O
-का	PSP	O	O	O
-उच्च	JJ	O	O	O
-स्तर	NN	O	O	O
-तथा	CC	O	O	O
-1,158.35	QC	O	O	O
-का	PSP	O	O	O
-निम्न	JJ	O	O	O
-स्तर	NN	O	B-MISC	OCC
-छुआ	VM	O	I-MISC	O
-.	SYM	O	O	O
-बीएसई	NNP	O	O	O
-पर	PSP	O	O	O
-10	QC	O	O	O
-कंपनियों	NN	O	O	O
-के	PSP	O	O	O
-शेयर	NN	O	O	O
-हरे	JJ	O	O	O
-निशान	NN	O	O	O
-पर	PSP	O	O	O
-तो	RP	O	O	O
-20	QC	O	O	O
-कंपनियों	NN	O	O	O
-के	PSP	O	O	O
-शेयर	NN	O	O	O
-लाल	JJ	O	O	O
-निशान	NN	O	O	O
-पर	PSP	O	O	O
-बंद	JJ	O	B-STAT	DECL
-हुए	VM	O	I-STAT	O
-.	SYM	O	O	O
-एनएसई	NNP	O	O	O
-पर	PSP	O	O	O
-11	QC	O	O	O
-कंपनियों	NN	O	O	O
-के	PSP	O	O	O
-शेयरों	NN	O	O	O
-में	PSP	O	O	O
-लिवाली	NN	O	O	O
-तथा	CC	O	O	O
-39	QC	O	O	O
-कंपनियों	NN	O	O	O
-के	PSP	O	O	O
-शेयरों	NN	O	O	O
-में	PSP	O	O	O
-बिकवाली	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बीएसई	NNP	O	O	O
-पर	PSP	O	O	O
-टीसीएस	NN	O	O	O
-के	PSP	O	O	O
-शेयर	NN	O	O	O
-में	PSP	O	O	O
-सर्वाधिक	JJ	O	O	O
-1.03	QC	O	O	O
-फीसदी	NN	O	O	O
-,	SYM	O	O	O
-इन्फोसिस	NN	O	O	O
-में	PSP	O	O	O
-0.99	QC	O	O	O
-फीसदी	NN	O	O	O
-,	SYM	O	O	O
-टेक	XC	O	O	O
-महिंद्रा	NNP	O	O	O
-में	PSP	O	O	O
-0.84	QC	O	O	O
-फीसदी	NN	O	O	O
-,	SYM	O	O	O
-ओएनजीसी	NN	O	O	O
-में	PSP	O	O	O
-0.82	QC	O	O	O
-फीसदी	NN	O	O	O
-तथा	CC	O	O	O
-एनटीपीसी	NN	O	O	O
-के	PSP	O	O	O
-शेयर	NN	O	O	O
-में	PSP	O	O	O
-0.60	QC	O	O	O
-फीसदी	NN	O	O	O
-की	PSP	O	O	O
-मजबूती	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एनएसई	NNP	O	O	O
-पर	PSP	O	O	O
-ओएनजीसी	NN	O	O	O
-के	PSP	O	O	O
-शेयर	NN	O	O	O
-में	PSP	O	O	O
-सर्वाधिक	JJ	O	O	O
-0.98	QC	O	O	O
-फीसदी	NN	O	O	O
-,	SYM	O	O	O
-विप्रो	NN	O	O	O
-में	PSP	O	O	O
-0.93	QC	O	O	O
-फीसदी	NN	O	O	O
-,	SYM	O	O	O
-टीसीएस	NN	O	O	O
-में	PSP	O	O	O
-0.86	QC	O	O	O
-फीसदी	NN	O	O	O
-,	SYM	O	O	O
-इन्फोसिस	NN	O	O	O
-में	PSP	O	O	O
-0.85	QC	O	O	O
-फीसदी	NN	O	O	O
-तथा	CC	O	O	O
-टेक	XC	O	O	O
-महिंद्रा	NNP	O	O	O
-के	PSP	O	O	O
-शेयर	NN	O	O	O
-में	PSP	O	O	O
-0.70	QC	O	O	O
-फीसदी	NN	O	O	O
-की	PSP	O	O	O
-तेजी	RB	O	B-MISC	O
-देखी	VM	O	I-MISC	OCC
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+कारोबारी
+सत्र
+के
+आखिरी
+दिन
+शुक्रवार
+को
+शेयर
+बाजार
+गिरावट
+के
+साथ
+बंद
+हुआ
+.
+बैंकिंग
+शेयरों
+में
+भारी
+बिकवाली
+से
+बीएसई
+के
+30
+कंपनियों
+के
+शेयरों
+पर
+आधारित
+संवेदी
+सूचकांक
+सेंसेक्स
+433.56
+अंक
+(
+1.14
+%
+)
+लुढ़ककर
+37,673.31
+पर
+बंद
+हुआ
+.
+वहीं
+,
+नैशनल
+स्टॉक
+एक्सचेंज
+(
+एनएसई
+)
+के
+50
+कंपनियों
+के
+शेयरों
+पर
+आधारित
+संवेदी
+सूचकांक
+निफ्टी
+139.25
+अंक
+(
+1.23
+%
+)
+टूटकर
+11,174.75
+पर
+बंद
+हुआ
+.
+दिनभर
+के
+कारोबार
+में
+सेंसेक्स
+ने
+38,403.54
+का
+ऊपरी
+स्तर
+तथा
+37,633.36
+का
+निचला
+स्तर
+छुआ
+,
+जबकि
+निफ्टी
+ने
+11,400.30
+का
+उच्च
+स्तर
+तथा
+1,158.35
+का
+निम्न
+स्तर
+छुआ
+.
+बीएसई
+पर
+10
+कंपनियों
+के
+शेयर
+हरे
+निशान
+पर
+तो
+20
+कंपनियों
+के
+शेयर
+लाल
+निशान
+पर
+बंद
+हुए
+.
+एनएसई
+पर
+11
+कंपनियों
+के
+शेयरों
+में
+लिवाली
+तथा
+39
+कंपनियों
+के
+शेयरों
+में
+बिकवाली
+दर्ज
+की
+गई
+.
+बीएसई
+पर
+टीसीएस
+के
+शेयर
+में
+सर्वाधिक
+1.03
+फीसदी
+,
+इन्फोसिस
+में
+0.99
+फीसदी
+,
+टेक
+महिंद्रा
+में
+0.84
+फीसदी
+,
+ओएनजीसी
+में
+0.82
+फीसदी
+तथा
+एनटीपीसी
+के
+शेयर
+में
+0.60
+फीसदी
+की
+मजबूती
+दर्ज
+की
+गई
+.
+एनएसई
+पर
+ओएनजीसी
+के
+शेयर
+में
+सर्वाधिक
+0.98
+फीसदी
+,
+विप्रो
+में
+0.93
+फीसदी
+,
+टीसीएस
+में
+0.86
+फीसदी
+,
+इन्फोसिस
+में
+0.85
+फीसदी
+तथा
+टेक
+महिंद्रा
+के
+शेयर
+में
+0.70
+फीसदी
+की
+तेजी
+देखी
+गई
+.

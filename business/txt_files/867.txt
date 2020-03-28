@@ -1,169 +1,169 @@
-पिछले	JJ	B	O	O
-कुछ	QF	I	O	O
-दिनों	NN	I	O	O
-में	PSP	O	O	O
-जौहरियों	NN	O	O	O
-के	PSP	O	O	O
-यहां	PRP	O	O	O
-ग्राहक	NN	O	B-MISC	O
-बढ़ने	VM	O	I-MISC	OCC
-के	PSP	O	O	O
-बावजूद	PSP:?	O	O	O
-इस	DEM	O	O	O
-साल	NN	O	O	O
-नवरात्र-दशहरा	NN	O	O	O
-पर	PSP	O	O	O
-गोल्ड	NN	O	O	O
-की	PSP	O	O	O
-फिजिकल	JJ	O	O	O
-डिमांड	NN	O	O	O
-15	QC	O	O	O
--	SYM	O	O	O
-30	QC	O	O	O
-पर्सेंट	NN	O	O	O
-कम	QF	O	O	O
-रह	VM	O	B-MISC	OCC
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-इस	DEM	O	O	O
-फेस्टिव	NN	O	O	O
-सीजन	NN	O	O	O
-में	PSP	O	O	O
-निवेशकों	NN	O	O	O
-की	PSP	O	O	O
-दिलचस्पी	NN	O	O	O
-पेपर	JJ	O	O	O
-गोल्ड	NN	O	O	O
-में	PSP	O	O	O
-रह	VM	O	B-MISC	OCC
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-गोल्ड	XC	O	O	O
-ट्रेडर्स	NN	O	O	O
-और	CC	O	O	O
-ऐनालिस्टों	NN	O	O	O
-के	PSP	O	O	O
-मुताबिक	JJ	O	O	O
-,	SYM	O	O	O
-इस	DEM	O	O	O
-साल	NN	O	O	O
-बाजार	NN	O	O	O
-में	PSP	O	O	O
-आने	VM	O	B-STAT	DES
-वाले	PSP	O	I-STAT	O
-सॉवरेन	XC	O	O	O
-गोल्ड	XC	O	O	O
-बॉन्ड	NNP	O	O	O
-की	PSP	O	O	O
-भारी	JJ	O	O	O
-मांग	NN	O	B-MISC	OCC
-दिखेगी	VM	O	I-MISC	O
-क्योंकि	CC	O	O	O
-पिछले	JJ	O	O	O
-कुछ	QF	O	O	O
-सालों	NN	O	O	O
-में	PSP	O	O	O
-इनसे	PRP	O	O	O
-अच्छा	JJ	O	O	O
-रिटर्न	NN	O	B-MISC	OCC
-मिला	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-29	QC	B	O	O
-सितंबर	NNP	I	O	O
-से	PSP	O	O	O
-शुरू	NN	O	B-STAT	O
-हुए	VM	O	I-STAT	O
-नवरात्र	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-भी	RP	O	O	O
-गोल्ड	NN	O	O	O
-की	PSP	O	O	O
-मांग	NN	O	O	O
-में	PSP	O	O	O
-खास	JJ	O	O	O
-बढ़ोतरी	NN	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बाजार	NN	O	O	O
-में	PSP	O	O	O
-गोल्ड	XC	O	O	O
-अभी	PRP	O	O	O
-भी	RP	O	O	O
-डिस्काउंट	NN	O	B-MISC	O
-पर	PSP	O	I-MISC	O
-मिल	VM	O	I-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बुलियन	JJ	O	O	O
-ट्रेडर्स	NN	O	O	O
-30	QC	O	O	O
-डॉलर	NN	O	O	O
-प्रति	PSP	O	O	O
-ट्रॉय	XC	O	O	O
-औंस	NN	O	O	O
-की	PSP	O	O	O
-छूट	NN	O	O	O
-पर	PSP	O	O	O
-गोल्ड	NN	O	O	O
-बेच	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मुंबई	NNP	O	O	O
-के	PSP	O	O	O
-ऋद्धिसिद्धि	XC	O	O	O
-बुलियन	NNP	O	O	O
-के	PSP	O	O	O
-डायरेक्टर	XC	O	O	O
-मुकेश	XC	O	O	O
-कोठारी	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-इस	DEM	O	O	O
-हफ्ते	NN	O	O	O
-डिस्काउंट	XC	O	O	O
-55	QC	O	O	O
-डॉलर	NN	O	O	O
-प्रति	PSP	O	O	O
-औंस	NN	O	O	O
-से	PSP	O	O	O
-घटकर	VM	O	O	O
-30	QC	O	O	O
-डॉलर	NN	O	O	O
-हो	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इससे	PRP	O	O	O
-मांग	NN	O	O	O
-में	PSP	O	O	O
-कुछ	QF	O	O	O
-बढ़ोतरी	NN	O	O	O
-का	PSP	O	O	O
-संकेत	NN	O	B-MISC	OCC
-मिला	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-यह	PRP	O	O	O
-इतनी	INTF	O	O	O
-नहीं	NEG	O	B-STAT	OCC
-है	VM	O	I-STAT	O
-कि	CC	O	O	O
-पूरा	JJ	O	O	O
-डिस्काउंट	NN	O	O	O
-खत्म	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
+पिछले
+कुछ
+दिनों
+में
+जौहरियों
+के
+यहां
+ग्राहक
+बढ़ने
+के
+बावजूद
+इस
+साल
+नवरात्र-दशहरा
+पर
+गोल्ड
+की
+फिजिकल
+डिमांड
+15
+-
+30
+पर्सेंट
+कम
+रह
+सकती
+है
+.
+हालांकि
+,
+इस
+फेस्टिव
+सीजन
+में
+निवेशकों
+की
+दिलचस्पी
+पेपर
+गोल्ड
+में
+रह
+सकती
+है
+.
+गोल्ड
+ट्रेडर्स
+और
+ऐनालिस्टों
+के
+मुताबिक
+,
+इस
+साल
+बाजार
+में
+आने
+वाले
+सॉवरेन
+गोल्ड
+बॉन्ड
+की
+भारी
+मांग
+दिखेगी
+क्योंकि
+पिछले
+कुछ
+सालों
+में
+इनसे
+अच्छा
+रिटर्न
+मिला
+है
+.
+29
+सितंबर
+से
+शुरू
+हुए
+नवरात्र
+के
+बाद
+भी
+गोल्ड
+की
+मांग
+में
+खास
+बढ़ोतरी
+नहीं
+हुई
+है
+.
+बाजार
+में
+गोल्ड
+अभी
+भी
+डिस्काउंट
+पर
+मिल
+रहा
+है
+.
+बुलियन
+ट्रेडर्स
+30
+डॉलर
+प्रति
+ट्रॉय
+औंस
+की
+छूट
+पर
+गोल्ड
+बेच
+रहे
+हैं
+.
+मुंबई
+के
+ऋद्धिसिद्धि
+बुलियन
+के
+डायरेक्टर
+मुकेश
+कोठारी
+ने
+कहा
+,
+'
+इस
+हफ्ते
+डिस्काउंट
+55
+डॉलर
+प्रति
+औंस
+से
+घटकर
+30
+डॉलर
+हो
+गया
+है
+.
+इससे
+मांग
+में
+कुछ
+बढ़ोतरी
+का
+संकेत
+मिला
+है
+,
+लेकिन
+यह
+इतनी
+नहीं
+है
+कि
+पूरा
+डिस्काउंट
+खत्म
+हो
+.
+'

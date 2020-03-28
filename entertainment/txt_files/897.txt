@@ -1,322 +1,322 @@
-अभिनेता	NN	O	O	O
-टाइगर	XC	O	O	O
-श्रॉफ	NN	O	O	O
-का	PSP	O	O	O
-कहना	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-एक्शन	XC	O	O	O
-हीरो	NN	O	O	O
-कहलाना	VM	O	O	O
-एक	QC	O	O	O
-वरदान	NN	O	O	O
-की	PSP	O	O	O
-तरह	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-और	CC	O	O	O
-यह	PRP	O	O	O
-उनके	PRP	O	O	O
-लिए	PSP	O	O	O
-रूढ़िवादिता	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-है	VM	O	I-MISC	O
-.	SYM	O	O	O
-उनका	PRP	O	O	O
-यह	PRP	O	O	O
-भी	RP	O	O	O
-मानना	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-उनकी	PRP	O	O	O
-शैली	NN	O	O	O
-ने	PSP	O	O	O
-उन्हें	PRP	O	O	O
-पहचान	NN	O	B-MISC	OCC
-दी	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-‘‘	NN	O	O	O
-बागी	JJ	O	O	O
-’’	NN	O	O	O
-फिल्म	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	O
-चर्चा	NN	O	O	O
-में	PSP	O	O	O
-आए	VM	O	B-MISC	OCC
-श्रॉफ	NN	O	O	O
-आगामी	JJ	O	O	O
-फिल्म	NN	O	O	O
-‘‘	JJ	O	O	O
-वार	NN	O	O	O
-’’	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-और	CC	O	O	O
-एक्शन	XC	O	O	O
-हीरो	NN	O	O	O
-रितिक	JJ	O	O	O
-रोशन	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-काम	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘‘	JJ	O	O	O
-तथ्य	NN	O	O	O
-यह	PRP	O	O	O
-है	VM	O	B-STAT	O
-कि	CC	O	O	O
-लोग	NN	O	O	O
-मुझे	PRP	O	O	O
-एक्शन	XC	O	O	O
-हीरो	NN	O	O	O
-कहते	VM	O	B-MISC	O
-हैं	VAUX	O	I-MISC	O
-जो	PRP	O	O	O
-उन्हें	PRP	O	O	O
-अच्छा	JJ	O	B-MISC	OCC
-लगता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-उपाधि	NN	O	O	O
-...	NN	O	O	O
-ऐसा	DEM	O	O	O
-वरदान	NN	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-इतनी	QF	O	O	O
-प्रतिस्पर्धा	NN	O	B-MISC	O
-है	VM	O	I-MISC	O
-कि	CC	O	O	O
-ऐसे	PRP	O	O	O
-में	PSP	O	O	O
-कोई	PRP	O	O	O
-कैसे	WQ	O	O	O
-खड़ा	VM	O	B-MISC	OCC
-हो	VAUX	O	I-MISC	O
-पाता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-आप	PRP	O	O	O
-लोगों	NN	O	O	O
-से	PSP	O	O	O
-खुद	PRP	O	O	O
-को	PSP	O	O	O
-अलग	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-क्या	WQ	O	O	OCC
-करते	VM	O	B-MISC	O
-हैं	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-’’	XC	O	O	O
-श्रॉफ	NN	O	O	O
-ने	PSP	O	O	O
-पीटीआई	NN	O	O	O
-भाषा	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-टेलीफोन	NN	O	O	O
-पर	PSP	O	O	O
-हुयी	VM	O	O	O
-बातचीत	NN	O	O	O
-में	PSP	O	O	O
-कहा	VM	O	B-MISC	O
-,	SYM	O	O	O
-‘‘	NN	O	O	O
-आपको	PRP	O	O	O
-एक	QC	O	O	O
-पहचान	NN	O	O	O
-की	PSP	O	O	O
-जरूरत	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-हम	PRP	O	O	O
-सभी	QF	O	O	O
-अभिनेता	NN	O	O	OCC
-अपने	PRP	O	O	O
-लिए	PSP	O	O	O
-वह	PRP	O	O	O
-जगह	NN	O	O	O
-और	CC	O	O	O
-पहचान	NN	O	O	O
-बनाने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-कठोर	JJ	O	O	O
-मेहनत	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’’	XC	O	O	O
-सिद्धार्थ	XC	O	O	O
-आनंद	NNP	O	O	O
-द्वारा	PSP	O	O	O
-निर्देशित	JJ	O	O	O
-‘‘	NN	O	O	O
-वार	NN	O	O	O
-एक	QC	O	O	O
-भारतीय	JJ	O	O	O
-सैनिक	XC	O	O	O
-खालिद	NN	O	O	O
-(	SYM	O	O	O
-टाइगर	NN	O	O	O
-)	SYM	O	O	O
-की	PSP	O	O	O
-कहानी	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-जिसे	PRP	O	O	O
-एक	QC	O	O	O
-वरिष्ठ	JJ	O	O	O
-एजेंट	NN	O	O	O
-और	CC	O	O	O
-उसके	PRP	O	O	O
-संरक्षक	JJ	O	O	O
-कबीर	NN	O	O	O
-(	SYM	O	O	O
-रितिक	NN	O	O	O
-)	SYM	O	O	O
-को	PSP	O	O	O
-खत्म	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-का	PSP	O	O	O
-काम	NN	O	O	O
-सौंपा	VM	O	B-MISC	OCC
-जाता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सिद्धार्थ	NN	O	O	O
-ने	PSP	O	O	O
-इससे	PRP	O	O	O
-पहले	NST	O	O	O
-एक	QC	O	O	O
-साक्षात्कार	NN	O	O	O
-में	PSP	O	O	O
-पीटीआई	NN	O	O	O
-से	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-था	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-अगर	CC	O	O	O
-टाइगर	NN	O	O	O
-तैयार	JJ	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-होते	VM	O	I-MISC	O
-तो	CC	O	O	O
-वह	PRP	O	O	O
-इस	DEM	O	O	O
-फिल्म	NN	O	O	O
-को	PSP	O	O	O
-छोड़	XC	O	B-MISC	OCC
-देते	NNP	O	I-MISC	O
-.	SYM	O	O	O
-29	QC	O	O	O
-वर्षीय	JJ	O	O	O
-अभिनेता	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-यह	DEM	O	O	O
-निर्देशक	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-बहुत	QF	O	O	O
-बड़ी	JJ	O	O	O
-प्रशंसा	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-श्रॉफ	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘‘	NN	O	O	O
-उन्होंने	PRP	O	O	O
-फिल्म	NN	O	O	O
-में	PSP	O	O	O
-हर	QF	O	O	O
-पहलू	NN	O	O	O
-से	PSP	O	O	O
-मेरी	PRP	O	O	O
-मदद	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-वह	PRP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-होते	VM	O	I-MISC	O
-तो	CC	O	O	O
-मैं	PRP	O	O	O
-रितिक	JJ	O	O	O
-सर	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	O	O
-खड़ा	VM	O	B-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-हो	VM	O	I-MISC	O
-पाता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’’	NN	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘‘	JJ	O	O	O
-...	NN	O	O	O
-मैं	PRP	O	O	O
-निर्माता	NN	O	O	O
-आदित्य	XC	O	O	O
-चोपड़ा	NNP	O	O	O
-का	PSP	O	O	O
-भी	RP	O	O	O
-आभारी	NN	O	B-MISC	O
-हूं	VM	O	I-MISC	OCC
-जिन्होंने	PRP	O	O	O
-मुझे	PRP	O	O	O
-एक	QC	O	O	O
-अलग	JJ	O	O	O
-रूप	NN	O	O	O
-में	PSP	O	O	O
-पेश	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-रितिक	JJ	O	O	O
-सर	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-भी	RP	O	O	O
-बहुत	INTF	O	O	O
-बहुत	QF	O	O	O
-धन्यवाद	NN	O	B-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-मेरे	PRP	O	O	O
-लिए	PSP	O	O	O
-ऑफ	XC	O	O	O
-स्क्रीन	NNP	O	O	O
-भी	RP	O	O	O
-एक	QC	O	O	O
-तरह	NN	O	O	O
-से	PSP	O	O	O
-मेंटर	NN	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-फिल्म	NN	O	O	O
-दो	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-प्रदर्शित	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+अभिनेता
+टाइगर
+श्रॉफ
+का
+कहना
+है
+कि
+एक्शन
+हीरो
+कहलाना
+एक
+वरदान
+की
+तरह
+है
+और
+यह
+उनके
+लिए
+रूढ़िवादिता
+नहीं
+है
+.
+उनका
+यह
+भी
+मानना
+है
+कि
+उनकी
+शैली
+ने
+उन्हें
+पहचान
+दी
+है
+.
+‘‘
+बागी
+’’
+फिल्म
+को
+लेकर
+चर्चा
+में
+आए
+श्रॉफ
+आगामी
+फिल्म
+‘‘
+वार
+’’
+में
+एक
+और
+एक्शन
+हीरो
+रितिक
+रोशन
+के
+साथ
+काम
+कर
+रहे
+हैं
+.
+उन्होंने
+कहा
+,
+‘‘
+तथ्य
+यह
+है
+कि
+लोग
+मुझे
+एक्शन
+हीरो
+कहते
+हैं
+जो
+उन्हें
+अच्छा
+लगता
+है
+.
+यह
+उपाधि
+...
+ऐसा
+वरदान
+है
+.
+इतनी
+प्रतिस्पर्धा
+है
+कि
+ऐसे
+में
+कोई
+कैसे
+खड़ा
+हो
+पाता
+है
+?
+आप
+लोगों
+से
+खुद
+को
+अलग
+करने
+के
+लिए
+क्या
+करते
+हैं
+?
+’’
+श्रॉफ
+ने
+पीटीआई
+भाषा
+के
+साथ
+टेलीफोन
+पर
+हुयी
+बातचीत
+में
+कहा
+,
+‘‘
+आपको
+एक
+पहचान
+की
+जरूरत
+है
+.
+हम
+सभी
+अभिनेता
+अपने
+लिए
+वह
+जगह
+और
+पहचान
+बनाने
+के
+लिए
+कठोर
+मेहनत
+करते
+हैं
+.
+’’
+सिद्धार्थ
+आनंद
+द्वारा
+निर्देशित
+‘‘
+वार
+एक
+भारतीय
+सैनिक
+खालिद
+(
+टाइगर
+)
+की
+कहानी
+है
+जिसे
+एक
+वरिष्ठ
+एजेंट
+और
+उसके
+संरक्षक
+कबीर
+(
+रितिक
+)
+को
+खत्म
+करने
+का
+काम
+सौंपा
+जाता
+है
+.
+सिद्धार्थ
+ने
+इससे
+पहले
+एक
+साक्षात्कार
+में
+पीटीआई
+से
+कहा
+था
+कि
+अगर
+टाइगर
+तैयार
+नहीं
+होते
+तो
+वह
+इस
+फिल्म
+को
+छोड़
+देते
+.
+29
+वर्षीय
+अभिनेता
+ने
+कहा
+कि
+यह
+निर्देशक
+की
+ओर
+से
+बहुत
+बड़ी
+प्रशंसा
+थी
+.
+श्रॉफ
+ने
+कहा
+,
+‘‘
+उन्होंने
+फिल्म
+में
+हर
+पहलू
+से
+मेरी
+मदद
+की
+है
+.
+अगर
+वह
+नहीं
+होते
+तो
+मैं
+रितिक
+सर
+के
+सामने
+खड़ा
+नहीं
+हो
+पाता
+.
+’’
+उन्होंने
+कहा
+,
+‘‘
+...
+मैं
+निर्माता
+आदित्य
+चोपड़ा
+का
+भी
+आभारी
+हूं
+जिन्होंने
+मुझे
+एक
+अलग
+रूप
+में
+पेश
+किया
+.
+रितिक
+सर
+के
+लिए
+भी
+बहुत
+बहुत
+धन्यवाद
+.
+वह
+मेरे
+लिए
+ऑफ
+स्क्रीन
+भी
+एक
+तरह
+से
+मेंटर
+रहे
+हैं
+.
+यह
+फिल्म
+दो
+अक्टूबर
+को
+प्रदर्शित
+हो
+रही
+है
+.

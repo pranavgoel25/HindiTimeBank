@@ -1,332 +1,332 @@
-भारत-साउथ	XC	O	O	O
-अफ्रीका	NNP	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-इस	DEM	O	O	O
-समय	NN	O	O	O
-जारी	JJ	O	O	O
-टेस्ट	NN	O	O	O
-सीरीज	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-टीम	NN	O	O	O
-इंडिया	NNP	O	O	O
-में	PSP	O	O	O
-शामिल	JJ	O	B-MISC	OCC
-किए	VM	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-विकेटकीपर	JJ	O	O	O
-बल्लेबाज	NN	O	O	O
-ऋद्धिमान	JJ	O	O	O
-साहा	NN	O	O	O
-खुशकिस्मत	JJ	O	O	O
-माने	VM	O	B-MISC	OCC
-जाएंगे	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-कंधे	NN	O	O	O
-की	PSP	O	O	O
-सर्जरी	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-लंबे	JJ	O	O	O
-समय	NN	O	O	O
-तक	RP	O	O	O
-टीम	NN	O	O	O
-से	PSP	O	O	O
-बाहर	NST	O	O	O
-रहने	VM	O	O	O
-के	PSP	O	O	O
-बावजूद	PSP:?	O	O	O
-उन्हें	PRP	O	O	O
-वापसी	NN	O	O	O
-का	PSP	O	O	O
-मौका	NN	O	B-MISC	OCC
-मिला	VM	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-पीछे	NST	O	O	O
-साहा	NN	O	O	O
-की	PSP	O	O	O
-भरोसेमंद	JJ	O	O	O
-विकेटकीपिंग	NN	O	O	O
-और	CC	O	O	O
-टेस्ट	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-मुफीद	JJ	O	B-MISC	OCC
-मानी	VM	O	I-MISC	O
-जाने	VAUX	O	I-MISC	O
-वाली	PSP	O	O	O
-बैटिंग	NN	O	O	O
-तो	RP	O	O	O
-रही	VM	O	O	O
-ही	RP	O	O	O
-,	SYM	O	O	O
-इसमें	PRP	O	O	O
-बाएं	NN	O	O	O
-हाथ	NN	O	O	O
-के	PSP	O	O	O
-युवा	JJ	O	O	O
-बल्लेबाज	NN	O	O	O
-और	CC	O	O	O
-विकेटकीपर	XC	O	O	O
-ऋषभ	XC	O	O	O
-पंत	NNP	O	O	O
-द्वारा	PSP	O	O	O
-खुद	PRP	O	O	O
-को	PSP	O	O	O
-मिले	VM	O	B-MISC	OCC
-मौकों	NN	O	O	O
-को	PSP	O	O	O
-सही	JJ	O	O	O
-तरीके	NN	O	O	O
-से	PSP	O	O	O
-भुना	VM	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-पाना	VM	O	I-MISC	O
-भी	RP	O	O	O
-उतना	QF	O	O	O
-ही	RP	O	O	O
-जिम्मेदार	JJ	O	B-MISC	O
-रहा	VM	O	I-MISC	O
-.	SYM	O	O	O
-अलबत्ता	NN	O	O	O
-,	SYM	O	O	O
-फिटनेस	NN	O	O	O
-और	CC	O	O	O
-चोट	NN	O	O	O
-की	PSP	O	O	O
-समस्या	NN	O	O	O
-से	PSP	O	O	O
-जूझ	VM	O	B-MISC	DESC
-रहे	VAUX	O	I-MISC	O
-हर	QF	O	O	O
-क्रिकेटर	NN	O	O	O
-की	PSP	O	O	O
-टीम	NN	O	O	O
-इंडिया	NNP	O	O	O
-में	PSP	O	O	O
-वापसी	JJ	O	O	O
-आसान	NN	O	B-MISC	O
-नहीं	NEG	O	I-MISC	O
-होती	VM	O	I-MISC	O
-.	SYM	O	O	O
-भारतीय	JJ	O	O	O
-टीम	NN	O	O	O
-में	PSP	O	O	O
-हर	QF	O	O	O
-पोजिशन	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-मुकाबला	NN	O	O	O
-कड़ा	XC	O	O	O
-है	NNP	O	O	O
-,	SYM	O	O	O
-इसीलिए	CC	O	O	O
-चोटिल	NN	O	O	O
-होकर	VM	O	O	O
-टीम	NN	O	O	O
-से	PSP	O	O	O
-बाहर	NST	O	O	O
-होने	VM	O	B-STAT	O
-वाले	PSP	O	I-STAT	O
-प्लेयर	NN	O	O	O
-के	PSP	O	O	O
-रोल	NN	O	O	O
-में	PSP	O	O	O
-तब	PRP	O	O	O
-तक	RP	O	O	O
-कोई	PRP	O	O	O
-और	CC	O	O	O
-खुद	PRP	O	O	O
-की	PSP	O	O	O
-उपयोगिता	NN	O	O	O
-साबित	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-देता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसे	DEM	O	O	O
-में	PSP	O	O	O
-जब	PRP	O	O	O
-तक	RP	O	O	O
-कोई	PRP	O	O	O
-क्रिकेटर	NN	O	O	OCC
-फिट	NN	O	O	O
-होकर	VM	O	O	O
-वापसी	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-तैयार	JJ	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-चयनकर्ताओं	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	O	O
-नए	JJ	O	O	O
-विकल्प	NN	O	O	O
-सामने	NST	O	B-MISC	OCC
-आ	VM	O	I-MISC	O
-जाते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अभी	PRP	O	O	O
-हाल	NN	O	O	O
-में	PSP	O	O	O
-चोटों	NN	O	O	O
-का	PSP	O	O	O
-शिकार	NN	O	B-MISC	O
-हुए	VM	O	I-MISC	O
-ऐसे	PRP	O	O	O
-कुछ	QF	O	O	O
-टॉप	NN	O	O	O
-क्रिकेटर्स	NN	O	O	O
-पर	PSP	O	O	O
-नजर	NN	O	B-MISC	OCC
-डाल	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-:	SYM	O	O	O
-ऑलराउंडर	NN	O	O	O
-हार्दिक	JJ	O	O	O
-पंड्या	NN	O	O	O
-को	PSP	O	O	O
-हाल	NN	O	O	O
-ही	RP	O	O	O
-में	PSP	O	O	O
-भारत-साउथ	XC	O	O	O
-अफ्रीका	NNP	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-खेली	VM	O	B-MISC	O
-गई	VAUX	O	I-MISC	O
-टी	NN	O	O	O
-20	QC	O	O	O
-सीरीज	NN	O	O	O
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-फिर	RB	O	O	O
-से	PSP	O	O	O
-पीठ	NN	O	O	O
-की	PSP	O	O	O
-तकलीफ	NN	O	O	OCC
-गंभीर	JJ	O	O	O
-होकर	VM	O	B-MISC	O
-उभर	VM	O	I-MISC	OCC
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हार्दिक	JJ	O	O	O
-को	PSP	O	O	O
-यह	DEM	O	O	O
-परेशानी	NN	O	O	O
-पिछले	JJ	B	O	O
-साल	NN	I	O	O
-सितंबर	NNP	B	O	O
-में	PSP	O	O	O
-एशिया	NNP	O	O	O
-कप	NN	O	O	O
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-दुबई	NN	O	O	O
-में	PSP	O	O	O
-हुई	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जोकि	CC	O	O	O
-फिर	RB	O	O	O
-से	PSP	O	O	O
-सामने	NST	O	B-MISC	OCC
-आई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-चोट	NN	O	O	O
-इतनी	INTF	O	O	O
-ज्यादा	QF	O	O	O
-थी	VM	O	B-MISC	REP
-कि	CC	O	O	O
-उन्हें	PRP	O	O	O
-इंग्लैंड	NN	O	O	O
-जाकर	VM	O	B-MISC	OCC
-बैक	NN	O	O	O
-की	PSP	O	O	O
-सर्जरी	NN	O	O	O
-करानी	VM	O	B-MISC	OCC
-पड़ी	XC	O	I-MISC	O
-.	SYM	O	O	O
-ऐसे	PRP	O	O	O
-में	PSP	O	O	O
-उन्हें	PRP	O	O	O
-महीनों	NN	O	O	O
-तक	RP	O	O	O
-क्रिकेट	NN	O	O	O
-मैदान	NN	O	O	O
-से	PSP	O	O	O
-दूर	NST	O	O	O
-रहना	VM	O	B-MISC	OCC
-होगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बेहद	INTF	O	O	O
-कम	QF	O	O	O
-समय	NN	O	O	O
-में	PSP	O	O	O
-हार्दिक	JJ	O	O	O
-तीनों	QC	O	O	O
-ही	RP	O	O	O
-फॉर्मेट्स	NN	O	O	O
-में	PSP	O	O	O
-टीम	NN	O	O	O
-इंडिया	NNP	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-'	SYM	O	O	O
-ट्रंप	NN	O	O	O
-कार्ड	NN	O	O	O
-'	SYM	O	O	O
-बनकर	VM	O	B-MISC	OCC
-उभरे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अपनी	PRP	O	O	O
-पावर	XC	O	O	O
-हिटिंग	NN	O	O	O
-के	PSP	O	O	O
-साथ-साथ	NST	O	O	O
-वह	PRP	O	O	O
-गेंद	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-भी	RP	O	O	O
-कमाल	NN	O	O	O
-दिखा	VM	O	B-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-ऐसे	PRP	O	O	O
-में	PSP	O	O	O
-टीम	NN	O	O	O
-के	PSP	O	O	O
-बैलेंस	NN	O	O	O
-पर	PSP	O	O	O
-तो	RP	O	O	O
-असर	NN	O	O	O
-पड़ेगा	JJ	O	O	O
-ही	RP	O	O	O
-,	SYM	O	O	O
-खुद	PRP	O	O	O
-इस	DEM	O	O	O
-क्रिकेट	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-करियर	NN	O	O	O
-के	PSP	O	O	O
-इस	DEM	O	O	O
-अहम	JJ	O	O	O
-पड़ाव	NN	O	O	O
-पर	PSP	O	O	O
-यह	PRP	O	O	O
-घातक	JJ	O	O	O
-साबित	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+भारत-साउथ
+अफ्रीका
+के
+बीच
+इस
+समय
+जारी
+टेस्ट
+सीरीज
+के
+लिए
+टीम
+इंडिया
+में
+शामिल
+किए
+गए
+विकेटकीपर
+बल्लेबाज
+ऋद्धिमान
+साहा
+खुशकिस्मत
+माने
+जाएंगे
+कि
+कंधे
+की
+सर्जरी
+के
+बाद
+लंबे
+समय
+तक
+टीम
+से
+बाहर
+रहने
+के
+बावजूद
+उन्हें
+वापसी
+का
+मौका
+मिला
+.
+इसके
+पीछे
+साहा
+की
+भरोसेमंद
+विकेटकीपिंग
+और
+टेस्ट
+के
+लिए
+मुफीद
+मानी
+जाने
+वाली
+बैटिंग
+तो
+रही
+ही
+,
+इसमें
+बाएं
+हाथ
+के
+युवा
+बल्लेबाज
+और
+विकेटकीपर
+ऋषभ
+पंत
+द्वारा
+खुद
+को
+मिले
+मौकों
+को
+सही
+तरीके
+से
+भुना
+न
+पाना
+भी
+उतना
+ही
+जिम्मेदार
+रहा
+.
+अलबत्ता
+,
+फिटनेस
+और
+चोट
+की
+समस्या
+से
+जूझ
+रहे
+हर
+क्रिकेटर
+की
+टीम
+इंडिया
+में
+वापसी
+आसान
+नहीं
+होती
+.
+भारतीय
+टीम
+में
+हर
+पोजिशन
+के
+लिए
+मुकाबला
+कड़ा
+है
+,
+इसीलिए
+चोटिल
+होकर
+टीम
+से
+बाहर
+होने
+वाले
+प्लेयर
+के
+रोल
+में
+तब
+तक
+कोई
+और
+खुद
+की
+उपयोगिता
+साबित
+कर
+देता
+है
+.
+ऐसे
+में
+जब
+तक
+कोई
+क्रिकेटर
+फिट
+होकर
+वापसी
+के
+लिए
+तैयार
+होता
+है
+चयनकर्ताओं
+के
+सामने
+नए
+विकल्प
+सामने
+आ
+जाते
+हैं
+.
+अभी
+हाल
+में
+चोटों
+का
+शिकार
+हुए
+ऐसे
+कुछ
+टॉप
+क्रिकेटर्स
+पर
+नजर
+डाल
+सकते
+हैं
+:
+ऑलराउंडर
+हार्दिक
+पंड्या
+को
+हाल
+ही
+में
+भारत-साउथ
+अफ्रीका
+के
+बीच
+खेली
+गई
+टी
+20
+सीरीज
+के
+दौरान
+फिर
+से
+पीठ
+की
+तकलीफ
+गंभीर
+होकर
+उभर
+गई
+.
+हार्दिक
+को
+यह
+परेशानी
+पिछले
+साल
+सितंबर
+में
+एशिया
+कप
+के
+दौरान
+दुबई
+में
+हुई
+थी
+,
+जोकि
+फिर
+से
+सामने
+आई
+है
+.
+चोट
+इतनी
+ज्यादा
+थी
+कि
+उन्हें
+इंग्लैंड
+जाकर
+बैक
+की
+सर्जरी
+करानी
+पड़ी
+.
+ऐसे
+में
+उन्हें
+महीनों
+तक
+क्रिकेट
+मैदान
+से
+दूर
+रहना
+होगा
+.
+बेहद
+कम
+समय
+में
+हार्दिक
+तीनों
+ही
+फॉर्मेट्स
+में
+टीम
+इंडिया
+के
+लिए
+'
+ट्रंप
+कार्ड
+'
+बनकर
+उभरे
+हैं
+.
+अपनी
+पावर
+हिटिंग
+के
+साथ-साथ
+वह
+गेंद
+के
+साथ
+भी
+कमाल
+दिखा
+जाते
+हैं
+,
+ऐसे
+में
+टीम
+के
+बैलेंस
+पर
+तो
+असर
+पड़ेगा
+ही
+,
+खुद
+इस
+क्रिकेट
+के
+लिए
+करियर
+के
+इस
+अहम
+पड़ाव
+पर
+यह
+घातक
+साबित
+हो
+सकता
+है
+.

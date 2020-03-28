@@ -1,286 +1,286 @@
-बी	XC	O	O	O
-.	SYM	O	O	O
-ए.	NN	O	O	O
-पास	NST	O	B-MISC	O
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-चन्द्रप्रकाश	NN	O	O	O
-को	PSP	O	O	O
-एक	QC	O	O	O
-टयूशन	NN	O	B-MISC	O
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-सिवा	PSP:?	O	O	O
-और	CC	O	O	O
-कुछ	QF	O	O	O
-न	NEG	O	B-MISC	O
-सूझा	VM	O	I-MISC	O
-.	SYM	O	O	O
-उसकी	PRP	O	O	O
-माता	NN	O	O	O
-पहले	NST	O	O	O
-ही	RP	O	O	O
-मर	VM	O	B-MISC	OCC
-चुकी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-इसी	DEM	O	O	O
-साल	NN	O	O	O
-पिता	NN	O	O	O
-का	PSP	O	O	O
-भी	RP	O	O	O
-देहान्त	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-और	CC	O	O	O
-प्रकाश	XC	O	O	O
-जीवन	NN	O	O	O
-के	PSP	O	O	O
-जो	PRP	O	O	O
-मधुर	JJ	O	O	O
-स्वप्न	NN	O	O	O
-देखा	VM	O	B-MISC	OCC
-करता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वे	PRP	O	O	O
-सब	QF	O	O	O
-धूल	NN	O	O	O
-में	PSP	O	O	O
-मिल	VM	O	B-MISC	OCC
-गये	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पिता	NN	O	O	O
-ऊंचे	JJ	O	O	O
-ओहदे	NN	O	O	O
-पर	PSP	O	O	O
-थे	VM	O	B-STAT	O
-,	SYM	O	O	O
-उनकी	PRP	O	O	O
-कोशिश	NN	O	O	O
-से	PSP	O	O	O
-चन्द्रप्रकाश	NN	O	O	O
-को	PSP	O	O	O
-कोई	PRP	O	O	O
-अच्छी	JJ	O	O	O
-जगह	NN	O	B-MISC	O
-मिलने	VM	O	I-MISC	OCC
-की	PSP	O	O	O
-पूरी	JJ	O	O	O
-आशा	NN	O	O	O
-थी	VM	O	B-STAT	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-वे	PRP	O	O	O
-सब	QF	O	O	O
-मनसूबे	JJ	O	O	O
-धरे	NN	O	O	O
-रह	VM	O	B-MISC	OCC
-गये	VAUX	O	I-MISC	O
-और	CC	O	O	O
-अब	PRP	O	O	O
-गुजर-बसर	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-वही	PRP	O	O	O
-30	QC	O	O	O
-)	SYM	O	O	O
-महीने	NN	O	O	O
-की	PSP	O	O	O
-टयूशन	NN	O	B-MISC	OCC
-रह	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पिता	NN	O	O	O
-ने	PSP	O	O	O
-कुछ	QF	O	O	O
-सम्पत्ति	NN	O	O	O
-भी	RP	O	O	O
-न	NEG	O	O	O
-छोड़ी	XC	O	O	O
-,	SYM	O	O	O
-उलटे	JJ	O	O	O
-वधू	NN	O	O	O
-का	PSP	O	O	O
-बोझ	NN	O	O	O
-और	CC	O	O	O
-सिर	NN	O	O	O
-पर	PSP	O	O	O
-लाद	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-और	CC	O	O	O
-स्त्री	NN	O	O	O
-भी	RP	O	O	O
-मिली	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-पढ़ी-लिखी	JJ	O	O	O
-,	SYM	O	O	O
-शौकीन	NN	O	O	O
-,	SYM	O	O	O
-जबान	NN	O	O	O
-की	PSP	O	O	O
-तेज	JJ	O	O	O
-जिसे	PRP	O	O	O
-मोटा	JJ	O	B-MISC	O
-खाने	VM	O	I-MISC	O
-और	CC	O	O	O
-मोटा	NN	O	O	O
-पहनने	VM	O	O	O
-से	PSP	O	O	O
-मर	VM	O	B-MISC	OCC
-जाना	VAUX	O	I-MISC	O
-कबूल	NN	O	I-MISC	O
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-चन्द्रप्रकाश	NN	O	O	O
-को	PSP	O	O	O
-30	QC	O	O	O
-)	SYM	O	O	O
-की	PSP	O	O	O
-नौकरी	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-शर्म	NN	O	O	O
-तो	RP	O	O	O
-आयी	VM	O	O	OCC
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-ठाकुर	XC	O	O	O
-साहब	NN	O	O	O
-ने	PSP	O	O	O
-रहने	VM	O	O	O
-का	PSP	O	O	O
-स्थान	NN	O	B-MISC	IAC
-देकर	VM	O	I-MISC	O
-उसके	PRP	O	O	O
-आंसू	NN	O	B-MISC	OCC
-पोंछ	VM	O	I-MISC	O
-दिये	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-मकान	NN	O	O	O
-ठाकुर	JJ	O	O	O
-साहब	NN	O	O	O
-के	PSP	O	O	O
-मकान	NN	O	O	O
-से	PSP	O	O	O
-बिलकुल	RB	O	O	O
-मिला	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-पक्का	NN	O	O	O
-,	SYM	O	O	O
-हवादार	JJ	O	O	O
-,	SYM	O	O	O
-साफ-सुथरा	NN	O	O	O
-और	CC	O	O	O
-जरूरी	JJ	O	O	O
-सामान	NN	O	O	O
-से	PSP	O	O	O
-लैस	JJ	O	O	OCC
-.	SYM	O	O	O
-ऐसा	DEM	O	O	O
-मकान	NN	O	O	O
-20	QC	O	O	O
-)	SYM	O	O	O
-से	PSP	O	O	O
-कम	QF	O	O	O
-पर	PSP	O	O	O
-न	NEG	O	B-MISC	OCC
-मिलता	VM	O	I-MISC	O
-,	SYM	O	O	O
-काम	NN	O	O	O
-केवल	RB	O	O	O
-दो	QC	O	O	O
-घंटे	NN	O	O	O
-का	PSP	O	O	O
-.	SYM	O	O	O
-लड़का	NNP	O	O	O
-था	VM	O	O	O
-तो	CC	O	O	O
-लगभग	RB	O	O	O
-उन्हीं	PRP	O	O	O
-की	PSP	O	O	O
-उम्र	NN	O	O	O
-का	PSP	O	O	O
-;	SYM	O	O	O
-पर	XC	O	O	O
-बड़ा	XC	O	O	O
-कुन्दजेहन	NN	O	O	O
-,	SYM	O	O	O
-कामचोर	NN	O	O	O
-.	SYM	O	O	O
-अभी	PRP	O	O	O
-नवें	NN	O	O	O
-दरजे	NN	O	O	O
-में	PSP	O	O	O
-पढ़ता	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सबसे	RDP	O	O	O
-बड़ी	XC	O	O	O
-बात	NN	O	O	OCC
-यह	PRP	O	O	O
-कि	CC	O	O	O
-ठाकुर	NNP	O	O	O
-और	CC	O	O	O
-ठाकुराइन	NN	O	O	O
-दोनों	JJ	O	O	O
-प्रकाश	NN	O	O	O
-का	PSP	O	O	O
-बहुत	QF	O	O	O
-आदर	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-बल्कि	CC	O	O	O
-उसे	PRP	O	O	O
-लड़का	XC	O	O	O
-ही	RP	O	O	O
-समझते	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-नौकर	NN	O	O	OCC
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-घर	NN	O	O	O
-का	PSP	O	O	O
-आदमी	NN	O	O	OCC
-था	VM	O	B-MISC	O
-और	CC	O	O	O
-घर	NN	O	O	O
-के	PSP	O	O	O
-हर	QF	O	O	O
-एक	QC	O	O	O
-मामले	NN	O	O	O
-में	PSP	O	O	O
-उसकी	PRP	O	O	O
-सलाह	NN	O	B-MISC	OCC
-ली	VM	O	I-MISC	O
-जाती	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ठाकुर	NNP	O	O	O
-साहब	RP	O	O	O
-अंगरेजी	NN	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-जानते	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उनकी	PRP	O	O	O
-समझ	NN	O	O	O
-में	PSP	O	O	O
-अंगरेजीदां	NN	O	O	O
-लौंडा	NN	O	O	O
-भी	RP	O	O	O
-उनसे	PRP	O	O	O
-ज्यादा	QF	O	O	O
-बुद्धिमान	NN	O	O	O
-,	SYM	O	O	O
-चतुर	NNP	O	O	O
-और	CC	O	O	O
-तजरबेकार	NN	O	B-MISC	O
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
+बी
+.
+ए.
+पास
+करने
+के
+बाद
+चन्द्रप्रकाश
+को
+एक
+टयूशन
+करने
+के
+सिवा
+और
+कुछ
+न
+सूझा
+.
+उसकी
+माता
+पहले
+ही
+मर
+चुकी
+थी
+,
+इसी
+साल
+पिता
+का
+भी
+देहान्त
+हो
+गया
+और
+प्रकाश
+जीवन
+के
+जो
+मधुर
+स्वप्न
+देखा
+करता
+था
+,
+वे
+सब
+धूल
+में
+मिल
+गये
+.
+पिता
+ऊंचे
+ओहदे
+पर
+थे
+,
+उनकी
+कोशिश
+से
+चन्द्रप्रकाश
+को
+कोई
+अच्छी
+जगह
+मिलने
+की
+पूरी
+आशा
+थी
+;
+पर
+वे
+सब
+मनसूबे
+धरे
+रह
+गये
+और
+अब
+गुजर-बसर
+के
+लिए
+वही
+30
+)
+महीने
+की
+टयूशन
+रह
+गई
+.
+पिता
+ने
+कुछ
+सम्पत्ति
+भी
+न
+छोड़ी
+,
+उलटे
+वधू
+का
+बोझ
+और
+सिर
+पर
+लाद
+दिया
+और
+स्त्री
+भी
+मिली
+,
+तो
+पढ़ी-लिखी
+,
+शौकीन
+,
+जबान
+की
+तेज
+जिसे
+मोटा
+खाने
+और
+मोटा
+पहनने
+से
+मर
+जाना
+कबूल
+था
+.
+चन्द्रप्रकाश
+को
+30
+)
+की
+नौकरी
+करते
+शर्म
+तो
+आयी
+;
+लेकिन
+ठाकुर
+साहब
+ने
+रहने
+का
+स्थान
+देकर
+उसके
+आंसू
+पोंछ
+दिये
+.
+यह
+मकान
+ठाकुर
+साहब
+के
+मकान
+से
+बिलकुल
+मिला
+हुआ
+था
+पक्का
+,
+हवादार
+,
+साफ-सुथरा
+और
+जरूरी
+सामान
+से
+लैस
+.
+ऐसा
+मकान
+20
+)
+से
+कम
+पर
+न
+मिलता
+,
+काम
+केवल
+दो
+घंटे
+का
+.
+लड़का
+था
+तो
+लगभग
+उन्हीं
+की
+उम्र
+का
+;
+पर
+बड़ा
+कुन्दजेहन
+,
+कामचोर
+.
+अभी
+नवें
+दरजे
+में
+पढ़ता
+था
+.
+सबसे
+बड़ी
+बात
+यह
+कि
+ठाकुर
+और
+ठाकुराइन
+दोनों
+प्रकाश
+का
+बहुत
+आदर
+करते
+थे
+,
+बल्कि
+उसे
+लड़का
+ही
+समझते
+थे
+.
+वह
+नौकर
+नहीं
+,
+घर
+का
+आदमी
+था
+और
+घर
+के
+हर
+एक
+मामले
+में
+उसकी
+सलाह
+ली
+जाती
+थी
+.
+ठाकुर
+साहब
+अंगरेजी
+नहीं
+जानते
+थे
+.
+उनकी
+समझ
+में
+अंगरेजीदां
+लौंडा
+भी
+उनसे
+ज्यादा
+बुद्धिमान
+,
+चतुर
+और
+तजरबेकार
+था
+.

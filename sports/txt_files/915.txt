@@ -1,90 +1,90 @@
-भारतीय	JJ	O	O	O
-टेनिस	NN	O	O	O
-खिलाड़ी	XC	O	O	O
-रोहन	XC	O	O	O
-बोपन्ना	NNP	O	O	O
-और	CC	O	O	O
-उनके	PRP	O	O	O
-जोड़ीदार	JJ	O	O	O
-डेनिस	XC	O	O	O
-शापोवालोव	NNP	O	O	O
-ने	PSP	O	O	O
-मंगलवार	NN	B	O	O
-को	PSP	O	O	O
-यहां	PRP	O	O	O
-कारेन	NN	O	O	OCC
-खाचानोव	NN	O	O	O
-और	CC	O	O	O
-आंद्रे	XC	O	O	O
-रूबलेव	NNP	O	O	O
-की	PSP	O	O	O
-रूसी	XC	O	O	O
-जोड़ी	NNP	O	O	O
-पर	PSP	O	O	O
-सीधे	JJ	O	O	O
-सेटों	NN	O	O	O
-में	PSP	O	O	O
-जीत	JJ	O	B-MISC	OCC
-हासिल	NN	O	I-MISC	O
-कर	VM	O	I-MISC	O
-शंघाई	XC	O	O	O
-मास्टर्स	XC	O	O	O
-युगल	NN	O	O	O
-स्पर्धा	NN	O	O	O
-के	PSP	O	O	O
-प्री	XC	O	O	O
-क्वार्टरफाइनल	NN	O	O	O
-में	PSP	O	O	O
-प्रवेश	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-भारतीय-कनाडाई	XC	O	O	O
-जोड़ी	NNP	O	O	O
-ने	PSP	O	O	O
-शुरूआती	JJ	O	O	O
-दौर	NN	O	O	O
-में	PSP	O	O	O
-खाचानोव	NN	O	O	O
-और	CC	O	O	O
-रूबलेव	NN	O	O	O
-की	PSP	O	O	O
-जोड़ी	XC	O	O	O
-को	PSP	O	O	O
-6	QC	O	O	O
--	SYM	O	O	O
-1	QC	B	O	O
-6	QC	I	O	O
--	SYM	O	O	O
-4	QC	O	O	O
-से	PSP	O	O	O
-मात	NN	O	B-MISC	OCC
-दी	VM	O	I-MISC	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-इस	DEM	O	O	O
-जोड़ी	NNP	O	O	O
-का	PSP	O	O	O
-सामना	NN	O	O	O
-बोर्ना	XC	O	O	O
-कोरिच	NNP	O	O	O
-और	CC	O	O	O
-रून्हाओ	XC	O	B-MISC	O
-हुआ	VM	O	I-MISC	O
-तथा	CC	O	O	O
-लुकास्ज	JJ	O	O	O
-कुबात	NN	O	O	O
-और	CC	O	O	O
-मार्सेलो	XC	O	O	O
-मेलो	NNP	O	O	O
-की	PSP	O	O	O
-जोड़ी	XC	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-होने	VM	O	O	O
-वाले	PSP	O	O	O
-मुकाबले	NN	O	O	O
-के	PSP	O	O	O
-विजेता	NN	O	O	O
-से	PSP	O	O	O
-होगा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
+भारतीय
+टेनिस
+खिलाड़ी
+रोहन
+बोपन्ना
+और
+उनके
+जोड़ीदार
+डेनिस
+शापोवालोव
+ने
+मंगलवार
+को
+यहां
+कारेन
+खाचानोव
+और
+आंद्रे
+रूबलेव
+की
+रूसी
+जोड़ी
+पर
+सीधे
+सेटों
+में
+जीत
+हासिल
+कर
+शंघाई
+मास्टर्स
+युगल
+स्पर्धा
+के
+प्री
+क्वार्टरफाइनल
+में
+प्रवेश
+किया
+.
+भारतीय-कनाडाई
+जोड़ी
+ने
+शुरूआती
+दौर
+में
+खाचानोव
+और
+रूबलेव
+की
+जोड़ी
+को
+6
+-
+1
+6
+-
+4
+से
+मात
+दी
+.
+अब
+इस
+जोड़ी
+का
+सामना
+बोर्ना
+कोरिच
+और
+रून्हाओ
+हुआ
+तथा
+लुकास्ज
+कुबात
+और
+मार्सेलो
+मेलो
+की
+जोड़ी
+के
+बीच
+होने
+वाले
+मुकाबले
+के
+विजेता
+से
+होगा
+.

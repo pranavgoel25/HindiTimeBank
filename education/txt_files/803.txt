@@ -1,133 +1,133 @@
-हिमाचल	XC	O	O	O
-प्रदेश	NNP	O	O	O
-(	SYM	O	O	O
-एचपी	XC	O	O	O
-)	SYM	O	O	O
-के	PSP	O	O	O
-राजस्व	XC	O	O	O
-विभाग	NN	O	O	O
-ने	PSP	O	O	O
-पटवारी	JJ	O	O	O
-पद	NN	O	O	O
-पर	PSP	O	O	O
-भर्ती	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-आयोजित	JJ	O	O	O
-परीक्षा	NN	O	O	O
-की	PSP	O	O	O
-आंसरकी	NN	O	O	O
-अपनी	PRP	O	O	O
-ऑफिशल	JJ	O	O	O
-वेबसाइट	NN	O	O	O
-पर	PSP	O	O	O
-जारी	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दी	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जिन	DEM	O	O	O
-कैंडिडेट्स	NN	O	O	O
-ने	PSP	O	O	O
-एचपी	XC	O	O	O
-पटवारी	NNP	O	O	O
-भर्ती	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-आयोजित	JJ	O	O	O
-परीक्षा	NN	O	B-MISC	OCC
-दी	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वे	PRP	O	O	O
-एचपी	XC	O	O	O
-राजस्व	XC	O	O	O
-विभाग	NN	O	O	O
-की	PSP	O	O	O
-ऑफिशल	JJ	O	O	O
-वेबसाइट	NN	O	O	O
-himachal	XC	O	O	O
-.	SYM	O	O	O
-nic	NN	O	O	O
-.	SYM	O	O	O
-in	NN	O	O	O
-पर	PSP	O	O	O
-इसे	PRP	O	O	O
-देख	VM	O	B-MISC	OCC
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एचपी	XC	O	O	O
-पटवारी	NNP	O	O	O
-एग्जाम	NN	O	O	O
-का	PSP	O	O	O
-आयोजन	NN	O	O	O
-17	QC	O	O	O
-नवंबर	NNP	O	O	O
-,	SYM	O	O	O
-2019	QC	O	O	O
-को	PSP	O	O	O
-किया	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कैंडिडेट्स	NN	O	O	O
-ऑफिशल	JJ	O	O	O
-वेबसाइट	NN	O	O	O
-पर	PSP	O	O	O
-भी	RP	O	O	O
-जाकर	VM	O	B-MISC	OCC
-आंसरकी	JJ	O	O	O
-डाउनलोड	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-या	CC	O	O	O
-नीचे	NST	O	O	O
-दिए	VM	O	B-MISC	O
-गए	VAUX	O	I-MISC	O
-लिंक	NN	O	O	O
-पर	PSP	O	O	O
-क्लिक	NN	O	B-MISC	OCC
-करके	VM	O	I-MISC	O
-डाउनलोड	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-कैंडिडेट्स	NN	O	O	O
-को	PSP	O	O	O
-आंसरकी	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	B-MISC	O
-कोई	PRP	O	O	O
-आपत्ति	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-तो	CC	O	O	O
-वे	PRP	O	O	O
-ईमेल	NN	O	O	O
-आईडी	JJ	O	O	O
--dlr-hp@nic.in	NN	O	O	O
-पर	PSP	O	O	O
-अपनी	PRP	O	O	O
-आपत्ति	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-करा	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आंसरकी	NN	O	O	O
-पर	PSP	O	O	O
-अपनी	PRP	O	O	O
-आपत्ति	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-कराने	VM	O	I-MISC	O
-की	PSP	O	O	O
-आखिरी	JJ	O	O	O
-तारीख	NN	O	O	O
-20	QC	B	O	O
-नवंबर	NNP	I	O	O
-,	SYM	O	O	O
-2019	QC	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
+हिमाचल
+प्रदेश
+(
+एचपी
+)
+के
+राजस्व
+विभाग
+ने
+पटवारी
+पद
+पर
+भर्ती
+के
+लिए
+आयोजित
+परीक्षा
+की
+आंसरकी
+अपनी
+ऑफिशल
+वेबसाइट
+पर
+जारी
+कर
+दी
+है
+.
+जिन
+कैंडिडेट्स
+ने
+एचपी
+पटवारी
+भर्ती
+के
+लिए
+आयोजित
+परीक्षा
+दी
+थी
+,
+वे
+एचपी
+राजस्व
+विभाग
+की
+ऑफिशल
+वेबसाइट
+himachal
+.
+nic
+.
+in
+पर
+इसे
+देख
+सकते
+हैं
+.
+एचपी
+पटवारी
+एग्जाम
+का
+आयोजन
+17
+नवंबर
+,
+2019
+को
+किया
+गया
+.
+कैंडिडेट्स
+ऑफिशल
+वेबसाइट
+पर
+भी
+जाकर
+आंसरकी
+डाउनलोड
+कर
+सकते
+हैं
+या
+नीचे
+दिए
+गए
+लिंक
+पर
+क्लिक
+करके
+डाउनलोड
+कर
+सकते
+हैं
+.
+अगर
+कैंडिडेट्स
+को
+आंसरकी
+को
+लेकर
+कोई
+आपत्ति
+हो
+तो
+वे
+ईमेल
+आईडी
+-dlr-hp@nic.in
+पर
+अपनी
+आपत्ति
+दर्ज
+करा
+सकते
+हैं
+.
+आंसरकी
+पर
+अपनी
+आपत्ति
+दर्ज
+कराने
+की
+आखिरी
+तारीख
+20
+नवंबर
+,
+2019
+है
+.

@@ -1,248 +1,248 @@
-हरियाणा	NNP	O	O	O
-में	PSP	O	O	O
-प्रदेश	XC	O	O	O
-कांग्रेस	XC	O	O	O
-हाईकमान	NN	O	O	O
-ने	PSP	O	O	O
-बड़ी	JJ	O	O	O
-उम्मीदों	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-अशोक	XC	O	O	O
-तंवर	NN	O	O	O
-को	PSP	O	O	O
-हटाकर	VM	O	O	O
-पूर्व	JJ	O	O	O
-केंद्रीय	XC	O	O	O
-मंत्री	NN	O	O	O
-कुमारी	XC	O	O	O
-सैलजा	NN	O	O	O
-को	PSP	O	O	O
-प्रदेश	NN	O	O	O
-कांग्रेस	NN	O	O	O
-का	PSP	O	O	O
-अध्यक्ष	NN	O	O	O
-बनाया	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-चुनाव	NN	O	O	O
-में	PSP	O	O	O
-जीत	JJ	O	B-MISC	OCC
-हासिल	NN	O	I-MISC	O
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-पूर्व	JJ	O	O	O
-मुख्यमंत्री	NN	O	O	O
-भूपेंद्र	XC	O	O	O
-सिंह	NNP	O	O	O
-हुड्डा	NN	O	O	O
-को	PSP	O	O	O
-इलेक्शन	NN	O	O	O
-कैंपेन	NN	O	O	O
-कमिटी	NN	O	O	O
-का	PSP	O	O	O
-चेयरमैन	NN	O	O	OCC
-बनाया	VM	O	B-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-कांग्रेस	XC	O	O	O
-हाईकमान	NN	O	O	O
-का	PSP	O	O	O
-यह	DEM	O	O	O
-फेरबदल	NN	O	O	O
-का	PSP	O	O	O
-फैसला	NN	O	O	O
-पूरी	JJ	O	O	O
-तरह	NN	O	O	O
-से	PSP	O	O	O
-उल्टा	VM	O	B-MISC	OCC
-पड़ा	XC	O	I-MISC	O
-.	SYM	O	O	O
-कुमारी	NNP	O	O	O
-सैलजा	NN	O	O	O
-के	PSP	O	O	O
-अध्यक्ष	NN	O	O	O
-बनने	VM	O	O	O
-के	PSP	O	O	O
-34	QC	B	O	O
-दिन	NN	I	O	O
-के	PSP	O	O	O
-अंदर	NST	O	O	O
-तकरीबन	NN	O	O	O
-40	QC	O	O	O
-बड़े	NNP	O	O	O
-नेता	XC	O	O	O
-कांग्रेस	NNP	O	O	O
-को	PSP	O	O	O
-छोड़कर	NNP	O	B-MISC	O
-चले	VM	O	I-MISC	OCC
-गए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कांग्रेस	NN	O	O	O
-को	PSP	O	O	O
-अलविदा	JJ	O	O	O
-कहने	VM	O	O	O
-वाले	PSP	O	O	O
-नेताओं	NN	O	O	O
-में	PSP	O	O	O
-पूर्व	JJ	O	O	O
-सांसद	NN	O	O	O
-,	SYM	O	O	O
-पूर्व	JJ	O	O	O
-मंत्री	NN	O	O	O
-और	CC	O	O	O
-पूर्व	JJ	O	O	O
-विधायकों	NN	O	O	O
-के	PSP	O	O	O
-अलावा	PSP:?	O	O	O
-चेयरमैन	NN	O	O	O
-और	CC	O	O	O
-बड़े	NNP	O	O	O
-चेहरे	NN	O	O	O
-शामिल	JJ	O	B-STAT	DECL
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-कांग्रेस	NN	O	O	O
-के	PSP	O	O	O
-इतिहास	NN	O	O	O
-में	PSP	O	O	O
-इतने	QF	O	O	O
-नेताओं	NN	O	O	O
-ने	PSP	O	O	O
-एक	QC	O	O	O
-साथ	NST	O	O	O
-कभी	PRP	O	O	O
-भी	RP	O	O	O
-पार्टी	NN	O	O	O
-को	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-छोड़ा	NN	O	I-MISC	O
-.	SYM	O	O	O
-40	QC	O	O	O
-बड़े	NNP	O	O	O
-नेताओं	NN	O	O	O
-के	PSP	O	O	O
-अलविदा	JJ	O	O	O
-कहने	VM	O	O	O
-से	PSP	O	O	O
-कांग्रेस	NN	O	O	O
-को	PSP	O	O	O
-बहुत	INTF	O	O	O
-बडा	JJ	O	O	O
-नुकसान	NN	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भूपेंद्र	XC	O	O	O
-हुड्डा	NN	O	O	O
-और	CC	O	O	O
-शैलजा	NN	O	O	O
-पर	PSP	O	O	O
-कांग्रेस	XC	O	O	O
-हाईकमान	NN	O	O	O
-ने	PSP	O	O	O
-पार्टी	NN	O	O	O
-को	PSP	O	O	O
-सत्ता	NN	O	O	O
-की	PSP	O	O	O
-सरताज	NN	O	O	O
-बनाने	VM	O	B-MISC	OCC
-और	CC	O	O	O
-एकजुट	NN	O	B-MISC	O
-रखने	VM	O	I-MISC	O
-का	PSP	O	O	O
-दायित्व	NN	O	O	O
-सौंपा	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-लेकिन	CC	O	O	O
-दोनों	JJ	O	O	O
-ही	RP	O	O	O
-नेता	NN	O	O	O
-ऐसा	PRP	O	O	O
-करने	VM	O	B-MISC	O
-में	PSP	O	O	O
-पूरी	JJ	O	O	O
-तरह	NN	O	O	O
-से	PSP	O	O	O
-नाकाम	NN	O	B-MISC	OCC
-रहे	VM	O	I-MISC	O
-.	SYM	O	O	O
-इनकी	PRP	O	O	O
-अगुआई	NN	O	O	O
-में	PSP	O	O	O
-पार्टी	NN	O	O	OCC
-मजबूत	JJ	O	B-MISC	O
-होने	VM	O	I-MISC	O
-के	PSP	O	O	O
-बजाय	PSP:?	O	O	O
-टुकड़े-टुकड़े	NN	O	O	O
-होकर	VM	O	B-MISC	OCC
-बिखर	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इन	DEM	O	O	O
-नेताओं	NN	O	O	O
-के	PSP	O	O	O
-पार्टी	NN	O	O	O
-छोड़ने	NNP	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	O	O
-कांग्रेस	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-2014	QC	O	O	O
-का	PSP	O	O	O
-चुनाव	NN	O	O	O
-परिणाम	NN	O	O	O
-हासिल	NN	O	B-MISC	O
-करना	VM	O	I-MISC	O
-नामुमकिन	NN	O	O	O
-नजर	NN	O	B-MISC	OCC
-आ	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इन	DEM	O	O	O
-नेताओं	NN	O	O	O
-में	PSP	O	O	O
-प्रदेश	NN	O	O	O
-कांग्रेस	NN	O	O	O
-के	PSP	O	O	O
-पूर्व	NST	O	O	O
-अध्यक्ष	JJ	O	O	O
-अशोक	XC	O	O	O
-तंवर	NN	O	O	O
-,	SYM	O	O	O
-महिला	NN	O	O	O
-कांग्रेस	NN	O	O	O
-की	PSP	O	O	O
-अध्यक्ष	NN	O	O	O
-सुमित्रा	JJ	O	O	O
-चौहान	NN	O	O	O
-,	SYM	O	O	O
-पूर्व	JJ	O	O	O
-सांसद	NN	O	O	O
-कैलाशो	XC	O	O	O
-सैनी	NN	O	O	O
-,	SYM	O	O	O
-पूर्व	JJ	O	O	O
-सांसद	NN	O	O	O
-ईश्वर	XC	O	O	O
-सिंह	NNP	O	O	O
-और	CC	O	O	O
-पूर्व	JJ	O	O	O
-सांसद	NN	O	O	O
-एवं	CC	O	O	O
-पूर्व	JJ	O	O	O
-मंत्री	NN	O	O	O
-रणजीत	XC	O	O	O
-सिंह	NNP	O	O	O
-चौटाला	NN	O	O	O
-समेत	PSP	O	O	O
-कई	QF	O	O	O
-नेता	NN	O	O	O
-शामिल	JJ	O	B-STAT	DECL
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
+हरियाणा
+में
+प्रदेश
+कांग्रेस
+हाईकमान
+ने
+बड़ी
+उम्मीदों
+के
+साथ
+अशोक
+तंवर
+को
+हटाकर
+पूर्व
+केंद्रीय
+मंत्री
+कुमारी
+सैलजा
+को
+प्रदेश
+कांग्रेस
+का
+अध्यक्ष
+बनाया
+था
+.
+चुनाव
+में
+जीत
+हासिल
+करने
+के
+लिए
+पूर्व
+मुख्यमंत्री
+भूपेंद्र
+सिंह
+हुड्डा
+को
+इलेक्शन
+कैंपेन
+कमिटी
+का
+चेयरमैन
+बनाया
+था
+,
+लेकिन
+कांग्रेस
+हाईकमान
+का
+यह
+फेरबदल
+का
+फैसला
+पूरी
+तरह
+से
+उल्टा
+पड़ा
+.
+कुमारी
+सैलजा
+के
+अध्यक्ष
+बनने
+के
+34
+दिन
+के
+अंदर
+तकरीबन
+40
+बड़े
+नेता
+कांग्रेस
+को
+छोड़कर
+चले
+गए
+.
+कांग्रेस
+को
+अलविदा
+कहने
+वाले
+नेताओं
+में
+पूर्व
+सांसद
+,
+पूर्व
+मंत्री
+और
+पूर्व
+विधायकों
+के
+अलावा
+चेयरमैन
+और
+बड़े
+चेहरे
+शामिल
+हैं
+.
+कांग्रेस
+के
+इतिहास
+में
+इतने
+नेताओं
+ने
+एक
+साथ
+कभी
+भी
+पार्टी
+को
+नहीं
+छोड़ा
+.
+40
+बड़े
+नेताओं
+के
+अलविदा
+कहने
+से
+कांग्रेस
+को
+बहुत
+बडा
+नुकसान
+हुआ
+है
+.
+भूपेंद्र
+हुड्डा
+और
+शैलजा
+पर
+कांग्रेस
+हाईकमान
+ने
+पार्टी
+को
+सत्ता
+की
+सरताज
+बनाने
+और
+एकजुट
+रखने
+का
+दायित्व
+सौंपा
+था
+लेकिन
+दोनों
+ही
+नेता
+ऐसा
+करने
+में
+पूरी
+तरह
+से
+नाकाम
+रहे
+.
+इनकी
+अगुआई
+में
+पार्टी
+मजबूत
+होने
+के
+बजाय
+टुकड़े-टुकड़े
+होकर
+बिखर
+गई
+.
+इन
+नेताओं
+के
+पार्टी
+छोड़ने
+के
+कारण
+कांग्रेस
+के
+लिए
+2014
+का
+चुनाव
+परिणाम
+हासिल
+करना
+नामुमकिन
+नजर
+आ
+रहा
+है
+.
+इन
+नेताओं
+में
+प्रदेश
+कांग्रेस
+के
+पूर्व
+अध्यक्ष
+अशोक
+तंवर
+,
+महिला
+कांग्रेस
+की
+अध्यक्ष
+सुमित्रा
+चौहान
+,
+पूर्व
+सांसद
+कैलाशो
+सैनी
+,
+पूर्व
+सांसद
+ईश्वर
+सिंह
+और
+पूर्व
+सांसद
+एवं
+पूर्व
+मंत्री
+रणजीत
+सिंह
+चौटाला
+समेत
+कई
+नेता
+शामिल
+हैं
+.

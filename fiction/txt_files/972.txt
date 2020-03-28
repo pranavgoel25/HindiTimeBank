@@ -1,520 +1,520 @@
-यद्यपि	CC	O	O	O
-मेरी	PRP	O	O	O
-स्मरण-शक्ति	NN	O	O	O
-पृथ्वी	NN	O	O	O
-के	PSP	O	O	O
-इतिहास	NN	O	O	O
-की	PSP	O	O	O
-सारी	QF	O	O	O
-स्मरणीय	JJ	O	O	O
-तारीखें	NN	O	O	O
-भूल	VM	O	B-MISC	O
-गयीं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-तारीखें	NN	O	O	O
-जिन्हें	PRP	O	O	O
-रातों	NN	O	O	O
-को	PSP	O	O	O
-जागकर	VM	O	B-MISC	OCC
-और	CC	O	O	O
-मस्तिष्क	NN	O	O	O
-को	PSP	O	O	O
-खपाकर	VM	O	O	O
-याद	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-मगर	CC	O	O	O
-विवाह	NN	O	O	O
-की	PSP	O	O	O
-तिथि	NN	O	O	O
-समतल	JJ	O	O	O
-भूमि	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-स्तंभ	NN	O	O	O
-की	PSP	O	O	O
-भांति	PSP	O	O	O
-अटल	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-न	NEG	O	O	O
-भूलता	VM	O	O	O
-हूं	VAUX	O	O	O
-,	SYM	O	O	O
-न	NEG	O	B-MISC	OCC
-भूल	VM	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उससे	PRP	O	O	O
-पहले	NST	O	O	O
-और	CC	O	O	O
-पीछे	NST	O	O	O
-की	PSP	O	O	O
-सारी	QF	O	O	O
-घटनाएं	NN	O	O	O
-दिल	NN	O	O	O
-में	PSP	O	O	O
-मिट	VM	O	B-MISC	OCC
-गयीं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उनका	PRP	O	O	O
-निशान	NN	O	O	O
-तक	RP	O	O	O
-बाकी	JJ	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-सारी	QF	O	O	O
-अनेकता	NN	O	O	O
-एक	QC	O	O	O
-एकता	NN	O	O	O
-में	PSP	O	O	O
-मिश्रित	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-वह	PRP	O	O	O
-मेरे	PRP	O	O	O
-विवाह	NN	O	O	O
-की	PSP	O	O	O
-तिथि	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-चाहता	VM	O	B-MISC	O
-हूं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उसे	PRP	O	O	O
-भूल	VM	O	B-MISC	OCC
-जाऊं	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-मगर	CC	O	O	O
-जिस	DEM	O	O	O
-तिथि	NN	O	O	O
-का	PSP	O	O	O
-नित्य-प्रति	NN	O	O	O
-सुमिरन	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जाता	VAUX	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-कैसे	WQ	O	O	O
-भूल	VM	O	O	O
-जाय	VAUX	O	O	O
-;	SYM	O	O	O
-नित्य-प्रति	NN	O	O	O
-सुमिरन	NN	O	O	O
-क्यों	WQ	O	O	O
-करता	VM	O	B-MISC	O
-हूं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-यह	PRP	O	O	O
-उस	DEM	O	O	O
-विपत्ति-मारे	NN	O	O	O
-से	PSP	O	O	O
-पूछिए	VM	O	O	O
-जिसे	PRP	O	O	O
-भगवद्-भजन	NN	O	O	O
-के	PSP	O	O	O
-सिवा	PSP:?	O	O	O
-जीवन	NN	O	O	O
-के	PSP	O	O	O
-उद्धार	NN	O	O	O
-का	PSP	O	O	O
-कोई	PRP	O	O	O
-आधार	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-रहा	VM	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-लेकिन	CC	O	O	O
-क्या	WQ	O	O	O
-मैं	PRP	O	O	O
-वैवाहिक	JJ	O	O	O
-जीवन	NN	O	O	O
-से	PSP	O	O	O
-इसलिए	CC	O	O	O
-भागता	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-मुझमें	PRP	O	O	O
-रसिकता	NN	O	O	O
-का	PSP	O	O	O
-अभाव	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-और	CC	O	O	O
-मैं	PRP	O	O	O
-कोमल	JJ	O	O	O
-वर्ग	NN	O	O	O
-की	PSP	O	O	O
-मोहनी	JJ	O	O	O
-शक्ति	NN	O	O	O
-से	PSP	O	O	O
-निर्लिप्त	JJ	O	B-MISC	O
-हूं	VM	O	I-MISC	O
-और	CC	O	O	O
-अनासक्ति	NN	O	O	O
-का	PSP	O	O	O
-पद	NN	O	O	O
-प्राप्त	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-चुका	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-क्या	WQ	O	O	O
-मैं	PRP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-चाहता	VM	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-जब	PRP	O	O	O
-मैं	PRP	O	O	O
-सैर	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-निकलूं	VM	O	I-MISC	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-हृदयेश्वरी	NN	O	O	O
-भी	RP	O	O	O
-मेरे	PRP	O	O	O
-साथ	NST	O	O	O
-विराजमान	JJ	O	B-MISC	OCC
-हों	VM	O	I-MISC	O
-.	SYM	O	O	O
-विलास-वस्तुओं	NN	O	O	O
-की	PSP	O	O	O
-दुकानों	NN	O	O	O
-पर	PSP	O	O	O
-उनके	PRP	O	O	O
-साथ	NST	O	O	O
-जाकर	VM	O	B-MISC	OCC
-थोड़ी	JJ	O	O	O
-देर	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-रसमय	NN	O	O	O
-आग्रह	NN	O	O	O
-का	PSP	O	O	O
-आनंद	NN	O	B-MISC	OCC
-उठाऊं	VM	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-उस	DEM	O	O	O
-गर्व	NN	O	O	O
-और	CC	O	O	O
-आनंद	NNP	O	O	O
-और	CC	O	O	O
-महत्व	NN	O	O	O
-का	PSP	O	O	O
-अनुभव	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-मेरे	PRP	O	O	O
-अन्य	JJ	O	O	O
-भाइयों	NN	O	O	O
-की	PSP	O	O	O
-भांति	PSP	O	O	O
-मेरे	PRP	O	O	O
-हृदय	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-आंदोलित	JJ	O	B-MISC	O
-होगा	VM	O	I-MISC	OCC
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-मेरे	PRP	O	O	O
-भाग्य	NN	O	O	O
-में	PSP	O	O	O
-वह	PRP	O	O	O
-खुशियां	NN	O	O	O
-वह	PRP	O	O	O
-रंगरेलियां	NN	O	B-MISC	O
-नहीं	NEG	O	I-MISC	DECL
-हैं	VM	O	I-MISC	O
-.	SYM	O	O	O
-क्योंकि	CC	O	O	O
-चित्र	NN	O	O	O
-का	PSP	O	O	O
-दूसरा	QO	O	O	O
-पक्ष	NN	O	O	O
-भी	RP	O	O	O
-तो	RP	O	O	O
-देखता	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एक	QC	O	O	O
-पक्ष	NN	O	O	O
-जितना	QF	O	O	O
-ही	RP	O	O	O
-मोहक	JJ	O	O	O
-और	CC	O	O	O
-आकर्षक	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-,	SYM	O	O	O
-दूसरा	QO	O	O	O
-उतना	QF	O	O	O
-ही	RP	O	O	O
-हृदयविदारक	JJ	O	O	O
-और	CC	O	O	O
-भयंकर	JJ	O	O	O
-.	SYM	O	O	O
-शाम	NN	O	B-MISC	O
-हुई	VM	O	I-MISC	O
-और	CC	O	O	O
-आप	PRP	O	O	O
-बदनसीब	JJ	O	O	O
-बच्चे	NN	O	O	O
-को	PSP	O	O	O
-गोद	NN	O	O	O
-में	PSP	O	O	O
-लिये	VM	O	B-MISC	OCC
-तेल	NN	O	O	O
-या	CC	O	O	O
-ईंधन	NN	O	O	O
-की	PSP	O	O	O
-दुकान	NN	O	O	O
-पर	PSP	O	O	O
-खड़े	JJ	O	B-STAT	DECL
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-अंधेरा	NN	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-और	CC	O	O	O
-आप	PRP	O	O	O
-आटे	NN	O	O	O
-की	PSP	O	O	O
-पोटली	NN	O	O	O
-बगल	NN	O	O	O
-में	PSP	O	O	O
-दबाये	VM	O	O	O
-गलियों	NN	O	O	O
-में	PSP	O	O	O
-यों	RP	O	O	O
-कदम	XC	O	O	O
-बढ़ाये	NNP	O	O	O
-हुए	VM	O	O	O
-निकल	VM	O	B-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मानो	RP:?	O	O	O
-चोरी	NN	O	B-MISC	OCC
-की	PSP	O	I-MISC	O
-है	VM	O	I-MISC	O
-.	SYM	O	O	O
-सूर्य	NN	O	O	O
-निकला	VM	O	O	O
-और	CC	O	O	O
-बालकों	NN	O	O	O
-को	PSP	O	O	O
-गोद	NN	O	O	O
-में	PSP	O	O	O
-लिये	PSP	O	O	O
-होमियोपैथ	JJ	O	O	O
-डाक्टर	NN	O	O	O
-की	PSP	O	O	O
-दुकान	NN	O	O	O
-में	PSP	O	O	O
-टूटी	VM	O	B-MISC	O
-कुर्सी	NN	O	O	O
-पर	PSP	O	O	O
-आरूढ़	XC	O	B-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-किसी	PRP	O	O	O
-खोंचेवाले	NN	O	O	O
-की	PSP	O	O	O
-रसीली	JJ	O	O	O
-आवाज	NN	O	O	O
-सुनकर	VM	O	B-MISC	O
-बालक	NN	O	O	O
-ने	PSP	O	O	O
-गगनभेदी	JJ	O	O	O
-विलाप	NN	O	O	O
-आरंभ	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-और	CC	O	O	O
-आपके	PRP	O	O	O
-प्राण	NN	O	O	O
-सूखे	JJ	O	O	O
-.	SYM	O	O	O
-ऐसे	DEM	O	O	O
-बापों	NN	O	O	O
-को	PSP	O	O	O
-भी	RP	O	O	O
-देखा	VM	O	B-MISC	-1
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-दफ्तर	NN	O	O	O
-से	PSP	O	O	O
-लौटते	VM	O	B-MISC	OCC
-हुए	VAUX	O	I-MISC	O
-पैसे-दो	PRP	O	O	O
-पैसे	NN	O	O	O
-की	PSP	O	O	O
-मूंगफली	NN	O	O	O
-या	CC	O	O	O
-रेवड़ियां	NN	O	O	O
-लेकर	VM	O	O	O
-लज्जास्पद	JJ	O	O	O
-शीघ्रता	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-मुंह	NN	O	O	O
-में	PSP	O	O	O
-रखते	VM	O	B-MISC	O
-चले	VM	O	I-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-घर	NN	O	O	O
-पहुंचते-पहुंचते	VM	O	O	OCC
-बालकों	NN	O	O	O
-के	PSP	O	O	O
-आक्रमण	NN	O	O	O
-से	PSP	O	O	O
-पहले	NST	O	O	O
-ही	RP	O	O	O
-यह	DEM	O	O	O
-पदार्थ	NN	O	O	O
-समाप्त	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाय	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कितना	QF	O	O	O
-निराशाजनक	JJ	O	O	OCC
-होता	VM	O	B-STAT	O
-है	VAUX	O	I-STAT	O
-यह	DEM	O	O	O
-दृश्य	NN	O	O	O
-,	SYM	O	O	O
-जब	PRP	O	O	O
-देखता	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-मेले	NN	O	O	O
-में	PSP	O	O	O
-बच्चा	NN	O	O	O
-किसी	PRP	O	O	O
-खिलौने	NN	O	O	O
-की	PSP	O	O	O
-दुकान	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	B-MISC	OCC
-मचल	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-पिता	NN	O	O	O
-महोदय	RP	O	O	O
-ऋषियों	NN	O	O	O
-की-सी	JJ	O	O	O
-विद्वता	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-उनकी	PRP	O	O	O
-क्षणभंगुरता	NN	O	O	O
-का	PSP	O	O	O
-राग	NN	O	O	O
-अलाप	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-चित्र	NN	O	O	O
-का	PSP	O	O	O
-पहला	QO	O	O	O
-रुख	NN	O	O	O
-तो	RP	O	O	O
-मेरे	PRP	O	O	O
-लिए	PSP	O	O	O
-एक	QC	O	O	O
-मदन-स्वप्न	NN	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-दूसरा	QO	O	O	O
-रुख	NN	O	O	O
-एक	QC	O	O	O
-भयंकर	JJ	O	O	O
-सत्य	NN	O	O	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-सत्य	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	O	O
-मेरी	PRP	O	O	O
-सारी	QF	O	O	O
-रसिकता	NN	O	O	O
-अंतर्धान	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मेरी	PRP	O	O	O
-सारी	QF	O	O	O
-मौलिकता	NN	O	O	O
-,	SYM	O	O	O
-सारी	QF	O	O	O
-रचनाशीलता	NN	O	O	O
-इसी	DEM	O	O	O
-दांपत्य	NN	O	O	O
-के	PSP	O	O	O
-फंदों	NN	O	O	O
-से	PSP	O	O	O
-बचने	VM	O	O	O
-में	PSP	O	O	O
-प्रयुक्त	JJ	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जानता	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-जाल	NN	O	O	O
-के	PSP	O	O	O
-नीचे	NST	O	O	O
-जाना	VM	O	B-STAT	O
-है	VAUX	O	I-STAT	O
-,	SYM	O	O	O
-मगर	CC	O	O	O
-जाल	NN	O	O	O
-जितना	QF	O	O	O
-ही	RP	O	O	O
-रंगीन	JJ	O	O	O
-और	CC	O	O	O
-ग्राहक	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-,	SYM	O	O	O
-दाना	NN	O	O	O
-उतना	QF	O	O	O
-ही	RP	O	O	O
-घातक	JJ	O	O	O
-और	CC	O	O	O
-विषैला	JJ	O	O	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-जाल	NN	O	O	O
-में	PSP	O	O	O
-पक्षियों	NN	O	O	O
-को	PSP	O	O	O
-तड़पते	NNP	O	O	O
-और	CC	O	O	O
-फड़फड़ाते	VM	O	B-MISC	OCC
-देखता	VM	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-फिर	RB	O	O	O
-भी	RP	O	O	O
-जाल	NN	O	O	O
-पर	PSP	O	O	O
-जा	VM	O	B-MISC	OCC
-बैठता	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+यद्यपि
+मेरी
+स्मरण-शक्ति
+पृथ्वी
+के
+इतिहास
+की
+सारी
+स्मरणीय
+तारीखें
+भूल
+गयीं
+,
+वह
+तारीखें
+जिन्हें
+रातों
+को
+जागकर
+और
+मस्तिष्क
+को
+खपाकर
+याद
+किया
+था
+;
+मगर
+विवाह
+की
+तिथि
+समतल
+भूमि
+में
+एक
+स्तंभ
+की
+भांति
+अटल
+है
+.
+न
+भूलता
+हूं
+,
+न
+भूल
+सकता
+हूं
+.
+उससे
+पहले
+और
+पीछे
+की
+सारी
+घटनाएं
+दिल
+में
+मिट
+गयीं
+,
+उनका
+निशान
+तक
+बाकी
+नहीं
+.
+वह
+सारी
+अनेकता
+एक
+एकता
+में
+मिश्रित
+हो
+गयी
+है
+और
+वह
+मेरे
+विवाह
+की
+तिथि
+है
+.
+चाहता
+हूं
+,
+उसे
+भूल
+जाऊं
+;
+मगर
+जिस
+तिथि
+का
+नित्य-प्रति
+सुमिरन
+किया
+जाता
+हो
+,
+वह
+कैसे
+भूल
+जाय
+;
+नित्य-प्रति
+सुमिरन
+क्यों
+करता
+हूं
+,
+यह
+उस
+विपत्ति-मारे
+से
+पूछिए
+जिसे
+भगवद्-भजन
+के
+सिवा
+जीवन
+के
+उद्धार
+का
+कोई
+आधार
+न
+रहा
+हो
+.
+लेकिन
+क्या
+मैं
+वैवाहिक
+जीवन
+से
+इसलिए
+भागता
+हूं
+कि
+मुझमें
+रसिकता
+का
+अभाव
+है
+और
+मैं
+कोमल
+वर्ग
+की
+मोहनी
+शक्ति
+से
+निर्लिप्त
+हूं
+और
+अनासक्ति
+का
+पद
+प्राप्त
+कर
+चुका
+हूं
+.
+क्या
+मैं
+नहीं
+चाहता
+हूं
+कि
+जब
+मैं
+सैर
+करने
+निकलूं
+,
+तो
+हृदयेश्वरी
+भी
+मेरे
+साथ
+विराजमान
+हों
+.
+विलास-वस्तुओं
+की
+दुकानों
+पर
+उनके
+साथ
+जाकर
+थोड़ी
+देर
+के
+लिए
+रसमय
+आग्रह
+का
+आनंद
+उठाऊं
+.
+मैं
+उस
+गर्व
+और
+आनंद
+और
+महत्व
+का
+अनुभव
+कर
+सकता
+हूं
+,
+जो
+मेरे
+अन्य
+भाइयों
+की
+भांति
+मेरे
+हृदय
+में
+भी
+आंदोलित
+होगा
+,
+लेकिन
+मेरे
+भाग्य
+में
+वह
+खुशियां
+वह
+रंगरेलियां
+नहीं
+हैं
+.
+क्योंकि
+चित्र
+का
+दूसरा
+पक्ष
+भी
+तो
+देखता
+हूं
+.
+एक
+पक्ष
+जितना
+ही
+मोहक
+और
+आकर्षक
+है
+,
+दूसरा
+उतना
+ही
+हृदयविदारक
+और
+भयंकर
+.
+शाम
+हुई
+और
+आप
+बदनसीब
+बच्चे
+को
+गोद
+में
+लिये
+तेल
+या
+ईंधन
+की
+दुकान
+पर
+खड़े
+हैं
+.
+अंधेरा
+हुआ
+और
+आप
+आटे
+की
+पोटली
+बगल
+में
+दबाये
+गलियों
+में
+यों
+कदम
+बढ़ाये
+हुए
+निकल
+जाते
+हैं
+,
+मानो
+चोरी
+की
+है
+.
+सूर्य
+निकला
+और
+बालकों
+को
+गोद
+में
+लिये
+होमियोपैथ
+डाक्टर
+की
+दुकान
+में
+टूटी
+कुर्सी
+पर
+आरूढ़
+हैं
+.
+किसी
+खोंचेवाले
+की
+रसीली
+आवाज
+सुनकर
+बालक
+ने
+गगनभेदी
+विलाप
+आरंभ
+किया
+और
+आपके
+प्राण
+सूखे
+.
+ऐसे
+बापों
+को
+भी
+देखा
+है
+,
+जो
+दफ्तर
+से
+लौटते
+हुए
+पैसे-दो
+पैसे
+की
+मूंगफली
+या
+रेवड़ियां
+लेकर
+लज्जास्पद
+शीघ्रता
+के
+साथ
+मुंह
+में
+रखते
+चले
+जाते
+हैं
+कि
+घर
+पहुंचते-पहुंचते
+बालकों
+के
+आक्रमण
+से
+पहले
+ही
+यह
+पदार्थ
+समाप्त
+हो
+जाय
+.
+कितना
+निराशाजनक
+होता
+है
+यह
+दृश्य
+,
+जब
+देखता
+हूं
+कि
+मेले
+में
+बच्चा
+किसी
+खिलौने
+की
+दुकान
+के
+सामने
+मचल
+रहा
+है
+और
+पिता
+महोदय
+ऋषियों
+की-सी
+विद्वता
+के
+साथ
+उनकी
+क्षणभंगुरता
+का
+राग
+अलाप
+रहे
+हैं
+.
+चित्र
+का
+पहला
+रुख
+तो
+मेरे
+लिए
+एक
+मदन-स्वप्न
+है
+,
+दूसरा
+रुख
+एक
+भयंकर
+सत्य
+.
+इस
+सत्य
+के
+सामने
+मेरी
+सारी
+रसिकता
+अंतर्धान
+हो
+जाती
+है
+.
+मेरी
+सारी
+मौलिकता
+,
+सारी
+रचनाशीलता
+इसी
+दांपत्य
+के
+फंदों
+से
+बचने
+में
+प्रयुक्त
+हुई
+है
+.
+जानता
+हूं
+कि
+जाल
+के
+नीचे
+जाना
+है
+,
+मगर
+जाल
+जितना
+ही
+रंगीन
+और
+ग्राहक
+है
+,
+दाना
+उतना
+ही
+घातक
+और
+विषैला
+.
+इस
+जाल
+में
+पक्षियों
+को
+तड़पते
+और
+फड़फड़ाते
+देखता
+हूं
+और
+फिर
+भी
+जाल
+पर
+जा
+बैठता
+हूं
+.

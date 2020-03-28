@@ -1,213 +1,213 @@
-त्योहारों	NN	O	O	O
-के	PSP	O	O	O
-मौसम	NN	O	O	O
-में	PSP	O	O	O
-यात्रियों	NN	O	O	O
-की	PSP	O	O	O
-सुविधा	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-रेलवे	NN	O	O	O
-ने	PSP	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-झांसी	NN	O	O	O
-और	CC	O	O	O
-कानपुर	JJ	O	O	O
-स्टेशनों	NN	O	O	O
-से	PSP	O	O	O
-जम्मूतवी	NNP	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-दो	QC	O	O	O
-स्पेशल	JJ	O	O	O
-ट्रेनों	NN	O	O	O
-को	PSP	O	O	O
-चलाने	VM	O	B-MISC	O
-का	PSP	O	O	O
-फैसला	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अक्टूबर	NNP	O	O	O
-से	PSP	O	O	O
-दिसंबर	NNP	O	O	O
-तक	RP	O	O	O
-रेलवे	XC	O	O	O
-झांसी	NN	O	O	O
-से	PSP	O	O	O
-जम्मूतवी	NNP	O	O	O
-और	CC	O	O	O
-कानपुर	XC	O	O	O
-सेंट्रल	NNP	O	O	O
-से	PSP	O	O	O
-जम्मूतवी	NNP	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-साप्ताहिक	JJ	O	O	O
-स्पेशल	JJ	O	O	O
-ट्रेनों	NN	O	O	O
-का	PSP	O	O	O
-संचालन	NN	O	B-MISC	OCC
-करेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-इन	DEM	O	O	O
-ट्रेनों	NN	O	O	O
-के	PSP	O	O	O
-संचालन	NN	O	O	O
-से	PSP	O	O	O
-उन	DEM	O	O	O
-यात्रियों	NN	O	O	O
-को	PSP	O	O	O
-लाभ	NN	O	B-MISC	OCC
-होगा	VM	O	I-MISC	O
-जो	PRP	O	O	O
-दीपावली	NN	O	O	O
-पर	PSP	O	O	O
-जम्मू-कश्मीर	NN	O	O	O
-,	SYM	O	O	O
-पंजाब	NNP	O	O	O
-और	CC	O	O	O
-दिल्ली	NNP	O	O	O
-से	PSP	O	O	O
-अपने	PRP	O	O	O
-घरों	NN	O	O	O
-को	PSP	O	O	O
-जाना	VM	O	B-MISC	OCC
-चाहते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उत्तर	XC	O	O	O
-रेलवे	NN	O	O	O
-के	PSP	O	O	O
-मुख्य	JJ	O	O	O
-जनसंपर्क	NN	O	O	O
-अधिकारी	JJ	O	O	O
-दीपक	XC	O	O	O
-कुमार	NNP	O	O	O
-के	PSP	O	O	O
-अनुसार	PSP:?	O	O	O
-11	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-से	PSP	O	O	O
-13	QC	B	O	O
-दिसंबर	NNP	I	O	O
-तक	RP	O	O	O
-रेलवे	XC	O	O	O
-झांसी	NN	O	O	O
-से	PSP	O	O	O
-जम्मूतवी	NNP	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-स्पेशल	XC	O	O	O
-एक्सप्रेस	NNP	O	O	O
-ट्रेन	NN	O	O	O
-का	PSP	O	O	O
-संचालन	NN	O	B-MISC	OCC
-करेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-ट्रेन	NN	O	O	O
-0	QC	O	O	O
-4193	QC	O	O	O
-/	SYM	O	O	O
-0	QC	O	O	O
-4194	QC	O	O	O
-झांसी-जम्मूतवी-झांसी	NN	O	O	O
-साप्ताहिक	JJ	O	O	O
-एक्सप्रेस	NN	O	O	O
-प्रत्येक	QF	O	O	O
-शुक्रवार	NN	O	O	O
-को	PSP	O	O	O
-झांसी	NN	O	O	O
-से	PSP	O	O	O
-सुबह	NN	B	O	O
-0	QC	B	O	O
-7.15	QC	I	O	O
-बजे	RP:?	I	O	O
-चलकर	VM	O	B-MISC	OCC
-अगले	NST	O	O	O
-दिन	NN	O	O	O
-मध्यरात्रि	NNP	O	O	O
-0	QC	O	O	O
-1.25	QC	O	O	O
-बजे	RP:?	O	O	O
-जम्मूतवी	NN	O	B-MISC	O
-पहुंचेगी	VM	O	I-MISC	OCC
-.	SYM	O	O	O
-वापसी	NN	O	O	O
-में	PSP	O	O	O
-यह	DEM	O	O	O
-शनिवार	NN	O	O	O
-को	PSP	O	O	O
-जम्मूतवी	NNP	O	O	O
-से	PSP	O	O	O
-सुबह	NN	O	O	O
-5.30	QC	O	O	O
-पर	PSP	O	O	O
-प्रस्थान	NN	O	B-MISC	OCC
-करके	VM	O	I-MISC	O
-अगले	NST	O	O	O
-दिन	NN	B	O	O
-रात	NN	B	O	O
-सवा	QF	B	O	O
-12	QC	I	O	O
-बजे	RP:?	O	O	O
-झांसी	NN	O	B-MISC	O
-पहुंचेगी	VM	O	I-MISC	OCC
-.	SYM	O	O	O
-इस	DEM	O	O	O
-दौरान	NST	O	O	O
-इस	DEM	O	O	O
-ट्रेन	NN	O	O	O
-को	PSP	O	O	O
-दतिया	XC	O	O	O
-,	SYM	O	O	O
-डबरा	XC	O	O	O
-,	SYM	O	O	O
-ग्वालियर	NN	O	O	O
-,	SYM	O	O	O
-मुरैना	NN	O	O	O
-,	SYM	O	O	O
-धौलपुर	NNP	O	O	O
-,	SYM	O	O	O
-आगरा	NNP	O	O	O
-छावनी	NN	O	O	O
-,	SYM	O	O	O
-मथुरा	NNP	O	O	O
-जंक्शन	NN	O	O	O
-,	SYM	O	O	O
-दिल्ली	NNP	O	O	O
-सफदरजंग	XC	O	O	O
-,	SYM	O	O	O
-अंबाला	NN	O	O	O
-और	CC	O	O	O
-लुधियाना	NN	O	O	O
-स्टेशनों	NN	O	O	O
-पर	PSP	O	O	O
-ठहराव	NN	O	B-MISC	O
-दिया	VM	O	I-MISC	OCC
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-ट्रेन	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-एसी	NN	O	O	O
-टू	PSP	O	O	O
-टीयर	NN	O	O	O
-,	SYM	O	O	O
-4	QC	O	O	O
-एसी	XC	O	O	O
-थ्री	XC	O	O	O
-टीयर	NN	O	O	O
-,	SYM	O	O	O
-9	QC	O	O	O
-स्लीपर	NN	O	O	O
-और	CC	O	O	O
-6	QC	O	O	O
-जनरल	XC	O	O	O
-कोच	NN	O	O	O
-लगाए	VM	O	B-MISC	OCC
-जाएंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+त्योहारों
+के
+मौसम
+में
+यात्रियों
+की
+सुविधा
+के
+लिए
+रेलवे
+ने
+बुधवार
+को
+झांसी
+और
+कानपुर
+स्टेशनों
+से
+जम्मूतवी
+के
+बीच
+दो
+स्पेशल
+ट्रेनों
+को
+चलाने
+का
+फैसला
+किया
+है
+.
+अक्टूबर
+से
+दिसंबर
+तक
+रेलवे
+झांसी
+से
+जम्मूतवी
+और
+कानपुर
+सेंट्रल
+से
+जम्मूतवी
+के
+बीच
+साप्ताहिक
+स्पेशल
+ट्रेनों
+का
+संचालन
+करेगा
+.
+इन
+ट्रेनों
+के
+संचालन
+से
+उन
+यात्रियों
+को
+लाभ
+होगा
+जो
+दीपावली
+पर
+जम्मू-कश्मीर
+,
+पंजाब
+और
+दिल्ली
+से
+अपने
+घरों
+को
+जाना
+चाहते
+हैं
+.
+उत्तर
+रेलवे
+के
+मुख्य
+जनसंपर्क
+अधिकारी
+दीपक
+कुमार
+के
+अनुसार
+11
+अक्टूबर
+से
+13
+दिसंबर
+तक
+रेलवे
+झांसी
+से
+जम्मूतवी
+के
+बीच
+स्पेशल
+एक्सप्रेस
+ट्रेन
+का
+संचालन
+करेगा
+.
+यह
+ट्रेन
+0
+4193
+/
+0
+4194
+झांसी-जम्मूतवी-झांसी
+साप्ताहिक
+एक्सप्रेस
+प्रत्येक
+शुक्रवार
+को
+झांसी
+से
+सुबह
+0
+7.15
+बजे
+चलकर
+अगले
+दिन
+मध्यरात्रि
+0
+1.25
+बजे
+जम्मूतवी
+पहुंचेगी
+.
+वापसी
+में
+यह
+शनिवार
+को
+जम्मूतवी
+से
+सुबह
+5.30
+पर
+प्रस्थान
+करके
+अगले
+दिन
+रात
+सवा
+12
+बजे
+झांसी
+पहुंचेगी
+.
+इस
+दौरान
+इस
+ट्रेन
+को
+दतिया
+,
+डबरा
+,
+ग्वालियर
+,
+मुरैना
+,
+धौलपुर
+,
+आगरा
+छावनी
+,
+मथुरा
+जंक्शन
+,
+दिल्ली
+सफदरजंग
+,
+अंबाला
+और
+लुधियाना
+स्टेशनों
+पर
+ठहराव
+दिया
+जाएगा
+.
+इस
+ट्रेन
+में
+एक
+एसी
+टू
+टीयर
+,
+4
+एसी
+थ्री
+टीयर
+,
+9
+स्लीपर
+और
+6
+जनरल
+कोच
+लगाए
+जाएंगे
+.

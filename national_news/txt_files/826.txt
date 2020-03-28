@@ -1,237 +1,237 @@
-पिछले	JJ	B	O	O
-हफ्ते	NN	I	O	O
-की	PSP	O	O	O
-भारी	JJ	O	O	O
-बारिश	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-बिहार	NNP	O	O	O
-की	PSP	O	O	O
-राजधानी	NN	O	O	O
-पटना	NNP	O	O	O
-के	PSP	O	O	O
-कुछ	QF	O	O	O
-इलाकों	NN	O	O	O
-में	PSP	O	O	O
-अब	PRP	O	O	O
-भी	RP	O	O	O
-जल-जमाव	NN	O	B-MISC	O
-रहने	VM	O	I-MISC	O
-की	PSP	O	O	O
-वजह	NN	O	O	O
-से	PSP	O	O	O
-डेंगू	NN	O	O	O
-और	CC	O	O	O
-वेक्टर	NN	O	O	O
-जनित	JJ	O	O	O
-अन्य	JJ	O	O	O
-बीमारियों	NN	O	O	O
-का	PSP	O	O	O
-खतरा	NN	O	B-MISC	OCC
-मंडरने	VM	O	I-MISC	O
-लगा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-प्रदेश	NN	O	O	O
-स्वास्थ्य	XC	O	O	O
-विभाग	NN	O	O	O
-के	PSP	O	O	O
-अनुसार	PSP:?	O	O	O
-पटना	NNP	O	O	O
-में	PSP	O	O	O
-27	QC	B	O	O
-सितंबर	NNP	I	O	O
-से	PSP	O	O	O
-अबतक	JJ	O	O	O
-डेंगू	NN	O	O	O
-के	PSP	O	O	O
-250	QC	O	O	O
-मामले	NN	O	O	O
-सामने	NST	O	B-MISC	OCC
-आये	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-शहर	NN	O	O	O
-में	PSP	O	O	O
-इसी	DEM	O	O	O
-दिन	NN	O	O	O
-से	PSP	O	O	O
-बारिश	NN	O	O	O
-शुरू	NN	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-जो	PRP	O	O	O
-अगले	JJ	O	O	O
-कुछ	QF	O	O	O
-दिनों	NN	O	O	O
-तक	RP	O	O	O
-जारी	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-डेंगू	NN	O	O	O
-के	PSP	O	O	O
-मामले	NN	O	O	O
-की	PSP	O	O	O
-तेजी	RB	O	O	O
-का	PSP	O	O	O
-अंदाजा	NN	O	O	O
-इस	DEM	O	O	O
-बात	NN	O	O	O
-से	PSP	O	O	O
-लगाया	VM	O	B-MISC	O
-जा	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-पटना	NNP	O	O	O
-में	PSP	O	O	O
-इस	DEM	O	O	O
-साल	NN	O	O	O
-एक	QC	O	O	O
-जनवरी	NN	O	O	O
-से	PSP	O	O	O
-27	QC	O	O	O
-सितंबर	NNP	O	O	O
-तक	RP	O	O	O
-इस	DEM	O	O	O
-बीमारी	NN	O	O	O
-के	PSP	O	O	O
-409	QC	O	O	O
-मामले	NN	O	O	O
-सामने	NST	O	B-MISC	OCC
-आये	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-विभाग	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-जिन	DEM	O	O	O
-इलाकों	NN	O	O	O
-में	PSP	O	O	O
-पानी	NN	O	B-MISC	OCC
-जमा	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-वहां	PRP	O	O	O
-सघन	JJ	O	O	O
-फॉगिंग	NN	O	B-MISC	O
-की	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-तथा	CC	O	O	O
-सभी	QF	O	O	O
-मेडिकल	XC	O	O	O
-कालेज	XC	O	O	O
-अस्पतालों	NN	O	O	O
-को	PSP	O	O	O
-डेंगू	NN	O	O	O
-के	PSP	O	O	O
-इलाज	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-सतर्क	NN	O	B-MISC	O
-रहने	VM	O	I-MISC	O
-को	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-विभाग	NN	O	O	O
-ने	PSP	O	O	O
-यह	PRP	O	O	O
-भी	RP	O	O	O
-कहा	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-दशहरा	XC	O	O	O
-त्योहार	NN	O	O	O
-के	PSP	O	O	O
-तुरंत	RB	O	O	O
-बाद	NST	O	O	O
-10	QC	O	O	O
--	SYM	O	O	O
-12	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-शहर	NN	O	O	O
-के	PSP	O	O	O
-सबसे	INTF	O	O	O
-अधिक	QF	O	O	O
-प्रभावित	JJ	O	O	O
-क्षेत्र	NN	O	O	O
-में	PSP	O	O	O
-डेंगू	NN	O	O	O
-और	CC	O	O	O
-चिकनगुनिया	NN	O	O	O
-के	PSP	O	O	O
-इलाज	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-मुफ्त	JJ	O	O	O
-चिकित्सा	XC	O	O	O
-शिविर	NN	O	B-MISC	O
-लगाने	VM	O	I-MISC	O
-का	PSP	O	O	O
-प्रयास	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-केंद्रीय	XC	O	O	O
-स्वास्थ्य	XC	O	O	O
-राज्य	XC	O	O	O
-मंत्री	NN	O	O	O
-अश्विनी	XC	O	O	O
-कुमार	NNP	O	O	O
-चौबे	NN	O	O	O
-के	PSP	O	O	O
-कार्यालय	NN	O	O	O
-से	PSP	O	O	O
-जारी	JJ	O	O	O
-बयान	NN	O	O	O
-में	PSP	O	O	O
-कहा	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-संकट	NN	O	O	O
-का	PSP	O	O	O
-मुकाबला	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-केंद्र	NN	O	O	O
-ने	PSP	O	O	O
-अपने	PRP	O	O	O
-संसाधनों	NN	O	O	O
-को	PSP	O	O	O
-लगाया	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जिला	JJ	O	O	O
-मजिस्ट्रेट	XC	O	O	O
-कुमार	NNP	O	O	O
-रवि	NN	O	O	O
-ने	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-कि	CC	O	O	O
-जल	XC	O	O	O
-जमाव	NN	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	O	O
-लगभग	RB	O	O	O
-दो	QC	O	O	O
-लाख	QC	O	O	O
-25	QC	O	O	O
-हजार	QC	O	O	O
-लोग	NN	O	O	O
-प्रभावित	JJ	O	B-STAT	DEC
-हुए	VM	O	I-STAT	O
-हैं	VAUX	O	I-STAT	O
-.	SYM	O	O	O
+पिछले
+हफ्ते
+की
+भारी
+बारिश
+के
+बाद
+बिहार
+की
+राजधानी
+पटना
+के
+कुछ
+इलाकों
+में
+अब
+भी
+जल-जमाव
+रहने
+की
+वजह
+से
+डेंगू
+और
+वेक्टर
+जनित
+अन्य
+बीमारियों
+का
+खतरा
+मंडरने
+लगा
+है
+.
+प्रदेश
+स्वास्थ्य
+विभाग
+के
+अनुसार
+पटना
+में
+27
+सितंबर
+से
+अबतक
+डेंगू
+के
+250
+मामले
+सामने
+आये
+हैं
+.
+शहर
+में
+इसी
+दिन
+से
+बारिश
+शुरू
+हुई
+थी
+जो
+अगले
+कुछ
+दिनों
+तक
+जारी
+रही
+.
+डेंगू
+के
+मामले
+की
+तेजी
+का
+अंदाजा
+इस
+बात
+से
+लगाया
+जा
+सकता
+है
+कि
+पटना
+में
+इस
+साल
+एक
+जनवरी
+से
+27
+सितंबर
+तक
+इस
+बीमारी
+के
+409
+मामले
+सामने
+आये
+थे
+.
+हालांकि
+,
+विभाग
+ने
+कहा
+है
+कि
+जिन
+इलाकों
+में
+पानी
+जमा
+है
+वहां
+सघन
+फॉगिंग
+की
+जा
+रही
+है
+तथा
+सभी
+मेडिकल
+कालेज
+अस्पतालों
+को
+डेंगू
+के
+इलाज
+के
+लिए
+सतर्क
+रहने
+को
+कहा
+गया
+है
+.
+विभाग
+ने
+यह
+भी
+कहा
+है
+कि
+दशहरा
+त्योहार
+के
+तुरंत
+बाद
+10
+-
+12
+अक्टूबर
+के
+बीच
+शहर
+के
+सबसे
+अधिक
+प्रभावित
+क्षेत्र
+में
+डेंगू
+और
+चिकनगुनिया
+के
+इलाज
+के
+लिए
+मुफ्त
+चिकित्सा
+शिविर
+लगाने
+का
+प्रयास
+किया
+जा
+रहा
+है
+.
+केंद्रीय
+स्वास्थ्य
+राज्य
+मंत्री
+अश्विनी
+कुमार
+चौबे
+के
+कार्यालय
+से
+जारी
+बयान
+में
+कहा
+गया
+है
+कि
+संकट
+का
+मुकाबला
+करने
+के
+लिए
+केंद्र
+ने
+अपने
+संसाधनों
+को
+लगाया
+है
+.
+जिला
+मजिस्ट्रेट
+कुमार
+रवि
+ने
+बताया
+कि
+जल
+जमाव
+के
+कारण
+लगभग
+दो
+लाख
+25
+हजार
+लोग
+प्रभावित
+हुए
+हैं
+.

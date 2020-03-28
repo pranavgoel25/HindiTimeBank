@@ -1,235 +1,235 @@
-आपके	PRP	O	O	O
-इनकम	DEM	O	O	O
-टैक्स	NN	O	O	O
-रिटर्न	NN	O	O	O
-(	SYM	O	O	O
-ITR	NN	O	O	O
-)	SYM	O	O	O
-फाइल	NN	O	B-MISC	O
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-टैक्स	NN	O	O	O
-डिपार्टमेंट	JJ	O	O	O
-इसकी	PRP	O	O	O
-जांच-पड़ताल	NN	O	O	O
-(	SYM	O	O	O
-प्रोसेसिंग	NN	O	O	O
-)	SYM	O	B-MISC	O
-करता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-इसके	PRP	O	O	O
-बाद	NST	O	O	O
-आपको	PRP	O	O	O
-इनकम	PRP	O	O	O
-टैक्स	NN	O	O	O
-के	PSP	O	O	O
-सेक्शन	NN	O	O	O
-143	QC	O	O	O
-(	SYM	O	O	O
-1	QC	O	O	O
-)	SYM	O	O	O
-के	PSP	O	O	O
-तहत	JJ	O	O	O
-इंटिमेशन	NN	O	O	O
-नोटिस	NN	O	O	O
-भेजता	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आपको	PRP	O	O	O
-इंटिमेशन	NN	O	O	O
-नोटिस	NN	O	O	O
-का	PSP	O	O	O
-मिलना	VM	O	B-MISC	OCC
-जरूरी	JJ	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-जिससे	PRP	O	O	O
-यह	PRP	O	O	O
-सुनिश्चित	JJ	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-आपके	PRP	O	O	O
-द्वारा	PSP	O	O	O
-रिटर्न	NN	O	O	O
-में	PSP	O	O	O
-भरी	VM	O	B-MISC	O
-गई	VAUX	O	I-MISC	O
-डीटेल	NN	O	O	O
-विभाग	NN	O	O	O
-के	PSP	O	O	O
-रेकॉर्ड	NN	O	O	O
-से	PSP	O	O	O
-मैच	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आईटीआर	NN	O	O	O
-की	PSP	O	O	O
-प्रोसेसिंग	NN	O	O	O
-में	PSP	O	O	O
-आयकर	VM	O	O	O
-विभाग	NN	O	O	O
-अधिकतम	JJ	O	O	O
-एक	QC	B	O	O
-महीने	NN	I	O	O
-का	PSP	O	O	O
-वक्त	NN	O	O	O
-लेता	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आईटीआर	JJ	O	O	O
-फाइलिंग	NN	O	O	O
-वेबसाइट	JJ	O	O	O
-टैक्स	NN	O	O	O
-2	QC	O	O	O
-विन	NN	O	O	O
-के	PSP	O	O	O
-को	PSP	O	O	O
-फाउंडर	NN	O	O	O
-तथा	CC	O	O	O
-सीईओ	XC	O	O	O
-अभिषेक	XC	O	O	O
-सोनी	NNP	O	O	O
-कहते	VM	O	O	O
-हैं	VAUX	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-करदाता	NN	O	O	O
-द्वारा	PSP	O	O	O
-अपने	PRP	O	O	O
-रिटर्न	NN	O	O	O
-को	PSP	O	O	O
-वेरिफाई	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-आयकर	VM	O	O	O
-विभाग	NN	O	O	O
-आईटीआर	NN	O	O	O
-की	PSP	O	O	O
-प्रोसेसिंग	NN	O	B-MISC	OCC
-शुरू	NN	O	B-MISC	ASP
-कर	VM	O	I-MISC	O
-देता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बेंगलुरु	NN	O	O	O
-स्थित	JJ	O	O	O
-सेंट्रल	XC	O	O	O
-प्रॉसेसिंग	NN	O	O	O
-सेंटर	NN	O	O	O
-को	PSP	O	O	O
-आईटीआर	NN	O	O	O
-की	PSP	O	O	O
-प्रोसेसिंग	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-में	PSP	O	O	O
-एक	QC	B	O	O
-महीने	NN	I	O	O
-का	PSP	O	O	O
-वक्त	NN	O	O	OCC
-लगता	VM	O	B-STAT	O
-है	VAUX	O	I-STAT	O
-,	SYM	O	O	O
-जिस	DEM	O	O	O
-दौरान	NST	O	O	O
-वह	PRP	O	O	O
-आपके	PRP	O	O	O
-द्वारा	PSP	O	O	O
-क्लेम	NN	O	B-MISC	OCC
-किए	VM	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-टीडीएस	NN	O	O	O
-का	PSP	O	O	O
-फॉर्म	NN	O	O	O
-26	QC	O	O	O
-एएस	NN	O	O	O
-से	PSP	O	O	O
-मिलान	NN	O	B-MISC	OCC
-करता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जोड़-घटाव	NN	O	O	O
-में	PSP	O	O	O
-किसी	PRP	O	O	O
-तरह	NN	O	O	O
-की	PSP	O	O	O
-गलती	NN	O	O	O
-की	PSP	O	O	O
-जांच	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-टैक्स	NN	O	O	O
-तथा	CC	O	O	O
-इंट्रेस्ट	NN	O	O	O
-का	PSP	O	O	O
-कैलकुलेशन	NN	O	B-MISC	OCC
-करता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आप	PRP	O	O	O
-यह	DEM	O	O	O
-याद	NN	O	B-MISC	O
-रखें	VM	O	I-MISC	OCC
-कि	CC	O	O	O
-आयकर	VM	O	O	O
-विभाग	NN	O	O	O
-को	PSP	O	O	O
-आईटीआर	NN	O	O	O
-की	PSP	O	O	O
-प्रोसेसिंग	NN	O	O	O
-जिस	DEM	O	O	O
-वित्त	JJ	O	O	O
-वर्ष	NN	O	O	O
-में	PSP	O	O	O
-रिटर्न	NN	O	O	O
-फाइल	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उसके	PRP	O	O	O
-समाप्त	JJ	O	B-MISC	O
-होने	VM	O	I-MISC	O
-से	PSP	O	O	O
-एक	QC	B	O	O
-साल	NN	I	O	O
-के	PSP	O	O	O
-एक्सपायरी	JJ	O	O	O
-पीरियड	NN	O	O	O
-के	PSP	O	O	O
-भीतर	NST	O	O	O
-करनी	VM	O	B-MISC	OCC
-होती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसलिए	CC	O	O	O
-,	SYM	O	O	O
-वित्त	JJ	O	O	O
-वर्ष	NN	O	O	O
-2018	QC	O	O	O
--	SYM	O	O	O
-19	QC	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-फाइल	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-आईटीआर	NN	O	O	O
-की	PSP	O	O	O
-प्रोसेसिंग	NN	O	O	O
-31	QC	O	O	O
-मार्च	NNP	O	O	O
-,	SYM	O	O	O
-2021	QC	O	O	O
-तक	RP	O	O	O
-हो	VM	O	B-MISC	OCC
-जानी	VAUX	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
+आपके
+इनकम
+टैक्स
+रिटर्न
+(
+ITR
+)
+फाइल
+करने
+के
+बाद
+टैक्स
+डिपार्टमेंट
+इसकी
+जांच-पड़ताल
+(
+प्रोसेसिंग
+)
+करता
+है
+और
+इसके
+बाद
+आपको
+इनकम
+टैक्स
+के
+सेक्शन
+143
+(
+1
+)
+के
+तहत
+इंटिमेशन
+नोटिस
+भेजता
+है
+.
+आपको
+इंटिमेशन
+नोटिस
+का
+मिलना
+जरूरी
+है
+,
+जिससे
+यह
+सुनिश्चित
+होता
+है
+कि
+आपके
+द्वारा
+रिटर्न
+में
+भरी
+गई
+डीटेल
+विभाग
+के
+रेकॉर्ड
+से
+मैच
+कर
+गई
+है
+.
+आईटीआर
+की
+प्रोसेसिंग
+में
+आयकर
+विभाग
+अधिकतम
+एक
+महीने
+का
+वक्त
+लेता
+है
+.
+आईटीआर
+फाइलिंग
+वेबसाइट
+टैक्स
+2
+विन
+के
+को
+फाउंडर
+तथा
+सीईओ
+अभिषेक
+सोनी
+कहते
+हैं
+,
+'
+करदाता
+द्वारा
+अपने
+रिटर्न
+को
+वेरिफाई
+करने
+के
+बाद
+आयकर
+विभाग
+आईटीआर
+की
+प्रोसेसिंग
+शुरू
+कर
+देता
+है
+.
+बेंगलुरु
+स्थित
+सेंट्रल
+प्रॉसेसिंग
+सेंटर
+को
+आईटीआर
+की
+प्रोसेसिंग
+करने
+में
+एक
+महीने
+का
+वक्त
+लगता
+है
+,
+जिस
+दौरान
+वह
+आपके
+द्वारा
+क्लेम
+किए
+गए
+टीडीएस
+का
+फॉर्म
+26
+एएस
+से
+मिलान
+करता
+है
+,
+जोड़-घटाव
+में
+किसी
+तरह
+की
+गलती
+की
+जांच
+करने
+के
+साथ
+टैक्स
+तथा
+इंट्रेस्ट
+का
+कैलकुलेशन
+करता
+है
+.
+आप
+यह
+याद
+रखें
+कि
+आयकर
+विभाग
+को
+आईटीआर
+की
+प्रोसेसिंग
+जिस
+वित्त
+वर्ष
+में
+रिटर्न
+फाइल
+की
+गई
+है
+,
+उसके
+समाप्त
+होने
+से
+एक
+साल
+के
+एक्सपायरी
+पीरियड
+के
+भीतर
+करनी
+होती
+है
+.
+इसलिए
+,
+वित्त
+वर्ष
+2018
+-
+19
+के
+लिए
+फाइल
+की
+गई
+आईटीआर
+की
+प्रोसेसिंग
+31
+मार्च
+,
+2021
+तक
+हो
+जानी
+चाहिए
+.
+'

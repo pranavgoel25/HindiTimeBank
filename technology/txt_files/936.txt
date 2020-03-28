@@ -1,303 +1,303 @@
-Reliance	JJ	O	O	O
-Jio	NN	O	O	O
-से	PSP	O	O	O
-किसी	PRP	O	O	O
-अन्य	JJ	O	O	O
-नेटवर्क	NN	O	O	O
-पर	PSP	O	O	O
-कॉल	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-अब	PRP	O	O	O
-कंपनी	XC	O	O	O
-इंटरकनेक्ट	XC	O	O	O
-यूसेज	XC	O	O	O
-चार्ज	NN	O	O	O
-(	SYM	O	O	O
-IUC	NN	O	O	O
-)	SYM	O	O	O
-लेगी	VM	O	B-MISC	O
-.	SYM	O	O	O
-रिलायंस	XC	O	O	O
-जियो	NNP	O	O	O
-ने	PSP	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-इसकी	PRP	O	O	O
-घोषणा	NN	O	B-MISC	OCC
-की	PSP	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-अगले	NST	O	O	O
-ही	RP	O	O	O
-दिन	NN	O	O	O
-,	SYM	O	O	O
-यानी	CC	O	O	O
-गुरुवार	NN	O	O	O
-को	PSP	O	O	O
-Vodafone	XC	O	O	O
-Idea	XC	O	O	O
-Limited	NNP	O	O	O
-(	SYM	O	O	O
-VIL	NN	O	O	O
-)	SYM	O	O	O
-ने	PSP	O	O	O
-IUC	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	O
-बड़ा	XC	O	B-MISC	O
-ऐलान	XC	O	I-MISC	OCC
-किया	NNP	O	I-MISC	O
-.	SYM	O	O	O
-वोडाफोन-आइडिया	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-वह	PRP	O	O	O
-अपने	PRP	O	O	O
-कस्टमर्स	NN	O	O	O
-से	PSP	O	O	O
-दूसरे	JJ	O	O	O
-नेटवर्क	NN	O	O	O
-पर	PSP	O	O	O
-कॉल	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-अलग	JJ	O	O	O
-से	PSP	O	O	O
-कोई	PRP	O	O	O
-चार्ज	NN	O	O	O
-(	SYM	O	O	O
-IUC	NN	O	O	O
-)	SYM	O	O	O
-नहीं	NEG	O	B-MISC	O
-लगाएगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-कंपनी	NNP	O	O	O
-ने	PSP	O	O	O
-ट्वीट	XC	O	B-MISC	O
-करके	VM	O	I-MISC	O
-इसकी	PRP	O	O	O
-जानकारी	NN	O	B-MISC	REP
-दी	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वोडाफोन-आइडिया	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-वह	PRP	O	O	O
-अपने	PRP	O	O	O
-ग्राहकों	NN	O	O	O
-को	PSP	O	O	O
-ऐसा	PRP	O	O	O
-कोई	PRP	O	O	O
-बोझ	NN	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-देना	VM	O	I-MISC	O
-चाहती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-हर	QF	O	O	O
-बार	RP	O	O	O
-कॉल	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-से	PSP	O	O	O
-पहले	NST	O	O	O
-उन्हें	PRP	O	O	O
-सोचना	VM	O	B-MISC	OCC
-पड़े	NN	O	O	O
-कि	CC	O	O	O
-ऑन-नेट	NN	O	O	O
-(	SYM	O	O	O
-वोडाफोन	JJ	O	O	O
-आइडिया	NN	O	O	O
-से	PSP	O	O	O
-वोडाफोन	JJ	O	O	O
-आइडिया	NN	O	O	O
-)	SYM	O	O	O
-कॉल	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-या	CC	O	O	O
-ऑफ	XC	O	O	O
-नेट	NN	O	O	O
-(	SYM	O	O	O
-वोडाफोन	JJ	O	O	O
-आइडिया	NN	O	O	O
-से	PSP	O	O	O
-अन्य	JJ	O	O	O
-नेटवर्क	NN	O	O	O
-)	SYM	O	O	O
-.	SYM	O	O	O
-वोडाफोन	NN	O	O	O
-ने	PSP	O	O	O
-ट्वीट	XC	O	O	O
-में	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-वोडाफोन	NN	O	O	O
-से	PSP	O	O	O
-अन्य	JJ	O	O	O
-नेटवर्क	NN	O	O	O
-पर	PSP	O	O	O
-कॉल	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-कोई	PRP	O	O	O
-चार्ज	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-लगेगा	VM	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-हमने	PRP	O	O	O
-आपसे	PRP	O	O	O
-जो	DEM	O	O	O
-वादा	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-उसका	PRP	O	O	O
-आनंद	NN	O	B-MISC	OCC
-लें	VM	O	I-MISC	O
-.	SYM	O	O	O
-वोडाफोन	XC	O	O	O
-अनलिमिटेड	XC	O	O	O
-प्लान्स	NNP	O	O	O
-पर	PSP	O	O	O
-वास्तव	NN	O	O	O
-में	PSP	O	O	O
-फ्री	JJ	O	O	OCC
-कॉल	NN	O	O	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-बता	VM	O	B-MISC	O
-दें	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-रिलायंस	XC	O	O	O
-जियो	NNP	O	O	O
-ने	PSP	O	O	O
-9	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-आईयूसी	NN	O	O	O
-की	PSP	O	O	O
-घोषणा	NN	O	O	O
-की	PSP	O	O	O
-.	SYM	O	O	O
-कंपनी	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-अब	PRP	O	O	O
-जियो	PRP	O	O	O
-नेटवर्क	NN	O	O	O
-के	PSP	O	O	O
-अलग	JJ	O	O	O
-,	SYM	O	O	O
-यानी	CC	O	O	O
-किसी	PRP	O	O	O
-अन्य	JJ	O	O	O
-मोबाइल	XC	O	O	O
-नेटवर्क	NNP	O	O	O
-पर	PSP	O	O	O
-कॉल	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-वह	PRP	O	O	O
-कस्टमर्स	NN	O	O	O
-से	PSP	O	O	O
-6	QC	O	O	O
-पैसे	NN	O	O	O
-प्रति	PSP	O	O	O
-मिनट	NN	O	O	O
-आईयूसी	VM	O	B-MISC	OCC
-लेगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-बाद	NST	O	O	O
-रिलायंस	XC	O	O	O
-जियो	NNP	O	O	O
-ने	PSP	O	O	O
-यह	PRP	O	O	O
-भी	RP	O	O	O
-घोषणा	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-कि	CC	O	O	O
-वह	PRP	O	O	O
-10	QC	O	O	O
-रुपये	NN	O	O	O
-की	PSP	O	O	O
-शुरुआती	JJ	O	O	O
-कीमत	NN	O	O	O
-के	PSP	O	O	O
-टॉप-अप	NN	O	O	O
-पैक्स	NN	O	O	O
-लॉन्च	VM	O	B-MISC	OCC
-कर	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-अन्य	JJ	O	O	O
-नेटवर्क	NN	O	O	O
-पर	PSP	O	O	O
-कॉल	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-होगा	VM	O	B-STAT	OCC
-.	SYM	O	O	O
-इन	DEM	O	O	O
-टॉप-अप	NN	O	O	O
-पैक	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-अतिरिक्त	JJ	O	O	O
-डेटा	NN	O	O	O
-भी	RP	O	O	O
-मिलेगा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-वोडाफोन-आइडिया	NNP	O	O	O
-के	PSP	O	O	O
-प्लान्स	NN	O	O	O
-की	PSP	O	O	O
-बात	NN	O	O	O
-करें	VM	O	O	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-इसका	PRP	O	O	O
-शुरुआती	NN	O	O	O
-प्रीपेड	JJ	O	O	O
-प्लान	NN	O	O	O
-119	QC	O	O	O
-रुपये	NN	O	O	O
-का	PSP	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-इसमें	PRP	O	O	O
-28	QC	B	O	O
-दिन	NN	I	O	O
-की	PSP	O	O	O
-वैलिडिटी	NN	O	O	O
-,	SYM	O	O	O
-1	QC	O	O	O
-जीबी	NN	O	O	O
-डेटा	VM	O	B-MISC	O
-और	CC	O	O	O
-अनलिमिटेड	JJ	O	O	O
-लोकल	NN	O	O	O
-और	CC	O	O	O
-एसटीडी	JJ	O	O	O
-कॉल	NN	O	O	O
-की	PSP	O	O	O
-सुविधा	NN	O	B-MISC	OCC
-मिलती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+Reliance
+Jio
+से
+किसी
+अन्य
+नेटवर्क
+पर
+कॉल
+करने
+पर
+अब
+कंपनी
+इंटरकनेक्ट
+यूसेज
+चार्ज
+(
+IUC
+)
+लेगी
+.
+रिलायंस
+जियो
+ने
+बुधवार
+को
+इसकी
+घोषणा
+की
+.
+इसके
+अगले
+ही
+दिन
+,
+यानी
+गुरुवार
+को
+Vodafone
+Idea
+Limited
+(
+VIL
+)
+ने
+IUC
+को
+लेकर
+बड़ा
+ऐलान
+किया
+.
+वोडाफोन-आइडिया
+ने
+कहा
+है
+कि
+वह
+अपने
+कस्टमर्स
+से
+दूसरे
+नेटवर्क
+पर
+कॉल
+करने
+के
+लिए
+अलग
+से
+कोई
+चार्ज
+(
+IUC
+)
+नहीं
+लगाएगा
+.
+कंपनी
+ने
+ट्वीट
+करके
+इसकी
+जानकारी
+दी
+है
+.
+वोडाफोन-आइडिया
+ने
+कहा
+है
+कि
+वह
+अपने
+ग्राहकों
+को
+ऐसा
+कोई
+बोझ
+नहीं
+देना
+चाहती
+है
+कि
+हर
+बार
+कॉल
+करने
+से
+पहले
+उन्हें
+सोचना
+पड़े
+कि
+ऑन-नेट
+(
+वोडाफोन
+आइडिया
+से
+वोडाफोन
+आइडिया
+)
+कॉल
+कर
+रहे
+हैं
+या
+ऑफ
+नेट
+(
+वोडाफोन
+आइडिया
+से
+अन्य
+नेटवर्क
+)
+.
+वोडाफोन
+ने
+ट्वीट
+में
+कहा
+,
+'
+वोडाफोन
+से
+अन्य
+नेटवर्क
+पर
+कॉल
+करने
+के
+लिए
+कोई
+चार्ज
+नहीं
+लगेगा
+,
+तो
+हमने
+आपसे
+जो
+वादा
+किया
+था
+उसका
+आनंद
+लें
+.
+वोडाफोन
+अनलिमिटेड
+प्लान्स
+पर
+वास्तव
+में
+फ्री
+कॉल
+.
+'
+बता
+दें
+कि
+रिलायंस
+जियो
+ने
+9
+अक्टूबर
+को
+आईयूसी
+की
+घोषणा
+की
+.
+कंपनी
+ने
+कहा
+है
+कि
+अब
+जियो
+नेटवर्क
+के
+अलग
+,
+यानी
+किसी
+अन्य
+मोबाइल
+नेटवर्क
+पर
+कॉल
+करने
+पर
+वह
+कस्टमर्स
+से
+6
+पैसे
+प्रति
+मिनट
+आईयूसी
+लेगी
+.
+इसके
+बाद
+रिलायंस
+जियो
+ने
+यह
+भी
+घोषणा
+की
+कि
+वह
+10
+रुपये
+की
+शुरुआती
+कीमत
+के
+टॉप-अप
+पैक्स
+लॉन्च
+कर
+रही
+है
+,
+जो
+अन्य
+नेटवर्क
+पर
+कॉल
+करने
+के
+लिए
+होगा
+.
+इन
+टॉप-अप
+पैक
+के
+साथ
+अतिरिक्त
+डेटा
+भी
+मिलेगा
+.
+वोडाफोन-आइडिया
+के
+प्लान्स
+की
+बात
+करें
+,
+तो
+इसका
+शुरुआती
+प्रीपेड
+प्लान
+119
+रुपये
+का
+है
+.
+इसमें
+28
+दिन
+की
+वैलिडिटी
+,
+1
+जीबी
+डेटा
+और
+अनलिमिटेड
+लोकल
+और
+एसटीडी
+कॉल
+की
+सुविधा
+मिलती
+है
+.

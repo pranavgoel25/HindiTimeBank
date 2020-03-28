@@ -1,186 +1,186 @@
-भोजपुरी	JJ	O	O	O
-ऐक्ट्रेस	XC	O	O	O
-रानी	XC	O	O	O
-चटर्जी	NNP	O	O	O
-ने	PSP	O	O	O
-ऐक्सिडेंट	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-अब	PRP	O	O	O
-जिम	JJ	O	O	O
-जाना	VM	O	B-MISC	OCC
-शुरू	NN	O	B-MISC	ASP
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-इंस्टाग्राम	NN	O	O	O
-पर	PSP	O	O	O
-अपनी	PRP	O	O	O
-लेटेस्ट	JJ	O	O	O
-तस्वीर	NN	O	O	O
-शेयर	NN	O	B-MISC	O
-की	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-तस्वीर	NN	O	O	O
-में	PSP	O	O	O
-वह	PRP	O	O	O
-जिम	NN	O	O	O
-में	PSP	O	O	O
-दिखाई	VM	O	B-MISC	OCC
-दे	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-तस्वीर	NN	O	O	O
-में	PSP	O	O	O
-वह	PRP	O	O	O
-ब्लैक	JJ	O	O	O
-कलर	NN	O	O	O
-के	PSP	O	O	O
-जिम	JJ	O	O	O
-आउटफिट	NN	O	O	O
-में	PSP	O	O	O
-काफी	QF	O	O	O
-कूल	NN	O	O	O
-दिखाई	VM	O	B-MISC	OCC
-दे	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अपनी	PRP	O	O	O
-इस	DEM	O	O	O
-तस्वीर	NN	O	O	O
-को	PSP	O	O	O
-शेयर	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-उन्होंने	PRP	O	O	O
-फैन्स	NN	O	O	O
-को	PSP	O	O	O
-जिम	JJ	O	B-MISC	OCC
-जाने	VM	O	I-MISC	O
-की	PSP	O	O	O
-नसीहत	NN	O	B-MISC	O
-दी	VM	O	I-MISC	O
-और	CC	O	O	O
-लिखा	VM	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-फाइनली	NN	O	O	O
-जिम	JJ	O	O	O
-शुरू	NN	O	O	O
-..	JJ	O	O	O
-शुभप्रभात	NN	O	O	O
-जिम	VM	O	B-MISC	O
-जाए	VAUX	O	I-MISC	O
-और	CC	O	O	O
-स्वस्थ	JJ	O	O	O
-रहें	VM	O	O	O
-..	NN	O	O	O
-#	SYM	O	O	O
-healthyindia	NN	O	O	O
-#	SYM	O	O	O
-strongindia	NN	O	O	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-इससे	PRP	O	O	O
-पहले	NST	O	O	O
-रानी	XC	O	O	O
-चटर्जी	NNP	O	O	O
-ने	PSP	O	O	O
-कुछ	QF	B	O	O
-दिन	NN	I	O	O
-पहले	NST	O	O	O
-अपने	PRP	O	O	O
-ऐक्सिडेंट	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-की	PSP	O	O	O
-एक	QC	O	O	O
-तस्वीर	NN	O	O	O
-शेयर	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-तस्वीर	NN	O	O	O
-में	PSP	O	O	O
-उनके	PRP	O	O	O
-बांए	JJ	O	O	O
-कंधे	NN	O	O	O
-पर	PSP	O	O	O
-बैंडेज	NN	O	B-MISC	O
-लगी	VM	O	I-MISC	OCC
-हुई	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-और	CC	O	O	O
-वह	PRP	O	O	O
-हार्मोनियम	NN	O	O	O
-पर	PSP	O	O	O
-गाने	VM	O	B-MISC	O
-की	PSP	O	O	O
-प्रैक्टिस	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-थीं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बता	VM	O	B-MISC	REP
-दें	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-रानी	NN	O	O	O
-चटर्जी	NN	O	O	O
-इन	DEM	O	O	O
-दिनों	NN	O	O	O
-अपने	PRP	O	O	O
-कई	QF	O	O	O
-फिल्म	NN	O	O	O
-प्रॉजेक्टस	NN	O	O	O
-पर	PSP	O	O	O
-काम	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-जिनमें	PRP	O	O	O
-वह	PRP	O	O	O
-'	SYM	O	O	O
-पंचाली	NN	O	O	O
-'	SYM	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-बॉस	NN	O	O	O
-'	SYM	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-लेडी	XC	O	O	O
-सिंघम	NNP	O	O	O
-'	SYM	O	O	O
-जैसी	PSP	O	O	O
-भोजपुरी	JJ	O	O	O
-फिल्मों	NN	O	O	O
-की	PSP	O	O	O
-शूटिंग	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-लेडी	XC	O	O	O
-सिंघम	NNP	O	O	O
-'	SYM	O	O	O
-का	PSP	O	O	O
-फर्स्ट	NN	O	B-MISC	O
-लुक	VM	O	I-MISC	O
-भी	RP	O	O	O
-उन्होंने	PRP	O	O	O
-पिछले	JJ	B	O	O
-दिनों	NN	I	O	O
-अपने	PRP	O	O	O
-इंस्टाग्राम	NN	O	O	O
-पर	PSP	O	O	O
-शेयर	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+भोजपुरी
+ऐक्ट्रेस
+रानी
+चटर्जी
+ने
+ऐक्सिडेंट
+के
+बाद
+अब
+जिम
+जाना
+शुरू
+कर
+दिया
+है
+.
+उन्होंने
+इंस्टाग्राम
+पर
+अपनी
+लेटेस्ट
+तस्वीर
+शेयर
+की
+है
+.
+इस
+तस्वीर
+में
+वह
+जिम
+में
+दिखाई
+दे
+रही
+हैं
+.
+तस्वीर
+में
+वह
+ब्लैक
+कलर
+के
+जिम
+आउटफिट
+में
+काफी
+कूल
+दिखाई
+दे
+रही
+हैं
+.
+अपनी
+इस
+तस्वीर
+को
+शेयर
+करते
+हुए
+उन्होंने
+फैन्स
+को
+जिम
+जाने
+की
+नसीहत
+दी
+और
+लिखा
+,
+'
+फाइनली
+जिम
+शुरू
+..
+शुभप्रभात
+जिम
+जाए
+और
+स्वस्थ
+रहें
+..
+#
+healthyindia
+#
+strongindia
+.
+'
+इससे
+पहले
+रानी
+चटर्जी
+ने
+कुछ
+दिन
+पहले
+अपने
+ऐक्सिडेंट
+के
+बाद
+की
+एक
+तस्वीर
+शेयर
+की
+थी
+.
+तस्वीर
+में
+उनके
+बांए
+कंधे
+पर
+बैंडेज
+लगी
+हुई
+थी
+और
+वह
+हार्मोनियम
+पर
+गाने
+की
+प्रैक्टिस
+कर
+रही
+थीं
+.
+बता
+दें
+कि
+रानी
+चटर्जी
+इन
+दिनों
+अपने
+कई
+फिल्म
+प्रॉजेक्टस
+पर
+काम
+कर
+रही
+हैं
+जिनमें
+वह
+'
+पंचाली
+'
+,
+'
+बॉस
+'
+,
+'
+लेडी
+सिंघम
+'
+जैसी
+भोजपुरी
+फिल्मों
+की
+शूटिंग
+कर
+रही
+हैं
+.
+'
+लेडी
+सिंघम
+'
+का
+फर्स्ट
+लुक
+भी
+उन्होंने
+पिछले
+दिनों
+अपने
+इंस्टाग्राम
+पर
+शेयर
+किया
+है
+.

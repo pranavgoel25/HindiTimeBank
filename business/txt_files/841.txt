@@ -1,195 +1,195 @@
-PMC	JJ	O	O	O
-बैंक	NN	O	O	O
-के	PSP	O	O	O
-4300	QC	O	O	O
-करोड़	XC	O	O	O
-रुपये	NN	O	O	O
-के	PSP	O	O	O
-घोटाले	NN	O	O	O
-की	PSP	O	O	O
-जांच	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-मुंबई	NNP	O	O	O
-पुलिस	NN	O	O	O
-की	PSP	O	O	O
-आर्थिक	JJ	O	O	O
-अपराध	NN	O	O	O
-शाखा	XC	O	O	O
-(	SYM	O	O	O
-EoW	NN	O	O	O
-)	SYM	O	O	O
-ने	PSP	O	O	O
-पाया	VM	O	B-MISC	REP
-कि	CC	O	O	O
-एचडीआईएल	NNP	O	O	O
-करीब	RB	O	O	O
-10	QC	B	O	O
-साल	NN	I	O	O
-से	PSP	O	O	O
-फर्जीवाड़ा	VM	O	B-MISC	OCC
-कर	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जांच	NN	O	B-MISC	O
-में	PSP	O	O	O
-पता	JJ	O	B-MISC	OCC
-चला	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-साल	NN	O	O	O
-2008	QC	O	O	O
-से	PSP	O	O	O
-ही	RP	O	O	O
-कंपनी	XC	O	O	O
-गैरचुकता	NN	O	O	O
-कर्ज	NN	O	O	O
-को	PSP	O	O	O
-छोटी-छोटी	JJ	O	O	O
-एंट्रीज	NN	O	O	O
-के	PSP	O	O	O
-जरिए	PSP	O	O	O
-बहीखाते	NN	O	O	O
-में	PSP	O	O	O
-अजस्ट	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फर्जीवाड़े	NNP	O	O	O
-के	PSP	O	O	O
-जरिए	PSP	O	O	O
-कंपनी	NN	O	O	O
-ने	PSP	O	O	O
-रजिस्ट्रार	NN	O	O	O
-ऑफ	XC	O	O	O
-कंपनीज	NN	O	O	O
-को	PSP	O	O	O
-कंपनी	NN	O	O	O
-की	PSP	O	O	O
-सेहत	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	O
-धोखे	NN	O	O	O
-में	PSP	O	O	O
-रखा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-ये	DEM	O	O	O
-सभी	QF	O	O	O
-फर्जी	NN	O	O	O
-खाते	VM	O	O	O
-पीएमसी	JJ	O	O	O
-बैंक	NN	O	O	O
-से	PSP	O	O	O
-लिए	PSP	O	O	O
-गए	VM	O	B-MISC	OCC
-गैरचुकता	NN	O	O	O
-कर्ज	NN	O	O	O
-से	PSP	O	O	O
-संबंधित	JJ	O	B-STAT	O
-थे	VM	O	I-STAT	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-बात	NN	O	O	O
-का	PSP	O	O	O
-खुलासा	NN	O	O	O
-पहले	NST	O	B-MISC	O
-ही	RP	O	I-MISC	O
-हो	VM	O	I-MISC	OCC
-चुका	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-पीएमसी	JJ	O	O	O
-बैंक	NN	O	O	O
-ने	PSP	O	O	O
-21,000	QC	O	O	O
-फर्जी	NN	O	O	O
-खाते	VM	O	O	O
-खोले	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिनके	PRP	O	O	O
-जरिए	PSP	O	O	O
-एचडीआईएल	NNP	O	O	O
-के	PSP	O	O	O
-डिफॉल्ट	NN	O	O	O
-को	PSP	O	O	O
-छिपाया	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बैंक	NN	O	O	O
-ने	PSP	O	O	O
-इन	DEM	O	O	O
-डिफॉल्ट्स	NN	O	O	O
-को	PSP	O	O	O
-छिपाने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-डमी	JJ	O	O	O
-खाते	NN	O	O	O
-खोलकर	VM	O	O	O
-आरबीआई	NN	O	O	O
-को	PSP	O	O	O
-धोखे	NN	O	O	O
-में	PSP	O	O	O
-रखा	VM	O	B-MISC	OCC
-और	CC	O	O	O
-दिखाया	VM	O	B-MISC	O
-की	PSP	O	O	O
-उसकी	PRP	O	O	O
-वित्तीय	JJ	O	O	O
-सेहत	NN	O	O	O
-ठीक	JJ	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-मामले	NN	O	O	O
-की	PSP	O	O	O
-जांच	NN	O	B-MISC	OCC
-के	PSP	O	O	O
-बाद	NST	O	O	O
-अब	PRP	O	O	O
-यह	PRP	O	O	O
-भी	RP	O	O	O
-संभावना	NN	O	B-MISC	OCC
-जताई	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-एचडीआईएल	NNP	O	O	O
-भी	RP	O	O	O
-इसी	DEM	O	O	O
-तरह	NN	O	O	O
-से	PSP	O	O	O
-धोखा	VM	O	B-MISC	OCC
-दे	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पुलिस	NN	O	O	O
-को	PSP	O	O	O
-शक	NN	O	B-MISC	OCC
-है	VM	O	I-MISC	O
-कि	CC	O	O	O
-कंपनी	NN	O	O	O
-ने	PSP	O	O	O
-हेरफेर	NN	O	O	O
-का	PSP	O	O	O
-सहारा	NN	O	O	O
-लेकर	VM	O	O	O
-कंपनी	NN	O	O	O
-की	PSP	O	O	O
-वित्तीय	JJ	O	O	O
-सेहत	NN	O	O	O
-का	PSP	O	O	O
-सच	NN	O	O	O
-छिपाया	VM	O	O	OCC
-,	SYM	O	O	O
-जबकि	CC	O	O	O
-कंपनी	NN	O	O	O
-खस्ताहाल	JJ	O	B-MISC	O
-हो	VM	O	I-MISC	O
-चुकी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+PMC
+बैंक
+के
+4300
+करोड़
+रुपये
+के
+घोटाले
+की
+जांच
+कर
+रही
+मुंबई
+पुलिस
+की
+आर्थिक
+अपराध
+शाखा
+(
+EoW
+)
+ने
+पाया
+कि
+एचडीआईएल
+करीब
+10
+साल
+से
+फर्जीवाड़ा
+कर
+रही
+थी
+.
+जांच
+में
+पता
+चला
+है
+कि
+साल
+2008
+से
+ही
+कंपनी
+गैरचुकता
+कर्ज
+को
+छोटी-छोटी
+एंट्रीज
+के
+जरिए
+बहीखाते
+में
+अजस्ट
+कर
+रही
+थी
+.
+फर्जीवाड़े
+के
+जरिए
+कंपनी
+ने
+रजिस्ट्रार
+ऑफ
+कंपनीज
+को
+कंपनी
+की
+सेहत
+को
+लेकर
+धोखे
+में
+रखा
+.
+ये
+सभी
+फर्जी
+खाते
+पीएमसी
+बैंक
+से
+लिए
+गए
+गैरचुकता
+कर्ज
+से
+संबंधित
+थे
+.
+इस
+बात
+का
+खुलासा
+पहले
+ही
+हो
+चुका
+है
+कि
+पीएमसी
+बैंक
+ने
+21,000
+फर्जी
+खाते
+खोले
+थे
+,
+जिनके
+जरिए
+एचडीआईएल
+के
+डिफॉल्ट
+को
+छिपाया
+गया
+.
+बैंक
+ने
+इन
+डिफॉल्ट्स
+को
+छिपाने
+के
+लिए
+डमी
+खाते
+खोलकर
+आरबीआई
+को
+धोखे
+में
+रखा
+और
+दिखाया
+की
+उसकी
+वित्तीय
+सेहत
+ठीक
+है
+.
+मामले
+की
+जांच
+के
+बाद
+अब
+यह
+भी
+संभावना
+जताई
+जा
+रही
+है
+कि
+एचडीआईएल
+भी
+इसी
+तरह
+से
+धोखा
+दे
+रही
+थी
+.
+पुलिस
+को
+शक
+है
+कि
+कंपनी
+ने
+हेरफेर
+का
+सहारा
+लेकर
+कंपनी
+की
+वित्तीय
+सेहत
+का
+सच
+छिपाया
+,
+जबकि
+कंपनी
+खस्ताहाल
+हो
+चुकी
+थी
+.

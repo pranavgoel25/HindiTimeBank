@@ -1,222 +1,222 @@
-मौजूदा	JJ	O	O	O
-समय	NN	O	O	O
-में	PSP	O	O	O
-गोल्ड	NN	O	O	O
-में	PSP	O	O	O
-उतार-चढ़ाव	NNP	O	O	O
-का	PSP	O	O	O
-माहौल	NN	O	O	OCC
-चल	VM	O	B-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसका	PRP	O	O	O
-कारण	NN	O	O	O
-घरेलू	XC	O	O	O
-मांग	NNP	O	O	O
-में	PSP	O	O	O
-कमी	NN	O	O	OCC
-बताई	VM	O	B-MISC	O
-जा	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसे	PRP	O	O	O
-में	PSP	O	O	O
-एक्सपर्ट	NN	O	O	O
-का	PSP	O	O	O
-मानना	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-दिवाली	NN	O	O	O
-तक	RP	O	O	O
-गोल्ड	NN	O	O	O
-में	PSP	O	O	O
-अनिश्चितता	NN	O	O	O
-का	PSP	O	O	O
-माहौल	NN	O	B-MISC	OCC
-रहेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-ऐसे	PRP	O	O	O
-में	PSP	O	O	O
-गोल्ड	NN	O	O	O
-में	PSP	O	O	O
-खरीदारी	NN	O	O	O
-का	PSP	O	O	O
-यह	DEM	O	O	O
-वक्त	NN	O	O	O
-सही	JJ	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-दिवाली	NN	O	O	O
-के	PSP	O	O	O
-कुछ	QF	B	O	O
-दिन	NN	I	O	O
-बाद	NST	O	O	O
-शादी-ब्याह	NN	O	O	O
-का	PSP	O	O	O
-सीजन	NN	O	B-MISC	OCC
-शुरू	NN	O	B-MISC	ASP
-हो	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-बाद	NST	O	O	O
-गोल्ड	NN	O	O	O
-फिर	RB	O	O	O
-40	QC	O	O	O
-हजारी	NN	O	O	O
-बन	VM	O	B-MISC	OCC
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यानी	CC	O	O	O
-गोल्ड	NN	O	O	O
-की	PSP	O	O	O
-कीमत	NN	O	O	O
-40,000	QC	O	O	O
-रुपये	NN	O	O	O
-प्रति	PSP	O	O	O
-10	QC	O	O	O
-ग्राम	NN	O	O	O
-पर	PSP	O	O	O
-जा	VM	O	B-MISC	OCC
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पीपी	XC	O	O	O
-ज्वैलर्स	NNP	O	O	O
-के	PSP	O	O	O
-वाइस	XC	O	O	O
-चेयरमैन	XC	O	O	O
-पवन	XC	O	O	O
-गुप्ता	NNP	O	O	O
-का	PSP	O	O	O
-कहना	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इस	DEM	O	O	O
-वक्त	NN	O	O	O
-अंतरराष्ट्रीय	JJ	O	O	O
-बाजार	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-घरेलू	XC	O	O	O
-मार्केट	NN	O	O	O
-में	PSP	O	O	O
-गोल्ड	NN	O	O	O
-की	PSP	O	O	O
-डिमांड	NN	O	O	O
-बढ़	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-रही	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मार्केट	NN	O	O	O
-में	PSP	O	O	O
-गोल्ड	NN	O	O	O
-की	PSP	O	O	O
-खरीदारी	NN	O	O	OCC
-कम	QF	O	B-MISC	O
-हो	VM	O	I-MISC	OCC
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-लोग	NN	O	O	O
-अभी	PRP	O	O	O
-गोल्ड	NN	O	O	O
-में	PSP	O	O	O
-निवेश	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-में	PSP	O	O	O
-ज्यादा	QF	O	O	O
-रुचि	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-दिखा	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-कारण	NN	O	O	O
-गोल्ड	NN	O	O	O
-में	PSP	O	O	O
-उतार-चढ़ाव	NNP	O	O	O
-का	PSP	O	O	O
-दौर	NN	O	O	O
-चल	VM	O	B-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मगर	CC	O	O	O
-गोल्ड	NN	O	O	O
-की	PSP	O	O	O
-डिमांड	NN	O	O	O
-दिवाली	NN	O	O	O
-के	PSP	O	O	O
-11	QC	B	O	O
-दिनों	NN	I	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-बढ़	NNP	O	B-MISC	OCC
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-तब	PRP	O	O	O
-शादी-ब्याह	NN	O	O	O
-का	PSP	O	O	O
-सीजन	NN	O	B-MISC	OCC
-शुरू	NN	O	B-MISC	ASP
-हो	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-जब	PRP	O	O	O
-घरेलू	XC	O	O	O
-मार्केट	NN	O	O	O
-में	PSP	O	O	O
-डिमांड	NN	O	B-MISC	OCC
-बढ़ेगी	VM	O	I-MISC	O
-तो	RP	O	O	O
-फिर	RB	O	O	O
-गोल्ड	NN	O	O	O
-की	PSP	O	O	O
-कीमत	NN	O	O	O
-में	PSP	O	O	O
-तेजी	RB	O	O	O
-को	PSP	O	O	O
-रोकना	VM	O	B-MISC	O
-मुश्किल	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसे	PRP	O	O	O
-में	PSP	O	O	O
-जो	PRP	O	O	O
-लोग	NN	O	O	O
-को	PSP	O	O	O
-अगर	CC	O	O	O
-गोल्ड	NN	O	O	O
-की	PSP	O	O	O
-खरीदारी	NN	O	B-MISC	OCC
-करनी	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-मार्केट	NN	O	O	O
-पर	PSP	O	O	O
-नजर	NN	O	B-MISC	OCC
-रखनी	VM	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जैसे	RDP	O	O	O
-ही	RP	O	O	O
-गोल्ड	NN	O	O	O
-नीचे	NST	O	O	O
-आये	VM	O	B-MISC	OCC
-तो	CC	O	O	O
-तुरंत	RB	O	O	O
-खरीदारी	NN	O	B-MISC	OCC
-करनी	VM	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+मौजूदा
+समय
+में
+गोल्ड
+में
+उतार-चढ़ाव
+का
+माहौल
+चल
+रहा
+है
+.
+इसका
+कारण
+घरेलू
+मांग
+में
+कमी
+बताई
+जा
+रही
+है
+.
+ऐसे
+में
+एक्सपर्ट
+का
+मानना
+है
+कि
+दिवाली
+तक
+गोल्ड
+में
+अनिश्चितता
+का
+माहौल
+रहेगा
+.
+ऐसे
+में
+गोल्ड
+में
+खरीदारी
+का
+यह
+वक्त
+सही
+है
+.
+दिवाली
+के
+कुछ
+दिन
+बाद
+शादी-ब्याह
+का
+सीजन
+शुरू
+हो
+जाएगा
+.
+इसके
+बाद
+गोल्ड
+फिर
+40
+हजारी
+बन
+सकता
+है
+.
+यानी
+गोल्ड
+की
+कीमत
+40,000
+रुपये
+प्रति
+10
+ग्राम
+पर
+जा
+सकती
+है
+.
+पीपी
+ज्वैलर्स
+के
+वाइस
+चेयरमैन
+पवन
+गुप्ता
+का
+कहना
+है
+कि
+इस
+वक्त
+अंतरराष्ट्रीय
+बाजार
+के
+साथ
+घरेलू
+मार्केट
+में
+गोल्ड
+की
+डिमांड
+बढ़
+नहीं
+रही
+है
+.
+मार्केट
+में
+गोल्ड
+की
+खरीदारी
+कम
+हो
+रही
+है
+.
+लोग
+अभी
+गोल्ड
+में
+निवेश
+करने
+में
+ज्यादा
+रुचि
+नहीं
+दिखा
+रहे
+हैं
+.
+इस
+कारण
+गोल्ड
+में
+उतार-चढ़ाव
+का
+दौर
+चल
+रहा
+है
+.
+मगर
+गोल्ड
+की
+डिमांड
+दिवाली
+के
+11
+दिनों
+के
+बाद
+बढ़
+सकती
+है
+.
+तब
+शादी-ब्याह
+का
+सीजन
+शुरू
+हो
+जाएगा
+.
+उन्होंने
+कहा
+,
+जब
+घरेलू
+मार्केट
+में
+डिमांड
+बढ़ेगी
+तो
+फिर
+गोल्ड
+की
+कीमत
+में
+तेजी
+को
+रोकना
+मुश्किल
+हो
+जाएगा
+.
+ऐसे
+में
+जो
+लोग
+को
+अगर
+गोल्ड
+की
+खरीदारी
+करनी
+है
+तो
+मार्केट
+पर
+नजर
+रखनी
+चाहिए
+.
+जैसे
+ही
+गोल्ड
+नीचे
+आये
+तो
+तुरंत
+खरीदारी
+करनी
+चाहिए
+.

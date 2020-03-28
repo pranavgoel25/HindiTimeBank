@@ -1,253 +1,253 @@
-गुजरात	NN	O	O	O
-के	PSP	O	O	O
-मुख्यमंत्री	JJ	O	O	O
-विजय	XC	O	O	O
-रुपाणी	NN	O	O	O
-के	PSP	O	O	O
-मौसेरे	JJ	O	O	O
-भाई	NN	O	O	O
-की	PSP	O	O	O
-एम्बुलेंस	NN	O	O	O
-के	PSP	O	O	O
-पहुंचने	VM	O	B-MISC	O
-में	PSP	O	O	O
-कथित	JJ	O	O	O
-तौर	NN	O	O	O
-पर	PSP	O	O	O
-देरी	NN	O	O	O
-की	PSP	O	O	O
-वजह	NN	O	O	O
-से	PSP	O	O	O
-हुई	VM	O	B-MISC	O
-मौत	NN	O	I-MISC	O
-के	PSP	O	O	O
-मामले	NN	O	O	O
-में	PSP	O	O	O
-गुजरात	NN	O	O	O
-सरकार	NN	O	O	O
-ने	PSP	O	O	O
-जांच	NN	O	O	O
-के	PSP	O	O	O
-आदेश	NN	O	O	O
-दिए	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अधिकारियों	NN	O	O	O
-ने	PSP	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-यह	DEM	O	O	O
-जानकारी	NN	O	B-MISC	OCC
-दी	VM	O	I-MISC	O
-.	SYM	O	O	O
-मुख्यमंत्री	NN	O	O	O
-के	PSP	O	O	O
-मौसेरे	JJ	O	O	O
-भाई	NN	O	O	O
-अनिलभाई	XC	O	O	O
-सांघवी	NNP	O	O	O
-की	PSP	O	O	O
-मौत	NN	O	O	O
-राजकोट	NNP	O	O	O
-स्थित	JJ	O	O	O
-उनके	PRP	O	O	O
-आवास	NN	O	O	O
-पर	PSP	O	O	O
-चार	XC	O	O	O
-अक्टूबर	NNP	O	O	O
-को	PSP	O	O	O
-सांस	NN	O	B-MISC	O
-लेने	VM	O	I-MISC	O
-में	PSP	O	O	O
-दिक्कत	NN	O	O	O
-की	PSP	O	O	O
-वजह	NN	O	O	O
-से	PSP	O	O	O
-हो	VM	O	B-MISC	OCC
-गई	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भाजपा	NN	O	O	O
-नेताओं	NN	O	O	O
-के	PSP	O	O	O
-मुताबिक	JJ	O	O	O
-मृतक	NN	O	O	O
-के	PSP	O	O	O
-परिजन	NN	O	O	O
-ने	PSP	O	O	O
-मुख्यमंत्री	NN	O	O	O
-से	PSP	O	O	O
-आपातकाल	NN	O	O	O
-एम्बुलेंस	NN	O	O	O
-के	PSP	O	O	O
-पहुंचने	VM	O	B-MISC	O
-में	PSP	O	O	O
-देरी	NN	O	O	O
-की	PSP	O	O	O
-शिकायत	NN	O	B-MISC	OCC
-की	PSP	O	I-MISC	O
-.	SYM	O	O	O
-मुख्यमंत्री	NN	O	O	O
-सांघवी	NNP	O	O	O
-के	PSP	O	O	O
-परिजन	NN	O	O	O
-से	PSP	O	O	O
-मिलने	VM	O	B-MISC	OCC
-मंगलवार	NN	B	O	O
-को	PSP	O	O	O
-उनके	PRP	O	O	O
-आवास	NN	O	O	O
-पर	PSP	O	O	O
-गए	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भाजपा	NN	O	O	O
-के	PSP	O	O	O
-एक	QC	O	O	O
-नेता	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘‘	NN	O	O	O
-हमें	PRP	O	O	O
-पता	JJ	O	B-MISC	OCC
-चला	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-सांघवी	NNP	O	O	O
-के	PSP	O	O	O
-परिवार	NN	O	O	O
-के	PSP	O	O	O
-सदस्यों	NN	O	O	O
-ने	PSP	O	O	O
-उन्हें	PRP	O	O	O
-अस्पताल	NN	O	O	OCC
-ले	VM	O	B-MISC	O
-जाने	VAUX	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-‘	NN	O	O	O
-108	QC	O	O	O
-’	NN	O	O	O
-एम्बुलेंस	NN	O	O	O
-पर	PSP	O	O	O
-फोन	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-क्योंकि	CC	O	O	O
-उन्हें	PRP	O	O	O
-सांस	NN	O	O	O
-लेने	VM	O	B-MISC	O
-में	PSP	O	O	O
-दिक्कत	NN	O	B-MISC	OCC
-आ	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसा	DEM	O	O	O
-आरोप	NN	O	O	O
-है	VM	O	O	O
-कि	CC	O	O	O
-एम्बुलेंस	NN	O	O	O
-के	PSP	O	O	O
-पहुंचते-पहुंचते	VM	O	O	O
-सांघवी	NNP	O	O	O
-की	PSP	O	O	O
-मौत	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-चुकी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’’	XC	O	O	O
-राजकोट	NNP	O	O	O
-के	PSP	O	O	O
-जिला	JJ	O	O	O
-कलेक्टर	XC	O	O	O
-रेम्या	XC	O	O	O
-मोहन	NNP	O	O	O
-ने	PSP	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-कि	CC	O	O	O
-राज्य	XC	O	O	O
-स्वास्थ्य	XC	O	O	O
-विभाग	NN	O	O	O
-ने	PSP	O	O	O
-इन	DEM	O	O	O
-आरोपों	NN	O	O	O
-के	PSP	O	O	O
-जांच	NN	O	O	O
-के	PSP	O	O	O
-आदेश	NN	O	O	O
-दिए	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसी	PRP	O	O	O
-बीच	NST	O	O	O
-एक	QC	O	O	O
-प्राथमिक	JJ	O	O	O
-रिपोर्ट	NN	O	O	O
-में	PSP	O	O	O
-यह	DEM	O	O	O
-जानकारी	NN	O	B-MISC	OCC
-मिली	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-‘	NN	O	O	O
-108	QC	O	O	O
-'	SYM	O	O	O
-एम्बलेंस	NN	O	O	O
-सेवा	NN	O	O	O
-के	PSP	O	O	O
-क्षेत्रीय	JJ	O	O	O
-समन्वयक	NN	O	O	O
-का	PSP	O	O	O
-कहना	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-एम्बुलेंस	NN	O	O	O
-को	PSP	O	O	O
-सांघवी	NNP	O	O	O
-के	PSP	O	O	O
-घर	NN	O	O	O
-तक	RP	O	O	O
-पहुंचने	VM	O	O	OCC
-में	PSP	O	O	O
-39	QC	O	O	O
-मिनट	NN	O	O	O
-का	PSP	O	O	O
-समय	NN	O	O	OCC
-इसलिए	PSP	O	O	O
-लगा	VM	O	O	O
-क्योंकि	CC	O	O	O
-गलती	NN	O	O	O
-से	PSP	O	O	O
-वह	PRP	O	O	O
-इसी	DEM	O	O	O
-तरह	NN	O	O	O
-के	PSP	O	O	O
-नाम	NN	O	O	O
-वाले	PSP	O	O	O
-अन्य	JJ	O	O	O
-जगह	NN	O	O	O
-पर	PSP	O	O	O
-पहुंच	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कलेक्टर	NN	O	O	O
-का	PSP	O	O	O
-कहना	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-अंतिम	JJ	O	O	O
-जांच	NN	O	O	O
-रिपोर्ट	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-और	INTF	O	O	O
-भी	RP	O	O	O
-जानकारी	NN	O	B-MISC	OCC
-मिलेगी	VM	O	I-MISC	O
-.	SYM	O	O	O
+गुजरात
+के
+मुख्यमंत्री
+विजय
+रुपाणी
+के
+मौसेरे
+भाई
+की
+एम्बुलेंस
+के
+पहुंचने
+में
+कथित
+तौर
+पर
+देरी
+की
+वजह
+से
+हुई
+मौत
+के
+मामले
+में
+गुजरात
+सरकार
+ने
+जांच
+के
+आदेश
+दिए
+हैं
+.
+अधिकारियों
+ने
+बुधवार
+को
+यह
+जानकारी
+दी
+.
+मुख्यमंत्री
+के
+मौसेरे
+भाई
+अनिलभाई
+सांघवी
+की
+मौत
+राजकोट
+स्थित
+उनके
+आवास
+पर
+चार
+अक्टूबर
+को
+सांस
+लेने
+में
+दिक्कत
+की
+वजह
+से
+हो
+गई
+थी
+.
+भाजपा
+नेताओं
+के
+मुताबिक
+मृतक
+के
+परिजन
+ने
+मुख्यमंत्री
+से
+आपातकाल
+एम्बुलेंस
+के
+पहुंचने
+में
+देरी
+की
+शिकायत
+की
+.
+मुख्यमंत्री
+सांघवी
+के
+परिजन
+से
+मिलने
+मंगलवार
+को
+उनके
+आवास
+पर
+गए
+थे
+.
+भाजपा
+के
+एक
+नेता
+ने
+कहा
+,
+‘‘
+हमें
+पता
+चला
+है
+कि
+सांघवी
+के
+परिवार
+के
+सदस्यों
+ने
+उन्हें
+अस्पताल
+ले
+जाने
+के
+लिए
+‘
+108
+’
+एम्बुलेंस
+पर
+फोन
+किया
+था
+क्योंकि
+उन्हें
+सांस
+लेने
+में
+दिक्कत
+आ
+रही
+थी
+.
+ऐसा
+आरोप
+है
+कि
+एम्बुलेंस
+के
+पहुंचते-पहुंचते
+सांघवी
+की
+मौत
+हो
+चुकी
+थी
+.
+’’
+राजकोट
+के
+जिला
+कलेक्टर
+रेम्या
+मोहन
+ने
+बुधवार
+को
+बताया
+कि
+राज्य
+स्वास्थ्य
+विभाग
+ने
+इन
+आरोपों
+के
+जांच
+के
+आदेश
+दिए
+हैं
+.
+इसी
+बीच
+एक
+प्राथमिक
+रिपोर्ट
+में
+यह
+जानकारी
+मिली
+है
+कि
+‘
+108
+'
+एम्बलेंस
+सेवा
+के
+क्षेत्रीय
+समन्वयक
+का
+कहना
+है
+कि
+एम्बुलेंस
+को
+सांघवी
+के
+घर
+तक
+पहुंचने
+में
+39
+मिनट
+का
+समय
+इसलिए
+लगा
+क्योंकि
+गलती
+से
+वह
+इसी
+तरह
+के
+नाम
+वाले
+अन्य
+जगह
+पर
+पहुंच
+गया
+था
+.
+कलेक्टर
+का
+कहना
+है
+कि
+अंतिम
+जांच
+रिपोर्ट
+के
+बाद
+और
+भी
+जानकारी
+मिलेगी
+.

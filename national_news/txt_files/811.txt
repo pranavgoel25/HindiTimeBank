@@ -1,264 +1,264 @@
-उत्तर	NN	O	O	O
-प्रदेश	NN	O	O	O
-के	PSP	O	O	O
-झांसी	NN	O	O	O
-में	PSP	O	O	O
-कुरगवां	JJ	O	O	O
-गांव	NN	O	O	O
-के	PSP	O	O	O
-पुष्पेंद्र	XC	O	O	O
-यादव	NN	O	O	O
-के	PSP	O	O	O
-कथित	JJ	O	O	O
-एनकाउंटर	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-समाजवादी	JJ	O	O	O
-पार्टी	NN	O	O	O
-(	SYM	O	O	O
-एसपी	NN	O	O	O
-)	SYM	O	O	O
-के	PSP	O	O	O
-अध्यक्ष	NN	O	O	O
-और	CC	O	O	O
-उत्तर	XC	O	O	O
-प्रदेश	NNP	O	O	O
-के	PSP	O	O	O
-पूर्व	NST	O	O	O
-मुख्यमंत्री	NN	O	O	O
-अखिलेश	JJ	O	O	O
-यादव	NN	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-मृतक	NN	O	O	O
-के	PSP	O	O	O
-परिवारवालों	NN	O	O	O
-से	PSP	O	O	O
-मिलने	VM	O	B-MISC	OCC
-पहुंचे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-मौके	NN	O	O	O
-पर	PSP	O	O	O
-अखिलेश	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-पुष्पेंद्र	NN	O	O	O
-की	PSP	O	O	O
-हत्या	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-इसे	PRP	O	O	O
-एनकाउंटर	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-कहा	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-हम	PRP	O	O	O
-और	CC	O	O	O
-हमारी	PRP	O	O	O
-पार्टी	NN	O	O	O
-पुष्पेंद्र	NN	O	O	O
-के	PSP	O	O	O
-परिवार	NN	O	O	O
-को	PSP	O	O	O
-न्याय	NN	O	B-MISC	OCC
-दिलाने	VM	O	I-MISC	O
-में	PSP	O	O	O
-पूरी	JJ	O	O	O
-मदद	NN	O	B-MISC	OCC
-करेंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
-पुष्पेंद्र	NN	O	O	O
-के	PSP	O	O	O
-परिवार	NN	O	O	O
-वाले	PSP	O	O	O
-चाहते	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-हत्यारे	JJ	O	O	O
-पुलिसकर्मियों	NN	O	O	O
-के	PSP	O	O	O
-खिलाफ	PSP:?	O	O	O
-मुकदमा	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-पुलिस	NN	O	O	O
-प्रशासन	NN	O	O	O
-ने	PSP	O	O	O
-ऐसा	PRP	O	O	O
-नही	NEG	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-पुलिस	NN	O	O	O
-ने	PSP	O	O	O
-हिंदू	JJ	O	O	O
-धर्म	NN	O	O	O
-के	PSP	O	O	O
-विपरीत	JJ	O	O	O
-जाकर	VM	O	O	O
-रात	NN	O	O	O
-में	PSP	O	O	O
-पुष्पेंद्र	NN	O	O	O
-का	PSP	O	O	O
-शव	NN	O	O	OCC
-जला	VM	O	B-MISC	O
-दिया	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-इसे	PRP	O	O	O
-रामराज्य	NN	O	B-MISC	OCC
-तो	RP	O	I-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-कहा	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-मामले	NN	O	O	O
-की	PSP	O	O	O
-जांच	NN	O	B-MISC	OCC
-सिटिंग	NN	O	O	O
-जजों	NN	O	O	O
-से	PSP	O	O	O
-होनी	VM	O	B-MISC	OCC
-चाहिए	VAUX	O	I-MISC	O
-क्योंकि	CC	O	O	O
-लोगों	NN	O	O	O
-का	PSP	O	O	O
-विश्वास	NN	O	O	O
-अब	PRP	O	O	O
-उत्तर	XC	O	O	O
-प्रदेश	NNP	O	O	O
-पुलिस	NN	O	O	O
-और	CC	O	O	O
-प्रशासनिक	JJ	O	O	O
-अधिकारियों	NN	O	O	O
-से	PSP	O	O	O
-उठ	VM	O	B-MISC	OCC
-चुका	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अखिलेश	XC	O	O	O
-यादव	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-सोनभद्र	NNP	O	O	O
-मे	PSP	O	O	O
-लोगों	NN	O	O	O
-को	PSP	O	O	O
-इकट्ठा	JJ	O	B-MISC	O
-मार	VM	O	I-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मऊ	NN	O	O	O
-,	SYM	O	O	O
-बस्ती	NN	O	O	O
-,	SYM	O	O	O
-नोएडा	NNP	O	O	O
-,	SYM	O	O	O
-और	XC	O	O	O
-आजमगढ़	NNP	O	O	O
-मे	PSP	O	O	O
-पुलिस	NN	O	O	O
-ने	PSP	O	O	O
-कई	QF	O	O	O
-लोगों	NN	O	O	O
-का	PSP	O	O	O
-फेक	NN	O	O	O
-एनकाउंटर	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-समझ	NN	O	O	O
-में	PSP	O	O	O
-नही	NEG	O	B-MISC	OCC
-आता	VM	O	I-MISC	O
-कि	CC	O	O	O
-प्रधानमंत्री	NN	O	O	O
-नरेंद्र	JJ	O	O	O
-मोदी-	XC	O	O	O
-योगी	XC	O	O	O
-आदित्यनाथ	NNP	O	O	O
-के	PSP	O	O	O
-राज	NN	O	O	O
-में	PSP	O	O	O
-यह	PRP	O	O	O
-क्या	WQ	O	B-MISC	O
-हो	VM	O	I-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-क्या	WQ	O	O	O
-इसी	PRP	O	O	O
-को	PSP	O	O	O
-रामराज्य	NN	O	B-MISC	OCC
-कहते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-'	SYM	O	O	O
-इसके	PRP	O	O	O
-पहले	NST	O	O	O
-अखिलेश	XC	O	O	O
-यादव	NN	O	O	O
-पुष्पेंद्र	NN	O	O	O
-के	PSP	O	O	O
-गांव	NN	O	O	O
-करगुवां	NN	O	O	O
-पहुंचे	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-यहां	PRP	O	O	O
-उन्होंने	PRP	O	O	O
-परिवारवालों	NN	O	O	O
-से	PSP	O	O	O
-मुलाकात	NN	O	O	O
-की	PSP	O	O	O
-और	CC	O	O	O
-उन्हें	PRP	O	O	O
-ढांढस	NN	O	B-MISC	O
-बंधाया	VM	O	I-MISC	OCC
-.	SYM	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-यह	DEM	O	O	O
-भरोसा	NN	O	B-MISC	OCC
-दिया	VM	O	I-MISC	O
-कि	CC	O	O	O
-वह	PRP	O	O	O
-और	CC	O	O	O
-समाजवादी	JJ	O	O	O
-पार्टी	NN	O	O	O
-उनके	PRP	O	O	O
-साथ	NST	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-इंसाफ	NN	O	B-MISC	O
-पाने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-हर	QF	O	O	O
-संभव	JJ	O	O	O
-लड़ाई	NNP	O	B-MISC	O
-लड़ी	XC	O	I-MISC	O
-जाएगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हत्यारे	JJ	O	O	O
-पुलिसकर्मियों	NN	O	O	O
-के	PSP	O	O	O
-खिलाफ	PSP:?	O	O	O
-मुकदमा	NN	O	O	O
-दर्ज	JJ	O	B-MISC	O
-कराकर	VM	O	I-MISC	O
-जेल	NN	O	B-MISC	OCC
-भिजवाया	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+उत्तर
+प्रदेश
+के
+झांसी
+में
+कुरगवां
+गांव
+के
+पुष्पेंद्र
+यादव
+के
+कथित
+एनकाउंटर
+के
+बाद
+समाजवादी
+पार्टी
+(
+एसपी
+)
+के
+अध्यक्ष
+और
+उत्तर
+प्रदेश
+के
+पूर्व
+मुख्यमंत्री
+अखिलेश
+यादव
+बुधवार
+को
+मृतक
+के
+परिवारवालों
+से
+मिलने
+पहुंचे
+.
+इस
+मौके
+पर
+अखिलेश
+ने
+कहा
+कि
+पुष्पेंद्र
+की
+हत्या
+की
+गई
+है
+,
+इसे
+एनकाउंटर
+नहीं
+कहा
+जा
+सकता
+है
+,
+हम
+और
+हमारी
+पार्टी
+पुष्पेंद्र
+के
+परिवार
+को
+न्याय
+दिलाने
+में
+पूरी
+मदद
+करेंगे
+.
+पुष्पेंद्र
+के
+परिवार
+वाले
+चाहते
+थे
+कि
+हत्यारे
+पुलिसकर्मियों
+के
+खिलाफ
+मुकदमा
+दर्ज
+हो
+,
+लेकिन
+पुलिस
+प्रशासन
+ने
+ऐसा
+नही
+किया
+.
+पुलिस
+ने
+हिंदू
+धर्म
+के
+विपरीत
+जाकर
+रात
+में
+पुष्पेंद्र
+का
+शव
+जला
+दिया
+,
+इसे
+रामराज्य
+तो
+नहीं
+कहा
+जाएगा
+?
+मामले
+की
+जांच
+सिटिंग
+जजों
+से
+होनी
+चाहिए
+क्योंकि
+लोगों
+का
+विश्वास
+अब
+उत्तर
+प्रदेश
+पुलिस
+और
+प्रशासनिक
+अधिकारियों
+से
+उठ
+चुका
+है
+.
+अखिलेश
+यादव
+ने
+कहा
+,
+'
+सोनभद्र
+मे
+लोगों
+को
+इकट्ठा
+मार
+दिया
+गया
+,
+मऊ
+,
+बस्ती
+,
+नोएडा
+,
+और
+आजमगढ़
+मे
+पुलिस
+ने
+कई
+लोगों
+का
+फेक
+एनकाउंटर
+किया
+.
+समझ
+में
+नही
+आता
+कि
+प्रधानमंत्री
+नरेंद्र
+मोदी-
+योगी
+आदित्यनाथ
+के
+राज
+में
+यह
+क्या
+हो
+रहा
+है
+.
+क्या
+इसी
+को
+रामराज्य
+कहते
+हैं
+?
+'
+इसके
+पहले
+अखिलेश
+यादव
+पुष्पेंद्र
+के
+गांव
+करगुवां
+पहुंचे
+.
+यहां
+उन्होंने
+परिवारवालों
+से
+मुलाकात
+की
+और
+उन्हें
+ढांढस
+बंधाया
+.
+साथ
+ही
+यह
+भरोसा
+दिया
+कि
+वह
+और
+समाजवादी
+पार्टी
+उनके
+साथ
+है
+.
+उन्होंने
+कहा
+कि
+इंसाफ
+पाने
+के
+लिए
+हर
+संभव
+लड़ाई
+लड़ी
+जाएगी
+.
+हत्यारे
+पुलिसकर्मियों
+के
+खिलाफ
+मुकदमा
+दर्ज
+कराकर
+जेल
+भिजवाया
+जाएगा
+.

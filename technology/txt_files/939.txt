@@ -1,247 +1,247 @@
-लोकल	XC	O	O	O
-सर्च	XC	O	O	O
-इंजन	XC	O	O	O
-JustDial	NNP	O	O	O
-में	PSP	O	O	O
-सुरक्षा	NN	O	O	O
-से	PSP	O	O	O
-जुड़ी	NN	O	O	O
-एक	QC	O	O	O
-खामी	NN	O	O	O
-का	PSP	O	O	O
-पता	JJ	O	B-MISC	OCC
-चला	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसकी	PRP	O	O	O
-मदद	NN	O	O	O
-से	PSP	O	O	O
-यूजर्स	NNP	O	O	O
-के	PSP	O	O	O
-अकाउंट	JJ	O	O	O
-हैक	NN	O	B-MISC	OCC
-किए	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कंपनी	NN	O	O	O
-ने	PSP	O	O	O
-समय	NN	O	O	O
-रहते	VM	O	O	O
-केवल	RP	O	O	O
-एक	QC	B	O	O
-दिन	NN	I	O	O
-में	PSP	O	O	O
-ही	RP	O	O	O
-इस	DEM	O	O	O
-खामी	NN	O	O	O
-को	PSP	O	O	O
-दूर	NST	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-लिया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-साइबर	XC	O	O	O
-सिक्यॉरिटी	XC	O	O	O
-रिसर्चर	XC	O	O	O
-एहराज	XC	O	O	O
-अहमद	NNP	O	O	O
-ने	PSP	O	O	O
-इस	DEM	O	O	O
-खामी	NN	O	O	O
-का	PSP	O	O	O
-पता	JJ	O	B-MISC	OCC
-लगाया	VM	O	I-MISC	O
-,	SYM	O	O	O
-जिसे	PRP	O	O	O
-सबसे	INTF	O	O	O
-पहले	NST	O	O	O
-moneycontrol	NN	O	O	O
-.	SYM	O	O	O
-com	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-रिपोर्ट	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अहमद	NNP	O	O	O
-ने	PSP	O	O	O
-एक	QC	O	O	O
-ब्लॉग	NN	O	O	O
-पोस्ट	NN	O	O	O
-में	PSP	O	O	O
-लिखा	VM	O	B-MISC	O
-कि	CC	O	O	O
-जस्टडायल	NN	O	O	O
-के	PSP	O	O	O
-इंटरनेट	XC	O	O	O
-एपीआई	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-गड़बड़ी	NN	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-जिसकी	PRP	O	O	O
-मदद	NN	O	O	O
-से	PSP	O	O	O
-हैकर्स	XC	O	O	O
-यूजर्स	NNP	O	O	O
-के	PSP	O	O	O
-अकाउंट	NN	O	O	O
-में	PSP	O	O	O
-फोन	NN	O	O	O
-नंबर	NN	O	O	O
-को	PSP	O	O	O
-बाइपास	NN	O	B-MISC	O
-करके	VM	O	I-MISC	O
-लॉग-इन	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-गड़बड़ी	NN	O	O	O
-के	PSP	O	O	O
-चलते	VM	O	O	O
-हैकर्स	NN	O	O	O
-को	PSP	O	O	O
-ऐक्ससेस	XC	O	O	O
-टोकन	NN	O	O	O
-,	SYM	O	O	O
-सिस्टम	XC	O	O	O
-आईडी	NN	O	O	O
-(	SYM	O	O	O
-एसआईडी	XC	O	O	O
-)	SYM	O	O	O
-और	CC	O	O	O
-यूजर	XC	O	O	O
-आईडी	NN	O	O	O
-(	SYM	O	O	O
-यूआईडी	NN	O	O	O
-)	SYM	O	O	O
-का	PSP	O	O	O
-ऐक्सेस	NN	O	O	O
-मिल	VM	O	B-MISC	OCC
-सकता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एसआईडी	NN	O	O	O
-की	PSP	O	O	O
-मदद	NN	O	O	O
-से	PSP	O	O	O
-हैकर	VM	O	O	OCC
-यूजर	NN	O	O	O
-के	PSP	O	O	O
-कई	QF	O	O	O
-अकाउंट	JJ	O	O	O
-इस्तेमाल	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-,	SYM	O	O	O
-यूआईडी	NN	O	O	O
-की	PSP	O	O	O
-मदद	NN	O	O	O
-से	PSP	O	O	O
-यूजर	NN	O	O	O
-के	PSP	O	O	O
-प्रोफाइल	NN	O	O	O
-पर	PSP	O	O	O
-कुछ	QF	O	O	O
-पोस्ट	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सिक्यॉरिटी	XC	O	O	O
-रिसर्चर	NN	O	O	O
-ने	PSP	O	O	O
-लिखा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-हैकर्स	NN	O	O	O
-और	CC	O	O	O
-टेलिमार्केटर्स	XC	O	O	O
-यूजर्स	NNP	O	O	O
-के	PSP	O	O	O
-कई	QF	O	O	O
-अकाउंट्स	NN	O	O	O
-तक	RP	O	O	O
-पहुंचकर	VM	O	B-MISC	OCC
-उनका	PRP	O	O	O
-डेटा	NN	O	B-MISC	O
-चुरा	VM	O	I-MISC	OCC
-सकते	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-और	CC	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-उन्हें	PRP	O	O	O
-ऑनलाइन	NN	O	O	O
-मिले	VM	O	B-MISC	OCC
-फोन	NN	O	O	O
-नंबर	NN	O	O	O
-डंप	NN	O	O	O
-को	PSP	O	O	O
-JustDial	NN	O	O	O
-की	PSP	O	O	O
-स्क्रिप्ट	NN	O	O	O
-से	PSP	O	O	O
-ऑटोमेट	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अहमद	NNP	O	O	O
-ने	PSP	O	O	O
-लिखा	VM	O	O	OCC
-,	SYM	O	O	O
-'	SYM	O	O	O
-हैकर्स	NN	O	O	O
-किसी	PRP	O	O	O
-यूजर	NN	O	O	O
-की	PSP	O	O	O
-जगह	NN	O	O	O
-उसके	PRP	O	O	O
-JustDial	NN	O	O	O
-Pay	JJ	O	O	O
-अकाउंट	NN	O	O	O
-तक	RP	O	O	O
-पहुंचकर	VM	O	B-MISC	IAC
-अपने	PRP	O	O	O
-बैंकिंग	XC	O	O	O
-डीटेल्स	NN	O	O	O
-डालने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-बाद	NST	O	O	O
-फंड्स	NN	O	O	O
-रिसीव	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-यूपीआई	XC	O	O	O
-कोड	NNP	O	O	O
-तक	RP	O	O	O
-ऐक्सेस	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-होने	VM	O	I-MISC	O
-के	PSP	O	O	O
-चलते	VM	O	O	O
-वे	PRP	O	O	O
-मौजूद	JJ	O	O	O
-बैलेंस	NN	O	O	O
-को	PSP	O	O	O
-ट्रांसफर	NN	O	B-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
+लोकल
+सर्च
+इंजन
+JustDial
+में
+सुरक्षा
+से
+जुड़ी
+एक
+खामी
+का
+पता
+चला
+है
+,
+जिसकी
+मदद
+से
+यूजर्स
+के
+अकाउंट
+हैक
+किए
+जा
+सकते
+थे
+.
+कंपनी
+ने
+समय
+रहते
+केवल
+एक
+दिन
+में
+ही
+इस
+खामी
+को
+दूर
+कर
+लिया
+है
+.
+साइबर
+सिक्यॉरिटी
+रिसर्चर
+एहराज
+अहमद
+ने
+इस
+खामी
+का
+पता
+लगाया
+,
+जिसे
+सबसे
+पहले
+moneycontrol
+.
+com
+की
+ओर
+से
+रिपोर्ट
+किया
+गया
+था
+.
+अहमद
+ने
+एक
+ब्लॉग
+पोस्ट
+में
+लिखा
+कि
+जस्टडायल
+के
+इंटरनेट
+एपीआई
+में
+एक
+गड़बड़ी
+है
+,
+जिसकी
+मदद
+से
+हैकर्स
+यूजर्स
+के
+अकाउंट
+में
+फोन
+नंबर
+को
+बाइपास
+करके
+लॉग-इन
+कर
+सकते
+हैं
+.
+इस
+गड़बड़ी
+के
+चलते
+हैकर्स
+को
+ऐक्ससेस
+टोकन
+,
+सिस्टम
+आईडी
+(
+एसआईडी
+)
+और
+यूजर
+आईडी
+(
+यूआईडी
+)
+का
+ऐक्सेस
+मिल
+सकता
+था
+.
+एसआईडी
+की
+मदद
+से
+हैकर
+यूजर
+के
+कई
+अकाउंट
+इस्तेमाल
+कर
+सकते
+थे
+.
+वहीं
+,
+यूआईडी
+की
+मदद
+से
+यूजर
+के
+प्रोफाइल
+पर
+कुछ
+पोस्ट
+किया
+जा
+सकता
+था
+.
+सिक्यॉरिटी
+रिसर्चर
+ने
+लिखा
+कि
+हैकर्स
+और
+टेलिमार्केटर्स
+यूजर्स
+के
+कई
+अकाउंट्स
+तक
+पहुंचकर
+उनका
+डेटा
+चुरा
+सकते
+थे
+और
+इसके
+लिए
+उन्हें
+ऑनलाइन
+मिले
+फोन
+नंबर
+डंप
+को
+JustDial
+की
+स्क्रिप्ट
+से
+ऑटोमेट
+करना
+था
+.
+अहमद
+ने
+लिखा
+,
+'
+हैकर्स
+किसी
+यूजर
+की
+जगह
+उसके
+JustDial
+Pay
+अकाउंट
+तक
+पहुंचकर
+अपने
+बैंकिंग
+डीटेल्स
+डालने
+के
+बाद
+फंड्स
+रिसीव
+कर
+सकते
+थे
+.
+हालांकि
+यूपीआई
+कोड
+तक
+ऐक्सेस
+न
+होने
+के
+चलते
+वे
+मौजूद
+बैलेंस
+को
+ट्रांसफर
+नहीं
+कर
+सकते
+थे
+.
+'

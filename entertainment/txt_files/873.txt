@@ -1,226 +1,226 @@
-बॉलिवुड	XC	O	O	O
-स्टार	XC	O	O	O
-कटरीना	XC	O	O	O
-कैफ	NN	O	O	O
-और	CC	O	O	O
-रणबीर	JJ	O	O	O
-कपूर	NN	O	O	O
-लबें	JJ	O	O	O
-समय	NN	O	O	O
-तक	RP	O	O	O
-रिलेशनशिप	NN	O	B-MISC	OCC
-में	PSP	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-तक	RP	O	O	O
-दोनों	NN	O	O	O
-का	PSP	O	O	O
-एक	QC	O	O	O
-साथ	NST	O	O	O
-रहे	VAUX	O	O	O
-,	SYM	O	O	O
-तब	PRP	O	O	O
-तक	RP	O	O	O
-उनका	PRP	O	O	O
-लव	JJ	O	O	O
-अफेयर	NN	O	O	O
-चर्चा	NN	O	O	O
-में	PSP	O	O	O
-रहा	VM	O	B-STAT	DECL
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-बाद	NST	O	O	O
-में	PSP	O	O	O
-रणबीर	NN	O	O	O
-और	CC	O	O	O
-कटरीना	NN	O	O	O
-का	PSP	O	O	O
-ब्रेकअप	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-लेकिन	CC	O	O	O
-आज	NN	O	O	O
-भी	RP	O	O	O
-उनके	PRP	O	O	O
-फैंस	NN	O	O	O
-दोनों	NN	O	O	O
-को	PSP	O	O	O
-एक	QC	O	O	O
-साथ	NST	O	O	O
-स्क्रीन	NN	O	O	O
-पर	PSP	O	O	O
-देखने	VM	O	B-MISC	OCC
-की	PSP	O	O	O
-इच्छा	NN	O	B-MISC	O
-रखते	VM	O	I-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हाल	NN	O	O	O
-ही	RP	O	O	O
-में	PSP	O	O	O
-रणबीर	JJ	O	O	O
-कपूर	NN	O	O	O
-और	CC	O	O	O
-कटरीना	XC	O	O	O
-कैफ	NN	O	O	O
-का	PSP	O	O	O
-पुराना	JJ	O	O	O
-विडियो	XC	O	O	O
-सोशल	XC	O	O	O
-मीडिया	NNP	O	O	O
-पर	PSP	O	O	O
-सामने	NST	O	B-MISC	OCC
-आया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-विडियो	NN	O	O	O
-में	PSP	O	O	O
-दोनों	NN	O	O	O
-एक	QC	O	O	O
-कार	NN	O	O	O
-में	PSP	O	O	O
-बैठे	VM	O	B-MISC	O
-ट्रैवलिंग	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसी	DEM	O	O	O
-बीच	NST	O	O	O
-रणबीर	NN	O	O	O
-अपने	PRP	O	O	O
-फैंस	NN	O	O	O
-को	PSP	O	O	O
-फ्लाइंग	NN	O	O	O
-किस	WQ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-लगते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-पास	NST	O	O	O
-में	PSP	O	O	O
-बैठी	VM	O	B-MISC	O
-कटरीना	XC	O	O	O
-कैफ	XC	O	O	O
-हैंड	XC	O	O	O
-फैन	NN	O	O	O
-से	PSP	O	O	O
-उनके	PRP	O	O	O
-गाल	NN	O	O	O
-पर	PSP	O	O	O
-मारती	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-बाद	NST	O	O	O
-रणबीर	JJ	O	O	O
-कपूर	NN	O	O	O
-के	PSP	O	O	O
-चेहरे	NN	O	O	O
-के	PSP	O	O	O
-भाव	NN	O	O	O
-ही	RP	O	O	O
-बदल	VM	O	B-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-णबीर	JJ	O	O	O
-कपूर	NN	O	O	O
-और	CC	O	O	O
-कटरीना	XC	O	O	O
-कैफ	NN	O	O	O
-आखिरी	JJ	O	O	O
-बार	RP	O	O	O
-डायरेक्टर	XC	O	O	O
-अनुराग	XC	O	O	O
-बसु	NNP	O	O	O
-की	PSP	O	O	O
-फिल्म	NN	O	O	O
-'	SYM	O	O	O
-जग्गा	XC	O	O	O
-जासूस	NNP	O	O	O
-'	SYM	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-साथ	NST	O	O	O
-नजर	NN	O	B-MISC	OCC
-आए	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-फिल्म	NN	O	O	O
-को	PSP	O	O	O
-दर्शकों	NN	O	O	O
-और	CC	O	O	O
-समीक्षकों	NN	O	O	O
-की	PSP	O	O	O
-मिली-जुली	JJ	O	O	O
-प्रतिक्रिया	NN	O	O	O
-मिली	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वर्कफ्रंट	NN	O	O	O
-की	PSP	O	O	O
-बात	NN	O	B-MISC	OCC
-करें	VM	O	I-MISC	O
-तो	CC	O	O	O
-रणबीर	JJ	O	O	O
-कपूर	NN	O	O	O
-डायरेक्टर	XC	O	O	O
-अयान	XC	O	O	O
-मुखर्जी	NNP	O	O	O
-की	PSP	O	O	O
-फिल्म	NN	O	O	O
-'	SYM	O	O	O
-ब्रह्मास्त्र	NN	O	O	O
-'	SYM	O	O	O
-में	PSP	O	O	O
-आलिया	NN	O	O	O
-भट्ट	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-नजर	NN	O	B-MISC	OCC
-आएंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-अलावा	PSP:?	O	O	O
-वह	PRP	O	O	O
-डायरेक्टर	XC	O	O	O
-लव	XC	O	O	O
-रंजन	NNP	O	O	O
-की	PSP	O	O	O
-फिल्म	NN	O	O	O
-में	PSP	O	O	O
-अजय	XC	O	O	O
-देवगन	NNP	O	O	O
-और	CC	O	O	O
-दीपिका	XC	O	O	O
-पादुकोण	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-काम	NN	O	O	OCC
-करेंगे	VM	O	B-MISC	O
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-,	SYM	O	O	O
-कटरीना	XC	O	O	O
-कैफ	NN	O	O	O
-रोहित	JJ	O	O	O
-शेट्टी	NN	O	O	O
-की	PSP	O	O	O
-फिल्म	NN	O	O	O
-'	SYM	O	O	O
-सूर्यवंशी	NNP	O	O	O
-'	SYM	O	O	O
-में	PSP	O	O	O
-अक्षय	XC	O	O	O
-कुमार	NNP	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-नजर	NN	O	B-MISC	OCC
-आएंगी	VM	O	I-MISC	O
-.	SYM	O	O	O
+बॉलिवुड
+स्टार
+कटरीना
+कैफ
+और
+रणबीर
+कपूर
+लबें
+समय
+तक
+रिलेशनशिप
+में
+रहे
+हैं
+.
+जब
+तक
+दोनों
+का
+एक
+साथ
+रहे
+,
+तब
+तक
+उनका
+लव
+अफेयर
+चर्चा
+में
+रहा
+है
+.
+हालांकि
+बाद
+में
+रणबीर
+और
+कटरीना
+का
+ब्रेकअप
+हो
+गया
+लेकिन
+आज
+भी
+उनके
+फैंस
+दोनों
+को
+एक
+साथ
+स्क्रीन
+पर
+देखने
+की
+इच्छा
+रखते
+हैं
+.
+हाल
+ही
+में
+रणबीर
+कपूर
+और
+कटरीना
+कैफ
+का
+पुराना
+विडियो
+सोशल
+मीडिया
+पर
+सामने
+आया
+है
+.
+इस
+विडियो
+में
+दोनों
+एक
+कार
+में
+बैठे
+ट्रैवलिंग
+कर
+रहे
+हैं
+.
+इसी
+बीच
+रणबीर
+अपने
+फैंस
+को
+फ्लाइंग
+किस
+करने
+लगते
+हैं
+तो
+पास
+में
+बैठी
+कटरीना
+कैफ
+हैंड
+फैन
+से
+उनके
+गाल
+पर
+मारती
+हैं
+.
+इसके
+बाद
+रणबीर
+कपूर
+के
+चेहरे
+के
+भाव
+ही
+बदल
+जाते
+हैं
+.
+णबीर
+कपूर
+और
+कटरीना
+कैफ
+आखिरी
+बार
+डायरेक्टर
+अनुराग
+बसु
+की
+फिल्म
+'
+जग्गा
+जासूस
+'
+में
+एक
+साथ
+नजर
+आए
+थे
+.
+इस
+फिल्म
+को
+दर्शकों
+और
+समीक्षकों
+की
+मिली-जुली
+प्रतिक्रिया
+मिली
+थी
+.
+वर्कफ्रंट
+की
+बात
+करें
+तो
+रणबीर
+कपूर
+डायरेक्टर
+अयान
+मुखर्जी
+की
+फिल्म
+'
+ब्रह्मास्त्र
+'
+में
+आलिया
+भट्ट
+के
+साथ
+नजर
+आएंगे
+.
+इसके
+अलावा
+वह
+डायरेक्टर
+लव
+रंजन
+की
+फिल्म
+में
+अजय
+देवगन
+और
+दीपिका
+पादुकोण
+के
+साथ
+काम
+करेंगे
+.
+वहीं
+,
+कटरीना
+कैफ
+रोहित
+शेट्टी
+की
+फिल्म
+'
+सूर्यवंशी
+'
+में
+अक्षय
+कुमार
+के
+साथ
+नजर
+आएंगी
+.

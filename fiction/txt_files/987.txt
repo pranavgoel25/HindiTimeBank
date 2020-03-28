@@ -1,497 +1,497 @@
-अब	PRP	O	O	O
-बड़े-बड़े	JJ	O	O	O
-शहरों	NN	O	O	O
-में	PSP	O	O	O
-दाइयां	NN	O	O	O
-,	SYM	O	O	O
-नर्सें	NN	O	O	O
-और	CC	O	O	O
-लेडी	XC	O	O	O
-डाक्टर	NN	O	O	O
-,	SYM	O	O	O
-सभी	QF	O	O	O
-पैदा	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-देहातों	NN	O	O	O
-में	PSP	O	O	O
-जच्चेखानों	NN	O	O	O
-पर	PSP	O	O	O
-अभी	PRP	O	O	O
-तक	RP	O	O	O
-भंगिनों	NN	O	O	O
-का	PSP	O	O	O
-ही	RP	O	O	O
-प्रभुत्व	NN	O	B-MISC	O
-है	VM	O	I-MISC	O
-और	CC	O	O	O
-निकट	NST	O	O	O
-भविष्य	NN	O	O	O
-में	PSP	O	O	O
-इसमें	PRP	O	O	O
-कोई	PRP	O	O	O
-तब्दीली	NN	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-की	PSP	O	O	O
-आशा	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-.	SYM	O	O	O
-बाबू	XC	O	O	O
-महेशनाथ	NNP	O	O	O
-अपने	PRP	O	O	O
-गांव	NN	O	O	O
-के	PSP	O	O	O
-जमींदार	NN	O	B-STAT	O
-थे	VM	O	I-STAT	O
-,	SYM	O	O	O
-शिक्षित	JJ	O	B-STAT	O
-थे	VM	O	I-STAT	O
-और	CC	O	O	O
-जच्चेखानों	NN	O	O	O
-में	PSP	O	O	O
-सुधार	NN	O	O	O
-की	PSP	O	O	O
-आवश्यकता	NN	O	O	O
-को	PSP	O	O	O
-मानते	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-इसमें	PRP	O	O	O
-जो	PRP	O	O	O
-बाधाएं	NN	O	B-MISC	OCC
-थीं	VM	O	I-MISC	O
-,	SYM	O	O	O
-उन	PRP	O	O	O
-पर	PSP	O	O	O
-कैसे	WQ	O	O	OCC
-विजय	NN	O	O	O
-पाते	VAUX	O	O	O
-?	SYM	O	O	O
-कोई	PRP	O	O	O
-नर्स	NN	O	O	O
-देहात	NN	O	O	O
-में	PSP	O	O	O
-जाने	VM	O	B-MISC	O
-पर	PSP	O	O	O
-राजी	JJ	O	B-MISC	O
-न	NEG	O	I-MISC	O
-हुई	VM	O	I-MISC	O
-और	CC	O	O	O
-बहुत	QF	O	O	O
-कहने-सुनने	VM	O	O	O
-से	PSP	O	O	O
-राजी	JJ	O	O	O
-भी	RP	O	O	O
-हुई	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-इतनी	QF	O	O	O
-लम्बी-चौड़ी	RDP	O	O	O
-फीस	NN	O	O	O
-मांगी	VM	O	B-MISC	O
-कि	CC	O	O	O
-बाबू	XC	O	O	O
-साहब	NN	O	O	O
-को	PSP	O	O	O
-सिर	NN	O	O	OCC
-झुकाकर	VM	O	B-MISC	O
-चले	VAUX	O	I-MISC	O
-आने	VM	O	I-MISC	O
-के	PSP	O	O	O
-सिवा	PSP:?	O	O	O
-और	CC	O	O	O
-कुछ	QF	O	O	O
-न	NEG	O	B-MISC	O
-सूझा	VM	O	I-MISC	O
-.	SYM	O	O	O
-लेडी	XC	O	O	O
-डाक्टर	NN	O	O	O
-के	PSP	O	O	O
-पास	NST	O	B-MISC	O
-जाने	VM	O	I-MISC	O
-की	PSP	O	O	O
-उन्हें	PRP	O	O	O
-हिम्मत	NN	O	B-MISC	O
-न	NEG	O	I-MISC	O
-पड़ी	XC	O	I-MISC	O
-.	SYM	O	O	O
-उसकी	PRP	O	O	O
-फीस	NN	O	O	OCC
-पूरी	JJ	O	B-MISC	O
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-तो	RP	O	O	O
-शायद	RB	O	O	O
-बाबू	XC	O	O	O
-साहब	NN	O	O	O
-को	PSP	O	O	O
-अपनी	PRP	O	O	O
-आधी	JJ	O	O	O
-जायदाद	NN	O	O	O
-बेचनी	VM	O	O	O
-पड़ती	XC	O	O	O
-;	SYM	O	O	O
-इसलिए	CC	O	O	O
-जब	PRP	O	O	O
-तीन	QC	O	O	O
-कन्याओं	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-वह	DEM	O	O	O
-चौथा	QO	O	O	O
-लड़का	NNP	O	O	O
-पैदा	JJ	O	O	O
-हुआ	VM	O	O	O
-,	SYM	O	O	O
-तो	RP	O	O	O
-फिर	RB	O	O	O
-वही	DEM	O	O	O
-गूदड़	NN	O	O	O
-था	VM	O	O	O
-और	CC	O	O	O
-वही	PRP	O	O	O
-गूदड़	NN	O	O	O
-की	PSP	O	O	O
-बहू	NN	O	B-MISC	O
-.	SYM	O	O	O
-बच्चे	NN	O	O	O
-अक्सर	RB	O	O	O
-रात	NN	O	O	O
-ही	RP	O	O	O
-को	PSP	O	O	O
-पैदा	JJ	O	B-MISC	OCC
-होते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एक	QC	B	O	O
-दिन	NN	I	O	O
-आधी	JJ	B	O	O
-रात	NN	I	O	O
-को	PSP	O	O	O
-चपरासी	NN	O	O	O
-ने	PSP	O	O	O
-गूदड़	NNP	O	O	O
-के	PSP	O	O	O
-द्वार	NN	O	O	O
-पर	PSP	O	O	O
-ऐसी	DEM	O	O	O
-हांक	NN	O	O	O
-लगायी	VM	O	O	O
-कि	CC	O	O	O
-पास-पड़ोस	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-जाग	VM	O	B-MISC	OCC
-पड़	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-लड़की	NN	O	O	O
-न	NEG	O	B-MISC	O
-थी	VM	O	I-MISC	O
-कि	CC	O	O	O
-मरी	JJ	O	O	O
-आवाज	NN	O	O	O
-से	PSP	O	O	O
-पुकारता	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-गूदड़	NN	O	O	O
-के	PSP	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-इस	DEM	O	O	O
-शुभ	NN	O	O	O
-अवसर	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-महीनों	NN	O	O	O
-से	PSP	O	O	O
-तैयारी	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भय	NN	O	B-STAT	OCC
-था	VM	O	I-STAT	O
-तो	CC	O	O	O
-यही	DEM	O	O	O
-कि	CC	O	O	O
-फिर	RB	O	O	O
-बेटी	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाय	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-नहीं	NEG	O	O	O
-तो	RP	O	O	O
-वही	PRP	O	O	O
-बंधा	NN	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-एक	QC	O	O	O
-रुपया	NN	O	O	O
-और	CC	O	O	O
-एक	QC	O	O	O
-साड़ी	XC	O	O	O
-मिलकर	VM	O	B-MISC	OCC
-रह	VAUX	O	I-MISC	O
-जायगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-विषय	NN	O	O	O
-में	PSP	O	O	O
-स्त्री-पुरुष	NN	O	O	O
-में	PSP	O	O	O
-कितनी	QF	O	O	O
-ही	RP	O	O	O
-बार	RP	O	O	O
-झगड़ा	VM	O	B-MISC	OCC
-हो	VAUX	O	I-MISC	O
-चुका	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-शर्त	NN	O	B-MISC	O
-लग	VM	O	I-MISC	O
-चुकी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-स्त्री	NN	O	O	OCC
-कहती	VM	O	O	O
-थी	VAUX	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-अगर	CC	O	O	O
-अबकी	PRP	O	O	O
-बेटा	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-हो	VM	O	I-MISC	O
-तो	CC	O	O	O
-मुंह	NN	O	O	O
-न	NEG	O	O	O
-दिखाऊं	VM	O	O	O
-;	SYM	O	O	O
-हां-हां	NN	O	O	O
-,	SYM	O	O	O
-मुंह	NN	O	O	O
-न	NEG	O	O	O
-दिखाऊं	VM	O	O	O
-,	SYM	O	O	O
-सारे	QF	O	O	O
-लच्छन	NN	O	O	O
-बेटे	NN	O	O	O
-के	PSP	O	O	O
-हैं	VM	O	B-STAT	O
-.	SYM	O	O	O
-और	CC	O	O	O
-गूदड़	NN	O	O	OCC
-कहता	VM	O	O	O
-था	VAUX	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-देख	VM	O	B-MISC	OCC
-लेना	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-बेटी	NN	O	O	O
-होगी	VM	O	B-MISC	O
-और	CC	O	O	O
-बीच	NST	O	O	O
-खेत	NN	O	O	O
-बेटी	NN	O	B-MISC	O
-होगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-बेटा	NN	O	O	O
-निकले	VM	O	B-MISC	O
-तो	CC	O	O	O
-मूंछें	NN	O	O	O
-मुंड़ा	VM	O	B-MISC	O
-लूं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-हां-हां	NN	O	O	O
-,	SYM	O	O	O
-मूंछें	NN	O	O	O
-मुड़ा	XC	O	O	O
-लूं	NNP	O	O	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-शायद	XC	O	O	O
-गूदड़	NN	O	O	O
-समझता	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इस	DEM	O	O	O
-तरह	NN	O	O	O
-अपनी	PRP	O	O	O
-स्त्री	NN	O	O	O
-में	PSP	O	O	O
-पुत्र-कामना	NN	O	O	O
-को	PSP	O	O	O
-बलवान्	NN	O	B-MISC	OCC
-करके	VM	O	I-MISC	O
-वह	PRP	O	O	O
-बेटे	NN	O	O	O
-की	PSP	O	O	O
-अवाई	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-रास्ता	NN	O	B-MISC	O
-साफ	JJ	O	I-MISC	OCC
-कर	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भूंगी	NN	O	O	O
-बोली	VM	O	O	OCC
-,	SYM	O	O	O
-'	SYM	O	O	O
-अब	PRP	O	O	O
-मूंछ	NN	O	B-MISC	OCC
-मुंड़ा	VM	O	I-MISC	O
-ले	VAUX	O	I-MISC	O
-दाढ़ीजार	NN	O	O	O
-!	SYM	O	O	O
-कहती	VM	O	O	O
-थी	VAUX	O	O	O
-,	SYM	O	O	O
-बेटा	NN	O	B-MISC	O
-होगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-सुनता	VM	O	O	O
-ही	RP	O	O	O
-न	NEG	O	B-MISC	OCC
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-अपनी	PRP	O	O	O
-ही	RP	O	O	O
-रट	NN	O	O	OCC
-लगाये	VM	O	B-MISC	O
-जाता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-आज	NN	O	O	O
-तेरी	PRP	O	O	O
-मूंछें	NN	O	O	O
-मूंङूंगी	VM	O	O	O
-,	SYM	O	O	O
-खूंटी	NN	O	O	O
-तक	RP	O	O	O
-तो	RP	O	O	O
-रखूंगी	VM	O	B-MISC	O
-ही	RP	O	I-MISC	O
-नहीं	NEG	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-गूदड़	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-अच्छा	XC	O	O	O
-मूंड़	XC	O	O	O
-लेना	VAUX	O	O	O
-भलीमानस	JJ	O	O	O
-!	SYM	O	O	O
-मूंछें	NN	O	O	O
-क्या	WQ	O	O	O
-फिर	RB	O	O	O
-निकलेंगी	VM	O	O	OCC
-ही	RP	O	O	O
-नहीं	NEG	O	O	O
-?	SYM	O	O	O
-तीसरे	QO	O	O	O
-दिन	NN	O	O	O
-देख	VM	O	B-MISC	OCC
-लेना	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-फिर	RB	O	O	O
-ज्यों-की-त्यों	NN	O	O	O
-हैं	VM	O	O	O
-,	SYM	O	O	O
-मगर	CC	O	O	O
-जो	PRP	O	O	O
-कुछ	QF	O	O	O
-मिलेगा	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-उसमें	PRP	O	O	O
-आधा	JJ	O	O	OCC
-रखा	VM	O	B-MISC	O
-लूंगा	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-कहे	VM	O	B-MISC	OCC
-देता	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भूंगी	VM	O	O	O
-ने	PSP	O	O	O
-अंगूठा	NN	O	B-MISC	O
-दिखाया	VM	O	I-MISC	OCC
-और	CC	O	O	O
-अपने	PRP	O	O	O
-तीन	QC	B	O	O
-महीने	NN	I	O	O
-के	PSP	O	O	O
-बालक	NN	O	O	O
-को	PSP	O	O	O
-गूदड़	NNP	O	O	O
-के	PSP	O	O	O
-सुपुर्द	NN	O	B-MISC	O
-कर	VM	O	I-MISC	O
-सिपाही	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-चल	VM	O	B-MISC	O
-खड़ी	XC	O	I-MISC	OCC
-हुई	NNP	O	I-MISC	O
-.	SYM	O	O	O
-गूदड़	NNP	O	O	O
-ने	PSP	O	O	O
-पुकारा	VM	O	O	OCC
-,	SYM	O	O	O
-'	SYM	O	O	O
-अरी	INJ	O	O	O
-!	SYM	O	O	O
-सुन	VM	O	O	OCC
-तो	RP	O	O	O
-,	SYM	O	O	O
-कहां	WQ	O	O	O
-भागी	VM	O	B-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-मुझे	PRP	O	O	O
-भी	RP	O	O	O
-बधाई	NN	O	O	OCC
-बजाने	VM	O	B-MISC	O
-जाना	VAUX	O	I-MISC	O
-पड़ेगा	XC	O	I-MISC	O
-.	SYM	O	O	O
-इसे	PRP	O	O	O
-कौन	WQ	O	O	O
-संभालेगा	VM	O	O	OCC
-?	SYM	O	O	O
-'	SYM	O	O	O
-भूंगी	NN	O	O	O
-ने	PSP	O	O	O
-दूर	NST	O	O	O
-ही	RP	O	O	O
-से	PSP	O	O	O
-कहा	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-'	SYM	O	O	O
-इसे	PRP	O	O	O
-वहीं	PRP	O	O	O
-धारती	NN	O	O	O
-पर	PSP	O	O	O
-सुला	VM	O	B-MISC	OCC
-देना	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-आके	PRP	O	O	O
-दूध	NN	O	B-MISC	O
-पिला	VM	O	I-MISC	OCC
-जाऊंगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
+अब
+बड़े-बड़े
+शहरों
+में
+दाइयां
+,
+नर्सें
+और
+लेडी
+डाक्टर
+,
+सभी
+पैदा
+हो
+गयी
+हैं
+;
+लेकिन
+देहातों
+में
+जच्चेखानों
+पर
+अभी
+तक
+भंगिनों
+का
+ही
+प्रभुत्व
+है
+और
+निकट
+भविष्य
+में
+इसमें
+कोई
+तब्दीली
+होने
+की
+आशा
+नहीं
+.
+बाबू
+महेशनाथ
+अपने
+गांव
+के
+जमींदार
+थे
+,
+शिक्षित
+थे
+और
+जच्चेखानों
+में
+सुधार
+की
+आवश्यकता
+को
+मानते
+थे
+,
+लेकिन
+इसमें
+जो
+बाधाएं
+थीं
+,
+उन
+पर
+कैसे
+विजय
+पाते
+?
+कोई
+नर्स
+देहात
+में
+जाने
+पर
+राजी
+न
+हुई
+और
+बहुत
+कहने-सुनने
+से
+राजी
+भी
+हुई
+,
+तो
+इतनी
+लम्बी-चौड़ी
+फीस
+मांगी
+कि
+बाबू
+साहब
+को
+सिर
+झुकाकर
+चले
+आने
+के
+सिवा
+और
+कुछ
+न
+सूझा
+.
+लेडी
+डाक्टर
+के
+पास
+जाने
+की
+उन्हें
+हिम्मत
+न
+पड़ी
+.
+उसकी
+फीस
+पूरी
+करने
+के
+लिए
+तो
+शायद
+बाबू
+साहब
+को
+अपनी
+आधी
+जायदाद
+बेचनी
+पड़ती
+;
+इसलिए
+जब
+तीन
+कन्याओं
+के
+बाद
+वह
+चौथा
+लड़का
+पैदा
+हुआ
+,
+तो
+फिर
+वही
+गूदड़
+था
+और
+वही
+गूदड़
+की
+बहू
+.
+बच्चे
+अक्सर
+रात
+ही
+को
+पैदा
+होते
+हैं
+.
+एक
+दिन
+आधी
+रात
+को
+चपरासी
+ने
+गूदड़
+के
+द्वार
+पर
+ऐसी
+हांक
+लगायी
+कि
+पास-पड़ोस
+में
+भी
+जाग
+पड़
+गयी
+.
+लड़की
+न
+थी
+कि
+मरी
+आवाज
+से
+पुकारता
+.
+गूदड़
+के
+घर
+में
+इस
+शुभ
+अवसर
+के
+लिए
+महीनों
+से
+तैयारी
+हो
+रही
+थी
+.
+भय
+था
+तो
+यही
+कि
+फिर
+बेटी
+न
+हो
+जाय
+,
+नहीं
+तो
+वही
+बंधा
+हुआ
+एक
+रुपया
+और
+एक
+साड़ी
+मिलकर
+रह
+जायगी
+.
+इस
+विषय
+में
+स्त्री-पुरुष
+में
+कितनी
+ही
+बार
+झगड़ा
+हो
+चुका
+था
+,
+शर्त
+लग
+चुकी
+थी
+.
+स्त्री
+कहती
+थी
+,
+'
+अगर
+अबकी
+बेटा
+न
+हो
+तो
+मुंह
+न
+दिखाऊं
+;
+हां-हां
+,
+मुंह
+न
+दिखाऊं
+,
+सारे
+लच्छन
+बेटे
+के
+हैं
+.
+और
+गूदड़
+कहता
+था
+,
+'
+देख
+लेना
+,
+बेटी
+होगी
+और
+बीच
+खेत
+बेटी
+होगी
+.
+बेटा
+निकले
+तो
+मूंछें
+मुंड़ा
+लूं
+,
+हां-हां
+,
+मूंछें
+मुड़ा
+लूं
+.
+'
+शायद
+गूदड़
+समझता
+था
+कि
+इस
+तरह
+अपनी
+स्त्री
+में
+पुत्र-कामना
+को
+बलवान्
+करके
+वह
+बेटे
+की
+अवाई
+के
+लिए
+रास्ता
+साफ
+कर
+रहा
+है
+.
+भूंगी
+बोली
+,
+'
+अब
+मूंछ
+मुंड़ा
+ले
+दाढ़ीजार
+!
+कहती
+थी
+,
+बेटा
+होगा
+.
+सुनता
+ही
+न
+था
+.
+अपनी
+ही
+रट
+लगाये
+जाता
+था
+.
+मैं
+आज
+तेरी
+मूंछें
+मूंङूंगी
+,
+खूंटी
+तक
+तो
+रखूंगी
+ही
+नहीं
+.
+'
+गूदड़
+ने
+कहा
+,
+'
+अच्छा
+मूंड़
+लेना
+भलीमानस
+!
+मूंछें
+क्या
+फिर
+निकलेंगी
+ही
+नहीं
+?
+तीसरे
+दिन
+देख
+लेना
+,
+फिर
+ज्यों-की-त्यों
+हैं
+,
+मगर
+जो
+कुछ
+मिलेगा
+,
+उसमें
+आधा
+रखा
+लूंगा
+,
+कहे
+देता
+हूं
+.
+भूंगी
+ने
+अंगूठा
+दिखाया
+और
+अपने
+तीन
+महीने
+के
+बालक
+को
+गूदड़
+के
+सुपुर्द
+कर
+सिपाही
+के
+साथ
+चल
+खड़ी
+हुई
+.
+गूदड़
+ने
+पुकारा
+,
+'
+अरी
+!
+सुन
+तो
+,
+कहां
+भागी
+जाती
+है
+?
+मुझे
+भी
+बधाई
+बजाने
+जाना
+पड़ेगा
+.
+इसे
+कौन
+संभालेगा
+?
+'
+भूंगी
+ने
+दूर
+ही
+से
+कहा
+,
+'
+इसे
+वहीं
+धारती
+पर
+सुला
+देना
+.
+मैं
+आके
+दूध
+पिला
+जाऊंगी
+.
+'

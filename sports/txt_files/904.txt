@@ -1,273 +1,273 @@
-साउथ	XC	O	O	O
-अफ्रीका	NNP	O	O	O
-के	PSP	O	O	O
-तेज	JJ	O	O	O
-गेंदबाज	XC	O	O	O
-कागिसो	XC	O	O	O
-रबाडा	NNP	O	O	O
-ने	PSP	O	O	O
-दूसरे	PRP	O	O	O
-टेस्ट	NN	O	O	O
-के	PSP	O	O	O
-शुरुआती	JJ	O	O	O
-दिन	NN	O	O	O
-स्लेजिंग	NN	O	O	O
-के	PSP	O	O	O
-जरिए	PSP	O	O	O
-चेतेश्वर	XC	O	O	O
-पुजारा	NNP	O	O	O
-की	PSP	O	O	O
-एकाग्रता	NN	O	O	O
-भंग	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-की	PSP	O	O	O
-कोशिश	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-लेकिन	CC	O	O	O
-भारतीय	JJ	O	O	O
-टीम	NN	O	O	O
-के	PSP	O	O	O
-इस	DEM	O	O	O
-अनुभवी	JJ	O	O	O
-बल्लेबाज	NN	O	O	O
-को	PSP	O	O	O
-इससे	PRP	O	O	O
-कोई	PRP	O	O	O
-परेशानी	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-हुई	VM	O	I-MISC	O
-क्योंकि	CC	O	O	O
-वह	PRP	O	O	O
-‘	NN	O	O	O
-अपनी	PRP	O	O	O
-धुन	NN	O	O	O
-’	NN	O	O	O
-में	PSP	O	O	O
-थे	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-पुजारा	NN	O	O	O
-को	PSP	O	O	O
-58	QC	O	O	O
-रन	NN	O	O	O
-पर	PSP	O	O	O
-आउट	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-रबाडा	NN	O	O	O
-ने	PSP	O	O	O
-छींटाकशी	NN	O	O	O
-के	PSP	O	O	O
-अंदाज	NN	O	O	O
-में	PSP	O	O	O
-उन्हें	PRP	O	O	O
-कुछ	QF	O	O	O
-कहा	VM	O	B-MISC	REP
-.	SYM	O	O	O
-शायद	RB	O	O	O
-वह	PRP	O	O	O
-अपनी	PRP	O	O	O
-हताशा	NN	O	O	O
-दूर	NST	O	O	O
-करना	VM	O	B-MISC	OCC
-चाहते	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-क्योंकि	CC	O	O	O
-किस्मत	NN	O	O	O
-पुजारा	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-पुजारा	NN	O	O	O
-ने	PSP	O	O	O
-जब	PRP	O	O	O
-खाता	VM	O	O	O
-भी	RP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-खोला	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तब	PRP	O	O	O
-रबाडा	NN	O	O	O
-की	PSP	O	O	O
-गेंद	NN	O	O	O
-पर	PSP	O	O	O
-उन्हें	PRP	O	O	O
-जीवनदान	NN	O	B-MISC	OCC
-मिला	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पुजारा	NN	O	O	O
-से	PSP	O	O	O
-जब	PRP	O	O	O
-पूछा	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-रबाडा	NN	O	O	O
-ने	PSP	O	O	O
-क्या	WQ	O	O	O
-कहा	VM	O	B-MISC	REP
-था	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-उन्होंने	PRP	O	O	O
-बताया	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘	NN	O	O	O
-मुझे	PRP	O	O	O
-याद	NN	O	O	OCC
-नहीं	NEG	O	O	O
-उन्होंने	PRP	O	O	O
-क्या	WQ	O	O	O
-कहा	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-ऐसे	DEM	O	O	O
-गेंदबाज	NN	O	O	O
-हैं	VM	O	O	O
-जो	PRP	O	O	O
-हमेशा	RB	O	O	O
-बल्लेबाजों	NN	O	O	O
-को	PSP	O	O	O
-कुछ	QF	O	O	O
-ना	NEG	O	O	O
-कुछ	QF	O	O	O
-कहते	VM	O	B-MISC	OCC
-रहते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’	NN	O	O	O
-31	QC	O	O	O
-वर्षीय	JJ	O	O	O
-भारतीय	JJ	O	O	O
-बल्लेबाज	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘	NN	O	O	O
-एक	QC	O	O	O
-बैट्समैन	NN	O	O	O
-के	PSP	O	O	O
-रूप	NN	O	O	O
-में	PSP	O	O	O
-,	SYM	O	O	O
-मुझे	PRP	O	O	O
-हमेशा	RB	O	O	O
-से	PSP	O	O	O
-पता	JJ	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-कि	CC	O	O	O
-वह	PRP	O	O	O
-(	SYM	O	O	O
-रबाडा	NN	O	O	O
-)	SYM	O	O	O
-मेरी	PRP	O	O	O
-एकाग्रता	NN	O	O	O
-को	PSP	O	O	O
-बिगाड़ने	NN	O	O	O
-की	PSP	O	O	O
-कोशिश	NN	O	B-MISC	OCC
-करेंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
-सिर्फ	RB	O	O	O
-वही	PRP	O	O	O
-नहीं	NEG	O	O	O
-दूसरे	JJ	O	O	O
-गेंदबाज	NN	O	O	O
-भी	RP	O	O	O
-छींटाकशी	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-ऐसे	PRP	O	O	O
-में	PSP	O	O	O
-मेरी	PRP	O	O	O
-कोशिश	NN	O	B-MISC	OCC
-होती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-मैं	PRP	O	O	O
-उन्हें	PRP	O	O	O
-सुनने	VM	O	O	OCC
-से	PSP	O	O	O
-बच	VM	O	B-MISC	OCC
-सकूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’	NN	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘	NN	O	O	O
-अगर	CC	O	O	O
-आप	PRP	O	O	O
-अपनी	PRP	O	O	O
-धुन	NN	O	O	O
-में	PSP	O	O	O
-हैं	VM	O	B-STAT	O
-तो	CC	O	O	O
-गेंदबाज	NN	O	O	O
-क्या	WQ	O	O	O
-कहते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-आप	PRP	O	O	O
-शायद	RB	O	O	O
-ही	RP	O	O	O
-सुन	VM	O	B-MISC	OCC
-पाएंगे	VAUX	O	I-MISC	O
-क्योंकि	CC	O	O	O
-बल्लेबाज	NN	O	O	O
-के	PSP	O	O	O
-तौर	NN	O	O	O
-आपका	PRP	O	O	O
-ध्यान	NN	O	O	O
-इस	DEM	O	O	O
-बात	NN	O	O	O
-पर	PSP	O	O	O
-होता	VM	O	B-STAT	O
-है	VAUX	O	I-STAT	O
-कि	CC	O	O	O
-आप	PRP	O	O	O
-क्या	WQ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसे	DEM	O	O	O
-में	PSP	O	O	O
-जब	PRP	O	O	O
-आप	PRP	O	O	O
-अपनी	PRP	O	O	O
-धुन	NN	O	O	O
-में	PSP	O	O	O
-होते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-उनकी	PRP	O	O	O
-बातों	NN	O	O	O
-को	PSP	O	O	O
-आप	PRP	O	O	O
-सुन	VM	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-पाते	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’	XC	O	O	O
-पुजारा	NNP	O	O	O
-ने	PSP	O	O	O
-112	QC	O	O	O
-गेंद	NN	O	O	O
-में	PSP	O	O	O
-9	QC	O	O	O
-चौके	NN	O	O	O
-और	CC	O	O	O
-एक	QC	O	O	O
-छक्के	NN	O	O	O
-की	PSP	O	O	O
-मदद	NN	O	O	O
-से	PSP	O	O	O
-58	QC	O	O	O
-रन	NN	O	O	O
-बनाए	VM	O	B-MISC	O
-.	SYM	O	O	O
+साउथ
+अफ्रीका
+के
+तेज
+गेंदबाज
+कागिसो
+रबाडा
+ने
+दूसरे
+टेस्ट
+के
+शुरुआती
+दिन
+स्लेजिंग
+के
+जरिए
+चेतेश्वर
+पुजारा
+की
+एकाग्रता
+भंग
+करने
+की
+कोशिश
+की
+लेकिन
+भारतीय
+टीम
+के
+इस
+अनुभवी
+बल्लेबाज
+को
+इससे
+कोई
+परेशानी
+नहीं
+हुई
+क्योंकि
+वह
+‘
+अपनी
+धुन
+’
+में
+थे
+.
+पुजारा
+को
+58
+रन
+पर
+आउट
+करने
+के
+बाद
+रबाडा
+ने
+छींटाकशी
+के
+अंदाज
+में
+उन्हें
+कुछ
+कहा
+.
+शायद
+वह
+अपनी
+हताशा
+दूर
+करना
+चाहते
+थे
+क्योंकि
+किस्मत
+पुजारा
+के
+साथ
+थी
+.
+पुजारा
+ने
+जब
+खाता
+भी
+नहीं
+खोला
+था
+,
+तब
+रबाडा
+की
+गेंद
+पर
+उन्हें
+जीवनदान
+मिला
+था
+.
+पुजारा
+से
+जब
+पूछा
+गया
+कि
+रबाडा
+ने
+क्या
+कहा
+था
+तो
+उन्होंने
+बताया
+,
+‘
+मुझे
+याद
+नहीं
+उन्होंने
+क्या
+कहा
+था
+.
+वह
+ऐसे
+गेंदबाज
+हैं
+जो
+हमेशा
+बल्लेबाजों
+को
+कुछ
+ना
+कुछ
+कहते
+रहते
+हैं
+.
+’
+31
+वर्षीय
+भारतीय
+बल्लेबाज
+ने
+कहा
+,
+‘
+एक
+बैट्समैन
+के
+रूप
+में
+,
+मुझे
+हमेशा
+से
+पता
+है
+कि
+वह
+(
+रबाडा
+)
+मेरी
+एकाग्रता
+को
+बिगाड़ने
+की
+कोशिश
+करेंगे
+.
+सिर्फ
+वही
+नहीं
+दूसरे
+गेंदबाज
+भी
+छींटाकशी
+करते
+हैं
+,
+ऐसे
+में
+मेरी
+कोशिश
+होती
+है
+कि
+मैं
+उन्हें
+सुनने
+से
+बच
+सकूं
+.
+’
+उन्होंने
+कहा
+,
+‘
+अगर
+आप
+अपनी
+धुन
+में
+हैं
+तो
+गेंदबाज
+क्या
+कहते
+हैं
+,
+वह
+आप
+शायद
+ही
+सुन
+पाएंगे
+क्योंकि
+बल्लेबाज
+के
+तौर
+आपका
+ध्यान
+इस
+बात
+पर
+होता
+है
+कि
+आप
+क्या
+कर
+सकते
+हैं
+.
+ऐसे
+में
+जब
+आप
+अपनी
+धुन
+में
+होते
+हैं
+तो
+उनकी
+बातों
+को
+आप
+सुन
+नहीं
+पाते
+.
+’
+पुजारा
+ने
+112
+गेंद
+में
+9
+चौके
+और
+एक
+छक्के
+की
+मदद
+से
+58
+रन
+बनाए
+.

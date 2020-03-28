@@ -1,582 +1,582 @@
-कावसजी	NNP	O	O	O
-ने	PSP	O	O	O
-पत्र	NN	O	O	O
-निकाला	VM	O	B-MISC	OCC
-और	CC	O	O	O
-यश	NN	O	B-MISC	OCC
-कमाने	VM	O	I-MISC	O
-लगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-शापूरजी	NN	O	O	O
-ने	PSP	O	O	O
-रुई	NN	O	O	O
-की	PSP	O	O	O
-दलाली	NN	O	O	OCC
-शुरू	NN	O	O	O
-की	PSP	O	O	O
-और	CC	O	O	O
-धन	NN	O	B-MISC	OCC
-कमाने	VM	O	I-MISC	O
-लगे	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-कमाई	NN	O	O	O
-दोनों	JJ	O	O	O
-ही	RP	O	O	O
-कर	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-पर	PSP	O	O	O
-शापूरजी	NN	O	O	O
-प्रसन्न	JJ	O	B-STAT	O
-थे	VM	O	I-STAT	O
-;	SYM	O	O	O
-कावसजी	NNP	O	O	O
-विरक्त	JJ	O	O	O
-.	SYM	O	O	O
-शापूरजी	NNP	O	O	O
-को	PSP	O	O	O
-धन	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-सम्मान	NN	O	O	O
-और	CC	O	O	O
-यश	NN	O	O	O
-आप-ही-आप	NN	O	O	O
-मिलता	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कावसजी	NNP	O	O	O
-को	PSP	O	O	O
-यश	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-धन	NN	O	O	O
-दूरबीन	NN	O	O	O
-से	PSP	O	O	O
-देखने	VM	O	B-MISC	OCC
-पर	PSP	O	O	O
-भी	RP	O	O	O
-दिखायी	VM	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-देता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-इसलिए	CC	O	O	O
-शापूरजी	NN	O	O	O
-के	PSP	O	O	O
-जीवन	NN	O	O	O
-में	PSP	O	O	O
-शांति	NN	O	O	O
-थी	VM	O	B-STAT	O
-,	SYM	O	O	O
-सह्रदयता	NN	O	O	O
-थी	VM	O	B-STAT	O
-,	SYM	O	O	O
-आशीर्वाद	NN	O	O	O
-था	VM	O	O	O
-,	SYM	O	O	O
-क्रीड़ा	XC	O	O	O
-थी	NNP	O	O	O
-.	SYM	O	O	O
-कावसजी	NNP	O	O	O
-के	PSP	O	O	O
-जीवन	NN	O	O	O
-में	PSP	O	O	O
-अशांति	NN	O	O	O
-थी	VM	O	B-STAT	O
-,	SYM	O	O	O
-कटुता	VM	O	O	O
-थी	VAUX	O	O	O
-,	SYM	O	O	O
-निराशा	NN	O	O	O
-थी	VM	O	B-STAT	O
-,	SYM	O	O	O
-उदासीनता	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-धन	NN	O	O	O
-को	PSP	O	O	O
-तुच्छ	NN	O	O	O
-समझने	VM	O	O	OCC
-की	PSP	O	O	O
-वह	PRP	O	O	O
-बहुत	QF	O	O	O
-चेष्टा	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-प्रत्यक्ष	NN	O	O	O
-को	PSP	O	O	O
-कैसे	WQ	O	O	O
-झुठला	VM	O	B-MISC	OCC
-देते	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-शापूरजी	NNP	O	O	O
-के	PSP	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-विराजने	VM	O	B-STAT	DESC
-वाले	PSP	O	I-STAT	O
-सौजन्य	NN	O	O	O
-और	CC	O	O	O
-शांति	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	O	O
-उन्हें	PRP	O	O	O
-अपने	PRP	O	O	O
-घर	NN	O	O	O
-के	PSP	O	O	O
-कलह	NN	O	O	O
-और	CC	O	O	O
-फूहड़पन	NN	O	O	O
-से	PSP	O	O	O
-घृणा	NN	O	B-MISC	OCC
-होती	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मृदुभाषिणी	NN	O	O	O
-मिसेज	XC	O	O	O
-शापूर	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	O	O
-उन्हें	PRP	O	O	O
-अपनी	PRP	O	O	O
-गुलशन	XC	O	O	O
-बानू	NN	O	O	O
-संकीर्णता	NN	O	O	O
-और	CC	O	O	O
-ईर्ष्या	NN	O	O	O
-का	PSP	O	O	O
-अवतार-सी	NN	O	B-MISC	O
-लगती	VM	O	I-MISC	OCC
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-शापूरजी	NNP	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-आते	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-शीरीं-बाई	NN	O	O	O
-मृदु	XC	O	O	O
-हास	NN	O	O	O
-से	PSP	O	O	O
-उनका	PRP	O	O	O
-स्वागत	NN	O	B-MISC	OCC
-करती	VM	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-खुद	PRP	O	O	O
-दिन-भर	NN	O	O	O
-के	PSP	O	O	O
-थके-मांदे	JJ	O	O	O
-घर	NN	O	O	O
-आते	VM	O	B-MISC	OCC
-तो	CC	O	O	O
-गुलशन	XC	O	O	O
-अपना	PRP	O	O	O
-दुखड़ा	NN	O	O	O
-सुनाने	VM	O	B-MISC	OCC
-बैठ	VM	O	I-MISC	O
-जाती	VAUX	O	I-MISC	O
-और	CC	O	O	O
-उनको	PRP	O	O	O
-खूब	JJ	O	O	O
-फटकारें	VM	O	O	O
-बताती	VM	O	B-MISC	OCC
-तुम	PRP	O	O	O
-भी	RP	O	O	O
-अपने	PRP	O	O	O
-को	PSP	O	O	O
-आदमी	NN	O	O	O
-कहते	VM	O	B-MISC	OCC
-हो	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-तो	RP	O	O	O
-तुम्हें	PRP	O	O	O
-बैल	NN	O	B-MISC	OCC
-समझती	VM	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-बैल	NN	O	O	O
-बड़ा	NNP	O	O	O
-मेहनती	JJ	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-गरीब	JJ	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-सन्तोषी	NN	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-माना	VM	O	O	O
-लेकिन	CC	O	O	O
-उसे	PRP	O	O	O
-विवाह	NN	O	B-MISC	OCC
-करनेका	VM	O	I-MISC	O
-क्या	WQ	O	O	O
-हक	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-कावसजी	NNP	O	O	O
-से	PSP	O	O	O
-एक	QC	O	O	O
-लाख	QC	O	O	O
-बार	RP	O	O	O
-यह	DEM	O	O	O
-प्रश्न	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-चुका	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-जब	PRP	O	O	O
-तुम्हें	PRP	O	O	O
-समाचारपत्र	NN	O	B-MISC	O
-निकालकर	VM	O	I-MISC	O
-अपना	PRP	O	O	O
-जीवन	NN	O	O	O
-बरबाद	JJ	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-तुमने	PRP	O	O	O
-विवाह	NN	O	B-MISC	OCC
-क्योंकिया	VM	O	I-MISC	O
-?	SYM	O	O	O
-क्यों	WQ	O	O	O
-मेरी	PRP	O	O	O
-जिन्दगी	NN	O	O	O
-तबाह	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दी	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-जब	PRP	O	O	O
-तुम्हारे	PRP	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-रोटियां	NN	O	O	OCC
-न	NEG	O	O	O
-थीं	VM	O	O	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-मुझे	PRP	O	O	O
-क्यों	WQ	O	O	O
-लाये	VM	O	O	O
-!	SYM	O	O	O
-इस	DEM	O	O	O
-प्रश्न	NN	O	O	O
-का	PSP	O	O	O
-जवाब	NN	O	B-MISC	OCC
-देने	VM	O	I-MISC	O
-की	PSP	O	O	O
-कावसजी	NNP	O	O	O
-में	PSP	O	O	O
-शक्ति	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-उन्हें	PRP	O	O	O
-कुछ	QF	O	O	O
-सूझता	VM	O	B-MISC	OCC
-ही	RP	O	I-MISC	O
-न	NEG	O	I-MISC	OCC
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-सचमुच	RB	O	O	O
-अपनी	PRP	O	O	O
-गलती	NN	O	O	O
-पर	PSP	O	O	O
-पछताते	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एक	QC	O	O	O
-बार	RP	O	O	O
-बहुत	INTF	O	O	O
-तंग	JJ	O	B-MISC	O
-आकर	VM	O	I-MISC	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-अच्छा	JJ	O	O	O
-भाई	NN	O	O	O
-,	SYM	O	O	O
-अब	PRP	O	O	O
-तो	RP	O	O	O
-जो	PRP	O	O	O
-होना	VM	O	B-STAT	-1
-था	VAUX	O	I-STAT	O
-,	SYM	O	B-MISC	O
-हो	VM	O	I-MISC	O
-चुका	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-मैं	PRP	O	O	O
-तुम्हें	PRP	O	O	O
-बांधे	VM	O	B-MISC	OCC
-तो	CC	O	O	O
-नहीं	NEG	O	B-MISC	O
-हूं	VM	O	I-MISC	O
-,	SYM	O	O	O
-तुम्हें	PRP	O	O	O
-जो	PRP	O	O	O
-पुरुष	NN	O	O	O
-ज्यादा	QF	O	O	O
-सुखी	JJ	O	O	OCC
-रख	VM	O	B-MISC	O
-सके	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उसके	PRP	O	O	O
-साथ	NST	O	O	O
-जाकर	VM	O	B-MISC	OCC
-रहो	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-अब	PRP	O	O	O
-मैं	PRP	O	O	O
-क्या	WQ	O	O	O
-कहूं	VM	O	O	OCC
-?	SYM	O	O	O
-आमदनी	NN	O	O	O
-नहीं	NEG	O	O	O
-बढ़ती	VM	O	O	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-मैं	PRP	O	O	O
-क्या	WQ	O	O	O
-करूं	VM	O	O	OCC
-?	SYM	O	O	O
-क्या	WQ	O	O	O
-चाहती	VM	O	B-MISC	OCC
-हो	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जान	VM	O	B-MISC	OCC
-दे	VAUX	O	I-MISC	O
-दूं	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-'	SYM	O	O	O
-इस	DEM	O	O	O
-पर	PSP	O	O	O
-गुलशन	NN	O	O	O
-ने	PSP	O	O	O
-उनके	PRP	O	O	O
-दोनों	JJ	O	O	O
-कान	NN	O	O	O
-पकड़कर	NNP	O	O	O
-जोर	NN	O	O	O
-से	PSP	O	O	O
-ऐंठे	VM	O	B-MISC	OCC
-और	CC	O	O	O
-गालों	NN	O	O	O
-पर	PSP	O	O	O
-दो	QC	O	O	O
-तमाचे	NN	O	O	O
-लगाये	VM	O	B-MISC	O
-और	CC	O	O	O
-पैनी	JJ	O	O	O
-आंखों	NN	O	O	O
-से	PSP	O	O	O
-काटती	VM	O	B-MISC	OCC
-हुई	VAUX	O	I-MISC	O
-बोली	VM	O	I-MISC	OCC
-,	SYM	O	O	O
-'	SYM	O	O	O
-अच्छा	INJ	O	O	O
-,	SYM	O	O	O
-अब	PRP	O	O	O
-चोंच	NN	O	O	O
-संभालो	VM	O	O	O
-,	SYM	O	O	O
-नहीं	NEG	O	O	O
-तो	RP	O	O	O
-अच्छा	JJ	O	O	O
-न	NEG	O	B-MISC	OCC
-होगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-ऐसी	DEM	O	O	O
-बात	NN	O	O	O
-मुंह	NN	O	O	O
-से	PSP	O	O	O
-निकालते	VM	O	O	O
-तुम्हें	PRP	O	O	O
-लाज	NN	O	B-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-आती	VM	O	I-MISC	O
-.	SYM	O	O	O
-हयादार	JJ	O	O	O
-होते	VM	O	O	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-चुल्लू	NN	O	O	O
-भर	RP	O	O	O
-पानी	NN	O	O	O
-में	PSP	O	O	O
-डूब	NN	O	B-MISC	O
-मरते	VM	O	I-MISC	O
-.	SYM	O	O	O
-उस	DEM	O	O	O
-दूसरे	JJ	O	O	O
-पुरुष	NN	O	O	O
-के	PSP	O	O	O
-महल	NN	O	O	O
-में	PSP	O	O	O
-आग	VM	O	B-MISC	OCC
-लगा	VAUX	O	I-MISC	O
-दूंगी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उसका	PRP	O	O	O
-मुंह	NN	O	O	O
-झुलस	VM	O	B-MISC	OCC
-दूंगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-तब	PRP	O	O	O
-से	PSP	O	O	O
-बेचारे	JJ	O	O	O
-कावसजी	NNP	O	O	O
-के	PSP	O	O	O
-पास	NST	O	O	O
-इस	DEM	O	O	O
-प्रश्न	NN	O	O	O
-का	PSP	O	O	O
-कोई	PRP	O	O	O
-जवाब	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-रहा	VM	O	I-MISC	O
-.	SYM	O	O	O
-कहां	WQ	O	O	O
-तो	RP	O	O	O
-यह	DEM	O	O	O
-असन्तोष	NN	O	O	O
-और	CC	O	O	O
-विद्रोह	NN	O	O	O
-की	PSP	O	O	O
-ज्वाला	NN	O	O	O
-और	CC	O	O	O
-कहां	WQ	O	O	O
-वह	PRP	O	O	O
-मधुरता	NN	O	O	O
-और	CC	O	O	O
-भद्रता	NN	O	O	O
-की	PSP	O	O	O
-देवी	NN	O	O	O
-शीरीं	XC	O	O	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-कावसजी	NNP	O	O	O
-को	PSP	O	O	O
-देखते	VM	O	O	O
-ही	RP	O	O	O
-फूल	NN	O	O	O
-की	PSP	O	O	O
-तरह	NN	O	O	O
-खिल	VM	O	B-MISC	O
-उठती	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मीठी-मीठी	JJ	O	O	O
-बातें	NN	O	O	O
-करती	VM	O	O	O
-,	SYM	O	O	O
-चाय	NN	O	O	O
-,	SYM	O	O	O
-मुरब्बे	NN	O	O	O
-और	CC	O	O	O
-फूलों	NN	O	O	O
-से	PSP	O	O	O
-सत्कार	NN	O	B-MISC	OCC
-करती	VM	O	I-MISC	O
-और	CC	O	O	O
-अक्सर	RB	O	O	O
-उन्हें	PRP	O	O	O
-अपनी	PRP	O	O	O
-कार	NN	O	O	O
-पर	PSP	O	O	O
-घर	NN	O	O	O
-पहुंचा	VM	O	B-MISC	OCC
-देती	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कावसजी	NNP	O	O	O
-ने	PSP	O	O	O
-कभी	PRP	O	O	O
-मन	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-इसे	PRP	O	O	O
-स्वीकार	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-का	PSP	O	O	O
-साहस	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-किया	VM	O	I-MISC	O
-;	SYM	O	O	O
-मगर	CC	O	O	O
-उनके	PRP	O	O	O
-ह्रदय	NN	O	O	O
-में	PSP	O	O	O
-यह	DEM	O	O	O
-लालसा	NN	O	O	O
-छिपी	VM	O	B-MISC	OCC
-हुई	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-गुलशन	NN	O	O	O
-की	PSP	O	O	O
-जगह	NN	O	O	O
-शीरीं	NN	O	O	O
-होती	VM	O	O	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-उनका	PRP	O	O	O
-जीवन	NN	O	O	O
-कितना	QF	O	O	O
-गुलजार	NN	O	O	O
-होता	VM	O	O	O
-!	SYM	O	O	O
-कभी-कभी	PRP	O	O	O
-गुलशन	NN	O	O	O
-की	PSP	O	O	O
-कटूक्तियों	NN	O	O	O
-से	PSP	O	O	O
-वह	PRP	O	O	O
-इतने	QF	O	O	O
-दुखी	JJ	O	O	OCC
-हो	VM	O	B-MISC	O
-जाते	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-यमराज	NN	O	O	O
-का	PSP	O	O	O
-आवाहन	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-.	SYM	O	O	O
-घर	NN	O	O	O
-उनके	PRP	O	O	O
-लिए	PSP	O	O	O
-कैदखाने	NN	O	O	O
-से	PSP	O	O	O
-कम	QF	O	O	O
-जान-लेवा	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-था	VM	O	I-MISC	O
-और	CC	O	O	O
-उन्हें	PRP	O	O	O
-जब	PRP	O	O	O
-अवसर	NN	O	B-MISC	O
-मिलता	VM	O	I-MISC	O
-,	SYM	O	O	O
-सीधे	JJ	O	O	O
-शीरीं	NN	O	O	O
-के	PSP	O	O	O
-घर	NN	O	O	O
-जाकर	VM	O	B-MISC	OCC
-अपने	PRP	O	O	O
-दिल	NN	O	O	O
-की	PSP	O	O	O
-जलन	NN	O	O	O
-बुझा	VM	O	B-MISC	OCC
-आते	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+कावसजी
+ने
+पत्र
+निकाला
+और
+यश
+कमाने
+लगे
+.
+शापूरजी
+ने
+रुई
+की
+दलाली
+शुरू
+की
+और
+धन
+कमाने
+लगे
+?
+कमाई
+दोनों
+ही
+कर
+रहे
+थे
+,
+पर
+शापूरजी
+प्रसन्न
+थे
+;
+कावसजी
+विरक्त
+.
+शापूरजी
+को
+धन
+के
+साथ
+सम्मान
+और
+यश
+आप-ही-आप
+मिलता
+था
+.
+कावसजी
+को
+यश
+के
+साथ
+धन
+दूरबीन
+से
+देखने
+पर
+भी
+दिखायी
+न
+देता
+था
+;
+इसलिए
+शापूरजी
+के
+जीवन
+में
+शांति
+थी
+,
+सह्रदयता
+थी
+,
+आशीर्वाद
+था
+,
+क्रीड़ा
+थी
+.
+कावसजी
+के
+जीवन
+में
+अशांति
+थी
+,
+कटुता
+थी
+,
+निराशा
+थी
+,
+उदासीनता
+थी
+.
+धन
+को
+तुच्छ
+समझने
+की
+वह
+बहुत
+चेष्टा
+करते
+थे
+;
+लेकिन
+प्रत्यक्ष
+को
+कैसे
+झुठला
+देते
+?
+शापूरजी
+के
+घर
+में
+विराजने
+वाले
+सौजन्य
+और
+शांति
+के
+सामने
+उन्हें
+अपने
+घर
+के
+कलह
+और
+फूहड़पन
+से
+घृणा
+होती
+थी
+.
+मृदुभाषिणी
+मिसेज
+शापूर
+के
+सामने
+उन्हें
+अपनी
+गुलशन
+बानू
+संकीर्णता
+और
+ईर्ष्या
+का
+अवतार-सी
+लगती
+थी
+.
+शापूरजी
+घर
+में
+आते
+,
+तो
+शीरीं-बाई
+मृदु
+हास
+से
+उनका
+स्वागत
+करती
+.
+वह
+खुद
+दिन-भर
+के
+थके-मांदे
+घर
+आते
+तो
+गुलशन
+अपना
+दुखड़ा
+सुनाने
+बैठ
+जाती
+और
+उनको
+खूब
+फटकारें
+बताती
+तुम
+भी
+अपने
+को
+आदमी
+कहते
+हो
+.
+मैं
+तो
+तुम्हें
+बैल
+समझती
+हूं
+,
+बैल
+बड़ा
+मेहनती
+है
+,
+गरीब
+है
+,
+सन्तोषी
+है
+,
+माना
+लेकिन
+उसे
+विवाह
+करनेका
+क्या
+हक
+था
+?
+कावसजी
+से
+एक
+लाख
+बार
+यह
+प्रश्न
+किया
+जा
+चुका
+था
+कि
+जब
+तुम्हें
+समाचारपत्र
+निकालकर
+अपना
+जीवन
+बरबाद
+करना
+था
+,
+तो
+तुमने
+विवाह
+क्योंकिया
+?
+क्यों
+मेरी
+जिन्दगी
+तबाह
+कर
+दी
+?
+जब
+तुम्हारे
+घर
+में
+रोटियां
+न
+थीं
+,
+तो
+मुझे
+क्यों
+लाये
+!
+इस
+प्रश्न
+का
+जवाब
+देने
+की
+कावसजी
+में
+शक्ति
+न
+थी
+.
+उन्हें
+कुछ
+सूझता
+ही
+न
+था
+.
+वह
+सचमुच
+अपनी
+गलती
+पर
+पछताते
+थे
+.
+एक
+बार
+बहुत
+तंग
+आकर
+उन्होंने
+कहा
+था
+,
+'
+अच्छा
+भाई
+,
+अब
+तो
+जो
+होना
+था
+,
+हो
+चुका
+;
+लेकिन
+मैं
+तुम्हें
+बांधे
+तो
+नहीं
+हूं
+,
+तुम्हें
+जो
+पुरुष
+ज्यादा
+सुखी
+रख
+सके
+,
+उसके
+साथ
+जाकर
+रहो
+,
+अब
+मैं
+क्या
+कहूं
+?
+आमदनी
+नहीं
+बढ़ती
+,
+तो
+मैं
+क्या
+करूं
+?
+क्या
+चाहती
+हो
+,
+जान
+दे
+दूं
+?
+'
+इस
+पर
+गुलशन
+ने
+उनके
+दोनों
+कान
+पकड़कर
+जोर
+से
+ऐंठे
+और
+गालों
+पर
+दो
+तमाचे
+लगाये
+और
+पैनी
+आंखों
+से
+काटती
+हुई
+बोली
+,
+'
+अच्छा
+,
+अब
+चोंच
+संभालो
+,
+नहीं
+तो
+अच्छा
+न
+होगा
+.
+ऐसी
+बात
+मुंह
+से
+निकालते
+तुम्हें
+लाज
+नहीं
+आती
+.
+हयादार
+होते
+,
+तो
+चुल्लू
+भर
+पानी
+में
+डूब
+मरते
+.
+उस
+दूसरे
+पुरुष
+के
+महल
+में
+आग
+लगा
+दूंगी
+,
+उसका
+मुंह
+झुलस
+दूंगी
+.
+तब
+से
+बेचारे
+कावसजी
+के
+पास
+इस
+प्रश्न
+का
+कोई
+जवाब
+न
+रहा
+.
+कहां
+तो
+यह
+असन्तोष
+और
+विद्रोह
+की
+ज्वाला
+और
+कहां
+वह
+मधुरता
+और
+भद्रता
+की
+देवी
+शीरीं
+,
+जो
+कावसजी
+को
+देखते
+ही
+फूल
+की
+तरह
+खिल
+उठती
+,
+मीठी-मीठी
+बातें
+करती
+,
+चाय
+,
+मुरब्बे
+और
+फूलों
+से
+सत्कार
+करती
+और
+अक्सर
+उन्हें
+अपनी
+कार
+पर
+घर
+पहुंचा
+देती
+.
+कावसजी
+ने
+कभी
+मन
+में
+भी
+इसे
+स्वीकार
+करने
+का
+साहस
+नहीं
+किया
+;
+मगर
+उनके
+ह्रदय
+में
+यह
+लालसा
+छिपी
+हुई
+थी
+कि
+गुलशन
+की
+जगह
+शीरीं
+होती
+,
+तो
+उनका
+जीवन
+कितना
+गुलजार
+होता
+!
+कभी-कभी
+गुलशन
+की
+कटूक्तियों
+से
+वह
+इतने
+दुखी
+हो
+जाते
+कि
+यमराज
+का
+आवाहन
+करते
+.
+घर
+उनके
+लिए
+कैदखाने
+से
+कम
+जान-लेवा
+न
+था
+और
+उन्हें
+जब
+अवसर
+मिलता
+,
+सीधे
+शीरीं
+के
+घर
+जाकर
+अपने
+दिल
+की
+जलन
+बुझा
+आते
+.

@@ -1,448 +1,448 @@
-हमारे	PRP	O	O	O
-अंग्रेजी	JJ	O	O	O
-दोस्त	NN	O	O	O
-मानें	NN	O	O	O
-या	CC	O	O	O
-न	NEG	O	O	O
-मानें	NN	O	O	O
-मैं	PRP	O	O	O
-तो	RP	O	O	O
-यही	PRP	O	O	O
-कहूंगा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-गुल्ली-डंडा	NN	O	O	O
-सब	QF	O	O	O
-खेलों	NN	O	O	O
-का	PSP	O	O	O
-राजा	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-भी	RP	O	O	O
-कभी	PRP	O	O	O
-लड़कों	NN	O	O	O
-को	PSP	O	O	O
-गुल्ली-डंडा	NN	O	B-MISC	O
-खेलते	VM	O	I-MISC	OCC
-देखता	VM	O	B-MISC	O
-हूं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	RP	O	O	O
-जी	RP	O	O	O
-लोट-पोट	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इनके	PRP	O	O	O
-साथ	NST	O	O	O
-जाकर	VM	O	B-MISC	OCC
-खेलने	VM	O	I-MISC	O
-लगूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-न	NEG	O	O	O
-लान	NN	O	O	O
-की	PSP	O	O	O
-जरूरत	NN	O	O	O
-,	SYM	O	O	O
-न	NEG	O	O	O
-कोर्ट	NN	O	O	O
-की	PSP	O	O	O
-,	SYM	O	O	O
-न	NEG	O	O	O
-नेट	NN	O	O	O
-की	PSP	O	O	O
-,	SYM	O	O	O
-न	NEG	O	O	O
-थापी	NN	O	O	O
-की	PSP	O	O	O
-.	SYM	O	O	O
-मजे	NN	O	O	O
-से	PSP	O	O	O
-किसी	PRP	O	O	O
-पेड़	XC	O	O	O
-से	PSP	O	O	O
-एक	QC	O	O	O
-टहनी	NN	O	O	O
-काट	VM	O	B-MISC	OCC
-ली	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-गुल्ली	NN	O	O	OCC
-बना	VM	O	B-MISC	O
-ली	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-और	CC	O	O	O
-दो	QC	O	O	O
-आदमी	NN	O	O	O
-भी	RP	O	O	O
-आ	VM	O	B-MISC	O
-जाए	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-खेल	NN	O	O	O
-शुरू	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-विलायती	JJ	O	O	O
-खेलों	NN	O	O	O
-में	PSP	O	O	O
-सबसे	INTF	O	O	O
-बड़ा	XC	O	O	O
-ऐब	NN	O	O	O
-है	VM	O	B-STAT	O
-कि	CC	O	O	O
-उसके	PRP	O	O	O
-सामान	NN	O	O	O
-महंगे	JJ	O	B-MISC	OCC
-होते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-तक	RP	O	O	O
-कम-से-कम	QF	O	O	O
-एक	QC	O	O	O
-सैकड़ा	NN	O	O	O
-न	NEG	O	O	O
-खर्च	NN	O	O	O
-कीजिए	VM	O	O	O
-,	SYM	O	O	O
-खिलाड़ियों	NNP	O	O	O
-में	PSP	O	O	O
-शुमार	NN	O	O	O
-ही	RP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-पाता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यहां	PRP	O	O	O
-गुल्ली-डंडा	NN	O	O	O
-है	VM	O	O	O
-कि	CC	O	O	O
-बना	VM	O	O	O
-हर्र-फिटकरी	NN	O	O	O
-के	PSP	O	O	O
-चोखा	NN	O	O	O
-रंग	NN	O	O	OCC
-देता	VM	O	B-STAT	O
-है	VAUX	O	I-STAT	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-हम	PRP	O	O	O
-अंगरेजी	JJ	O	O	O
-चीजों	NN	O	O	O
-के	PSP	O	O	O
-पीछे	NST	O	O	O
-ऐसे	PRP	O	O	O
-दीवाने	VM	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-अपनी	PRP	O	O	O
-सभी	QF	O	O	O
-चीजों	NN	O	O	O
-से	PSP	O	O	O
-अरूचि	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-स्कूलों	NN	O	O	O
-में	PSP	O	O	O
-हरेक	XC	O	O	O
-लड़के	NNP	O	O	O
-से	PSP	O	O	O
-तीन-चार	NN	O	O	O
-रूपये	NN	O	O	O
-सालाना	VM	O	O	O
-केवल	RP	O	O	O
-खेलने	VM	O	O	O
-की	PSP	O	O	O
-फीस	NN	O	B-MISC	OCC
-ली	VM	O	I-MISC	O
-जाती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-किसी	PRP	O	O	O
-को	PSP	O	O	O
-यह	PRP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-सूझता	VM	O	I-MISC	O
-कि	CC	O	O	O
-भारतीय	JJ	O	O	O
-खेल	NN	O	O	O
-खिलाएं	VM	O	O	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-बिना	NEG	O	O	O
-दाम-कौड़ी	XC	O	O	O
-के	PSP	O	O	O
-खेले	VM	O	B-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अंगरेजी	JJ	O	O	O
-खेल	NN	O	O	O
-उनके	PRP	O	O	O
-लिए	PSP	O	O	O
-हैं	VM	O	B-STAT	O
-,	SYM	O	O	O
-जिनके	PRP	O	O	O
-पास	NST	O	O	O
-धन	NN	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-गरीब	JJ	O	O	O
-लड़कों	NN	O	O	O
-के	PSP	O	O	O
-सिर	NN	O	O	O
-क्यों	WQ	O	O	O
-यह	PRP	O	O	O
-व्यसन	NN	O	O	OCC
-मढ़ते	JJ	O	B-MISC	O
-हो	VM	O	I-MISC	O
-?	SYM	O	O	O
-ठीक	JJ	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-गुल्ली	NN	O	O	O
-से	PSP	O	O	O
-आंख	NN	O	O	O
-फूट	VM	O	B-MISC	OCC
-जाने	VAUX	O	I-MISC	O
-का	PSP	O	O	O
-भय	NN	O	B-MISC	OCC
-रहता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	RP	O	O	O
-क्या	WQ	O	O	O
-क्रिकेट	NN	O	O	O
-से	PSP	O	O	O
-सिर	NN	O	O	O
-फूट	VM	O	B-MISC	OCC
-जाने	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तिल्ली	NN	O	O	O
-फट	VM	O	B-MISC	OCC
-जाने	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-टांग	NN	O	O	O
-टूट	VM	O	B-MISC	OCC
-जाने	VAUX	O	I-MISC	O
-का	PSP	O	O	O
-भय	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-रहता	VM	O	I-MISC	O
-!	SYM	O	O	O
-अगर	CC	O	O	O
-हमारे	PRP	O	O	O
-माथे	NN	O	O	O
-में	PSP	O	O	O
-गुल्ली	NN	O	O	O
-का	PSP	O	O	O
-दाग	NN	O	O	O
-आज	NN	O	O	O
-तक	RP	O	O	O
-बना	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-हमारे	PRP	O	O	O
-कई	QF	O	O	O
-दोस्त	NN	O	O	O
-ऐसे	PRP	O	O	O
-भी	RP	O	O	O
-हैं	VM	O	O	OCC
-,	SYM	O	O	O
-जो	PRP	O	O	O
-थापी	NN	O	O	O
-को	PSP	O	O	O
-बैसाखी	NN	O	O	O
-से	PSP	O	O	O
-बदल	VM	O	B-MISC	OCC
-बैठे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	PRP	O	O	O
-अपनी-अपनी	JJ	O	O	O
-रूचि	NN	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-मुझे	PRP	O	O	O
-गुल्ली	NN	O	O	O
-ही	RP	O	O	O
-सब	QF	O	O	O
-खेलों	NN	O	O	O
-से	PSP	O	O	O
-अच्छी	JJ	O	B-MISC	OCC
-लगती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-बचपन	NN	O	O	O
-की	PSP	O	O	O
-मीठी	JJ	O	O	O
-स्मृतियों	NN	O	O	O
-में	PSP	O	O	O
-गुल्ली	NN	O	O	O
-ही	RP	O	O	O
-सबसे	INTF	O	O	O
-मीठी	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-प्रात	NN	O	O	O
-:	SYM	O	O	O
-काल	NN	O	O	O
-घर	NN	O	O	O
-से	PSP	O	O	O
-निकल	VM	O	B-MISC	OCC
-जाना	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-पेड़	XC	O	O	O
-पर	PSP	O	O	O
-चढ़कर	XC	O	O	O
-टहनियां	NN	O	O	O
-काटना	VM	O	B-MISC	O
-और	CC	O	O	O
-गुल्ली-डंडे	NN	O	O	O
-बनाना	VM	O	O	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-उत्साह	NN	O	O	O
-,	SYM	O	O	O
-वह	XC	O	O	O
-खिलाड़ियों	NNP	O	O	O
-के	PSP	O	O	O
-जमघटे	NN	O	O	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-पदना	NN	O	O	O
-और	CC	O	O	O
-पदाना	NN	O	O	O
-,	SYM	O	O	O
-वह	XC	O	O	O
-लड़ाई-झगड़े	NNP	O	O	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-सरल	JJ	O	O	O
-स्वभाव	NN	O	O	O
-,	SYM	O	O	O
-जिससे	PRP	O	O	O
-छूत्-अछूत	NN	O	O	O
-,	SYM	O	O	O
-अमीर-गरीब	NNP	O	O	O
-का	PSP	O	O	O
-बिल्कुल	RB	O	O	O
-भेद	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-रहता	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसमें	PRP	O	O	O
-अमीराना	JJ	O	O	O
-चोचलों	NN	O	O	O
-की	PSP	O	O	O
-,	SYM	O	O	O
-प्रदर्शन	NN	O	O	O
-की	PSP	O	O	O
-,	SYM	O	O	O
-अभिमान	NN	O	O	O
-की	PSP	O	O	O
-गुंजाइश	NN	O	O	O
-ही	RP	O	O	O
-न	NEG	O	O	O
-थी	VM	O	O	O
-,	SYM	O	O	O
-यह	PRP	O	O	O
-उसी	DEM	O	O	O
-वक्त	NN	O	O	O
-भूलेगा	VM	O	O	O
-जब	PRP	O	O	O
-....	NN	O	O	O
-जब	PRP	O	O	O
-...	NN	O	O	O
-.	SYM	O	O	O
-घरवाले	NN	O	O	O
-बिगड़	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-पिताजी	NN	O	O	O
-चौके	NN	O	O	O
-पर	PSP	O	O	O
-बैठे	VM	O	B-STAT	O
-वेग	NN	O	O	O
-से	PSP	O	O	O
-रोटियों	NN	O	O	O
-पर	PSP	O	O	O
-अपना	PRP	O	O	O
-क्रोध	NN	O	O	O
-उतार	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-अम्मां	NN	O	O	O
-की	PSP	O	O	O
-दौड़	NN	O	O	O
-केवल	RP	O	O	O
-द्वार	NN	O	O	O
-तक	RP	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-उनकी	PRP	O	O	O
-विचार-धारा	NN	O	O	O
-में	PSP	O	O	O
-मेरा	PRP	O	O	O
-अंधकारमय	NN	O	O	O
-भविष्य	NN	O	O	O
-टूटी	VM	O	B-MISC	O
-हुई	VAUX	O	I-MISC	O
-नौका	NN	O	O	O
-की	PSP	O	O	O
-तरह	NN	O	O	O
-डगमगा	VM	O	B-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-और	CC	O	O	O
-मैं	PRP	O	O	O
-हूं	VM	O	O	O
-कि	CC	O	O	O
-पदाने	NN	O	O	O
-में	PSP	O	O	O
-मस्त	JJ	O	O	O
-हूं	VM	O	O	O
-,	SYM	O	O	O
-न	NEG	O	B-MISC	O
-नहाने	VM	O	I-MISC	O
-की	PSP	O	O	O
-सुधि	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-,	SYM	O	O	O
-न	NEG	O	B-MISC	O
-खाने	VM	O	I-MISC	O
-की	PSP	O	I-MISC	O
-.	SYM	O	O	O
-गुल्ली	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-तो	CC	O	O	O
-जरा-सी	NN	O	O	O
-,	SYM	O	O	O
-पर	PSP	O	O	O
-उसमें	PRP	O	O	O
-दुनिया-भर	NN	O	O	O
-की	PSP	O	O	O
-मिठाइयों	NN	O	O	O
-की	PSP	O	O	O
-मिठास	NN	O	O	O
-और	CC	O	O	O
-तमाशों	NN	O	O	O
-का	PSP	O	O	O
-आनंद	NN	O	B-MISC	O
-भरा	VM	O	I-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+हमारे
+अंग्रेजी
+दोस्त
+मानें
+या
+न
+मानें
+मैं
+तो
+यही
+कहूंगा
+कि
+गुल्ली-डंडा
+सब
+खेलों
+का
+राजा
+है
+.
+अब
+भी
+कभी
+लड़कों
+को
+गुल्ली-डंडा
+खेलते
+देखता
+हूं
+,
+तो
+जी
+लोट-पोट
+हो
+जाता
+है
+कि
+इनके
+साथ
+जाकर
+खेलने
+लगूं
+.
+न
+लान
+की
+जरूरत
+,
+न
+कोर्ट
+की
+,
+न
+नेट
+की
+,
+न
+थापी
+की
+.
+मजे
+से
+किसी
+पेड़
+से
+एक
+टहनी
+काट
+ली
+,
+गुल्ली
+बना
+ली
+,
+और
+दो
+आदमी
+भी
+आ
+जाए
+,
+तो
+खेल
+शुरू
+हो
+गया
+.
+विलायती
+खेलों
+में
+सबसे
+बड़ा
+ऐब
+है
+कि
+उसके
+सामान
+महंगे
+होते
+हैं
+.
+जब
+तक
+कम-से-कम
+एक
+सैकड़ा
+न
+खर्च
+कीजिए
+,
+खिलाड़ियों
+में
+शुमार
+ही
+नहीं
+हो
+पाता
+.
+यहां
+गुल्ली-डंडा
+है
+कि
+बना
+हर्र-फिटकरी
+के
+चोखा
+रंग
+देता
+है
+;
+पर
+हम
+अंगरेजी
+चीजों
+के
+पीछे
+ऐसे
+दीवाने
+हो
+रहे
+हैं
+कि
+अपनी
+सभी
+चीजों
+से
+अरूचि
+हो
+गई
+.
+स्कूलों
+में
+हरेक
+लड़के
+से
+तीन-चार
+रूपये
+सालाना
+केवल
+खेलने
+की
+फीस
+ली
+जाती
+है
+.
+किसी
+को
+यह
+नहीं
+सूझता
+कि
+भारतीय
+खेल
+खिलाएं
+,
+जो
+बिना
+दाम-कौड़ी
+के
+खेले
+जाते
+हैं
+.
+अंगरेजी
+खेल
+उनके
+लिए
+हैं
+,
+जिनके
+पास
+धन
+है
+.
+गरीब
+लड़कों
+के
+सिर
+क्यों
+यह
+व्यसन
+मढ़ते
+हो
+?
+ठीक
+है
+,
+गुल्ली
+से
+आंख
+फूट
+जाने
+का
+भय
+रहता
+है
+,
+तो
+क्या
+क्रिकेट
+से
+सिर
+फूट
+जाने
+,
+तिल्ली
+फट
+जाने
+,
+टांग
+टूट
+जाने
+का
+भय
+नहीं
+रहता
+!
+अगर
+हमारे
+माथे
+में
+गुल्ली
+का
+दाग
+आज
+तक
+बना
+हुआ
+है
+,
+तो
+हमारे
+कई
+दोस्त
+ऐसे
+भी
+हैं
+,
+जो
+थापी
+को
+बैसाखी
+से
+बदल
+बैठे
+.
+यह
+अपनी-अपनी
+रूचि
+है
+.
+मुझे
+गुल्ली
+ही
+सब
+खेलों
+से
+अच्छी
+लगती
+है
+और
+बचपन
+की
+मीठी
+स्मृतियों
+में
+गुल्ली
+ही
+सबसे
+मीठी
+है
+.
+वह
+प्रात
+:
+काल
+घर
+से
+निकल
+जाना
+,
+वह
+पेड़
+पर
+चढ़कर
+टहनियां
+काटना
+और
+गुल्ली-डंडे
+बनाना
+,
+वह
+उत्साह
+,
+वह
+खिलाड़ियों
+के
+जमघटे
+,
+वह
+पदना
+और
+पदाना
+,
+वह
+लड़ाई-झगड़े
+,
+वह
+सरल
+स्वभाव
+,
+जिससे
+छूत्-अछूत
+,
+अमीर-गरीब
+का
+बिल्कुल
+भेद
+न
+रहता
+था
+,
+जिसमें
+अमीराना
+चोचलों
+की
+,
+प्रदर्शन
+की
+,
+अभिमान
+की
+गुंजाइश
+ही
+न
+थी
+,
+यह
+उसी
+वक्त
+भूलेगा
+जब
+....
+जब
+...
+.
+घरवाले
+बिगड़
+रहे
+हैं
+,
+पिताजी
+चौके
+पर
+बैठे
+वेग
+से
+रोटियों
+पर
+अपना
+क्रोध
+उतार
+रहे
+हैं
+,
+अम्मां
+की
+दौड़
+केवल
+द्वार
+तक
+है
+,
+लेकिन
+उनकी
+विचार-धारा
+में
+मेरा
+अंधकारमय
+भविष्य
+टूटी
+हुई
+नौका
+की
+तरह
+डगमगा
+रहा
+है
+;
+और
+मैं
+हूं
+कि
+पदाने
+में
+मस्त
+हूं
+,
+न
+नहाने
+की
+सुधि
+है
+,
+न
+खाने
+की
+.
+गुल्ली
+है
+तो
+जरा-सी
+,
+पर
+उसमें
+दुनिया-भर
+की
+मिठाइयों
+की
+मिठास
+और
+तमाशों
+का
+आनंद
+भरा
+हुआ
+है
+.

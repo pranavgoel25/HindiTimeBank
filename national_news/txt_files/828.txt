@@ -1,379 +1,379 @@
-बिहार	NNP	O	O	O
-की	PSP	O	O	O
-राजधानी	NN	O	O	O
-पटना	NNP	O	O	O
-में	PSP	O	O	O
-किसी	PRP	O	O	O
-खास	JJ	O	O	O
-विषय	NN	O	O	O
-पर	PSP	O	O	O
-आधारित	JJ	O	O	O
-अनूठी	JJ	O	O	O
-झांकी	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-प्रसिद्ध	JJ	O	O	O
-एक	QC	O	O	O
-दुर्गा	JJ	O	O	O
-पूजा	NN	O	O	O
-पंडाल	NN	O	O	O
-में	PSP	O	O	O
-इस	DEM	O	O	O
-बार	RP	O	O	O
-वहां	PRP	O	O	O
-आई	VM	O	B-MISC	OCC
-बाढ़	NNP	O	O	O
-की	PSP	O	O	O
-स्थिति	NN	O	O	O
-को	PSP	O	O	O
-दर्शाया	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसमें	PRP	O	O	O
-लोग	NN	O	O	O
-सीने	NN	O	O	O
-तक	RP	O	O	O
-पानी	NN	O	O	O
-में	PSP	O	O	O
-डूबे	VM	O	B-MISC	OCC
-हुए	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-सिर	NN	O	O	O
-पर	PSP	O	O	O
-अपना	PRP	O	O	O
-सामान	NN	O	O	O
-ले	VM	O	B-MISC	OCC
-जा	VAUX	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पटना	NNP	O	O	O
-सिटी	NN	O	O	O
-के	PSP	O	O	O
-बालकिशुनगंज	NN	O	O	O
-इलाके	NN	O	O	O
-में	PSP	O	O	O
-करीब	RB	O	O	O
-एक	QC	O	O	O
-सदी	NN	O	O	O
-पुरानी	JJ	O	O	O
-राष्ट्रीय	JJ	O	O	O
-पूजा	NN	O	O	O
-समिति	NN	O	O	O
-द्वारा	PSP	O	O	O
-बनाए	VM	O	B-STAT	DES
-गए	VAUX	O	I-STAT	O
-पंडाल	NN	O	O	O
-में	PSP	O	O	O
-चमकदार	JJ	O	O	O
-सफेद	JJ	O	O	O
-साड़ी	XC	O	O	O
-में	PSP	O	O	O
-अद्भुत	JJ	O	O	O
-छवि	NN	O	O	O
-वाली	PSP	O	O	O
-‘	XC	O	O	O
-भारत	NNP	O	O	O
-माता	XC	O	O	O
-’	NN	O	O	O
-को	PSP	O	O	O
-उनके	PRP	O	O	O
-रक्षक	JJ	O	O	O
-शेर	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-दर्शाया	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पटना	NNP	O	O	O
-सिटी	NN	O	O	O
-,	SYM	O	O	O
-पटना	NNP	O	O	O
-का	PSP	O	O	O
-पुराना	JJ	O	O	O
-और	CC	O	O	O
-ऐतिहासिक	JJ	O	O	O
-क्षेत्र	NN	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-जहां	PRP	O	O	O
-शहर	NN	O	O	O
-की	PSP	O	O	O
-मध्यकालीन	JJ	O	O	O
-और	CC	O	O	O
-उपनिवेशकालीन	JJ	O	O	O
-विरासत	NN	O	O	O
-जगह-जगह	NN	O	O	O
-बिखरी	VM	O	B-MISC	OCC
-हुई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-राजधानी	NN	O	O	O
-के	PSP	O	O	O
-दूसरे	QO	O	O	O
-इलाकों	NN	O	O	O
-के	PSP	O	O	O
-मुकाबले	NN	O	O	O
-यह	DEM	O	O	O
-क्षेत्र	NN	O	O	O
-ऊंचाई	NN	O	O	O
-पर	PSP	O	O	O
-स्थित	JJ	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-और	CC	O	O	O
-यह	PRP	O	O	O
-हाल	NN	O	O	O
-में	PSP	O	O	O
-आई	VM	O	B-MISC	O
-बाढ़	NNP	O	O	O
-से	PSP	O	O	O
-प्रभावित	JJ	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-हुआ	VM	O	I-MISC	O
-.	SYM	O	O	O
-यहां	XC	O	O	O
-बड़ी	XC	O	O	O
-संख्या	NN	O	O	O
-में	PSP	O	O	O
-पंडाल	NN	O	B-MISC	O
-बनाए	VM	O	I-MISC	OCC
-गए	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पूजा	NN	O	O	O
-समिति	NN	O	O	O
-के	PSP	O	O	O
-आयोजकों	NN	O	O	O
-में	PSP	O	O	O
-शामिल	JJ	O	O	O
-राहित	JJ	O	O	O
-यादव	NN	O	O	O
-ने	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-,	SYM	O	O	O
-“	NN	O	O	O
-हम	PRP	O	O	O
-सौभाग्यशाली	JJ	O	B-MISC	O
-हैं	VM	O	I-MISC	O
-कि	CC	O	O	O
-पटना	XC	O	O	O
-सिटी	NNP	O	O	O
-में	PSP	O	O	O
-बाढ़	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-आई	VM	O	I-MISC	O
-.	SYM	O	O	O
-लेकिन	CC	O	O	O
-हमें	PRP	O	O	O
-पता	JJ	O	B-MISC	OCC
-है	VM	O	I-MISC	O
-कि	CC	O	O	O
-राजेंद्र	XC	O	O	O
-नगर	NN	O	O	O
-,	SYM	O	O	O
-कंकरबाग	XC	O	O	O
-,	SYM	O	O	O
-नाला	XC	O	O	O
-रोड	NNP	O	O	O
-,	SYM	O	O	O
-एस	NNP	O	O	O
-के	PSP	O	O	O
-पुरी	XC	O	O	O
-,	SYM	O	O	O
-बाजार	NN	O	O	O
-समिति	NN	O	O	O
-के	PSP	O	O	O
-लोग	NN	O	O	O
-किन	CC	O	O	O
-हालात	NN	O	O	O
-से	PSP	O	O	O
-जूझ	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जहां	PRP	O	O	O
-गंदा	JJ	O	O	O
-पानी	NN	O	O	O
-अभी	PRP	O	O	O
-भी	RP	O	O	O
-भरा	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-”	NNP	O	O	O
-प्रसिद्ध	JJ	O	O	O
-अशोक	XC	O	O	O
-राज	XC	O	O	O
-पथ	NN	O	O	O
-में	PSP	O	O	O
-स्थित	JJ	O	B-STAT	O
-पंडाल	NN	O	O	O
-में	PSP	O	O	O
-भारत	NNP	O	O	O
-माता	NN	O	O	O
-की	PSP	O	O	O
-मूर्ति	NN	O	O	O
-बनाई	VM	O	B-MISC	OCC
-गई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-पंडाल	NN	O	O	O
-में	PSP	O	O	O
-पिछले	JJ	B	O	O
-20	QC	I	O	O
-साल	NN	I	O	O
-से	PSP	O	O	O
-भारत	NNP	O	O	O
-माता	NN	O	O	O
-की	PSP	O	O	O
-मूर्ति	NN	O	O	O
-बनाई	VM	O	B-MISC	OCC
-जा	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पटना	NNP	O	O	O
-में	PSP	O	O	O
-बाढ़	NNP	O	O	O
-के	PSP	O	O	O
-हालात	NN	O	O	O
-को	PSP	O	O	O
-दर्शाने	VM	O	O	O
-वाला	PSP	O	O	O
-यहां	PRP	O	O	O
-एक	QC	O	O	O
-पोस्टर	NN	O	O	O
-भी	RP	O	O	O
-लगाया	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एक	QC	O	O	O
-सूचना	NN	O	O	O
-पट	NN	O	O	O
-में	PSP	O	O	O
-प्रभावित	JJ	O	O	O
-क्षेत्रों	NN	O	O	O
-के	PSP	O	O	O
-नाम	NN	O	O	O
-भी	RP	O	O	O
-लिखे	VM	O	B-MISC	OCC
-गए	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यादव	NN	O	O	O
-ने	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-,	SYM	O	O	O
-“	NN	O	O	O
-हम	PRP	O	O	O
-केवल	RP	O	O	O
-इस	DEM	O	O	O
-स्थिति	NN	O	O	O
-का	PSP	O	O	O
-चित्रण	NN	O	B-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हम	PRP	O	O	O
-अपने	PRP	O	O	O
-घरों	NN	O	O	O
-में	PSP	O	O	O
-फंसे	VM	O	B-MISC	OCC
-लोगों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-दुखी	NN	O	B-STAT	OCC
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-लगातार	RB	O	O	O
-बारिश	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-30	QC	B	O	O
-सितंबर	NNP	I	O	O
-को	PSP	O	O	O
-आई	VM	O	O	O
-बाढ़	NNP	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-हमने	PRP	O	O	O
-उन्हें	PRP	O	O	O
-भोजन	NN	O	O	O
-और	CC	O	O	O
-अन्य	JJ	O	O	O
-राहत	NN	O	O	O
-सामग्री	NN	O	O	O
-भी	RP	O	O	O
-प्रदान	NN	O	B-MISC	OCC
-की	PSP	O	I-MISC	O
-.	SYM	O	O	O
-”	XC	O	O	O
-बिहार	NNP	O	O	O
-में	PSP	O	O	O
-बाढ़	NN	O	O	O
-संबंधी	JJ	O	O	O
-घटनाओं	NN	O	O	O
-में	PSP	O	O	O
-करीब	RB	O	O	O
-100	QC	O	O	O
-लोग	NN	O	O	O
-मारे	VM	O	B-MISC	OCC
-गए	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बाढ़	NN	O	O	O
-के	PSP	O	O	O
-हालात	NN	O	O	O
-के	PSP	O	O	O
-अलावा	PSP:?	O	O	O
-पंडाल	NN	O	O	O
-में	PSP	O	O	O
-पूर्व	JJ	O	O	O
-प्रधानमंत्री	NN	O	O	O
-अटल	XC	O	O	O
-बिहारी	NNP	O	O	O
-वाजपेयी	NN	O	O	O
-का	PSP	O	O	O
-श्वेत-श्याम	JJ	O	O	O
-चित्र	NN	O	O	O
-भी	RP	O	O	O
-लगाया	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसके	PRP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-बीते	JJ	O	O	O
-महीनों	NN	O	O	O
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-दिवंगत	JJ	O	B-STAT	O
-हुए	VM	O	I-STAT	O
-कई	QF	O	O	O
-नेताओं	NN	O	O	O
-सुषमा	JJ	O	O	O
-स्वराज	NN	O	O	O
-,	SYM	O	O	O
-अरुण	XC	O	O	O
-जेटली	NNP	O	O	O
-,	SYM	O	O	O
-शीला	XC	O	O	O
-दीक्षित	NNP	O	O	O
-और	CC	O	O	O
-जगन्नाथ	XC	O	O	O
-मिश्र	NNP	O	O	O
-के	PSP	O	O	O
-चित्र	NN	O	O	O
-भी	RP	O	O	O
-लगाए	VM	O	B-MISC	OCC
-गए	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+बिहार
+की
+राजधानी
+पटना
+में
+किसी
+खास
+विषय
+पर
+आधारित
+अनूठी
+झांकी
+के
+लिए
+प्रसिद्ध
+एक
+दुर्गा
+पूजा
+पंडाल
+में
+इस
+बार
+वहां
+आई
+बाढ़
+की
+स्थिति
+को
+दर्शाया
+गया
+है
+,
+जिसमें
+लोग
+सीने
+तक
+पानी
+में
+डूबे
+हुए
+हैं
+और
+सिर
+पर
+अपना
+सामान
+ले
+जा
+रहे
+हैं
+.
+पटना
+सिटी
+के
+बालकिशुनगंज
+इलाके
+में
+करीब
+एक
+सदी
+पुरानी
+राष्ट्रीय
+पूजा
+समिति
+द्वारा
+बनाए
+गए
+पंडाल
+में
+चमकदार
+सफेद
+साड़ी
+में
+अद्भुत
+छवि
+वाली
+‘
+भारत
+माता
+’
+को
+उनके
+रक्षक
+शेर
+के
+साथ
+दर्शाया
+गया
+है
+.
+पटना
+सिटी
+,
+पटना
+का
+पुराना
+और
+ऐतिहासिक
+क्षेत्र
+है
+,
+जहां
+शहर
+की
+मध्यकालीन
+और
+उपनिवेशकालीन
+विरासत
+जगह-जगह
+बिखरी
+हुई
+है
+.
+राजधानी
+के
+दूसरे
+इलाकों
+के
+मुकाबले
+यह
+क्षेत्र
+ऊंचाई
+पर
+स्थित
+है
+और
+यह
+हाल
+में
+आई
+बाढ़
+से
+प्रभावित
+नहीं
+हुआ
+.
+यहां
+बड़ी
+संख्या
+में
+पंडाल
+बनाए
+गए
+हैं
+.
+पूजा
+समिति
+के
+आयोजकों
+में
+शामिल
+राहित
+यादव
+ने
+बताया
+,
+“
+हम
+सौभाग्यशाली
+हैं
+कि
+पटना
+सिटी
+में
+बाढ़
+नहीं
+आई
+.
+लेकिन
+हमें
+पता
+है
+कि
+राजेंद्र
+नगर
+,
+कंकरबाग
+,
+नाला
+रोड
+,
+एस
+के
+पुरी
+,
+बाजार
+समिति
+के
+लोग
+किन
+हालात
+से
+जूझ
+रहे
+हैं
+,
+जहां
+गंदा
+पानी
+अभी
+भी
+भरा
+हुआ
+है
+.
+”
+प्रसिद्ध
+अशोक
+राज
+पथ
+में
+स्थित
+पंडाल
+में
+भारत
+माता
+की
+मूर्ति
+बनाई
+गई
+है
+.
+इस
+पंडाल
+में
+पिछले
+20
+साल
+से
+भारत
+माता
+की
+मूर्ति
+बनाई
+जा
+रही
+है
+.
+पटना
+में
+बाढ़
+के
+हालात
+को
+दर्शाने
+वाला
+यहां
+एक
+पोस्टर
+भी
+लगाया
+गया
+है
+.
+एक
+सूचना
+पट
+में
+प्रभावित
+क्षेत्रों
+के
+नाम
+भी
+लिखे
+गए
+हैं
+.
+यादव
+ने
+बताया
+,
+“
+हम
+केवल
+इस
+स्थिति
+का
+चित्रण
+नहीं
+कर
+रहे
+हैं
+.
+हम
+अपने
+घरों
+में
+फंसे
+लोगों
+के
+लिए
+दुखी
+हैं
+.
+लगातार
+बारिश
+के
+बाद
+30
+सितंबर
+को
+आई
+बाढ़
+के
+बाद
+हमने
+उन्हें
+भोजन
+और
+अन्य
+राहत
+सामग्री
+भी
+प्रदान
+की
+.
+”
+बिहार
+में
+बाढ़
+संबंधी
+घटनाओं
+में
+करीब
+100
+लोग
+मारे
+गए
+हैं
+.
+बाढ़
+के
+हालात
+के
+अलावा
+पंडाल
+में
+पूर्व
+प्रधानमंत्री
+अटल
+बिहारी
+वाजपेयी
+का
+श्वेत-श्याम
+चित्र
+भी
+लगाया
+गया
+है
+.
+उसके
+साथ
+ही
+बीते
+महीनों
+के
+दौरान
+दिवंगत
+हुए
+कई
+नेताओं
+सुषमा
+स्वराज
+,
+अरुण
+जेटली
+,
+शीला
+दीक्षित
+और
+जगन्नाथ
+मिश्र
+के
+चित्र
+भी
+लगाए
+गए
+हैं
+.

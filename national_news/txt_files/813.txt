@@ -1,254 +1,254 @@
-झांसी	NN	O	B-MISC	O
-में	PSP	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-पुष्	VAUX	O	I-MISC	O
-‍	XC	O	O	O
-पेंद्र	XC	O	O	O
-यादव	NN	O	O	O
-के	PSP	O	O	O
-कथित	JJ	O	O	O
-एनकाउंटर	NN	O	O	O
-की	PSP	O	O	O
-गूंज	NN	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-वाराणसी	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-सुनी	VM	O	B-MISC	OCC
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-नाटी	NNP	O	O	O
-इमली	NN	O	O	O
-के	PSP	O	O	O
-ऐतिहासिक	JJ	O	O	O
-भरत	XC	O	O	O
-मिलाप	NN	O	O	O
-में	PSP	O	O	O
-परंपरागत	JJ	O	O	O
-वेशभूषा	NN	O	O	O
-में	PSP	O	O	O
-श्रीराम	NN	O	O	O
-का	PSP	O	O	O
-रथ	NN	O	O	O
-उठाने	VM	O	B-MISC	O
-पहुंचे	VAUX	O	I-MISC	O
-यादव	NN	O	O	O
-बंधुओं	NN	O	O	O
-ने	PSP	O	O	O
-नारेबाजी	NN	O	O	O
-की	PSP	O	O	O
-और	CC	O	O	O
-साथ	NST	O	O	O
-लाए	VM	O	O	O
-पंपलेट	NN	O	O	O
-हवा	NN	O	O	O
-में	PSP	O	O	O
-लहराए	XC	O	O	O
-.	SYM	O	O	O
-उधर	XC	O	O	O
-मुख्	XC	O	O	O
-‍	XC	O	O	O
-यमंत्री	NNP	O	O	O
-का	PSP	O	O	O
-पुतला	NN	O	O	O
-जलाने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-समाजवादी	JJ	O	O	O
-छात्र	NN	O	O	O
-सभा	NN	O	O	O
-का	PSP	O	O	O
-एक	QC	O	O	O
-कार्यकर्ता	NN	O	O	O
-आग	NN	O	O	O
-की	PSP	O	O	O
-चपेट	NN	O	B-MISC	O
-में	PSP	O	I-MISC	O
-आने	VM	O	I-MISC	O
-से	PSP	O	O	O
-झुलस	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-झांसी	NN	O	O	O
-में	PSP	O	O	O
-पुष्	XC	O	O	O
-‍	XC	O	O	O
-पेंद्र	XC	O	O	O
-यादव	NN	O	O	O
-के	PSP	O	O	O
-कथित	JJ	O	O	O
-एनकाउंटर	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-से	PSP	O	O	O
-यूपी	NN	O	O	O
-में	PSP	O	O	O
-सियासत	NN	O	O	O
-गरमाई	VM	O	B-MISC	OCC
-हुई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पूरे	JJ	O	O	O
-प्रदेश	NN	O	O	O
-में	PSP	O	O	O
-धरना-प्रदर्शन	NN	O	O	O
-और	CC	O	O	O
-पुतल	NN	O	B-MISC	O
-जलाने	VM	O	I-MISC	O
-का	PSP	O	O	O
-दौर	NN	O	B-MISC	O
-जारी	JJ	O	I-MISC	O
-है	VM	O	I-MISC	O
-.	SYM	O	O	O
-इसी	DEM	O	O	O
-क्रम	NN	O	O	O
-में	PSP	O	O	O
-नाटी	JJ	O	O	O
-इमली	NN	O	O	O
-के	PSP	O	O	O
-भरत	XC	O	O	O
-मिलाप	NN	O	O	O
-लीला	NN	O	O	O
-से	PSP	O	O	O
-यादव	NN	O	O	O
-बंधुओं	NN	O	O	O
-के	PSP	O	O	O
-जुड़ाव	NN	O	O	O
-को	PSP	O	O	O
-देखते	VM	O	B-MISC	O
-हुए	VAUX	O	I-MISC	O
-बुधवार	JJ	B	O	O
-सुबह	NN	I	O	O
-से	PSP	O	O	O
-ही	RP	O	O	O
-सोशल	XC	O	O	O
-मीडिया	NNP	O	O	O
-पर	PSP	O	O	O
-कुछ	QF	O	O	O
-जातीय	JJ	O	O	O
-संगठनों	NN	O	O	O
-ने	PSP	O	O	O
-पुष्	XC	O	O	O
-‍	XC	O	O	O
-पेंद्र	NNP	O	O	O
-के	PSP	O	O	O
-एनकाउंटर	NN	O	O	O
-को	PSP	O	O	O
-हत्	XC	O	O	O
-‍	NNP	O	O	O
-या	CC	O	O	O
-बताते	VM	O	O	O
-हुए	VAUX	O	O	O
-प्रभु	XC	O	O	O
-श्रीराम	NNP	O	O	O
-का	PSP	O	O	O
-रथ	NN	O	O	OCC
-नहीं	NEG	O	B-MISC	O
-उठाने	VM	O	I-MISC	O
-की	PSP	O	O	O
-घोषणा	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भरत	XC	O	O	O
-मिलाप	NN	O	O	O
-लीला	VM	O	B-MISC	OCC
-शुरू	NN	O	B-MISC	O
-होने	VM	O	I-MISC	O
-से	PSP	O	O	O
-पहले	NST	O	O	O
-अचानक	RB	O	O	O
-यादव	NN	O	O	O
-बंधुओं	NN	O	O	O
-के	PSP	O	O	O
-विरोध	NN	O	O	O
-प्रदर्शन	NN	O	O	O
-के	PSP	O	O	O
-चलते	VM	O	O	O
-अफरातफरी	NN	O	O	O
-की	PSP	O	O	O
-स्थिति	NN	O	B-MISC	OCC
-बन	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यूपी	JJ	O	O	O
-सरकार	NN	O	O	O
-विरोधी	JJ	O	O	O
-नारेबाजी	NN	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-‘	JJ	O	O	O
-यादवों	NN	O	O	O
-पर	PSP	O	O	O
-अत्	XC	O	O	O
-‍	XC	O	O	O
-याचार	NN	O	O	O
-बंद	JJ	O	B-STAT	O
-करो	VM	O	I-STAT	O
-’	NN	O	O	O
-,	SYM	O	O	O
-‘	XC	O	O	O
-पुष्	NNP	O	O	O
-‍	XC	O	O	O
-पेंद्र	NNP	O	O	O
-के	PSP	O	O	O
-हत्	XC	O	O	O
-‍	NNP	O	O	O
-यारों	NN	O	O	O
-को	PSP	O	O	O
-फांसी	NN	O	O	O
-दो	QC	O	O	O
-’	NN	O	O	O
-के	PSP	O	O	O
-नारे	NN	O	O	O
-लिखे	VM	O	O	O
-पोस्	NN	O	O	O
-‍	JJ	O	O	O
-टर	NN	O	O	O
-लहराए	VM	O	B-MISC	OCC
-गए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कुछ	QF	O	O	O
-देर	NN	O	O	O
-त	RP	O	O	O
-‍	NN	O	O	O
-क	SYM	O	O	O
-विरोध	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-परंपरा	NN	O	O	O
-का	PSP	O	O	O
-निर्वहन	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-सभी	PRP	O	O	O
-ने	PSP	O	O	O
-लीला	NN	O	O	O
-में	PSP	O	O	O
-भागीदारी	NN	O	B-MISC	OCC
-निभाई	VM	O	I-MISC	O
-.	SYM	O	O	O
-हर	QF	B	O	O
-साल	NN	I	O	O
-की	PSP	O	O	O
-तरह	PSP	O	O	O
-निर्धारित	JJ	O	O	O
-समय	NN	O	O	O
-पर	PSP	O	O	O
-यादव	NN	O	O	O
-बंधुओं	NN	O	O	O
-ने	PSP	O	O	O
-रथ	NN	O	O	O
-को	PSP	O	O	O
-अपने	PRP	O	O	O
-कंधे	NN	O	O	O
-पर	PSP	O	O	O
-उठाकर	VM	O	B-MISC	O
-नाटी	JJ	O	O	O
-इमली	NN	O	O	O
-से	PSP	O	O	O
-लोहटिया	NNP	O	O	O
-तक	RP	O	O	O
-पहुंचाया	VM	O	B-MISC	OCC
-.	SYM	O	O	O
+झांसी
+में
+हुए
+पुष्
+‍
+पेंद्र
+यादव
+के
+कथित
+एनकाउंटर
+की
+गूंज
+बुधवार
+को
+वाराणसी
+में
+भी
+सुनी
+गई
+.
+नाटी
+इमली
+के
+ऐतिहासिक
+भरत
+मिलाप
+में
+परंपरागत
+वेशभूषा
+में
+श्रीराम
+का
+रथ
+उठाने
+पहुंचे
+यादव
+बंधुओं
+ने
+नारेबाजी
+की
+और
+साथ
+लाए
+पंपलेट
+हवा
+में
+लहराए
+.
+उधर
+मुख्
+‍
+यमंत्री
+का
+पुतला
+जलाने
+के
+दौरान
+समाजवादी
+छात्र
+सभा
+का
+एक
+कार्यकर्ता
+आग
+की
+चपेट
+में
+आने
+से
+झुलस
+गया
+.
+झांसी
+में
+पुष्
+‍
+पेंद्र
+यादव
+के
+कथित
+एनकाउंटर
+के
+बाद
+से
+यूपी
+में
+सियासत
+गरमाई
+हुई
+है
+.
+पूरे
+प्रदेश
+में
+धरना-प्रदर्शन
+और
+पुतल
+जलाने
+का
+दौर
+जारी
+है
+.
+इसी
+क्रम
+में
+नाटी
+इमली
+के
+भरत
+मिलाप
+लीला
+से
+यादव
+बंधुओं
+के
+जुड़ाव
+को
+देखते
+हुए
+बुधवार
+सुबह
+से
+ही
+सोशल
+मीडिया
+पर
+कुछ
+जातीय
+संगठनों
+ने
+पुष्
+‍
+पेंद्र
+के
+एनकाउंटर
+को
+हत्
+‍
+या
+बताते
+हुए
+प्रभु
+श्रीराम
+का
+रथ
+नहीं
+उठाने
+की
+घोषणा
+की
+थी
+.
+भरत
+मिलाप
+लीला
+शुरू
+होने
+से
+पहले
+अचानक
+यादव
+बंधुओं
+के
+विरोध
+प्रदर्शन
+के
+चलते
+अफरातफरी
+की
+स्थिति
+बन
+गई
+.
+यूपी
+सरकार
+विरोधी
+नारेबाजी
+के
+बीच
+‘
+यादवों
+पर
+अत्
+‍
+याचार
+बंद
+करो
+’
+,
+‘
+पुष्
+‍
+पेंद्र
+के
+हत्
+‍
+यारों
+को
+फांसी
+दो
+’
+के
+नारे
+लिखे
+पोस्
+‍
+टर
+लहराए
+गए
+.
+कुछ
+देर
+त
+‍
+क
+विरोध
+के
+बाद
+परंपरा
+का
+निर्वहन
+करते
+हुए
+सभी
+ने
+लीला
+में
+भागीदारी
+निभाई
+.
+हर
+साल
+की
+तरह
+निर्धारित
+समय
+पर
+यादव
+बंधुओं
+ने
+रथ
+को
+अपने
+कंधे
+पर
+उठाकर
+नाटी
+इमली
+से
+लोहटिया
+तक
+पहुंचाया
+.

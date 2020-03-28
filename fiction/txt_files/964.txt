@@ -1,500 +1,500 @@
-विधवा	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाने	VAUX	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-बूटी	NN	O	O	O
-का	PSP	O	O	O
-स्वभाव	NN	O	O	O
-बहुत	QF	O	O	O
-कटु	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-बहुत	QF	O	O	O
-जी	NN	O	B-MISC	OCC
-जलता	VM	O	I-MISC	O
-तो	CC	O	O	O
-अपने	PRP	O	O	O
-मृत	JJ	O	O	O
-पति	NN	O	O	O
-को	PSP	O	O	O
-कोसती-आप	NN	O	O	OCC
-तो	RP	O	O	O
-सिधार	VM	O	B-MISC	OCC
-गए	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मेरे	PRP	O	O	O
-लिए	PSP	O	O	O
-यह	DEM	O	O	O
-जंजाल	NN	O	O	O
-छोड़	XC	O	O	OCC
-गए	NNP	O	O	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-इतनी	QF	O	O	O
-जल्दी	RB	O	O	OCC
-जाना	VM	O	O	O
-था	VAUX	O	O	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-ब्याह	NN	O	B-MISC	O
-न	NEG	O	I-MISC	O
-जाने	VM	O	I-MISC	O
-किसलिए	WQ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-भूनी	JJ	O	O	O
-भॉंग	NN	O	O	O
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-चले	VM	O	B-STAT	O
-थे	VAUX	O	I-STAT	O
-ब्याह	NN	O	O	OCC
-करने	VM	O	O	O
-!	SYM	O	O	O
-वह	PRP	O	O	O
-चाहती	VM	O	B-MISC	O
-तो	CC	O	O	O
-दूसररी	JJ	O	O	O
-सगाई	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-लेती	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अहीरों	NN	O	O	O
-में	PSP	O	O	O
-इसका	PRP	O	O	O
-रिवाज	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-देखने-सुनने	VM	O	B-MISC	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-बुरी	JJ	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-दो-एक	RDP	O	O	O
-आदमी	NN	O	O	O
-तैयार	JJ	O	O	OCC
-भी	RP	O	O	O
-थे	VAUX	O	O	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-बूटी	NN	O	O	O
-पतिव्रता	NN	O	O	O
-कहलाने	VM	O	O	O
-के	PSP	O	O	O
-मोह	NN	O	O	O
-को	PSP	O	O	O
-न	NEG	O	B-MISC	OCC
-छोड़	NNP	O	I-MISC	O
-सकी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-और	CC	O	O	O
-यह	PRP	O	O	O
-सारा	QF	O	O	O
-क्रोध	NN	O	B-MISC	OCC
-उतरता	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-बड़े	NNP	O	O	O
-लड़के	NNP	O	O	O
-मोहन	NN	O	O	O
-पर	PSP	O	O	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-अब	PRP	O	O	O
-सोलह	QC	B	O	O
-साल	NN	I	O	O
-का	PSP	O	O	O
-था	VM	O	B-STAT	O
-.	SYM	O	O	O
-सोहन	NN	O	O	O
-अभी	PRP	O	O	O
-छोटा	JJ	O	B-MISC	O
-था	VM	O	I-MISC	O
-और	CC	O	O	O
-मैना	NN	O	O	O
-लड़की	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-ये	DEM	O	O	O
-दोनों	NN	O	O	O
-अभी	PRP	O	O	O
-किसी	PRP	O	O	O
-लायक	JJ	O	B-MISC	O
-न	NEG	O	I-MISC	O
-थे	VM	O	I-MISC	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-यह	PRP	O	O	O
-तीनों	QC	O	O	O
-न	NEG	O	B-MISC	O
-होते	VM	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-बूटी	NN	O	O	O
-को	PSP	O	O	O
-क्यों	WQ	O	O	O
-इतना	QF	O	O	O
-कष्ट	NN	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-.	SYM	O	O	O
-जिसका	PRP	O	O	O
-थोड़ा-सा	RB	O	O	O
-काम	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-देती	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वही	DEM	O	O	O
-रोटी-कपड़ा	NN	O	B-MISC	OCC
-दे	VM	O	I-MISC	O
-देता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-चाहती	VM	O	O	O
-किसी	PRP	O	O	O
-के	PSP	O	O	O
-सिर	NN	O	O	O
-बैठ	VM	O	B-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-अगर	CC	O	O	O
-वह	PRP	O	O	O
-कहीं	PRP	O	O	O
-बैठ	VM	O	B-MISC	O
-जाए	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-लोग	NN	O	O	O
-यही	PRP	O	O	O
-कहेंगे	VM	O	B-MISC	O
-कि	CC	O	O	O
-तीन-तीन	JJ	O	O	O
-बच्चों	NN	O	O	O
-के	PSP	O	O	O
-होते	VM	O	O	O
-इसे	PRP	O	O	O
-यह	PRP	O	O	O
-क्या	WQ	O	O	O
-सूझी	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-मोहन	XC	O	O	O
-भरसक	NNP	O	O	O
-उसका	PRP	O	O	O
-भार	NN	O	O	O
-हल्का	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-की	PSP	O	O	O
-चेष्टा	NN	O	B-MISC	OCC
-करता	VM	O	I-MISC	O
-.	SYM	O	O	O
-गायों-भैसों	NN	O	O	O
-की	PSP	O	O	O
-सानी-पानी	NN	O	O	O
-,	SYM	O	O	O
-दुहना-	JJ	O	O	O
-मथना	NN	O	O	O
-यह	DEM	O	O	O
-सब	QF	O	O	OCC
-कर	VM	O	O	O
-लेता	VAUX	O	O	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-बूटी	NN	O	O	O
-का	PSP	O	O	O
-मुंह	NN	O	O	O
-सीधा	JJ	O	B-MISC	O
-न	NEG	O	I-MISC	OCC
-होता	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-रोज	NN	O	O	O
-एक-न-एक	XC	O	O	O
-खुचड़	NNP	O	O	O
-निकालती	VM	O	B-MISC	OCC
-रहती	VAUX	O	I-MISC	O
-और	CC	O	O	O
-मोहन	NNP	O	O	O
-ने	PSP	O	O	O
-भी	RP	O	O	O
-उसकी	PRP	O	O	O
-घुड़कियों	NN	O	O	O
-की	PSP	O	O	O
-परवाह	NN	O	B-MISC	O
-करना	VM	O	I-MISC	O
-छोड़	NNP	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पति	NN	O	O	O
-उसके	PRP	O	O	O
-सिर	NN	O	O	O
-गृहस्थी	NN	O	O	O
-का	PSP	O	O	O
-यह	DEM	O	O	O
-भार	NN	O	O	O
-पटककर	VM	O	B-MISC	OCC
-क्यों	WQ	O	O	O
-चला	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उसे	PRP	O	O	O
-यही	PRP	O	O	O
-गिला	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बेचारी	NN	O	O	O
-का	PSP	O	O	O
-सर्वनाश	NN	O	B-MISC	OCC
-ही	RP	O	I-MISC	O
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-न	NEG	O	B-MISC	O
-खाने	VM	O	I-MISC	O
-का	PSP	O	O	O
-सुख	NN	O	O	O
-मिला	VM	O	O	O
-,	SYM	O	O	O
-न	XC	O	O	O
-पहनने-ओढ़ने	NNP	O	O	O
-का	PSP	O	O	O
-,	SYM	O	O	O
-न	NEG	O	O	O
-और	CC	O	O	O
-किसी	PRP	O	O	O
-बात	NN	O	O	O
-का	PSP	O	O	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-क्या	WQ	O	O	O
-आयी	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-मानो	RP:?	O	O	O
-भट्टी	NN	O	O	O
-में	PSP	O	O	O
-पड़	VM	O	B-MISC	OCC
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसकी	PRP	O	O	O
-वैधव्य-साधना	NN	O	O	O
-और	CC	O	O	O
-अतृप्त	JJ	O	O	O
-भोग-लालसा	NN	O	O	O
-में	PSP	O	O	O
-सदैव	RB	O	O	O
-द्वन्द्व-सा	NN	O	B-MISC	OCC
-मचा	VM	O	I-MISC	O
-रहता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-और	CC	O	O	O
-उसकी	PRP	O	O	O
-जलन	NN	O	O	O
-में	PSP	O	O	O
-उसके	PRP	O	O	O
-हृदय	NN	O	O	O
-की	PSP	O	O	O
-सारी	QF	O	O	O
-मृदुता	NN	O	O	O
-जलकर	VM	O	B-MISC	O
-भस्म	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पति	NN	O	O	O
-के	PSP	O	O	O
-पीछे	NST	O	O	O
-और	CC	O	O	O
-कुछ	PRP	O	O	O
-नहीं	NEG	O	O	O
-तो	RP	O	O	O
-बूटी	NN	O	O	O
-के	PSP	O	O	O
-पास	NST	O	O	O
-चार-पॉंच	NN	O	O	O
-सौ	NN	O	O	O
-के	PSP	O	O	O
-गहने	VM	O	O	O
-थे	VAUX	O	B-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-एक-एक	NN	O	B-MISC	O
-करके	VM	O	I-MISC	O
-सब	QF	O	O	O
-उसके	PRP	O	O	O
-हाथ	NN	O	O	O
-से	PSP	O	O	O
-निकल	VM	O	B-MISC	OCC
-गए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसी	DEM	O	O	O
-मुहल्ले	NN	O	O	O
-में	PSP	O	O	O
-उसकी	PRP	O	O	O
-बिरादरी	NN	O	O	O
-में	PSP	O	O	O
-,	SYM	O	O	O
-कितनी	QF	O	O	O
-ही	RP	O	O	O
-औरतें	NN	O	O	O
-थीं	VM	O	O	OCC
-,	SYM	O	O	O
-जो	PRP	O	O	O
-उससे	PRP	O	O	O
-जेठी	NN	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-भी	RP	O	O	O
-गहने	NN	O	O	O
-झमकाकर	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-आंखों	NN	O	O	O
-में	PSP	O	O	O
-काजल	NN	O	B-MISC	OCC
-लगाकर	VM	O	I-MISC	O
-,	SYM	O	O	O
-मांग	NN	O	O	O
-में	PSP	O	O	O
-सेंदुर	NN	O	O	O
-की	PSP	O	O	O
-मोटी-सी	JJ	O	O	O
-रेखा	NN	O	O	O
-डालकर	VM	O	B-MISC	OCC
-मानो	RP:?	O	O	O
-उसे	PRP	O	O	O
-जलाया	VM	O	B-MISC	OCC
-करती	VAUX	O	I-MISC	O
-थीं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-इसलिए	CC	O	O	O
-अब	PRP	O	O	O
-उनमें	PRP	O	O	O
-से	PSP	O	O	O
-कोई	PRP	O	O	O
-विधवा	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाती	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-बूटी	NN	O	O	O
-को	PSP	O	O	O
-खुशी	NN	O	B-MISC	O
-होती	VM	O	I-MISC	O
-और	CC	O	O	O
-यह	PRP	O	O	O
-सारी	QF	O	O	O
-जलन	NN	O	O	O
-वह	PRP	O	O	O
-लड़कों	NN	O	O	O
-पर	PSP	O	O	O
-निकालती	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-विशेषकर	RB	O	O	O
-मोहन	NNP	O	O	O
-पर	PSP	O	O	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-शायद	RB	O	O	O
-सारे	QF	O	O	O
-संसार	NN	O	O	O
-की	PSP	O	O	O
-स्त्रियों	NN	O	O	O
-को	PSP	O	O	O
-अपने	PRP	O	O	O
-ही	RP	O	O	O
-रूप	NN	O	O	O
-में	PSP	O	O	O
-देखना	VM	O	B-MISC	OCC
-चाहती	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कुत्सा	NN	O	O	O
-में	PSP	O	O	O
-उसे	PRP	O	O	O
-विशेष	JJ	O	O	O
-आनंद	NN	O	B-MISC	O
-मिलता	VM	O	I-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसकी	PRP	O	O	O
-वंचित	JJ	O	O	O
-लालसा	NN	O	O	O
-,	SYM	O	O	O
-जल	NN	O	O	O
-न	NEG	O	B-MISC	O
-पाकर	VM	O	I-MISC	O
-ओस	DEM	O	O	O
-चाट	NN	O	B-MISC	O
-लेने	VM	O	I-MISC	O
-में	PSP	O	O	O
-ही	RP	O	O	O
-संतुष्ट	JJ	O	O	OCC
-होती	VM	O	O	O
-थी	VAUX	O	O	O
-;	SYM	O	O	O
-फिर	RB	O	O	O
-यह	PRP	O	O	O
-कैसे	WQ	O	O	O
-संभव	JJ	O	O	O
-था	VM	O	B-MISC	OCC
-कि	CC	O	O	O
-वह	PRP	O	O	O
-मोहन	NNP	O	O	O
-के	PSP	O	O	O
-विषय	NN	O	O	O
-में	PSP	O	O	O
-कुछ	QF	O	O	O
-सुने	VM	O	B-MISC	O
-और	CC	O	O	O
-पेट	NN	O	O	O
-में	PSP	O	O	O
-डाल	VM	O	B-MISC	OCC
-ले	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ज्योंही	JJ	O	O	O
-मोहन	XC	O	O	O
-संध्या	NN	O	O	O
-समय	NN	O	O	O
-दूध	NN	O	O	O
-बेचकर	VM	O	B-MISC	OCC
-घर	NN	O	O	O
-आया	VM	O	B-MISC	O
-बूटी	NN	O	O	O
-ने	PSP	O	O	O
-कहा-देखती	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तू	PRP	O	O	O
-अब	PRP	O	O	O
-सांड़	XC	O	B-MISC	O
-बनने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-उतारू	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मोहन	NNP	O	O	O
-ने	PSP	O	O	O
-प्रश्न	NN	O	O	O
-के	PSP	O	O	O
-भाव	NN	O	O	O
-से	PSP	O	O	O
-देखा-कैसा	NN	O	O	O
-सांड़	XC	O	O	O
-!	SYM	O	O	O
-बात	NN	O	O	O
-क्या	WQ	O	O	O
-है	VM	O	B-STAT	O
-?	SYM	O	O	O
+विधवा
+हो
+जाने
+के
+बाद
+बूटी
+का
+स्वभाव
+बहुत
+कटु
+हो
+गया
+था
+.
+जब
+बहुत
+जी
+जलता
+तो
+अपने
+मृत
+पति
+को
+कोसती-आप
+तो
+सिधार
+गए
+,
+मेरे
+लिए
+यह
+जंजाल
+छोड़
+गए
+.
+जब
+इतनी
+जल्दी
+जाना
+था
+,
+तो
+ब्याह
+न
+जाने
+किसलिए
+किया
+.
+घर
+में
+भूनी
+भॉंग
+नहीं
+,
+चले
+थे
+ब्याह
+करने
+!
+वह
+चाहती
+तो
+दूसररी
+सगाई
+कर
+लेती
+.
+अहीरों
+में
+इसका
+रिवाज
+है
+.
+देखने-सुनने
+में
+भी
+बुरी
+न
+थी
+.
+दो-एक
+आदमी
+तैयार
+भी
+थे
+,
+लेकिन
+बूटी
+पतिव्रता
+कहलाने
+के
+मोह
+को
+न
+छोड़
+सकी
+.
+और
+यह
+सारा
+क्रोध
+उतरता
+था
+,
+बड़े
+लड़के
+मोहन
+पर
+,
+जो
+अब
+सोलह
+साल
+का
+था
+.
+सोहन
+अभी
+छोटा
+था
+और
+मैना
+लड़की
+थी
+.
+ये
+दोनों
+अभी
+किसी
+लायक
+न
+थे
+.
+अगर
+यह
+तीनों
+न
+होते
+,
+तो
+बूटी
+को
+क्यों
+इतना
+कष्ट
+होता
+.
+जिसका
+थोड़ा-सा
+काम
+कर
+देती
+,
+वही
+रोटी-कपड़ा
+दे
+देता
+.
+जब
+चाहती
+किसी
+के
+सिर
+बैठ
+जाती
+.
+अब
+अगर
+वह
+कहीं
+बैठ
+जाए
+,
+तो
+लोग
+यही
+कहेंगे
+कि
+तीन-तीन
+बच्चों
+के
+होते
+इसे
+यह
+क्या
+सूझी
+.
+मोहन
+भरसक
+उसका
+भार
+हल्का
+करने
+की
+चेष्टा
+करता
+.
+गायों-भैसों
+की
+सानी-पानी
+,
+दुहना-
+मथना
+यह
+सब
+कर
+लेता
+,
+लेकिन
+बूटी
+का
+मुंह
+सीधा
+न
+होता
+था
+.
+वह
+रोज
+एक-न-एक
+खुचड़
+निकालती
+रहती
+और
+मोहन
+ने
+भी
+उसकी
+घुड़कियों
+की
+परवाह
+करना
+छोड़
+दिया
+था
+.
+पति
+उसके
+सिर
+गृहस्थी
+का
+यह
+भार
+पटककर
+क्यों
+चला
+गया
+,
+उसे
+यही
+गिला
+था
+.
+बेचारी
+का
+सर्वनाश
+ही
+कर
+दिया
+.
+न
+खाने
+का
+सुख
+मिला
+,
+न
+पहनने-ओढ़ने
+का
+,
+न
+और
+किसी
+बात
+का
+.
+इस
+घर
+में
+क्या
+आयी
+,
+मानो
+भट्टी
+में
+पड़
+गई
+.
+उसकी
+वैधव्य-साधना
+और
+अतृप्त
+भोग-लालसा
+में
+सदैव
+द्वन्द्व-सा
+मचा
+रहता
+था
+और
+उसकी
+जलन
+में
+उसके
+हृदय
+की
+सारी
+मृदुता
+जलकर
+भस्म
+हो
+गई
+थी
+.
+पति
+के
+पीछे
+और
+कुछ
+नहीं
+तो
+बूटी
+के
+पास
+चार-पॉंच
+सौ
+के
+गहने
+थे
+,
+लेकिन
+एक-एक
+करके
+सब
+उसके
+हाथ
+से
+निकल
+गए
+.
+उसी
+मुहल्ले
+में
+उसकी
+बिरादरी
+में
+,
+कितनी
+ही
+औरतें
+थीं
+,
+जो
+उससे
+जेठी
+होने
+पर
+भी
+गहने
+झमकाकर
+,
+आंखों
+में
+काजल
+लगाकर
+,
+मांग
+में
+सेंदुर
+की
+मोटी-सी
+रेखा
+डालकर
+मानो
+उसे
+जलाया
+करती
+थीं
+,
+इसलिए
+अब
+उनमें
+से
+कोई
+विधवा
+हो
+जाती
+,
+तो
+बूटी
+को
+खुशी
+होती
+और
+यह
+सारी
+जलन
+वह
+लड़कों
+पर
+निकालती
+,
+विशेषकर
+मोहन
+पर
+.
+वह
+शायद
+सारे
+संसार
+की
+स्त्रियों
+को
+अपने
+ही
+रूप
+में
+देखना
+चाहती
+थी
+.
+कुत्सा
+में
+उसे
+विशेष
+आनंद
+मिलता
+था
+.
+उसकी
+वंचित
+लालसा
+,
+जल
+न
+पाकर
+ओस
+चाट
+लेने
+में
+ही
+संतुष्ट
+होती
+थी
+;
+फिर
+यह
+कैसे
+संभव
+था
+कि
+वह
+मोहन
+के
+विषय
+में
+कुछ
+सुने
+और
+पेट
+में
+डाल
+ले
+.
+ज्योंही
+मोहन
+संध्या
+समय
+दूध
+बेचकर
+घर
+आया
+बूटी
+ने
+कहा-देखती
+हूं
+,
+तू
+अब
+सांड़
+बनने
+पर
+उतारू
+हो
+गया
+है
+.
+मोहन
+ने
+प्रश्न
+के
+भाव
+से
+देखा-कैसा
+सांड़
+!
+बात
+क्या
+है
+?

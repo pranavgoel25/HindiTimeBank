@@ -1,295 +1,295 @@
-एयरटेल	XC	O	O	O
-यूजर्स	NNP	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-खुशखबरी	JJ	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-वोडाफोन-आइडिया	NNP	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-एयरटेल	NN	O	O	O
-ने	PSP	O	O	O
-घोषणा	NN	O	B-MISC	O
-की	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-वह	PRP	O	O	O
-अपने	PRP	O	O	O
-यूजर्स	NN	O	O	O
-से	PSP	O	O	O
-इंटरकनेक्ट	XC	O	O	O
-यूसेज	XC	O	O	O
-चार्ज	NN	O	O	O
-(	SYM	O	O	O
-IUC	NN	O	O	O
-)	SYM	O	O	O
-नहीं	NEG	O	B-MISC	O
-लेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-यानी	XC	O	O	O
-,	SYM	O	O	O
-एयरटेल	NN	O	O	O
-के	PSP	O	O	O
-यूजर्स	NN	O	O	O
-को	PSP	O	O	O
-किसी	PRP	O	O	O
-दूसरे	JJ	O	O	O
-टेलिकॉम	NN	O	O	O
-ऑपरेटर	NN	O	O	O
-के	PSP	O	O	O
-नंबरों	NN	O	O	O
-पर	PSP	O	O	O
-कॉल	NN	O	B-MISC	OCC
-लगाने	VM	O	I-MISC	O
-के	PSP	O	O	O
-कोई	PRP	O	O	O
-पैसे	NN	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-लगेंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
-इंटरकनेक्ट	XC	O	O	O
-यूसेज	XC	O	O	O
-चार्ज	NN	O	O	O
-यानी	CC	O	O	O
-आईयूसी	NN	O	O	O
-की	PSP	O	O	O
-पिछले	JJ	B	O	O
-दो	QC	I	O	O
-दिनों	NN	I	O	O
-से	PSP	O	O	O
-काफी	QF	O	O	O
-चर्चा	NN	O	B-STAT	OCC
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-इसकी	PRP	O	O	O
-शुरुआत	NN	O	B-MISC	OCC
-तब	PRP	O	I-MISC	O
-हुई	VM	O	I-MISC	O
-जब	PRP	O	O	O
-9	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-रिलायंस	XC	O	O	O
-जियो	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-अब	PRP	O	O	O
-वह	PRP	O	O	O
-यूजर्स	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-फ्री	JJ	O	O	O
-कॉलिंग	NN	O	O	O
-बेनिफिट	JJ	O	O	O
-खत्म	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-कर	VAUX	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जियो	XC	O	O	O
-ने	PSP	O	O	O
-इस	DEM	O	O	O
-घोषणा	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-10	QC	O	O	O
-अक्टूबर	NNP	O	O	O
-से	PSP	O	O	O
-दूसरे	JJ	O	O	O
-नेटवर्क्स	NNP	O	O	O
-पर	PSP	O	O	O
-की	VM	O	B-MISC	DESC
-जाने	VAUX	O	I-MISC	O
-वाली	PSP	O	O	O
-कॉल्स	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-6	QC	O	O	O
-पैसे	NN	O	O	O
-प्रति	PSP	O	O	O
-मिनट	NN	O	O	O
-की	PSP	O	O	O
-दर	NN	O	O	O
-से	PSP	O	O	O
-चार्ज	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-शुरू	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-6	QC	O	O	O
-पैसे	NN	O	O	O
-प्रति	PSP	O	O	O
-सेकंड	NN	O	O	O
-लगने	VM	O	O	O
-वाला	PSP	O	O	O
-आईयूसी	JJ	O	O	O
-सब्सक्राइबर्स	NN	O	O	O
-को	PSP	O	O	O
-नए	JJ	O	O	O
-रिचार्ज	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-देना	VM	O	B-MISC	OCC
-होगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जियो	NN	O	O	O
-के	PSP	O	O	O
-इस	DEM	O	O	O
-कदम	NN	O	O	O
-से	PSP	O	O	O
-यूजर्स	NN	O	O	O
-को	PSP	O	O	O
-काफी	QF	O	O	O
-झटका	NN	O	B-MISC	OCC
-लगा	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-,	SYM	O	O	O
-एयरटेल	NN	O	O	O
-और	CC	O	O	O
-वोडाफोन-आइडिया	NN	O	O	O
-जैसी	PSP	O	O	O
-कंपनियां	NN	O	O	O
-इसे	PRP	O	O	O
-बिजनस	NN	O	O	O
-में	PSP	O	O	O
-आगे	NST	O	B-MISC	O
-निकलने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-मिले	VM	O	B-MISC	OCC
-एक	QC	O	O	O
-मौके	NN	O	O	O
-के	PSP	O	O	O
-रूप	NN	O	O	O
-में	PSP	O	O	O
-देख	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जियो	NN	O	O	O
-द्वारा	PSP	O	O	O
-फ्री	JJ	O	O	O
-कॉलिंग	NN	O	O	O
-खत्म	JJ	O	B-MISC	OCC
-किए	VM	O	I-MISC	O
-जाने	VAUX	O	I-MISC	O
-की	PSP	O	O	O
-घोषणा	NN	O	O	O
-के	PSP	O	O	O
-कुछ	QF	O	O	O
-ही	RP	O	O	O
-घंटो	NN	O	O	O
-बाद	NST	O	O	O
-एयरटेल	NN	O	O	O
-ने	PSP	O	O	O
-एक	QC	O	O	O
-ट्वीट	XC	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-ट्वीट	XC	O	O	O
-में	PSP	O	O	O
-एयरटेल	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-'	SYM	O	O	O
-कुछ	QF	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-अनलिमिटेड	JJ	O	O	O
-कॉलिंग	NN	O	O	O
-का	PSP	O	O	O
-मतलब	NN	O	O	O
-कुछ	QF	O	O	O
-और	CC	O	O	O
-होता	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-लेकिन	CC	O	O	O
-हमारे	PRP	O	O	O
-लिए	PSP	O	O	O
-वॉइस	XC	O	O	O
-कॉल्स	NN	O	O	O
-का	PSP	O	O	O
-मतलब	NN	O	O	O
-हमेशा	RB	O	O	O
-से	PSP	O	O	O
-वास्तव	NN	O	O	O
-में	PSP	O	O	O
-अनलिमिटेड	JJ	O	O	O
-वॉइस	XC	O	O	O
-कॉल्स	NN	O	B-MISC	O
-ही	RP	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अभी	PRP	O	O	O
-एयरटेल	NN	O	O	O
-पर	PSP	O	O	O
-स्विच	NN	O	B-MISC	OCC
-करें	VM	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-एयरटेल	NN	O	O	O
-के	PSP	O	O	O
-इस	DEM	O	O	O
-ट्वीट	XC	O	O	O
-के	PSP	O	O	O
-आधार	NN	O	O	O
-पर	PSP	O	O	O
-यह	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-जा	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-कंपनी	NN	O	O	O
-अपने	PRP	O	O	O
-यूजर्स	NN	O	O	O
-से	PSP	O	O	O
-आउटगोइंग	NN	O	O	O
-कॉल्स	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-के	PSP	O	O	O
-कोई	PRP	O	O	O
-पैसे	NN	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-लेगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-इस	DEM	O	O	O
-बात	NN	O	O	O
-से	PSP	O	O	O
-भी	RP	O	O	O
-इनकार	NN	O	B-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-किया	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-एयरटेल	NN	O	O	O
-अब	PRP	O	O	O
-जियो	PRP	O	O	O
-सब्सक्राइबर्स	NN	O	O	O
-को	PSP	O	O	O
-अपने	PRP	O	O	O
-नेटवर्क	NN	O	O	O
-पर	PSP	O	O	O
-स्विच	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-लुभा	VM	O	B-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+एयरटेल
+यूजर्स
+के
+लिए
+खुशखबरी
+है
+.
+वोडाफोन-आइडिया
+के
+बाद
+एयरटेल
+ने
+घोषणा
+की
+है
+कि
+वह
+अपने
+यूजर्स
+से
+इंटरकनेक्ट
+यूसेज
+चार्ज
+(
+IUC
+)
+नहीं
+लेगा
+.
+यानी
+,
+एयरटेल
+के
+यूजर्स
+को
+किसी
+दूसरे
+टेलिकॉम
+ऑपरेटर
+के
+नंबरों
+पर
+कॉल
+लगाने
+के
+कोई
+पैसे
+नहीं
+लगेंगे
+.
+इंटरकनेक्ट
+यूसेज
+चार्ज
+यानी
+आईयूसी
+की
+पिछले
+दो
+दिनों
+से
+काफी
+चर्चा
+है
+.
+इसकी
+शुरुआत
+तब
+हुई
+जब
+9
+अक्टूबर
+को
+रिलायंस
+जियो
+ने
+कहा
+कि
+अब
+वह
+यूजर्स
+के
+लिए
+फ्री
+कॉलिंग
+बेनिफिट
+खत्म
+कर
+कर
+रहा
+है
+.
+जियो
+ने
+इस
+घोषणा
+के
+बाद
+10
+अक्टूबर
+से
+दूसरे
+नेटवर्क्स
+पर
+की
+जाने
+वाली
+कॉल्स
+के
+लिए
+6
+पैसे
+प्रति
+मिनट
+की
+दर
+से
+चार्ज
+करना
+शुरू
+कर
+दिया
+है
+.
+6
+पैसे
+प्रति
+सेकंड
+लगने
+वाला
+आईयूसी
+सब्सक्राइबर्स
+को
+नए
+रिचार्ज
+के
+बाद
+देना
+होगा
+.
+जियो
+के
+इस
+कदम
+से
+यूजर्स
+को
+काफी
+झटका
+लगा
+है
+.
+वहीं
+,
+एयरटेल
+और
+वोडाफोन-आइडिया
+जैसी
+कंपनियां
+इसे
+बिजनस
+में
+आगे
+निकलने
+के
+लिए
+मिले
+एक
+मौके
+के
+रूप
+में
+देख
+रही
+हैं
+.
+जियो
+द्वारा
+फ्री
+कॉलिंग
+खत्म
+किए
+जाने
+की
+घोषणा
+के
+कुछ
+ही
+घंटो
+बाद
+एयरटेल
+ने
+एक
+ट्वीट
+किया
+.
+इस
+ट्वीट
+में
+एयरटेल
+ने
+कहा
+'
+कुछ
+के
+लिए
+अनलिमिटेड
+कॉलिंग
+का
+मतलब
+कुछ
+और
+होता
+है
+.
+लेकिन
+हमारे
+लिए
+वॉइस
+कॉल्स
+का
+मतलब
+हमेशा
+से
+वास्तव
+में
+अनलिमिटेड
+वॉइस
+कॉल्स
+ही
+रहा
+है
+.
+अभी
+एयरटेल
+पर
+स्विच
+करें
+.
+'
+एयरटेल
+के
+इस
+ट्वीट
+के
+आधार
+पर
+यह
+कहा
+जा
+सकता
+है
+कि
+कंपनी
+अपने
+यूजर्स
+से
+आउटगोइंग
+कॉल्स
+के
+लिए
+के
+कोई
+पैसे
+नहीं
+लेगी
+.
+इसके
+साथ
+ही
+इस
+बात
+से
+भी
+इनकार
+नहीं
+किया
+जा
+सकता
+कि
+एयरटेल
+अब
+जियो
+सब्सक्राइबर्स
+को
+अपने
+नेटवर्क
+पर
+स्विच
+करने
+के
+लिए
+लुभा
+रहा
+है
+.

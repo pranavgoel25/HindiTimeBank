@@ -1,404 +1,404 @@
-मध्य	XC	O	O	O
-प्रदेश	NNP	O	O	O
-के	PSP	O	O	O
-मुख्यमंत्री	JJ	O	O	O
-कमलनाथ	NN	O	O	O
-ने	PSP	O	O	O
-पिछली	JJ	O	O	O
-भाजपा	NN	O	O	O
-सरकार	NN	O	O	O
-पर	PSP	O	O	O
-आदिवासी	NN	O	O	O
-बहुल	JJ	O	O	O
-झाबुआ	XC	O	O	O
-जिले	NNP	O	O	O
-के	PSP	O	O	O
-विकास	NN	O	O	O
-की	PSP	O	O	O
-अनदेखी	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-का	PSP	O	O	O
-आरोप	NN	O	B-MISC	OCC
-लगाते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-बुधवार	NN	O	O	O
-को	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-उनकी	PRP	O	O	O
-सरकार	NN	O	O	O
-क्षेत्र	NN	O	O	O
-का	PSP	O	O	O
-तेजी	RB	O	O	O
-से	PSP	O	O	O
-विकास	NN	O	B-MISC	OCC
-करेगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-झाबुआ	NN	O	O	O
-विधानसभा	JJ	O	O	O
-सीट	NN	O	O	O
-पर	PSP	O	O	O
-21	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-होने	VM	O	B-STAT	DES
-वाले	PSP	O	I-STAT	O
-उपचुनाव	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-काग्रेस	XC	O	O	O
-प्रत्याशी	XC	O	O	O
-कांतिलाल	XC	O	O	O
-भूरिया	NNP	O	O	O
-के	PSP	O	O	O
-पक्ष	NN	O	O	O
-में	PSP	O	O	O
-रोड़	XC	O	B-MISC	O
-शो	NN	O	I-MISC	O
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-कल्याणपुरा	NN	O	O	O
-गांव	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-जनसभा	NN	O	O	O
-को	PSP	O	O	O
-संबोधित	JJ	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-कमलनाथ	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-"	SYM	O	O	O
-जो	PRP	O	O	O
-काम	NN	O	O	O
-पूर्ववर्ती	JJ	O	O	O
-भाजपा	NN	O	O	O
-सरकार	NN	O	O	O
-ने	PSP	O	O	O
-15	QC	B	O	O
-साल	NN	I	O	O
-में	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-,	SYM	O	O	O
-आप	PRP	O	O	O
-मुझे	PRP	O	O	O
-मौका	NN	O	B-MISC	OCC
-दीजिए	VM	O	I-MISC	O
-,	SYM	O	O	O
-मैं	PRP	O	O	O
-15	QC	B	O	O
-महीने	NN	I	O	O
-में	PSP	O	O	O
-करके	VM	O	B-MISC	OCC
-दिखाऊंगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-"	SYM	O	O	O
-पिछले	JJ	B	O	O
-15	QC	I	O	O
-साल	NN	I	O	O
-से	PSP	O	O	O
-झाबुआ	NN	O	O	O
-विधानसभा	JJ	O	O	O
-सीट	NN	O	O	O
-पर	PSP	O	O	O
-भाजपा	NN	O	O	O
-का	PSP	O	O	O
-कब्जा	NN	O	O	O
-था	VM	O	B-MISC	OCC
-और	CC	O	O	O
-उस	DEM	O	O	O
-दौरान	NST	O	O	O
-भाजपा	NN	O	O	O
-नीत	JJ	O	O	O
-सरकार	NN	O	O	O
-ही	RP	O	O	O
-मध्य	JJ	O	O	O
-प्रदेश	NN	O	O	O
-में	PSP	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-"	SYM	O	O	O
-मुझे	PRP	O	O	O
-तो	RP	O	O	O
-मुख्यमंत्री	JJ	O	O	O
-बने	VM	O	O	O
-नौ	QC	O	O	O
-महीने	NN	O	O	O
-हुए	VM	O	B-STAT	OCC
-हैं	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-सड़क	NN	O	B-MISC	OCC
-बन	VM	O	I-MISC	O
-जाएगी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तालाब	NN	O	O	O
-बन	VM	O	B-MISC	OCC
-जाएगा	VAUX	O	I-MISC	O
-लेकिन	CC	O	O	O
-मुझे	PRP	O	O	O
-इन	DEM	O	O	O
-नौजवानों	NN	O	O	O
-के	PSP	O	O	O
-भविष्य	NN	O	O	O
-की	PSP	O	O	O
-चिंता	NN	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-आज	NN	O	O	O
-का	PSP	O	O	O
-नौजवान	JJ	O	O	O
-मजदूरी	NN	O	B-MISC	O
-करने	VM	O	I-MISC	OCC
-गुजरात	NN	O	B-MISC	O
-जाता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ये	PRP	O	O	O
-कैसा	WQ	O	O	O
-मध्य	JJ	O	O	O
-प्रदेश	NN	O	O	O
-है	VM	O	O	O
-?	SYM	O	O	O
-"	SYM	O	O	O
-कमलनाथ	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-"	SYM	O	O	O
-हम	PRP	O	O	O
-ऐसे	DEM	O	O	O
-कानून	NN	O	B-MISC	OCC
-बनाएंगे	VM	O	I-MISC	O
-कि	CC	O	O	O
-हमारे	PRP	O	O	O
-आदिवासी	NN	O	O	O
-सुरक्षित	JJ	O	B-STAT	OCC
-रहे	VM	O	I-STAT	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-हम	PRP	O	O	O
-सोचते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-सबसे	INTF	O	O	O
-कमजोर	JJ	O	O	O
-वर्ग	NN	O	O	O
-के	PSP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-सोचते	VM	O	B-STAT	OCC
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-भारतीय	JJ	O	O	O
-जनता	NN	O	O	O
-पार्टी	NN	O	O	O
-सोचती	VM	O	O	O
-है	VAUX	O	O	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-ये	DEM	O	O	O
-बड़े	JJ	O	O	O
-ठेकेदारों	NN	O	O	O
-और	CC	O	O	O
-बड़े	NNP	O	O	O
-व्यापारियों	NN	O	O	O
-के	PSP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-सोचती	VM	O	B-STAT	OCC
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-"	SYM	O	O	O
-कमलनाथ	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-"	SYM	O	O	O
-आदिवासी	JJ	O	O	O
-भाईयों	NN	O	O	O
-को	PSP	O	O	O
-फिर	RB	O	O	O
-से	PSP	O	O	O
-साहूकारों	NN	O	O	O
-की	PSP	O	O	O
-जरूरत	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-पडे	VM	O	I-MISC	O
-,	SYM	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-उन्होंने	PRP	O	O	O
-एटीएम	NN	O	O	O
-से	PSP	O	O	O
-दस	QC	O	O	O
-हजार	QC	O	O	O
-रुपए	NN	O	O	O
-तक	RP	O	O	O
-निकालने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-रुपे	NN	O	O	O
-कार्ड	NN	O	O	O
-दिया	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-निरस्त	JJ	O	O	O
-वनाधिकार	NN	O	O	O
-पट्टों	NN	O	O	O
-का	PSP	O	O	O
-व्यापक	JJ	O	O	O
-पैमाने	NN	O	O	O
-पर	PSP	O	O	O
-पुनरीक्षण	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आने	VM	O	B-STAT	DES
-वाले	PSP	O	I-STAT	O
-समय	NN	O	O	O
-में	PSP	O	O	O
-जितने	PRP	O	O	O
-भी	RP	O	O	O
-पात्र	NN	O	O	O
-आदिवासी	JJ	O	O	O
-भाई	NN	O	O	O
-होंगे	VM	O	B-MISC	O
-,	SYM	O	O	O
-उन्हें	PRP	O	O	O
-वनाधिकार	NN	O	O	O
-अधिनियम	NN	O	O	O
-के	PSP	O	O	O
-तहत	NN	O	O	O
-पट्टे	VM	O	B-MISC	OCC
-दिए	VAUX	O	I-MISC	O
-जाएंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-"	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-आरोप	NN	O	B-MISC	OCC
-लगाया	VM	O	I-MISC	O
-कि	CC	O	O	O
-लगभग	RB	O	O	O
-साढे	QF	O	O	O
-तीन	QC	O	O	O
-लाख	QC	O	O	O
-पट्टे	NN	O	O	O
-पिछली	JJ	O	O	O
-सरकार	NN	O	O	O
-की	PSP	O	O	O
-वजह	NN	O	O	O
-से	PSP	O	O	O
-निरस्त	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-और	CC	O	O	O
-अब	PRP	O	O	O
-इन	DEM	O	O	O
-सभी	QF	O	O	O
-का	PSP	O	O	O
-पुनरीक्षण	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अनुसूचित	JJ	O	O	O
-जनजाति	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-आरक्षित	JJ	O	O	O
-इस	DEM	O	O	O
-सीट	NN	O	O	O
-पर	PSP	O	O	O
-पूर्व	JJ	O	O	O
-केन्द्रीय	JJ	O	O	O
-मंत्री	NN	O	O	O
-कांतिलाल	XC	O	O	O
-भूरिया	NNP	O	O	O
-(	SYM	O	O	O
-68	QC	O	O	O
-)	SYM	O	O	O
-एवं	CC	O	O	O
-भाजपा	NN	O	O	O
-के	PSP	O	O	O
-भानू	XC	O	O	O
-भूरिया	NNP	O	O	O
-(	SYM	O	O	O
-36	QC	O	O	O
-)	SYM	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-कड़ी	XC	O	O	O
-टक्कर	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भाजपा	NN	O	O	O
-विधायक	JJ	O	O	O
-गुमान	NN	O	O	O
-सिंह	NNP	O	O	O
-डामोर	NN	O	O	O
-के	PSP	O	O	O
-त्यागपत्र	NN	O	O	O
-देने	VM	O	O	O
-से	PSP	O	O	O
-झाबुआ	NN	O	O	O
-सीट	JJ	O	O	O
-वर्तमान	NN	O	O	O
-में	PSP	O	O	O
-खाली	JJ	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-डामोर	NN	O	O	O
-इस	DEM	O	O	O
-साल	NN	O	O	O
-हुए	VM	O	O	O
-लोकसभा	XC	O	O	O
-चुनाव	NN	O	O	O
-में	PSP	O	O	O
-रतलाम-झाबुआ	XC	O	O	O
-सीट	NN	O	O	O
-से	PSP	O	O	O
-सांसद	JJ	O	B-MISC	O
-बन	VM	O	I-MISC	OCC
-गये	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसलिए	CC	O	O	O
-उन्होंने	PRP	O	O	O
-झाबुआ	NN	O	O	O
-विधानसभा	JJ	O	O	O
-सीट	NN	O	O	O
-से	PSP	O	O	O
-इस्तीफा	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-झाबुआ	NN	O	O	O
-विधानसभा	JJ	O	O	O
-सीट	NN	O	O	O
-पर	PSP	O	O	O
-21	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-उपचुनाव	NN	O	B-MISC	OCC
-होगा	VM	O	I-MISC	O
-और	CC	O	O	O
-मतगणना	NN	O	O	O
-24	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-होगी	VM	O	B-MISC	OCC
-.	SYM	O	O	O
+मध्य
+प्रदेश
+के
+मुख्यमंत्री
+कमलनाथ
+ने
+पिछली
+भाजपा
+सरकार
+पर
+आदिवासी
+बहुल
+झाबुआ
+जिले
+के
+विकास
+की
+अनदेखी
+करने
+का
+आरोप
+लगाते
+हुए
+बुधवार
+को
+कहा
+कि
+उनकी
+सरकार
+क्षेत्र
+का
+तेजी
+से
+विकास
+करेगी
+.
+झाबुआ
+विधानसभा
+सीट
+पर
+21
+अक्टूबर
+को
+होने
+वाले
+उपचुनाव
+के
+लिए
+काग्रेस
+प्रत्याशी
+कांतिलाल
+भूरिया
+के
+पक्ष
+में
+रोड़
+शो
+करने
+के
+बाद
+कल्याणपुरा
+गांव
+में
+एक
+जनसभा
+को
+संबोधित
+करते
+हुए
+कमलनाथ
+ने
+कहा
+,
+"
+जो
+काम
+पूर्ववर्ती
+भाजपा
+सरकार
+ने
+15
+साल
+में
+नहीं
+किया
+,
+आप
+मुझे
+मौका
+दीजिए
+,
+मैं
+15
+महीने
+में
+करके
+दिखाऊंगा
+.
+"
+पिछले
+15
+साल
+से
+झाबुआ
+विधानसभा
+सीट
+पर
+भाजपा
+का
+कब्जा
+था
+और
+उस
+दौरान
+भाजपा
+नीत
+सरकार
+ही
+मध्य
+प्रदेश
+में
+थी
+.
+उन्होंने
+कहा
+,
+"
+मुझे
+तो
+मुख्यमंत्री
+बने
+नौ
+महीने
+हुए
+हैं
+.
+सड़क
+बन
+जाएगी
+,
+तालाब
+बन
+जाएगा
+लेकिन
+मुझे
+इन
+नौजवानों
+के
+भविष्य
+की
+चिंता
+है
+.
+आज
+का
+नौजवान
+मजदूरी
+करने
+गुजरात
+जाता
+है
+.
+ये
+कैसा
+मध्य
+प्रदेश
+है
+?
+"
+कमलनाथ
+ने
+कहा
+,
+"
+हम
+ऐसे
+कानून
+बनाएंगे
+कि
+हमारे
+आदिवासी
+सुरक्षित
+रहे
+.
+जब
+हम
+सोचते
+हैं
+तो
+सबसे
+कमजोर
+वर्ग
+के
+बारे
+में
+सोचते
+है
+.
+जब
+भारतीय
+जनता
+पार्टी
+सोचती
+है
+,
+तो
+ये
+बड़े
+ठेकेदारों
+और
+बड़े
+व्यापारियों
+के
+बारे
+में
+सोचती
+है
+.
+"
+कमलनाथ
+ने
+कहा
+,
+"
+आदिवासी
+भाईयों
+को
+फिर
+से
+साहूकारों
+की
+जरूरत
+न
+पडे
+,
+इसके
+लिए
+उन्होंने
+एटीएम
+से
+दस
+हजार
+रुपए
+तक
+निकालने
+के
+लिए
+रुपे
+कार्ड
+दिया
+है
+.
+निरस्त
+वनाधिकार
+पट्टों
+का
+व्यापक
+पैमाने
+पर
+पुनरीक्षण
+किया
+जा
+रहा
+है
+.
+आने
+वाले
+समय
+में
+जितने
+भी
+पात्र
+आदिवासी
+भाई
+होंगे
+,
+उन्हें
+वनाधिकार
+अधिनियम
+के
+तहत
+पट्टे
+दिए
+जाएंगे
+.
+"
+उन्होंने
+आरोप
+लगाया
+कि
+लगभग
+साढे
+तीन
+लाख
+पट्टे
+पिछली
+सरकार
+की
+वजह
+से
+निरस्त
+हो
+गए
+थे
+और
+अब
+इन
+सभी
+का
+पुनरीक्षण
+किया
+जा
+रहा
+है
+.
+अनुसूचित
+जनजाति
+के
+लिए
+आरक्षित
+इस
+सीट
+पर
+पूर्व
+केन्द्रीय
+मंत्री
+कांतिलाल
+भूरिया
+(
+68
+)
+एवं
+भाजपा
+के
+भानू
+भूरिया
+(
+36
+)
+के
+बीच
+कड़ी
+टक्कर
+हो
+सकती
+है
+.
+भाजपा
+विधायक
+गुमान
+सिंह
+डामोर
+के
+त्यागपत्र
+देने
+से
+झाबुआ
+सीट
+वर्तमान
+में
+खाली
+है
+.
+डामोर
+इस
+साल
+हुए
+लोकसभा
+चुनाव
+में
+रतलाम-झाबुआ
+सीट
+से
+सांसद
+बन
+गये
+हैं
+.
+इसलिए
+उन्होंने
+झाबुआ
+विधानसभा
+सीट
+से
+इस्तीफा
+दिया
+है
+.
+झाबुआ
+विधानसभा
+सीट
+पर
+21
+अक्टूबर
+को
+उपचुनाव
+होगा
+और
+मतगणना
+24
+अक्टूबर
+को
+होगी
+.

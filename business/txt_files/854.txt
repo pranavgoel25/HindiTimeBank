@@ -1,291 +1,291 @@
-भारत	NNP	O	O	O
-सरकार	NN	O	O	O
-की	PSP	O	O	O
-साइबरसिक्यॉरिटी	NN	O	O	O
-बॉडी	JJ	O	O	O
-CERT-In	NN	O	O	O
-ने	PSP	O	O	O
-सभी	QF	O	O	O
-नागरिकों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-खतरनाक	JJ	O	O	O
-ऑनलाइन	XC	O	O	O
-कैंपेन	NN	O	O	O
-से	PSP	O	O	O
-जुड़ी	JJ	O	O	O
-चेतावनी	NN	O	O	O
-जारी	JJ	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसमें	PRP	O	O	O
-भारतीय	JJ	O	O	O
-आयकर	VM	O	O	O
-विभाग	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-दिखने	VM	O	B-STAT	DES
-वाले	PSP	O	I-STAT	O
-फेक	QF	O	O	O
-ईमेल	NN	O	O	O
-लोगों	NN	O	O	O
-को	PSP	O	O	O
-भेजे	VM	O	B-MISC	OCC
-जा	VAUX	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सभी	QF	O	O	O
-नागरिक	NN	O	O	O
-आयकर	VM	O	O	O
-विभाग	NN	O	O	O
-से	PSP	O	O	O
-आने	VM	O	B-STAT	DES
-वाले	PSP	O	I-STAT	O
-ईमेल्स	NN	O	O	O
-को	PSP	O	O	O
-गंभीरता	NN	O	O	O
-से	PSP	O	O	O
-लेते	VM	O	B-STAT	O
-हैं	VAUX	O	I-STAT	O
-,	SYM	O	O	O
-इस	DEM	O	O	O
-बात	NN	O	O	O
-का	PSP	O	O	O
-फायदा	NN	O	O	O
-हैकर्स	NN	O	O	O
-उठा	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-ऐसे	DEM	O	O	O
-फेक	NN	O	O	O
-मेल	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-मैलवेयर	JJ	O	O	O
-लोगों	NN	O	O	O
-के	PSP	O	O	O
-सिस्टम	NN	O	O	O
-तक	RP	O	O	O
-पहुंचा	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसे	DEM	O	O	O
-फेक	NN	O	O	O
-इनकम	XC	O	O	O
-टैक्स	XC	O	O	O
-ईमेल्स	NNP	O	O	O
-में	PSP	O	O	O
-से	PSP	O	O	O
-ज्यादातर	JJ	O	O	O
-को	PSP	O	O	O
-'	SYM	O	O	O
-incometaxindia	NN	O	O	O
-[	SYM	O	O	O
-.	SYM	O	O	O
-]	SYM	O	O	O
-info	XC	O	O	O
-’	XC	O	O	O
-डोमेन	XC	O	O	O
-नेम	XC	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-भेजा	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-Cert	NN	O	O	O
-ने	PSP	O	O	O
-पाया	VM	O	B-MISC	REP
-कि	CC	O	O	O
-इन	DEM	O	O	O
-फेक	XC	O	O	O
-ईमेल्स	NNP	O	O	O
-को	PSP	O	O	O
-दो	QC	O	O	O
-तरह	NN	O	O	O
-से	PSP	O	O	O
-भेजा	VM	O	B-MISC	OCC
-जा	VAUX	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पहली	QO	O	O	O
-तरह	NN	O	O	O
-के	PSP	O	O	O
-मेल	NN	O	O	O
-में	PSP	O	O	O
-यूजर्स	NN	O	O	O
-को	PSP	O	O	O
-मेल	NN	O	O	O
-ओपन	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-एक	QC	O	O	O
-अटैचमेंट	NN	O	O	O
-दिखता	VM	O	B-STAT	O
-है	VAUX	O	I-STAT	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-.	SYM	O	O	O
-img	XC	O	O	O
-एक्सटेंशन	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-आता	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-इसमें	PRP	O	O	O
-एक	QC	O	O	O
-मैलिशस	NN	O	O	O
-.	SYM	O	O	O
-pif	JJ	O	O	O
-फाइल	NN	O	O	O
-भी	RP	O	O	O
-छुपी	JJ	O	B-MISC	OCC
-होती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-,	SYM	O	O	O
-दूसरी	QO	O	O	O
-तरह	NN	O	O	O
-के	PSP	O	O	O
-फेक	NN	O	O	O
-ईमेल	XC	O	O	O
-यूजर्स	NNP	O	O	O
-को	PSP	O	O	O
-एक	QC	O	O	O
-फ्रॉड	NN	O	O	O
-डोमेन	XC	O	O	O
-incometaxindia	NNP	O	O	O
-.	SYM	O	O	O
-info	NN	O	O	O
-पर	PSP	O	O	O
-जाने	VM	O	B-STAT	DES
-वाले	PSP	O	I-STAT	O
-लिंक	NN	O	O	O
-पर	PSP	O	O	O
-भेजकर	VM	O	B-MISC	OCC
-शेयरपॉइंट	JJ	O	O	O
-पेज	NN	O	O	O
-की	PSP	O	O	O
-मदद	NN	O	O	O
-से	PSP	O	O	O
-.	SYM	O	O	O
-pif	NN	O	O	O
-फाइल	XC	O	O	O
-डाउनलोड	NNP	O	B-MISC	O
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-कहते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-Cert	NN	O	O	O
-के	PSP	O	O	O
-मुताबिक	JJ	O	O	O
-,	SYM	O	O	O
-लोगों	NN	O	O	O
-को	PSP	O	O	O
-फंसाने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-ऐसे	DEM	O	O	O
-ईमेल्स	NN	O	O	O
-की	PSP	O	O	O
-सबजेक्ट	JJ	O	O	O
-लाइन	NN	O	O	O
-में	PSP	O	O	O
-इनकम	DEM	O	O	O
-टैक्स	NN	O	O	O
-का	PSP	O	O	O
-जिक्र	NN	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसे	DEM	O	O	O
-मेल	NN	O	O	O
-का	PSP	O	O	O
-सब्जेक्ट	NN	O	O	O
-‘	JJ	O	O	O
-Important	NN	O	O	O
-:	SYM	O	O	O
-Income	XC	O	O	O
-Tax	XC	O	O	O
-Outstanding	XC	O	O	O
-Statements	XC	O	O	O
-A.Y	NNP	O	O	O
-2017	QC	O	O	O
--	SYM	O	O	O
-2018	QC	O	O	O
-’	NN	O	O	O
-या	CC	O	O	O
-‘	NN	O	O	O
-Income	JJ	O	O	O
-Tax	NN	O	O	O
-statement	JJ	O	O	O
-’	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसे	DEM	O	O	O
-फेक	NN	O	O	O
-ईमेल	NN	O	O	O
-12	QC	O	O	O
-सितंबर	NNP	O	O	O
-के	PSP	O	O	O
-आसपास	NST	O	O	O
-कई	QF	O	O	O
-लोगों	NN	O	O	O
-को	PSP	O	O	O
-भेजे	VM	O	B-MISC	OCC
-गए	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इन्हें	PRP	O	O	O
-आयकर	VM	O	O	O
-विभाग	NN	O	O	O
-की	PSP	O	O	O
-ओर	PSP	O	O	O
-से	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-भेजा	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-और	CC	O	O	O
-इनका	PRP	O	O	O
-मकसद	NN	O	O	O
-केवल	RP	O	O	O
-लोगों	NN	O	O	O
-को	PSP	O	O	O
-अपना	PRP	O	O	O
-शिकार	NN	O	B-MISC	OCC
-बनाना	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जरूरी	JJ	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-कि	CC	O	O	O
-कोई	PRP	O	O	O
-भी	RP	O	O	O
-अनट्रस्टेड	JJ	O	O	O
-ईमेल	NN	O	O	O
-ओपन	JJ	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-करें	VM	O	I-MISC	O
-और	CC	O	O	O
-गलती	NN	O	O	O
-से	PSP	O	O	O
-भी	RP	O	O	O
-इसका	PRP	O	O	O
-कोई	PRP	O	O	O
-अटैचमेंट	JJ	O	O	O
-डाउनलोड	NN	O	B-MISC	O
-न	NEG	O	I-MISC	OCC
-हो	VM	O	I-MISC	O
-.	SYM	O	O	O
+भारत
+सरकार
+की
+साइबरसिक्यॉरिटी
+बॉडी
+CERT-In
+ने
+सभी
+नागरिकों
+के
+लिए
+खतरनाक
+ऑनलाइन
+कैंपेन
+से
+जुड़ी
+चेतावनी
+जारी
+की
+है
+,
+जिसमें
+भारतीय
+आयकर
+विभाग
+की
+ओर
+से
+दिखने
+वाले
+फेक
+ईमेल
+लोगों
+को
+भेजे
+जा
+रहे
+हैं
+.
+सभी
+नागरिक
+आयकर
+विभाग
+से
+आने
+वाले
+ईमेल्स
+को
+गंभीरता
+से
+लेते
+हैं
+,
+इस
+बात
+का
+फायदा
+हैकर्स
+उठा
+रहे
+हैं
+और
+ऐसे
+फेक
+मेल
+के
+साथ
+मैलवेयर
+लोगों
+के
+सिस्टम
+तक
+पहुंचा
+रहे
+हैं
+.
+ऐसे
+फेक
+इनकम
+टैक्स
+ईमेल्स
+में
+से
+ज्यादातर
+को
+'
+incometaxindia
+[
+.
+]
+info
+’
+डोमेन
+नेम
+के
+साथ
+भेजा
+गया
+है
+.
+Cert
+ने
+पाया
+कि
+इन
+फेक
+ईमेल्स
+को
+दो
+तरह
+से
+भेजा
+जा
+रहा
+है
+.
+पहली
+तरह
+के
+मेल
+में
+यूजर्स
+को
+मेल
+ओपन
+करने
+पर
+एक
+अटैचमेंट
+दिखता
+है
+,
+जो
+.
+img
+एक्सटेंशन
+के
+साथ
+आता
+है
+और
+इसमें
+एक
+मैलिशस
+.
+pif
+फाइल
+भी
+छुपी
+होती
+है
+.
+वहीं
+,
+दूसरी
+तरह
+के
+फेक
+ईमेल
+यूजर्स
+को
+एक
+फ्रॉड
+डोमेन
+incometaxindia
+.
+info
+पर
+जाने
+वाले
+लिंक
+पर
+भेजकर
+शेयरपॉइंट
+पेज
+की
+मदद
+से
+.
+pif
+फाइल
+डाउनलोड
+करने
+के
+लिए
+कहते
+हैं
+.
+Cert
+के
+मुताबिक
+,
+लोगों
+को
+फंसाने
+के
+लिए
+ऐसे
+ईमेल्स
+की
+सबजेक्ट
+लाइन
+में
+इनकम
+टैक्स
+का
+जिक्र
+होता
+है
+.
+ऐसे
+मेल
+का
+सब्जेक्ट
+‘
+Important
+:
+Income
+Tax
+Outstanding
+Statements
+A.Y
+2017
+-
+2018
+’
+या
+‘
+Income
+Tax
+statement
+’
+हो
+सकता
+है
+.
+ऐसे
+फेक
+ईमेल
+12
+सितंबर
+के
+आसपास
+कई
+लोगों
+को
+भेजे
+गए
+हैं
+.
+इन्हें
+आयकर
+विभाग
+की
+ओर
+से
+नहीं
+भेजा
+गया
+और
+इनका
+मकसद
+केवल
+लोगों
+को
+अपना
+शिकार
+बनाना
+है
+.
+जरूरी
+है
+कि
+कोई
+भी
+अनट्रस्टेड
+ईमेल
+ओपन
+न
+करें
+और
+गलती
+से
+भी
+इसका
+कोई
+अटैचमेंट
+डाउनलोड
+न
+हो
+.

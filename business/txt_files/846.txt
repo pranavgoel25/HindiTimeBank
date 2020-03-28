@@ -1,395 +1,395 @@
-विद्युत-बैटरी	JJ	O	O	O
-चालित	JJ	O	O	O
-वाहनों	NN	O	O	O
-को	PSP	O	O	O
-प्रोत्साहन	NN	O	B-MISC	OCC
-देने	VM	O	I-MISC	O
-से	PSP	O	O	O
-जुडे़	JJ	O	O	O
-मुद्दों	NN	O	O	O
-पर	PSP	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-आयोजित	JJ	O	O	O
-एक	QC	O	O	O
-संगोष्ठी	NN	O	O	O
-में	PSP	O	O	O
-विशेषज्ञों	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-प्रौद्योगिकी	NN	O	O	O
-की	PSP	O	O	O
-मौजूदा	JJ	O	O	O
-कमजोरियों	NN	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	O	O
-विद्युत	XC	O	O	O
-वाहनों	NN	O	O	O
-की	PSP	O	O	O
-प्रगति	NN	O	O	O
-को	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-रोका	VM	O	I-MISC	O
-जाना	VAUX	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आयोजकों	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-जारी	JJ	O	O	OCC
-विज्ञप्ति	NN	O	O	O
-के	PSP	O	O	O
-अनुसार	PSP:?	O	O	O
-वक्ताओं	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-आने	VM	O	O	O
-वाला	PSP	O	O	O
-समय	NN	O	O	O
-प्रदूषण	NN	O	O	O
-रहित	JJ	O	O	O
-वाहनों	NN	O	O	O
-का	PSP	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-विद्युत	XC	O	O	O
-वाहनों	NN	O	O	O
-(	SYM	O	O	O
-ईपी	NN	O	O	O
-)	SYM	O	O	O
-को	PSP	O	O	O
-प्रोत्साहित	JJ	O	B-MISC	O
-करने	VM	O	I-MISC	O
-वाली	PSP	O	O	O
-पहल	NN	O	O	OCC
-शुरू	NN	O	B-STAT	O
-करने	VM	O	I-STAT	O
-वाले	PSP	O	I-STAT	O
-बौद्धिक	JJ	O	O	O
-संगठन	NN	O	O	O
-दी	VM	O	O	O
-ब्ल्यू	XC	O	O	O
-सर्किल	NNP	O	O	O
-,	SYM	O	O	O
-निवेश	NN	O	O	O
-बैंक	XC	O	O	O
-एवेंडस	XC	O	O	O
-कैपिटल	NNP	O	O	O
-और	CC	O	O	O
-हीरो	XC	O	O	O
-इलेक्ट्रिक	NNP	O	O	O
-के	PSP	O	O	O
-संयुक्त	JJ	O	O	O
-प्रयास	NN	O	O	O
-से	PSP	O	O	O
-गुरुग्राम	NN	O	O	O
-में	PSP	O	O	O
-आयोजित	JJ	O	O	O
-इस	DEM	O	O	O
-चर्चा	NN	O	O	O
-में	PSP	O	O	O
-नीति	NN	O	O	O
-आयोग	NN	O	O	O
-के	PSP	O	O	O
-यातायात	NN	O	O	O
-एवं	CC	O	O	O
-परिवहन	XC	O	O	O
-प्रणाली	NN	O	O	O
-विषय	NN	O	O	O
-के	PSP	O	O	O
-प्रधान	JJ	O	O	O
-सलाहकार	NN	O	O	O
-एवं	CC	O	O	O
-मिशन	NN	O	O	O
-निदेशक	JJ	O	O	O
-अनिल	XC	O	O	O
-श्रीवास्तव	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-आने	VM	O	O	O
-वाला	PSP	O	O	O
-समय	NN	O	O	O
-कम	QF	O	O	O
-उत्सर्जन	NN	O	O	O
-वाले	PSP	O	O	O
-वाहनों	NN	O	O	O
-का	PSP	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-श्रीवास्तव	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-आवागमन	NN	O	O	O
-के	PSP	O	O	O
-साधनों	NN	O	O	O
-को	PSP	O	O	O
-अब	PRP	O	O	O
-आमजन	NN	O	O	O
-की	PSP	O	O	O
-अर्थव्यवस्था	NN	O	O	O
-के	PSP	O	O	O
-अनुसार	PSP:?	O	O	O
-बदलना	VM	O	B-MISC	OCC
-होगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-,	SYM	O	O	O
-‘	NN	O	O	O
-हमें	PRP	O	O	O
-इस	DEM	O	O	O
-बात	NN	O	O	O
-पर	PSP	O	O	O
-गौर	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-युगों	NN	O	O	O
-से	PSP	O	O	O
-यातायात	NN	O	O	O
-के	PSP	O	O	O
-साधनों	NN	O	O	O
-/	SYM	O	O	O
-प्रणालियों	NN	O	O	O
-के	PSP	O	O	O
-विकास	NN	O	O	O
-की	PSP	O	O	O
-अपनी	PRP	O	O	O
-अपनी	PRP	O	O	O
-पृष्ठभूमि	NN	O	B-MISC	OCC
-रही	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हाल	NN	O	O	O
-में	PSP	O	O	O
-इसका	PRP	O	O	O
-विकास	NN	O	O	O
-औपनिवेशिक	JJ	O	O	O
-शोषण	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	B-MISC	O
-किया	VM	O	I-MISC	OCC
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-इसे	PRP	O	O	O
-आम	JJ	O	O	O
-लोगों	NN	O	O	O
-की	PSP	O	O	O
-अर्थव्यवस्था	NN	O	O	O
-के	PSP	O	O	O
-अनुसार	PSP:?	O	O	O
-बदलना	VM	O	B-MISC	OCC
-होगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’	XC	O	O	O
-श्रीवास्तव	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘	NN	O	O	O
-यह	PRP	O	O	O
-साफ	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-कि	CC	O	O	O
-आने	VM	O	O	O
-वाला	PSP	O	O	O
-समय	NN	O	O	O
-अल्प	JJ	O	O	O
-उत्सर्जन	NN	O	O	O
-वाले	PSP	O	O	O
-वाहनों	NN	O	O	O
-का	PSP	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-’	XC	O	O	O
-वायगॉन	XC	O	O	O
-इंडिया	NNP	O	O	O
-के	PSP	O	O	O
-प्रबंध	NN	O	O	O
-निदेशक	JJ	O	O	O
-पवन	XC	O	O	O
-चौधरी	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-बिजली	NN	O	O	O
-के	PSP	O	O	O
-बल्ब	NN	O	O	O
-और	CC	O	O	O
-दूसरे	QO	O	O	O
-उपकरणों	NN	O	O	O
-की	PSP	O	O	O
-तरह	PSP	O	O	O
-बिजली	NN	O	O	O
-के	PSP	O	O	O
-वाहन	NN	O	O	O
-को	PSP	O	O	O
-चलन	NN	O	O	O
-में	PSP	O	O	O
-लाने	VM	O	B-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-बुनियादी	JJ	O	O	O
-सुविधाओं	NN	O	O	O
-का	PSP	O	O	O
-विकास	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘	XC	O	O	O
-ईवी	XC	O	O	O
-प्रौद्योगिकी	NN	O	O	O
-की	PSP	O	O	O
-मौजूदा	JJ	O	O	O
-कमजोरियों	NN	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	O	O
-इसकी	PRP	O	O	O
-प्रगति	NN	O	O	O
-को	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-रोका	VM	O	I-MISC	O
-जाना	VAUX	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-जैसे	PRP	O	O	O
-बैंक	NN	O	O	O
-अपने	PRP	O	O	O
-कारोबार	NN	O	O	O
-को	PSP	O	O	O
-संभावित	JJ	O	O	O
-चुनौती	NN	O	O	O
-देने	VM	O	O	O
-वाली	PSP	O	O	O
-ब्लाक	NN	O	O	O
-चेन	NN	O	O	O
-प्रौद्योगिकी	NN	O	O	O
-का	PSP	O	O	O
-खुद	PRP	O	O	O
-विकास	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-वैसे	PRP	O	O	O
-ही	RP	O	O	O
-डीजल-पेट्रोल	JJ	O	O	O
-इंजन	NN	O	O	O
-वाले	PSP	O	O	O
-वाहनों	NN	O	O	O
-के	PSP	O	O	O
-विनिर्माताओं	NN	O	O	O
-को	PSP	O	O	O
-ईवी	XC	O	O	O
-के	PSP	O	O	O
-विनिर्माण	NN	O	O	O
-पर	PSP	O	O	O
-और	CC	O	O	O
-ज्यादा	QF	O	O	O
-जोर	NN	O	B-MISC	OCC
-लगाना	VM	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आब्जर्वर	NN	O	O	O
-रिसर्च	XC	O	O	O
-फाउंडेशन	NN	O	O	O
-के	PSP	O	O	O
-चेयरमैन	NN	O	O	O
-संजय	XC	O	O	O
-जोशी	NN	O	O	O
-ने	PSP	O	O	O
-भी	RP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-आने	VM	O	O	O
-वाला	PSP	O	O	O
-समय	NN	O	O	O
-तो	CC	O	O	O
-ईवी	XC	O	O	O
-जैसे	CC	O	O	O
-प्रदूषणमुक्त	JJ	O	O	O
-वाहनों	NN	O	O	O
-का	PSP	O	O	O
-ही	RP	O	O	O
-होगा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-हीरो	XC	O	O	O
-इलेक्ट्रिक	NNP	O	O	O
-के	PSP	O	O	O
-प्रबंध	NN	O	O	O
-निदेशक	JJ	O	O	O
-नवीन	JJ	O	O	O
-मुंजाल	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘	NN	O	O	O
-हम	PRP	O	O	O
-विद्युत	XC	O	O	O
-वाहनों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-अनुकूल	JJ	O	O	O
-परिस्थितियां	NN	O	O	O
-बनाने	VM	O	B-MISC	OCC
-में	PSP	O	I-MISC	O
-लगे	VM	O	I-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हम	PRP	O	O	O
-चुनौतियों	NN	O	O	O
-को	PSP	O	O	O
-पार	NN	O	O	O
-पाने	VM	O	O	OCC
-में	PSP	O	O	O
-लगे	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-ईवी	XC	O	O	O
-के	PSP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-अभी	PRP	O	O	O
-बहुत	INTF	O	O	O
-भ्रांतियां	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-जो	PRP	O	O	O
-इसके	PRP	O	O	O
-बाजार	NN	O	O	O
-विस्तार	NN	O	O	O
-में	PSP	O	O	O
-बाधा	NN	O	B-MISC	OCC
-बन	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-लोगों	NN	O	O	O
-को	PSP	O	O	O
-लगता	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इसे	PRP	O	O	O
-कैसे	WQ	O	O	O
-चार्ज	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-कैसे	WQ	O	O	O
-इस्तेमाल	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+विद्युत-बैटरी
+चालित
+वाहनों
+को
+प्रोत्साहन
+देने
+से
+जुडे़
+मुद्दों
+पर
+बुधवार
+को
+आयोजित
+एक
+संगोष्ठी
+में
+विशेषज्ञों
+ने
+कहा
+कि
+प्रौद्योगिकी
+की
+मौजूदा
+कमजोरियों
+के
+कारण
+विद्युत
+वाहनों
+की
+प्रगति
+को
+नहीं
+रोका
+जाना
+चाहिए
+.
+आयोजकों
+की
+ओर
+से
+जारी
+विज्ञप्ति
+के
+अनुसार
+वक्ताओं
+ने
+कहा
+कि
+आने
+वाला
+समय
+प्रदूषण
+रहित
+वाहनों
+का
+है
+.
+विद्युत
+वाहनों
+(
+ईपी
+)
+को
+प्रोत्साहित
+करने
+वाली
+पहल
+शुरू
+करने
+वाले
+बौद्धिक
+संगठन
+दी
+ब्ल्यू
+सर्किल
+,
+निवेश
+बैंक
+एवेंडस
+कैपिटल
+और
+हीरो
+इलेक्ट्रिक
+के
+संयुक्त
+प्रयास
+से
+गुरुग्राम
+में
+आयोजित
+इस
+चर्चा
+में
+नीति
+आयोग
+के
+यातायात
+एवं
+परिवहन
+प्रणाली
+विषय
+के
+प्रधान
+सलाहकार
+एवं
+मिशन
+निदेशक
+अनिल
+श्रीवास्तव
+ने
+कहा
+कि
+आने
+वाला
+समय
+कम
+उत्सर्जन
+वाले
+वाहनों
+का
+है
+.
+श्रीवास्तव
+ने
+कहा
+कि
+आवागमन
+के
+साधनों
+को
+अब
+आमजन
+की
+अर्थव्यवस्था
+के
+अनुसार
+बदलना
+होगा
+.
+उन्होंने
+,
+‘
+हमें
+इस
+बात
+पर
+गौर
+करना
+चाहिए
+कि
+युगों
+से
+यातायात
+के
+साधनों
+/
+प्रणालियों
+के
+विकास
+की
+अपनी
+अपनी
+पृष्ठभूमि
+रही
+है
+.
+हाल
+में
+इसका
+विकास
+औपनिवेशिक
+शोषण
+के
+लिए
+किया
+गया
+था
+.
+अब
+इसे
+आम
+लोगों
+की
+अर्थव्यवस्था
+के
+अनुसार
+बदलना
+होगा
+.
+’
+श्रीवास्तव
+ने
+कहा
+,
+‘
+यह
+साफ
+है
+कि
+आने
+वाला
+समय
+अल्प
+उत्सर्जन
+वाले
+वाहनों
+का
+है
+.
+’
+वायगॉन
+इंडिया
+के
+प्रबंध
+निदेशक
+पवन
+चौधरी
+ने
+कहा
+कि
+बिजली
+के
+बल्ब
+और
+दूसरे
+उपकरणों
+की
+तरह
+बिजली
+के
+वाहन
+को
+चलन
+में
+लाने
+के
+लिए
+बुनियादी
+सुविधाओं
+का
+विकास
+हो
+जाएगा
+.
+उन्होंने
+कहा
+,
+‘
+ईवी
+प्रौद्योगिकी
+की
+मौजूदा
+कमजोरियों
+के
+कारण
+इसकी
+प्रगति
+को
+नहीं
+रोका
+जाना
+चाहिए
+.
+उन्होंने
+कहा
+कि
+जैसे
+बैंक
+अपने
+कारोबार
+को
+संभावित
+चुनौती
+देने
+वाली
+ब्लाक
+चेन
+प्रौद्योगिकी
+का
+खुद
+विकास
+कर
+रहे
+हैं
+वैसे
+ही
+डीजल-पेट्रोल
+इंजन
+वाले
+वाहनों
+के
+विनिर्माताओं
+को
+ईवी
+के
+विनिर्माण
+पर
+और
+ज्यादा
+जोर
+लगाना
+चाहिए
+.
+आब्जर्वर
+रिसर्च
+फाउंडेशन
+के
+चेयरमैन
+संजय
+जोशी
+ने
+भी
+कहा
+कि
+आने
+वाला
+समय
+तो
+ईवी
+जैसे
+प्रदूषणमुक्त
+वाहनों
+का
+ही
+होगा
+.
+हीरो
+इलेक्ट्रिक
+के
+प्रबंध
+निदेशक
+नवीन
+मुंजाल
+ने
+कहा
+,
+‘
+हम
+विद्युत
+वाहनों
+के
+लिए
+अनुकूल
+परिस्थितियां
+बनाने
+में
+लगे
+हैं
+.
+हम
+चुनौतियों
+को
+पार
+पाने
+में
+लगे
+हैं
+.
+उन्होंने
+कहा
+कि
+ईवी
+के
+बारे
+में
+अभी
+बहुत
+भ्रांतियां
+है
+जो
+इसके
+बाजार
+विस्तार
+में
+बाधा
+बन
+रही
+हैं
+.
+लोगों
+को
+लगता
+है
+कि
+इसे
+कैसे
+चार्ज
+किया
+जाएगा
+,
+कैसे
+इस्तेमाल
+किया
+जाएगा
+.

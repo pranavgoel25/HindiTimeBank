@@ -1,261 +1,261 @@
-कांग्रेस	NN	O	O	O
-के	PSP	O	O	O
-राष्ट्रीय	JJ	O	O	O
-महासचिव	XC	O	O	O
-ज्योतिरादित्य	XC	O	O	O
-सिंधिया	NNP	O	O	O
-ने	PSP	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-कांग्रेस	NN	O	O	O
-को	PSP	O	O	O
-आत्म	XC	O	O	O
-अवलोकन	NN	O	O	O
-की	PSP	O	O	O
-जरूरत	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-और	CC	O	O	O
-पार्टी	NN	O	O	O
-की	PSP	O	O	O
-आज	NN	O	O	O
-जो	PRP	O	O	O
-स्थिति	NN	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-उसका	PRP	O	O	O
-जायजा	NN	O	O	O
-लेकर	VM	O	O	O
-सुधार	NN	O	B-MISC	O
-करना	VM	O	I-MISC	O
-समय	NN	O	O	O
-की	PSP	O	O	O
-मांग	NN	O	B-MISC	OCC
-है	VM	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-अलावा	PSP:?	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-महाराष्ट्र	NN	O	O	O
-में	PSP	O	O	O
-होने	VM	O	B-STAT	O
-वाले	PSP	O	O	O
-विधानसभा	JJ	O	O	O
-चुनाव	NN	O	O	O
-में	PSP	O	O	O
-कांग्रेस	NN	O	O	O
-को	PSP	O	O	O
-सफलता	NN	O	B-MISC	O
-मिलेगी	VM	O	I-MISC	OCC
-और	CC	O	O	O
-हमारी	PRP	O	O	O
-पार्टी	NN	O	O	O
-वहां	PRP	O	O	O
-पर	PSP	O	O	O
-सत्ता	NN	O	B-MISC	OCC
-में	PSP	O	I-MISC	O
-आएगी	VM	O	I-MISC	OCC
-.	SYM	O	O	O
-कांग्रेस	NN	O	O	O
-नेता	NN	O	O	O
-सलमान	JJ	O	O	O
-खुर्शीद	NN	O	O	O
-द्वारा	PSP	O	O	O
-कांग्रेस	XC	O	O	O
-पार्टी	NN	O	O	O
-की	PSP	O	O	O
-खराब	JJ	O	O	O
-स्थिति	NN	O	O	O
-की	PSP	O	O	O
-बात	NN	O	O	O
-कहने	VM	O	B-MISC	O
-पर	PSP	O	O	O
-पूछे	VM	O	B-MISC	OCC
-गये	VAUX	O	I-MISC	O
-सवाल	NN	O	O	O
-के	PSP	O	O	O
-जवाब	NN	O	O	O
-में	PSP	O	O	O
-सिंधिया	NNP	O	O	O
-ने	PSP	O	O	O
-पहले	NST	O	O	O
-तो	RP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-वह	PRP	O	O	O
-किसी	PRP	O	O	O
-के	PSP	O	O	O
-बयान	NN	O	O	O
-पर	PSP	O	O	O
-प्रतिक्रिया	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-देते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-इसके	PRP	O	O	O
-तुरंत	RB	O	O	O
-बाद	NST	O	O	O
-उन्होंने	PRP	O	O	O
-आगे	NST	O	O	O
-कहा	VM	O	B-MISC	O
-,	SYM	O	O	O
-‘‘	NN	O	O	O
-लेकिन	CC	O	O	O
-यह	PRP	O	O	O
-सही	JJ	O	O	O
-बात	NN	O	O	O
-है	VM	O	B-STAT	O
-कि	CC	O	O	O
-कांग्रेस	NN	O	O	O
-को	PSP	O	O	O
-आत्म	XC	O	O	O
-अवलोकन	NN	O	O	O
-की	PSP	O	O	O
-जरूरत	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-पार्टी	NN	O	O	O
-की	PSP	O	O	O
-जो	DEM	O	O	O
-स्थिति	NN	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-उसमें	PRP	O	O	O
-जायजा	NN	O	B-MISC	O
-लेकर	VM	O	I-MISC	O
-सुधार	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-और	CC	O	O	O
-यह	DEM	O	O	O
-समय	NN	O	O	O
-की	PSP	O	O	O
-मांग	NN	O	B-MISC	OCC
-है	VM	O	I-MISC	O
-.	SYM	O	O	O
-’’	NN	O	O	O
-इसके	PRP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-महाराष्ट्र	NN	O	O	O
-विधानसभा	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-इस	DEM	O	O	O
-महीने	NN	O	O	O
-होने	VM	O	O	O
-वाले	PSP	O	O	O
-चुनाव	NN	O	O	O
-के	PSP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-सिंधिया	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘‘	NN	O	O	O
-मेरा	PRP	O	O	O
-काम	NN	O	O	O
-वहां	PRP	O	O	O
-स्क्रीनिंग	XC	O	O	O
-कमेटी	NNP	O	O	O
-तक	RP	O	O	O
-सीमित	JJ	O	B-MISC	OCC
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-वहां	PRP	O	O	O
-पर	PSP	O	O	O
-वरिष्ठ	JJ	O	O	O
-नेता	NN	O	O	O
-मल्लिकानुर्जन	NN	O	O	O
-खड़गे	VM	O	B-MISC	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-प्रदेश	NN	O	O	O
-अध्यक्ष	NN	O	O	O
-और	CC	O	O	O
-कई	QF	O	O	O
-वरिष्ठ	JJ	O	O	O
-नेता	NN	O	O	O
-हैं	VM	O	B-STAT	O
-.	SYM	O	O	O
-सभी	QF	O	O	O
-नेता	NN	O	O	O
-मिलकर	VM	O	O	O
-काम	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-कांग्रेस	NN	O	O	O
-को	PSP	O	O	O
-वहां	PRP	O	O	O
-सफलता	NN	O	B-MISC	OCC
-मिलेगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-’’	NN	O	O	O
-उल्लेखनीय	JJ	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-कि	CC	O	O	O
-सिंधिया	NNP	O	O	O
-एक	QC	O	O	O
-हफ्ते	NN	O	O	O
-के	PSP	O	O	O
-ग्वालियर-चंबल	NN	O	O	O
-संभाग	NN	O	O	O
-के	PSP	O	O	O
-दौरे	NN	O	O	O
-पर	PSP	O	O	O
-हैं	VM	O	B-STAT	O
-और	CC	O	O	O
-इस	PRP	O	O	O
-दौरान	NST	O	O	O
-वे	PRP	O	O	O
-कई	QF	O	O	O
-सामाजिक	JJ	O	O	O
-एवं	CC	O	O	O
-राजनीतिक	JJ	O	O	O
-कार्यक्रमों	NN	O	O	O
-में	PSP	O	O	O
-हिस्सा	NN	O	O	O
-ले	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-गुरुवार	NN	O	O	O
-से	PSP	O	O	O
-भिंड	NN	O	O	O
-,	SYM	O	O	O
-मुरैना	NN	O	O	O
-,	SYM	O	O	O
-श्योपुर	NNP	O	O	O
-और	CC	O	O	O
-शिवपुरी	XC	O	O	O
-जिले	NNP	O	O	O
-के	PSP	O	O	O
-दौरे	NN	O	O	O
-पर	PSP	O	O	O
-रहेंगे	VM	O	B-MISC	OCC
-और	CC	O	O	O
-इस	PRP	O	O	O
-दौरान	NST	O	O	O
-वे	PRP	O	O	O
-पार्टी	NN	O	O	O
-कार्यकर्ताओं	NN	O	O	O
-और	CC	O	O	O
-आम	JJ	O	O	O
-लोगों	NN	O	O	O
-से	PSP	O	O	O
-मिलकर	VM	O	O	O
-उनकी	PRP	O	O	O
-समस्याओं	NN	O	O	O
-से	PSP	O	O	O
-रूबरू	NN	O	B-MISC	OCC
-होंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
+कांग्रेस
+के
+राष्ट्रीय
+महासचिव
+ज्योतिरादित्य
+सिंधिया
+ने
+बुधवार
+को
+कहा
+कि
+कांग्रेस
+को
+आत्म
+अवलोकन
+की
+जरूरत
+है
+और
+पार्टी
+की
+आज
+जो
+स्थिति
+है
+,
+उसका
+जायजा
+लेकर
+सुधार
+करना
+समय
+की
+मांग
+है
+.
+इसके
+अलावा
+उन्होंने
+कहा
+कि
+महाराष्ट्र
+में
+होने
+वाले
+विधानसभा
+चुनाव
+में
+कांग्रेस
+को
+सफलता
+मिलेगी
+और
+हमारी
+पार्टी
+वहां
+पर
+सत्ता
+में
+आएगी
+.
+कांग्रेस
+नेता
+सलमान
+खुर्शीद
+द्वारा
+कांग्रेस
+पार्टी
+की
+खराब
+स्थिति
+की
+बात
+कहने
+पर
+पूछे
+गये
+सवाल
+के
+जवाब
+में
+सिंधिया
+ने
+पहले
+तो
+कहा
+कि
+वह
+किसी
+के
+बयान
+पर
+प्रतिक्रिया
+नहीं
+देते
+हैं
+.
+हालांकि
+,
+इसके
+तुरंत
+बाद
+उन्होंने
+आगे
+कहा
+,
+‘‘
+लेकिन
+यह
+सही
+बात
+है
+कि
+कांग्रेस
+को
+आत्म
+अवलोकन
+की
+जरूरत
+है
+.
+पार्टी
+की
+जो
+स्थिति
+है
+,
+उसमें
+जायजा
+लेकर
+सुधार
+करना
+चाहिए
+और
+यह
+समय
+की
+मांग
+है
+.
+’’
+इसके
+साथ
+ही
+महाराष्ट्र
+विधानसभा
+के
+लिए
+इस
+महीने
+होने
+वाले
+चुनाव
+के
+बारे
+में
+सिंधिया
+ने
+कहा
+,
+‘‘
+मेरा
+काम
+वहां
+स्क्रीनिंग
+कमेटी
+तक
+सीमित
+था
+.
+वहां
+पर
+वरिष्ठ
+नेता
+मल्लिकानुर्जन
+खड़गे
+के
+साथ
+प्रदेश
+अध्यक्ष
+और
+कई
+वरिष्ठ
+नेता
+हैं
+.
+सभी
+नेता
+मिलकर
+काम
+कर
+रहे
+हैं
+और
+कांग्रेस
+को
+वहां
+सफलता
+मिलेगी
+.
+’’
+उल्लेखनीय
+है
+कि
+सिंधिया
+एक
+हफ्ते
+के
+ग्वालियर-चंबल
+संभाग
+के
+दौरे
+पर
+हैं
+और
+इस
+दौरान
+वे
+कई
+सामाजिक
+एवं
+राजनीतिक
+कार्यक्रमों
+में
+हिस्सा
+ले
+रहे
+हैं
+.
+वह
+गुरुवार
+से
+भिंड
+,
+मुरैना
+,
+श्योपुर
+और
+शिवपुरी
+जिले
+के
+दौरे
+पर
+रहेंगे
+और
+इस
+दौरान
+वे
+पार्टी
+कार्यकर्ताओं
+और
+आम
+लोगों
+से
+मिलकर
+उनकी
+समस्याओं
+से
+रूबरू
+होंगे
+.

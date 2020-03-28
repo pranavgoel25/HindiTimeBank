@@ -1,104 +1,104 @@
-जवाहर	XC	O	O	O
-लाल	XC	O	O	O
-नेहरू	NNP	O	O	O
-विश्वविद्यालय	NN	O	O	O
-के	PSP	O	O	O
-पूर्व	NST	O	O	O
-छात्र	NN	O	O	O
-नेता	XC	O	O	O
-उमर	XC	O	O	O
-खालिद	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-पिछले	JJ	B	O	O
-साल	NN	I	O	O
-दिल्ली	NNP	O	O	O
-में	PSP	O	O	O
-मारपीट	NN	O	B-STAT	DES
-करने	VM	O	I-STAT	O
-वाले	PSP	O	I-STAT	O
-नवीन	JJ	O	O	O
-दलाल	NN	O	O	O
-को	PSP	O	O	O
-शिवसेना	NN	O	O	O
-ने	PSP	O	O	O
-हरियाणा	NNP	O	O	O
-की	PSP	O	O	O
-बहादुरगढ़	NN	O	O	O
-विधानसभा	JJ	O	O	O
-सीट	NN	O	O	O
-से	PSP	O	O	O
-चुनाव	NN	O	O	O
-मैदान	NN	O	O	O
-में	PSP	O	O	O
-उतारा	VM	O	B-STAT	OCC
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-पार्टी	NN	O	O	O
-द्वारा	PSP	O	O	O
-उम्मीदवार	NN	O	O	O
-बनाए	VM	O	B-MISC	OCC
-जाने	VAUX	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-नवीन	JJ	O	O	O
-दलाल	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-उन्होंने	PRP	O	O	O
-6	QC	B	O	O
-महीने	NN	I	O	O
-पहले	NST	O	O	O
-शिवसेना	NN	O	O	O
-की	PSP	O	O	O
-सदस्यता	NN	O	B-MISC	OCC
-ली	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-राज्य	NN	O	O	O
-के	PSP	O	O	O
-प्रमुख	JJ	O	O	O
-दलों	NN	O	O	O
-की	PSP	O	O	O
-आलोचना	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-नवीन	NN	O	O	O
-ने	PSP	O	O	O
-यह	PRP	O	O	O
-भी	RP	O	O	O
-कहा	VM	O	B-MISC	OCC
-कि	CC	O	O	O
-वह	PRP	O	O	O
-शिवसेना	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-इसलिए	PSP	O	O	O
-आए	VM	O	B-MISC	OCC
-क्योंकि	CC	O	O	O
-वह	PRP	O	O	O
-मानते	VM	O	B-MISC	REP
-हैं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-बीजेपी	NNP	O	O	O
-और	CC	O	O	O
-कांग्रेस	NN	O	O	O
-जैसी	PSP	O	O	O
-पार्टियां	NN	O	O	O
-गाय	XC	O	O	O
-,	SYM	O	O	O
-किसान	NN	O	O	O
-,	SYM	O	O	O
-शहीद	NN	O	O	O
-और	CC	O	O	O
-गरीबों	NN	O	O	O
-के	PSP	O	O	O
-नाम	NN	O	O	O
-पर	PSP	O	O	O
-केवल	RP	O	O	O
-राजनीति	NN	O	B-MISC	OCC
-करती	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+जवाहर
+लाल
+नेहरू
+विश्वविद्यालय
+के
+पूर्व
+छात्र
+नेता
+उमर
+खालिद
+के
+साथ
+पिछले
+साल
+दिल्ली
+में
+मारपीट
+करने
+वाले
+नवीन
+दलाल
+को
+शिवसेना
+ने
+हरियाणा
+की
+बहादुरगढ़
+विधानसभा
+सीट
+से
+चुनाव
+मैदान
+में
+उतारा
+है
+.
+पार्टी
+द्वारा
+उम्मीदवार
+बनाए
+जाने
+के
+बाद
+नवीन
+दलाल
+ने
+कहा
+कि
+उन्होंने
+6
+महीने
+पहले
+शिवसेना
+की
+सदस्यता
+ली
+थी
+.
+वहीं
+राज्य
+के
+प्रमुख
+दलों
+की
+आलोचना
+करते
+हुए
+नवीन
+ने
+यह
+भी
+कहा
+कि
+वह
+शिवसेना
+के
+साथ
+इसलिए
+आए
+क्योंकि
+वह
+मानते
+हैं
+कि
+बीजेपी
+और
+कांग्रेस
+जैसी
+पार्टियां
+गाय
+,
+किसान
+,
+शहीद
+और
+गरीबों
+के
+नाम
+पर
+केवल
+राजनीति
+करती
+हैं
+.

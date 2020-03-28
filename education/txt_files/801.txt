@@ -1,259 +1,259 @@
-दिल्ली	NNP	O	O	O
-के	PSP	O	O	O
-सरकारी	JJ	O	O	O
-स्कूलों	NN	O	O	O
-के	PSP	O	O	O
-1	QC	O	O	O
-लाख	QC	O	O	O
-से	PSP	O	O	O
-ज्यादा	QF	O	O	O
-स्टूडेंट्स	NN	O	O	O
-को	PSP	O	O	O
-अब	PRP	O	O	O
-तक	RP	O	O	O
-अलग-अलग	JJ	O	O	O
-फील्ड	NN	O	O	O
-के	PSP	O	O	O
-400	QC	O	O	O
-से	PSP	O	O	O
-ज्यादा	QF	O	O	O
-आंत्रप्रेन्योर	NN	O	O	O
-से	PSP	O	O	O
-मिलने	VM	O	B-MISC	O
-का	PSP	O	O	O
-मौका	NN	O	B-MISC	OCC
-मिला	VM	O	I-MISC	O
-.	SYM	O	O	O
-आंत्रप्रेन्योरशिप	XC	O	O	O
-माइंडसेट	XC	O	O	O
-करिकुलम	NNP	O	O	O
-के	PSP	O	O	O
-पहले	NST	O	O	O
-सेशन	NN	O	O	O
-में	PSP	O	O	O
-अब	PRP	O	O	O
-तक	RP	O	O	O
-459	QC	O	O	O
-स्कूलों	NN	O	O	O
-में	PSP	O	O	O
-इन	DEM	O	O	O
-उद्यमियों	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-लाइव	XC	O	O	O
-बातचीत	NN	O	O	O
-के	PSP	O	O	O
-सेशन	NN	O	O	O
-चले	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ये	DEM	O	O	O
-सेशन	NN	O	O	O
-22	QC	O	O	O
-अक्टूबर	NNP	O	O	O
-से	PSP	O	O	O
-शुरू	NN	O	B-MISC	OCC
-किए	VM	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-पिछले	JJ	B	O	O
-10	QC	I	O	O
-दिन	NN	I	O	O
-के	PSP	O	O	O
-भीतर	NST	O	O	O
-कई	QF	O	O	O
-उद्यमी	NN	O	O	O
-इन	DEM	O	O	O
-सेशन	NN	O	O	O
-से	PSP	O	O	O
-जुड़े	NNP	O	B-STAT	O
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-स्टूडेंट्स	NN	O	O	O
-ने	PSP	O	O	O
-सफल	JJ	O	O	O
-उद्यमियों	NN	O	O	O
-से	PSP	O	O	O
-जीवन	NN	O	O	O
-में	PSP	O	O	O
-सफल	JJ	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-और	CC	O	O	O
-अपने	PRP	O	O	O
-गोल	NN	O	O	O
-को	PSP	O	O	O
-पाने	VM	O	O	O
-के	PSP	O	O	O
-मंत्र	NN	O	B-MISC	OCC
-जाने	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-दिल्ली	NNP	O	O	O
-सरकार	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-9	QC	O	O	O
-वीं	NN	O	O	O
-से	PSP	O	O	O
-12	QC	O	O	O
-वीं	NN	O	O	O
-तक	RP	O	O	O
-की	PSP	O	O	O
-क्लास	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-शुरू	NN	O	B-MISC	OCC
-किए	VM	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-आंत्रप्रेन्योरशिप	JJ	O	O	O
-माइंडसेट	XC	O	O	O
-करिकुलम	NNP	O	O	O
-के	PSP	O	O	O
-तहत	NN	O	O	O
-459	QC	O	O	O
-स्कूलों	NN	O	O	O
-में	PSP	O	O	O
-1,09	QC	O	O	O
-,574	QC	O	O	O
-स्टूडेंट्स	NN	O	O	O
-ने	PSP	O	O	O
-400	QC	O	O	O
-से	PSP	O	O	O
-ज्यादा	QF	O	O	O
-उद्यमियों	NN	O	O	O
-से	PSP	O	O	O
-बिजनस	NN	O	O	O
-के	PSP	O	O	O
-फंडे	NN	O	B-MISC	OCC
-जाने	VM	O	I-MISC	O
-.	SYM	O	O	O
-उनके	PRP	O	O	O
-संघर्ष	NN	O	O	O
-की	PSP	O	O	O
-कहानी	NN	O	O	O
-के	PSP	O	O	O
-साथ-साथ	NST	O	O	O
-चुनौतियों	NN	O	O	O
-को	PSP	O	O	O
-भी	RP	O	O	O
-समझा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-इस	DEM	O	O	O
-करिकुलम	NN	O	O	O
-को	PSP	O	O	O
-इस	DEM	O	O	O
-साल	NN	O	O	O
-अप्रैल	NNP	O	O	O
-से	PSP	O	O	O
-शुरू	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-तब	PRP	O	O	O
-से	PSP	O	O	O
-ही	RP	O	O	O
-स्टूडेंट्स	NN	O	O	O
-समेत	PSP	O	O	O
-पैरंट्स	NN	O	O	O
-से	PSP	O	O	O
-भी	RP	O	O	O
-पॉजिटिव	XC	O	B-MISC	O
-रिस्पॉन्स	NN	O	I-MISC	O
-मिल	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उपमुख्यमंत्री	NN	O	O	O
-मनीष	XC	O	O	O
-सिसोदिया	NNP	O	O	O
-ने	PSP	O	O	O
-पिछले	JJ	B	O	O
-एक	QC	I	O	O
-महीने	NN	I	O	O
-में	PSP	O	O	O
-कई	QF	O	O	O
-उद्यमियों	NN	O	O	O
-से	PSP	O	O	O
-मिलकर	VM	O	B-MISC	O
-उन्हें	PRP	O	O	O
-इस	DEM	O	O	O
-सिलेबस	NN	O	O	O
-से	PSP	O	O	O
-जोड़ा	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-ताकि	CC	O	O	O
-इसे	PRP	O	O	O
-लेकर	VM	O	O	O
-एक	QC	O	O	O
-पॉजिटिव	JJ	O	O	O
-माहौल	NN	O	O	O
-बने	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-स्कूलो	NN	O	O	O
-में	PSP	O	O	O
-पहुंच	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-उद्यमियों	NN	O	O	O
-में	PSP	O	O	O
-कार्नेशन	XC	O	O	O
-कंपनी	NNP	O	O	O
-के	PSP	O	O	O
-फाउंडर	XC	O	O	O
-कुनाल	XC	O	O	O
-खट्टर	NN	O	O	O
-,	SYM	O	O	O
-वैशाली	JJ	O	O	O
-डांस	NN	O	O	O
-अकैडमी	NN	O	O	O
-चलाने	VM	O	O	O
-वालीं	PSP	O	O	O
-वैशाली	JJ	O	O	O
-अस्थाना	NN	O	O	O
-,	SYM	O	O	O
-एजेंसी	XC	O	O	O
-एडुटेक	NN	O	O	O
-प्राइवेट	XC	O	O	O
-लिमिटेड	NNP	O	O	O
-के	PSP	O	O	O
-सीईओ	XC	O	O	O
-अनुज	XC	O	O	O
-जिंदल	NNP	O	O	O
-,	SYM	O	O	O
-अमोली	NNP	O	O	O
-ट्रस्ट	NN	O	O	O
-के	PSP	O	O	O
-संस्थापक	JJ	O	O	O
-कृति	XC	O	O	O
-गांधी	NNP	O	O	O
-शामिल	JJ	O	B-STAT	DECL
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-जीएसकेवी	JJ	O	O	O
-मॉडल	NN	O	O	O
-टाउन	NN	O	O	O
-की	PSP	O	O	O
-स्टूडेंट	NN	O	O	O
-तनीषा	NN	O	O	O
-ने	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-हमने	PRP	O	O	O
-अपनी	PRP	O	O	O
-गलतियों	NN	O	O	O
-से	PSP	O	O	O
-सीखना	VM	O	B-MISC	OCC
-और	CC	O	O	O
-अपनी	PRP	O	O	O
-समस्याओं	NN	O	O	O
-को	PSP	O	O	O
-दूर	NST	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-सीखा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
+दिल्ली
+के
+सरकारी
+स्कूलों
+के
+1
+लाख
+से
+ज्यादा
+स्टूडेंट्स
+को
+अब
+तक
+अलग-अलग
+फील्ड
+के
+400
+से
+ज्यादा
+आंत्रप्रेन्योर
+से
+मिलने
+का
+मौका
+मिला
+.
+आंत्रप्रेन्योरशिप
+माइंडसेट
+करिकुलम
+के
+पहले
+सेशन
+में
+अब
+तक
+459
+स्कूलों
+में
+इन
+उद्यमियों
+के
+साथ
+लाइव
+बातचीत
+के
+सेशन
+चले
+हैं
+.
+ये
+सेशन
+22
+अक्टूबर
+से
+शुरू
+किए
+गए
+हैं
+.
+हालांकि
+,
+पिछले
+10
+दिन
+के
+भीतर
+कई
+उद्यमी
+इन
+सेशन
+से
+जुड़े
+हैं
+.
+स्टूडेंट्स
+ने
+सफल
+उद्यमियों
+से
+जीवन
+में
+सफल
+होने
+और
+अपने
+गोल
+को
+पाने
+के
+मंत्र
+जाने
+हैं
+.
+दिल्ली
+सरकार
+की
+ओर
+से
+9
+वीं
+से
+12
+वीं
+तक
+की
+क्लास
+के
+लिए
+शुरू
+किए
+गए
+आंत्रप्रेन्योरशिप
+माइंडसेट
+करिकुलम
+के
+तहत
+459
+स्कूलों
+में
+1,09
+,574
+स्टूडेंट्स
+ने
+400
+से
+ज्यादा
+उद्यमियों
+से
+बिजनस
+के
+फंडे
+जाने
+.
+उनके
+संघर्ष
+की
+कहानी
+के
+साथ-साथ
+चुनौतियों
+को
+भी
+समझा
+.
+इस
+करिकुलम
+को
+इस
+साल
+अप्रैल
+से
+शुरू
+किया
+गया
+है
+और
+तब
+से
+ही
+स्टूडेंट्स
+समेत
+पैरंट्स
+से
+भी
+पॉजिटिव
+रिस्पॉन्स
+मिल
+रहा
+है
+.
+उपमुख्यमंत्री
+मनीष
+सिसोदिया
+ने
+पिछले
+एक
+महीने
+में
+कई
+उद्यमियों
+से
+मिलकर
+उन्हें
+इस
+सिलेबस
+से
+जोड़ा
+है
+ताकि
+इसे
+लेकर
+एक
+पॉजिटिव
+माहौल
+बने
+.
+स्कूलो
+में
+पहुंच
+रहे
+उद्यमियों
+में
+कार्नेशन
+कंपनी
+के
+फाउंडर
+कुनाल
+खट्टर
+,
+वैशाली
+डांस
+अकैडमी
+चलाने
+वालीं
+वैशाली
+अस्थाना
+,
+एजेंसी
+एडुटेक
+प्राइवेट
+लिमिटेड
+के
+सीईओ
+अनुज
+जिंदल
+,
+अमोली
+ट्रस्ट
+के
+संस्थापक
+कृति
+गांधी
+शामिल
+हैं
+.
+जीएसकेवी
+मॉडल
+टाउन
+की
+स्टूडेंट
+तनीषा
+ने
+बताया
+,
+'
+हमने
+अपनी
+गलतियों
+से
+सीखना
+और
+अपनी
+समस्याओं
+को
+दूर
+करना
+सीखा
+.
+'

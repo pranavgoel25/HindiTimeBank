@@ -1,238 +1,238 @@
-लग्जरी	XC	O	O	O
-आईफोन	NNP	O	O	O
-डिजाइन	NN	O	O	O
-करने	VM	O	O	O
-वाली	PSP	O	O	O
-रशियन	XC	O	O	O
-कंपनी	NNP	O	O	O
-caviar	NN	O	O	O
-ने	PSP	O	O	O
-ऐपल	NN	O	O	O
-की	PSP	O	O	O
-लेटेस्ट	XC	O	O	O
-आईफोन	NNP	O	O	O
-सीरीज	NN	O	O	O
-से	PSP	O	O	O
-iPhone	NN	O	O	O
-11	QC	O	O	O
-Pro	NN	O	O	O
-का	PSP	O	O	O
-नया	JJ	O	O	O
-डिजाइन	NN	O	O	O
-लॉन्च	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसका	PRP	O	O	O
-नाम	NN	O	O	O
-विक्ट्री	NN	O	O	O
-रखा	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-डिवाइस	NN	O	O	O
-के	PSP	O	O	O
-बैक	NN	O	O	O
-पैनल	NN	O	O	O
-पर	PSP	O	O	O
-लेटर	XC	O	O	O
-'	SYM	O	O	O
-V	NN	O	O	O
-'	SYM	O	O	O
-उकेरा	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-रियर	NN	O	O	O
-पैनल	NN	O	O	O
-को	PSP	O	O	O
-दो	QC	O	O	O
-हिस्सों	NN	O	O	O
-में	PSP	O	O	O
-बांटता	VM	O	B-STAT	O
-है	VAUX	O	I-STAT	O
-,	SYM	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-चौकोर	JJ	O	O	O
-कैमरा	NN	O	O	O
-सेटअप	NN	O	O	O
-भी	RP	O	O	O
-इसमें	PRP	O	O	O
-गायब	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसकी	PRP	O	O	O
-तुलना	NN	O	O	O
-कुछ	QF	O	O	O
-लोग	NN	O	O	O
-स्टोव	NN	O	O	O
-तो	CC	O	O	O
-वहीं	PRP	O	O	O
-,	SYM	O	O	O
-कुछ	QF	O	O	O
-इलेक्ट्रिक	JJ	O	O	O
-रेजर	NN	O	O	O
-से	PSP	O	O	O
-कर	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कंपनी	NN	O	O	O
-का	PSP	O	O	O
-यह	DEM	O	O	O
-लिमिटेड	NN	O	O	O
-एडिशन	NN	O	O	O
-'	SYM	O	O	O
-सामान्य	JJ	O	O	O
-से	PSP	O	O	O
-ज्यादा	QF	O	O	O
-खूबसूरती	NN	O	O	O
-और	CC	O	O	O
-उत्कृष्ठता	NN	O	O	O
-का	PSP	O	O	O
-नमूना	NN	O	O	O
-'	SYM	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-iPhone	NN	O	O	O
-11	QC	O	O	O
-Pro	NN	O	O	O
-और	CC	O	O	O
-iPhone	NN	O	O	O
-11	QC	O	O	O
-Pro	NN	O	O	O
-Max	JJ	O	O	O
-दोनों	NN	O	O	O
-के	PSP	O	O	O
-ही	RP	O	O	O
-अलग-अलग	JJ	O	O	O
-हैंड-क्राफ्टेड	XC	O	O	O
-डिजाइन	NNP	O	O	O
-उपलब्ध	JJ	O	B-STAT	DEC
-हैं	VM	O	I-STAT	O
-लेकिन	CC	O	O	O
-कैमरा	NN	O	O	O
-लेंस	NN	O	O	O
-के	PSP	O	O	O
-आसपास	NST	O	O	O
-ग्लास	NN	O	O	O
-का	PSP	O	O	O
-चौकोर	JJ	O	O	O
-पैनल	NN	O	O	O
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-दूसरा	QO	O	O	O
-डिजाइन	XC	O	O	O
-एलिमेंट	NNP	O	O	O
-बायर्स	NN	O	O	O
-को	PSP	O	O	O
-देखने	VM	O	B-MISC	OCC
-को	PSP	O	I-MISC	O
-मिलेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-शॉक-प्रूफ	JJ	O	O	O
-बॉडी	NN	O	O	O
-के	PSP	O	O	O
-अलावा	PSP:?	O	O	O
-caviar	NN	O	O	O
-ने	PSP	O	O	O
-नए	JJ	O	O	O
-स्मार्टफोन	XC	O	O	O
-डिजाइन	NNP	O	O	O
-को	PSP	O	O	O
-मजबूत	JJ	O	O	O
-मेटल	XC	O	O	O
-फ्रेम	NN	O	O	O
-से	PSP	O	O	O
-कवर	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अडिशनल	JJ	O	O	O
-स्क्रीन	NN	O	O	O
-प्रटेक्शन	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-आने	VM	O	B-STAT	DES
-वाले	PSP	O	I-STAT	O
-इस	DEM	O	O	O
-डिवाइस	NN	O	O	O
-की	PSP	O	O	O
-कीमत	NN	O	O	O
-4000	QC	O	O	O
-डॉलर	NN	O	O	O
-(	SYM	O	O	O
-करीब	RB	O	O	O
-2,84	QC	O	O	O
-,000	QC	O	O	O
-रुपये	NN	O	O	O
-)	SYM	O	O	O
-से	PSP	O	O	O
-शुरू	NN	O	B-MISC	OCC
-होगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-बता	VM	O	B-STAT	O
-दें	VAUX	O	I-STAT	O
-,	SYM	O	O	O
-सबसे	INTF	O	O	O
-सस्ता	JJ	O	O	O
-वेरियंट	JJ	O	O	O
-विक्ट्री	NN	O	O	O
-टाइटेनियम	NN	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-64	QC	O	O	O
-जीबी	NN	O	O	O
-स्टोरेज	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-आता	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-इसकी	PRP	O	O	O
-कीमत	NN	O	O	O
-4,290	QC	O	O	O
-डॉलर	NN	O	O	O
-(	SYM	O	O	O
-करीब	RB	O	O	O
-3.4	QC	O	O	O
-लाख	QC	O	O	O
-रुपये	NN	O	O	O
-)	SYM	O	O	O
-रखी	VM	O	B-MISC	OCC
-गई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-अलावा	PSP:?	O	O	O
-बढ़ते	JJ	O	O	O
-स्टोरेज	NN	O	O	O
-और	CC	O	O	O
-बेहतर	JJ	O	O	O
-वेरियंट	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-आपको	PRP	O	O	O
-इसकी	PRP	O	O	O
-ज्यादा	QF	O	O	O
-कीमत	NN	O	O	O
-चुकानी	VM	O	B-MISC	OCC
-होगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसे	PRP	O	O	O
-कंपनी	NN	O	O	O
-की	PSP	O	O	O
-ग्लोबल	JJ	O	O	O
-वेबसाइट	NN	O	O	O
-से	PSP	O	O	O
-खरीदा	VM	O	B-MISC	OCC
-जा	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+लग्जरी
+आईफोन
+डिजाइन
+करने
+वाली
+रशियन
+कंपनी
+caviar
+ने
+ऐपल
+की
+लेटेस्ट
+आईफोन
+सीरीज
+से
+iPhone
+11
+Pro
+का
+नया
+डिजाइन
+लॉन्च
+किया
+है
+.
+इसका
+नाम
+विक्ट्री
+रखा
+गया
+है
+और
+डिवाइस
+के
+बैक
+पैनल
+पर
+लेटर
+'
+V
+'
+उकेरा
+गया
+है
+.
+यह
+रियर
+पैनल
+को
+दो
+हिस्सों
+में
+बांटता
+है
+,
+साथ
+ही
+चौकोर
+कैमरा
+सेटअप
+भी
+इसमें
+गायब
+कर
+दिया
+गया
+है
+,
+जिसकी
+तुलना
+कुछ
+लोग
+स्टोव
+तो
+वहीं
+,
+कुछ
+इलेक्ट्रिक
+रेजर
+से
+कर
+रहे
+थे
+.
+कंपनी
+का
+यह
+लिमिटेड
+एडिशन
+'
+सामान्य
+से
+ज्यादा
+खूबसूरती
+और
+उत्कृष्ठता
+का
+नमूना
+'
+है
+.
+iPhone
+11
+Pro
+और
+iPhone
+11
+Pro
+Max
+दोनों
+के
+ही
+अलग-अलग
+हैंड-क्राफ्टेड
+डिजाइन
+उपलब्ध
+हैं
+लेकिन
+कैमरा
+लेंस
+के
+आसपास
+ग्लास
+का
+चौकोर
+पैनल
+नहीं
+,
+दूसरा
+डिजाइन
+एलिमेंट
+बायर्स
+को
+देखने
+को
+मिलेगा
+.
+शॉक-प्रूफ
+बॉडी
+के
+अलावा
+caviar
+ने
+नए
+स्मार्टफोन
+डिजाइन
+को
+मजबूत
+मेटल
+फ्रेम
+से
+कवर
+किया
+है
+.
+अडिशनल
+स्क्रीन
+प्रटेक्शन
+के
+साथ
+आने
+वाले
+इस
+डिवाइस
+की
+कीमत
+4000
+डॉलर
+(
+करीब
+2,84
+,000
+रुपये
+)
+से
+शुरू
+होगी
+.
+बता
+दें
+,
+सबसे
+सस्ता
+वेरियंट
+विक्ट्री
+टाइटेनियम
+है
+,
+जो
+64
+जीबी
+स्टोरेज
+के
+साथ
+आता
+है
+और
+इसकी
+कीमत
+4,290
+डॉलर
+(
+करीब
+3.4
+लाख
+रुपये
+)
+रखी
+गई
+है
+.
+इसके
+अलावा
+बढ़ते
+स्टोरेज
+और
+बेहतर
+वेरियंट
+के
+लिए
+आपको
+इसकी
+ज्यादा
+कीमत
+चुकानी
+होगी
+.
+इसे
+कंपनी
+की
+ग्लोबल
+वेबसाइट
+से
+खरीदा
+जा
+सकता
+है
+.

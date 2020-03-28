@@ -1,451 +1,451 @@
-जब	PRP	O	O	O
-सुभागी	NN	O	O	O
-जवान	JJ	O	B-MISC	O
-हुई	VM	O	I-MISC	O
-तो	CC	O	O	O
-लोग	NN	O	O	O
-तुलसी	XC	O	O	O
-महतो	NNP	O	O	O
-पर	PSP	O	O	O
-दबाव	NN	O	O	O
-डालने	VM	O	B-MISC	OCC
-लगे	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-लड़की	NN	O	O	O
-का	PSP	O	O	O
-घर	NN	O	O	O
-कहीं	PRP	O	O	OCC
-कर	VM	O	B-MISC	O
-दो	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जवान	XC	O	O	O
-लड़की	NNP	O	O	O
-का	PSP	O	O	O
-यों	RP	O	O	O
-फिरना	VM	O	O	O
-ठीक	JJ	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-हमारी	PRP	O	O	O
-बिरादरी	NN	O	O	O
-में	PSP	O	O	O
-इसकी	PRP	O	O	O
-कोई	PRP	O	O	O
-निंदा	NN	O	O	OCC
-नहीं	NEG	O	B-STAT	O
-है	VM	O	I-STAT	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-क्यों	WQ	O	O	O
-सोच-विचार	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-तुलसी	NN	O	O	O
-ने	PSP	O	O	O
-कहा-	JJ	O	O	O
-भाई	NN	O	O	O
-मैं	PRP	O	O	O
-तो	RP	O	O	O
-तैयार	JJ	O	O	O
-हूं	VM	O	O	OCC
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-जब	PRP	O	O	O
-सुभागी	NN	O	O	O
-भी	RP	O	O	O
-माने	VM	O	B-MISC	-1
-.	SYM	O	O	O
-वह	PRP	O	O	O
-किसी	PRP	O	O	O
-तरह	NN	O	O	O
-राजी	JJ	O	B-MISC	O
-नहीं	NEG	O	I-MISC	O
-होती	VM	O	I-MISC	O
-.	SYM	O	O	O
-हरिहर	NN	O	O	O
-ने	PSP	O	O	O
-सुभागी	NN	O	O	O
-को	PSP	O	O	O
-समझाकर	VM	O	O	O
-कहा-	JJ	O	O	O
-बेटी	NN	O	O	O
-,	SYM	O	O	O
-हम	PRP	O	O	O
-तेरे	PRP	O	O	O
-ही	RP	O	O	O
-भले	RP	O	O	O
-को	PSP	O	O	O
-कहते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मां-बाप	NN	O	O	O
-अब	PRP	O	O	O
-बूढ़े	JJ	O	O	O
-हुए	VM	O	O	O
-,	SYM	O	O	O
-उनका	PRP	O	O	O
-क्या	WQ	O	O	O
-भरोसा	NN	O	B-MISC	OCC
-.	SYM	O	O	O
-तुम	PRP	O	O	O
-इस	DEM	O	O	O
-तरह	NN	O	O	O
-कब	WQ	O	O	O
-तक	RP	O	O	O
-बैठी	VM	O	B-MISC	OCC
-रहोगी	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-सुभागी	NN	O	O	O
-ने	PSP	O	O	O
-सिर	NN	O	O	O
-झुकाकर	VM	O	B-MISC	OCC
-कहा-	VAUX	O	I-MISC	O
-चाचा	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मैं	PRP	O	O	O
-तुम्हारी	PRP	O	O	O
-बात	NN	O	O	O
-समझ	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-मेरा	PRP	O	O	O
-मन	NN	O	O	O
-घर	NN	O	O	O
-करने	VM	O	O	O
-को	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-कहता	VM	O	I-MISC	O
-.	SYM	O	O	O
-मुझे	PRP	O	O	O
-आराम	NN	O	O	O
-की	PSP	O	O	O
-चिंता	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-है	VM	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-सब	QF	O	O	O
-कुछ	QF	O	O	O
-झेलने	VM	O	O	O
-को	PSP	O	O	O
-तैयार	JJ	O	B-MISC	OCC
-हूं	VM	O	I-MISC	O
-.	SYM	O	O	O
-और	CC	O	O	O
-जो	PRP	O	O	O
-काम	NN	O	O	O
-तुम	PRP	O	O	O
-कहो	VM	O	O	OCC
-,	SYM	O	O	O
-वह	PRP	O	O	O
-सिर-आंखो	NN	O	O	O
-के	PSP	O	O	O
-बल	NN	O	O	O
-करूंगी	VM	O	O	OCC
-;	SYM	O	O	O
-मगर	CC	O	O	O
-घर	NN	O	O	O
-बसाने	VM	O	O	O
-को	PSP	O	O	O
-मुझसे	PRP	O	O	O
-न	NEG	O	B-MISC	OCC
-कहो	VM	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-मेरा	PRP	O	O	O
-चाल-कुचाल	NN	O	B-MISC	O
-देखना	VM	O	I-MISC	OCC
-तो	CC	O	O	O
-मेरा	PRP	O	O	O
-सिर	NN	O	B-MISC	O
-काट	VM	O	I-MISC	OCC
-लेना	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-मैं	PRP	O	O	O
-सच्चे	JJ	O	O	O
-बाप	NN	O	O	O
-की	PSP	O	O	O
-बेटी	NN	O	O	O
-हूंगी	VM	O	O	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-बात	NN	O	O	O
-की	PSP	O	O	O
-भी	RP	O	O	O
-पक्की	VM	O	B-MISC	OCC
-हूंगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फिर	RB	O	O	O
-लज्जा	NN	O	B-MISC	OCC
-रखनेवाले	VM	O	I-MISC	O
-तो	CC	O	O	O
-भगवान	NN	O	O	O
-हैं	VM	O	O	O
-,	SYM	O	O	O
-मेरी	PRP	O	O	O
-क्या	WQ	O	O	O
-हस्ती	NN	O	B-MISC	DEC
-है	VM	O	I-MISC	O
-कि	CC	O	O	O
-अभी	PRP	O	O	O
-कुछ	QF	O	O	O
-कहूं	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-उजड्ड	NN	O	O	O
-रामू	NNP	O	O	O
-बोला	VM	O	B-MISC	OCC
--	SYM	O	O	O
-तुम	PRP	O	O	O
-अगर	CC	O	O	O
-सोचती	VM	O	B-MISC	OCC
-हो	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-भैया	NN	O	B-MISC	O
-कमावेंगे	VM	O	I-MISC	O
-और	CC	O	O	O
-मैं	PRP	O	O	O
-बैठी	VM	O	O	O
-मौज	NN	O	O	O
-करूंगी	VM	O	O	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-इस	DEM	O	O	O
-भरोसे	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-रहना	VM	O	I-MISC	O
-.	SYM	O	O	O
-यहां	PRP	O	O	O
-किसी	PRP	O	O	O
-ने	PSP	O	O	O
-जनम	NN	O	O	O
-भर	RP	O	O	O
-का	PSP	O	O	O
-ठीका	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-लिया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-रामू	NNP	O	O	O
-की	PSP	O	O	O
-दुल्हन	XC	O	O	O
-रामू	NNP	O	O	O
-से	PSP	O	O	O
-भी	RP	O	O	O
-दो	QC	O	O	O
-अंगुल	NN	O	O	O
-ऊंची	JJ	O	B-STAT	O
-थी	VM	O	I-STAT	O
-.	SYM	O	O	O
-मटककर	NN	O	O	O
-बोली-	VM	O	O	O
-हमने	PRP	O	O	O
-किसी	PRP	O	O	O
-का	PSP	O	O	O
-करज	XC	O	O	O
-थोड़े	NNP	O	O	O
-ही	RP	O	O	O
-खाया	VM	O	B-MISC	O
-कि	CC	O	O	O
-जनम	NN	O	O	O
-भर	RP	O	O	O
-बैठे	NN	O	O	O
-भरा	JJ	O	B-MISC	O
-करें	VM	O	I-MISC	O
-.	SYM	O	O	O
-यहां	PRP	O	O	O
-तो	RP	O	O	O
-खाने	VM	O	B-MISC	O
-को	PSP	O	O	O
-भी	RP	O	O	O
-महीन	JJ	O	O	O
-चाहिए	VM	O	O	O
-,	SYM	O	O	O
-पहनने	VM	O	O	O
-को	PSP	O	O	O
-भी	RP	O	O	O
-महीन	JJ	O	O	O
-चाहिए	VM	O	O	O
-,	SYM	O	O	O
-यह	DEM	O	O	O
-हमारे	PRP	O	O	O
-बूते	NN	O	O	O
-की	PSP	O	O	O
-बात	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-.	SYM	O	O	O
-सुभागी	NN	O	O	O
-ने	PSP	O	O	O
-गर्व	NN	O	O	O
-से	PSP	O	O	O
-भरे	VM	O	B-MISC	O
-हुए	VAUX	O	I-MISC	O
-स्वर	NN	O	O	O
-में	PSP	O	O	O
-कहा-	JJ	O	O	O
-भाभी	NN	O	O	O
-,	SYM	O	O	O
-मैंने	PRP	O	O	O
-तुम्हारा	PRP	O	O	O
-आसरा	NN	O	O	O
-कभी	PRP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-और	CC	O	O	O
-भगवान	NN	O	O	O
-ने	PSP	O	O	O
-चाहा	VM	O	B-MISC	OCC
-तो	CC	O	O	O
-कभी	PRP	O	O	O
-करूंगी	VM	O	B-MISC	O
-भी	RP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-.	SYM	O	O	O
-तुम	PRP	O	O	O
-अपनी	PRP	O	O	O
-देखो	VM	O	O	OCC
-,	SYM	O	O	O
-मेरी	PRP	O	O	O
-चिंता	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-करो	VM	O	I-MISC	O
-.	SYM	O	O	O
-रामू	NNP	O	O	O
-की	PSP	O	O	O
-दुल्हन	NN	O	O	O
-को	PSP	O	O	O
-जब	PRP	O	O	O
-मालूम	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-सुभागी	JJ	O	O	O
-घर	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-करेगी	VM	O	I-MISC	O
-,	SYM	O	O	O
-तो	RP	O	O	O
-और	INTF	O	O	O
-भी	RP	O	O	O
-उसके	PRP	O	O	O
-सिर	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हमेशा	RB	O	O	O
-एक-न-एक	XC	O	O	O
-खुचड़	NNP	O	O	O
-लगाये	VM	O	B-MISC	OCC
-रहती	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसे	PRP	O	O	O
-रुलाने	VM	O	B-MISC	OCC
-में	PSP	O	O	O
-जैसे	RP	O	O	O
-उसको	PRP	O	O	O
-मजा	NN	O	B-MISC	OCC
-आता	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-बेचारी	JJ	O	O	O
-पहर	NN	O	O	O
-रात	NN	O	O	O
-से	PSP	O	O	O
-उठकर	VM	O	O	O
-कूटने-पीसने	NN	O	O	O
-में	PSP	O	O	O
-लग	VM	O	B-MISC	O
-जाती	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-चौका-बरतन	NN	O	O	O
-करती	VM	O	O	O
-,	SYM	O	O	O
-गोबर	NN	O	B-MISC	O
-पाथती	VM	O	I-MISC	O
-.	SYM	O	O	O
-फिर	RB	O	O	O
-खेत	NN	O	O	O
-में	PSP	O	O	O
-काम	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-चली	VAUX	O	I-MISC	O
-जाती	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-दोपहर	NN	B	O	O
-को	PSP	O	O	O
-आकर	VM	O	B-MISC	OCC
-जल्दी-जल्दी	JJ	O	O	O
-खाना	NN	O	O	O
-पकाकर	VM	O	O	O
-सबको	NN	O	B-MISC	OCC
-खिलाती	VM	O	I-MISC	O
-.	SYM	O	O	O
-रात	NN	B	O	O
-को	PSP	O	O	O
-कभी	PRP	O	O	O
-मां	NN	O	O	O
-के	PSP	O	O	O
-सिर	NN	O	O	O
-में	PSP	O	O	O
-तेल	NN	O	O	O
-डालती	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-कभी	RDP	O	O	O
-उसकी	PRP	O	O	O
-देह	NN	O	B-MISC	OCC
-दबाती	VM	O	I-MISC	O
-.	SYM	O	O	O
-तुलसी	PRP	O	O	O
-चिलम	NN	O	O	O
-के	PSP	O	O	O
-भक्त	NN	O	B-STAT	O
-थे	VM	O	I-STAT	O
-.	SYM	O	O	O
-उन्हें	PRP	O	O	O
-बार-बार	JJ	O	O	O
-चिलम	NN	O	B-MISC	O
-पिलाती	VM	O	I-MISC	O
-.	SYM	O	O	O
-जहां	PRP	O	O	O
-तक	RP	O	O	O
-अपना	PRP	O	O	O
-बस	RP	O	O	O
-चलता	VM	O	O	O
-,	SYM	O	O	O
-मां-बाप	NN	O	O	O
-को	PSP	O	O	O
-कोई	PRP	O	O	O
-काम	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-देती	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हां	INJ	O	O	O
-,	SYM	O	O	O
-भाई	NN	O	O	O
-को	PSP	O	O	O
-न	NEG	O	B-MISC	OCC
-रोकती	VM	O	I-MISC	O
-.	SYM	O	O	O
-सोचती	VM	O	O	O
-,	SYM	O	O	O
-यह	PRP	O	O	O
-तो	RP	O	O	O
-जवान	JJ	O	O	O
-आदमी	NN	O	O	O
-हैं	VM	O	B-STAT	O
-,	SYM	O	O	O
-यह	PRP	O	O	O
-काम	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-करेंगे	VM	O	I-MISC	O
-तो	CC	O	O	O
-गृहस्थी	NN	O	O	O
-कैसे	WQ	O	O	O
-चलेगी	VM	O	B-MISC	O
-.	SYM	O	O	O
+जब
+सुभागी
+जवान
+हुई
+तो
+लोग
+तुलसी
+महतो
+पर
+दबाव
+डालने
+लगे
+कि
+लड़की
+का
+घर
+कहीं
+कर
+दो
+.
+जवान
+लड़की
+का
+यों
+फिरना
+ठीक
+नहीं
+.
+जब
+हमारी
+बिरादरी
+में
+इसकी
+कोई
+निंदा
+नहीं
+है
+,
+तो
+क्यों
+सोच-विचार
+करते
+हो
+?
+तुलसी
+ने
+कहा-
+भाई
+मैं
+तो
+तैयार
+हूं
+;
+लेकिन
+जब
+सुभागी
+भी
+माने
+.
+वह
+किसी
+तरह
+राजी
+नहीं
+होती
+.
+हरिहर
+ने
+सुभागी
+को
+समझाकर
+कहा-
+बेटी
+,
+हम
+तेरे
+ही
+भले
+को
+कहते
+हैं
+.
+मां-बाप
+अब
+बूढ़े
+हुए
+,
+उनका
+क्या
+भरोसा
+.
+तुम
+इस
+तरह
+कब
+तक
+बैठी
+रहोगी
+?
+सुभागी
+ने
+सिर
+झुकाकर
+कहा-
+चाचा
+,
+मैं
+तुम्हारी
+बात
+समझ
+रही
+हूं
+;
+लेकिन
+मेरा
+मन
+घर
+करने
+को
+नहीं
+कहता
+.
+मुझे
+आराम
+की
+चिंता
+नहीं
+है
+.
+मैं
+सब
+कुछ
+झेलने
+को
+तैयार
+हूं
+.
+और
+जो
+काम
+तुम
+कहो
+,
+वह
+सिर-आंखो
+के
+बल
+करूंगी
+;
+मगर
+घर
+बसाने
+को
+मुझसे
+न
+कहो
+.
+जब
+मेरा
+चाल-कुचाल
+देखना
+तो
+मेरा
+सिर
+काट
+लेना
+.
+अगर
+मैं
+सच्चे
+बाप
+की
+बेटी
+हूंगी
+,
+तो
+बात
+की
+भी
+पक्की
+हूंगी
+.
+फिर
+लज्जा
+रखनेवाले
+तो
+भगवान
+हैं
+,
+मेरी
+क्या
+हस्ती
+है
+कि
+अभी
+कुछ
+कहूं
+.
+उजड्ड
+रामू
+बोला
+-
+तुम
+अगर
+सोचती
+हो
+कि
+भैया
+कमावेंगे
+और
+मैं
+बैठी
+मौज
+करूंगी
+,
+तो
+इस
+भरोसे
+न
+रहना
+.
+यहां
+किसी
+ने
+जनम
+भर
+का
+ठीका
+नहीं
+लिया
+है
+.
+रामू
+की
+दुल्हन
+रामू
+से
+भी
+दो
+अंगुल
+ऊंची
+थी
+.
+मटककर
+बोली-
+हमने
+किसी
+का
+करज
+थोड़े
+ही
+खाया
+कि
+जनम
+भर
+बैठे
+भरा
+करें
+.
+यहां
+तो
+खाने
+को
+भी
+महीन
+चाहिए
+,
+पहनने
+को
+भी
+महीन
+चाहिए
+,
+यह
+हमारे
+बूते
+की
+बात
+नहीं
+.
+सुभागी
+ने
+गर्व
+से
+भरे
+हुए
+स्वर
+में
+कहा-
+भाभी
+,
+मैंने
+तुम्हारा
+आसरा
+कभी
+नहीं
+किया
+और
+भगवान
+ने
+चाहा
+तो
+कभी
+करूंगी
+भी
+नहीं
+.
+तुम
+अपनी
+देखो
+,
+मेरी
+चिंता
+न
+करो
+.
+रामू
+की
+दुल्हन
+को
+जब
+मालूम
+हो
+गया
+कि
+सुभागी
+घर
+न
+करेगी
+,
+तो
+और
+भी
+उसके
+सिर
+हो
+गयी
+.
+हमेशा
+एक-न-एक
+खुचड़
+लगाये
+रहती
+.
+उसे
+रुलाने
+में
+जैसे
+उसको
+मजा
+आता
+था
+.
+वह
+बेचारी
+पहर
+रात
+से
+उठकर
+कूटने-पीसने
+में
+लग
+जाती
+,
+चौका-बरतन
+करती
+,
+गोबर
+पाथती
+.
+फिर
+खेत
+में
+काम
+करने
+चली
+जाती
+.
+दोपहर
+को
+आकर
+जल्दी-जल्दी
+खाना
+पकाकर
+सबको
+खिलाती
+.
+रात
+को
+कभी
+मां
+के
+सिर
+में
+तेल
+डालती
+,
+कभी
+उसकी
+देह
+दबाती
+.
+तुलसी
+चिलम
+के
+भक्त
+थे
+.
+उन्हें
+बार-बार
+चिलम
+पिलाती
+.
+जहां
+तक
+अपना
+बस
+चलता
+,
+मां-बाप
+को
+कोई
+काम
+न
+करने
+देती
+.
+हां
+,
+भाई
+को
+न
+रोकती
+.
+सोचती
+,
+यह
+तो
+जवान
+आदमी
+हैं
+,
+यह
+काम
+न
+करेंगे
+तो
+गृहस्थी
+कैसे
+चलेगी
+.

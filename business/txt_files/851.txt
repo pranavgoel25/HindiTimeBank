@@ -1,189 +1,189 @@
-निवेश	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-अधिकतर	JJ	O	O	O
-लोग	NN	O	O	O
-सोने	NN	O	O	O
-को	PSP	O	O	O
-तरजीह	NN	O	B-MISC	O
-देते	VM	O	I-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-लेकिन	CC	O	O	O
-इसका	PRP	O	O	O
-एक	QC	O	O	O
-नकारात्मक	JJ	O	O	O
-पहलू	NN	O	O	O
-यह	PRP	O	O	O
-है	VM	O	O	O
-कि	CC	O	O	O
-इसे	PRP	O	O	O
-बेचने	VM	O	B-MISC	OCC
-तक	RP	O	O	O
-अपने	PRP	O	O	O
-पास	NST	O	O	O
-रखने	VM	O	O	O
-का	PSP	O	O	O
-झंझट	NN	O	O	O
-पालना	VM	O	B-MISC	OCC
-पड़ता	NNP	O	I-MISC	O
-है	VM	O	I-MISC	O
-.	SYM	O	O	O
-ऐसे	DEM	O	O	O
-में	PSP	O	O	O
-गोल्ड	XC	O	O	O
-बॉन्ड	NNP	O	O	O
-इसका	PRP	O	O	O
-एक	QC	O	O	O
-बेहतर	JJ	O	O	O
-विकल्प	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सॉवरेन	XC	O	O	O
-गोल्ड	XC	O	O	O
-बॉन्ड	NNP	O	O	O
-एक	QC	O	O	O
-सरकारी	JJ	O	O	O
-बॉन्ड	NN	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसका	PRP	O	O	O
-मूल्य	NN	O	O	O
-रुपये	NN	O	O	O
-या	CC	O	O	O
-डॉलर	NN	O	O	O
-में	PSP	O	O	O
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-बल्कि	CC	O	O	O
-सोने	NN	O	O	O
-के	PSP	O	O	O
-वजन	NN	O	O	O
-में	PSP	O	O	O
-होता	VM	O	B-STAT	DECL
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-यदि	CC	O	O	O
-बॉन्ड	NN	O	O	O
-पांच	QC	O	O	O
-ग्राम	NN	O	O	O
-सोने	VM	O	O	O
-का	PSP	O	O	O
-है	VM	O	B-STAT	O
-तो	CC	O	O	O
-पांच	QC	O	O	O
-ग्राम	NN	O	O	O
-सोने	NN	O	O	O
-की	PSP	O	O	O
-जितनी	QF	O	O	O
-कीमत	NN	O	O	O
-होगी	VM	O	O	O
-,	SYM	O	O	O
-उतनी	QF	O	O	O
-ही	RP	O	O	O
-बॉन्ड	NN	O	O	O
-की	PSP	O	O	O
-भी	RP	O	O	O
-कीमत	NN	O	B-MISC	OCC
-होगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-फेस्टिव	NN	O	O	O
-सीजन	NN	O	O	O
-में	PSP	O	O	O
-सोने	NN	O	O	O
-की	PSP	O	O	O
-खरीदारी	NN	O	B-MISC	O
-बढ़ने	VM	O	I-MISC	O
-की	PSP	O	O	O
-उम्मीदों	NN	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-सरकार	NN	O	O	O
-ने	PSP	O	O	O
-सोमवार	NNP	B	O	O
-को	PSP	O	O	O
-गोल्ड	XC	O	O	O
-बॉन्ड	NN	O	O	O
-जारी	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सॉवरेन	XC	O	O	O
-गोल्ड	XC	O	O	O
-बांड	XC	O	O	O
-योजना	NN	O	O	O
-2019	QC	O	O	O
--	SYM	O	O	O
-20	QC	O	O	O
-की	PSP	O	O	O
-पांचवीं	QO	O	O	O
-श्रृंखला	NN	O	O	O
-को	PSP	O	O	O
-3,788	QC	O	O	O
-रुपये	NN	O	O	O
-प्रति	PSP	O	O	O
-ग्राम	NN	O	O	O
-के	PSP	O	O	O
-निर्गम	JJ	O	O	O
-मूल्य	NN	O	O	O
-पर	PSP	O	O	O
-जारी	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बॉन्ड	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-ऑनलाइन	XC	O	B-MISC	O
-अप्लाई	NN	O	I-MISC	OCC
-करने	VM	O	I-MISC	O
-और	CC	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-ऑनलाइन	XC	O	O	O
-पेमेंट	NN	O	O	O
-करने	VM	O	B-STAT	O
-वाले	PSP	O	I-STAT	O
-निवेशकों	NN	O	O	O
-को	PSP	O	O	O
-प्रति	RP:?	O	O	O
-ग्राम	NN	O	O	O
-50	QC	O	O	O
-रुपये	NN	O	O	O
-की	PSP	O	O	O
-छूट	NN	O	O	O
-मिलेगी	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-जिसके	PRP	O	O	O
-बाद	NST	O	O	O
-इसकी	PRP	O	O	O
-प्रभावी	JJ	O	O	O
-कीमत	NN	O	O	O
-3,738	QC	O	O	O
-रुपये	NN	O	O	O
-पड़ेगी	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-बॉन्ड	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-आवेदन	NN	O	O	O
-11	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-बंद	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बॉन्ड	NN	O	O	O
-को	PSP	O	O	O
-15	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-जारी	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+निवेश
+के
+लिए
+अधिकतर
+लोग
+सोने
+को
+तरजीह
+देते
+हैं
+.
+लेकिन
+इसका
+एक
+नकारात्मक
+पहलू
+यह
+है
+कि
+इसे
+बेचने
+तक
+अपने
+पास
+रखने
+का
+झंझट
+पालना
+पड़ता
+है
+.
+ऐसे
+में
+गोल्ड
+बॉन्ड
+इसका
+एक
+बेहतर
+विकल्प
+हो
+सकता
+है
+.
+सॉवरेन
+गोल्ड
+बॉन्ड
+एक
+सरकारी
+बॉन्ड
+होता
+है
+.
+इसका
+मूल्य
+रुपये
+या
+डॉलर
+में
+नहीं
+,
+बल्कि
+सोने
+के
+वजन
+में
+होता
+है
+.
+यदि
+बॉन्ड
+पांच
+ग्राम
+सोने
+का
+है
+तो
+पांच
+ग्राम
+सोने
+की
+जितनी
+कीमत
+होगी
+,
+उतनी
+ही
+बॉन्ड
+की
+भी
+कीमत
+होगी
+.
+फेस्टिव
+सीजन
+में
+सोने
+की
+खरीदारी
+बढ़ने
+की
+उम्मीदों
+के
+बीच
+सरकार
+ने
+सोमवार
+को
+गोल्ड
+बॉन्ड
+जारी
+कर
+दिया
+.
+सॉवरेन
+गोल्ड
+बांड
+योजना
+2019
+-
+20
+की
+पांचवीं
+श्रृंखला
+को
+3,788
+रुपये
+प्रति
+ग्राम
+के
+निर्गम
+मूल्य
+पर
+जारी
+किया
+गया
+है
+.
+बॉन्ड
+के
+लिए
+ऑनलाइन
+अप्लाई
+करने
+और
+इसके
+लिए
+ऑनलाइन
+पेमेंट
+करने
+वाले
+निवेशकों
+को
+प्रति
+ग्राम
+50
+रुपये
+की
+छूट
+मिलेगी
+,
+जिसके
+बाद
+इसकी
+प्रभावी
+कीमत
+3,738
+रुपये
+पड़ेगी
+.
+बॉन्ड
+के
+लिए
+आवेदन
+11
+अक्टूबर
+को
+बंद
+हो
+जाएगा
+.
+बॉन्ड
+को
+15
+अक्टूबर
+को
+जारी
+किया
+जाएगा
+.

@@ -1,479 +1,479 @@
-साल-भर	NN	O	O	O
-की	PSP	O	O	O
-बात	NN	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-एक	QC	B	O	O
-दिन	NN	I	O	O
-शाम	NN	B	O	O
-को	PSP	O	O	O
-हवा	NN	O	B-MISC	OCC
-खाने	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-महाशय	NN	O	O	O
-नवीन	JJ	O	O	O
-से	PSP	O	O	O
-मुलाक़ात	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मेरे	PRP	O	O	O
-पुराने	JJ	O	O	O
-दोस्त	NN	O	O	O
-हैं	VM	O	O	O
-,	SYM	O	O	O
-बड़े	JJ	O	O	O
-बेतकल्लुफ़	NN	O	O	O
-और	CC	O	O	O
-मनचले	JJ	O	O	O
-.	SYM	O	O	O
-आगरे	NN	O	O	O
-में	PSP	O	O	O
-मकान	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-,	SYM	O	O	O
-अच्छे	JJ	O	O	O
-कवि	NN	O	O	O
-हैं	VM	O	B-STAT	O
-.	SYM	O	O	O
-उनके	PRP	O	O	O
-कवि-समाज	NN	O	O	O
-में	PSP	O	O	O
-कई	QF	O	O	O
-बार	RP	O	O	O
-शरीक	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-चुका	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ऐसा	PRP	O	O	O
-कविता	NN	O	O	O
-का	PSP	O	O	O
-उपासक	NN	O	O	O
-मैंने	PRP	O	O	O
-नहीं	NEG	O	B-MISC	O
-देखा	VM	O	I-MISC	O
-.	SYM	O	O	O
-पेशा	NN	O	O	O
-तो	CC	O	O	O
-वकालत	NN	O	O	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-डूबे	VM	O	B-MISC	OCC
-रहते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-काव्य-चिंतन	NN	O	O	O
-में	PSP	O	O	O
-.	SYM	O	O	O
-आदमी	NN	O	O	O
-ज़हीन	JJ	O	B-STAT	O
-हैं	VM	O	I-STAT	O
-,	SYM	O	O	O
-मुक़दमा	NN	O	O	O
-सामने	NST	O	B-MISC	O
-आया	VM	O	I-MISC	O
-और	CC	O	O	O
-उसकी	PRP	O	O	O
-तह	NN	O	O	O
-तक	RP	O	O	O
-पहुंच	VM	O	B-MISC	OCC
-गये	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-इसलिए	CC	O	O	O
-कभी-कभी	PRP	O	O	O
-मुक़दमे	NN	O	O	O
-मिल	VM	O	B-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-कचहरी	NN	O	O	O
-के	PSP	O	O	O
-बाहर	NST	O	O	O
-अदालत	NN	O	O	O
-या	CC	O	O	O
-मुक़दमे	NN	O	O	O
-की	PSP	O	O	O
-चर्चा	NN	O	O	O
-उनके	PRP	O	O	O
-लिए	PSP	O	O	O
-निषिद्ध	JJ	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-अदालत	NN	O	O	O
-की	PSP	O	O	O
-चारदीवारी	NN	O	O	O
-के	PSP	O	O	O
-अन्दर	NST	O	O	O
-चार-पांच	XC	O	O	O
-घंटे	NN	O	O	O
-वह	PRP	O	O	O
-वकील	NN	O	B-MISC	OCC
-होते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-चारदीवारी	NN	O	O	O
-के	PSP	O	O	O
-बाहर	NST	O	O	O
-निकलते	VM	O	O	O
-ही	RP	O	O	O
-कवि	NN	O	O	O
-हैं	VM	O	O	O
-सिर	NN	O	O	O
-से	PSP	O	O	O
-पांव	NN	O	O	O
-तक	RP	O	O	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-देखिये	VM	O	O	O
-,	SYM	O	O	O
-कवि-मण्डल	NN	O	O	O
-जमा	VM	O	B-STAT	O
-है	VAUX	O	I-STAT	O
-,	SYM	O	O	O
-कवि-चर्चा	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-रचनाएं	NN	O	O	O
-सुन	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मस्त	JJ	O	O	O
-हो-होकर	NN	O	O	O
-झूम	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-और	CC	O	O	O
-अपनी	PRP	O	O	O
-रचना	NN	O	O	O
-सुनाते	VM	O	O	OCC
-समय	NN	O	O	O
-तो	CC	O	O	O
-उन	DEM	O	O	O
-पर	PSP	O	O	O
-एक	QC	O	O	O
-तल्लीनता-सी	NN	O	O	O
-छा	VM	O	B-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कण्ठ	RDP	O	O	O
-स्वर	NN	O	O	O
-भी	RP	O	O	O
-इतना	QF	O	O	O
-मधुर	JJ	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-कि	CC	O	O	O
-उनके	PRP	O	O	O
-पद	NN	O	O	O
-बाण	NN	O	O	O
-की	PSP	O	O	O
-तरह	PSP	O	O	O
-सीधे	JJ	O	O	O
-कलेजे	NN	O	O	O
-में	PSP	O	O	O
-उतर	VM	O	B-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अध्यात्म	NN	O	O	O
-में	PSP	O	O	O
-माधुर्य	NN	O	O	O
-की	PSP	O	O	O
-सृष्टि	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-,	SYM	O	O	O
-निर्गुण	NN	O	O	O
-में	PSP	O	O	O
-सगुण	NN	O	O	O
-की	PSP	O	O	O
-बहार	NN	O	O	O
-दिखाना	VM	O	B-MISC	O
-उनकी	PRP	O	O	O
-रचनाओं	NN	O	O	O
-की	PSP	O	O	O
-विशेषता	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-जब	PRP	O	O	O
-लखनऊ	NN	O	O	OCC
-आते	VM	O	B-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मुझे	PRP	O	O	O
-पहले	NST	O	O	O
-सूचना	NN	O	B-MISC	OCC
-दे	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-करते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आज	NN	O	O	O
-उन्हें	PRP	O	O	O
-अनायास	NN	O	O	O
-लखनऊ	NN	O	O	O
-में	PSP	O	O	O
-देखकर	VM	O	B-MISC	IAC
-मुझे	PRP	O	O	O
-आश्चर्य	NN	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-आप	PRP	O	O	O
-यहां	PRP	O	O	O
-कैसे	WQ	O	O	O
-?	SYM	O	O	O
-कुशल	JJ	O	O	O
-तो	RP	O	O	O
-है	VM	O	B-STAT	O
-?	SYM	O	O	O
-मुझे	PRP	O	O	O
-आने	VM	O	B-MISC	O
-की	PSP	O	O	O
-सूचना	NN	O	B-MISC	OCC
-तक	RP	O	I-MISC	O
-न	NEG	O	I-MISC	OCC
-दी	VM	O	I-MISC	O
-.	SYM	O	O	O
-बोले	VM	O	O	OCC
-भाईजान	NN	O	O	O
-,	SYM	O	O	O
-एक	QC	O	O	O
-जंजाल	NN	O	O	O
-में	PSP	O	O	O
-फंस	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आपको	PRP	O	O	O
-सूचित	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-का	PSP	O	O	O
-समय	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-फिर	RB	O	O	O
-आपके	PRP	O	O	O
-घर	NN	O	O	O
-को	PSP	O	O	O
-मैं	PRP	O	O	O
-अपना	PRP	O	O	O
-घर	NN	O	O	O
-समझता	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-तकल्लुफ़	NN	O	O	O
-की	PSP	O	O	O
-क्या	WQ	O	O	O
-ज़रूरत	NN	O	B-MISC	DEC
-है	VM	O	I-MISC	O
-कि	CC	O	O	O
-आप	PRP	O	O	O
-मेरे	PRP	O	O	O
-लिए	PSP	O	O	O
-कोई	PRP	O	O	O
-विशेष	JJ	O	O	O
-प्रबन्ध	NN	O	B-MISC	OCC
-करें	VM	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-एक	QC	O	O	O
-ज़रूरी	XC	O	O	O
-मुआमले	NN	O	O	O
-में	PSP	O	O	O
-आपको	PRP	O	O	O
-कष्ट	NN	O	B-MISC	OCC
-देने	VM	O	I-MISC	O
-आया	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-वक्त	NN	O	O	O
-की	PSP	O	O	O
-सैर	NN	O	O	O
-को	PSP	O	O	O
-स्थगित	JJ	O	B-MISC	O
-कीजिए	VM	O	I-MISC	O
-और	CC	O	O	O
-चलकर	VM	O	O	O
-मेरी	PRP	O	O	O
-विपत्ति-कथा	NN	O	B-MISC	OCC
-सुनिये	VM	O	I-MISC	O
-.	SYM	O	O	O
-मैंने	PRP	O	O	O
-घबड़ाकर	VM	O	O	O
-कहा	VM	O	B-MISC	OCC
-आपने	PRP	O	O	O
-तो	RP	O	O	O
-मुझे	PRP	O	O	O
-चिन्ता	NN	O	O	O
-में	PSP	O	O	O
-डाल	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आप	PRP	O	O	O
-और	CC	O	O	O
-विपत्ति-कथा	NN	O	O	O
-!	SYM	O	O	O
-मेरे	PRP	O	O	O
-तो	RP	O	O	O
-प्राण	NN	O	O	O
-सूखे	VM	O	B-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-घर	NN	O	O	O
-चलिए	VM	O	O	O
-,	SYM	O	O	O
-चित्त	NN	O	O	O
-शान्त	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-तो	CC	O	O	O
-सुनाऊं	VM	O	O	O
-!	SYM	O	O	O
-'	SYM	O	O	O
-'	SYM	O	O	O
-बाल-बच्चे	NN	O	O	O
-तो	CC	O	O	O
-अच्छी	JJ	O	O	O
-तरह	NN	O	O	O
-हैं	VM	O	O	O
-?	SYM	O	O	O
-'	SYM	O	O	O
-'	SYM	O	O	O
-हां	INJ	O	O	O
-,	SYM	O	O	O
-सब	QF	O	O	O
-अच्छी	JJ	O	O	O
-तरह	NN	O	O	O
-हैं	VM	O	B-STAT	O
-.	SYM	O	O	O
-वैसी	PRP	O	O	O
-कोई	PRP	O	O	O
-बात	NN	O	O	OCC
-नहीं	NEG	O	B-STAT	O
-है	VM	O	I-STAT	O
-!	SYM	O	O	O
-'	SYM	O	O	O
-'	SYM	O	O	O
-तो	RP	O	O	O
-चलिए	VM	O	O	O
-,	SYM	O	O	O
-रेस्ट्रां	NN	O	O	O
-में	PSP	O	O	O
-कुछ	QF	O	O	O
-जलपान	NN	O	B-MISC	OCC
-तो	RP	O	I-MISC	O
-कर	VM	O	I-MISC	O
-लीजिए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-'	SYM	O	O	O
-नहीं	NEG	O	O	O
-भाई	NN	O	O	O
-,	SYM	O	O	O
-इस	DEM	O	O	O
-वक्त	NN	O	O	O
-मुझे	PRP	O	O	O
-जलपान	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-सूझता	VM	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-हम	PRP	O	O	O
-दोनों	JJ	O	O	O
-घर	NN	O	O	O
-की	PSP	O	O	O
-ओर	PSP	O	O	O
-चले	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-घर	NN	O	O	O
-पहुंचकर	VM	O	B-MISC	OCC
-उनका	PRP	O	O	O
-हाथ-मुंह	NN	O	O	O
-धुलाया	VM	O	O	O
-,	SYM	O	O	O
-शरबत	NN	O	B-MISC	O
-पिलाया	VM	O	I-MISC	O
-.	SYM	O	O	O
-इलायची-पान	NN	O	O	O
-खाकर	VM	O	O	O
-उन्होंने	PRP	O	O	O
-अपनी	PRP	O	O	O
-विपत्ति-कथा	NN	O	O	O
-सुनानी	JJ	O	O	O
-शुरू	NN	O	O	O
-की--	VM	O	O	O
-'	SYM	O	O	O
-कुसुम	NNP	O	O	O
-के	PSP	O	O	O
-विवाह	NN	O	O	O
-में	PSP	O	O	O
-आप	PRP	O	O	O
-गये	VM	O	B-MISC	OCC
-ही	RP	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उसके	PRP	O	O	O
-पहले	NST	O	O	O
-भी	RP	O	O	O
-आपने	PRP	O	O	O
-उसे	PRP	O	O	O
-देखा	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मेरा	PRP	O	O	O
-विचार	NN	O	B-MISC	O
-है	VM	O	I-MISC	O
-कि	CC	O	O	O
-किसी	PRP	O	O	O
-सरल	JJ	O	O	O
-प्रकृति	NN	O	O	O
-के	PSP	O	O	O
-युवक	NN	O	O	O
-को	PSP	O	O	O
-आकर्षित	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-जिन	DEM	O	O	O
-गुणों	NN	O	O	O
-की	PSP	O	O	O
-ज़रूरत	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-,	SYM	O	O	O
-वह	DEM	O	O	O
-सब	PRP	O	O	O
-उसमें	PRP	O	O	O
-मौजूद	JJ	O	B-STAT	DECL
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-आपका	PRP	O	O	O
-क्या	WQ	O	O	O
-ख़याल	NN	O	O	O
-है	VM	O	B-STAT	O
-?	SYM	O	O	O
-'	SYM	O	O	O
-मैंने	PRP	O	O	O
-तत्परता	NN	O	O	O
-से	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-मैं	PRP	O	O	O
-आपसे	PRP	O	O	O
-कहीं	PRP	O	O	O
-ज्यादा	QF	O	O	O
-कुसुम	NNP	O	O	O
-का	PSP	O	O	O
-प्रशंसक	NN	O	B-MISC	OCC
-हूं	VM	O	I-MISC	O
-.	SYM	O	O	O
+साल-भर
+की
+बात
+है
+,
+एक
+दिन
+शाम
+को
+हवा
+खाने
+जा
+रहा
+था
+कि
+महाशय
+नवीन
+से
+मुलाक़ात
+हो
+गयी
+.
+मेरे
+पुराने
+दोस्त
+हैं
+,
+बड़े
+बेतकल्लुफ़
+और
+मनचले
+.
+आगरे
+में
+मकान
+है
+,
+अच्छे
+कवि
+हैं
+.
+उनके
+कवि-समाज
+में
+कई
+बार
+शरीक
+हो
+चुका
+हूं
+.
+ऐसा
+कविता
+का
+उपासक
+मैंने
+नहीं
+देखा
+.
+पेशा
+तो
+वकालत
+;
+पर
+डूबे
+रहते
+हैं
+काव्य-चिंतन
+में
+.
+आदमी
+ज़हीन
+हैं
+,
+मुक़दमा
+सामने
+आया
+और
+उसकी
+तह
+तक
+पहुंच
+गये
+;
+इसलिए
+कभी-कभी
+मुक़दमे
+मिल
+जाते
+हैं
+,
+लेकिन
+कचहरी
+के
+बाहर
+अदालत
+या
+मुक़दमे
+की
+चर्चा
+उनके
+लिए
+निषिद्ध
+है
+.
+अदालत
+की
+चारदीवारी
+के
+अन्दर
+चार-पांच
+घंटे
+वह
+वकील
+होते
+हैं
+.
+चारदीवारी
+के
+बाहर
+निकलते
+ही
+कवि
+हैं
+सिर
+से
+पांव
+तक
+.
+जब
+देखिये
+,
+कवि-मण्डल
+जमा
+है
+,
+कवि-चर्चा
+हो
+रही
+है
+,
+रचनाएं
+सुन
+रहे
+हैं
+.
+मस्त
+हो-होकर
+झूम
+रहे
+हैं
+,
+और
+अपनी
+रचना
+सुनाते
+समय
+तो
+उन
+पर
+एक
+तल्लीनता-सी
+छा
+जाती
+है
+.
+कण्ठ
+स्वर
+भी
+इतना
+मधुर
+है
+कि
+उनके
+पद
+बाण
+की
+तरह
+सीधे
+कलेजे
+में
+उतर
+जाते
+हैं
+.
+अध्यात्म
+में
+माधुर्य
+की
+सृष्टि
+करना
+,
+निर्गुण
+में
+सगुण
+की
+बहार
+दिखाना
+उनकी
+रचनाओं
+की
+विशेषता
+है
+.
+वह
+जब
+लखनऊ
+आते
+हैं
+,
+मुझे
+पहले
+सूचना
+दे
+दिया
+करते
+हैं
+.
+आज
+उन्हें
+अनायास
+लखनऊ
+में
+देखकर
+मुझे
+आश्चर्य
+हुआ
+आप
+यहां
+कैसे
+?
+कुशल
+तो
+है
+?
+मुझे
+आने
+की
+सूचना
+तक
+न
+दी
+.
+बोले
+भाईजान
+,
+एक
+जंजाल
+में
+फंस
+गया
+हूं
+.
+आपको
+सूचित
+करने
+का
+समय
+न
+था
+.
+फिर
+आपके
+घर
+को
+मैं
+अपना
+घर
+समझता
+हूं
+.
+इस
+तकल्लुफ़
+की
+क्या
+ज़रूरत
+है
+कि
+आप
+मेरे
+लिए
+कोई
+विशेष
+प्रबन्ध
+करें
+.
+मैं
+एक
+ज़रूरी
+मुआमले
+में
+आपको
+कष्ट
+देने
+आया
+हूं
+.
+इस
+वक्त
+की
+सैर
+को
+स्थगित
+कीजिए
+और
+चलकर
+मेरी
+विपत्ति-कथा
+सुनिये
+.
+मैंने
+घबड़ाकर
+कहा
+आपने
+तो
+मुझे
+चिन्ता
+में
+डाल
+दिया
+.
+आप
+और
+विपत्ति-कथा
+!
+मेरे
+तो
+प्राण
+सूखे
+जाते
+हैं
+.
+'
+घर
+चलिए
+,
+चित्त
+शान्त
+हो
+तो
+सुनाऊं
+!
+'
+'
+बाल-बच्चे
+तो
+अच्छी
+तरह
+हैं
+?
+'
+'
+हां
+,
+सब
+अच्छी
+तरह
+हैं
+.
+वैसी
+कोई
+बात
+नहीं
+है
+!
+'
+'
+तो
+चलिए
+,
+रेस्ट्रां
+में
+कुछ
+जलपान
+तो
+कर
+लीजिए
+.
+'
+'
+नहीं
+भाई
+,
+इस
+वक्त
+मुझे
+जलपान
+नहीं
+सूझता
+.
+'
+हम
+दोनों
+घर
+की
+ओर
+चले
+.
+घर
+पहुंचकर
+उनका
+हाथ-मुंह
+धुलाया
+,
+शरबत
+पिलाया
+.
+इलायची-पान
+खाकर
+उन्होंने
+अपनी
+विपत्ति-कथा
+सुनानी
+शुरू
+की--
+'
+कुसुम
+के
+विवाह
+में
+आप
+गये
+ही
+थे
+.
+उसके
+पहले
+भी
+आपने
+उसे
+देखा
+था
+.
+मेरा
+विचार
+है
+कि
+किसी
+सरल
+प्रकृति
+के
+युवक
+को
+आकर्षित
+करने
+के
+लिए
+जिन
+गुणों
+की
+ज़रूरत
+है
+,
+वह
+सब
+उसमें
+मौजूद
+हैं
+.
+आपका
+क्या
+ख़याल
+है
+?
+'
+मैंने
+तत्परता
+से
+कहा
+,
+मैं
+आपसे
+कहीं
+ज्यादा
+कुसुम
+का
+प्रशंसक
+हूं
+.

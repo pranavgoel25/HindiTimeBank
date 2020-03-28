@@ -1,170 +1,170 @@
-इस	DEM	O	O	O
-महीने	NN	O	O	O
-की	PSP	O	O	O
-शुरुआत	NN	O	O	O
-में	PSP	O	O	O
-अचानक	RB	O	O	O
-यस	DEM	O	O	O
-बैंक	NN	O	O	O
-के	PSP	O	O	O
-शेयरों	NN	O	O	O
-ने	PSP	O	O	O
-जबर्दस्त	JJ	O	O	O
-गोता	NN	O	B-MISC	OCC
-लगाया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसकी	PRP	O	O	O
-वजह	NN	O	O	O
-से	PSP	O	O	O
-निवेशक	NN	O	O	O
-और	CC	O	O	O
-बैंक	NN	O	O	O
-दोनों	JJ	O	O	O
-खासे	PRP	O	O	O
-परेशान	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-1	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-बैंक	NN	O	O	O
-का	PSP	O	O	O
-शेयर	NN	O	O	O
-23	QC	O	O	O
-पर्सेंट	NN	O	O	O
-तक	RP	O	O	O
-गिर	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-30	QC	B	O	O
-सितबंर	NN	I	O	O
-को	PSP	O	O	O
-बैंक	NN	O	O	O
-का	PSP	O	O	O
-शेयर	NN	O	O	O
-15	QC	O	O	O
-फीसदी	NN	O	O	O
-गिरा	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-बैंक	NN	O	O	O
-ने	PSP	O	O	O
-मुंबई	NNP	O	O	O
-साइबर	XC	O	O	O
-क्राइम	XC	O	O	O
-सेल	NN	O	O	O
-में	PSP	O	O	O
-शेयरों	NN	O	O	O
-में	PSP	O	O	O
-गिरावट	NN	O	O	O
-के	PSP	O	O	O
-जिम्मेदार	JJ	O	O	O
-लोगों	NN	O	O	O
-के	PSP	O	O	O
-खिलाफ	PSP:?	O	O	O
-शिकायत	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-करवाई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कंपनी	NNP	O	O	O
-का	PSP	O	O	O
-कहना	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-बैंक	NN	O	O	O
-की	PSP	O	O	O
-सेहत	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	O
-अफवाह	NN	O	O	OCC
-उड़ाई	NNP	O	B-MISC	O
-गई	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसके	PRP	O	O	O
-चलते	VM	O	O	O
-शेयरों	NN	O	O	O
-में	PSP	O	O	O
-बड़ी	JJ	O	O	O
-गिरावट	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बैंक	NN	O	O	O
-ने	PSP	O	O	O
-पुलिस	NN	O	O	O
-से	PSP	O	O	O
-एक्सपर्ट्स	NN	O	O	O
-की	PSP	O	O	O
-मल्टि-डिसिप्लिनरी	JJ	O	O	O
-टीम	NN	O	O	O
-बनाकर	VM	O	B-MISC	OCC
-मामले	NN	O	O	O
-की	PSP	O	O	O
-जांच	NN	O	B-MISC	OCC
-किए	VM	O	B-MISC	O
-जाने	VAUX	O	I-MISC	O
-की	PSP	O	O	O
-गुजारिश	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बैंक	NN	O	O	O
-का	PSP	O	O	O
-कहना	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-पुलिस	NN	O	O	O
-यह	PRP	O	O	O
-पता	JJ	O	B-MISC	OCC
-लगाए	VM	O	I-MISC	O
-कि	CC	O	O	O
-यह	DEM	O	O	O
-फर्जी	NN	O	O	O
-खबर	NN	O	O	O
-कहां	WQ	O	O	O
-से	PSP	O	O	O
-फैली	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-जिसकी	PRP	O	O	O
-वजह	NN	O	O	O
-से	PSP	O	O	O
-बैंक	NN	O	O	O
-के	PSP	O	O	O
-शेयरों	NN	O	O	O
-शॉर्ट	XC	O	B-MISC	O
-सेलिंग	NN	O	I-MISC	O
-हुई	VM	O	I-MISC	O
-.	SYM	O	O	O
-बता	VM	O	B-MISC	REP
-दें	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-1	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-बैंक	NN	O	O	O
-के	PSP	O	O	O
-शेयर	NN	O	O	O
-32	QC	O	O	O
-रुपये	NN	O	O	O
-के	PSP	O	O	O
-भाव	NN	O	O	O
-पर	PSP	O	O	O
-आ	VM	O	B-MISC	OCC
-गए	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-11	QC	B	O	O
-सितंबर	NNP	I	O	O
-को	PSP	O	O	O
-72	QC	O	O	O
-रुपये	NN	O	O	O
-था	VM	O	B-STAT	OCC
-.	SYM	O	O	O
+इस
+महीने
+की
+शुरुआत
+में
+अचानक
+यस
+बैंक
+के
+शेयरों
+ने
+जबर्दस्त
+गोता
+लगाया
+था
+,
+जिसकी
+वजह
+से
+निवेशक
+और
+बैंक
+दोनों
+खासे
+परेशान
+हो
+गए
+थे
+.
+1
+अक्टूबर
+को
+बैंक
+का
+शेयर
+23
+पर्सेंट
+तक
+गिर
+गया
+था
+.
+30
+सितबंर
+को
+बैंक
+का
+शेयर
+15
+फीसदी
+गिरा
+था
+.
+अब
+बैंक
+ने
+मुंबई
+साइबर
+क्राइम
+सेल
+में
+शेयरों
+में
+गिरावट
+के
+जिम्मेदार
+लोगों
+के
+खिलाफ
+शिकायत
+दर्ज
+करवाई
+है
+.
+कंपनी
+का
+कहना
+है
+कि
+बैंक
+की
+सेहत
+को
+लेकर
+अफवाह
+उड़ाई
+गई
+,
+जिसके
+चलते
+शेयरों
+में
+बड़ी
+गिरावट
+दर्ज
+की
+गई
+.
+बैंक
+ने
+पुलिस
+से
+एक्सपर्ट्स
+की
+मल्टि-डिसिप्लिनरी
+टीम
+बनाकर
+मामले
+की
+जांच
+किए
+जाने
+की
+गुजारिश
+की
+है
+.
+बैंक
+का
+कहना
+है
+कि
+पुलिस
+यह
+पता
+लगाए
+कि
+यह
+फर्जी
+खबर
+कहां
+से
+फैली
+,
+जिसकी
+वजह
+से
+बैंक
+के
+शेयरों
+शॉर्ट
+सेलिंग
+हुई
+.
+बता
+दें
+कि
+1
+अक्टूबर
+को
+बैंक
+के
+शेयर
+32
+रुपये
+के
+भाव
+पर
+आ
+गए
+थे
+,
+जो
+11
+सितंबर
+को
+72
+रुपये
+था
+.

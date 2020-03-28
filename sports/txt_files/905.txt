@@ -1,233 +1,233 @@
-महान	JJ	O	O	O
-क्रिकेटरों	NN	O	O	O
-में	PSP	O	O	O
-शुमार	NN	O	O	O
-पूर्व	NST	O	O	O
-भारतीय	JJ	O	O	O
-कप्तान	XC	O	O	O
-कपिल	XC	O	O	O
-देव	NNP	O	O	O
-ने	PSP	O	O	O
-मौजूदा	JJ	O	O	O
-तेज	JJ	O	O	O
-आक्रमण	NN	O	O	O
-की	PSP	O	O	O
-तारीफ	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-पिछले	JJ	B	O	O
-4	QC	I	O	O
--	SYM	O	O	O
-5	QC	B	O	O
-साल	NN	I	O	O
-में	PSP	O	O	O
-इन	DEM	O	O	O
-गेंदबाजों	NN	O	O	O
-ने	PSP	O	O	O
-भारतीय	JJ	O	O	O
-क्रिकेट	NN	O	O	O
-के	PSP	O	O	O
-रुख	NN	O	O	O
-को	PSP	O	O	O
-बदल	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कपिल	NN	O	O	O
-से	PSP	O	O	O
-जब	PRP	O	O	O
-पूछा	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-क्या	WQ	O	O	O
-मौजूदा	JJ	O	O	O
-भारतीय	JJ	O	O	O
-तेज	JJ	O	O	O
-आक्रमण	NN	O	O	O
-सर्वश्रेष्ठ	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-तो	CC	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘	NN	O	O	O
-क्या	WQ	O	O	O
-मुझे	PRP	O	O	O
-यह	PRP	O	O	O
-कहने	VM	O	B-MISC	O
-की	PSP	O	O	O
-जरूरत	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-?	SYM	O	O	O
-’	XC	O	O	O
-विश्व	XC	O	O	O
-विजेता	NN	O	O	O
-पूर्व	JJ	O	O	O
-कप्तान	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘	NN	O	O	O
-ऐसे	PRP	O	O	O
-तेज	JJ	O	O	O
-गेंदबाजों	NN	O	O	O
-का	PSP	O	O	O
-आक्रमण	NN	O	O	O
-हमने	PRP	O	O	O
-देखा	VM	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-था	VM	O	I-MISC	O
-,	SYM	O	O	O
-सोचा	VM	O	O	O
-भी	RP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-इसलिए	CC	O	O	O
-किसी	PRP	O	O	O
-को	PSP	O	O	O
-कुछ	QF	O	O	O
-कहने	VM	O	B-MISC	O
-की	PSP	O	O	O
-जरूरत	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-है	VM	O	I-MISC	O
-और	CC	O	O	O
-हां	INJ	O	O	O
-,	SYM	O	O	O
-बिना	NEG	O	O	O
-किसी	PRP	O	O	O
-संदेह	NN	O	O	O
-के	PSP	O	O	O
-पिछले	JJ	O	O	O
-चार-पांच	NN	O	O	O
-वर्षों	NN	O	O	O
-में	PSP	O	O	O
-तेज	JJ	O	O	O
-गेंदबाजों	NN	O	O	O
-ने	PSP	O	O	O
-भारतीय	JJ	O	O	O
-क्रिकेट	NN	O	O	O
-के	PSP	O	O	O
-रूख	NN	O	O	O
-को	PSP	O	O	O
-बदल	VM	O	B-MISC	IAC
-कर	VAUX	O	I-MISC	O
-रख	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’	NN	O	O	O
-मौजूदा	JJ	O	O	O
-भारतीय	JJ	O	O	O
-तेज	JJ	O	O	O
-गेंदबाजों	NN	O	O	O
-में	PSP	O	O	O
-जसप्रीत	JJ	O	O	O
-बुमराह	NN	O	O	O
-,	SYM	O	O	O
-उमेश	XC	O	O	O
-यादव	NN	O	O	O
-,	SYM	O	O	O
-मोहम्मद	JJ	O	O	O
-शमी	NN	O	O	O
-,	SYM	O	O	O
-इशांत	XC	O	O	O
-शर्मा	NNP	O	O	O
-,	SYM	O	O	O
-दीपक	XC	O	O	O
-चाहर	NNP	O	O	O
-और	CC	O	O	O
-नवदीप	XC	O	O	O
-सैनी	NN	O	O	O
-शामिल	JJ	O	B-STAT	DECL
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-स्ट्रेस	XC	O	O	O
-फैक्चर	NN	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	O	O
-बुमराह	NN	O	O	O
-साउथ	XC	O	O	O
-अफ्रीका	NNP	O	O	O
-के	PSP	O	O	O
-खिलाफ	PSP:?	O	O	O
-मौजूदा	JJ	O	O	O
-टेस्ट	NN	O	O	O
-सीरीज	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-टीम	NN	O	O	O
-में	PSP	O	O	O
-नहीं	NEG	O	B-STAT	O
-हैं	VM	O	I-STAT	O
-लेकिन	CC	O	O	O
-मोहम्मद	JJ	O	O	O
-शमी	NN	O	O	O
-ने	PSP	O	O	O
-विशाखापत्तनम	NN	O	O	O
-में	PSP	O	O	O
-पहले	NST	O	O	O
-टेस्ट	NN	O	O	O
-में	PSP	O	O	O
-शानदार	JJ	O	O	O
-गेंदबाजी	NN	O	B-MISC	O
-कर	VM	O	I-MISC	O
-उनकी	PRP	O	O	O
-कमी	NN	O	O	O
-को	PSP	O	O	O
-महसूस	JJ	O	B-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-होने	VM	O	I-MISC	O
-दी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कपिल	NN	O	O	O
-ने	PSP	O	O	O
-यहां	PRP	O	O	O
-एक	QC	O	O	O
-कार्यक्रम	NN	O	O	O
-में	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘	NN	O	O	O
-इससे	PRP	O	O	O
-कुछ	QF	O	O	O
-फर्क	NN	O	O	O
-नहीं	NEG	O	O	O
-पड़ता	XC	O	O	O
-(	SYM	O	O	O
-कि	CC	O	O	O
-वह	PRP	O	O	O
-रैंकिंग	NN	O	O	O
-में	PSP	O	O	O
-शीर्ष	NN	O	O	O
-10	QC	O	O	O
-में	PSP	O	O	O
-शामिल	JJ	O	B-STAT	OCC
-नहीं	NEG	O	I-STAT	O
-है	VM	O	I-STAT	O
-)	SYM	O	O	O
-,	SYM	O	O	O
-यह	DEM	O	O	O
-मायने	NN	O	O	O
-रखता	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-वह	PRP	O	O	O
-टीम	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-कितने	WQ	O	O	O
-प्रभावशाली	JJ	O	B-STAT	O
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-उन्हें	PRP	O	O	O
-शानदार	JJ	O	O	O
-प्रदर्शन	NN	O	B-MISC	O
-करते	VM	O	I-MISC	O
-देखना	VM	O	I-MISC	O
-अच्छा	JJ	O	B-MISC	OCC
-लगाता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-’	NN	O	O	O
+महान
+क्रिकेटरों
+में
+शुमार
+पूर्व
+भारतीय
+कप्तान
+कपिल
+देव
+ने
+मौजूदा
+तेज
+आक्रमण
+की
+तारीफ
+करते
+हुए
+कहा
+कि
+पिछले
+4
+-
+5
+साल
+में
+इन
+गेंदबाजों
+ने
+भारतीय
+क्रिकेट
+के
+रुख
+को
+बदल
+दिया
+.
+कपिल
+से
+जब
+पूछा
+गया
+कि
+क्या
+मौजूदा
+भारतीय
+तेज
+आक्रमण
+सर्वश्रेष्ठ
+है
+तो
+उन्होंने
+कहा
+,
+‘
+क्या
+मुझे
+यह
+कहने
+की
+जरूरत
+है
+?
+’
+विश्व
+विजेता
+पूर्व
+कप्तान
+ने
+कहा
+,
+‘
+ऐसे
+तेज
+गेंदबाजों
+का
+आक्रमण
+हमने
+देखा
+नहीं
+था
+,
+सोचा
+भी
+नहीं
+था
+.
+इसलिए
+किसी
+को
+कुछ
+कहने
+की
+जरूरत
+नहीं
+है
+और
+हां
+,
+बिना
+किसी
+संदेह
+के
+पिछले
+चार-पांच
+वर्षों
+में
+तेज
+गेंदबाजों
+ने
+भारतीय
+क्रिकेट
+के
+रूख
+को
+बदल
+कर
+रख
+दिया
+.
+’
+मौजूदा
+भारतीय
+तेज
+गेंदबाजों
+में
+जसप्रीत
+बुमराह
+,
+उमेश
+यादव
+,
+मोहम्मद
+शमी
+,
+इशांत
+शर्मा
+,
+दीपक
+चाहर
+और
+नवदीप
+सैनी
+शामिल
+हैं
+.
+स्ट्रेस
+फैक्चर
+के
+कारण
+बुमराह
+साउथ
+अफ्रीका
+के
+खिलाफ
+मौजूदा
+टेस्ट
+सीरीज
+के
+लिए
+टीम
+में
+नहीं
+हैं
+लेकिन
+मोहम्मद
+शमी
+ने
+विशाखापत्तनम
+में
+पहले
+टेस्ट
+में
+शानदार
+गेंदबाजी
+कर
+उनकी
+कमी
+को
+महसूस
+नहीं
+होने
+दी
+.
+कपिल
+ने
+यहां
+एक
+कार्यक्रम
+में
+कहा
+,
+‘
+इससे
+कुछ
+फर्क
+नहीं
+पड़ता
+(
+कि
+वह
+रैंकिंग
+में
+शीर्ष
+10
+में
+शामिल
+नहीं
+है
+)
+,
+यह
+मायने
+रखता
+है
+कि
+वह
+टीम
+के
+लिए
+कितने
+प्रभावशाली
+हैं
+.
+उन्हें
+शानदार
+प्रदर्शन
+करते
+देखना
+अच्छा
+लगाता
+है
+.
+’

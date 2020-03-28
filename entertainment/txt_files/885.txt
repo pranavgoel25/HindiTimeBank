@@ -1,204 +1,204 @@
-खूबसूरत	JJ	O	O	O
-हिना	XC	O	O	O
-खान	NN	O	O	O
-वर्तमान	JJ	O	O	O
-समय	NN	O	O	O
-में	PSP	O	O	O
-छोटे	JJ	O	O	O
-परदे	NN	O	O	O
-की	PSP	O	O	O
-सबसे	INTF	O	O	O
-लोकप्रिय	JJ	O	O	O
-ऐक्ट्रेस	NN	O	O	O
-में	PSP	O	O	O
-से	PSP	O	O	O
-एक	QC	O	O	O
-हैं	VM	O	B-STAT	O
-.	SYM	O	O	O
-अभी	PRP	O	O	O
-हिना	XC	O	O	O
-खान	NN	O	O	O
-के	PSP	O	O	O
-करियर	NN	O	O	O
-का	PSP	O	O	O
-बेहतरीन	JJ	O	O	O
-दौर	NN	O	O	O
-चल	VM	O	B-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हिना	NN	O	O	O
-ने	PSP	O	O	O
-जब	PRP	O	O	O
-सीरियल	JJ	O	O	O
-ये	DEM	O	O	O
-रिश्ता	NN	O	O	O
-क्या	WQ	O	O	O
-कहलाता	VM	O	B-MISC	O
-है	VAUX	O	I-MISC	O
-में	PSP	O	O	O
-अक्षरा	NN	O	O	O
-की	PSP	O	O	O
-भूमिका	NN	O	B-MISC	O
-निभाई	VM	O	I-MISC	OCC
-तो	CC	O	O	O
-उन्हें	PRP	O	O	O
-काफी	QF	O	O	O
-लोकप्रियता	NN	O	B-MISC	OCC
-मिली	VM	O	I-MISC	O
-.	SYM	O	O	O
-बाद	NST	O	O	O
-में	PSP	O	O	O
-जब	PRP	O	O	O
-वह	PRP	O	O	O
-बिग	JJ	O	O	O
-बॉस	NN	O	O	O
-11	QC	O	O	O
-में	PSP	O	O	O
-आईं	VAUX	O	B-MISC	O
-तो	CC	O	O	O
-उनकी	PRP	O	O	O
-लोकप्रियता	NN	O	O	O
-सातवें	QO	O	O	O
-आसमान	NN	O	O	O
-पर	PSP	O	O	O
-पहुंच	VM	O	B-MISC	OCC
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हिना	XC	O	O	O
-खान	NN	O	O	O
-ने	PSP	O	O	O
-कसौटी	NN	O	O	O
-जिंदगी	NN	O	O	O
-की	PSP	O	O	O
-में	PSP	O	O	O
-कोमोलिका	NNP	O	O	O
-की	PSP	O	O	O
-भूमिका	NN	O	B-MISC	OCC
-निभाई	VM	O	I-MISC	O
-तो	CC	O	O	O
-उन्होंने	PRP	O	O	O
-सबका	PRP	O	O	O
-दिल	NN	O	B-MISC	O
-जीत	VM	O	I-MISC	OCC
-लिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हिना	NN	O	O	O
-जितनी	QF	O	O	O
-ग्लैमरस	NN	O	O	O
-अपने	PRP	O	O	O
-शो	NN	O	O	O
-में	PSP	O	O	O
-दिखती	VM	O	B-STAT	O
-हैं	VAUX	O	I-STAT	O
-,	SYM	O	O	O
-उतनी	QF	O	O	O
-ही	RP	O	O	O
-हॉट	XC	O	O	O
-रीयल	XC	O	O	O
-लाइफ	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-है	VM	O	B-STAT	DEC
-.	SYM	O	O	O
-सोशल	XC	O	O	O
-मीडिया	NNP	O	O	O
-पर	PSP	O	O	O
-हिना	VM	O	B-MISC	O
-खूब	INTF	O	O	O
-सक्रिय	JJ	O	B-STAT	DECL
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-उनकी	PRP	O	O	O
-फैन	NN	O	O	O
-फॉलोइंग	NN	O	O	O
-भी	RP	O	O	O
-काफी	QF	O	O	O
-अच्छी	JJ	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-अपने	PRP	O	O	O
-प्रशंसकों	NN	O	O	O
-को	PSP	O	O	O
-खुश	JJ	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-भी	RP	O	O	O
-बेहतर	JJ	O	O	O
-तरीके	NN	O	O	O
-से	PSP	O	O	O
-जानती	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सोशल	XC	O	O	O
-मीडिया	NNP	O	O	O
-पर	PSP	O	O	O
-वह	PRP	O	O	O
-अपनी	PRP	O	O	O
-हॉट	JJ	O	O	O
-तस्वीरें	NN	O	O	O
-,	SYM	O	O	O
-विडियो	XC	O	O	O
-शेयर	NN	O	O	O
-करना	VM	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-भूलती	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हाल	NN	O	O	O
-ही	RP	O	O	O
-हिना	NN	O	O	O
-ने	PSP	O	O	O
-अपने	PRP	O	O	O
-इंस्टाग्राम	NN	O	O	O
-पर	PSP	O	O	O
-एक	QC	O	O	O
-तस्वीर	NN	O	O	O
-कुछ	QF	O	O	O
-तस्वीरें	NN	O	O	O
-शेयर	NN	O	B-MISC	O
-की	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन	DEM	O	O	O
-तस्वीरों	NN	O	O	O
-में	PSP	O	O	O
-बला	NN	O	O	O
-की	PSP	O	O	O
-खूबसूरत	JJ	O	B-MISC	OCC
-लग	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मरुन	NN	O	O	O
-रंग	NN	O	O	O
-की	PSP	O	O	O
-बॉडिकॉन	XC	O	O	O
-ड्रेस	NN	O	O	O
-में	PSP	O	O	O
-उन्हें	PRP	O	O	O
-देखा	VM	O	B-MISC	OCC
-जा	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-ड्रेस	NN	O	O	O
-में	PSP	O	O	O
-हिना	NN	O	O	O
-के	PSP	O	O	O
-शरीर	NN	O	O	O
-के	PSP	O	O	O
-सारे	QF	O	O	O
-कर्व	XC	O	O	O
-उभरकर	VM	O	O	O
-सामने	NST	O	B-MISC	OCC
-आ	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आप	PRP	O	O	O
-नीचे	NST	O	O	O
-तस्वीरें	NN	O	B-MISC	OCC
-देखें	VM	O	I-MISC	O
-.	SYM	O	O	O
+खूबसूरत
+हिना
+खान
+वर्तमान
+समय
+में
+छोटे
+परदे
+की
+सबसे
+लोकप्रिय
+ऐक्ट्रेस
+में
+से
+एक
+हैं
+.
+अभी
+हिना
+खान
+के
+करियर
+का
+बेहतरीन
+दौर
+चल
+रहा
+है
+.
+हिना
+ने
+जब
+सीरियल
+ये
+रिश्ता
+क्या
+कहलाता
+है
+में
+अक्षरा
+की
+भूमिका
+निभाई
+तो
+उन्हें
+काफी
+लोकप्रियता
+मिली
+.
+बाद
+में
+जब
+वह
+बिग
+बॉस
+11
+में
+आईं
+तो
+उनकी
+लोकप्रियता
+सातवें
+आसमान
+पर
+पहुंच
+गई
+.
+हिना
+खान
+ने
+कसौटी
+जिंदगी
+की
+में
+कोमोलिका
+की
+भूमिका
+निभाई
+तो
+उन्होंने
+सबका
+दिल
+जीत
+लिया
+.
+हिना
+जितनी
+ग्लैमरस
+अपने
+शो
+में
+दिखती
+हैं
+,
+उतनी
+ही
+हॉट
+रीयल
+लाइफ
+में
+भी
+है
+.
+सोशल
+मीडिया
+पर
+हिना
+खूब
+सक्रिय
+हैं
+.
+उनकी
+फैन
+फॉलोइंग
+भी
+काफी
+अच्छी
+है
+.
+वह
+अपने
+प्रशंसकों
+को
+खुश
+करना
+भी
+बेहतर
+तरीके
+से
+जानती
+हैं
+.
+सोशल
+मीडिया
+पर
+वह
+अपनी
+हॉट
+तस्वीरें
+,
+विडियो
+शेयर
+करना
+नहीं
+भूलती
+हैं
+.
+हाल
+ही
+हिना
+ने
+अपने
+इंस्टाग्राम
+पर
+एक
+तस्वीर
+कुछ
+तस्वीरें
+शेयर
+की
+हैं
+.
+उन
+तस्वीरों
+में
+बला
+की
+खूबसूरत
+लग
+रही
+हैं
+.
+मरुन
+रंग
+की
+बॉडिकॉन
+ड्रेस
+में
+उन्हें
+देखा
+जा
+सकता
+है
+.
+इस
+ड्रेस
+में
+हिना
+के
+शरीर
+के
+सारे
+कर्व
+उभरकर
+सामने
+आ
+रहे
+हैं
+.
+आप
+नीचे
+तस्वीरें
+देखें
+.

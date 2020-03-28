@@ -1,394 +1,394 @@
-रिलायंस	XC	O	O	O
-जियो	NNP	O	O	O
-से	PSP	O	O	O
-बाकी	JJ	O	O	O
-टेलिकॉम	XC	O	O	O
-नेटवर्क्स	NNP	O	O	O
-पर	PSP	O	O	O
-कॉलिंग	NN	O	O	O
-अब	PRP	O	O	O
-फ्री	JJ	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-रही	VM	O	I-MISC	O
-और	CC	O	O	O
-इससे	PRP	O	O	O
-जुड़ा	XC	O	O	O
-बड़ा	XC	O	O	O
-अनाउंसमेंट	JJ	O	O	O
-कंपनी	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-किया	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जियो	XC	O	O	O
-यूजर्स	NNP	O	O	O
-को	PSP	O	O	O
-बाकी	JJ	O	O	O
-नेटवर्क्स	NN	O	O	O
-पर	PSP	O	O	O
-कॉल	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-अब	PRP	O	O	O
-6	QC	O	O	O
-पैसा	NN	O	O	O
-प्रति	RP:?	O	O	O
-मिनट	NN	O	O	O
-की	PSP	O	O	O
-दर	NN	O	O	O
-से	PSP	O	O	O
-भुगतान	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-होगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जियो	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-अब	PRP	O	O	O
-तक	RP	O	O	O
-यूजर्स	NN	O	O	O
-को	PSP	O	O	O
-डेटा	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-ही	RP	O	O	O
-रीचार्ज	NN	O	O	O
-करवाना	VM	O	B-MISC	OCC
-होता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसमें	PRP	O	O	O
-एसएमएस	NN	O	O	O
-और	CC	O	O	O
-अनलिमिटेड	JJ	O	O	O
-वॉइस	XC	O	O	O
-कॉलिंग	XC	O	O	O
-यूजर्स	NNP	O	O	O
-को	PSP	O	O	O
-फ्री	NN	O	O	O
-में	PSP	O	O	O
-मिलती	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-जियो	NN	O	O	O
-से	PSP	O	O	O
-बाकी	JJ	O	O	O
-नेटवर्क्स	NN	O	O	O
-पर	PSP	O	O	O
-कॉलिंग	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-आपको	PRP	O	O	O
-अलग	RDP	O	O	O
-से	PSP	O	O	O
-IUC	JJ	O	O	O
-टॉप-अप	NN	O	O	O
-रीचार्ज	NN	O	B-MISC	O
-करवाना	VM	O	I-MISC	OCC
-होगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जियो	RDP	O	O	O
-की	PSP	O	O	O
-अनलिमिटेड	JJ	O	O	O
-कॉलिंग	NN	O	O	O
-फ्री	NN	O	O	O
-क्यों	WQ	O	O	O
-नहीं	NEG	O	B-MISC	O
-रही	VM	O	I-MISC	O
-और	CC	O	O	O
-आप	PRP	O	O	O
-पर	PSP	O	O	O
-इसका	PRP	O	O	O
-क्या	WQ	O	O	O
-असर	NN	O	O	OCC
-पड़ेगा	XC	O	O	O
-,	SYM	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-कुछ	QF	O	O	O
-बातें	NN	O	O	O
-समझना	VM	O	O	OCC
-जरूरी	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-इंटरकनेक्ट	XC	O	O	O
-यूजेस	NNP	O	O	O
-चार्ज	NN	O	O	O
-या	CC	O	O	O
-आईयूसी	NN	O	O	O
-ही	RP	O	O	O
-जियो	NN	O	O	O
-की	PSP	O	O	O
-कॉलिंग	NN	O	O	O
-सभी	QF	O	O	O
-नेटवर्क्स	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-फ्री	NN	O	O	OCC
-न	NEG	O	B-MISC	O
-रहने	VM	O	I-MISC	O
-की	PSP	O	O	O
-वजह	NN	O	B-MISC	OCC
-बनी	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-दरअसल	NN	O	O	O
-,	SYM	O	O	O
-एक	QC	O	O	O
-टेलिकॉम	XC	O	O	O
-नेटवर्क	NNP	O	O	O
-से	PSP	O	O	O
-दूसरे	PRP	O	O	O
-नेटवर्क	NN	O	O	O
-पर	PSP	O	O	O
-कॉलिंग	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-ट्राई	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-तय	JJ	O	B-MISC	OCC
-किए	VM	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-एक	QC	O	O	O
-शुल्क	NN	O	O	O
-का	PSP	O	O	O
-भुगतान	NN	O	O	OCC
-कंपनियों	NN	O	O	O
-को	PSP	O	O	O
-करना	VM	O	B-MISC	OCC
-पड़ता	NNP	O	I-MISC	O
-है	VM	O	I-MISC	O
-.	SYM	O	O	O
-जिस	DEM	O	O	O
-नेटवर्क	NN	O	O	O
-से	PSP	O	O	O
-दूसरे	PRP	O	O	O
-नेटवर्क	NN	O	O	O
-पर	PSP	O	O	O
-आउटगोइंग	NN	O	O	O
-कॉल	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-जाती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उसे	PRP	O	O	O
-दूसरे	JJ	O	O	O
-नेटवर्क	NN	O	O	O
-को	PSP	O	O	O
-यह	DEM	O	O	O
-आईयूसी	NN	O	O	O
-फीस	NN	O	O	O
-देनी	VM	O	O	O
-पड़ती	NNP	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-उदाहरण	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-अगर	CC	O	O	O
-एयरटेल	NN	O	O	O
-कस्टमर	NN	O	O	O
-ने	PSP	O	O	O
-किसी	PRP	O	O	O
-जियो	PRP	O	O	O
-कस्टमर	NN	O	O	O
-को	PSP	O	O	O
-कॉल	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-एयरटेल	XC	O	O	O
-जियो	NNP	O	O	O
-को	PSP	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-आईयूसी	JJ	O	O	O
-चार्ज	NN	O	O	O
-देगा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-,	SYM	O	O	O
-जियो	XC	O	O	O
-यूजर	NNP	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-एयरटेल	NN	O	O	O
-के	PSP	O	O	O
-नंबर	NN	O	O	O
-पर	PSP	O	O	O
-आउटगोइंग	NN	O	O	O
-कॉल	NN	O	O	O
-की	PSP	O	O	O
-स्थिति	NN	O	O	O
-में	PSP	O	O	O
-जियो	PRP	O	O	O
-भी	RP	O	O	O
-एयरटेल	NN	O	O	O
-को	PSP	O	O	O
-आईयूसी	JJ	O	O	O
-चार्ज	NN	O	O	O
-का	PSP	O	O	O
-भुगतान	NN	O	B-MISC	OCC
-करेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-जियो	NNP	O	O	O
-के	PSP	O	O	O
-मौजूदा	JJ	O	O	O
-प्लान्स	NN	O	O	O
-में	PSP	O	O	O
-कोई	PRP	O	O	O
-बदलाव	NN	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-आप	PRP	O	O	O
-जियो	PRP	O	O	O
-के	PSP	O	O	O
-सिम	NN	O	O	O
-से	PSP	O	O	O
-बाकी	JJ	O	O	O
-नेटवर्क्स	NN	O	O	O
-पर	PSP	O	O	O
-कॉल	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-चाहते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-आपको	PRP	O	O	O
-अलग	RDP	O	O	O
-से	PSP	O	O	O
-आईयूसी	JJ	O	O	O
-टॉप-अप	NN	O	O	O
-वाउचर	NN	O	O	O
-से	PSP	O	O	O
-रीचार्ज	NN	O	B-MISC	O
-करवाना	VM	O	I-MISC	OCC
-होगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसकी	PRP	O	O	O
-टॉप-अप	NN	O	O	O
-की	PSP	O	O	O
-कीमत	NN	O	O	O
-10	QC	O	O	O
-रुपये	NN	O	O	O
-से	PSP	O	O	O
-शुरू	NN	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-कस्मटर्स	NN	O	O	O
-को	PSP	O	O	O
-यह	DEM	O	O	O
-रकम	NN	O	O	O
-भी	RP	O	O	O
-ज्यादा	QF	O	O	O
-न	NEG	O	B-MISC	OCC
-लगे	VM	O	I-MISC	O
-,	SYM	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-कंपनी	NN	O	O	O
-10	QC	O	O	O
-रुपये	NN	O	O	O
-के	PSP	O	O	O
-आईयूसी	JJ	O	O	O
-टॉप	NN	O	O	O
-पर	PSP	O	O	O
-पर	PSP	O	O	O
-1	QC	O	O	O
-जीबी	NN	O	O	O
-डेटा	XC	O	O	O
-एक्सट्रा	NNP	O	B-MISC	O
-देगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-तरह	NN	O	O	O
-दूसरे	JJ	O	O	O
-नेटवर्क	NN	O	O	O
-पर	PSP	O	O	O
-कॉलिंग	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-की	PSP	O	O	O
-स्थिति	NN	O	O	O
-में	PSP	O	O	O
-आपके	PRP	O	O	O
-इस	DEM	O	O	O
-रीचार्ज	NN	O	O	O
-से	PSP	O	O	O
-6	QC	O	O	O
-पैसा	NN	O	O	O
-प्रति	PSP	O	O	O
-मिनट	NN	O	O	O
-की	PSP	O	O	O
-दर	NN	O	O	O
-से	PSP	O	O	O
-रकम	NN	O	B-MISC	O
-कटेगी	VM	O	I-MISC	OCC
-.	SYM	O	O	O
-इस	DEM	O	O	O
-तरह	NN	O	O	O
-10	QC	O	O	O
-रुपये	NN	O	O	O
-के	PSP	O	O	O
-रीचार्ज	NN	O	O	O
-से	PSP	O	O	O
-दूसरे	JJ	O	O	O
-नेटवर्क्स	NNP	O	O	O
-पर	PSP	O	O	O
-124	QC	O	O	O
-मिनट	NN	O	O	O
-(	SYM	O	O	O
-2	QC	O	O	O
-घंटे	NN	O	O	O
-और	CC	O	O	O
-4	QC	O	O	O
-मिनट	NN	O	O	O
-)	SYM	O	O	O
-कॉलिंग	NN	O	B-MISC	O
-की	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-सकेगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जियो	RDP	O	O	O
-से	PSP	O	O	O
-जियो	PRP	O	O	O
-नंबर	NN	O	O	O
-पर	PSP	O	O	O
-,	SYM	O	O	O
-लैंडलाइन	NN	O	O	O
-पर	PSP	O	O	O
-या	CC	O	O	O
-वॉट्सऐप	DEM	O	O	O
-जैसी	PSP	O	O	O
-इंटरनेट	XC	O	O	O
-सर्विसेज	NN	O	O	O
-पर	PSP	O	O	O
-कॉलिंग	NN	O	B-MISC	OCC
-फ्री	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-इनकमिंग	XC	O	O	O
-कॉल्स	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-भी	RP	O	O	O
-कस्टमर्स	NN	O	O	O
-को	PSP	O	O	O
-कोई	PRP	O	O	O
-भुगतान	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-करना	VM	O	I-MISC	O
-होगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+रिलायंस
+जियो
+से
+बाकी
+टेलिकॉम
+नेटवर्क्स
+पर
+कॉलिंग
+अब
+फ्री
+नहीं
+रही
+और
+इससे
+जुड़ा
+बड़ा
+अनाउंसमेंट
+कंपनी
+की
+ओर
+से
+किया
+गया
+है
+.
+जियो
+यूजर्स
+को
+बाकी
+नेटवर्क्स
+पर
+कॉल
+करने
+के
+लिए
+अब
+6
+पैसा
+प्रति
+मिनट
+की
+दर
+से
+भुगतान
+करना
+होगा
+.
+जियो
+की
+ओर
+से
+अब
+तक
+यूजर्स
+को
+डेटा
+के
+लिए
+ही
+रीचार्ज
+करवाना
+होता
+था
+,
+जिसमें
+एसएमएस
+और
+अनलिमिटेड
+वॉइस
+कॉलिंग
+यूजर्स
+को
+फ्री
+में
+मिलती
+थी
+.
+अब
+जियो
+से
+बाकी
+नेटवर्क्स
+पर
+कॉलिंग
+के
+लिए
+आपको
+अलग
+से
+IUC
+टॉप-अप
+रीचार्ज
+करवाना
+होगा
+.
+जियो
+की
+अनलिमिटेड
+कॉलिंग
+फ्री
+क्यों
+नहीं
+रही
+और
+आप
+पर
+इसका
+क्या
+असर
+पड़ेगा
+,
+इसके
+लिए
+कुछ
+बातें
+समझना
+जरूरी
+है
+.
+इंटरकनेक्ट
+यूजेस
+चार्ज
+या
+आईयूसी
+ही
+जियो
+की
+कॉलिंग
+सभी
+नेटवर्क्स
+के
+साथ
+फ्री
+न
+रहने
+की
+वजह
+बनी
+है
+.
+दरअसल
+,
+एक
+टेलिकॉम
+नेटवर्क
+से
+दूसरे
+नेटवर्क
+पर
+कॉलिंग
+के
+लिए
+ट्राई
+की
+ओर
+से
+तय
+किए
+गए
+एक
+शुल्क
+का
+भुगतान
+कंपनियों
+को
+करना
+पड़ता
+है
+.
+जिस
+नेटवर्क
+से
+दूसरे
+नेटवर्क
+पर
+आउटगोइंग
+कॉल
+की
+जाती
+है
+,
+उसे
+दूसरे
+नेटवर्क
+को
+यह
+आईयूसी
+फीस
+देनी
+पड़ती
+है
+.
+उदाहरण
+के
+लिए
+अगर
+एयरटेल
+कस्टमर
+ने
+किसी
+जियो
+कस्टमर
+को
+कॉल
+किया
+है
+,
+तो
+एयरटेल
+जियो
+को
+इसके
+लिए
+आईयूसी
+चार्ज
+देगा
+.
+वहीं
+,
+जियो
+यूजर
+की
+ओर
+से
+एयरटेल
+के
+नंबर
+पर
+आउटगोइंग
+कॉल
+की
+स्थिति
+में
+जियो
+भी
+एयरटेल
+को
+आईयूसी
+चार्ज
+का
+भुगतान
+करेगा
+.
+जियो
+के
+मौजूदा
+प्लान्स
+में
+कोई
+बदलाव
+नहीं
+किया
+गया
+है
+.
+अगर
+आप
+जियो
+के
+सिम
+से
+बाकी
+नेटवर्क्स
+पर
+कॉल
+करना
+चाहते
+हैं
+तो
+आपको
+अलग
+से
+आईयूसी
+टॉप-अप
+वाउचर
+से
+रीचार्ज
+करवाना
+होगा
+.
+इसकी
+टॉप-अप
+की
+कीमत
+10
+रुपये
+से
+शुरू
+है
+.
+कस्मटर्स
+को
+यह
+रकम
+भी
+ज्यादा
+न
+लगे
+,
+इसके
+लिए
+कंपनी
+10
+रुपये
+के
+आईयूसी
+टॉप
+पर
+पर
+1
+जीबी
+डेटा
+एक्सट्रा
+देगी
+.
+इस
+तरह
+दूसरे
+नेटवर्क
+पर
+कॉलिंग
+करने
+की
+स्थिति
+में
+आपके
+इस
+रीचार्ज
+से
+6
+पैसा
+प्रति
+मिनट
+की
+दर
+से
+रकम
+कटेगी
+.
+इस
+तरह
+10
+रुपये
+के
+रीचार्ज
+से
+दूसरे
+नेटवर्क्स
+पर
+124
+मिनट
+(
+2
+घंटे
+और
+4
+मिनट
+)
+कॉलिंग
+की
+जा
+सकेगी
+.
+जियो
+से
+जियो
+नंबर
+पर
+,
+लैंडलाइन
+पर
+या
+वॉट्सऐप
+जैसी
+इंटरनेट
+सर्विसेज
+पर
+कॉलिंग
+फ्री
+है
+और
+इनकमिंग
+कॉल्स
+के
+लिए
+भी
+कस्टमर्स
+को
+कोई
+भुगतान
+नहीं
+करना
+होगा
+.

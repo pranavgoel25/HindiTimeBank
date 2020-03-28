@@ -1,170 +1,170 @@
-टेलिकॉम	XC	O	O	O
-इंडस्ट्री	NNP	O	O	O
-में	PSP	O	O	O
-चल	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-कॉम्पिटिशन	NN	O	O	O
-में	PSP	O	O	O
-बने	VM	O	B-MISC	OCC
-रहने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-जहां	PRP	O	O	O
-कंपनियों	NN	O	O	O
-को	PSP	O	O	O
-कड़ी	XC	O	O	O
-मेहनत	NN	O	O	O
-करनी	VM	O	B-MISC	OCC
-पड़	NNP	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वहीं	PRP	O	O	O
-यूजर्स	NN	O	O	O
-को	PSP	O	O	O
-इससे	PRP	O	O	O
-काफी	QF	O	O	O
-फायदा	NN	O	B-MISC	OCC
-पहुंच	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सभी	QF	O	O	O
-कंपनियां	NN	O	O	O
-अपने	PRP	O	O	O
-यूजर	XC	O	O	O
-बेस	NN	O	O	O
-को	PSP	O	O	O
-बढ़ाने	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-आकर्षक	JJ	O	O	O
-प्लान	NN	O	O	O
-ला	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-रिलायंस	XC	O	O	O
-जियो	NNP	O	O	O
-ने	PSP	O	O	O
-सबसे	INTF	O	O	O
-पहले	NST	O	O	O
-सस्ते	JJ	O	O	O
-डेटा	NN	O	O	O
-और	CC	O	O	O
-अनलिमिटेड	JJ	O	O	O
-कॉलिंग	NN	O	O	O
-वाले	PSP	O	O	O
-प्लान	NN	O	O	O
-को	PSP	O	O	O
-ऑफर	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-शुरू	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इससे	PRP	O	O	O
-जियो	NN	O	O	O
-के	PSP	O	O	O
-सब्सक्राइबर	JJ	O	O	O
-बेस	NN	O	O	O
-में	PSP	O	O	O
-तेजी	RB	O	O	O
-से	PSP	O	O	O
-इजाफा	NN	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-कंपनी	NNP	O	O	O
-ने	PSP	O	O	O
-जब	PRP	O	O	O
-से	PSP	O	O	O
-IUC	NN	O	O	O
-लागू	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-तब	PRP	O	O	O
-से	PSP	O	O	O
-स्थिति	NN	O	O	O
-थोड़ी	JJ	O	B-MISC	O
-बदल	VM	O	I-MISC	OCC
-गई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कंपनी	NNP	O	O	O
-अब	PRP	O	O	O
-दूसरे	PRP	O	O	O
-नेटवर्क्स	NN	O	O	O
-पर	PSP	O	O	O
-कॉल	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-यूजर्स	NN	O	O	O
-से	PSP	O	O	O
-प्रति	RP:?	O	O	O
-मिनट	NN	O	O	O
-6	QC	O	O	O
-पैसे	NN	O	O	O
-ले	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आईयूसी	JJ	O	O	O
-बोझ	NN	O	O	O
-न	NEG	O	B-MISC	O
-लगे	VM	O	I-MISC	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-हाल	NN	O	O	O
-में	PSP	O	O	O
-जियो	NN	O	O	O
-ने	PSP	O	O	O
-149	QC	O	O	O
-रुपये	NN	O	O	O
-वाले	PSP	O	O	O
-प्लान	NN	O	O	O
-को	PSP	O	O	O
-रिवाइज	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-प्लान	NN	O	O	O
-में	PSP	O	O	O
-यूजर्स	NN	O	O	O
-को	PSP	O	O	O
-दूसरे	PRP	O	O	O
-नेटवर्क्स	NN	O	B-MISC	O
-पर	PSP	O	I-MISC	O
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-अब	PRP	O	O	O
-फ्री	JJ	O	O	O
-मिनट्स	NN	O	O	O
-ऑफर	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-इसके	PRP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-कंपनी	NN	O	O	O
-ने	PSP	O	O	O
-इस	DEM	O	O	O
-प्लान	NN	O	O	O
-की	PSP	O	O	O
-वैलिडिटी	NN	O	O	O
-को	PSP	O	O	O
-पहले	NST	O	O	O
-से	PSP	O	O	O
-कम	QF	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+टेलिकॉम
+इंडस्ट्री
+में
+चल
+रहे
+कॉम्पिटिशन
+में
+बने
+रहने
+के
+लिए
+जहां
+कंपनियों
+को
+कड़ी
+मेहनत
+करनी
+पड़
+रही
+है
+,
+वहीं
+यूजर्स
+को
+इससे
+काफी
+फायदा
+पहुंच
+रहा
+है
+.
+सभी
+कंपनियां
+अपने
+यूजर
+बेस
+को
+बढ़ाने
+के
+लिए
+आकर्षक
+प्लान
+ला
+रही
+हैं
+.
+रिलायंस
+जियो
+ने
+सबसे
+पहले
+सस्ते
+डेटा
+और
+अनलिमिटेड
+कॉलिंग
+वाले
+प्लान
+को
+ऑफर
+करना
+शुरू
+किया
+था
+.
+इससे
+जियो
+के
+सब्सक्राइबर
+बेस
+में
+तेजी
+से
+इजाफा
+हुआ
+.
+हालांकि
+,
+कंपनी
+ने
+जब
+से
+IUC
+लागू
+किया
+है
+तब
+से
+स्थिति
+थोड़ी
+बदल
+गई
+है
+.
+कंपनी
+अब
+दूसरे
+नेटवर्क्स
+पर
+कॉल
+करने
+पर
+यूजर्स
+से
+प्रति
+मिनट
+6
+पैसे
+ले
+रही
+है
+.
+आईयूसी
+बोझ
+न
+लगे
+इसके
+लिए
+हाल
+में
+जियो
+ने
+149
+रुपये
+वाले
+प्लान
+को
+रिवाइज
+किया
+है
+.
+इस
+प्लान
+में
+यूजर्स
+को
+दूसरे
+नेटवर्क्स
+पर
+करने
+के
+लिए
+अब
+फ्री
+मिनट्स
+ऑफर
+किया
+जा
+रहा
+है
+.
+हालांकि
+,
+इसके
+साथ
+ही
+कंपनी
+ने
+इस
+प्लान
+की
+वैलिडिटी
+को
+पहले
+से
+कम
+कर
+दिया
+है
+.

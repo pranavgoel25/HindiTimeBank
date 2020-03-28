@@ -1,370 +1,370 @@
-दिवाली	NN	O	B-STAT	DECL
-आने	VM	O	I-STAT	O
-वाली	PSP	O	I-STAT	O
-है	VM	O	I-STAT	O
-और	CC	O	O	O
-लेकिन	CC	O	O	O
-सोने	NN	O	O	O
-की	PSP	O	O	O
-कीमत	NN	O	O	O
-आसमान	NN	O	O	O
-पर	PSP	O	O	O
-हैं	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-बढ़ती	XC	O	O	O
-कीमतों	NN	O	O	O
-की	PSP	O	O	O
-वजह	NN	O	O	O
-से	PSP	O	O	O
-इस	PRP	O	O	O
-बार	RP	O	O	O
-धनतेरस	NN	O	O	O
-पर	PSP	O	O	O
-सोने	NN	O	O	O
-की	PSP	O	O	O
-चमक	NN	O	O	O
-फीकी	JJ	O	B-MISC	OCC
-पड़	NN	O	I-MISC	O
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एक्सपर्ट्स	NN	O	O	O
-ने	PSP	O	O	O
-ऐसी	DEM	O	O	O
-उम्मीद	NN	O	B-MISC	OCC
-जताई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अंतरराष्ट्रीय	JJ	O	O	O
-स्तर	NN	O	O	O
-पर	PSP	O	O	O
-कीमतों	NN	O	O	O
-में	PSP	O	O	O
-बढ़ोतरी	NN	O	O	O
-और	CC	O	O	O
-इंपोर्ट	NN	O	O	O
-ड्यूटी	NN	O	O	O
-में	PSP	O	O	O
-इजाफा	NN	O	O	O
-इसकी	PRP	O	O	O
-बड़ी	JJ	O	B-MISC	O
-वजहें	NN	O	I-MISC	O
-हैं	VM	O	I-MISC	O
-.	SYM	O	O	O
-इंडिया	XC	O	O	O
-बुलियन	XC	O	O	O
-ऐंड	XC	O	O	O
-जूलर	NN	O	O	O
-असोसिएशन	NN	O	O	O
-के	PSP	O	O	O
-नैशनल	JJ	O	O	O
-सेक्रटरी	XC	O	O	O
-सुरेंद्र	XC	O	O	O
-मेहता	NNP	O	O	O
-कहता	VM	O	O	O
-हैं	VAUX	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-हर	QF	O	O	O
-साल	NN	O	O	O
-धनतेरस	NN	O	O	O
-के	PSP	O	O	O
-दिन	NN	O	O	O
-देश	NN	O	O	O
-में	PSP	O	O	O
-40	QC	O	O	O
-टन	NN	O	O	O
-सोने	VM	O	O	O
-की	PSP	O	O	O
-बिक्री	NN	O	B-MISC	OCC
-होती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कीमतें	NN	O	O	O
-बढ़ने	VM	O	B-MISC	O
-और	CC	O	O	O
-इंपोर्ट	NN	O	O	O
-ड्यूटी	NN	O	O	O
-में	PSP	O	O	O
-बढ़ोतरी	NN	O	O	O
-का	PSP	O	O	O
-असर	NN	O	B-MISC	O
-सोने	VM	O	I-MISC	O
-की	PSP	O	O	O
-वजह	NN	O	O	O
-सोने	VM	O	O	O
-के	PSP	O	O	O
-आयात	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-गिरावट	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-आपको	PRP	O	O	O
-बता	VM	O	B-MISC	OCC
-दें	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-भारत	NNP	O	O	O
-ने	PSP	O	O	O
-इस	DEM	O	O	O
-साल	NN	O	O	O
-सितंबर	NNP	O	O	O
-में	PSP	O	O	O
-केवल	RB	O	O	O
-26	QC	O	O	O
-टन	NN	O	O	O
-सोना	NNP	O	O	O
-आयात	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जबकि	CC	O	O	O
-पिछले	JJ	B	O	O
-साल	NN	I	O	O
-यह	PRP	O	O	O
-81.71	QC	O	O	O
-टन	NN	O	O	O
-सोना	NNP	O	O	O
-आयात	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पिछले	JJ	B	O	O
-साल	NN	I	O	O
-की	PSP	O	O	O
-तुलना	NN	O	O	O
-में	PSP	O	O	O
-इस	PRP	O	O	O
-बार	RP	O	O	O
-आयात	NN	O	O	O
-में	PSP	O	O	O
-68.18	QC	O	O	O
-फीसदी	NN	O	O	O
-की	PSP	O	O	O
-गिरावट	NN	O	B-MISC	OCC
-देखी	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मार्केट	XC	O	O	O
-एक्स्पर्ट्स	NNP	O	O	O
-का	PSP	O	O	O
-कहना	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-सरकार	NN	O	O	O
-द्वारा	PSP	O	O	O
-जुलाई	NNP	O	O	O
-में	PSP	O	O	O
-आयात	JJ	O	O	O
-शुल्क	NN	O	O	O
-10	QC	O	O	O
-फीसदी	NN	O	O	O
-से	PSP	O	O	O
-बढ़ाकर	VM	O	B-MISC	OCC
-12.5	QC	O	O	O
-फीसदी	NN	O	B-MISC	O
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-सोने	NN	O	O	O
-का	PSP	O	O	O
-आयात	NN	O	O	O
-पिछले	JJ	O	O	O
-कई	QF	O	O	O
-सालों	NN	O	O	O
-के	PSP	O	O	O
-निचले	JJ	O	O	O
-स्तर	NN	O	O	O
-पर	PSP	O	O	O
-पहुंच	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सुरेंद्र	XC	O	O	O
-मेहता	NNP	O	O	O
-आगे	NST	O	O	O
-कहते	VM	O	B-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-तीन	QC	O	O	O
-तरह	NN	O	O	O
-के	PSP	O	O	O
-सोने	NN	O	O	O
-की	PSP	O	O	O
-मांग	NN	O	B-MISC	OCC
-होती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एक	QC	O	O	O
-शादी	NN	O	O	OCC
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-,	SYM	O	O	O
-त्योहारों	NN	O	O	O
-में	PSP	O	O	O
-और	CC	O	O	O
-नियमित	JJ	O	O	O
-मांग	NN	O	O	O
-.	SYM	O	O	O
-नियमित	JJ	O	O	O
-मांग	NN	O	O	O
-लिक्विडिटी	NN	O	O	O
-संकट	NN	O	O	O
-की	PSP	O	O	O
-वजह	NN	O	O	O
-से	PSP	O	O	O
-पहले	NST	O	O	O
-ही	RP	O	O	O
-काफी	INTF	O	O	O
-कम	QF	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-लगो	VM	O	B-STAT	O
-बढ़ीं	VM	O	I-STAT	OCC
-कीमतों	NN	O	O	O
-की	PSP	O	O	O
-वजह	NN	O	O	O
-से	PSP	O	O	O
-सोने	NN	O	O	O
-में	PSP	O	O	O
-निवेश	NN	O	O	O
-भी	RP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-फेस्टिवल	NN	O	O	O
-सीजन	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-सोने	NN	O	O	O
-की	PSP	O	O	O
-डिमांड	NN	O	B-MISC	O
-कम	QF	O	I-MISC	O
-ही	RP	O	I-MISC	O
-रहेगी	VM	O	I-MISC	OCC
-.	SYM	O	O	O
-'	SYM	O	O	O
-केडिया	NNP	O	O	O
-अडवाइजरी	NN	O	O	O
-के	PSP	O	O	O
-के	PSP	O	O	O
-अजय	XC	O	O	O
-केडिया	NNP	O	O	O
-कहते	VM	O	O	O
-हैं	VAUX	O	O	O
-,	SYM	O	O	O
-'	SYM	O	O	O
-सोने	NN	O	O	O
-की	PSP	O	O	O
-कमजोर	JJ	O	O	O
-घरेलू	XC	O	O	O
-मांग	NN	O	O	O
-की	PSP	O	O	O
-बड़ी	JJ	O	O	O
-वजह	NN	O	O	O
-ग्लोबल	JJ	O	O	O
-मार्केट	NN	O	O	O
-में	PSP	O	O	O
-कीमतों	NN	O	O	O
-में	PSP	O	O	O
-तेजी	RB	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-घरेलू	XC	O	O	O
-बाजार	NNP	O	O	O
-ग्लोबल	JJ	O	O	O
-मार्केट	NN	O	O	O
-के	PSP	O	O	O
-ट्रेंड	NN	O	O	O
-के	PSP	O	O	O
-अनुसार	PSP:?	O	O	O
-काम	NN	O	B-MISC	OCC
-करता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कीमतों	NN	O	O	O
-में	PSP	O	O	O
-हालिया	XC	O	O	O
-कमी	NN	O	O	O
-इस	DEM	O	O	O
-फेस्टिव	NN	O	O	O
-सीजन	NN	O	O	O
-में	PSP	O	O	O
-बिक्री	NN	O	O	O
-थोड़ी	XC	O	B-MISC	O
-बढ़ा	XC	O	I-MISC	O
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-आर्थिक	JJ	O	O	O
-मंदी	NN	O	O	O
-की	PSP	O	O	O
-वजह	NN	O	O	O
-से	PSP	O	O	O
-बुलियन	JJ	O	O	O
-मार्केट	NN	O	O	O
-की	PSP	O	O	O
-चमक	NN	O	O	O
-फीकी	JJ	O	O	O
-ही	RP	O	O	O
-रहने	VM	O	O	O
-की	PSP	O	O	O
-उम्मीद	NN	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-मुंबई	NNP	O	O	O
-में	PSP	O	O	O
-शुक्रवार	NN	B	O	O
-को	PSP	O	O	O
-22	QC	O	O	O
-कैरट	NN	O	O	O
-के	PSP	O	O	O
-10	QC	O	O	O
-ग्राम	NN	O	O	O
-सोने	VM	O	O	O
-की	PSP	O	O	O
-कीमत	NN	O	O	O
-39,190	QC	O	O	O
-रुपये	NN	O	O	O
-,	SYM	O	O	O
-वहीं	PRP	O	O	O
-24	QC	O	O	O
-कैरट	NN	O	O	O
-के	PSP	O	O	O
-10	QC	O	O	O
-ग्राम	NN	O	O	O
-सोने	VM	O	O	O
-की	PSP	O	O	O
-कीमत	NN	O	O	O
-39,340	QC	O	O	O
-रुपये	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-हाल	NN	O	O	O
-के	PSP	O	O	O
-कुछ	QF	O	O	O
-महीनों	NN	O	O	O
-में	PSP	O	O	O
-सोने	NN	O	O	O
-की	PSP	O	O	O
-कीमतें	NN	O	O	O
-कई	QF	O	O	O
-बार	RP	O	O	O
-40000	QC	O	O	O
-को	PSP	O	O	O
-पार	NN	O	B-MISC	O
-बकर	VM	O	I-MISC	OCC
-चुकी	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
+दिवाली
+आने
+वाली
+है
+और
+लेकिन
+सोने
+की
+कीमत
+आसमान
+पर
+हैं
+.
+बढ़ती
+कीमतों
+की
+वजह
+से
+इस
+बार
+धनतेरस
+पर
+सोने
+की
+चमक
+फीकी
+पड़
+सकती
+है
+.
+एक्सपर्ट्स
+ने
+ऐसी
+उम्मीद
+जताई
+है
+.
+अंतरराष्ट्रीय
+स्तर
+पर
+कीमतों
+में
+बढ़ोतरी
+और
+इंपोर्ट
+ड्यूटी
+में
+इजाफा
+इसकी
+बड़ी
+वजहें
+हैं
+.
+इंडिया
+बुलियन
+ऐंड
+जूलर
+असोसिएशन
+के
+नैशनल
+सेक्रटरी
+सुरेंद्र
+मेहता
+कहता
+हैं
+,
+'
+हर
+साल
+धनतेरस
+के
+दिन
+देश
+में
+40
+टन
+सोने
+की
+बिक्री
+होती
+है
+.
+कीमतें
+बढ़ने
+और
+इंपोर्ट
+ड्यूटी
+में
+बढ़ोतरी
+का
+असर
+सोने
+की
+वजह
+सोने
+के
+आयात
+में
+भी
+गिरावट
+दर्ज
+की
+गई
+है
+.
+'
+आपको
+बता
+दें
+कि
+भारत
+ने
+इस
+साल
+सितंबर
+में
+केवल
+26
+टन
+सोना
+आयात
+किया
+है
+,
+जबकि
+पिछले
+साल
+यह
+81.71
+टन
+सोना
+आयात
+किया
+गया
+था
+.
+पिछले
+साल
+की
+तुलना
+में
+इस
+बार
+आयात
+में
+68.18
+फीसदी
+की
+गिरावट
+देखी
+गई
+है
+.
+मार्केट
+एक्स्पर्ट्स
+का
+कहना
+है
+सरकार
+द्वारा
+जुलाई
+में
+आयात
+शुल्क
+10
+फीसदी
+से
+बढ़ाकर
+12.5
+फीसदी
+करने
+के
+बाद
+सोने
+का
+आयात
+पिछले
+कई
+सालों
+के
+निचले
+स्तर
+पर
+पहुंच
+गया
+है
+.
+सुरेंद्र
+मेहता
+आगे
+कहते
+हैं
+,
+'
+तीन
+तरह
+के
+सोने
+की
+मांग
+होती
+है
+.
+एक
+शादी
+के
+लिए
+,
+त्योहारों
+में
+और
+नियमित
+मांग
+.
+नियमित
+मांग
+लिक्विडिटी
+संकट
+की
+वजह
+से
+पहले
+ही
+काफी
+कम
+है
+.
+लगो
+बढ़ीं
+कीमतों
+की
+वजह
+से
+सोने
+में
+निवेश
+भी
+नहीं
+कर
+रहे
+हैं
+.
+इस
+फेस्टिवल
+सीजन
+में
+भी
+सोने
+की
+डिमांड
+कम
+ही
+रहेगी
+.
+'
+केडिया
+अडवाइजरी
+के
+के
+अजय
+केडिया
+कहते
+हैं
+,
+'
+सोने
+की
+कमजोर
+घरेलू
+मांग
+की
+बड़ी
+वजह
+ग्लोबल
+मार्केट
+में
+कीमतों
+में
+तेजी
+है
+.
+घरेलू
+बाजार
+ग्लोबल
+मार्केट
+के
+ट्रेंड
+के
+अनुसार
+काम
+करता
+है
+.
+कीमतों
+में
+हालिया
+कमी
+इस
+फेस्टिव
+सीजन
+में
+बिक्री
+थोड़ी
+बढ़ा
+सकती
+है
+.
+हालांकि
+,
+आर्थिक
+मंदी
+की
+वजह
+से
+बुलियन
+मार्केट
+की
+चमक
+फीकी
+ही
+रहने
+की
+उम्मीद
+है
+.
+'
+मुंबई
+में
+शुक्रवार
+को
+22
+कैरट
+के
+10
+ग्राम
+सोने
+की
+कीमत
+39,190
+रुपये
+,
+वहीं
+24
+कैरट
+के
+10
+ग्राम
+सोने
+की
+कीमत
+39,340
+रुपये
+थी
+.
+हाल
+के
+कुछ
+महीनों
+में
+सोने
+की
+कीमतें
+कई
+बार
+40000
+को
+पार
+बकर
+चुकी
+हैं

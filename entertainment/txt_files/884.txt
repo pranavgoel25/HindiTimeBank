@@ -1,395 +1,395 @@
-बिग	JJ	O	O	O
-बॉस	NN	O	O	O
-13	QC	O	O	O
-के	PSP	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-खाना	NN	O	O	O
-और	CC	O	O	O
-खाना	NN	O	O	O
-बनाने	VM	O	B-MISC	OCC
-को	PSP	O	O	O
-लेकर	VM	O	B-MISC	IAC
-जमकर	VM	O	O	O
-झगड़ा	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-किचन	NN	O	O	O
-में	PSP	O	O	O
-देवोलीना	NN	O	O	O
-की	PSP	O	O	O
-ड्यूटी	NN	O	B-MISC	OCC
-लगी	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-उन्होंने	PRP	O	O	O
-सिर्फ	RB	O	O	O
-चावल	NN	O	O	O
-बनाने	VM	O	B-MISC	OCC
-का	PSP	O	O	O
-निर्णय	NN	O	B-MISC	OCC
-लिया	VM	O	I-MISC	O
-.	SYM	O	O	O
-देवोलीना	NN	O	O	O
-के	PSP	O	O	O
-इस	DEM	O	O	O
-फैसले	NN	O	O	O
-का	PSP	O	O	O
-साथियों	NN	O	O	O
-ने	PSP	O	O	O
-विरोध	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-सबसे	INTF	O	O	O
-ज्यादा	QF	O	O	O
-विरोध	NN	O	O	O
-सिद्धार्थ	XC	O	O	O
-शुक्ला	NNP	O	O	O
-ने	PSP	O	O	O
-किया	VM	O	B-MISC	O
-.	SYM	O	O	O
-सिद्धार्थ	XC	O	O	O
-शुक्ला	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-सिर्फ	RB	O	O	O
-चावल	NN	O	O	O
-कैसे	WQ	O	O	O
-खाया	VM	O	B-MISC	OCC
-जाएगा	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-चावल	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-रोटी	NN	O	O	O
-भी	RP	O	O	O
-होनी	VM	O	B-MISC	OCC
-चाहिए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-बात	NN	O	O	O
-पर	PSP	O	O	O
-देवोलीना	XC	O	O	O
-गुस्सा	NN	O	O	O
-गईं	VM	O	B-MISC	OCC
-और	CC	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-मैं	PRP	O	O	O
-कोई	PRP	O	O	O
-घर	NN	O	O	O
-की	PSP	O	O	O
-नौकर	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-हूं	VM	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-सिर्फ	RB	O	O	O
-चावल	NN	O	B-MISC	O
-बनाऊंगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-यह	PRP	O	O	O
-विवाद	NN	O	O	O
-इतना	QF	O	O	O
-बढ़	NN	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इसमें	PRP	O	O	O
-रश्मि	XC	O	O	O
-देसाई	NNP	O	O	O
-भी	RP	O	O	O
-कूद	VM	O	B-MISC	OCC
-गईं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-देवोलीना	NN	O	O	O
-को	PSP	O	O	O
-अब	PRP	O	O	O
-शिल्पा	XC	O	O	O
-शिंदे	NN	O	O	O
-के	PSP	O	O	O
-प्रशंसक	NN	O	O	O
-आड़े	XC	O	O	O
-हाथों	NN	O	O	O
-ले	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-गौरतलब	NN	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-कि	CC	O	O	O
-बिग	JJ	O	O	O
-बॉस	NN	O	O	O
-11	QC	O	O	O
-में	PSP	O	O	O
-शिल्पा	XC	O	O	O
-शिंदे	NN	O	O	O
-की	PSP	O	O	O
-किचन	NN	O	O	O
-में	PSP	O	O	O
-ड्यूटी	NN	O	B-MISC	OCC
-लगी	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-देवोलीना	NN	O	O	O
-ने	PSP	O	O	O
-तंज	NN	O	B-MISC	OCC
-कसते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-तब	PRP	O	O	O
-ट्वीट	XC	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एक	QC	O	O	O
-तरह	NN	O	O	O
-से	PSP	O	O	O
-कहें	VM	O	B-MISC	OCC
-तो	CC	O	O	O
-देवोलीना	XC	O	O	O
-शिल्पा	NN	O	O	O
-को	PSP	O	O	O
-ट्रोल	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	PRP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-हमारी	PRP	O	O	O
-सहयोगी	JJ	O	O	O
-साइट	NN	O	O	O
-टाइम्स	XC	O	O	O
-ऑफ	XC	O	O	O
-इंडिया	NNP	O	O	O
-ने	PSP	O	O	O
-फोन	NN	O	O	O
-पर	PSP	O	O	O
-उनसे	PRP	O	O	O
-संपर्क	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-उनसे	PRP	O	O	O
-जब	PRP	O	O	O
-देवोलीना	NN	O	O	O
-के	PSP	O	O	O
-ट्वीट	XC	O	O	O
-के	PSP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-पूछा	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-शिल्पा	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-'	SYM	O	O	O
-मेरे	PRP	O	O	O
-फैन	NN	O	O	O
-मुझे	PRP	O	O	O
-वॉट्सऐप	NN	O	O	O
-पर	PSP	O	O	O
-मेसेज	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-मुझे	PRP	O	O	O
-ट्वीट्स	NN	O	O	O
-दिखा	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-मैं	PRP	O	O	O
-बिग	XC	O	O	O
-बॉस	NN	O	O	O
-11	QC	O	O	O
-के	PSP	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-थी	VM	O	B-STAT	OCC
-तो	CC	O	O	O
-यह	DEM	O	O	O
-ट्वीट	XC	O	O	O
-देवोलीना	NNP	O	O	O
-ने	PSP	O	O	O
-किया	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मुझे	PRP	O	O	O
-हंसी	NN	O	B-MISC	OCC
-आई	VM	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-शिल्पा	XC	O	O	O
-शिंदे	NN	O	O	O
-ने	PSP	O	O	O
-आगे	NST	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-'	SYM	O	O	O
-मैंने	PRP	O	O	O
-हमेशा	RB	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-13	QC	O	O	O
-/	SYM	O	O	O
-14	QC	O	O	O
-अजनबियों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-खाना	NN	O	O	O
-बनाना	VM	O	B-MISC	O
-कोई	PRP	O	O	O
-आसान	JJ	O	O	O
-काम	NN	O	O	O
-नहीं	NEG	O	B-MISC	DECL
-है	VM	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-मैंने	PRP	O	O	O
-रसोई	NN	O	O	O
-की	PSP	O	O	O
-जिम्मेदारी	NN	O	B-MISC	OCC
-संभाली	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-कोई	PRP	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-आगे	NST	O	B-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-आ	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैंने	PRP	O	O	O
-जिम्मेदारी	NN	O	B-MISC	OCC
-ली	VM	O	I-MISC	O
-.	SYM	O	O	O
-कैमरे	NN	O	O	O
-मेरा	PRP	O	O	O
-पीछा	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-जो	PRP	O	O	O
-भी	RP	O	O	O
-कर	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-कैमरों	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-दर्शकों	NN	O	O	O
-ने	PSP	O	O	O
-मेरा	PRP	O	O	O
-पक्ष	NN	O	B-MISC	O
-देखा	VM	O	I-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-'	SYM	O	O	O
-उस	DEM	O	O	O
-वक्त	NN	O	O	O
-न	NEG	O	O	O
-सिर्फ	RB	O	O	O
-देवोलीना	NN	O	O	O
-ने	PSP	O	O	O
-बल्कि	CC	O	O	O
-टीवी	NN	O	O	O
-हस्तियों	NN	O	O	O
-ने	PSP	O	O	O
-मेरा	PRP	O	O	O
-मजाक	NN	O	B-MISC	OCC
-उड़ाया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मुझे	PRP	O	O	O
-उम्मीद	NN	O	B-MISC	DEC
-है	VM	O	I-MISC	O
-कि	CC	O	O	O
-देवोलीना	NN	O	O	O
-अब	PRP	O	O	O
-समझेंगी	VM	O	O	O
-सभी	QF	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-खाना	NN	O	O	O
-बनाना	VM	O	B-MISC	O
-कोई	PRP	O	O	O
-आसान	JJ	O	O	O
-काम	NN	O	O	OCC
-नहीं	NEG	O	B-MISC	O
-.	SYM	O	O	O
-मेरा	PRP	O	O	O
-मानना	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-यह	PRP	O	O	O
-एक	QC	O	O	O
-कर्म	NN	O	O	O
-है	VM	O	B-STAT	O
-और	CC	O	O	O
-सभी	QF	O	O	O
-को	PSP	O	O	O
-इसका	PRP	O	O	O
-फल	NN	O	B-MISC	OCC
-मिलता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-शिल्पा	XC	O	O	O
-शिंदे	NN	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-कल	NN	O	O	O
-तक	RP	O	O	O
-मुझे	PRP	O	O	O
-यह	PRP	O	O	O
-भी	RP	O	O	O
-पता	JJ	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-था	VM	O	I-MISC	O
-कि	CC	O	O	O
-देवोलीना	NN	O	O	O
-मेरे	PRP	O	O	O
-खिलाफ	PSP:?	O	O	O
-थीं	VM	O	B-MISC	OCC
-या	CC	O	O	O
-उन्होंने	PRP	O	O	O
-मेरा	PRP	O	O	O
-मजाक	NN	O	B-MISC	O
-उड़ाया	VM	O	I-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मेरा	PRP	O	O	O
-बस	RP	O	O	O
-यही	PRP	O	O	O
-कहना	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-सबके	PRP	O	O	O
-लिए	PSP	O	O	O
-खाना	NN	O	B-MISC	O
-बनाना	VM	O	I-MISC	O
-अपने	PRP	O	O	O
-आप	PRP	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-बड़ा	NN	O	O	O
-काम	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
+बिग
+बॉस
+13
+के
+घर
+में
+खाना
+और
+खाना
+बनाने
+को
+लेकर
+जमकर
+झगड़ा
+हुआ
+.
+किचन
+में
+देवोलीना
+की
+ड्यूटी
+लगी
+थी
+तो
+उन्होंने
+सिर्फ
+चावल
+बनाने
+का
+निर्णय
+लिया
+.
+देवोलीना
+के
+इस
+फैसले
+का
+साथियों
+ने
+विरोध
+किया
+.
+सबसे
+ज्यादा
+विरोध
+सिद्धार्थ
+शुक्ला
+ने
+किया
+.
+सिद्धार्थ
+शुक्ला
+ने
+कहा
+कि
+सिर्फ
+चावल
+कैसे
+खाया
+जाएगा
+,
+चावल
+के
+साथ
+रोटी
+भी
+होनी
+चाहिए
+.
+इस
+बात
+पर
+देवोलीना
+गुस्सा
+गईं
+और
+कहा
+कि
+मैं
+कोई
+घर
+की
+नौकर
+नहीं
+हूं
+.
+मैं
+सिर्फ
+चावल
+बनाऊंगी
+.
+यह
+विवाद
+इतना
+बढ़
+गया
+कि
+इसमें
+रश्मि
+देसाई
+भी
+कूद
+गईं
+.
+देवोलीना
+को
+अब
+शिल्पा
+शिंदे
+के
+प्रशंसक
+आड़े
+हाथों
+ले
+रहे
+हैं
+.
+गौरतलब
+है
+कि
+बिग
+बॉस
+11
+में
+शिल्पा
+शिंदे
+की
+किचन
+में
+ड्यूटी
+लगी
+थी
+तो
+देवोलीना
+ने
+तंज
+कसते
+हुए
+तब
+ट्वीट
+किया
+था
+.
+एक
+तरह
+से
+कहें
+तो
+देवोलीना
+शिल्पा
+को
+ट्रोल
+किया
+था
+.
+इस
+बारे
+में
+हमारी
+सहयोगी
+साइट
+टाइम्स
+ऑफ
+इंडिया
+ने
+फोन
+पर
+उनसे
+संपर्क
+किया
+.
+उनसे
+जब
+देवोलीना
+के
+ट्वीट
+के
+बारे
+में
+पूछा
+गया
+तो
+शिल्पा
+ने
+कहा
+कि
+'
+मेरे
+फैन
+मुझे
+वॉट्सऐप
+पर
+मेसेज
+कर
+रहे
+हैं
+और
+मुझे
+ट्वीट्स
+दिखा
+रहे
+हैं
+.
+जब
+मैं
+बिग
+बॉस
+11
+के
+घर
+में
+थी
+तो
+यह
+ट्वीट
+देवोलीना
+ने
+किया
+था
+.
+मुझे
+हंसी
+आई
+.
+'
+शिल्पा
+शिंदे
+ने
+आगे
+कहा
+कि
+'
+मैंने
+हमेशा
+कहा
+कि
+13
+/
+14
+अजनबियों
+के
+लिए
+खाना
+बनाना
+कोई
+आसान
+काम
+नहीं
+है
+.
+जब
+मैंने
+रसोई
+की
+जिम्मेदारी
+संभाली
+थी
+तो
+कोई
+इसके
+लिए
+आगे
+नहीं
+आ
+रहा
+था
+.
+मैंने
+जिम्मेदारी
+ली
+.
+कैमरे
+मेरा
+पीछा
+कर
+रहे
+थे
+.
+मैं
+जो
+भी
+कर
+रही
+थी
+कैमरों
+के
+सामने
+कर
+रही
+थी
+.
+दर्शकों
+ने
+मेरा
+पक्ष
+देखा
+था
+.
+'
+उन्होंने
+कहा
+कि
+'
+उस
+वक्त
+न
+सिर्फ
+देवोलीना
+ने
+बल्कि
+टीवी
+हस्तियों
+ने
+मेरा
+मजाक
+उड़ाया
+था
+.
+मुझे
+उम्मीद
+है
+कि
+देवोलीना
+अब
+समझेंगी
+सभी
+के
+लिए
+खाना
+बनाना
+कोई
+आसान
+काम
+नहीं
+.
+मेरा
+मानना
+है
+कि
+यह
+एक
+कर्म
+है
+और
+सभी
+को
+इसका
+फल
+मिलता
+है
+.
+'
+शिल्पा
+शिंदे
+ने
+कहा
+कि
+कल
+तक
+मुझे
+यह
+भी
+पता
+नहीं
+था
+कि
+देवोलीना
+मेरे
+खिलाफ
+थीं
+या
+उन्होंने
+मेरा
+मजाक
+उड़ाया
+था
+.
+मेरा
+बस
+यही
+कहना
+है
+कि
+सबके
+लिए
+खाना
+बनाना
+अपने
+आप
+में
+एक
+बड़ा
+काम
+है
+.

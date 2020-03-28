@@ -1,262 +1,262 @@
-चीन	NNP	O	O	O
-की	PSP	O	O	O
-स्मार्टफोन	NN	O	O	O
-मेकर	VM	O	B-MISC	O
-वनप्लस	NN	O	O	O
-ने	PSP	O	O	O
-हाल	NN	O	O	O
-ही	RP	O	O	O
-में	PSP	O	O	O
-अपना	PRP	O	O	O
-OnePlus	NN	O	O	O
-7	QC	O	O	O
-T	XC	O	O	O
-Pro	XC	O	O	O
-स्मार्टफोन	XC	O	O	O
-लॉन्च	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-कंपनी	NN	O	O	O
-ने	PSP	O	O	O
-OxyegenOS	NN	O	O	O
-10	QC	O	O	O
-अपडेट	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	B-MISC	O
-भी	RP	O	O	O
-कुछ	QF	O	O	O
-घोषणाएं	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कंपनी	NN	O	O	O
-का	PSP	O	O	O
-यह	DEM	O	O	O
-ऑपरेटिंग	XC	O	O	O
-सिस्टम	NNP	O	O	O
-ऐंड्रॉयड	NN	O	O	O
-10	QC	O	O	O
-पर	PSP	O	O	O
-काम	NN	O	B-MISC	OCC
-करेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-कंपनी	NNP	O	O	O
-ने	PSP	O	O	O
-घोषणा	NN	O	B-MISC	O
-की	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-नया	JJ	O	O	O
-OxyegenOS	NN	O	O	O
-अपडेट	NN	O	O	O
-कंपनी	NNP	O	O	O
-के	PSP	O	O	O
-पुराने	JJ	O	O	O
-स्मार्टफोन	NN	O	O	O
-,	SYM	O	O	O
-जैसे	CC	O	O	O
-वनप्लस	NN	O	O	O
-5	QC	O	O	O
-और	CC	O	O	O
-वनप्लस	NN	O	O	O
-5	QC	O	O	O
-T	NN	O	O	O
-को	PSP	O	O	O
-भी	RP	O	O	O
-मिलेगा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-वनप्लस	NN	O	O	O
-के	PSP	O	O	O
-को-फाउंडर	XC	O	O	O
-कार्ल	XC	O	O	O
-पेई	NN	O	O	O
-ने	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-कि	CC	O	O	O
-वनप्लस	NN	O	O	O
-6	QC	O	O	O
-और	CC	O	O	O
-वनप्लस	NN	O	O	O
-6	QC	O	O	O
-T	NN	O	O	O
-को	PSP	O	O	O
-इस	DEM	O	O	O
-महीने	NN	O	O	O
-के	PSP	O	O	O
-आखिरी	JJ	O	O	O
-तक	RP	O	O	O
-beta	NN	O	O	O
-अपडेट	NN	O	O	OCC
-मिल	VM	O	O	O
-जाएगा	VAUX	O	O	O
-,	SYM	O	O	O
-जबकि	CC	O	O	O
-इसका	PRP	O	O	O
-स्टेबल	NN	O	O	O
-अपडेट	NN	O	O	O
-अगले	JJ	O	O	O
-महीने	NN	O	O	O
-में	PSP	O	O	O
-उपलब्ध	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-पाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-,	SYM	O	O	O
-वनप्लस	NN	O	O	O
-5	QC	O	O	O
-और	CC	O	O	O
-वनप्लस	NN	O	O	O
-5	QC	O	O	O
-T	NN	O	O	O
-जैसे	PSP	O	O	O
-स्मार्टफोन	NN	O	O	O
-को	PSP	O	O	O
-यह	DEM	O	O	O
-अपडेट	NN	O	O	O
-साल	NN	O	O	O
-2020	QC	O	O	O
-की	PSP	O	O	O
-दूसरी	QO	O	O	O
-तिमाही	NN	O	O	O
-में	PSP	O	O	O
-मिल	VM	O	B-MISC	OCC
-पाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बताते	VM	O	B-MISC	OCC
-चलें	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-कंपनी	NNP	O	O	O
-के	PSP	O	O	O
-लेटेस्ट	XC	O	O	O
-स्मार्टफोन	XC	O	O	O
-OnePlus	NN	O	O	O
-7	QC	O	O	O
-T	NN	O	O	O
-और	CC	O	O	O
-OnePlus	NN	O	O	O
-7	QC	O	O	O
-T	XC	O	O	O
-Pro	NNP	O	O	O
-पहले	NST	O	O	O
-ही	RP	O	O	O
-ऐंड्रॉयड	NN	O	O	O
-10	QC	O	O	O
-ऑपरेटिंग	XC	O	O	O
-सिस्टम	NNP	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-आते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-अपडेट	NN	O	O	O
-के	PSP	O	O	O
-आ	VM	O	B-MISC	OCC
-जाने	VAUX	O	I-MISC	O
-से	PSP	O	O	O
-स्मार्टफोन	NN	O	O	O
-में	PSP	O	O	O
-नया	JJ	O	O	O
-इंटरफेस	NN	O	O	O
-,	SYM	O	O	O
-फुल-स्क्रीन	XC	O	O	O
-गेस्चर	NNP	O	O	O
-,	SYM	O	O	O
-Game	XC	O	O	O
-Space	NNP	O	O	O
-नाम	NN	O	O	O
-की	PSP	O	O	O
-नई	JJ	O	O	O
-ऐप	NN	O	O	O
-और	CC	O	O	O
-स्पैम	NN	O	O	O
-ब्लॉकर	VM	O	O	O
-जैसे	PSP	O	O	O
-नए	JJ	O	O	O
-फीचर्स	NN	O	O	O
-मिलेंगे	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-वनपल्स	NN	O	O	O
-ने	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-कि	CC	O	O	O
-कंपनी	NN	O	O	O
-एक	QC	O	O	O
-खास	JJ	O	O	O
-फीचर	NN	O	O	O
-'	SYM	O	O	O
-इंस्टेंट	XC	O	O	O
-ट्रांसलेट	NN	O	O	O
-'	SYM	O	O	O
-पर	PSP	O	O	O
-भी	RP	O	O	O
-काम	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-जो	PRP	O	O	O
-जल्द	NN	O	O	O
-ही	RP	O	O	O
-यूजर्स	NN	O	O	O
-को	PSP	O	O	O
-मिलेगा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-इस	DEM	O	O	O
-फीचर	NN	O	O	O
-के	PSP	O	O	O
-जरिए	PSP	O	O	O
-किसी	PRP	O	O	O
-भी	RP	O	O	O
-अन्य	JJ	O	O	O
-भाषा	NN	O	O	O
-के	PSP	O	O	O
-व्यक्ति	NN	O	O	O
-से	PSP	O	O	O
-संवाद	JJ	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-आसान	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उदाहरण	NN	O	O	O
-के	PSP	O	O	O
-तौर	NN	O	O	O
-पर	PSP	O	O	O
-,	SYM	O	O	O
-अगर	CC	O	O	O
-आप	PRP	O	O	O
-किसी	PRP	O	O	O
-ऐसे	DEM	O	O	O
-व्यक्ति	NN	O	O	O
-से	PSP	O	O	O
-विडियो	XC	O	B-MISC	O
-चैट	NN	O	I-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-जो	PRP	O	O	O
-आपकी	PRP	O	O	O
-भाषा	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-समझता	VM	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-इस	DEM	O	O	O
-फीचर	NN	O	O	O
-के	PSP	O	O	O
-जरिए	PSP	O	O	O
-आपकी	PRP	O	O	O
-कही	VM	O	O	O
-बात	NN	O	O	O
-स्क्रीन	NNP	O	O	O
-पर	PSP	O	O	O
-ट्रांसलेट	NN	O	B-MISC	O
-होकर	VM	O	I-MISC	OCC
-दिखाई	VAUX	O	I-MISC	O
-देगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+चीन
+की
+स्मार्टफोन
+मेकर
+वनप्लस
+ने
+हाल
+ही
+में
+अपना
+OnePlus
+7
+T
+Pro
+स्मार्टफोन
+लॉन्च
+किया
+है
+.
+इसके
+साथ
+ही
+कंपनी
+ने
+OxyegenOS
+10
+अपडेट
+को
+लेकर
+भी
+कुछ
+घोषणाएं
+की
+है
+.
+कंपनी
+का
+यह
+ऑपरेटिंग
+सिस्टम
+ऐंड्रॉयड
+10
+पर
+काम
+करेगा
+.
+कंपनी
+ने
+घोषणा
+की
+है
+कि
+नया
+OxyegenOS
+अपडेट
+कंपनी
+के
+पुराने
+स्मार्टफोन
+,
+जैसे
+वनप्लस
+5
+और
+वनप्लस
+5
+T
+को
+भी
+मिलेगा
+.
+वनप्लस
+के
+को-फाउंडर
+कार्ल
+पेई
+ने
+बताया
+कि
+वनप्लस
+6
+और
+वनप्लस
+6
+T
+को
+इस
+महीने
+के
+आखिरी
+तक
+beta
+अपडेट
+मिल
+जाएगा
+,
+जबकि
+इसका
+स्टेबल
+अपडेट
+अगले
+महीने
+में
+उपलब्ध
+हो
+पाएगा
+.
+वहीं
+,
+वनप्लस
+5
+और
+वनप्लस
+5
+T
+जैसे
+स्मार्टफोन
+को
+यह
+अपडेट
+साल
+2020
+की
+दूसरी
+तिमाही
+में
+मिल
+पाएगा
+.
+बताते
+चलें
+कि
+कंपनी
+के
+लेटेस्ट
+स्मार्टफोन
+OnePlus
+7
+T
+और
+OnePlus
+7
+T
+Pro
+पहले
+ही
+ऐंड्रॉयड
+10
+ऑपरेटिंग
+सिस्टम
+के
+साथ
+आते
+हैं
+.
+इस
+अपडेट
+के
+आ
+जाने
+से
+स्मार्टफोन
+में
+नया
+इंटरफेस
+,
+फुल-स्क्रीन
+गेस्चर
+,
+Game
+Space
+नाम
+की
+नई
+ऐप
+और
+स्पैम
+ब्लॉकर
+जैसे
+नए
+फीचर्स
+मिलेंगे
+.
+वनपल्स
+ने
+बताया
+कि
+कंपनी
+एक
+खास
+फीचर
+'
+इंस्टेंट
+ट्रांसलेट
+'
+पर
+भी
+काम
+कर
+रही
+है
+जो
+जल्द
+ही
+यूजर्स
+को
+मिलेगा
+.
+इस
+फीचर
+के
+जरिए
+किसी
+भी
+अन्य
+भाषा
+के
+व्यक्ति
+से
+संवाद
+करना
+आसान
+हो
+जाएगा
+.
+उदाहरण
+के
+तौर
+पर
+,
+अगर
+आप
+किसी
+ऐसे
+व्यक्ति
+से
+विडियो
+चैट
+कर
+रहे
+हैं
+जो
+आपकी
+भाषा
+नहीं
+समझता
+,
+तो
+इस
+फीचर
+के
+जरिए
+आपकी
+कही
+बात
+स्क्रीन
+पर
+ट्रांसलेट
+होकर
+दिखाई
+देगी
+.

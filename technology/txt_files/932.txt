@@ -1,332 +1,332 @@
-केबल	XC	O	O	O
-टीवी	XC	O	O	O
-सब्सक्राइबर्स	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-एक	QC	O	O	O
-अच्छी	JJ	O	O	O
-खबर	NN	O	B-MISC	OCC
-आई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-उन्हें	PRP	O	O	O
-130	QC	O	O	O
-रुपये	NN	O	O	O
-के	PSP	O	O	O
-एनसीएफ	JJ	O	O	O
-चार्ज	NN	O	O	O
-में	PSP	O	O	O
-पहले	NST	O	O	O
-से	PSP	O	O	O
-ज्यादा	QF	O	O	O
-चैनल	NN	O	O	O
-देखने	VM	O	O	O
-को	PSP	O	O	O
-मिलेंगे	VM	O	B-MISC	O
-.	SYM	O	O	O
-नए	JJ	O	O	O
-टैरिफ	NN	O	O	O
-नियमों	NN	O	O	O
-के	PSP	O	O	O
-लागू	JJ	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-ज्यादातर	JJ	O	O	O
-ग्राहकों	NN	O	O	O
-की	PSP	O	O	O
-शिकायत	NN	O	O	OCC
-थी	VM	O	B-MISC	O
-कि	CC	O	O	O
-उनके	PRP	O	O	O
-लिए	PSP	O	O	O
-अब	PRP	O	O	O
-टीवी	NN	O	O	O
-देखना	VM	O	O	O
-पहले	NST	O	O	O
-से	PSP	O	O	O
-महंगा	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ट्राई	NN	O	O	O
-इस	DEM	O	O	O
-कमी	NN	O	O	O
-को	PSP	O	O	O
-ठीक	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-लगातार	RB	O	O	O
-कोशिश	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-ऑल	XC	O	O	O
-इंडिया	XC	O	O	O
-डिजिटल	XC	O	O	O
-केबल	XC	O	O	O
-फेडरेशन	NNP	O	O	O
-ने	PSP	O	O	O
-ग्राहकों	NN	O	O	O
-को	PSP	O	O	O
-इससे	PRP	O	O	O
-राहत	NN	O	B-MISC	OCC
-दे	VM	O	I-MISC	O
-दी	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हाल	NN	O	O	O
-में	PSP	O	O	O
-हुई	VM	O	B-STAT	O
-मीटिंग	NN	O	O	O
-में	PSP	O	O	O
-ऑल	XC	O	O	O
-इंडिया	XC	O	O	O
-डिजिटल	XC	O	O	O
-केबल	XC	O	O	O
-फेडरेशन	NNP	O	O	O
-ने	PSP	O	O	O
-सब्सक्रिप्शन	NN	O	O	O
-कॉस्ट	NN	O	O	O
-को	PSP	O	O	O
-कम	QF	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-कमतों	NN	O	O	O
-में	PSP	O	O	O
-जरूरी	JJ	O	O	O
-बदलाव	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फेडरेशन	NN	O	O	O
-ने	PSP	O	O	O
-तय	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-अब	PRP	O	O	O
-वह	PRP	O	O	O
-ग्राहकों	NN	O	O	O
-को	PSP	O	O	O
-130	QC	O	O	O
-रुपये	NN	O	O	O
-के	PSP	O	O	O
-NCF	NN	O	O	O
-चार्ज	NN	O	O	O
-में	PSP	O	O	O
-150	QC	O	O	O
-स्टैंडर्ड	XC	O	O	O
-डेफिनिशन	NNP	O	O	O
-(	SYM	O	O	O
-SD	NN	O	O	O
-)	SYM	O	O	O
-चैनल	NN	O	O	O
-दिखाएगा	VM	O	B-MISC	O
-जो	PRP	O	O	O
-पहले	NST	O	O	O
-केवल	RP	O	O	O
-100	QC	O	B-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फेडरेशन	NN	O	O	O
-के	PSP	O	O	O
-प्रेजिडेंट	XC	O	O	O
-एस	XC	O	O	O
-.	SYM	O	O	O
-एन	RDP	O	O	O
-.	SYM	O	O	O
-शर्मा	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-उन्होंने	PRP	O	O	O
-फेडरेशन	NN	O	O	O
-के	PSP	O	O	O
-मेंबर्स	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-इस	DEM	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-काफी	QF	O	O	O
-चर्चा	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-चर्चा	NN	O	O	O
-में	PSP	O	O	O
-130	QC	O	O	O
-रुपये	NN	O	O	O
-के	PSP	O	O	O
-नेटवर्क	JJ	O	O	O
-कपैसिटी	NN	O	O	O
-फीस	NN	O	O	O
-में	PSP	O	O	O
-150	QC	O	O	O
-एसडी	XC	O	O	O
-चैनल	NNP	O	O	O
-दिखाने	VM	O	O	O
-का	PSP	O	O	O
-फैसला	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पहले	NST	O	O	O
-की	PSP	O	O	O
-बात	NN	O	B-MISC	O
-करें	VM	O	I-MISC	OCC
-तो	CC	O	O	O
-जो	PRP	O	O	O
-सब्सक्राबर्स	NN	O	O	O
-100	QC	O	O	O
-से	PSP	O	O	O
-ज्यादा	QF	O	O	O
-चैनल	NN	O	O	O
-देखना	VM	O	B-MISC	OCC
-चाहते	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-उन्हें	PRP	O	O	O
-हर	QF	O	O	O
-25	QC	O	O	O
-चैनल	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-अलग	JJ	O	O	O
-से	PSP	O	O	O
-20	QC	O	O	O
-रुपये	NN	O	O	O
-देने	VM	O	B-MISC	OCC
-पड़ते	NNP	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-हिसाब	NN	O	O	O
-से	PSP	O	O	O
-अगर	CC	O	O	O
-वे	PRP	O	O	O
-150	QC	O	O	O
-चैनल	NN	O	O	O
-देखना	VM	O	B-MISC	OCC
-चाहते	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-उन्हें	PRP	O	O	O
-एनसीएफ	JJ	O	O	O
-चार्ज	NN	O	O	O
-के	PSP	O	O	O
-तौर	NN	O	O	O
-पर	PSP	O	O	O
-जीएसचटी	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-170	QC	O	O	O
-रुपये	NN	O	O	O
-का	PSP	O	O	O
-भुगतान	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-होता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फेडरेशन	NN	O	O	O
-द्वारा	PSP	O	O	O
-किया	VM	O	B-MISC	O
-गया	VAUX	O	I-MISC	O
-यह	DEM	O	O	O
-बदलाव	NN	O	O	O
-अभी	PRP	O	O	O
-केवल	RP	O	O	O
-केबल	XC	O	O	O
-टीवी	XC	O	O	O
-सब्सक्राइबर्स	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-ही	RP	O	O	O
-लागू	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-डीटीएच	XC	O	O	O
-सब्सक्राइबर्स	NN	O	O	O
-को	PSP	O	O	O
-इस	DEM	O	O	O
-बदलाव	NN	O	O	O
-का	PSP	O	O	O
-लाभ	NN	O	B-MISC	O
-उठाने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-थोड़ा	NNP	O	O	O
-इंतजार	NN	O	O	O
-करना	VM	O	O	O
-पड़ेगा	XC	O	O	O
-.	SYM	O	O	O
-टेलिकॉम	XC	O	O	O
-रेग्युलेटरी	XC	O	O	O
-ऑथोरिटी	NNP	O	O	O
-ऑफ	XC	O	O	O
-इंडिया	NNP	O	O	O
-ने	PSP	O	O	O
-इस	DEM	O	O	O
-साल	NN	O	O	O
-डीटीएच	NN	O	O	O
-और	CC	O	O	O
-केबल	XC	O	O	O
-नेटवर्क	NNP	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-नए	JJ	O	O	O
-टैरिफ	NN	O	O	O
-की	PSP	O	O	O
-घोषणा	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-बाद	NST	O	O	O
-से	PSP	O	O	O
-सब्सक्राइबर्स	NN	O	O	O
-का	PSP	O	O	O
-मंथली	JJ	O	O	O
-बिल	NN	O	O	O
-पहले	NST	O	O	O
-के	PSP	O	O	O
-मुकाबले	JJ	O	O	O
-ज्यादा	QF	O	O	O
-हो	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-नए	JJ	O	O	O
-टैरिफ	NN	O	O	O
-नियमों	NN	O	O	O
-को	PSP	O	O	O
-ट्राई	NN	O	O	O
-ने	PSP	O	O	O
-सब्सक्राइबर्स	NN	O	O	O
-के	PSP	O	O	O
-टीवी	NN	O	O	O
-देखने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-बिल	NN	O	O	O
-को	PSP	O	O	O
-कम	QF	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-लागू	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-ऐसा	PRP	O	O	O
-हो	VM	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-पाया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+केबल
+टीवी
+सब्सक्राइबर्स
+के
+लिए
+एक
+अच्छी
+खबर
+आई
+है
+.
+अब
+उन्हें
+130
+रुपये
+के
+एनसीएफ
+चार्ज
+में
+पहले
+से
+ज्यादा
+चैनल
+देखने
+को
+मिलेंगे
+.
+नए
+टैरिफ
+नियमों
+के
+लागू
+होने
+के
+बाद
+ज्यादातर
+ग्राहकों
+की
+शिकायत
+थी
+कि
+उनके
+लिए
+अब
+टीवी
+देखना
+पहले
+से
+महंगा
+हो
+गया
+है
+.
+ट्राई
+इस
+कमी
+को
+ठीक
+करने
+के
+लिए
+लगातार
+कोशिश
+कर
+रहा
+है
+,
+लेकिन
+ऑल
+इंडिया
+डिजिटल
+केबल
+फेडरेशन
+ने
+ग्राहकों
+को
+इससे
+राहत
+दे
+दी
+है
+.
+हाल
+में
+हुई
+मीटिंग
+में
+ऑल
+इंडिया
+डिजिटल
+केबल
+फेडरेशन
+ने
+सब्सक्रिप्शन
+कॉस्ट
+को
+कम
+करने
+के
+लिए
+कमतों
+में
+जरूरी
+बदलाव
+कर
+दिया
+है
+.
+फेडरेशन
+ने
+तय
+किया
+है
+कि
+अब
+वह
+ग्राहकों
+को
+130
+रुपये
+के
+NCF
+चार्ज
+में
+150
+स्टैंडर्ड
+डेफिनिशन
+(
+SD
+)
+चैनल
+दिखाएगा
+जो
+पहले
+केवल
+100
+थे
+.
+फेडरेशन
+के
+प्रेजिडेंट
+एस
+.
+एन
+.
+शर्मा
+ने
+कहा
+कि
+उन्होंने
+फेडरेशन
+के
+मेंबर्स
+के
+साथ
+इस
+बारे
+में
+काफी
+चर्चा
+की
+.
+इस
+चर्चा
+में
+130
+रुपये
+के
+नेटवर्क
+कपैसिटी
+फीस
+में
+150
+एसडी
+चैनल
+दिखाने
+का
+फैसला
+किया
+गया
+है
+.
+पहले
+की
+बात
+करें
+तो
+जो
+सब्सक्राबर्स
+100
+से
+ज्यादा
+चैनल
+देखना
+चाहते
+थे
+उन्हें
+हर
+25
+चैनल
+के
+लिए
+अलग
+से
+20
+रुपये
+देने
+पड़ते
+थे
+.
+इस
+हिसाब
+से
+अगर
+वे
+150
+चैनल
+देखना
+चाहते
+तो
+उन्हें
+एनसीएफ
+चार्ज
+के
+तौर
+पर
+जीएसचटी
+के
+साथ
+170
+रुपये
+का
+भुगतान
+करना
+होता
+था
+.
+फेडरेशन
+द्वारा
+किया
+गया
+यह
+बदलाव
+अभी
+केवल
+केबल
+टीवी
+सब्सक्राइबर्स
+के
+लिए
+ही
+लागू
+है
+.
+डीटीएच
+सब्सक्राइबर्स
+को
+इस
+बदलाव
+का
+लाभ
+उठाने
+के
+लिए
+थोड़ा
+इंतजार
+करना
+पड़ेगा
+.
+टेलिकॉम
+रेग्युलेटरी
+ऑथोरिटी
+ऑफ
+इंडिया
+ने
+इस
+साल
+डीटीएच
+और
+केबल
+नेटवर्क
+के
+लिए
+नए
+टैरिफ
+की
+घोषणा
+की
+थी
+.
+इसके
+बाद
+से
+सब्सक्राइबर्स
+का
+मंथली
+बिल
+पहले
+के
+मुकाबले
+ज्यादा
+हो
+गया
+है
+.
+नए
+टैरिफ
+नियमों
+को
+ट्राई
+ने
+सब्सक्राइबर्स
+के
+टीवी
+देखने
+के
+बिल
+को
+कम
+करने
+के
+लिए
+लागू
+किया
+था
+,
+लेकिन
+ऐसा
+हो
+नहीं
+पाया
+.

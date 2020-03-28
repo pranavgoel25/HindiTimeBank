@@ -1,223 +1,223 @@
-स	QC	O	O	O
-सेशन	NN	O	O	O
-प्राइवेट	JJ	O	O	O
-स्कूलों	NN	O	O	O
-में	PSP	O	O	O
-नर्सरी	NN	O	O	O
-,	SYM	O	O	O
-केजी	NN	O	O	O
-और	CC	O	O	O
-क्लास	NN	O	O	O
-1	QC	O	O	O
-में	PSP	O	O	O
-ऐडमिशन	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-आखिरी	JJ	O	O	O
-ड्रॉ	NN	O	O	O
-में	PSP	O	O	O
-4768	QC	O	O	O
-स्टूडेंट्स	NN	O	O	O
-को	PSP	O	O	O
-स्कूल	NN	O	O	O
-अलॉट	JJ	O	B-MISC	OCC
-किए	VM	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इकनॉमिकली	NN	O	O	O
-वीकर	VM	O	O	O
-सेक्शन	XC	O	O	O
-/	SYM	O	O	O
-डिस्एडवांटेज	NN	O	O	O
-ग्रुप	NN	O	O	O
-(	SYM	O	O	O
-ईडब्ल्यूएस	NN	O	O	O
-/	SYM	O	O	O
-डीजी	NN	O	O	O
-)	SYM	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-इस	DEM	O	O	O
-ऐकडेमिक	JJ	O	O	O
-सेशन	NN	O	O	O
-का	PSP	O	O	O
-आखिरी	JJ	O	O	O
-और	CC	O	O	O
-9	QC	O	O	O
-वां	NN	O	O	O
-कंप्यूटराइज्ड	XC	O	O	O
-ड्रॉ	XC	O	O	O
-शुक्रवार	NN	O	O	O
-को	PSP	O	O	O
-हुआ	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-इस	DEM	O	O	O
-ड्रॉ	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-शिक्षा	XC	O	O	O
-निदेशालय	NN	O	O	O
-ने	PSP	O	O	O
-नए	JJ	O	O	O
-सिरे	NN	O	O	O
-से	PSP	O	O	O
-ऐप्लिकेशन	NN	O	B-MISC	O
-मांगी	VM	O	I-MISC	OCC
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कुल	QF	O	O	O
-7663	QC	O	O	O
-सीटों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-सिर्फ	RB	O	O	O
-4768	QC	O	O	O
-ऐप्लिकेशन	NN	O	O	O
-मिलीं	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-30	QC	B	O	O
-नवंबर	NNP	I	O	O
-तक	RP	O	O	O
-ऐडमिशन	NN	O	O	O
-का	PSP	O	O	O
-चांस	NN	O	B-MISC	OCC
-मिलेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-बच्चों	NN	O	O	O
-के	PSP	O	O	O
-नामों	NN	O	O	O
-की	PSP	O	O	O
-यह	DEM	O	O	O
-लिस्ट	NN	O	O	O
-शिक्षा	NN	O	O	O
-निदेशालय	NN	O	O	O
-की	PSP	O	O	O
-वेबसाइट	NN	O	O	OCC
-edudel	XC	O	O	O
-.	SYM	O	O	O
-nic	NN	O	O	O
-.	SYM	O	O	O
-in	NN	O	O	O
-पर	PSP	O	O	O
-अपलोड	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दी	VAUX	O	I-MISC	O
-जाएगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-,	SYM	O	O	O
-निदेशालय	NN	O	O	O
-पैरंट्स	NN	O	O	O
-को	PSP	O	O	O
-एसएमएस	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-उन्हें	PRP	O	O	O
-दिए	VM	O	B-MISC	OCC
-गए	VAUX	O	I-MISC	O
-स्कूल	NN	O	O	O
-की	PSP	O	O	O
-जानकारी	NN	O	B-MISC	OCC
-देगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-शिक्षा	XC	O	O	O
-निदेशालय	NN	O	O	O
-के	PSP	O	O	O
-एक	QC	O	O	O
-अधिकारी	NN	O	O	O
-ने	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-कि	CC	O	O	O
-पैरंट्स	NN	O	O	O
-को	PSP	O	O	O
-ऐडमिशन	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-30	QC	B	O	O
-नवंबर	NNP	I	O	O
-तक	RP	O	O	O
-का	PSP	O	O	O
-वक्त	NN	O	O	O
-दिया	VM	O	B-MISC	OCC
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-बाद	NST	O	O	O
-इस	DEM	O	O	O
-सेशन	NN	O	O	O
-की	PSP	O	O	O
-जितनी	QF	O	O	O
-खाली	JJ	O	O	O
-सीटें	NN	O	O	OCC
-रह	VM	O	B-MISC	O
-जाएंगी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उन्हें	PRP	O	O	O
-अगले	JJ	O	O	O
-सेशन	NN	O	O	O
-की	PSP	O	O	O
-सीटों	NN	O	O	O
-में	PSP	O	O	O
-जोड़	XC	O	B-MISC	O
-दिया	VM	O	I-MISC	OCC
-जाएगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-नर्सरी	NN	O	O	O
-की	PSP	O	O	O
-सीटें	NN	O	O	O
-केजी	XC	O	O	O
-में	PSP	O	O	O
-और	CC	O	O	O
-केजी	NN	O	O	O
-की	PSP	O	O	O
-क्लास	NN	O	O	O
-1	QC	O	O	O
-में	PSP	O	O	O
-जुड़	XC	O	O	O
-जाएंगी	NNP	O	O	O
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-,	SYM	O	O	O
-नए	JJ	O	O	O
-सेशन	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-29	QC	B	O	O
-नवंबर	NNP	I	O	O
-से	PSP	O	O	O
-ऐप्लिकेशन	XC	O	O	O
-फॉर्म	NN	O	O	O
-भर	VM	O	B-MISC	OCC
-जा	VAUX	O	I-MISC	O
-सकेंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फॉर्म	NN	O	B-MISC	O
-भरने	VM	O	I-MISC	O
-की	PSP	O	O	O
-आखिरी	JJ	O	O	O
-तारीख	NN	O	O	O
-27	QC	O	O	O
-दिसंबर	NNP	O	B-MISC	O
-होगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-24	QC	B	O	O
-जनवरी	NNP	I	O	O
-को	PSP	O	O	O
-चुने	VM	O	B-MISC	OCC
-हुए	VAUX	O	I-MISC	O
-बच्चों	NN	O	O	O
-की	PSP	O	O	O
-लिस्ट	NN	O	O	O
-और	CC	O	O	O
-वेटिंग	XC	O	O	O
-लिस्ट	NN	O	O	O
-जारी	JJ	O	B-MISC	OCC
-होगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-दूसरी	QO	O	O	O
-लिस्ट	NN	O	O	O
-12	QC	O	O	O
-फरवरी	NNP	O	O	O
-को	PSP	O	O	O
-आएगी	VM	O	B-MISC	OCC
-.	SYM	O	O	O
+स
+सेशन
+प्राइवेट
+स्कूलों
+में
+नर्सरी
+,
+केजी
+और
+क्लास
+1
+में
+ऐडमिशन
+के
+लिए
+आखिरी
+ड्रॉ
+में
+4768
+स्टूडेंट्स
+को
+स्कूल
+अलॉट
+किए
+गए
+.
+इकनॉमिकली
+वीकर
+सेक्शन
+/
+डिस्एडवांटेज
+ग्रुप
+(
+ईडब्ल्यूएस
+/
+डीजी
+)
+के
+लिए
+इस
+ऐकडेमिक
+सेशन
+का
+आखिरी
+और
+9
+वां
+कंप्यूटराइज्ड
+ड्रॉ
+शुक्रवार
+को
+हुआ
+.
+इस
+ड्रॉ
+के
+लिए
+शिक्षा
+निदेशालय
+ने
+नए
+सिरे
+से
+ऐप्लिकेशन
+मांगी
+थी
+.
+कुल
+7663
+सीटों
+के
+लिए
+सिर्फ
+4768
+ऐप्लिकेशन
+मिलीं
+.
+30
+नवंबर
+तक
+ऐडमिशन
+का
+चांस
+मिलेगा
+.
+बच्चों
+के
+नामों
+की
+यह
+लिस्ट
+शिक्षा
+निदेशालय
+की
+वेबसाइट
+edudel
+.
+nic
+.
+in
+पर
+अपलोड
+कर
+दी
+जाएगी
+.
+साथ
+ही
+,
+निदेशालय
+पैरंट्स
+को
+एसएमएस
+कर
+उन्हें
+दिए
+गए
+स्कूल
+की
+जानकारी
+देगी
+.
+शिक्षा
+निदेशालय
+के
+एक
+अधिकारी
+ने
+बताया
+कि
+पैरंट्स
+को
+ऐडमिशन
+के
+लिए
+30
+नवंबर
+तक
+का
+वक्त
+दिया
+जाएगा
+.
+इसके
+बाद
+इस
+सेशन
+की
+जितनी
+खाली
+सीटें
+रह
+जाएंगी
+,
+उन्हें
+अगले
+सेशन
+की
+सीटों
+में
+जोड़
+दिया
+जाएगा
+.
+नर्सरी
+की
+सीटें
+केजी
+में
+और
+केजी
+की
+क्लास
+1
+में
+जुड़
+जाएंगी
+.
+वहीं
+,
+नए
+सेशन
+के
+लिए
+29
+नवंबर
+से
+ऐप्लिकेशन
+फॉर्म
+भर
+जा
+सकेंगे
+.
+फॉर्म
+भरने
+की
+आखिरी
+तारीख
+27
+दिसंबर
+होगी
+.
+24
+जनवरी
+को
+चुने
+हुए
+बच्चों
+की
+लिस्ट
+और
+वेटिंग
+लिस्ट
+जारी
+होगी
+.
+दूसरी
+लिस्ट
+12
+फरवरी
+को
+आएगी
+.

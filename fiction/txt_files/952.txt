@@ -1,663 +1,663 @@
-रमजान	NN	O	O	O
-के	PSP	O	O	O
-पूरे	JJ	O	O	O
-तीस	QC	O	O	O
-रोजों	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-ईद	NN	O	B-MISC	OCC
-आयी	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कितना	QF	O	O	O
-मनोहर	JJ	O	O	O
-,	SYM	O	O	O
-कितना	QF	O	O	O
-सुहावना	NN	O	O	O
-प्रभाव	NN	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-वृक्षों	NN	O	O	O
-पर	PSP	O	O	O
-अजीब	JJ	O	O	O
-हरियाली	NN	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-खेतों	NN	O	O	O
-में	PSP	O	O	O
-कुछ	QF	O	O	O
-अजीब	JJ	O	O	O
-रौनक	NN	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-आसमान	NN	O	O	O
-पर	PSP	O	O	O
-कुछ	QF	O	O	O
-अजीब	JJ	O	O	O
-लालिमा	NN	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-आज	NN	O	O	O
-का	PSP	O	O	O
-सूर्य	NN	O	O	O
-देखो	VM	O	O	O
-,	SYM	O	O	O
-कितना	QF	O	O	O
-प्यारा	XC	O	O	O
-,	SYM	O	O	O
-कितना	QF	O	O	O
-शीतल	NN	O	O	O
-है	VM	O	O	O
-,	SYM	O	O	O
-यानी	CC	O	O	O
-संसार	NN	O	O	O
-को	PSP	O	O	O
-ईद	NN	O	O	O
-की	PSP	O	O	O
-बधाई	NN	O	B-MISC	OCC
-दे	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-गांव	NN	O	O	O
-में	PSP	O	O	O
-कितनी	INTF	O	O	O
-हलचल	JJ	O	B-STAT	O
-है	VM	O	I-STAT	DEC
-.	SYM	O	O	O
-ईदगाह	NN	O	B-MISC	O
-जाने	VM	O	I-MISC	O
-की	PSP	O	O	O
-तैयारियां	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-किसी	PRP	O	O	O
-के	PSP	O	O	O
-कुरते	NN	O	O	O
-में	PSP	O	O	O
-बटन	NN	O	O	OCC
-नहीं	NEG	O	B-STAT	O
-है	VM	O	I-STAT	O
-,	SYM	O	O	O
-पड़ोस	NN	O	O	O
-के	PSP	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-सुई-धागा	NN	O	O	O
-लेने	VM	O	B-MISC	OCC
-दौड़ा	VM	O	B-MISC	O
-जा	VAUX	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-किसी	PRP	O	O	O
-के	PSP	O	O	O
-जूते	NN	O	O	O
-कड़े	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उनमें	PRP	O	O	O
-तेल	NN	O	B-MISC	O
-डालने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-तेली	NN	O	O	O
-के	PSP	O	O	O
-घर	NN	O	O	O
-पर	PSP	O	O	O
-भागा	VM	O	B-MISC	OCC
-जाता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जल्दी-जल्दी	NN	O	O	O
-बैलों	NN	O	O	O
-को	PSP	O	O	O
-सानी-पानी	NN	O	B-MISC	OCC
-दे	VM	O	I-MISC	O
-दें	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ईदगाह	NN	O	O	O
-से	PSP	O	O	O
-लौटते-लौटते	VM	O	B-MISC	O
-दोपहर	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जायगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-तीन	QC	O	O	O
-कोस	NN	O	O	O
-का	PSP	O	O	O
-पैदल	JJ	O	O	O
-रास्ता	NN	O	O	O
-,	SYM	O	O	O
-फिर	XC	O	O	O
-सैकड़ों	XC	O	O	O
-आदमियों	NN	O	O	O
-से	PSP	O	O	O
-मिलना-भेंटना	VM	O	O	O
-,	SYM	O	O	O
-दोपहर	NN	O	O	O
-के	PSP	O	O	O
-पहले	NST	O	O	O
-लौटना	VM	O	O	O
-असम्भव	JJ	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-लड़के	NNP	O	O	O
-सबसे	INTF	O	O	O
-ज्यादा	QF	O	O	O
-प्रसन्न	JJ	O	B-STAT	O
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-किसी	PRP	O	O	O
-ने	PSP	O	O	O
-एक	QC	O	O	O
-रोजा	NN	O	O	O
-रखा	VM	O	B-STAT	O
-है	VAUX	O	I-STAT	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-भी	RP	O	O	O
-दोपहर	NN	O	O	O
-तक	RP	O	O	O
-,	SYM	O	O	O
-किसी	PRP	O	O	O
-ने	PSP	O	O	O
-वह	PRP	O	O	O
-भी	RP	O	O	O
-नहीं	NEG	O	O	OCC
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-ईदगाह	NN	O	B-MISC	O
-जाने	VM	O	I-MISC	O
-की	PSP	O	O	O
-खुशी	NN	O	O	O
-उनके	PRP	O	O	O
-हिस्से	NN	O	O	O
-की	PSP	O	O	O
-चीज	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-रोजे	NN	O	O	O
-बड़े-बूढ़ों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-होंगे	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-इनके	PRP	O	O	O
-लिए	PSP	O	O	O
-तो	RP	O	O	O
-ईद	NN	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-रोज	NN	O	O	O
-ईद	NN	O	O	O
-का	PSP	O	O	O
-नाम	NN	O	B-MISC	OCC
-रटते	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-आज	NN	O	O	O
-वह	PRP	O	O	O
-आ	VM	O	B-MISC	OCC
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-जल्दी	RB	O	O	O
-पड़ी	NNP	O	O	O
-है	VM	O	O	O
-कि	CC	O	O	O
-लोग	NN	O	O	O
-ईदगाह	NN	O	O	O
-क्यों	WQ	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-चलते	VM	O	I-MISC	O
-.	SYM	O	O	O
-इन्हें	PRP	O	O	O
-गृहस्थी	NN	O	O	O
-की	PSP	O	O	O
-चिंताओं	NN	O	O	O
-से	PSP	O	O	O
-क्या	WQ	O	O	O
-प्रयोजन	NN	O	O	O
-!	SYM	O	O	O
-सेवैयों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-दूध	NN	O	O	O
-ओर	NST	O	O	O
-शक्कर	XC	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-है	VM	O	B-STAT	O
-या	CC	O	O	O
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-इनकी	PRP	O	O	O
-बला	NN	O	O	O
-से	PSP	O	O	O
-,	SYM	O	O	O
-ये	PRP	O	O	O
-तो	RP	O	O	O
-सेवेयां	NN	O	B-MISC	OCC
-खायेंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-क्या	WQ	O	O	O
-जानें	VM	O	B-MISC	OCC
-कि	CC	O	O	O
-अब्बाजान	NN	O	O	O
-क्यों	WQ	O	O	O
-बदहवास	NN	O	O	O
-चौधरी	JJ	O	O	O
-कायमअली	NN	O	O	O
-के	PSP	O	O	O
-घर	NN	O	O	O
-दौड़े	JJ	O	O	O
-जा	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्हें	PRP	O	O	O
-क्या	WQ	O	O	O
-खबर	NN	O	O	O
-कि	CC	O	O	O
-चौधरी	JJ	O	O	O
-आंखें	NN	O	O	O
-बदल	VM	O	B-MISC	O
-लें	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-यह	DEM	O	O	O
-सारी	QF	O	O	O
-ईद	NN	O	O	O
-मुहर्रम	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाय	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उनकी	PRP	O	O	O
-अपनी	PRP	O	O	O
-जेबों	NN	O	O	O
-में	PSP	O	O	O
-तो	RP	O	O	O
-कुबेर	NN	O	O	O
-का	PSP	O	O	O
-धन	NN	O	O	O
-भरा	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बार-बार	JJ	O	O	O
-जेब	NN	O	O	O
-से	PSP	O	O	O
-अपना	PRP	O	O	O
-खजाना	NN	O	O	O
-निकालकर	VM	O	B-MISC	OCC
-गिनते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-खुश	JJ	O	O	O
-होकर	VM	O	O	O
-फिर	RB	O	O	O
-रख	VM	O	B-MISC	OCC
-लेते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-महमूद	JJ	O	B-STAT	O
-गिनता	VM	O	I-STAT	O
-है	VAUX	O	I-STAT	O
-,	SYM	O	O	O
-एक-दो	QC	O	O	O
-,	SYM	O	O	O
-दस	NNP	O	O	O
-,	SYM	O	O	O
--बारह	NN	O	O	O
-,	SYM	O	O	O
-उसके	PRP	O	O	O
-पास	NST	O	O	O
-बारह	QC	O	O	O
-पैसे	NN	O	O	O
-हैं	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-मोहसिन	NNP	O	O	O
-के	PSP	O	O	O
-पास	NST	O	O	O
-एक	QC	O	O	O
-,	SYM	O	O	O
-दो	QC	O	O	O
-,	SYM	O	O	O
-तीन	QC	O	O	O
-,	SYM	O	O	O
-आठ	QC	O	O	O
-,	SYM	O	O	O
-नौ	QC	O	O	O
-,	SYM	O	O	O
-पंद्रह	QC	O	O	O
-पैसे	NN	O	O	O
-हैं	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-इन्हीं	DEM	O	O	O
-अनगिनती	JJ	O	O	O
-पैसों	NN	O	O	O
-में	PSP	O	O	O
-अनगिनती	JJ	O	O	O
-चीजें	NN	O	O	O
-लायेंगें-	QC	O	O	O
-खिलौने	XC	O	O	O
-,	SYM	O	O	O
-मिठाइयां	NN	O	O	O
-,	SYM	O	O	O
-बिगुल	NN	O	O	O
-,	SYM	O	O	O
-गेंद	NN	O	O	O
-और	CC	O	O	O
-जाने	VM	O	B-MISC	OCC
-क्या-क्या	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-और	CC	O	O	O
-सबसे	INTF	O	O	O
-ज्यादा	QF	O	O	O
-प्रसन्न	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-हामिद	XC	O	O	O
-.	SYM	O	O	O
-वह	DEM	O	O	O
-चार-पांच	NN	O	O	O
-साल	NN	O	O	O
-का	PSP	O	O	O
-गरीब-	JJ	O	O	O
-सूरत	NN	O	O	O
-,	SYM	O	O	O
-दुबला-पतला	XC	O	O	O
-लड़का	NNP	O	O	O
-,	SYM	O	O	O
-जिसका	PRP	O	O	O
-बाप	NN	O	O	O
-गत	JJ	O	O	O
-वर्ष	NN	O	O	O
-हैजे	NN	O	O	O
-की	PSP	O	O	O
-भेंट	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-और	CC	O	O	O
-मां	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-जाने	VM	O	I-MISC	O
-क्यों	WQ	O	O	O
-पीली	JJ	O	B-STAT	O
-होती-होती	VM	O	I-STAT	O
-एक	QC	O	O	O
-दिन	NN	O	O	O
-मर	VM	O	B-MISC	OCC
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-किसी	PRP	O	O	O
-को	PSP	O	O	O
-पता	JJ	O	O	O
-क्या	WQ	O	O	O
-बीमारी	NN	O	O	O
-है	VM	O	B-STAT	DEC
-.	SYM	O	O	O
-कहती	VM	O	B-MISC	OCC
-तो	RP	O	O	O
-कौन	WQ	O	O	O
-सुनने	VM	O	B-MISC	OCC
-वाला	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-दिल	NN	O	O	O
-पर	PSP	O	O	O
-जो	PRP	O	O	O
-कुछ	QF	O	O	O
-बीतती	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-दिल	NN	O	O	O
-में	PSP	O	O	O
-ही	RP	O	O	O
-सहती	VM	O	B-MISC	O
-थी	VAUX	O	I-MISC	O
-ओर	NST	O	O	O
-जब	PRP	O	O	O
-न	NEG	O	B-MISC	OCC
-सहा	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-संसार	NN	O	O	O
-से	PSP	O	O	O
-विदा	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अब	PRP	O	O	O
-हामिद	NN	O	O	O
-अपनी	PRP	O	O	O
-बूढ़ी	XC	O	O	O
-दादी	XC	O	O	O
-अमीना	NNP	O	O	O
-की	PSP	O	O	O
-गोद	NN	O	O	O
-में	PSP	O	O	O
-सोता	VM	O	B-STAT	OCC
-है	VAUX	O	I-STAT	O
-और	CC	O	O	O
-उतना	QF	O	O	O
-ही	RP	O	O	O
-प्रसन्न	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-उसके	PRP	O	O	O
-अब्बाजान	JJ	O	O	O
-रूपये	NN	O	O	O
-कमाने	VM	O	B-MISC	OCC
-गए	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बहुत-सी	JJ	O	O	O
-थैलियां	NN	O	O	O
-लेकर	VM	O	B-MISC	O
-आयेंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अम्मीजान	NNP	O	O	O
-अल्लाह	NN	O	O	O
-मियां	NN	O	O	O
-के	PSP	O	O	O
-घर	NN	O	O	O
-से	PSP	O	O	O
-उसके	PRP	O	O	O
-लिए	PSP	O	O	O
-बड़ी	JJ	O	O	O
-अच्छी-अच्छी	NN	O	O	O
-चीजें	NN	O	B-MISC	OCC
-लाने	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-इसलिए	CC	O	O	O
-हामिद	NN	O	O	O
-प्रसन्न	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-आशा	NN	O	O	O
-तो	RP	O	O	O
-बड़ी	JJ	O	O	O
-चीज	NN	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-और	CC	O	O	O
-फिर	RB	O	O	O
-बच्चों	NN	O	O	O
-की	PSP	O	O	O
-आशा	NN	O	O	O
-!	SYM	O	O	O
-उनकी	PRP	O	O	O
-कल्पना	NN	O	O	O
-तो	CC	O	O	O
-राई	NN	O	O	O
-का	PSP	O	O	O
-पर्वत	NN	O	O	O
-बना	VM	O	B-MISC	OCC
-लेती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हामिद	NN	O	O	O
-के	PSP	O	O	O
-पांव	NN	O	O	O
-में	PSP	O	O	O
-जूते	NN	O	O	OCC
-नहीं	NEG	O	B-STAT	O
-हैं	VM	O	I-STAT	O
-,	SYM	O	O	O
-सिर	NN	O	O	O
-पर	PSP	O	O	O
-एक	QC	O	O	O
-पुरानी-धुरानी	JJ	O	O	O
-टोपी	NN	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-जिसका	PRP	O	O	O
-गोटा	NN	O	O	O
-काला	JJ	O	B-MISC	OCC
-पड़	NN	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-फिर	RB	O	O	O
-भी	RP	O	O	O
-वह	PRP	O	O	O
-प्रसन्न	JJ	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-उसके	PRP	O	O	O
-अब्बाजान	JJ	O	O	O
-थैलियां	NN	O	O	O
-और	CC	O	O	O
-अम्मीजान	JJ	O	O	O
-नियामतें	NN	O	O	O
-लेकर	VM	O	O	O
-आयेंगी	VAUX	O	O	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-वह	PRP	O	O	O
-दिल	NN	O	O	O
-से	PSP	O	O	O
-अरमान	NN	O	O	O
-निकाल	VM	O	B-MISC	OCC
-लेगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-तब	PRP	O	O	O
-देखेगा	VM	O	O	O
-,	SYM	O	O	O
-मोहसिन	NNP	O	O	O
-,	SYM	O	O	O
-नूरे	NN	O	O	O
-और	CC	O	O	O
-सम्मी	NN	O	O	O
-कहां	WQ	O	O	O
-से	PSP	O	O	O
-उतने	QF	O	O	O
-पैसे	NN	O	O	O
-निकालेंगे	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-अभागिन	JJ	O	O	O
-अमीना	NN	O	O	O
-अपनी	PRP	O	O	O
-कोठरी	NN	O	O	O
-में	PSP	O	O	O
-बैठी	VM	O	B-MISC	OCC
-रो	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-आज	NN	O	O	O
-ईद	NN	O	O	O
-का	PSP	O	O	O
-दिन	NN	O	O	O
-,	SYM	O	O	O
-उसके	PRP	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-दाना	NN	O	O	OCC
-नहीं	NEG	O	O	O
-!	SYM	O	O	O
-आज	NN	O	O	O
-आबिद	NN	O	O	O
-होता	VM	O	O	O
-,	SYM	O	O	O
-तो	RP	O	O	O
-क्या	WQ	O	O	O
-इसी	DEM	O	O	O
-तरह	NN	O	O	O
-ईद	NN	O	O	O
-आती	VM	O	O	O
-ओर	NST	O	O	O
-चली	VM	O	B-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-!	SYM	O	O	O
-इस	DEM	O	O	O
-अंधकार	NN	O	O	O
-और	CC	O	O	O
-निराशा	NN	O	O	O
-में	PSP	O	O	O
-वह	PRP	O	O	O
-डूबी	VM	O	B-MISC	OCC
-जा	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-किसने	WQ	O	O	O
-बुलाया	VM	O	B-STAT	O
-था	VAUX	O	I-STAT	O
-इस	DEM	O	O	O
-निगोड़ी	XC	O	O	O
-ईद	NN	O	O	O
-को	PSP	O	O	O
-?	SYM	O	O	O
-इस	DEM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-उसका	PRP	O	O	O
-काम	NN	O	O	O
-नहीं	NEG	O	O	OCC
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-हामिद	XC	O	O	O
-!	SYM	O	O	O
-उसे	PRP	O	O	O
-किसी	PRP	O	O	O
-के	PSP	O	O	O
-मरने-जीने	NN	O	O	O
-से	PSP	O	O	O
-क्या	WQ	O	O	O
-मतलब	NN	O	O	O
-?	SYM	O	O	O
-उसके	PRP	O	O	O
-अन्दर	NST	O	O	O
-प्रकाश	NN	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-बाहर	NST	O	O	O
-आशा	NN	O	O	O
-.	SYM	O	O	O
-विपत्ति	NN	O	O	O
-अपना	PRP	O	O	O
-सारा	QF	O	O	O
-दल-बल	NN	O	O	OCC
-लेकर	VM	O	O	O
-आये	VAUX	O	O	O
-,	SYM	O	O	O
-हामिद	NN	O	O	O
-की	PSP	O	O	O
-आनंद-भरी	JJ	O	O	O
-चितवन	NN	O	O	O
-उसका	PRP	O	O	O
-विध्वंस	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-देगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+रमजान
+के
+पूरे
+तीस
+रोजों
+के
+बाद
+ईद
+आयी
+है
+.
+कितना
+मनोहर
+,
+कितना
+सुहावना
+प्रभाव
+है
+.
+वृक्षों
+पर
+अजीब
+हरियाली
+है
+,
+खेतों
+में
+कुछ
+अजीब
+रौनक
+है
+,
+आसमान
+पर
+कुछ
+अजीब
+लालिमा
+है
+.
+आज
+का
+सूर्य
+देखो
+,
+कितना
+प्यारा
+,
+कितना
+शीतल
+है
+,
+यानी
+संसार
+को
+ईद
+की
+बधाई
+दे
+रहा
+है
+.
+गांव
+में
+कितनी
+हलचल
+है
+.
+ईदगाह
+जाने
+की
+तैयारियां
+हो
+रही
+हैं
+.
+किसी
+के
+कुरते
+में
+बटन
+नहीं
+है
+,
+पड़ोस
+के
+घर
+में
+सुई-धागा
+लेने
+दौड़ा
+जा
+रहा
+है
+.
+किसी
+के
+जूते
+कड़े
+हो
+गए
+हैं
+,
+उनमें
+तेल
+डालने
+के
+लिए
+तेली
+के
+घर
+पर
+भागा
+जाता
+है
+.
+जल्दी-जल्दी
+बैलों
+को
+सानी-पानी
+दे
+दें
+.
+ईदगाह
+से
+लौटते-लौटते
+दोपहर
+हो
+जायगी
+.
+तीन
+कोस
+का
+पैदल
+रास्ता
+,
+फिर
+सैकड़ों
+आदमियों
+से
+मिलना-भेंटना
+,
+दोपहर
+के
+पहले
+लौटना
+असम्भव
+है
+.
+लड़के
+सबसे
+ज्यादा
+प्रसन्न
+हैं
+.
+किसी
+ने
+एक
+रोजा
+रखा
+है
+,
+वह
+भी
+दोपहर
+तक
+,
+किसी
+ने
+वह
+भी
+नहीं
+,
+लेकिन
+ईदगाह
+जाने
+की
+खुशी
+उनके
+हिस्से
+की
+चीज
+है
+.
+रोजे
+बड़े-बूढ़ों
+के
+लिए
+होंगे
+.
+इनके
+लिए
+तो
+ईद
+है
+.
+रोज
+ईद
+का
+नाम
+रटते
+थे
+,
+आज
+वह
+आ
+गयी
+.
+अब
+जल्दी
+पड़ी
+है
+कि
+लोग
+ईदगाह
+क्यों
+नहीं
+चलते
+.
+इन्हें
+गृहस्थी
+की
+चिंताओं
+से
+क्या
+प्रयोजन
+!
+सेवैयों
+के
+लिए
+दूध
+ओर
+शक्कर
+घर
+में
+है
+या
+नहीं
+,
+इनकी
+बला
+से
+,
+ये
+तो
+सेवेयां
+खायेंगे
+.
+वह
+क्या
+जानें
+कि
+अब्बाजान
+क्यों
+बदहवास
+चौधरी
+कायमअली
+के
+घर
+दौड़े
+जा
+रहे
+हैं
+.
+उन्हें
+क्या
+खबर
+कि
+चौधरी
+आंखें
+बदल
+लें
+,
+तो
+यह
+सारी
+ईद
+मुहर्रम
+हो
+जाय
+.
+उनकी
+अपनी
+जेबों
+में
+तो
+कुबेर
+का
+धन
+भरा
+हुआ
+है
+.
+बार-बार
+जेब
+से
+अपना
+खजाना
+निकालकर
+गिनते
+हैं
+और
+खुश
+होकर
+फिर
+रख
+लेते
+हैं
+.
+महमूद
+गिनता
+है
+,
+एक-दो
+,
+दस
+,
+-बारह
+,
+उसके
+पास
+बारह
+पैसे
+हैं
+.
+मोहसिन
+के
+पास
+एक
+,
+दो
+,
+तीन
+,
+आठ
+,
+नौ
+,
+पंद्रह
+पैसे
+हैं
+.
+इन्हीं
+अनगिनती
+पैसों
+में
+अनगिनती
+चीजें
+लायेंगें-
+खिलौने
+,
+मिठाइयां
+,
+बिगुल
+,
+गेंद
+और
+जाने
+क्या-क्या
+.
+और
+सबसे
+ज्यादा
+प्रसन्न
+है
+हामिद
+.
+वह
+चार-पांच
+साल
+का
+गरीब-
+सूरत
+,
+दुबला-पतला
+लड़का
+,
+जिसका
+बाप
+गत
+वर्ष
+हैजे
+की
+भेंट
+हो
+गया
+और
+मां
+न
+जाने
+क्यों
+पीली
+होती-होती
+एक
+दिन
+मर
+गयी
+.
+किसी
+को
+पता
+क्या
+बीमारी
+है
+.
+कहती
+तो
+कौन
+सुनने
+वाला
+था
+?
+दिल
+पर
+जो
+कुछ
+बीतती
+थी
+,
+वह
+दिल
+में
+ही
+सहती
+थी
+ओर
+जब
+न
+सहा
+गया
+तो
+संसार
+से
+विदा
+हो
+गयी
+.
+अब
+हामिद
+अपनी
+बूढ़ी
+दादी
+अमीना
+की
+गोद
+में
+सोता
+है
+और
+उतना
+ही
+प्रसन्न
+है
+.
+उसके
+अब्बाजान
+रूपये
+कमाने
+गए
+हैं
+.
+बहुत-सी
+थैलियां
+लेकर
+आयेंगे
+.
+अम्मीजान
+अल्लाह
+मियां
+के
+घर
+से
+उसके
+लिए
+बड़ी
+अच्छी-अच्छी
+चीजें
+लाने
+गयी
+हैं
+,
+इसलिए
+हामिद
+प्रसन्न
+है
+.
+आशा
+तो
+बड़ी
+चीज
+है
+,
+और
+फिर
+बच्चों
+की
+आशा
+!
+उनकी
+कल्पना
+तो
+राई
+का
+पर्वत
+बना
+लेती
+है
+.
+हामिद
+के
+पांव
+में
+जूते
+नहीं
+हैं
+,
+सिर
+पर
+एक
+पुरानी-धुरानी
+टोपी
+है
+,
+जिसका
+गोटा
+काला
+पड़
+गया
+है
+,
+फिर
+भी
+वह
+प्रसन्न
+है
+.
+जब
+उसके
+अब्बाजान
+थैलियां
+और
+अम्मीजान
+नियामतें
+लेकर
+आयेंगी
+,
+तो
+वह
+दिल
+से
+अरमान
+निकाल
+लेगा
+.
+तब
+देखेगा
+,
+मोहसिन
+,
+नूरे
+और
+सम्मी
+कहां
+से
+उतने
+पैसे
+निकालेंगे
+.
+अभागिन
+अमीना
+अपनी
+कोठरी
+में
+बैठी
+रो
+रही
+है
+.
+आज
+ईद
+का
+दिन
+,
+उसके
+घर
+में
+दाना
+नहीं
+!
+आज
+आबिद
+होता
+,
+तो
+क्या
+इसी
+तरह
+ईद
+आती
+ओर
+चली
+जाती
+!
+इस
+अंधकार
+और
+निराशा
+में
+वह
+डूबी
+जा
+रही
+है
+.
+किसने
+बुलाया
+था
+इस
+निगोड़ी
+ईद
+को
+?
+इस
+घर
+में
+उसका
+काम
+नहीं
+,
+लेकिन
+हामिद
+!
+उसे
+किसी
+के
+मरने-जीने
+से
+क्या
+मतलब
+?
+उसके
+अन्दर
+प्रकाश
+है
+,
+बाहर
+आशा
+.
+विपत्ति
+अपना
+सारा
+दल-बल
+लेकर
+आये
+,
+हामिद
+की
+आनंद-भरी
+चितवन
+उसका
+विध्वंस
+कर
+देगी
+.

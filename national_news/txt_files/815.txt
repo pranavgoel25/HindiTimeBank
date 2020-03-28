@@ -1,288 +1,288 @@
-उत्तर	XC	O	O	O
-प्रदेश	NNP	O	O	O
-के	PSP	O	O	O
-सहारनपुर	XC	O	O	O
-जिले	NNP	O	O	O
-में	PSP	O	O	O
-थाना	VM	O	O	O
-देवबंद	NNP	O	O	O
-के	PSP	O	O	O
-अंतर्गत	PSP:?	O	O	O
-एक	QC	O	O	O
-ममेरे	JJ	O	O	O
-भाई	NN	O	O	O
-द्वारा	PSP	O	O	O
-बहन	NN	O	O	O
-से	PSP	O	O	O
-रेप	NN	O	O	O
-का	PSP	O	O	O
-मामला	NN	O	O	O
-सामने	NST	O	B-MISC	OCC
-आया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-घटना	NN	O	B-MISC	OCC
-के	PSP	O	O	O
-बाद	NST	O	O	O
-युवती	NN	O	O	O
-ने	PSP	O	O	O
-आत्महत्या	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-ली	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पुलिस	NN	O	O	O
-ने	PSP	O	O	O
-मृतक	JJ	O	O	O
-युवती	NN	O	O	O
-का	PSP	O	O	O
-शव	NN	O	O	O
-पोस्टमॉर्टम	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-भेजकर	VM	O	B-MISC	OCC
-आरोपी	NN	O	O	O
-की	PSP	O	O	O
-तलाश	NN	O	B-MISC	OCC
-शुरू	NN	O	B-MISC	ASP
-कर	VM	O	I-MISC	O
-दी	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-घटना	NN	O	B-MISC	OCC
-सामने	NST	O	B-MISC	O
-आने	VM	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-से	PSP	O	O	O
-आसपास	NST	O	O	O
-के	PSP	O	O	O
-क्षेत्र	NN	O	O	O
-में	PSP	O	O	O
-हड़कंप	NN	O	B-MISC	OCC
-मच	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-थाना	VM	O	O	O
-देवबंद	NNP	O	O	O
-क्षेत्र	NN	O	O	O
-के	PSP	O	O	O
-एक	QC	O	O	O
-गांव	NN	O	O	O
-में	PSP	O	O	O
-रहने	VM	O	B-STAT	DESC
-वाली	PSP	O	I-STAT	O
-युवती	NN	O	O	O
-का	PSP	O	O	O
-परिवार	NN	O	O	O
-किसी	PRP	O	O	O
-पारिवारिक	JJ	O	O	O
-कार्यक्रम	NN	O	O	O
-में	PSP	O	O	O
-शामिल	JJ	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-रुड़की	XC	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-हुआ	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-युवती	NN	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-अकेली	JJ	O	B-STAT	OCC
-थी	VM	O	I-STAT	O
-.	SYM	O	O	O
-इसी	DEM	O	O	O
-दौरान	NST	O	O	O
-युवती	NN	O	O	O
-के	PSP	O	O	O
-मामा	NN	O	O	O
-का	PSP	O	O	O
-बेटा	NN	O	O	O
-घर	NN	O	O	O
-पहुंच	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-और	CC	O	O	O
-बहन	NN	O	O	O
-को	PSP	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-अकेला	JJ	O	B-STAT	O
-देखकर	VM	O	I-STAT	O
-उसने	PRP	O	O	O
-दरवाजा	NN	O	O	O
-बंद	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-लिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-बाद	NST	O	O	O
-युवक	NN	O	O	O
-ने	PSP	O	O	O
-अपनी	PRP	O	O	O
-बहन	NN	O	O	O
-से	PSP	O	O	O
-दुष्कर्म	NN	O	O	O
-की	PSP	O	O	O
-वारदात	NN	O	B-MISC	OCC
-को	PSP	O	O	O
-अंजाम	NN	O	B-MISC	OCC
-दिया	VM	O	I-MISC	O
-.	SYM	O	O	O
-आरोपी	JJ	O	O	O
-दुष्कर्म	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-मौके	NN	O	O	O
-से	PSP	O	O	O
-फरार	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-देर	JJ	B	O	O
-शाम	NN	I	O	O
-जब	PRP	O	O	O
-युवती	NN	O	O	O
-के	PSP	O	O	O
-परिजन	NN	O	O	O
-बाहर	NST	O	O	O
-से	PSP	O	O	O
-लौटे	VM	O	B-MISC	OCC
-तो	CC	O	O	O
-उसने	PRP	O	O	O
-बदहवास	NN	O	O	O
-हालत	NN	O	O	O
-में	PSP	O	O	O
-परिवारवालों	NN	O	O	O
-को	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-कि	CC	O	O	O
-उसके	PRP	O	O	O
-साथ	NST	O	O	O
-दुष्कर्म	NN	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	PRP	O	O	O
-कहकर	VM	O	O	O
-युवती	NN	O	O	OCC
-रात	NN	O	O	O
-के	PSP	O	O	O
-अंधेरे	NN	O	O	O
-में	PSP	O	O	O
-घर	NN	O	O	O
-से	PSP	O	O	O
-बाहर	NST	O	O	O
-निकल	VM	O	B-MISC	OCC
-गई	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-परिवारवाले	NN	O	O	O
-युवती	NN	O	O	O
-की	PSP	O	O	O
-तलाश	NN	O	O	OCC
-मे	PSP	O	O	O
-जुट	VM	O	B-MISC	OCC
-गए	VAUX	O	I-MISC	O
-लेकिन	CC	O	O	O
-उसका	PRP	O	O	O
-कुछ	QF	O	O	O
-भी	RP	O	O	O
-पता	JJ	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-चला	VM	O	I-MISC	O
-.	SYM	O	O	O
-इसके	PRP	O	O	O
-बाद	NST	O	O	O
-परिवारवालों	NN	O	O	O
-ने	PSP	O	O	O
-घटना	NN	O	B-MISC	OCC
-की	PSP	O	O	O
-सूचना	NN	O	B-MISC	OCC
-पुलिस	NN	O	O	O
-को	PSP	O	O	O
-दी	VM	O	I-MISC	-1
-.	SYM	O	O	O
-सुबह	NN	O	O	O
-के	PSP	O	O	O
-वक्त	NN	O	O	O
-पुलिस	NN	O	O	O
-को	PSP	O	O	O
-सूचना	NN	O	B-MISC	OCC
-मिली	VM	O	I-MISC	O
-कि	CC	O	O	O
-रेलवे	XC	O	O	O
-ट्रैक	NNP	O	O	O
-पर	PSP	O	O	O
-एक	QC	O	O	O
-युवती	NN	O	O	O
-का	PSP	O	O	O
-शव	NN	O	B-MISC	O
-मिला	VM	O	I-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पुलिस	NN	O	O	O
-ने	PSP	O	O	O
-युवती	NN	O	O	O
-के	PSP	O	O	O
-परिवारवालों	NN	O	O	O
-से	PSP	O	O	O
-संपर्क	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-तो	CC	O	O	O
-पता	JJ	O	B-MISC	OCC
-चला	VM	O	I-MISC	O
-कि	CC	O	O	O
-यह	DEM	O	O	O
-शव	NN	O	O	O
-उनकी	PRP	O	O	O
-ही	RP	O	O	O
-बेटी	NN	O	O	O
-का	PSP	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-युवती	NN	O	O	O
-के	PSP	O	O	O
-परिवारवालों	NN	O	O	O
-ने	PSP	O	O	O
-दुष्कर्म	NN	O	O	O
-की	PSP	O	O	O
-बात	NN	O	O	O
-पुलिस	NN	O	O	O
-को	PSP	O	O	O
-बताते	VM	O	B-MISC	OCC
-हुए	VAUX	O	I-MISC	O
-आरोपी	JJ	O	O	O
-युवक	NN	O	O	O
-के	PSP	O	O	O
-विरुद्ध	NN	O	O	O
-थाने	VM	O	O	O
-में	PSP	O	O	O
-तहरीर	NN	O	B-MISC	OCC
-दी	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पुलिस	NN	O	O	O
-ने	PSP	O	O	O
-युवती	NN	O	O	O
-के	PSP	O	O	O
-शव	NN	O	O	O
-को	PSP	O	O	O
-पोस्टमॉर्टम	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-भेज	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पुलिस	NN	O	O	O
-आरोपी	JJ	O	O	O
-युवक	NN	O	O	O
-की	PSP	O	O	O
-तलाश	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+उत्तर
+प्रदेश
+के
+सहारनपुर
+जिले
+में
+थाना
+देवबंद
+के
+अंतर्गत
+एक
+ममेरे
+भाई
+द्वारा
+बहन
+से
+रेप
+का
+मामला
+सामने
+आया
+है
+.
+इस
+घटना
+के
+बाद
+युवती
+ने
+आत्महत्या
+कर
+ली
+.
+पुलिस
+ने
+मृतक
+युवती
+का
+शव
+पोस्टमॉर्टम
+के
+लिए
+भेजकर
+आरोपी
+की
+तलाश
+शुरू
+कर
+दी
+है
+.
+यह
+घटना
+सामने
+आने
+के
+बाद
+से
+आसपास
+के
+क्षेत्र
+में
+हड़कंप
+मच
+गया
+.
+थाना
+देवबंद
+क्षेत्र
+के
+एक
+गांव
+में
+रहने
+वाली
+युवती
+का
+परिवार
+किसी
+पारिवारिक
+कार्यक्रम
+में
+शामिल
+होने
+के
+लिए
+रुड़की
+गया
+हुआ
+था
+.
+युवती
+घर
+में
+अकेली
+थी
+.
+इसी
+दौरान
+युवती
+के
+मामा
+का
+बेटा
+घर
+पहुंच
+गया
+और
+बहन
+को
+घर
+में
+अकेला
+देखकर
+उसने
+दरवाजा
+बंद
+कर
+लिया
+.
+इसके
+बाद
+युवक
+ने
+अपनी
+बहन
+से
+दुष्कर्म
+की
+वारदात
+को
+अंजाम
+दिया
+.
+आरोपी
+दुष्कर्म
+के
+बाद
+मौके
+से
+फरार
+हो
+गया
+.
+देर
+शाम
+जब
+युवती
+के
+परिजन
+बाहर
+से
+लौटे
+तो
+उसने
+बदहवास
+हालत
+में
+परिवारवालों
+को
+बताया
+कि
+उसके
+साथ
+दुष्कर्म
+हुआ
+है
+.
+यह
+कहकर
+युवती
+रात
+के
+अंधेरे
+में
+घर
+से
+बाहर
+निकल
+गई
+.
+परिवारवाले
+युवती
+की
+तलाश
+मे
+जुट
+गए
+लेकिन
+उसका
+कुछ
+भी
+पता
+नहीं
+चला
+.
+इसके
+बाद
+परिवारवालों
+ने
+घटना
+की
+सूचना
+पुलिस
+को
+दी
+.
+सुबह
+के
+वक्त
+पुलिस
+को
+सूचना
+मिली
+कि
+रेलवे
+ट्रैक
+पर
+एक
+युवती
+का
+शव
+मिला
+है
+.
+पुलिस
+ने
+युवती
+के
+परिवारवालों
+से
+संपर्क
+किया
+तो
+पता
+चला
+कि
+यह
+शव
+उनकी
+ही
+बेटी
+का
+है
+.
+युवती
+के
+परिवारवालों
+ने
+दुष्कर्म
+की
+बात
+पुलिस
+को
+बताते
+हुए
+आरोपी
+युवक
+के
+विरुद्ध
+थाने
+में
+तहरीर
+दी
+है
+.
+पुलिस
+ने
+युवती
+के
+शव
+को
+पोस्टमॉर्टम
+के
+लिए
+भेज
+दिया
+है
+.
+पुलिस
+आरोपी
+युवक
+की
+तलाश
+कर
+रही
+है
+.

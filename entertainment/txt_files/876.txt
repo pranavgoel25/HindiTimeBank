@@ -1,146 +1,146 @@
-अमिताभ	JJ	O	O	O
-बच्चन	NN	O	O	O
-का	PSP	O	O	O
-11	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-जन्मदिन	NN	O	B-STAT	OCC
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-मौके	NN	O	O	O
-पर	PSP	O	O	O
-वह	PRP	O	O	O
-हमेशा	RB	O	O	O
-अपने	PRP	O	O	O
-परिवार	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-जरूर	RB	O	O	O
-समय	NN	O	B-MISC	O
-बिताते	VM	O	I-MISC	DECL
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वैसे	PRP	O	O	O
-महानायक	NN	O	O	O
-के	PSP	O	O	O
-जन्मदिन	NN	O	O	O
-से	PSP	O	O	O
-एक	QC	B	O	O
-दिन	NN	I	O	O
-पहले	NST	O	O	O
-उनकी	PRP	O	O	O
-बेटी	NN	O	O	O
-श्वेता	NN	O	O	O
-ने	PSP	O	O	O
-एक	QC	O	O	O
-थ्रोबैक	NN	O	O	O
-पिक	JJ	O	O	O
-शेयर	NN	O	O	O
-की	PSP	O	O	O
-है	VM	O	B-STAT	O
-जिसमें	PRP	O	O	O
-बिग	XC	O	O	O
-बी	NNP	O	O	O
-अपनी	PRP	O	O	O
-नन्ही	JJ	O	O	O
-बेटी	NN	O	O	O
-को	PSP	O	O	O
-गोद	NN	O	O	OCC
-में	PSP	O	O	O
-लिए	PSP	O	O	O
-दिखाई	VM	O	B-MISC	OCC
-दे	VAUX	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-ब्लैक	XC	O	O	O
-ऐंड	XC	O	O	O
-वाइट	XC	O	O	O
-तस्वीर	NN	O	O	O
-में	PSP	O	O	O
-अमिताभ	JJ	O	O	O
-बेटी	NN	O	O	O
-को	PSP	O	O	O
-गोद	NN	O	O	OCC
-में	PSP	O	O	O
-लिए	PSP	O	O	O
-हंसते	VM	O	B-MISC	OCC
-हुए	VAUX	O	I-MISC	O
-दिखाई	VM	O	B-MISC	OCC
-दे	VAUX	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-श्वेता	NN	O	O	O
-अपने	PRP	O	O	O
-पापा	NN	O	O	O
-की	PSP	O	O	O
-बाहों	NN	O	O	O
-में	PSP	O	O	O
-काफी	QF	O	O	O
-कंफर्टेबल	NN	O	O	O
-दिखाई	VM	O	B-MISC	OCC
-दे	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-सामने	NST	O	O	O
-की	PSP	O	O	O
-दिशा	NN	O	O	O
-में	PSP	O	O	O
-कुछ	QF	O	O	O
-देखती	VM	O	B-MISC	OCC
-हुई	VAUX	O	I-MISC	O
-नजर	NN	O	B-MISC	OCC
-आ	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वैसे	PRP	O	O	O
-तो	RP	O	O	O
-यह	DEM	O	O	O
-तस्वीर	NN	O	O	O
-अपने	PRP	O	O	O
-आप	PRP	O	O	O
-में	PSP	O	O	O
-खास	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-जो	PRP	O	O	O
-पिता	NN	O	O	O
-का	PSP	O	O	O
-बेटी	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-प्यार	NN	O	O	O
-को	PSP	O	O	O
-दिखाती	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-श्वेता	NN	O	O	O
-ने	PSP	O	O	O
-फोटो	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-जो	PRP	O	O	O
-कैप्शन	NN	O	O	OCC
-लिखा	VM	O	B-MISC	O
-है	VAUX	O	I-MISC	O
-वह	PRP	O	O	O
-जताता	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-आखिर	RB	O	O	O
-बिग	XC	O	O	O
-बी	NNP	O	O	O
-उनकी	PRP	O	O	O
-जिंदगी	NN	O	O	O
-में	PSP	O	O	O
-क्या	WQ	O	O	O
-मायने	NN	O	B-MISC	O
-रखते	VM	O	I-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+अमिताभ
+बच्चन
+का
+11
+अक्टूबर
+को
+जन्मदिन
+है
+.
+इस
+मौके
+पर
+वह
+हमेशा
+अपने
+परिवार
+के
+साथ
+जरूर
+समय
+बिताते
+हैं
+.
+वैसे
+महानायक
+के
+जन्मदिन
+से
+एक
+दिन
+पहले
+उनकी
+बेटी
+श्वेता
+ने
+एक
+थ्रोबैक
+पिक
+शेयर
+की
+है
+जिसमें
+बिग
+बी
+अपनी
+नन्ही
+बेटी
+को
+गोद
+में
+लिए
+दिखाई
+दे
+रहे
+हैं
+.
+इस
+ब्लैक
+ऐंड
+वाइट
+तस्वीर
+में
+अमिताभ
+बेटी
+को
+गोद
+में
+लिए
+हंसते
+हुए
+दिखाई
+दे
+रहे
+हैं
+.
+वहीं
+श्वेता
+अपने
+पापा
+की
+बाहों
+में
+काफी
+कंफर्टेबल
+दिखाई
+दे
+रही
+हैं
+.
+वह
+सामने
+की
+दिशा
+में
+कुछ
+देखती
+हुई
+नजर
+आ
+रही
+हैं
+.
+वैसे
+तो
+यह
+तस्वीर
+अपने
+आप
+में
+खास
+है
+जो
+पिता
+का
+बेटी
+के
+लिए
+प्यार
+को
+दिखाती
+,
+लेकिन
+श्वेता
+ने
+फोटो
+के
+साथ
+जो
+कैप्शन
+लिखा
+है
+वह
+जताता
+है
+कि
+आखिर
+बिग
+बी
+उनकी
+जिंदगी
+में
+क्या
+मायने
+रखते
+हैं
+.

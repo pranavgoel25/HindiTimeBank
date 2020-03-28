@@ -1,227 +1,227 @@
-ढेरों	NN	O	O	O
-पॉप्युलर	JJ	O	O	O
-ऐप्स	NN	O	O	O
-पर	PSP	O	O	O
-पहले	NST	O	O	O
-ही	RP	O	O	O
-डार्क	XC	O	O	O
-मोड	XC	O	O	O
-यूजर्स	NNP	O	O	O
-को	PSP	O	O	O
-मिल	VM	O	B-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-लेटेस्ट	JJ	O	O	O
-ऐंड्रॉयड	NN	O	O	O
-10	QC	O	O	O
-अपडेट	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-सिस्टम-वाइड	XC	O	O	O
-डार्क	XC	O	O	O
-मोड	NNP	O	O	O
-भी	RP	O	O	O
-मिलने	VM	O	B-MISC	OCC
-लगा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हाल	NN	O	O	O
-ही	RP	O	O	O
-में	PSP	O	O	O
-फोटो	XC	O	O	O
-शेयरिंग	XC	O	O	O
-ऐप	XC	O	O	O
-इंस्टााग्राम	NNP	O	O	O
-पर	PSP	O	O	O
-डार्क	XC	O	O	O
-मोड	NN	O	O	O
-देखने	VM	O	B-MISC	OCC
-को	PSP	O	O	O
-मिला	VM	O	B-MISC	O
-और	CC	O	O	O
-अब	PRP	O	O	O
-गूगल	JJ	O	O	O
-मैप्स	NN	O	O	O
-और	CC	O	O	O
-जीमेल	NN	O	O	O
-पर	PSP	O	O	O
-भी	RP	O	O	O
-यूजर्स	XC	O	O	O
-डार्क	XC	O	O	O
-मोड	NNP	O	O	O
-में	PSP	O	O	O
-स्विच	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-पाएंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसकी	PRP	O	O	O
-मोड	NN	O	O	O
-की	PSP	O	O	O
-मदद	NN	O	O	O
-से	PSP	O	O	O
-आपके	PRP	O	O	O
-स्मार्टफोन	NN	O	O	O
-की	PSP	O	O	O
-बैटरी	NN	O	O	O
-की	PSP	O	O	O
-भी	RP	O	O	O
-बचत	NN	O	B-MISC	OCC
-होगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-ऐंड्रॉयड	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-इंस्टाग्राम	NN	O	O	O
-पर	PSP	O	O	O
-शेयर	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-एक	QC	O	O	O
-पोस्ट	NN	O	O	O
-में	PSP	O	O	O
-सामने	NST	O	B-MISC	OCC
-आया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-यूजर्स	NN	O	O	O
-अब	PRP	O	O	O
-गूगल	JJ	O	O	O
-मैप्स	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-डार्क	XC	O	O	O
-मोड	XC	O	O	O
-इनेबल	XC	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-स्मार्टफोन	NN	O	O	O
-पर	PSP	O	O	O
-लेटेस्ट	JJ	O	O	O
-ऐंड्रॉयड	NN	O	O	O
-10	QC	O	O	O
-अपडेट	NN	O	O	O
-होना	VM	O	B-STAT	OCC
-जरूरी	JJ	O	I-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-गूगल	XC	O	O	O
-मैप्स	XC	O	O	O
-ऐप	NN	O	O	O
-पर	PSP	O	O	O
-नेविगेशन	NN	O	O	O
-अब	PRP	O	O	O
-भी	RP	O	O	O
-डार्क	NN	O	B-MISC	OCC
-दिखता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-लेकिन	CC	O	O	O
-नए	JJ	O	O	O
-अपडेट	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-नोटिफिकेशंस	XC	O	O	O
-,	SYM	O	O	O
-मेन्यू	NN	O	O	O
-और	CC	O	O	O
-ऐप	NN	O	O	O
-के	PSP	O	O	O
-बाकी	JJ	O	O	O
-ऑप्शंस	NN	O	O	O
-भी	RP	O	O	O
-ब्लैक	NN	O	O	O
-और	CC	O	O	O
-ग्रे	NN	O	O	O
-के	PSP	O	O	O
-शेड्स	NN	O	O	O
-में	PSP	O	O	O
-दिखने	VM	O	B-MISC	OCC
-लगेंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पोस्ट	NN	O	O	O
-में	PSP	O	O	O
-यह	PRP	O	O	O
-भी	RP	O	O	O
-बताया	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-लोकेशन	NN	O	O	O
-आइकन	NN	O	O	O
-अब	PRP	O	O	O
-भी	RP	O	O	O
-लाल	JJ	O	B-MISC	O
-दिखेगा	VM	O	I-MISC	O
-और	CC	O	O	O
-हरे	JJ	O	O	O
-रंग	NN	O	O	O
-की	PSP	O	O	O
-जगह	NN	O	O	O
-ऐप	NN	O	O	O
-पर	PSP	O	O	O
-डार्क	XC	O	B-MISC	O
-स्क्रीन	NNP	O	I-MISC	O
-दिखेगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-तरह	NN	O	O	O
-नया	JJ	O	O	O
-डार्क	XC	O	O	O
-मोड	NN	O	O	O
-न	NEG	O	O	O
-सिर्फ	RB	O	O	O
-आंखों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-आरामदायक	JJ	O	B-MISC	O
-होगा	VM	O	I-MISC	O
-बल्कि	CC	O	O	O
-स्मार्टफोन	NN	O	O	O
-की	PSP	O	O	O
-बैटरी	NN	O	O	O
-भी	RP	O	O	O
-इसकी	PRP	O	O	O
-मदद	NN	O	O	O
-से	PSP	O	O	O
-तेजी	RB	O	O	O
-से	PSP	O	O	O
-खत्म	JJ	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-से	PSP	O	O	O
-बचेगी	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-यूजर्स	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-नेविगेशन	NN	O	O	O
-इस	DEM	O	O	O
-अपडेट	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-पहले	NST	O	O	O
-की	PSP	O	O	O
-तरह	NN	O	O	O
-की	PSP	O	O	O
-आसान	JJ	O	B-MISC	O
-रहेगा	VM	O	I-MISC	O
-और	CC	O	O	O
-नया	JJ	O	O	O
-यूआई	NN	O	O	O
-बाकी	JJ	O	O	O
-एलिमेंट्स	NNP	O	O	O
-में	PSP	O	O	O
-कोई	PRP	O	O	O
-बदलाव	NN	O	O	O
-लेकर	VM	O	B-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-आया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+ढेरों
+पॉप्युलर
+ऐप्स
+पर
+पहले
+ही
+डार्क
+मोड
+यूजर्स
+को
+मिल
+रहा
+है
+और
+लेटेस्ट
+ऐंड्रॉयड
+10
+अपडेट
+के
+साथ
+ही
+सिस्टम-वाइड
+डार्क
+मोड
+भी
+मिलने
+लगा
+है
+.
+हाल
+ही
+में
+फोटो
+शेयरिंग
+ऐप
+इंस्टााग्राम
+पर
+डार्क
+मोड
+देखने
+को
+मिला
+और
+अब
+गूगल
+मैप्स
+और
+जीमेल
+पर
+भी
+यूजर्स
+डार्क
+मोड
+में
+स्विच
+कर
+पाएंगे
+.
+इसकी
+मोड
+की
+मदद
+से
+आपके
+स्मार्टफोन
+की
+बैटरी
+की
+भी
+बचत
+होगी
+.
+ऐंड्रॉयड
+की
+ओर
+से
+इंस्टाग्राम
+पर
+शेयर
+की
+गई
+एक
+पोस्ट
+में
+सामने
+आया
+है
+कि
+यूजर्स
+अब
+गूगल
+मैप्स
+में
+भी
+डार्क
+मोड
+इनेबल
+कर
+सकते
+हैं
+.
+हालांकि
+,
+इसके
+लिए
+स्मार्टफोन
+पर
+लेटेस्ट
+ऐंड्रॉयड
+10
+अपडेट
+होना
+जरूरी
+है
+.
+गूगल
+मैप्स
+ऐप
+पर
+नेविगेशन
+अब
+भी
+डार्क
+दिखता
+है
+लेकिन
+नए
+अपडेट
+के
+साथ
+नोटिफिकेशंस
+,
+मेन्यू
+और
+ऐप
+के
+बाकी
+ऑप्शंस
+भी
+ब्लैक
+और
+ग्रे
+के
+शेड्स
+में
+दिखने
+लगेंगे
+.
+पोस्ट
+में
+यह
+भी
+बताया
+गया
+है
+कि
+लोकेशन
+आइकन
+अब
+भी
+लाल
+दिखेगा
+और
+हरे
+रंग
+की
+जगह
+ऐप
+पर
+डार्क
+स्क्रीन
+दिखेगी
+.
+इस
+तरह
+नया
+डार्क
+मोड
+न
+सिर्फ
+आंखों
+के
+लिए
+आरामदायक
+होगा
+बल्कि
+स्मार्टफोन
+की
+बैटरी
+भी
+इसकी
+मदद
+से
+तेजी
+से
+खत्म
+होने
+से
+बचेगी
+.
+यूजर्स
+के
+लिए
+नेविगेशन
+इस
+अपडेट
+के
+बाद
+पहले
+की
+तरह
+की
+आसान
+रहेगा
+और
+नया
+यूआई
+बाकी
+एलिमेंट्स
+में
+कोई
+बदलाव
+लेकर
+नहीं
+आया
+है
+.

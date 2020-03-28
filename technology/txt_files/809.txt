@@ -1,128 +1,128 @@
-जिस	PRP	O	O	O
-तेजी	RB	O	O	O
-से	PSP	O	O	O
-दुनियाभर	NN	O	O	O
-की	PSP	O	O	O
-स्मार्टफोन	NN	O	O	O
-कंपनियां	NN	O	O	O
-अपना	PRP	O	O	O
-स्मार्टफोन	NN	O	O	O
-लॉन्च	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-की	PSP	O	O	O
-कोशिश	NN	O	B-MISC	OCC
-में	PSP	O	I-MISC	O
-लगी	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	PRP	O	O	O
-देखकर	VM	O	B-MISC	OCC
-कहा	VM	O	B-MISC	O
-जा	VAUX	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-आने	VM	O	O	O
-वाला	PSP	O	O	O
-समय	NN	O	O	O
-फोल्डेबल	JJ	O	O	O
-स्मार्टफोन	NN	O	O	O
-का	PSP	O	O	O
-रहना	VM	O	B-MISC	OCC
-वाला	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सैमसंग	NN	O	O	O
-के	PSP	O	O	O
-गैलेक्सी	JJ	O	O	O
-फोल्ड	NN	O	O	O
-और	CC	O	O	O
-हुवावे	NN	O	O	O
-के	PSP	O	O	O
-फोल्डेबल	JJ	O	O	O
-फोन	NN	O	O	O
-Mate	JJ	O	O	O
-X	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-हाल	NN	O	O	O
-में	PSP	O	O	O
-मोटोरोला	NN	O	O	O
-ने	PSP	O	O	O
-भी	RP	O	O	O
-Moto	JJ	O	O	O
-Razr	NN	O	O	O
-2019	QC	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-फोल्डेबल	XC	O	O	O
-स्मार्टफोन	XC	O	O	O
-सेगमेंट	NN	O	O	O
-में	PSP	O	O	O
-अपनी	PRP	O	O	O
-एंट्री	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-करा	VM	O	I-MISC	O
-दी	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-साल	NN	O	O	O
-की	PSP	O	O	O
-शुरुआत	NN	O	O	O
-में	PSP	O	O	O
-LG	NN	O	O	O
-ने	PSP	O	O	O
-भी	RP	O	O	O
-अपने	PRP	O	O	O
-फोल्डेबल	JJ	O	O	O
-फोन	NN	O	O	O
-LG	JJ	O	O	O
-G	NN	O	O	O
-8	QC	O	O	O
-X	NN	O	O	O
-ThinQ	NN	O	O	O
-को	PSP	O	O	O
-पेश	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-,	SYM	O	O	O
-एलजी	XC	O	O	O
-अब	PRP	O	O	O
-फोल्डेबल	JJ	O	O	O
-फोन	NN	O	O	O
-के	PSP	O	O	O
-सेगमेंट	NN	O	O	O
-में	PSP	O	O	O
-अपनी	PRP	O	O	O
-पकड़	NN	O	O	O
-को	PSP	O	O	O
-मजबूत	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-की	PSP	O	O	O
-सोच	VM	O	B-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यही	DEM	O	O	O
-कारण	NN	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-कि	CC	O	O	O
-हाल	NN	O	O	O
-में	PSP	O	O	O
-कंपनी	NN	O	O	O
-ने	PSP	O	O	O
-एक	QC	O	O	O
-नए	JJ	O	O	O
-किस्म	NN	O	O	O
-के	PSP	O	O	O
-फोल्डिंग	XC	O	O	O
-स्मार्टफोन	NNP	O	O	O
-के	PSP	O	O	O
-कॉन्सेप्ट	NN	O	O	O
-का	PSP	O	O	O
-पेटेंट	NN	O	B-MISC	OCC
-कराया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+जिस
+तेजी
+से
+दुनियाभर
+की
+स्मार्टफोन
+कंपनियां
+अपना
+स्मार्टफोन
+लॉन्च
+करने
+की
+कोशिश
+में
+लगी
+हैं
+.
+यह
+देखकर
+कहा
+जा
+सकता
+है
+कि
+आने
+वाला
+समय
+फोल्डेबल
+स्मार्टफोन
+का
+रहना
+वाला
+है
+.
+सैमसंग
+के
+गैलेक्सी
+फोल्ड
+और
+हुवावे
+के
+फोल्डेबल
+फोन
+Mate
+X
+के
+बाद
+हाल
+में
+मोटोरोला
+ने
+भी
+Moto
+Razr
+2019
+के
+साथ
+फोल्डेबल
+स्मार्टफोन
+सेगमेंट
+में
+अपनी
+एंट्री
+दर्ज
+करा
+दी
+है
+.
+साल
+की
+शुरुआत
+में
+LG
+ने
+भी
+अपने
+फोल्डेबल
+फोन
+LG
+G
+8
+X
+ThinQ
+को
+पेश
+किया
+था
+.
+हालांकि
+,
+एलजी
+अब
+फोल्डेबल
+फोन
+के
+सेगमेंट
+में
+अपनी
+पकड़
+को
+मजबूत
+करने
+की
+सोच
+रहा
+है
+.
+यही
+कारण
+है
+कि
+हाल
+में
+कंपनी
+ने
+एक
+नए
+किस्म
+के
+फोल्डिंग
+स्मार्टफोन
+के
+कॉन्सेप्ट
+का
+पेटेंट
+कराया
+है
+.

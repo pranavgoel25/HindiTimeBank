@@ -1,321 +1,321 @@
-ऐक्टिंग	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-प्रतिष्ठित	JJ	O	O	O
-ऑस्कर	VM	O	O	O
-अवॉर्ड	NN	O	B-MISC	OCC
-जीत	VM	O	I-MISC	O
-चुके	VAUX	O	I-MISC	O
-ऐक्टर	XC	O	O	O
-रामी	NNP	O	O	O
-मालेक	NN	O	O	O
-अब	PRP	O	O	O
-जेम्स	XC	O	O	O
-बॉन्ड	NNP	O	O	O
-सीरीज	NN	O	O	O
-की	PSP	O	O	O
-आने	VM	O	O	O
-वाली	PSP	O	O	O
-फिल्म	NN	O	O	O
-'	SYM	O	O	O
-नो	XC	O	O	O
-टाइम	XC	O	O	O
-टू	XC	O	O	O
-डाय	NNP	O	O	O
-'	SYM	O	O	O
-में	PSP	O	O	O
-दिखाई	VM	O	B-MISC	OCC
-देंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हाल	NN	O	O	O
-में	PSP	O	O	O
-रामी	XC	O	O	O
-ने	PSP	O	O	O
-अपने	PRP	O	O	O
-को-स्टार	NN	O	O	O
-और	CC	O	O	O
-जेम्स	XC	O	O	O
-बॉन्ड	NNP	O	O	O
-की	PSP	O	O	O
-भूमिका	NN	O	B-STAT	O
-निभाने	VM	O	I-STAT	O
-वाले	PSP	O	I-STAT	O
-ब्रिटिश	JJ	O	O	O
-ऐक्टर	NN	O	O	O
-डैनियल	JJ	O	O	O
-क्रेग	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	B-STAT	O
-हुए	VM	O	I-STAT	O
-एक	QC	O	O	O
-फनी	JJ	O	O	O
-मोमेंट	NN	O	O	O
-के	PSP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-बताया	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-रिपोर्ट	NN	O	O	O
-के	PSP	O	O	O
-मुताबिक	JJ	O	O	O
-,	SYM	O	O	O
-एक	QC	O	O	O
-टॉक	NN	O	O	O
-शो	PSP	O	O	O
-में	PSP	O	O	O
-बुधवार	JJ	O	O	O
-रात	NN	O	O	O
-पहुंचे	VM	O	B-MISC	OCC
-रामी	NNP	O	O	O
-ने	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-हम	PRP	O	O	O
-एक	QC	O	O	O
-बहुत	QF	O	O	O
-ही	RP	O	O	O
-उलझा	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-और	CC	O	O	O
-कठिन	JJ	O	O	O
-सीन	NN	O	O	O
-कर	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-और	CC	O	O	O
-हम	PRP	O	O	O
-लोग	NN	O	O	O
-इसके	PRP	O	O	O
-लिए	PSP	O	O	O
-अपने	PRP	O	O	O
-बेहतरीन	JJ	O	O	O
-डायरेक्टर	XC	O	O	O
-कैरी	NNP	O	O	O
-जोजी	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-रिहर्सल	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हम	PRP	O	O	O
-घंटों	NN	O	O	O
-तक	RP	O	O	O
-टेबल	NN	O	O	O
-पर	PSP	O	O	O
-बैठे	VM	O	B-MISC	O
-केवल	RP	O	O	O
-आइडियाज	NN	O	O	O
-के	PSP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-चर्चा	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फाइनली	NN	O	O	O
-हमने	PRP	O	O	O
-इस	DEM	O	O	O
-कठिन	JJ	O	O	O
-सीन	NN	O	O	O
-को	PSP	O	O	O
-करने	VM	O	O	O
-का	PSP	O	O	O
-तरीका	NN	O	O	O
-निकाल	VM	O	B-MISC	OCC
-ही	RP	O	I-MISC	O
-लिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-इसके	PRP	O	O	O
-आगे	NST	O	O	O
-रामी	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-'	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-मुझे	PRP	O	O	O
-कसकर	VM	O	B-MISC	O
-पकड़कर	NNP	O	I-MISC	OCC
-उठा	VM	O	I-MISC	O
-लिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मुझे	PRP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-लगता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-शुरुआत	NN	O	O	O
-मैंने	PRP	O	O	O
-की	VM	O	B-MISC	OCC
-होगी	VAUX	O	I-MISC	O
-लेकिन	CC	O	O	O
-अगले	NST	O	O	O
-ही	RP	O	O	O
-पल	NN	O	O	O
-केवल	RP	O	O	O
-वो	PRP	O	O	O
-और	CC	O	O	O
-मैं	PRP	O	O	O
-थे	VM	O	B-MISC	O
-और	CC	O	O	O
-हम	PRP	O	O	O
-एक-दूसरे	NN	O	O	O
-को	PSP	O	O	O
-किस	WQ	O	O	OCC
-कर	VM	O	B-MISC	O
-रहे	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-कह	VM	O	B-MISC	OCC
-सकता	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इसकी	PRP	O	O	O
-शुरुआत	NN	O	O	O
-डैनियल	NN	O	O	O
-ने	PSP	O	O	O
-की	VM	O	B-MISC	O
-थी	VAUX	O	I-MISC	O
-और	CC	O	O	O
-मैं	PRP	O	O	O
-इससे	PRP	O	O	O
-चौंक	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मुझे	PRP	O	O	O
-एक	QC	O	O	O
-पल	NN	O	O	O
-लगा	VM	O	O	O
-,	SYM	O	O	O
-होश	NN	O	O	O
-मैं	PRP	O	O	O
-आया	VM	O	B-MISC	O
-और	CC	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-क्या	WQ	O	O	O
-इससे	PRP	O	O	O
-मैं	PRP	O	O	O
-एक	QC	O	O	O
-बॉन्ड	NN	O	O	O
-गर्ल	JJ	O	B-MISC	OCC
-बन	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-'	SYM	O	O	O
-रामी	XC	O	O	O
-ने	PSP	O	O	O
-यह	PRP	O	O	O
-भी	RP	O	O	O
-कहा	VM	O	B-MISC	REP
-कि	CC	O	O	O
-जेम्स	XC	O	O	O
-बॉन्ड	NNP	O	O	O
-का	PSP	O	O	O
-किरदार	NN	O	O	O
-में	PSP	O	O	O
-डैनियल	JJ	O	O	O
-क्रेग	NN	O	O	O
-उन्हें	PRP	O	O	O
-बेस्ट	JJ	O	O	O
-ऐक्टर	NN	O	O	O
-लगते	VM	O	B-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-शायद	RB	O	O	O
-इसीलिए	CC	O	O	O
-उन्होंने	PRP	O	O	O
-डैनियल	NN	O	O	O
-को	PSP	O	O	O
-किस	WQ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-लिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-फिल्म	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	B-MISC	O
-रामी	NNP	O	O	O
-भी	RP	O	O	O
-काफी	QF	O	O	O
-उत्साहित	JJ	O	B-STAT	DECL
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-फिल्म	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-बार	RP	O	O	O
-फिर	RB	O	O	O
-जेम्स	XC	O	O	O
-बॉन्ड	NNP	O	O	O
-के	PSP	O	O	O
-बॉस	NN	O	O	O
-और	CC	O	O	O
-एमआई	XC	O	O	O
-6	QC	O	O	O
-के	PSP	O	O	O
-चीफ	NN	O	O	O
-एम	NN	O	O	O
-की	PSP	O	O	O
-भूमिका	NN	O	O	O
-में	PSP	O	O	O
-ऐक्टर	XC	O	O	O
-रेफ	XC	O	O	O
-फाइंस	NN	O	O	O
-दिखाई	VM	O	B-MISC	OCC
-देंगे	VAUX	O	I-MISC	O
-जबकि	CC	O	O	O
-मिस	DEM	O	O	O
-मनीपेनी	NN	O	O	O
-के	PSP	O	O	O
-किरदार	NN	O	O	O
-में	PSP	O	O	O
-नाओमी	XC	O	O	O
-हैरिस	NN	O	O	O
-दिखाई	VM	O	B-MISC	OCC
-देंगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	PRP	O	O	O
-बार	RP	O	O	O
-बॉन्ड	XC	O	O	O
-गर्ल	NN	O	O	O
-के	PSP	O	O	O
-रूप	NN	O	O	O
-में	PSP	O	O	O
-क्यूबन	XC	O	O	O
-ऐक्ट्रेस	XC	O	O	O
-अना	XC	O	O	O
-दे	VM	O	O	O
-अर्मस	NN	O	O	O
-दिखाई	VM	O	B-MISC	OCC
-देंगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-फिल्म	NN	O	O	O
-3	QC	O	O	O
-अप्रैल	NNP	O	O	O
-2020	QC	O	O	O
-में	PSP	O	O	O
-ब्रिटेन	NNP	O	O	O
-में	PSP	O	O	O
-जबकि	CC	O	O	O
-यूएस	NN	O	O	O
-और	CC	O	O	O
-इंडिया	NNP	O	O	O
-में	PSP	O	O	O
-8	QC	O	O	O
-अप्रैल	NNP	O	O	O
-2020	QC	O	O	O
-को	PSP	O	O	O
-रिलीज	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-जाएगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+ऐक्टिंग
+के
+लिए
+प्रतिष्ठित
+ऑस्कर
+अवॉर्ड
+जीत
+चुके
+ऐक्टर
+रामी
+मालेक
+अब
+जेम्स
+बॉन्ड
+सीरीज
+की
+आने
+वाली
+फिल्म
+'
+नो
+टाइम
+टू
+डाय
+'
+में
+दिखाई
+देंगे
+.
+हाल
+में
+रामी
+ने
+अपने
+को-स्टार
+और
+जेम्स
+बॉन्ड
+की
+भूमिका
+निभाने
+वाले
+ब्रिटिश
+ऐक्टर
+डैनियल
+क्रेग
+के
+साथ
+हुए
+एक
+फनी
+मोमेंट
+के
+बारे
+में
+बताया
+है
+.
+रिपोर्ट
+के
+मुताबिक
+,
+एक
+टॉक
+शो
+में
+बुधवार
+रात
+पहुंचे
+रामी
+ने
+बताया
+,
+'
+हम
+एक
+बहुत
+ही
+उलझा
+हुआ
+और
+कठिन
+सीन
+कर
+रहे
+थे
+और
+हम
+लोग
+इसके
+लिए
+अपने
+बेहतरीन
+डायरेक्टर
+कैरी
+जोजी
+के
+साथ
+रिहर्सल
+कर
+रहे
+थे
+.
+हम
+घंटों
+तक
+टेबल
+पर
+बैठे
+केवल
+आइडियाज
+के
+बारे
+में
+चर्चा
+कर
+रहे
+थे
+.
+फाइनली
+हमने
+इस
+कठिन
+सीन
+को
+करने
+का
+तरीका
+निकाल
+ही
+लिया
+.
+'
+इसके
+आगे
+रामी
+ने
+कहा
+,
+'
+उन्होंने
+मुझे
+कसकर
+पकड़कर
+उठा
+लिया
+.
+मुझे
+नहीं
+लगता
+है
+कि
+शुरुआत
+मैंने
+की
+होगी
+लेकिन
+अगले
+ही
+पल
+केवल
+वो
+और
+मैं
+थे
+और
+हम
+एक-दूसरे
+को
+किस
+कर
+रहे
+थे
+.
+मैं
+कह
+सकता
+हूं
+कि
+इसकी
+शुरुआत
+डैनियल
+ने
+की
+थी
+और
+मैं
+इससे
+चौंक
+गया
+था
+.
+मुझे
+एक
+पल
+लगा
+,
+होश
+मैं
+आया
+और
+कहा
+कि
+क्या
+इससे
+मैं
+एक
+बॉन्ड
+गर्ल
+बन
+गया
+?
+'
+रामी
+ने
+यह
+भी
+कहा
+कि
+जेम्स
+बॉन्ड
+का
+किरदार
+में
+डैनियल
+क्रेग
+उन्हें
+बेस्ट
+ऐक्टर
+लगते
+हैं
+और
+शायद
+इसीलिए
+उन्होंने
+डैनियल
+को
+किस
+कर
+लिया
+.
+इस
+फिल्म
+को
+लेकर
+रामी
+भी
+काफी
+उत्साहित
+हैं
+.
+फिल्म
+में
+एक
+बार
+फिर
+जेम्स
+बॉन्ड
+के
+बॉस
+और
+एमआई
+6
+के
+चीफ
+एम
+की
+भूमिका
+में
+ऐक्टर
+रेफ
+फाइंस
+दिखाई
+देंगे
+जबकि
+मिस
+मनीपेनी
+के
+किरदार
+में
+नाओमी
+हैरिस
+दिखाई
+देंगी
+.
+इस
+बार
+बॉन्ड
+गर्ल
+के
+रूप
+में
+क्यूबन
+ऐक्ट्रेस
+अना
+दे
+अर्मस
+दिखाई
+देंगी
+.
+यह
+फिल्म
+3
+अप्रैल
+2020
+में
+ब्रिटेन
+में
+जबकि
+यूएस
+और
+इंडिया
+में
+8
+अप्रैल
+2020
+को
+रिलीज
+की
+जाएगी
+.

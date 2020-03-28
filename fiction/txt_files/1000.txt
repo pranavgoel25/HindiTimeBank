@@ -1,555 +1,555 @@
-सारे	QF	O	O	O
-गांव	NN	O	O	O
-में	PSP	O	O	O
-मथुरा	NNP	O	O	O
-का-सा	JJ	O	O	O
-गठीला	NN	O	O	O
-जवान	JJ	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-कोई	PRP	O	O	O
-बीस	QC	O	O	O
-बरस	NN	O	O	O
-की	PSP	O	O	O
-उमर	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-मसें	NN	O	O	O
-भीग	VM	O	B-MISC	OCC
-रही	VAUX	O	I-MISC	O
-थीं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-गउएं	NN	O	O	O
-चराता	VM	O	O	O
-,	SYM	O	O	O
-दूध	NN	O	O	O
-पीता	VM	O	O	O
-,	SYM	O	O	O
-कसरत	NN	O	O	O
-करता	VM	O	O	O
-,	SYM	O	O	O
-कुश्ती	NN	O	O	O
-लड़ता	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-और	CC	O	O	O
-सारे	QF	O	O	O
-दिन	NN	O	O	O
-बांसुरी	NN	O	O	O
-बजाता	VM	O	O	O
-हाट	NN	O	O	O
-में	PSP	O	O	O
-विचरता	NN	O	B-STAT	OCC
-था	VM	O	I-STAT	O
-.	SYM	O	O	O
-ब्याह	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-पर	PSP	O	O	O
-अभी	PRP	O	O	O
-कोई	PRP	O	O	O
-बाल-बच्चा	JJ	O	B-MISC	O
-न	NEG	O	I-MISC	O
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-कई	QF	O	O	O
-हल	NN	O	O	O
-की	PSP	O	O	O
-खेती	NN	O	O	O
-थी	VM	O	B-STAT	O
-,	SYM	O	O	O
-कई	XC	O	O	O
-छोटे-बड़े	NNP	O	O	O
-भाई	NN	O	O	O
-थे	VM	O	B-STAT	O
-.	SYM	O	O	O
-वे	PRP	O	O	O
-सब	PRP	O	O	O
-मिल-जुलकर	VM	O	O	O
-खेती-बारी	JJ	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मथुरा	NNP	O	O	O
-पर	PSP	O	O	O
-सारे	QF	O	O	O
-घर	NN	O	O	O
-को	PSP	O	O	O
-गर्व	NN	O	O	OCC
-था	VM	O	O	O
-,	SYM	O	O	O
-उसे	PRP	O	O	O
-सबसे	INTF	O	O	O
-अच्छा	JJ	O	O	O
-भोजन	NN	O	O	O
-मिलता	VM	O	B-MISC	OCC
-और	CC	O	O	O
-सबसे	INTF	O	O	O
-कम	QF	O	O	O
-काम	NN	O	O	O
-करना	VM	O	B-MISC	OCC
-पड़ता	XC	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-उसे	PRP	O	O	O
-जांघिये-लंगोटे	NN	O	O	O
-,	SYM	O	O	O
-नाल	NN	O	O	O
-या	CC	O	O	O
-मुग्दर	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-रुपये-पैसे	NN	O	O	O
-की	PSP	O	O	O
-जरूरत	NN	O	O	O
-पड़ती	NNP	O	O	O
-तो	RP	O	O	O
-तुरत	JJ	O	B-MISC	OCC
-दे	VM	O	I-MISC	O
-दिये	VAUX	O	I-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सारे	QF	O	O	O
-घर	NN	O	O	O
-की	PSP	O	O	O
-यही	DEM	O	O	O
-अभिलाषा	NN	O	B-STAT	DEC
-थी	VM	O	I-STAT	O
-कि	CC	O	O	O
-मथुरा	NNP	O	O	O
-पहलवान	NN	O	O	OCC
-हो	VM	O	B-MISC	O
-जाय	VAUX	O	I-MISC	O
-और	CC	O	O	O
-अखाड़े	NNP	O	O	O
-में	PSP	O	O	O
-अपने	PRP	O	O	O
-सवाये	NN	O	O	O
-को	PSP	O	O	O
-पछाड़े	XC	O	O	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-लाड़-प्यार	NN	O	O	O
-से	PSP	O	O	O
-मथुरा	NNP	O	O	O
-जरा	QF	O	O	O
-टर्रा	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-गायें	NN	O	O	O
-किसी	PRP	O	O	O
-के	PSP	O	O	O
-खेत	NN	O	O	O
-में	PSP	O	O	O
-पड़ी	XC	O	B-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-आप	PRP	O	O	O
-अखाड़े	NN	O	O	O
-में	PSP	O	O	O
-दंड	NN	O	B-MISC	OCC
-लगा	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कोई	PRP	O	O	O
-उलाहना	VM	O	B-MISC	OCC
-देता	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-उसकी	PRP	O	O	O
-त्योरियां	NN	O	B-MISC	OCC
-बदल	VM	O	I-MISC	O
-जातीं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-गरजकर	NN	O	O	O
-कहता	VM	O	O	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-मन	NN	O	O	O
-में	PSP	O	O	O
-आये	VM	O	B-MISC	OCC
-कर	VAUX	O	I-MISC	O
-लो	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मथुरा	NNP	O	O	O
-तो	RP	O	O	O
-अखाड़ा	XC	O	O	O
-छोड़कर	NNP	O	O	O
-हांकने	VM	O	B-STAT	OCC
-न	NEG	O	I-STAT	O
-जायेंगे	VM	O	I-STAT	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-उसका	PRP	O	O	O
-डील-डौल	NN	O	O	O
-देखकर	VM	O	B-MISC	O
-किसी	PRP	O	O	O
-को	PSP	O	O	O
-उससे	PRP	O	O	O
-उलझने	VM	O	B-MISC	OCC
-की	PSP	O	O	O
-हिम्मत	NN	O	B-MISC	O
-न	NEG	O	I-MISC	O
-पड़ती	XC	O	I-MISC	O
-थी	NNP	O	I-MISC	O
-.	SYM	O	O	O
-लोग	NN	O	O	O
-गम	NN	O	O	O
-खा	VM	O	B-MISC	OCC
-जाते	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-गर्मियों	NN	O	O	O
-के	PSP	O	O	O
-दिन	NN	O	O	O
-थे	VM	O	O	O
-,	SYM	O	O	O
-ताल-तलैया	NN	O	O	O
-सूखी	VM	O	O	O
-पड़ी	XC	O	O	O
-थीं	NNP	O	O	O
-.	SYM	O	O	O
-जोरों	NN	O	O	O
-की	PSP	O	O	O
-लू	NN	O	O	O
-चलने	VM	O	B-MISC	OCC
-लगी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-गांव	NN	O	O	O
-में	PSP	O	O	O
-कहीं	PRP	O	O	O
-से	PSP	O	O	O
-एक	QC	O	O	O
-सांड़	XC	O	O	O
-आ	VM	O	B-MISC	O
-निकला	VAUX	O	I-MISC	O
-और	CC	O	O	O
-गउओं	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-हो	VM	O	B-MISC	OCC
-लिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सारे	QF	B	O	O
-दिन	NN	I	O	O
-तो	RP	O	O	O
-गउओं	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-रहता	VM	O	O	O
-,	SYM	O	O	O
-रात	NN	B	O	O
-को	PSP	O	O	O
-बस्ती	NN	O	O	O
-में	PSP	O	O	O
-घुस	VM	O	B-MISC	OCC
-आता	VAUX	O	I-MISC	O
-और	CC	O	O	O
-खूंटों	NN	O	O	O
-से	PSP	O	O	O
-बंधो	VM	O	O	O
-बैलों	NN	O	O	O
-को	PSP	O	O	O
-सींगों	NN	O	O	O
-से	PSP	O	O	O
-मारता	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-कभी	PRP	O	O	O
-किसी	PRP	O	O	O
-की	PSP	O	O	O
-गीली	JJ	O	O	O
-दीवार	NN	O	O	O
-को	PSP	O	O	O
-सींगों	NN	O	O	O
-से	PSP	O	O	O
-खोद	VM	O	B-MISC	O
-डालता	VAUX	O	I-MISC	O
-कभी	PRP	O	O	O
-घर	NN	O	O	O
-का	PSP	O	O	O
-कूड़ा	VM	O	B-MISC	OCC
-सींगों	NN	O	O	O
-से	PSP	O	O	O
-उड़ाता	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-कई	QF	O	O	O
-किसानों	NN	O	O	O
-ने	PSP	O	O	O
-साग-भाजी	NN	O	B-MISC	OCC
-लगा	VM	O	I-MISC	O
-रखी	VAUX	O	I-MISC	O
-थीं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-सारे	QF	O	O	O
-दिन	NN	O	O	O
-सींचते-सींचते	VM	O	B-MISC	OCC
-मरते	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	XC	O	O	O
-सांड़	XC	O	O	O
-रात	NN	O	O	O
-को	PSP	O	O	O
-उन	DEM	O	O	O
-हरे-भरे	JJ	O	O	O
-खेतों	NN	O	O	O
-में	PSP	O	O	O
-पहुंच	VM	O	B-MISC	OCC
-जाता	VAUX	O	I-MISC	O
-और	CC	O	O	O
-खेत	NN	O	O	O
-का	PSP	O	O	O
-खेत	NN	O	O	O
-तबाह	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-देता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-लोग	NN	O	O	O
-उसे	PRP	O	O	O
-डंडों	NN	O	O	O
-से	PSP	O	O	O
-मारते	XC	O	O	O
-,	SYM	O	O	O
-गांव	NN	O	O	O
-के	PSP	O	O	O
-बाहर	NST	O	O	O
-भगा	NN	O	O	O
-आते	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-जरा	QF	O	O	O
-देर	NN	O	O	O
-में	PSP	O	O	O
-फिर	RB	O	O	O
-गायों	NN	O	O	O
-में	PSP	O	O	O
-पहुंच	VM	O	B-MISC	OCC
-जाता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-किसी	PRP	O	O	O
-की	PSP	O	O	O
-अक्ल	NN	O	O	O
-काम	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-करती	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इस	DEM	O	O	O
-संकट	NN	O	O	O
-को	PSP	O	O	O
-कैसे	WQ	O	O	O
-टाला	VM	O	B-MISC	OCC
-जाय	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मथुरा	NNP	O	O	O
-का	PSP	O	O	O
-घर	NN	O	O	O
-गांव	NN	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-में	PSP	O	O	O
-था	VM	O	B-STAT	OCC
-,	SYM	O	O	O
-इसलिए	CC	O	O	O
-उसके	PRP	O	O	O
-बैलों	NN	O	O	O
-को	PSP	O	O	O
-सांड़	XC	O	O	O
-से	PSP	O	O	O
-कोई	PRP	O	O	O
-हानि	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-पहुंचती	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-गांव	NN	O	O	O
-में	PSP	O	O	O
-उपद्रव	NN	O	O	O
-मचा	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-और	CC	O	O	O
-मथुरा	NNP	O	O	O
-को	PSP	O	O	O
-जरा	QF	O	O	O
-भी	RP	O	O	O
-चिंता	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-आखिर	RB	O	O	O
-जब	PRP	O	O	O
-धौर्य	NN	O	O	O
-का	PSP	O	O	O
-अंतिम	JJ	O	O	O
-बंधन	NN	O	O	O
-टूट	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-एक	QC	O	O	O
-दिन	NN	O	O	O
-लोगों	NN	O	O	O
-ने	PSP	O	O	O
-जाकर	VM	O	B-MISC	OCC
-मथुरा	NNP	O	O	O
-को	PSP	O	O	O
-घेरा	NN	O	O	O
-और	CC	O	O	O
-बोले-	JJ	O	O	O
-भाई	NN	O	O	O
-,	SYM	O	O	O
-कहो	VM	O	O	O
-तो	CC	O	O	O
-गांव	NN	O	O	O
-में	PSP	O	O	O
-रहें	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-कहो	VM	O	B-MISC	O
-तो	RP	O	O	O
-निकल	VM	O	B-MISC	OCC
-जायं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-खेती	NN	O	O	O
-ही	RP	O	O	O
-न	NEG	O	B-MISC	O
-बचेगी	VM	O	I-MISC	O
-तो	CC	O	O	O
-रहकर	VM	O	O	O
-क्या	WQ	O	O	O
-करेंगे	VM	O	B-MISC	OCC
-?	SYM	O	O	O
-तुम्हारी	PRP	O	O	O
-गायों	NN	O	O	O
-के	PSP	O	O	O
-पीछे	NST	O	O	O
-हमारा	PRP	O	O	O
-सत्यानाश	NN	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-जाता	VAUX	O	O	O
-है	VAUX	O	O	O
-,	SYM	O	O	O
-और	CC	O	O	O
-तुम	PRP	O	O	O
-अपने	PRP	O	O	O
-रंग	NN	O	O	O
-में	PSP	O	O	O
-मस्त	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-भगवान्	NN	O	O	O
-ने	PSP	O	O	O
-तुम्हें	PRP	O	O	O
-बल	NN	O	B-MISC	OCC
-दिया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-तो	CC	O	O	O
-इससे	PRP	O	O	O
-दूसरे	NN	O	O	O
-की	PSP	O	O	O
-रक्षा	NN	O	B-MISC	OCC
-करनी	VM	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-यह	PRP	O	O	O
-नहीं	NEG	O	O	O
-कि	CC	O	O	O
-सबको	NN	O	O	O
-पीसकर	VM	O	O	O
-पी	XC	O	O	O
-जाओ	NNP	O	O	O
-.	SYM	O	O	O
-सांड़	XC	O	O	O
-तुम्हारी	PRP	O	O	O
-गायों	NN	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	B-MISC	OCC
-आता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-और	CC	O	O	O
-उसे	PRP	O	O	O
-भगाना	VM	O	O	O
-तुम्हारा	PRP	O	O	O
-काम	NN	O	O	O
-है	VM	O	O	O
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-तुम	PRP	O	O	O
-कानों	NN	O	O	O
-में	PSP	O	O	O
-तेल	NN	O	O	O
-डाले	VM	O	B-MISC	OCC
-बैठे	VM	O	B-MISC	O
-हो	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मानो	RP:?	O	O	O
-तुमसे	PRP	O	O	O
-कुछ	QF	O	O	O
-मतलब	NN	O	B-MISC	O
-ही	RP	O	I-MISC	O
-नहीं	NEG	O	I-MISC	O
-.	SYM	O	O	O
-मथुरा	NNP	O	O	O
-को	PSP	O	O	O
-उनकी	PRP	O	O	O
-दशा	NN	O	O	O
-पर	PSP	O	O	O
-दया	NN	O	B-MISC	OCC
-आयी	VM	O	I-MISC	O
-.	SYM	O	O	O
-बलवान	JJ	O	O	O
-मनुष्य	NN	O	O	O
-प्राय	NN	O	O	O
-:	SYM	O	O	O
-दयालु	NN	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बोला-	NN	O	O	O
-अच्छा	JJ	O	O	O
-जाओ	VM	O	O	O
-,	SYM	O	O	O
-हम	XC	O	O	O
-आज	XC	O	O	O
-सांड़	XC	O	O	O
-को	PSP	O	O	O
-भगा	VM	O	B-MISC	OCC
-देंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एक	QC	O	O	O
-आदमी	NN	O	O	O
-ने	PSP	O	O	O
-कहा-	NN	O	O	O
-दूर	NST	O	O	O
-तक	RP	O	O	O
-भगाना	VM	O	O	OCC
-,	SYM	O	O	O
-नहीं	NEG	O	O	O
-तो	RP	O	O	O
-फिर	RB	O	O	O
-लौट	VM	O	B-MISC	OCC
-आयेगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मथुरा	NNP	O	O	O
-ने	PSP	O	O	O
-लाठी	JJ	O	O	O
-कंधो	NN	O	O	O
-पर	PSP	O	O	O
-रखते	VM	O	B-MISC	O
-हुए	VAUX	O	I-MISC	O
-उत्तर	XC	O	O	O
-दिया-	NNP	O	O	O
-अब	PRP	O	O	O
-लौटकर	VM	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-आयेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
+सारे
+गांव
+में
+मथुरा
+का-सा
+गठीला
+जवान
+न
+था
+.
+कोई
+बीस
+बरस
+की
+उमर
+थी
+.
+मसें
+भीग
+रही
+थीं
+.
+गउएं
+चराता
+,
+दूध
+पीता
+,
+कसरत
+करता
+,
+कुश्ती
+लड़ता
+था
+और
+सारे
+दिन
+बांसुरी
+बजाता
+हाट
+में
+विचरता
+था
+.
+ब्याह
+हो
+गया
+था
+,
+पर
+अभी
+कोई
+बाल-बच्चा
+न
+था
+.
+घर
+में
+कई
+हल
+की
+खेती
+थी
+,
+कई
+छोटे-बड़े
+भाई
+थे
+.
+वे
+सब
+मिल-जुलकर
+खेती-बारी
+करते
+थे
+.
+मथुरा
+पर
+सारे
+घर
+को
+गर्व
+था
+,
+उसे
+सबसे
+अच्छा
+भोजन
+मिलता
+और
+सबसे
+कम
+काम
+करना
+पड़ता
+.
+जब
+उसे
+जांघिये-लंगोटे
+,
+नाल
+या
+मुग्दर
+के
+लिए
+रुपये-पैसे
+की
+जरूरत
+पड़ती
+तो
+तुरत
+दे
+दिये
+जाते
+थे
+.
+सारे
+घर
+की
+यही
+अभिलाषा
+थी
+कि
+मथुरा
+पहलवान
+हो
+जाय
+और
+अखाड़े
+में
+अपने
+सवाये
+को
+पछाड़े
+.
+इस
+लाड़-प्यार
+से
+मथुरा
+जरा
+टर्रा
+हो
+गया
+था
+.
+गायें
+किसी
+के
+खेत
+में
+पड़ी
+हैं
+और
+आप
+अखाड़े
+में
+दंड
+लगा
+रहा
+है
+.
+कोई
+उलाहना
+देता
+तो
+उसकी
+त्योरियां
+बदल
+जातीं
+.
+गरजकर
+कहता
+,
+जो
+मन
+में
+आये
+कर
+लो
+,
+मथुरा
+तो
+अखाड़ा
+छोड़कर
+हांकने
+न
+जायेंगे
+;
+पर
+उसका
+डील-डौल
+देखकर
+किसी
+को
+उससे
+उलझने
+की
+हिम्मत
+न
+पड़ती
+थी
+.
+लोग
+गम
+खा
+जाते
+थे
+.
+गर्मियों
+के
+दिन
+थे
+,
+ताल-तलैया
+सूखी
+पड़ी
+थीं
+.
+जोरों
+की
+लू
+चलने
+लगी
+थी
+.
+गांव
+में
+कहीं
+से
+एक
+सांड़
+आ
+निकला
+और
+गउओं
+के
+साथ
+हो
+लिया
+.
+सारे
+दिन
+तो
+गउओं
+के
+साथ
+रहता
+,
+रात
+को
+बस्ती
+में
+घुस
+आता
+और
+खूंटों
+से
+बंधो
+बैलों
+को
+सींगों
+से
+मारता
+.
+कभी
+किसी
+की
+गीली
+दीवार
+को
+सींगों
+से
+खोद
+डालता
+कभी
+घर
+का
+कूड़ा
+सींगों
+से
+उड़ाता
+.
+कई
+किसानों
+ने
+साग-भाजी
+लगा
+रखी
+थीं
+,
+सारे
+दिन
+सींचते-सींचते
+मरते
+थे
+.
+यह
+सांड़
+रात
+को
+उन
+हरे-भरे
+खेतों
+में
+पहुंच
+जाता
+और
+खेत
+का
+खेत
+तबाह
+कर
+देता
+.
+लोग
+उसे
+डंडों
+से
+मारते
+,
+गांव
+के
+बाहर
+भगा
+आते
+,
+लेकिन
+जरा
+देर
+में
+फिर
+गायों
+में
+पहुंच
+जाता
+.
+किसी
+की
+अक्ल
+काम
+न
+करती
+थी
+कि
+इस
+संकट
+को
+कैसे
+टाला
+जाय
+.
+मथुरा
+का
+घर
+गांव
+के
+बीच
+में
+था
+,
+इसलिए
+उसके
+बैलों
+को
+सांड़
+से
+कोई
+हानि
+न
+पहुंचती
+थी
+.
+गांव
+में
+उपद्रव
+मचा
+हुआ
+था
+और
+मथुरा
+को
+जरा
+भी
+चिंता
+न
+थी
+.
+आखिर
+जब
+धौर्य
+का
+अंतिम
+बंधन
+टूट
+गया
+तो
+एक
+दिन
+लोगों
+ने
+जाकर
+मथुरा
+को
+घेरा
+और
+बोले-
+भाई
+,
+कहो
+तो
+गांव
+में
+रहें
+,
+कहो
+तो
+निकल
+जायं
+.
+जब
+खेती
+ही
+न
+बचेगी
+तो
+रहकर
+क्या
+करेंगे
+?
+तुम्हारी
+गायों
+के
+पीछे
+हमारा
+सत्यानाश
+हुआ
+जाता
+है
+,
+और
+तुम
+अपने
+रंग
+में
+मस्त
+हो
+.
+अगर
+भगवान्
+ने
+तुम्हें
+बल
+दिया
+है
+तो
+इससे
+दूसरे
+की
+रक्षा
+करनी
+चाहिए
+,
+यह
+नहीं
+कि
+सबको
+पीसकर
+पी
+जाओ
+.
+सांड़
+तुम्हारी
+गायों
+के
+कारण
+आता
+है
+और
+उसे
+भगाना
+तुम्हारा
+काम
+है
+;
+लेकिन
+तुम
+कानों
+में
+तेल
+डाले
+बैठे
+हो
+,
+मानो
+तुमसे
+कुछ
+मतलब
+ही
+नहीं
+.
+मथुरा
+को
+उनकी
+दशा
+पर
+दया
+आयी
+.
+बलवान
+मनुष्य
+प्राय
+:
+दयालु
+होता
+है
+.
+बोला-
+अच्छा
+जाओ
+,
+हम
+आज
+सांड़
+को
+भगा
+देंगे
+.
+एक
+आदमी
+ने
+कहा-
+दूर
+तक
+भगाना
+,
+नहीं
+तो
+फिर
+लौट
+आयेगा
+.
+मथुरा
+ने
+लाठी
+कंधो
+पर
+रखते
+हुए
+उत्तर
+दिया-
+अब
+लौटकर
+न
+आयेगा
+.

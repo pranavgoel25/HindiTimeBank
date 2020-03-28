@@ -1,259 +1,259 @@
-शीर्ष	NN	O	O	O
-वरीय	JJ	O	O	O
-समीर	XC	O	O	O
-वर्मा	NNP	O	O	O
-,	SYM	O	O	O
-युवा	JJ	O	O	O
-शटलर	NN	O	O	O
-लक्ष्य	NN	O	O	O
-सेन	NN	O	O	O
-और	CC	O	O	O
-बी	XC	O	O	O
-एम	XC	O	O	O
-राहुल	XC	O	O	O
-भारद्वाज	NNP	O	O	O
-बुधवार	NN	O	O	O
-को	PSP	O	O	O
-यहां	PRP	O	O	O
-डच	JJ	O	O	O
-ओपन	NN	O	O	O
-सुपर	PSP	O	O	O
-100	QC	O	O	O
-बैडमिंटन	NN	O	O	O
-टूर्नामेंट	NN	O	O	O
-के	PSP	O	O	O
-प्री-क्वार्टर	XC	O	O	O
-फाइनल	NNP	O	O	O
-में	PSP	O	O	O
-पहुंच	VM	O	B-MISC	OCC
-गये	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फिटनेस	XC	O	O	O
-समस्या	NN	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	O	O
-कोर्ट	NN	O	O	O
-से	PSP	O	O	O
-दूर	NST	O	O	O
-रहे	VM	O	B-STAT	O
-समीर	NN	O	O	O
-ने	PSP	O	O	O
-हमवतन	NN	O	O	O
-किरण	NN	O	O	O
-जार्ज	NN	O	O	O
-को	PSP	O	O	O
-21	QC	O	O	O
--	SYM	O	O	O
-19	QC	B	O	O
-19	QC	I	O	O
--	SYM	O	O	O
-21	QC	B	O	O
-21	QC	I	O	O
--	SYM	O	O	O
-13	QC	O	O	O
-से	PSP	O	O	O
-हराकर	VM	O	O	OCC
-जीत	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-वापसी	NN	O	B-MISC	OCC
-की	PSP	O	I-MISC	O
-.	SYM	O	O	O
-उन्हें	PRP	O	O	O
-पहले	NST	O	O	O
-दौर	NN	O	O	O
-में	PSP	O	O	O
-बाई	NN	O	B-MISC	OCC
-मिला	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-और	CC	O	O	O
-तीसरे	QO	O	O	O
-दौर	NN	O	O	O
-में	PSP	O	O	O
-उनका	PRP	O	O	O
-सामना	NN	O	O	O
-जापान	NNP	O	O	O
-के	PSP	O	O	O
-युसुके	JJ	O	O	O
-ओनोडेरा	NN	O	O	O
-और	CC	O	O	O
-जर्मनी	NNP	O	O	O
-के	PSP	O	O	O
-लार्स	XC	O	O	O
-शेखेंजलर	NNP	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-होने	VM	O	O	O
-वाले	PSP	O	O	O
-मुकाबले	NN	O	O	O
-के	PSP	O	O	O
-विजेता	NN	O	O	O
-से	PSP	O	O	O
-होगा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-पिछले	JJ	B	O	O
-महीने	NN	I	O	O
-बेल्जियम	JJ	O	O	O
-ओपन	NN	O	O	O
-का	PSP	O	O	O
-खिताब	NN	O	O	O
-जीतने	VM	O	O	O
-वाले	PSP	O	O	O
-लक्ष्य	NN	O	O	O
-सेन	NN	O	O	O
-पहले	NST	O	O	O
-दो	QC	O	O	O
-दौर	NN	O	O	O
-में	PSP	O	O	O
-सीधे	JJ	O	O	O
-गेम	NN	O	O	O
-में	PSP	O	O	O
-जीत	NN	O	O	O
-दर्ज	JJ	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-प्री-क्वार्टर	XC	O	O	O
-फाइनल	NNP	O	O	O
-में	PSP	O	O	O
-प्रवेश	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-अल्मोड़ा	NNP	O	O	O
-के	PSP	O	O	O
-18	QC	O	O	O
-वर्षीय	JJ	O	O	O
-खिलाड़ी	NNP	O	O	O
-ने	PSP	O	O	O
-मंगलवार	NN	B	O	O
-को	PSP	O	O	O
-शुरुआती	JJ	O	O	O
-दौर	NN	O	O	O
-में	PSP	O	O	O
-आयरलैंड	NN	O	O	O
-के	PSP	O	O	O
-न्हाट	XC	O	O	O
-गुयेन	NNP	O	O	O
-को	PSP	O	O	O
-21	QC	O	O	O
--	SYM	O	O	O
-19	QC	B	O	O
-21	QC	I	O	O
--	SYM	O	O	O
-17	QC	O	O	O
-से	PSP	O	O	O
-हराया	VM	O	B-MISC	OCC
-और	CC	O	O	O
-फिर	RB	O	O	O
-बुधवार	NN	O	O	O
-को	PSP	O	O	O
-क्यूबा	NN	O	O	O
-के	PSP	O	O	O
-ओस्लेनी	XC	O	O	O
-गुरेरो	NNP	O	O	O
-को	PSP	O	O	O
-21	QC	O	O	O
--	SYM	O	O	O
-12	QC	B	O	O
-21	QC	I	O	O
--	SYM	O	O	O
-12	QC	O	O	O
-से	PSP	O	O	O
-मात	NN	O	B-MISC	OCC
-दी	VM	O	I-MISC	O
-.	SYM	O	O	O
-अंतिम-	NN	O	O	O
-16	QC	O	O	O
-में	PSP	O	O	O
-एशियाई	NNP	O	O	O
-जूनियर	JJ	O	O	O
-चैम्पियन	NN	O	O	O
-का	PSP	O	O	O
-सामना	NN	O	O	O
-डेनमार्क	NNP	O	O	O
-के	PSP	O	O	O
-रासमुस	JJ	O	O	O
-गेमके	NN	O	O	O
-से	PSP	O	O	O
-होगा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-राहुल	NN	O	O	O
-ने	PSP	O	O	O
-दूसरे	PRP	O	O	O
-दौर	NN	O	O	O
-के	PSP	O	O	O
-मैच	NN	O	O	O
-में	PSP	O	O	O
-मलेशिया	NNP	O	O	O
-के	PSP	O	O	O
-चिएम	XC	O	O	O
-जून	NNP	O	O	O
-वेई	PRP	O	O	O
-को	PSP	O	O	O
-21	QC	O	O	O
--	SYM	O	O	O
-18	QC	B	O	O
-21	QC	I	O	O
--	SYM	O	O	O
-13	QC	O	O	O
-से	PSP	O	O	O
-हराकर	VM	O	O	O
-प्री-क्वार्टर	XC	O	O	O
-फाइनल	NNP	O	O	O
-में	PSP	O	O	O
-जगह	NN	O	O	O
-पक्की	NN	O	O	O
-की	PSP	O	O	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-साल	NN	O	O	O
-हैदराबाद	JJ	O	O	O
-ओपन	NN	O	O	O
-और	CC	O	O	O
-वियतनाम	NN	O	O	O
-ओपन	NN	O	O	O
-का	PSP	O	O	O
-खिताब	NN	O	O	O
-जीतने	VM	O	B-STAT	O
-वाले	PSP	O	I-STAT	O
-सौरभ	XC	O	O	O
-वर्मा	NNP	O	O	O
-हालांकि	CC	O	O	O
-हार	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-टूर्नामेंट	NN	O	B-MISC	OCC
-से	PSP	O	O	O
-बाहर	NST	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गये	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्हें	PRP	O	O	O
-पहले	NST	O	O	O
-दौर	NN	O	O	O
-में	PSP	O	O	O
-बाई	NN	O	B-MISC	OCC
-मिला	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-जबकि	CC	O	O	O
-दूसरे	QO	O	O	O
-दौर	NN	O	O	O
-वह	PRP	O	O	O
-जर्मनी	NNP	O	O	O
-के	PSP	O	O	O
-काई	NN	O	O	O
-शेफर	NN	O	O	O
-से	PSP	O	O	O
-17	QC	O	O	O
--	SYM	O	O	O
-21	QC	B	O	O
-21	QC	I	O	O
--	SYM	O	O	O
-10	QC	B	O	O
-19	QC	I	O	O
--	SYM	O	O	O
-21	QC	O	O	O
-से	PSP	O	O	O
-हार	VM	O	B-MISC	OCC
-गये	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+शीर्ष
+वरीय
+समीर
+वर्मा
+,
+युवा
+शटलर
+लक्ष्य
+सेन
+और
+बी
+एम
+राहुल
+भारद्वाज
+बुधवार
+को
+यहां
+डच
+ओपन
+सुपर
+100
+बैडमिंटन
+टूर्नामेंट
+के
+प्री-क्वार्टर
+फाइनल
+में
+पहुंच
+गये
+.
+फिटनेस
+समस्या
+के
+कारण
+कोर्ट
+से
+दूर
+रहे
+समीर
+ने
+हमवतन
+किरण
+जार्ज
+को
+21
+-
+19
+19
+-
+21
+21
+-
+13
+से
+हराकर
+जीत
+के
+साथ
+वापसी
+की
+.
+उन्हें
+पहले
+दौर
+में
+बाई
+मिला
+था
+और
+तीसरे
+दौर
+में
+उनका
+सामना
+जापान
+के
+युसुके
+ओनोडेरा
+और
+जर्मनी
+के
+लार्स
+शेखेंजलर
+के
+बीच
+होने
+वाले
+मुकाबले
+के
+विजेता
+से
+होगा
+.
+पिछले
+महीने
+बेल्जियम
+ओपन
+का
+खिताब
+जीतने
+वाले
+लक्ष्य
+सेन
+पहले
+दो
+दौर
+में
+सीधे
+गेम
+में
+जीत
+दर्ज
+करने
+के
+बाद
+प्री-क्वार्टर
+फाइनल
+में
+प्रवेश
+किया
+.
+अल्मोड़ा
+के
+18
+वर्षीय
+खिलाड़ी
+ने
+मंगलवार
+को
+शुरुआती
+दौर
+में
+आयरलैंड
+के
+न्हाट
+गुयेन
+को
+21
+-
+19
+21
+-
+17
+से
+हराया
+और
+फिर
+बुधवार
+को
+क्यूबा
+के
+ओस्लेनी
+गुरेरो
+को
+21
+-
+12
+21
+-
+12
+से
+मात
+दी
+.
+अंतिम-
+16
+में
+एशियाई
+जूनियर
+चैम्पियन
+का
+सामना
+डेनमार्क
+के
+रासमुस
+गेमके
+से
+होगा
+.
+राहुल
+ने
+दूसरे
+दौर
+के
+मैच
+में
+मलेशिया
+के
+चिएम
+जून
+वेई
+को
+21
+-
+18
+21
+-
+13
+से
+हराकर
+प्री-क्वार्टर
+फाइनल
+में
+जगह
+पक्की
+की
+.
+इस
+साल
+हैदराबाद
+ओपन
+और
+वियतनाम
+ओपन
+का
+खिताब
+जीतने
+वाले
+सौरभ
+वर्मा
+हालांकि
+हार
+के
+साथ
+टूर्नामेंट
+से
+बाहर
+हो
+गये
+.
+उन्हें
+पहले
+दौर
+में
+बाई
+मिला
+था
+जबकि
+दूसरे
+दौर
+वह
+जर्मनी
+के
+काई
+शेफर
+से
+17
+-
+21
+21
+-
+10
+19
+-
+21
+से
+हार
+गये
+.

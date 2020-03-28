@@ -1,257 +1,257 @@
-शिवा	XC	O	O	O
-थापा	NNP	O	O	O
-(	SYM	O	O	O
-63	QC	O	O	O
-किग्रा	NN	O	O	O
-)	SYM	O	O	O
-,	SYM	O	O	O
-मोहम्मद	XC	O	O	O
-हस्समुद्दीन	NNP	O	O	O
-(	SYM	O	O	O
-57	QC	O	O	O
-किग्रा	NN	O	O	O
-)	SYM	O	O	O
-और	CC	O	O	O
-पीएल	XC	O	O	O
-प्रसाद	NN	O	O	O
-(	SYM	O	O	O
-52	QC	O	O	O
-किग्रा	NN	O	O	O
-)	SYM	O	O	O
-ने	PSP	O	O	O
-चतुर्थ	JJ	O	O	O
-एलीट	XC	O	O	O
-पुरुष	NN	O	O	O
-राष्ट्रीय	JJ	O	O	O
-मुक्केबाजी	NN	O	O	O
-चैम्पियनशिप	NN	O	O	O
-में	PSP	O	O	O
-गुरुवार	NN	B	O	O
-को	PSP	O	O	O
-स्वर्ण	XC	O	O	O
-पदक	NN	O	O	O
-हासिल	NN	O	B-MISC	OCC
-किये	VM	O	I-MISC	O
-.	SYM	O	O	O
-असम	NN	O	O	O
-के	PSP	O	O	O
-शिवा	XC	O	O	O
-फाइनल	NNP	O	O	O
-में	PSP	O	O	O
-सेना	NN	O	O	O
-के	PSP	O	O	O
-आकश	NN	O	O	O
-को	PSP	O	O	O
-4	QC	O	O	O
--	SYM	O	O	O
-1	QC	O	O	O
-से	PSP	O	O	O
-हराया	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-सेना	NN	O	O	O
-के	PSP	O	O	O
-हस्स्मुद्दीन	NN	O	O	O
-ने	PSP	O	O	O
-रोमांचक	JJ	O	O	O
-मुकाबले	NN	O	O	O
-में	PSP	O	O	O
-खंडित	JJ	O	O	O
-फैसले	NN	O	O	O
-के	PSP	O	O	O
-आधार	NN	O	O	O
-पर	PSP	O	O	O
-रेलव	NNP	O	O	O
-के	PSP	O	O	O
-सचिन	XC	O	O	O
-सिवाच	NNP	O	O	O
-को	PSP	O	O	O
-3	QC	O	O	O
--	SYM	O	O	O
-2	QC	O	O	O
-से	PSP	O	O	O
-हराया	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-जीत	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-हस्समुद्दीन	NNP	O	O	O
-ने	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-‘‘	NN	O	O	O
-यह	DEM	O	O	O
-स्वर्ण	XC	O	O	O
-पदक	NN	O	O	O
-मेरे	PRP	O	O	O
-लिए	PSP	O	O	O
-वास्तव	NN	O	O	O
-में	PSP	O	O	O
-महत्वपूर्ण	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-क्योंकि	CC	O	O	O
-इससे	PRP	O	O	O
-ओलंपिक	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-क्वालीफाई	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-मेरा	PRP	O	O	O
-आत्मविश्वास	NN	O	B-MISC	OCC
-बढ़ेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-’’	JJ	O	O	O
-सेना	NN	O	O	O
-के	PSP	O	O	O
-पीएल	XC	O	O	O
-प्रसाद	NN	O	O	O
-से	PSP	O	O	O
-भी	RP	O	O	O
-करीबी	JJ	O	O	O
-मुकाबले	NN	O	O	O
-में	PSP	O	O	O
-रेलवे	NN	O	O	O
-के	PSP	O	O	O
-आशीष	NN	O	O	O
-इंशा	NN	O	O	O
-को	PSP	O	O	O
-खंडित	JJ	O	O	O
-फैसले	NN	O	O	O
-के	PSP	O	O	O
-आधार	NN	O	O	O
-पर	PSP	O	O	O
-3	QC	O	O	O
--	SYM	O	O	O
-2	QC	O	O	O
-से	PSP	O	O	O
-हराकर	VM	O	O	OCC
-राष्ट्रीय	JJ	O	O	O
-खिताब	NN	O	O	O
-का	PSP	O	O	O
-बचाव	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-सेना	NN	O	O	O
-के	PSP	O	O	O
-ही	RP	O	O	O
-नवीन	JJ	O	O	O
-बूरा	NN	O	O	O
-ने	PSP	O	O	O
-69	QC	O	O	O
-किग्रा	NN	O	O	O
-वर्ग	NN	O	O	O
-में	PSP	O	O	O
-गुजरात	NN	O	O	O
-के	PSP	O	O	O
-जयेश	XC	O	O	O
-देसाई	NNP	O	O	O
-के	PSP	O	O	O
-चैम्पियन	NN	O	B-MISC	O
-बनने	VM	O	I-MISC	O
-का	PSP	O	O	O
-सपना	NN	O	B-MISC	OCC
-तोड़ते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-खिताब	NN	O	B-MISC	O
-हासिल	NN	O	I-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-हरियाणा	NNP	O	O	O
-के	PSP	O	O	O
-अंकित	JJ	O	B-MISC	O
-खटाना	VM	O	I-MISC	O
-और	CC	O	O	O
-सुमित	JJ	O	O	O
-सांगवान	NN	O	O	O
-ने	PSP	O	O	O
-क्रमश	NN	O	O	O
-:	SYM	O	O	O
-75	QC	O	O	O
-किग्रा	NN	O	O	O
-और	CC	O	O	O
-91	QC	O	O	O
-किग्रा	NN	O	O	O
-भार	NN	O	O	O
-वर्ग	NN	O	O	O
-में	PSP	O	O	O
-स्वर्ण	XC	O	O	O
-पदक	NN	O	O	O
-अपने	PRP	O	O	O
-नाम	NN	O	B-MISC	O
-किये	VM	O	I-MISC	O
-.	SYM	O	O	O
-सेना	NN	O	O	O
-के	PSP	O	O	O
-युवा	NN	O	O	O
-मुक्केबाज	XC	O	O	O
-विनोद	XC	O	O	O
-तोमर	NNP	O	O	O
-ने	PSP	O	O	O
-दमदार	JJ	O	O	O
-प्रदर्शन	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-फाइनल	NN	O	O	O
-में	PSP	O	O	O
-महाराष्ट्र	NN	O	O	O
-के	PSP	O	O	O
-अजय	XC	O	O	O
-पेंडोर	NNP	O	O	O
-को	PSP	O	O	O
-4	QC	O	O	O
--	SYM	O	O	O
-1	QC	O	O	O
-से	PSP	O	O	O
-हराया	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-सेना	NN	O	O	O
-ने	PSP	O	O	O
-अपना	PRP	O	O	O
-वर्चस्व	NN	O	O	O
-बरकरार	JJ	O	B-MISC	OCC
-रखते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-राष्ट्रीय	JJ	O	O	O
-खिताब	NN	O	O	O
-का	PSP	O	O	O
-बचाव	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-सेना	NN	O	O	O
-ने	PSP	O	O	O
-छह	QC	O	O	O
-स्वर्ण	XC	O	O	O
-,	SYM	O	O	O
-दो	RDP	O	O	O
-रजत	NN	O	O	O
-और	CC	O	O	O
-एक	QC	O	O	O
-कांस्य	NN	O	O	O
-सहित	PSP	O	O	O
-नौ	QC	O	O	O
-पदक	NN	O	O	O
-जीतने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-साथ	NST	O	O	O
-62	QC	O	O	O
-अंक	NN	O	O	O
-बनाये	VM	O	B-MISC	O
-.	SYM	O	O	O
-रेलवे	NN	O	O	O
-और	CC	O	O	O
-हरियाणा	NNP	O	O	O
-37	QC	O	O	O
-और	CC	O	O	O
-30	QC	O	O	O
-अंकों	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-क्रमशः	RB	O	O	O
-दूसरे	QO	O	O	O
-और	CC	O	O	O
-तीसरे	QO	O	O	O
-स्थान	NN	O	O	O
-पर	PSP	O	O	O
-रहे	VM	O	B-MISC	OCC
-.	SYM	O	O	O
+शिवा
+थापा
+(
+63
+किग्रा
+)
+,
+मोहम्मद
+हस्समुद्दीन
+(
+57
+किग्रा
+)
+और
+पीएल
+प्रसाद
+(
+52
+किग्रा
+)
+ने
+चतुर्थ
+एलीट
+पुरुष
+राष्ट्रीय
+मुक्केबाजी
+चैम्पियनशिप
+में
+गुरुवार
+को
+स्वर्ण
+पदक
+हासिल
+किये
+.
+असम
+के
+शिवा
+फाइनल
+में
+सेना
+के
+आकश
+को
+4
+-
+1
+से
+हराया
+.
+सेना
+के
+हस्स्मुद्दीन
+ने
+रोमांचक
+मुकाबले
+में
+खंडित
+फैसले
+के
+आधार
+पर
+रेलव
+के
+सचिन
+सिवाच
+को
+3
+-
+2
+से
+हराया
+.
+जीत
+के
+बाद
+हस्समुद्दीन
+ने
+कहा
+,
+‘‘
+यह
+स्वर्ण
+पदक
+मेरे
+लिए
+वास्तव
+में
+महत्वपूर्ण
+है
+क्योंकि
+इससे
+ओलंपिक
+के
+लिए
+क्वालीफाई
+करने
+के
+लिए
+मेरा
+आत्मविश्वास
+बढ़ेगा
+.
+’’
+सेना
+के
+पीएल
+प्रसाद
+से
+भी
+करीबी
+मुकाबले
+में
+रेलवे
+के
+आशीष
+इंशा
+को
+खंडित
+फैसले
+के
+आधार
+पर
+3
+-
+2
+से
+हराकर
+राष्ट्रीय
+खिताब
+का
+बचाव
+किया
+.
+सेना
+के
+ही
+नवीन
+बूरा
+ने
+69
+किग्रा
+वर्ग
+में
+गुजरात
+के
+जयेश
+देसाई
+के
+चैम्पियन
+बनने
+का
+सपना
+तोड़ते
+हुए
+खिताब
+हासिल
+किया
+.
+हरियाणा
+के
+अंकित
+खटाना
+और
+सुमित
+सांगवान
+ने
+क्रमश
+:
+75
+किग्रा
+और
+91
+किग्रा
+भार
+वर्ग
+में
+स्वर्ण
+पदक
+अपने
+नाम
+किये
+.
+सेना
+के
+युवा
+मुक्केबाज
+विनोद
+तोमर
+ने
+दमदार
+प्रदर्शन
+करते
+हुए
+फाइनल
+में
+महाराष्ट्र
+के
+अजय
+पेंडोर
+को
+4
+-
+1
+से
+हराया
+.
+सेना
+ने
+अपना
+वर्चस्व
+बरकरार
+रखते
+हुए
+राष्ट्रीय
+खिताब
+का
+बचाव
+किया
+.
+सेना
+ने
+छह
+स्वर्ण
+,
+दो
+रजत
+और
+एक
+कांस्य
+सहित
+नौ
+पदक
+जीतने
+के
+साथ
+62
+अंक
+बनाये
+.
+रेलवे
+और
+हरियाणा
+37
+और
+30
+अंकों
+के
+साथ
+क्रमशः
+दूसरे
+और
+तीसरे
+स्थान
+पर
+रहे
+.

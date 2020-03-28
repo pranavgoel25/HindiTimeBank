@@ -1,134 +1,134 @@
-ब्रिटिश	JJ	O	O	O
-टेनिश	NN	O	O	O
-खिलाड़ी	XC	O	O	O
-एंडी	XC	O	O	O
-मर्रे	NN	O	O	O
-को	PSP	O	O	O
-विश्व	XC	O	O	O
-रैंकिंग	NN	O	O	O
-में	PSP	O	O	O
-12	QC	O	O	O
-वें	PRP	O	O	O
-पायदान	NN	O	O	O
-पर	PSP	O	O	O
-काबिज	JJ	O	O	O
-इटली	NN	O	O	O
-के	PSP	O	O	O
-फैबियो	XC	O	O	O
-फोगनिनी	NNP	O	O	O
-से	PSP	O	O	O
-शंघाई	XC	O	O	O
-मास्टर्स	NNP	O	O	O
-के	PSP	O	O	O
-तीसरे	QO	O	O	O
-दौर	NN	O	O	O
-के	PSP	O	O	O
-कड़े	JJ	O	O	O
-मुकाबले	NN	O	O	O
-में	PSP	O	O	O
-मंगलवार	NN	B	O	O
-को	PSP	O	O	O
-यहां	PRP	O	O	O
-शिकस्त	JJ	O	O	O
-झेलनी	VM	O	B-MISC	OCC
-पड़ी	XC	O	I-MISC	O
-.	SYM	O	O	O
-तीन	QC	B	O	O
-घंटे	NN	I	O	O
-से	PSP	O	O	O
-ज्यादा	QF	O	O	O
-देर	NN	O	O	O
-तक	RP	O	O	O
-चले	VM	O	B-MISC	OCC
-मुकाबले	NN	O	O	O
-को	PSP	O	O	O
-फोगनिनी	NN	O	O	O
-ने	PSP	O	O	O
-7	QC	O	O	O
--	SYM	O	O	O
-6	QC	O	O	O
-,	SYM	O	O	O
-2	QC	O	O	O
--	SYM	O	O	O
-6	QC	O	O	O
-,	SYM	O	O	O
-7	QC	O	O	O
--	SYM	O	O	O
-6	QC	B	O	O
-से	PSP	O	O	O
-अपने	PRP	O	O	O
-नाम	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-.	SYM	O	O	O
-मैच	NN	O	O	O
-में	PSP	O	O	O
-कड़ी	XC	O	O	O
-प्रतिस्पर्धा	NNP	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-दोनों	JJ	O	O	O
-खिलाड़ियों	NNP	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-कई	QF	O	O	O
-बार	RP	O	O	O
-तीखी	JJ	O	O	O
-बहस	NN	O	O	O
-भी	RP	O	O	O
-हुई	VM	O	I-MISC	-1
-.	SYM	O	O	O
-ब्रिटिश	JJ	O	O	O
-खिलाड़ी	XC	O	O	O
-मर्रे	NN	O	O	O
-ने	PSP	O	O	O
-एक	QC	B	O	O
-साल	NN	I	O	O
-पहले	NST	O	O	O
-अपने	PRP	O	O	O
-कूल्हे	NN	O	O	O
-का	PSP	O	O	O
-आपरेशन	NN	O	O	OCC
-करवाया	VM	O	B-MISC	O
-था	VAUX	O	I-MISC	O
-और	CC	O	O	O
-अब	PRP	O	O	O
-वह	PRP	O	O	O
-फिटनेस	NN	O	O	O
-और	CC	O	O	O
-फार्म	NN	O	B-MISC	OCC
-हासिल	NN	O	I-MISC	O
-करने	VM	O	I-MISC	O
-में	PSP	O	O	O
-लगे	VM	O	B-STAT	OCC
-हुए	VAUX	O	I-STAT	O
-हैं	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-तीन	QC	O	O	O
-बार	RP	O	O	O
-का	PSP	O	O	O
-ग्रैंडस्लैम	JJ	O	O	O
-विजेता	NN	O	O	O
-अभी	PRP	O	O	O
-विश्व	XC	O	O	O
-रैंकिंग	NN	O	O	O
-में	PSP	O	O	O
-289	QC	O	O	O
-वें	PRP	O	O	O
-नंबर	NN	O	O	O
-पर	PSP	O	O	O
-है	VM	O	B-STAT	O
-जबकि	CC	O	O	O
-एक	QC	B	O	O
-सप्ताह	NN	I	O	O
-पहले	NST	O	O	O
-तक	RP	O	O	O
-वह	PRP	O	O	O
-503	QC	O	O	O
-वें	PRP	O	O	O
-स्थान	NN	O	O	O
-पर	PSP	O	O	O
-थे	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-एएफपी	JJ	O	O	O
-आनन्द	NN	O	O	O
-नमितानमिता	NN	O	O	O
+ब्रिटिश
+टेनिश
+खिलाड़ी
+एंडी
+मर्रे
+को
+विश्व
+रैंकिंग
+में
+12
+वें
+पायदान
+पर
+काबिज
+इटली
+के
+फैबियो
+फोगनिनी
+से
+शंघाई
+मास्टर्स
+के
+तीसरे
+दौर
+के
+कड़े
+मुकाबले
+में
+मंगलवार
+को
+यहां
+शिकस्त
+झेलनी
+पड़ी
+.
+तीन
+घंटे
+से
+ज्यादा
+देर
+तक
+चले
+मुकाबले
+को
+फोगनिनी
+ने
+7
+-
+6
+,
+2
+-
+6
+,
+7
+-
+6
+से
+अपने
+नाम
+किया
+.
+मैच
+में
+कड़ी
+प्रतिस्पर्धा
+के
+बीच
+दोनों
+खिलाड़ियों
+के
+बीच
+कई
+बार
+तीखी
+बहस
+भी
+हुई
+.
+ब्रिटिश
+खिलाड़ी
+मर्रे
+ने
+एक
+साल
+पहले
+अपने
+कूल्हे
+का
+आपरेशन
+करवाया
+था
+और
+अब
+वह
+फिटनेस
+और
+फार्म
+हासिल
+करने
+में
+लगे
+हुए
+हैं
+.
+तीन
+बार
+का
+ग्रैंडस्लैम
+विजेता
+अभी
+विश्व
+रैंकिंग
+में
+289
+वें
+नंबर
+पर
+है
+जबकि
+एक
+सप्ताह
+पहले
+तक
+वह
+503
+वें
+स्थान
+पर
+थे
+.
+एएफपी
+आनन्द
+नमितानमिता

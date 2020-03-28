@@ -1,181 +1,181 @@
-ऐक्टर	XC	O	O	O
-,	SYM	O	O	O
-मॉडल	NN	O	O	O
-माहिका	XC	O	O	O
-शर्मा	NNP	O	O	O
-अपनी	PRP	O	O	O
-बोल्ड	NN	O	O	O
-अदाओं	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-जानी	VM	O	B-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-माहिका	XC	O	O	O
-शर्मा	NNP	O	O	O
-मिस	XC	O	O	O
-टीन	XC	O	O	O
-नॉर्थ	XC	O	O	O
-ईस्ट	XC	O	O	O
-टाइटल	NN	O	O	O
-फेमस	NN	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-थीं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सोशल	XC	O	O	O
-मीडिया	NNP	O	O	O
-पर	PSP	O	O	O
-भी	RP	O	O	O
-माहिका	NN	O	O	O
-ऐक्टिव	NN	O	B-MISC	OCC
-रहती	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-बॉलिवुड	NN	O	O	O
-की	PSP	O	O	O
-फिल्मों	NN	O	O	O
-और	CC	O	O	O
-कई	QF	O	O	O
-टीवी	XC	O	O	O
-सीरियल्स	NNP	O	O	O
-में	PSP	O	O	O
-काम	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-म्यूजिक	JJ	O	O	O
-एल्बम	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-काम	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सोशल	XC	O	O	O
-मीडिया	NNP	O	O	O
-पर	PSP	O	O	O
-माहिका	NN	O	O	O
-अपनी	PRP	O	O	O
-बोल्ड	NN	O	O	O
-ऐंड	XC	O	O	O
-हॉट	XC	O	O	O
-तस्वीरें	NN	O	O	O
-खूब	JJ	O	O	O
-शेयर	NN	O	B-MISC	O
-करती	VM	O	I-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-अपने	PRP	O	O	O
-चाहने	VM	O	O	O
-वालों	PSP	O	O	O
-को	PSP	O	O	O
-कभी	PRP	O	O	O
-निराश	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-करती	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बताया	VM	O	B-MISC	REP
-जा	VAUX	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इस	PRP	O	O	O
-बार	RP	O	O	O
-माहिका	XC	O	O	O
-शर्मा	NNP	O	O	O
-बिग	JJ	O	O	O
-बॉस	NN	O	O	O
-13	QC	O	O	O
-में	PSP	O	O	O
-नजर	NN	O	B-MISC	OCC
-आएंगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-ऐसी	DEM	O	O	O
-चर्चा	NN	O	O	O
-थी	VM	O	O	O
-कि	CC	O	O	O
-पिछले	JJ	B	O	O
-सीजन	NN	I	O	O
-में	PSP	O	O	O
-वह	PRP	O	O	O
-अपने	PRP	O	O	O
-बॉयफ्रेंड	NN	O	O	O
-और	CC	O	O	O
-एडल्ट	XC	O	O	O
-फिल्मों	NN	O	O	O
-के	PSP	O	O	O
-ऐक्टर	NN	O	O	O
-डेनी	XC	O	O	O
-डी	NNP	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-आने	VM	O	B-MISC	OCC
-वाली	VAUX	O	I-MISC	O
-थीं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-किसी	PRP	O	O	O
-कारण	NN	O	O	O
-से	PSP	O	O	O
-वह	PRP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-आ	VM	O	I-MISC	O
-पाईं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बॉलिवुड	NN	O	O	O
-के	PSP	O	O	O
-अलावा	PSP:?	O	O	O
-माहिका	NN	O	O	O
-कई	QF	O	O	O
-असामी	NN	O	O	O
-,	SYM	O	O	O
-मारवाड़ी	NN	O	O	O
-और	CC	O	O	O
-भोजपुरी	JJ	O	O	O
-फिल्मों	NN	O	O	O
-में	PSP	O	O	O
-काम	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-चुकी	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भोजपुरी	JJ	O	O	O
-फिल्मों	NN	O	O	O
-में	PSP	O	O	O
-इन्हें	PRP	O	O	O
-अच्छी	JJ	O	O	O
-ख्याति	NN	O	O	O
-मिल	VM	O	B-MISC	OCC
-चुकी	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-माहिका	NN	O	O	O
-को	PSP	O	O	O
-जानवरों	NN	O	O	O
-से	PSP	O	O	O
-बेहद	JJ	O	O	O
-प्यार	NN	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-वह	PRP	O	O	O
-खुद	PRP	O	O	O
-शाकाहारी	JJ	O	B-MISC	O
-हैं	VM	O	I-MISC	O
-.	SYM	O	O	O
-माहिका	NN	O	O	O
-को	PSP	O	O	O
-आयुर्वेदिक	JJ	O	O	O
-और	CC	O	O	O
-होम	XC	O	O	O
-प्रॉडक्ट	NN	O	O	O
-उपयोग	NN	O	B-MISC	O
-करना	VM	O	I-MISC	O
-बहुत	INTF	O	O	O
-पसंद	JJ	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
+ऐक्टर
+,
+मॉडल
+माहिका
+शर्मा
+अपनी
+बोल्ड
+अदाओं
+के
+लिए
+जानी
+जाती
+हैं
+.
+माहिका
+शर्मा
+मिस
+टीन
+नॉर्थ
+ईस्ट
+टाइटल
+फेमस
+हुई
+थीं
+.
+सोशल
+मीडिया
+पर
+भी
+माहिका
+ऐक्टिव
+रहती
+हैं
+.
+उन्होंने
+बॉलिवुड
+की
+फिल्मों
+और
+कई
+टीवी
+सीरियल्स
+में
+काम
+किया
+है
+.
+उन्होंने
+म्यूजिक
+एल्बम
+में
+भी
+काम
+किया
+है
+.
+सोशल
+मीडिया
+पर
+माहिका
+अपनी
+बोल्ड
+ऐंड
+हॉट
+तस्वीरें
+खूब
+शेयर
+करती
+हैं
+.
+वह
+अपने
+चाहने
+वालों
+को
+कभी
+निराश
+नहीं
+करती
+हैं
+.
+बताया
+जा
+रहा
+है
+कि
+इस
+बार
+माहिका
+शर्मा
+बिग
+बॉस
+13
+में
+नजर
+आएंगी
+.
+ऐसी
+चर्चा
+थी
+कि
+पिछले
+सीजन
+में
+वह
+अपने
+बॉयफ्रेंड
+और
+एडल्ट
+फिल्मों
+के
+ऐक्टर
+डेनी
+डी
+के
+साथ
+आने
+वाली
+थीं
+,
+लेकिन
+किसी
+कारण
+से
+वह
+नहीं
+आ
+पाईं
+.
+बॉलिवुड
+के
+अलावा
+माहिका
+कई
+असामी
+,
+मारवाड़ी
+और
+भोजपुरी
+फिल्मों
+में
+काम
+कर
+चुकी
+हैं
+.
+भोजपुरी
+फिल्मों
+में
+इन्हें
+अच्छी
+ख्याति
+मिल
+चुकी
+है
+.
+माहिका
+को
+जानवरों
+से
+बेहद
+प्यार
+है
+.
+वह
+खुद
+शाकाहारी
+हैं
+.
+माहिका
+को
+आयुर्वेदिक
+और
+होम
+प्रॉडक्ट
+उपयोग
+करना
+बहुत
+पसंद
+है
+.

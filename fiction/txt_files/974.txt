@@ -1,468 +1,468 @@
-मुलिया	NN	O	O	O
-हरी-हरी	JJ	O	O	O
-घास	NN	O	O	O
-का	PSP	O	O	O
-गट्ठा	NN	O	O	OCC
-लेकर	VM	O	O	O
-आयी	VAUX	O	O	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-उसका	PRP	O	O	O
-गेहुआं	VM	O	O	O
-रंग	NN	O	O	O
-कुछ	QF	O	O	O
-तमतमाया	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-और	CC	O	O	O
-बड़ी-बड़ी	NN	O	O	O
-मद-भरी	JJ	O	O	O
-आंखो	NN	O	O	O
-में	PSP	O	O	O
-शंका	NN	O	O	O
-समाई	VM	O	B-MISC	OCC
-हुई	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-महावीर	NN	O	O	O
-ने	PSP	O	O	O
-उसका	PRP	O	O	O
-तमतमाया	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-चेहरा	NN	O	O	O
-देखकर	VM	O	O	O
-पूछा-	NN	O	O	O
-क्या	WQ	O	O	O
-है	VM	O	O	O
-मुलिया	NN	O	O	O
-,	SYM	O	O	O
-आज	NN	O	O	O
-कैसा	WQ	O	O	O
-जी	NN	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-मुलिया	NN	O	O	O
-ने	PSP	O	O	O
-कुछ	QF	O	O	O
-जवाब	NN	O	O	O
-न	NEG	O	O	O
-दिया-	NN	O	O	O
-उसकी	PRP	O	O	O
-आंखें	NN	O	B-MISC	OCC
-डबडबा	VM	O	I-MISC	O
-गयीं	VAUX	O	I-MISC	O
-!	SYM	O	O	O
-महावीर	NN	O	O	O
-ने	PSP	O	O	O
-समीप	NST	O	O	O
-आकर	VM	O	B-MISC	OCC
-पूछा-	NN	O	O	O
-क्या	WQ	O	O	OCC
-हुआ	VM	O	B-STAT	O
-है	VAUX	O	I-STAT	O
-,	SYM	O	O	O
-बताती	VM	O	O	O
-क्यों	WQ	O	O	O
-नहीं	NEG	O	O	O
-?	SYM	O	O	O
-किसी	PRP	O	O	O
-ने	PSP	O	O	O
-कुछ	QF	O	O	O
-कहा	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-अम्मां	NN	O	O	O
-ने	PSP	O	O	O
-डांटा	VM	O	B-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-क्यों	WQ	O	O	O
-इतनी	QF	O	O	O
-उदास	NN	O	O	O
-है	VM	O	O	O
-?	SYM	O	O	O
-मुलिया	NN	O	O	O
-ने	PSP	O	O	O
-सिसककर	VM	O	O	O
-कहा-	NN	O	O	O
-कुछ	QF	O	O	O
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-हुआ	VM	O	O	O
-क्या	WQ	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-अच्छी	JJ	O	O	O
-तो	CC	O	O	O
-हूं	VAUX	O	O	O
-?	SYM	O	O	O
-महावीर	NN	O	O	O
-ने	PSP	O	O	O
-मुलिया	NN	O	O	O
-को	PSP	O	O	O
-सिर	NN	O	O	O
-से	PSP	O	O	O
-पांव	NN	O	O	O
-तक	RP	O	O	O
-देखकर	VM	O	B-MISC	OCC
-कहा-	NN	O	O	O
-चुपचाप	JJ	O	O	O
-रोयेगी	VM	O	O	O
-,	SYM	O	O	O
-बतायेगी	VM	O	O	OCC
-नहीं	NEG	O	O	O
-?	SYM	O	O	O
-मुलिया	NNP	O	O	O
-ने	PSP	O	O	O
-बात	NN	O	B-MISC	OCC
-टालकर	VM	O	I-MISC	O
-कहा-	VAUX	O	I-MISC	O
-कोई	PRP	O	O	O
-बात	NN	O	O	O
-भी	RP	O	O	O
-हो	VM	O	O	O
-,	SYM	O	O	O
-क्या	WQ	O	O	O
-बताऊं	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-मुलिया	NNP	O	O	O
-इस	DEM	O	O	O
-ऊसर	NN	O	O	O
-में	PSP	O	O	O
-गुलाब	NN	O	O	O
-का	PSP	O	O	O
-फूल	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-गेहुआं	VM	O	O	OCC
-रंग	NN	O	O	O
-था	VM	O	O	O
-,	SYM	O	O	O
-हिरन	NN	O	O	O
-की-सी	JJ	O	O	O
-आंखें	NN	O	O	O
-,	SYM	O	O	O
-नीचे	NST	O	O	O
-खिंचा	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-चिबुक	NN	O	O	O
-,	SYM	O	O	O
-कपोलों	NN	O	O	O
-पर	PSP	O	O	O
-हलकी	JJ	O	O	O
-लालिमा	NN	O	O	O
-,	SYM	O	O	O
-बड़ी-बड़ी	XC	O	O	O
-नुकीली	JJ	O	O	O
-पलकें	NN	O	O	O
-,	SYM	O	O	O
-आंखो	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-विचित्र	JJ	O	O	O
-आर्द्रता	NN	O	O	O
-,	SYM	O	O	O
-जिसमें	PRP	O	O	O
-एक	QC	O	O	O
-स्पष्ट	JJ	O	O	O
-वेदना	NN	O	O	O
-,	SYM	O	O	O
-एक	QC	O	O	O
-मूक	JJ	O	O	O
-व्यथा	NN	O	O	O
-झलकती	VM	O	B-MISC	OCC
-रहती	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मालूम	JJ	O	O	O
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-चमारों	NN	O	O	O
-के	PSP	O	O	O
-इस	DEM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-वह	PRP	O	O	O
-अप्सरा	NN	O	O	O
-कहां	WQ	O	O	O
-से	PSP	O	O	O
-आ	VM	O	B-MISC	OCC
-गयी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-क्या	WQ	O	O	O
-उसका	PRP	O	O	O
-कोमल	JJ	O	O	O
-फूल-सा	NN	O	O	O
-गात	NN	O	O	O
-इस	DEM	O	O	O
-योग्य	JJ	O	O	O
-था	VM	O	O	O
-कि	CC	O	O	O
-सर	NN	O	O	O
-पर	PSP	O	O	O
-घास	NN	O	O	O
-की	PSP	O	O	O
-टोकरी	NN	O	O	O
-रखकर	VM	O	B-MISC	OCC
-बेचने	VM	O	I-MISC	O
-जाती	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-उस	DEM	O	O	O
-गांव	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-ऐसे	DEM	O	O	O
-लोग	NN	O	O	O
-मौजूद	JJ	O	B-STAT	DECL
-थे	VM	O	I-STAT	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-उसके	PRP	O	O	O
-तलवे	NN	O	O	O
-के	PSP	O	O	O
-नीचे	NST	O	O	O
-आंखें	NN	O	B-MISC	OCC
-बिछाते	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-उसकी	PRP	O	O	O
-एक	QC	O	O	O
-चितवन	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-तरसते	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिनसे	PRP	O	O	O
-अगर	CC	O	O	O
-वह	PRP	O	O	O
-एक	QC	O	O	O
-शब्द	NN	O	O	O
-भी	RP	O	O	O
-बोलती	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-तो	RP	O	O	O
-निहाल	VM	O	B-MISC	OCC
-हो	VAUX	O	I-MISC	O
-जाते	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-उसे	PRP	O	O	O
-आये	VM	O	O	OCC
-साल-भर	NN	O	O	O
-से	PSP	O	O	O
-अधिक	QF	O	O	OCC
-हो	VM	O	B-MISC	O
-गया	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-किसी	PRP	O	O	O
-ने	PSP	O	O	O
-उसे	PRP	O	O	O
-युवकों	NN	O	O	O
-की	PSP	O	O	O
-तरफ	NST	O	O	O
-ताकते	VM	O	B-MISC	OCC
-या	CC	O	O	O
-बातें	NN	O	O	O
-करते	VM	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-देखा	VM	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-घास	NN	O	O	O
-लिये	PSP	O	O	O
-निकलती	VM	O	O	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-ऐसा	PRP	O	O	O
-मालूम	JJ	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-,	SYM	O	O	O
-मानो	CC:?	O	O	O
-उषा	NN	O	O	O
-का	PSP	O	O	O
-प्रकाश	NN	O	O	O
-,	SYM	O	O	O
-सुनहरे	JJ	O	O	O
-आवरण	NN	O	O	O
-में	PSP	O	O	O
-रंजित	JJ	O	O	O
-,	SYM	O	O	O
-अपनी	RDP	O	O	O
-छटा	NN	O	O	O
-बिखेरता	VM	O	B-MISC	OCC
-जाता	VAUX	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कोई	PRP	O	O	O
-गजलें	NN	O	O	O
-गाता	VM	O	O	O
-,	SYM	O	O	O
-कोई	PRP	O	O	O
-छाती	NN	O	O	O
-पर	PSP	O	O	O
-हाथ	NN	O	B-MISC	O
-रखता	VM	O	I-MISC	O
-;	SYM	O	O	O
-पर	PSP	O	O	O
-मुलिया	NN	O	O	O
-नीची	JJ	O	O	O
-आंख	NN	O	O	O
-किये	VM	O	O	O
-अपनी	PRP	O	O	O
-राह	NN	O	O	O
-चली	VM	O	B-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-लोग	NN	O	O	O
-हैरान	JJ	O	B-MISC	OCC
-होकर	VM	O	I-MISC	O
-कहते-	VAUX	O	I-MISC	O
-इतना	QF	O	O	O
-अभिमान	NN	O	O	O
-!	SYM	O	O	O
-महावीर	NNP	O	O	O
-में	PSP	O	O	O
-ऐसे	PRP	O	O	O
-क्या	WQ	O	O	O
-सुरखाब	NN	O	O	O
-के	PSP	O	O	O
-पर	PSP	O	O	O
-लगे	VAUX	O	B-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-ऐसा	PRP	O	O	O
-अच्छा	JJ	O	O	O
-जवान	NN	O	O	O
-भी	RP	O	O	O
-तो	RP	O	O	O
-नहीं	NEG	O	B-MISC	O
-,	SYM	O	I-MISC	O
-न	NEG	O	I-MISC	O
-जाने	VM	O	I-MISC	O
-यह	PRP	O	O	O
-कैसे	WQ	O	O	O
-उसके	PRP	O	O	O
-साथ	NST	O	O	O
-रहती	VM	O	O	O
-है	VAUX	O	O	O
-!	SYM	O	O	O
-मगर	CC	O	O	O
-आज	NN	O	O	O
-ऐसी	DEM	O	O	O
-बात	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-इस	DEM	O	O	O
-जाति	NN	O	O	O
-की	PSP	O	O	O
-और	CC	O	O	O
-युवतियों	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-चाहे	CC:?	O	O	O
-गुप्त	JJ	O	O	O
-संदेश	NN	O	O	O
-होती	VM	O	O	O
-,	SYM	O	O	O
-मुलिया	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-हृदय	NN	O	O	O
-का	PSP	O	O	O
-शूल	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-प्रभात	NN	O	O	O
-का	PSP	O	O	O
-समय	NN	O	O	O
-था	VM	O	O	O
-,	SYM	O	O	O
-पवन	XC	O	O	O
-आम	NN	O	O	O
-की	PSP	O	O	O
-बौर	NN	O	O	O
-की	PSP	O	O	O
-सुगंधि	NN	O	O	O
-से	PSP	O	O	O
-मतवाला	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-आकाश	NN	O	O	O
-पृथ्वी	NN	O	O	O
-पर	PSP	O	O	O
-सोने	NN	O	O	O
-की	PSP	O	O	O
-वर्षा	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मुलिया	NNP	O	O	O
-सिर	NN	O	O	O
-पर	PSP	O	O	O
-झौआ	VM	O	B-MISC	O
-रक्खे	VAUX	O	I-MISC	O
-घास	NN	O	B-MISC	OCC
-छीलने	VM	O	I-MISC	O
-चली	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-उसका	PRP	O	O	O
-गेहुआं	VM	O	O	O
-रंग	NN	O	O	O
-प्रभात	NN	O	O	O
-की	PSP	O	O	O
-सुनहरी	JJ	O	O	O
-किरणों	NN	O	O	O
-से	PSP	O	O	O
-कुंदन	NN	O	O	O
-की	PSP	O	O	O
-तरह	PSP	O	O	O
-दमक	NN	O	B-MISC	OCC
-उठा	VM	O	I-MISC	O
-.	SYM	O	O	O
-एकाएक	RB	O	O	O
-युवक	XC	O	O	O
-चैनसिंह	NNP	O	O	O
-सामने	NST	O	O	O
-से	PSP	O	O	O
-आता	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-दिखाई	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मुलिया	NN	O	O	O
-ने	PSP	O	O	O
-चाहा	VM	O	B-MISC	OCC
-कि	CC	O	O	O
-कतराकर	VM	O	B-MISC	OCC
-निकल	VM	O	I-MISC	O
-जाय	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-मगर	CC	O	O	O
-चैनसिंह	NN	O	O	O
-ने	PSP	O	O	O
-उसका	PRP	O	O	O
-हाथ	NN	O	O	OCC
-पकड़	NN	O	B-MISC	O
-लिया	VM	O	I-MISC	O
-और	CC	O	O	O
-बोला-	XC	O	O	O
-मुलिया	NNP	O	O	O
-,	SYM	O	O	O
-तुझे	PRP	O	O	O
-क्या	WQ	O	O	O
-मुझ	NN	O	O	O
-पर	PSP	O	O	O
-जरा	QF	O	O	O
-भी	RP	O	O	O
-दया	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-आती	VM	O	I-MISC	O
-?	SYM	O	O	O
+मुलिया
+हरी-हरी
+घास
+का
+गट्ठा
+लेकर
+आयी
+,
+तो
+उसका
+गेहुआं
+रंग
+कुछ
+तमतमाया
+हुआ
+था
+और
+बड़ी-बड़ी
+मद-भरी
+आंखो
+में
+शंका
+समाई
+हुई
+थी
+.
+महावीर
+ने
+उसका
+तमतमाया
+हुआ
+चेहरा
+देखकर
+पूछा-
+क्या
+है
+मुलिया
+,
+आज
+कैसा
+जी
+है
+.
+मुलिया
+ने
+कुछ
+जवाब
+न
+दिया-
+उसकी
+आंखें
+डबडबा
+गयीं
+!
+महावीर
+ने
+समीप
+आकर
+पूछा-
+क्या
+हुआ
+है
+,
+बताती
+क्यों
+नहीं
+?
+किसी
+ने
+कुछ
+कहा
+है
+,
+अम्मां
+ने
+डांटा
+है
+,
+क्यों
+इतनी
+उदास
+है
+?
+मुलिया
+ने
+सिसककर
+कहा-
+कुछ
+नहीं
+,
+हुआ
+क्या
+है
+,
+अच्छी
+तो
+हूं
+?
+महावीर
+ने
+मुलिया
+को
+सिर
+से
+पांव
+तक
+देखकर
+कहा-
+चुपचाप
+रोयेगी
+,
+बतायेगी
+नहीं
+?
+मुलिया
+ने
+बात
+टालकर
+कहा-
+कोई
+बात
+भी
+हो
+,
+क्या
+बताऊं
+.
+मुलिया
+इस
+ऊसर
+में
+गुलाब
+का
+फूल
+थी
+.
+गेहुआं
+रंग
+था
+,
+हिरन
+की-सी
+आंखें
+,
+नीचे
+खिंचा
+हुआ
+चिबुक
+,
+कपोलों
+पर
+हलकी
+लालिमा
+,
+बड़ी-बड़ी
+नुकीली
+पलकें
+,
+आंखो
+में
+एक
+विचित्र
+आर्द्रता
+,
+जिसमें
+एक
+स्पष्ट
+वेदना
+,
+एक
+मूक
+व्यथा
+झलकती
+रहती
+थी
+.
+मालूम
+नहीं
+,
+चमारों
+के
+इस
+घर
+में
+वह
+अप्सरा
+कहां
+से
+आ
+गयी
+थी
+.
+क्या
+उसका
+कोमल
+फूल-सा
+गात
+इस
+योग्य
+था
+कि
+सर
+पर
+घास
+की
+टोकरी
+रखकर
+बेचने
+जाती
+?
+उस
+गांव
+में
+भी
+ऐसे
+लोग
+मौजूद
+थे
+,
+जो
+उसके
+तलवे
+के
+नीचे
+आंखें
+बिछाते
+थे
+,
+उसकी
+एक
+चितवन
+के
+लिए
+तरसते
+थे
+,
+जिनसे
+अगर
+वह
+एक
+शब्द
+भी
+बोलती
+,
+तो
+निहाल
+हो
+जाते
+;
+लेकिन
+उसे
+आये
+साल-भर
+से
+अधिक
+हो
+गया
+,
+किसी
+ने
+उसे
+युवकों
+की
+तरफ
+ताकते
+या
+बातें
+करते
+नहीं
+देखा
+.
+वह
+घास
+लिये
+निकलती
+,
+तो
+ऐसा
+मालूम
+होता
+,
+मानो
+उषा
+का
+प्रकाश
+,
+सुनहरे
+आवरण
+में
+रंजित
+,
+अपनी
+छटा
+बिखेरता
+जाता
+हो
+.
+कोई
+गजलें
+गाता
+,
+कोई
+छाती
+पर
+हाथ
+रखता
+;
+पर
+मुलिया
+नीची
+आंख
+किये
+अपनी
+राह
+चली
+जाती
+.
+लोग
+हैरान
+होकर
+कहते-
+इतना
+अभिमान
+!
+महावीर
+में
+ऐसे
+क्या
+सुरखाब
+के
+पर
+लगे
+हैं
+,
+ऐसा
+अच्छा
+जवान
+भी
+तो
+नहीं
+,
+न
+जाने
+यह
+कैसे
+उसके
+साथ
+रहती
+है
+!
+मगर
+आज
+ऐसी
+बात
+हो
+गयी
+,
+जो
+इस
+जाति
+की
+और
+युवतियों
+के
+लिए
+चाहे
+गुप्त
+संदेश
+होती
+,
+मुलिया
+के
+लिए
+हृदय
+का
+शूल
+थी
+.
+प्रभात
+का
+समय
+था
+,
+पवन
+आम
+की
+बौर
+की
+सुगंधि
+से
+मतवाला
+हो
+रहा
+था
+,
+आकाश
+पृथ्वी
+पर
+सोने
+की
+वर्षा
+कर
+रहा
+था
+.
+मुलिया
+सिर
+पर
+झौआ
+रक्खे
+घास
+छीलने
+चली
+,
+तो
+उसका
+गेहुआं
+रंग
+प्रभात
+की
+सुनहरी
+किरणों
+से
+कुंदन
+की
+तरह
+दमक
+उठा
+.
+एकाएक
+युवक
+चैनसिंह
+सामने
+से
+आता
+हुआ
+दिखाई
+दिया
+.
+मुलिया
+ने
+चाहा
+कि
+कतराकर
+निकल
+जाय
+;
+मगर
+चैनसिंह
+ने
+उसका
+हाथ
+पकड़
+लिया
+और
+बोला-
+मुलिया
+,
+तुझे
+क्या
+मुझ
+पर
+जरा
+भी
+दया
+नहीं
+आती
+?

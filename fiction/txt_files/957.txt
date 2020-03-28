@@ -1,517 +1,517 @@
-ईश्वरी	JJ	O	O	O
-एक	QC	O	O	O
-बड़े	NNP	O	O	O
-जमींदार	NN	O	O	O
-का	PSP	O	O	O
-लड़का	XC	O	B-MISC	O
-था	VAUX	O	I-MISC	O
-और	CC	O	O	O
-मैं	PRP	O	O	O
-एक	QC	O	O	O
-गरीब	JJ	O	O	O
-क्लर्क	NN	O	O	O
-का	PSP	O	O	O
-,	SYM	O	O	O
-जिसके	PRP	O	O	O
-पास	NST	O	O	O
-मेहनत-मजूरी	NN	O	O	O
-के	PSP	O	O	O
-सिवा	PSP:?	O	O	O
-और	CC	O	O	O
-कोई	PRP	O	O	O
-जायदाद	NN	O	O	O
-न	NEG	O	B-MISC	O
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-हम	PRP	O	O	O
-दोनों	NN	O	O	O
-में	PSP	O	O	O
-परस्पर	NN:?	O	O	O
-बहसें	NN	O	O	O
-होती	VM	O	B-MISC	OCC
-रहती	VAUX	O	I-MISC	O
-थीं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-जमींदारी	NN	O	O	O
-की	PSP	O	O	O
-बुराई	NN	O	B-MISC	O
-करता	VM	O	I-MISC	O
-,	SYM	O	O	O
-उन्हें	PRP	O	O	O
-हिंसक	JJ	O	O	O
-पशु	NN	O	O	O
-और	CC	O	O	O
-खून	NN	O	O	O
-चूसने	VM	O	O	O
-वाली	PSP	O	O	O
-जोंक	NN	O	O	O
-और	CC	O	O	O
-वृक्षों	NN	O	O	O
-की	PSP	O	O	O
-चोटी	NN	O	O	O
-पर	PSP	O	O	O
-फूलने	VM	O	O	O
-वाला	PSP	O	O	O
-बंझा	NN	O	B-MISC	O
-कहता	VM	O	I-MISC	OCC
-.	SYM	O	O	O
-वह	PRP	O	O	O
-जमींदारों	NN	O	O	O
-का	PSP	O	O	O
-पक्ष	NN	O	O	O
-लेता	VM	O	O	O
-,	SYM	O	O	O
-पर	PSP	O	O	O
-स्वभावत	NN	O	O	O
-:	SYM	O	O	O
-उसका	PRP	O	O	O
-पहलू	NN	O	O	O
-कुछ	QF	O	O	O
-कमजोर	JJ	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-क्योंकि	CC	O	O	O
-उसके	PRP	O	O	O
-पास	NST	O	O	O
-जमींदारों	NN	O	O	O
-के	PSP	O	O	O
-अनुकूल	PSP	O	O	O
-कोई	PRP	O	O	O
-दलील	NN	O	B-MISC	O
-न	NEG	O	I-MISC	O
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-कहता	VM	O	O	REP
-कि	CC	O	O	O
-सभी	QF	O	O	O
-मनुष्य	NN	O	O	O
-बराबर	JJ	O	B-MISC	O
-नहीं	NEG	O	I-MISC	O
-होते	VM	O	I-MISC	O
-,	SYM	O	O	O
-छोटे-बड़े	NN	O	O	O
-हमेशा	RB	O	O	O
-होते	VM	O	B-STAT	O
-रहते	VAUX	O	I-STAT	O
-हैं	VAUX	O	I-STAT	O
-और	CC	O	O	O
-होते	VM	O	O	O
-रहेंगे	VAUX	O	O	O
-,	SYM	O	O	O
-लचर	JJ	O	O	O
-दलील	NN	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-किसी	PRP	O	O	O
-मानुषीय	JJ	O	O	O
-या	CC	O	O	O
-नैतिक	JJ	O	O	O
-नियम	NN	O	O	O
-से	PSP	O	O	O
-इस	DEM	O	O	O
-व्यवस्था	NN	O	O	O
-का	PSP	O	O	O
-औचित्य	NN	O	O	O
-सिद्ध	JJ	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-कठिन	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-इस	DEM	O	O	O
-वाद-विवाद	NN	O	O	O
-की	PSP	O	O	O
-गर्मी-गर्मी	NN	O	O	O
-में	PSP	O	O	O
-अक्सर	RB	O	O	O
-तेज	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाता	VAUX	O	I-MISC	O
-और	CC	O	O	O
-लगने	VM	O	O	O
-वाली	PSP	O	O	O
-बात	NN	O	O	OCC
-कह	VM	O	O	O
-जाता	VAUX	O	O	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-ईश्वरी	JJ	O	O	O
-हारकर	VM	O	O	O
-भी	RP	O	O	O
-मुस्कराता	VM	O	B-MISC	OCC
-रहता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैंने	PRP	O	O	O
-उसे	PRP	O	O	O
-कभी	PRP	O	O	O
-गर्म	JJ	O	B-MISC	O
-होते	VM	O	I-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-देखा	VM	O	I-MISC	O
-.	SYM	O	O	O
-शायद	RB	O	O	O
-इसका	PRP	O	O	O
-कारण	NN	O	O	O
-यह	PRP	O	O	O
-था	VM	O	B-MISC	OCC
-कि	CC	O	O	O
-वह	PRP	O	O	O
-अपने	PRP	O	O	O
-पक्ष	NN	O	O	O
-की	PSP	O	O	O
-कमजोरी	NN	O	O	O
-समझता	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-नौकरों	NN	O	O	O
-से	PSP	O	O	O
-वह	PRP	O	O	O
-सीधे	JJ	O	O	O
-मुंह	NN	O	O	O
-बात	NN	O	B-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-करता	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अमीरों	NN	O	O	O
-में	PSP	O	O	O
-जो	PRP	O	O	O
-एक	QC	O	O	O
-बेदर्दी	NN	O	O	O
-और	CC	O	O	O
-उद्दण्डता	NN	O	B-MISC	O
-होती	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-इसमें	PRP	O	O	O
-उसे	PRP	O	O	O
-भी	RP	O	O	O
-प्रचुर	JJ	O	O	O
-भाग	NN	O	B-MISC	OCC
-मिला	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-नौकर	NN	O	O	O
-ने	PSP	O	O	O
-बिस्तर	NN	O	B-MISC	O
-लगाने	VM	O	I-MISC	O
-में	PSP	O	O	O
-जरा	QF	O	O	O
-भी	RP	O	O	O
-देर	NN	O	O	O
-की	PSP	O	O	O
-,	SYM	O	O	O
-दूध	NN	O	O	O
-जरूरत	NN	O	O	O
-से	PSP	O	O	O
-ज्यादा	QF	O	O	O
-गर्म	JJ	O	O	O
-या	CC	O	O	O
-ठंडा	JJ	O	O	O
-हुआ	VM	O	O	O
-,	SYM	O	O	O
-साइकिल	NN	O	O	O
-अच्छी	JJ	O	O	O
-तरह	NN	O	O	O
-साफ	JJ	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-हुई	VM	O	I-MISC	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-वह	PRP	O	O	O
-आपे	PRP	O	O	O
-से	PSP	O	O	O
-बाहर	NST	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जाता	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सुस्ती	NN	O	O	O
-या	CC	O	O	O
-बदतमीजी	NN	O	O	O
-उसे	PRP	O	O	O
-जरा	QF	O	O	O
-भी	RP	O	O	O
-बरदाश्त	JJ	O	O	OCC
-न	NEG	O	O	O
-थी	VM	O	B-STAT	O
-,	SYM	O	O	O
-पर	PSP	O	O	O
-दोस्तों	NN	O	O	O
-से	PSP	O	O	O
-और	CC	O	O	O
-विशेषकर	RB	O	O	O
-मुझसे	PRP	O	O	O
-उसका	PRP	O	O	O
-व्यवहार	NN	O	O	O
-सौहार्द	NN	O	O	O
-और	CC	O	O	O
-नम्रता	NN	O	O	O
-से	PSP	O	O	O
-भरा	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-होता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-शायद	RB	O	O	O
-उसकी	PRP	O	O	O
-जगह	NN	O	O	O
-मैं	PRP	O	O	O
-होता	VM	O	O	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-मुझमें	PRP	O	O	O
-भी	RP	O	O	O
-वहीं	PRP	O	O	O
-कठोरताएं	NN	O	O	O
-पैदा	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जातीं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-उसमें	PRP	O	O	O
-थीं	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-क्योंकि	CC	O	O	O
-मेरा	PRP	O	O	O
-लोकप्रेम	NN	O	O	O
-सिद्धांतों	NN	O	O	O
-पर	PSP	O	O	O
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-निजी	JJ	O	O	O
-दशाओं	NN	O	O	O
-पर	PSP	O	O	O
-टिका	NN	O	B-MISC	OCC
-हुआ	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-वह	PRP	O	O	O
-मेरी	PRP	O	O	O
-जगह	NN	O	B-MISC	O
-होकर	VM	O	I-MISC	O
-भी	RP	O	O	O
-शायद	RB	O	O	O
-अमीर	JJ	O	O	O
-ही	RP	O	O	O
-रहता	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-क्योंकि	CC	O	O	O
-वह	PRP	O	O	O
-प्रकृति	NN	O	O	O
-से	PSP	O	O	O
-ही	RP	O	O	O
-विलासी	JJ	O	O	O
-और	CC	O	O	O
-ऐश्वर्य-प्रिय	JJ	O	B-STAT	O
-था	VM	O	I-STAT	O
-.	SYM	O	O	O
-अबकी	PRP	O	O	O
-दशहरे	NN	O	O	O
-की	PSP	O	O	O
-छुट्टियों	NN	O	O	O
-में	PSP	O	O	O
-मैंने	PRP	O	O	O
-निश्चय	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-कि	CC	O	O	O
-घर	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-जाऊंगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-मेरे	PRP	O	O	O
-पास	NST	O	O	O
-किराये	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-रूपये	NN	O	B-STAT	OCC
-न	NEG	O	I-STAT	O
-थे	VM	O	I-STAT	O
-और	CC	O	O	O
-न	NEG	O	O	O
-घरवालों	NN	O	O	O
-को	PSP	O	O	O
-तकलीफ	NN	O	O	O
-देना	VM	O	B-MISC	OCC
-चाहता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-जानता	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वे	PRP	O	O	O
-मुझे	PRP	O	O	O
-जो	PRP	O	O	O
-कुछ	QF	O	O	O
-देते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-वह	PRP	O	O	O
-उनकी	PRP	O	O	O
-हैसियत	NN	O	O	O
-से	PSP	O	O	O
-बहुत	INTF	O	O	O
-ज्यादा	QF	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-उसके	PRP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-परीक्षा	NN	O	O	O
-का	PSP	O	O	O
-ख्याल	NN	O	B-MISC	OCC
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-अभी	PRP	O	O	O
-बहुत	QF	O	O	O
-कुछ	QF	O	O	O
-पढ़ना	XC	O	O	O
-है	VAUX	O	O	O
-,	SYM	O	O	O
-बोर्डिग	XC	O	O	O
-हाउस	NNP	O	O	O
-में	PSP	O	O	O
-भूत	NN	O	O	O
-की	PSP	O	O	O
-तरह	PSP	O	O	O
-अकेले	JJ	O	O	O
-पड़े	JJ	O	O	O
-रहने	VM	O	O	O
-को	PSP	O	O	O
-भी	RP	O	O	O
-जी	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-चाहता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इसलिए	CC	O	O	O
-जब	PRP	O	O	O
-ईश्वरी	NNP	O	O	O
-ने	PSP	O	O	O
-मुझे	PRP	O	O	O
-अपने	PRP	O	O	O
-घर	NN	O	O	O
-का	PSP	O	O	O
-नेवता	NN	O	O	O
-दिया	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-मैं	PRP	O	O	O
-बिना	NEG	O	O	O
-आग्रह	NN	O	O	O
-के	PSP	O	O	O
-राजी	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-ईश्वरी	NNP	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-परीक्षा	NN	O	O	O
-की	PSP	O	O	O
-तैयारी	NN	O	O	O
-खूब	JJ	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-जायगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-अमीर	JJ	O	B-MISC	O
-होकर	VM	O	I-MISC	O
-भी	RP	O	O	O
-मेहनती	JJ	O	O	O
-और	CC	O	O	O
-जहीन	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-उसने	PRP	O	O	O
-इसके	PRP	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-कहा-	NN	O	O	O
-लेकिन	CC	O	O	O
-भाई	XC	O	O	O
-,	SYM	O	O	O
-एक	QC	O	O	O
-बात	NN	O	O	O
-का	PSP	O	O	O
-ख्याल	NN	O	B-MISC	O
-रखना	VM	O	I-MISC	OCC
-.	SYM	O	O	O
-वहां	PRP	O	O	O
-अगर	CC	O	O	O
-जमींदारों	NN	O	O	O
-की	PSP	O	O	O
-निंदा	NN	O	O	O
-की	PSP	O	O	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-मुआमिला	JJ	O	O	O
-बिगड़	VM	O	B-MISC	O
-जायगा	VAUX	O	I-MISC	O
-और	CC	O	O	O
-मेरे	PRP	O	O	O
-घरवालों	NN	O	O	O
-को	PSP	O	O	O
-बुरा	JJ	O	B-MISC	OCC
-लगेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-लोग	NN	O	O	O
-तो	CC	O	O	O
-असामियों	NN	O	O	O
-पर	PSP	O	O	O
-इसी	DEM	O	O	O
-दावे	NN	O	O	O
-से	PSP	O	O	O
-शासन	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-ईश्वर	NN	O	O	O
-ने	PSP	O	O	O
-असामियों	NN	O	O	O
-को	PSP	O	O	O
-उनकी	PRP	O	O	O
-सेवा	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-ही	RP	O	O	O
-पैदा	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-असामी	NN	O	O	O
-भी	RP	O	O	O
-यही	PRP	O	O	O
-समझता	VM	O	B-STAT	DEC
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-अगर	CC	O	O	O
-उसे	PRP	O	O	O
-सुझा	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-जाय	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-जमींदार	NN	O	O	O
-और	CC	O	O	O
-असामी	NN	O	O	O
-में	PSP	O	O	O
-कोई	PRP	O	O	O
-मौलिक	JJ	O	O	O
-भेद	NN	O	O	O
-नहीं	NEG	O	B-STAT	O
-है	VM	O	I-STAT	O
-,	SYM	O	O	O
-तो	CC	O	O	O
-जमींदारी	NN	O	O	O
-का	PSP	O	O	O
-कहीं	PRP	O	O	O
-पता	JJ	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-लगे	VM	O	I-MISC	O
-.	SYM	O	O	O
+ईश्वरी
+एक
+बड़े
+जमींदार
+का
+लड़का
+था
+और
+मैं
+एक
+गरीब
+क्लर्क
+का
+,
+जिसके
+पास
+मेहनत-मजूरी
+के
+सिवा
+और
+कोई
+जायदाद
+न
+थी
+.
+हम
+दोनों
+में
+परस्पर
+बहसें
+होती
+रहती
+थीं
+.
+मैं
+जमींदारी
+की
+बुराई
+करता
+,
+उन्हें
+हिंसक
+पशु
+और
+खून
+चूसने
+वाली
+जोंक
+और
+वृक्षों
+की
+चोटी
+पर
+फूलने
+वाला
+बंझा
+कहता
+.
+वह
+जमींदारों
+का
+पक्ष
+लेता
+,
+पर
+स्वभावत
+:
+उसका
+पहलू
+कुछ
+कमजोर
+होता
+था
+,
+क्योंकि
+उसके
+पास
+जमींदारों
+के
+अनुकूल
+कोई
+दलील
+न
+थी
+.
+वह
+कहता
+कि
+सभी
+मनुष्य
+बराबर
+नहीं
+होते
+,
+छोटे-बड़े
+हमेशा
+होते
+रहते
+हैं
+और
+होते
+रहेंगे
+,
+लचर
+दलील
+थी
+.
+किसी
+मानुषीय
+या
+नैतिक
+नियम
+से
+इस
+व्यवस्था
+का
+औचित्य
+सिद्ध
+करना
+कठिन
+था
+.
+मैं
+इस
+वाद-विवाद
+की
+गर्मी-गर्मी
+में
+अक्सर
+तेज
+हो
+जाता
+और
+लगने
+वाली
+बात
+कह
+जाता
+,
+लेकिन
+ईश्वरी
+हारकर
+भी
+मुस्कराता
+रहता
+था
+.
+मैंने
+उसे
+कभी
+गर्म
+होते
+नहीं
+देखा
+.
+शायद
+इसका
+कारण
+यह
+था
+कि
+वह
+अपने
+पक्ष
+की
+कमजोरी
+समझता
+था
+.
+नौकरों
+से
+वह
+सीधे
+मुंह
+बात
+नहीं
+करता
+था
+.
+अमीरों
+में
+जो
+एक
+बेदर्दी
+और
+उद्दण्डता
+होती
+है
+,
+इसमें
+उसे
+भी
+प्रचुर
+भाग
+मिला
+था
+.
+नौकर
+ने
+बिस्तर
+लगाने
+में
+जरा
+भी
+देर
+की
+,
+दूध
+जरूरत
+से
+ज्यादा
+गर्म
+या
+ठंडा
+हुआ
+,
+साइकिल
+अच्छी
+तरह
+साफ
+नहीं
+हुई
+,
+तो
+वह
+आपे
+से
+बाहर
+हो
+जाता
+.
+सुस्ती
+या
+बदतमीजी
+उसे
+जरा
+भी
+बरदाश्त
+न
+थी
+,
+पर
+दोस्तों
+से
+और
+विशेषकर
+मुझसे
+उसका
+व्यवहार
+सौहार्द
+और
+नम्रता
+से
+भरा
+हुआ
+होता
+था
+.
+शायद
+उसकी
+जगह
+मैं
+होता
+,
+तो
+मुझमें
+भी
+वहीं
+कठोरताएं
+पैदा
+हो
+जातीं
+,
+जो
+उसमें
+थीं
+,
+क्योंकि
+मेरा
+लोकप्रेम
+सिद्धांतों
+पर
+नहीं
+,
+निजी
+दशाओं
+पर
+टिका
+हुआ
+था
+,
+लेकिन
+वह
+मेरी
+जगह
+होकर
+भी
+शायद
+अमीर
+ही
+रहता
+,
+क्योंकि
+वह
+प्रकृति
+से
+ही
+विलासी
+और
+ऐश्वर्य-प्रिय
+था
+.
+अबकी
+दशहरे
+की
+छुट्टियों
+में
+मैंने
+निश्चय
+किया
+कि
+घर
+न
+जाऊंगा
+.
+मेरे
+पास
+किराये
+के
+लिए
+रूपये
+न
+थे
+और
+न
+घरवालों
+को
+तकलीफ
+देना
+चाहता
+था
+.
+मैं
+जानता
+हूं
+,
+वे
+मुझे
+जो
+कुछ
+देते
+हैं
+,
+वह
+उनकी
+हैसियत
+से
+बहुत
+ज्यादा
+है
+,
+उसके
+साथ
+ही
+परीक्षा
+का
+ख्याल
+था
+.
+अभी
+बहुत
+कुछ
+पढ़ना
+है
+,
+बोर्डिग
+हाउस
+में
+भूत
+की
+तरह
+अकेले
+पड़े
+रहने
+को
+भी
+जी
+न
+चाहता
+था
+.
+इसलिए
+जब
+ईश्वरी
+ने
+मुझे
+अपने
+घर
+का
+नेवता
+दिया
+,
+तो
+मैं
+बिना
+आग्रह
+के
+राजी
+हो
+गया
+.
+ईश्वरी
+के
+साथ
+परीक्षा
+की
+तैयारी
+खूब
+हो
+जायगी
+.
+वह
+अमीर
+होकर
+भी
+मेहनती
+और
+जहीन
+है
+.
+उसने
+इसके
+साथ
+ही
+कहा-
+लेकिन
+भाई
+,
+एक
+बात
+का
+ख्याल
+रखना
+.
+वहां
+अगर
+जमींदारों
+की
+निंदा
+की
+,
+तो
+मुआमिला
+बिगड़
+जायगा
+और
+मेरे
+घरवालों
+को
+बुरा
+लगेगा
+.
+वह
+लोग
+तो
+असामियों
+पर
+इसी
+दावे
+से
+शासन
+करते
+हैं
+कि
+ईश्वर
+ने
+असामियों
+को
+उनकी
+सेवा
+के
+लिए
+ही
+पैदा
+किया
+है
+.
+असामी
+भी
+यही
+समझता
+है
+.
+अगर
+उसे
+सुझा
+दिया
+जाय
+कि
+जमींदार
+और
+असामी
+में
+कोई
+मौलिक
+भेद
+नहीं
+है
+,
+तो
+जमींदारी
+का
+कहीं
+पता
+न
+लगे
+.

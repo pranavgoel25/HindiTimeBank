@@ -1,372 +1,372 @@
-बिहार	NNP	O	O	O
-की	PSP	O	O	O
-राजधानी	NN	O	O	O
-पटना	NNP	O	O	O
-में	PSP	O	O	O
-मंगलवार	NN	B	O	O
-को	PSP	O	O	O
-आयोजित	JJ	O	O	O
-दशहरा	XC	O	O	O
-समारोह	NN	O	O	O
-में	PSP	O	O	O
-भाजपा	JJ	O	O	O
-नेताओं	NN	O	O	O
-की	PSP	O	O	O
-अनुपस्थिति	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	O
-राजनीतिक	JJ	O	O	O
-बयानबाजी	NN	O	O	O
-शुरू	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पटना	NNP	O	O	O
-के	PSP	O	O	O
-गांधी	NNP	O	O	O
-मैदान	NN	O	O	O
-में	PSP	O	O	O
-मंगलवार	NN	B	O	O
-को	PSP	O	O	O
-आयोजित	JJ	O	O	O
-दशहरा	XC	O	B-MISC	O
-समारोह	NN	O	I-MISC	O
-में	PSP	O	O	O
-जहां	PRP	O	O	O
-मुख्यमंत्री	JJ	O	O	O
-नीतीश	XC	O	O	O
-कुमार	NNP	O	O	O
-और	CC	O	O	O
-विपक्षी	JJ	O	O	O
-महागठबंधन	NN	O	O	O
-में	PSP	O	O	O
-शामिल	JJ	O	O	O
-कांग्रेस	NN	O	O	O
-के	PSP	O	O	O
-प्रदेश	NN	O	O	O
-अध्यक्ष	JJ	O	O	O
-मदन	XC	O	O	O
-मोहन	XC	O	O	O
-झा	NNP	O	O	O
-उपस्थित	JJ	O	B-STAT	O
-रहे	VM	O	I-STAT	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-उपमुख्यमंत्री	NN	O	O	O
-सुशील	XC	O	O	O
-कुमार	NNP	O	O	O
-मोदी	NN	O	O	O
-सहित	PSP	O	O	O
-भाजपा	NN	O	O	O
-के	PSP	O	O	O
-स्थानीय	JJ	O	O	O
-सांसद	NN	O	O	O
-और	CC	O	O	O
-अन्य	JJ	O	O	O
-नेता	NN	O	O	O
-अनुपस्थित	JJ	O	B-MISC	OCC
-रहे	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जदयू	XC	O	O	O
-प्रवक्ता	NN	O	O	O
-राजीव	XC	O	O	O
-रंजन	NNP	O	O	O
-प्रसाद	NN	O	O	O
-ने	PSP	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-कहा	VM	O	B-MISC	REP
-,	SYM	O	O	O
-"	SYM	O	O	O
-रविशंकर	RDP	O	O	O
-प्रसाद	XC	O	O	O
-(	SYM	O	O	O
-केंद्रीय	XC	O	O	O
-मंत्री	NN	O	O	O
-एवं	CC	O	O	O
-स्थानीय	JJ	O	O	O
-भाजपा	NN	O	O	O
-सांसद	JJ	O	O	O
-)	SYM	O	O	O
-और	CC	O	O	O
-उप	JJ	O	O	O
-मुख्यमंत्री	NN	O	O	O
-सुशील	XC	O	O	O
-कुमार	NNP	O	O	O
-मोदी	NN	O	O	O
-ने	PSP	O	O	O
-पहले	NST	O	O	O
-ही	RP	O	O	O
-दुर्गा	JJ	O	O	O
-पूजा	NN	O	O	O
-समारोह	NN	O	O	O
-से	PSP	O	O	O
-दूर	NST	O	O	O
-रहने	VM	O	O	O
-की	PSP	O	O	O
-घोषणा	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रखी	VAUX	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-लेकिन	CC	O	O	O
-बाकी	JJ	O	O	O
-भाजपा	NN	O	O	O
-नेताओं	NN	O	O	O
-को	PSP	O	O	O
-उपस्थित	JJ	O	B-MISC	OCC
-होना	VM	O	I-MISC	O
-चाहिए	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-"	SYM	O	O	O
-केंद्रीय	XC	O	O	O
-मंत्री	NN	O	O	O
-प्रसाद	NN	O	O	O
-ने	PSP	O	O	O
-"	SYM	O	O	O
-नवरात्रि	NN	O	O	O
-"	SYM	O	O	O
-से	PSP	O	O	O
-पहले	NST	O	O	O
-कहा	VM	O	B-MISC	REP
-था	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-वह	PRP	O	O	O
-पटना	XC	O	O	O
-शहर	NN	O	O	O
-में	PSP	O	O	O
-पिछले	JJ	B	O	O
-महीने	NN	I	O	O
-के	PSP	O	O	O
-अंत	NN	O	O	O
-में	PSP	O	O	O
-मूसलाधार	JJ	O	O	O
-बारिश	NN	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	B-STAT	O
-हुए	VM	O	I-STAT	O
-जलजमाव	NN	O	O	O
-से	PSP	O	O	O
-लोगों	NN	O	O	O
-को	PSP	O	O	O
-हुई	VM	O	O	O
-कठिनाई	NN	O	O	O
-से	PSP	O	O	O
-दुखी	NN	O	B-STAT	O
-हैं	VM	O	I-STAT	O
-.	SYM	O	O	O
-भाजपा	NN	O	O	O
-के	PSP	O	O	O
-प्रदेश	NN	O	O	O
-अध्यक्ष	JJ	O	O	O
-संजय	XC	O	O	O
-जायसवाल	NNP	O	O	O
-ने	PSP	O	O	O
-स्पष्ट	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-,	SYM	O	O	O
-"	SYM	O	O	O
-मैं	PRP	O	O	O
-नेपाल	NNP	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-मंदिर	NN	O	O	O
-में	PSP	O	O	O
-प्रार्थना	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पार्टी	NN	O	O	O
-के	PSP	O	O	O
-अन्य	JJ	O	O	O
-नेता	NN	O	O	O
-इसी	DEM	O	O	O
-तरह	NN	O	O	O
-अन्य	JJ	O	O	O
-जगहों	NN	O	O	O
-पर	PSP	O	O	O
-पहले	NST	O	O	O
-से	PSP	O	O	O
-मौजूद	JJ	O	B-STAT	DEC
-थे	VM	O	I-STAT	O
-.	SYM	O	O	O
-कृपया	RB	O	O	O
-इस	DEM	O	O	O
-प्रकरण	NN	O	O	O
-को	PSP	O	O	O
-राजनीतिक	JJ	O	O	O
-चश्मे	NN	O	O	O
-से	PSP	O	O	O
-न	NEG	O	B-MISC	OCC
-देखें	VM	O	I-MISC	O
-.	SYM	O	O	O
-"	SYM	O	O	O
-पाटलिपुत्र	NN	O	O	O
-के	PSP	O	O	O
-सांसद	JJ	O	O	O
-राम	XC	O	O	O
-कृपाल	XC	O	O	O
-यादव	NN	O	O	O
-से	PSP	O	O	O
-उनकी	PRP	O	O	O
-अनुपस्थिति	NN	O	O	O
-के	PSP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-पूछे	VM	O	B-MISC	OCC
-जाने	VAUX	O	I-MISC	O
-पर	PSP	O	O	O
-उन्होंने	PRP	O	O	O
-इसका	PRP	O	O	O
-सीधा	JJ	O	O	O
-जवाब	NN	O	O	O
-देने	VM	O	O	O
-से	PSP	O	O	O
-बचते	VM	O	B-MISC	OCC
-हुए	VAUX	O	I-MISC	O
-कहा	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-"	SYM	O	O	O
-रावण	NN	O	O	O
-वध	NN	O	O	O
-के	PSP	O	O	O
-दृश्य	NN	O	O	O
-को	PSP	O	O	O
-याद	NN	O	B-STAT	O
-करने	VM	O	I-STAT	O
-वाले	PSP	O	I-STAT	O
-सभी	QF	O	O	O
-लोग	NN	O	O	O
-अगले	JJ	O	O	O
-साल	NN	O	O	O
-होने	VM	O	O	O
-वाले	PSP	O	O	O
-विधानसभा	JJ	O	O	O
-चुनावों	NN	O	O	O
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-राक्षस	XC	O	O	O
-राजा	NN	O	O	O
-की	PSP	O	O	O
-तरह	NN	O	O	O
-मारे	VM	O	B-MISC	OCC
-जाएंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मेरा	PRP	O	O	O
-यह	DEM	O	O	O
-कथन	NN	O	O	O
-गांधी	NNP	O	O	O
-मैदान	NN	O	O	O
-में	PSP	O	O	O
-मौजूद	JJ	O	O	O
-विपक्षी	JJ	O	O	O
-नेताओं	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	B-MISC	O
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-किसी	PRP	O	O	O
-अन्य	JJ	O	O	O
-के	PSP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-नहीं	NEG	O	O	O
-.	SYM	O	O	O
-"	SYM	O	O	O
-बिहार	NNP	O	O	O
-विधान	JJ	O	O	O
-परिषद	NN	O	O	O
-में	PSP	O	O	O
-कांग्रेस	XC	O	O	O
-सदस्य	NN	O	O	O
-प्रेमचंद्र	XC	O	O	O
-मिश्रा	NNP	O	O	O
-ने	PSP	O	O	O
-आरोप	NN	O	B-MISC	OCC
-लगाया	VM	O	I-MISC	O
-कि	CC	O	O	O
-ऐसा	PRP	O	O	O
-लगता	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-भाजपा	NN	O	O	O
-के	PSP	O	O	O
-नेता	NN	O	O	O
-,	SYM	O	O	O
-जिनमें	PRP	O	O	O
-से	PSP	O	O	O
-कई	QF	O	O	O
-स्थानीय	JJ	O	O	O
-सांसद	NN	O	O	O
-और	CC	O	O	O
-विधायक	JJ	O	O	O
-हैं	VM	O	O	O
-,	SYM	O	O	O
-वे	PRP	O	O	O
-इस	DEM	O	O	O
-बात	NN	O	O	O
-को	PSP	O	O	O
-लेकर	VM	O	O	IAC
-डरे	VM	O	B-MISC	OCC
-हुए	VAUX	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-उनके	PRP	O	O	O
-उस	DEM	O	O	O
-समारोह	NN	O	O	O
-में	PSP	O	O	O
-शामिल	JJ	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-स्थानीय	JJ	O	O	O
-लोग	NN	O	O	O
-जलजमाव	NN	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	B-STAT	O
-हुई	VM	O	I-STAT	O
-कठिनाई	NN	O	O	O
-के	PSP	O	O	O
-मद्देनजर	NN	O	O	O
-भड़क	NN	O	B-MISC	O
-जाएंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-केंद्रीय	XC	O	O	O
-मंत्री	NN	O	O	O
-गिरिराज	XC	O	O	O
-सिंह	NNP	O	O	O
-और	CC	O	O	O
-भाजपा	NN	O	O	O
-के	PSP	O	O	O
-अन्य	JJ	O	O	O
-नेताओं	NN	O	O	O
-द्वारा	PSP	O	O	O
-मुख्यमंत्री	JJ	O	O	O
-नीतीश	XC	O	O	O
-कुमार	NNP	O	O	O
-पर	PSP	O	O	O
-लगातार	RB	O	B-MISC	O
-किए	VM	O	I-MISC	OCC
-जा	VAUX	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-प्रहार	NN	O	O	O
-की	PSP	O	O	O
-ओर	PSP	O	O	O
-इशारा	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-इसे	PRP	O	O	O
-नीतीश	NN	O	O	OCC
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-मुसीबतें	NN	O	O	O
-खड़ी	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-की	PSP	O	O	O
-साजिश	NN	O	O	OCC
-बताया	VM	O	B-MISC	O
-.	SYM	O	O	O
+बिहार
+की
+राजधानी
+पटना
+में
+मंगलवार
+को
+आयोजित
+दशहरा
+समारोह
+में
+भाजपा
+नेताओं
+की
+अनुपस्थिति
+को
+लेकर
+राजनीतिक
+बयानबाजी
+शुरू
+हो
+गयी
+है
+.
+पटना
+के
+गांधी
+मैदान
+में
+मंगलवार
+को
+आयोजित
+दशहरा
+समारोह
+में
+जहां
+मुख्यमंत्री
+नीतीश
+कुमार
+और
+विपक्षी
+महागठबंधन
+में
+शामिल
+कांग्रेस
+के
+प्रदेश
+अध्यक्ष
+मदन
+मोहन
+झा
+उपस्थित
+रहे
+,
+लेकिन
+उपमुख्यमंत्री
+सुशील
+कुमार
+मोदी
+सहित
+भाजपा
+के
+स्थानीय
+सांसद
+और
+अन्य
+नेता
+अनुपस्थित
+रहे
+थे
+.
+जदयू
+प्रवक्ता
+राजीव
+रंजन
+प्रसाद
+ने
+बुधवार
+को
+कहा
+,
+"
+रविशंकर
+प्रसाद
+(
+केंद्रीय
+मंत्री
+एवं
+स्थानीय
+भाजपा
+सांसद
+)
+और
+उप
+मुख्यमंत्री
+सुशील
+कुमार
+मोदी
+ने
+पहले
+ही
+दुर्गा
+पूजा
+समारोह
+से
+दूर
+रहने
+की
+घोषणा
+कर
+रखी
+थी
+,
+लेकिन
+बाकी
+भाजपा
+नेताओं
+को
+उपस्थित
+होना
+चाहिए
+था
+.
+"
+केंद्रीय
+मंत्री
+प्रसाद
+ने
+"
+नवरात्रि
+"
+से
+पहले
+कहा
+था
+कि
+वह
+पटना
+शहर
+में
+पिछले
+महीने
+के
+अंत
+में
+मूसलाधार
+बारिश
+के
+कारण
+हुए
+जलजमाव
+से
+लोगों
+को
+हुई
+कठिनाई
+से
+दुखी
+हैं
+.
+भाजपा
+के
+प्रदेश
+अध्यक्ष
+संजय
+जायसवाल
+ने
+स्पष्ट
+किया
+,
+"
+मैं
+नेपाल
+में
+एक
+मंदिर
+में
+प्रार्थना
+करने
+गया
+था
+.
+पार्टी
+के
+अन्य
+नेता
+इसी
+तरह
+अन्य
+जगहों
+पर
+पहले
+से
+मौजूद
+थे
+.
+कृपया
+इस
+प्रकरण
+को
+राजनीतिक
+चश्मे
+से
+न
+देखें
+.
+"
+पाटलिपुत्र
+के
+सांसद
+राम
+कृपाल
+यादव
+से
+उनकी
+अनुपस्थिति
+के
+बारे
+में
+पूछे
+जाने
+पर
+उन्होंने
+इसका
+सीधा
+जवाब
+देने
+से
+बचते
+हुए
+कहा
+,
+"
+रावण
+वध
+के
+दृश्य
+को
+याद
+करने
+वाले
+सभी
+लोग
+अगले
+साल
+होने
+वाले
+विधानसभा
+चुनावों
+के
+दौरान
+राक्षस
+राजा
+की
+तरह
+मारे
+जाएंगे
+.
+मेरा
+यह
+कथन
+गांधी
+मैदान
+में
+मौजूद
+विपक्षी
+नेताओं
+को
+लेकर
+हैं
+,
+किसी
+अन्य
+के
+बारे
+में
+नहीं
+.
+"
+बिहार
+विधान
+परिषद
+में
+कांग्रेस
+सदस्य
+प्रेमचंद्र
+मिश्रा
+ने
+आरोप
+लगाया
+कि
+ऐसा
+लगता
+है
+कि
+भाजपा
+के
+नेता
+,
+जिनमें
+से
+कई
+स्थानीय
+सांसद
+और
+विधायक
+हैं
+,
+वे
+इस
+बात
+को
+लेकर
+डरे
+हुए
+थे
+कि
+उनके
+उस
+समारोह
+में
+शामिल
+होने
+पर
+स्थानीय
+लोग
+जलजमाव
+के
+कारण
+हुई
+कठिनाई
+के
+मद्देनजर
+भड़क
+जाएंगे
+.
+उन्होंने
+केंद्रीय
+मंत्री
+गिरिराज
+सिंह
+और
+भाजपा
+के
+अन्य
+नेताओं
+द्वारा
+मुख्यमंत्री
+नीतीश
+कुमार
+पर
+लगातार
+किए
+जा
+रहे
+प्रहार
+की
+ओर
+इशारा
+करते
+हुए
+इसे
+नीतीश
+के
+लिए
+मुसीबतें
+खड़ी
+करने
+की
+साजिश
+बताया
+.

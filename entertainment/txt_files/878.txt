@@ -1,241 +1,241 @@
-भोजपुरी	JJ	O	O	O
-फिल्मों	NN	O	O	O
-के	PSP	O	O	O
-सुपरस्टार	JJ	O	O	O
-खेसारी	NN	O	O	O
-लाल	JJ	O	O	O
-यादव	NN	O	O	O
-की	PSP	O	O	O
-नई	JJ	O	O	O
-फिल्म	XC	O	O	O
-'	SYM	O	O	O
-भाग	NN	O	O	O
-खेसारी	XC	O	O	O
-भाग	NN	O	O	O
-'	SYM	O	O	O
-का	PSP	O	O	O
-टीजर	NN	O	O	O
-यूट्यूब	NN	O	O	O
-पर	PSP	O	O	O
-रिलीज	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-चुका	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-फिल्म	NN	O	O	O
-के	PSP	O	O	O
-टीजर	NN	O	O	O
-ने	PSP	O	O	O
-यूट्यूब	NN	O	O	O
-पर	PSP	O	O	O
-आते	VM	O	B-MISC	OCC
-ही	RP	O	O	O
-धूम	NN	O	B-MISC	O
-मचा	VM	O	I-MISC	OCC
-दी	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-टीजर	NN	O	O	O
-में	PSP	O	O	O
-खेसरी	NN	O	O	O
-लाल	JJ	O	O	O
-एक	QC	O	O	O
-एथलीट	NN	O	O	O
-के	PSP	O	O	O
-रूप	NN	O	O	O
-में	PSP	O	O	O
-नजर	NN	O	O	O
-आ	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-छठ	QC	O	O	O
-पर्व	NN	O	O	O
-के	PSP	O	O	O
-मौके	NN	O	O	O
-पर	PSP	O	O	O
-रिलीज	NN	O	O	O
-होने	VM	O	O	O
-वाली	PSP	O	O	O
-फिल्म	NN	O	O	O
-'	SYM	O	O	O
-भाग	NN	O	O	O
-खेसारी	XC	O	O	O
-भाग	NN	O	O	O
-'	SYM	O	O	O
-का	PSP	O	O	O
-टीजर	NN	O	O	O
-दशहरे	NN	O	O	O
-के	PSP	O	O	O
-दिन	NN	O	O	O
-लॉन्च	VM	O	B-MISC	OCC
-हुआ	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-फिल्म	NN	O	O	O
-में	PSP	O	O	O
-खेसारी	NN	O	O	O
-लाल	JJ	O	O	O
-यादव	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-स्मृति	XC	O	O	O
-सिन्हा	NNP	O	O	O
-लीड	XC	O	O	O
-रोल	NN	O	O	O
-में	PSP	O	O	O
-दिखाई	VM	O	B-MISC	OCC
-देंगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-52	QC	O	O	O
-सेकेंड	NN	O	O	O
-के	PSP	O	O	O
-टीजर	NN	O	O	O
-में	PSP	O	O	O
-खेसारी	NN	O	B-MISC	OCC
-दौड़ते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-या	CC	O	O	O
-फिर	RB	O	O	O
-उसका	PRP	O	O	O
-अभ्यास	NN	O	B-MISC	O
-करते	VM	O	I-MISC	O
-दिखाई	VM	O	B-MISC	OCC
-दे	VAUX	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-अंत	NN	O	O	O
-में	PSP	O	O	O
-स्मृति	XC	O	O	O
-सिन्हा	NNP	O	O	O
-उन्हें	PRP	O	O	O
-स्टेडियम	NN	O	O	O
-में	PSP	O	O	O
-चीयर्स	NN	O	O	OCC
-करती	VM	O	B-MISC	O
-हुई	VAUX	O	I-MISC	O
-दिखाई	VM	O	B-MISC	OCC
-दे	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-खेसारी	NN	O	O	O
-लाल	JJ	O	O	O
-यादव	NN	O	O	O
-के	PSP	O	O	O
-इस	DEM	O	O	O
-विडियो	NN	O	O	O
-को	PSP	O	O	O
-देखकर	VM	O	B-MISC	OCC
-ऐसा	PRP	O	O	O
-लग	VM	O	B-MISC	OCC
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इस	PRP	O	O	O
-बार	RP	O	O	O
-वह	PRP	O	O	O
-फैन्स	NN	O	O	O
-को	PSP	O	O	O
-अपने	PRP	O	O	O
-अलग	JJ	O	O	O
-अंदाज	NN	O	O	O
-से	PSP	O	O	O
-एक	QC	O	O	O
-बड़ा	XC	O	O	O
-सरप्राइज	NN	O	O	O
-देने	VM	O	B-MISC	OCC
-वाले	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-भाग	NN	O	O	O
-खेसार	JJ	O	O	O
-भाग	NN	O	O	O
-'	SYM	O	O	O
-के	PSP	O	O	O
-टीजर	NN	O	O	O
-को	PSP	O	O	O
-यूट्यूब	NN	O	O	O
-अब	PRP	O	O	O
-तक	RP	O	O	O
-14	QC	O	O	O
-लाख	QC	O	O	O
-से	PSP	O	O	O
-ज्यादा	QF	O	O	O
-बार	RP	O	O	O
-देखा	VM	O	B-MISC	OCC
-जा	VAUX	O	I-MISC	O
-चुका	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जाहिर	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-यूट्यूब	NN	O	O	O
-पर	PSP	O	O	O
-'	SYM	O	O	O
-भाग	NN	O	O	O
-खेसारी	XC	O	O	O
-भाग	NN	O	O	O
-'	SYM	O	O	O
-के	PSP	O	O	O
-टीजर	NN	O	O	O
-को	PSP	O	O	O
-दर्शकों	NN	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-काफी	QF	O	O	O
-पसंद	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-जा	VAUX	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बता	VM	O	B-STAT	O
-दें	VAUX	O	I-STAT	O
-इस	DEM	O	O	O
-फिल्म	NN	O	O	O
-में	PSP	O	O	O
-अयाज	XC	O	O	O
-खान	NN	O	O	O
-,	SYM	O	O	O
-अमित	JJ	O	O	O
-शुक्ला	NN	O	O	O
-,	SYM	O	O	O
-संजय	XC	O	O	O
-वर्मा	NNP	O	O	O
-जैसे	PSP	O	O	O
-कलाकार	NN	O	O	O
-भी	RP	O	O	O
-अपने	PRP	O	O	O
-अभिनय	NN	O	O	O
-का	PSP	O	O	O
-जलवा	NN	O	O	O
-बिखेरते	VM	O	B-MISC	O
-दिखाई	VM	O	I-MISC	OCC
-देंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-भोजपुरी	JJ	O	O	O
-दर्शकों	NN	O	O	O
-के	PSP	O	O	O
-बीच	NST	O	O	O
-काफी	QF	B	O	O
-समय	NN	I	O	O
-बाद	NST	O	O	O
-खेसारी	XC	O	O	O
-लाल	NNP	O	O	O
-और	CC	O	O	O
-स्मृति	XC	O	O	O
-सिन्हा	NNP	O	O	O
-की	PSP	O	O	O
-जोड़ी	XC	O	O	O
-धमाल	NN	O	O	O
-मचाने	VM	O	O	O
-को	PSP	O	O	O
-तैयार	JJ	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-NBT	NN	O	O	O
+भोजपुरी
+फिल्मों
+के
+सुपरस्टार
+खेसारी
+लाल
+यादव
+की
+नई
+फिल्म
+'
+भाग
+खेसारी
+भाग
+'
+का
+टीजर
+यूट्यूब
+पर
+रिलीज
+हो
+चुका
+है
+.
+इस
+फिल्म
+के
+टीजर
+ने
+यूट्यूब
+पर
+आते
+ही
+धूम
+मचा
+दी
+है
+.
+टीजर
+में
+खेसरी
+लाल
+एक
+एथलीट
+के
+रूप
+में
+नजर
+आ
+रहे
+हैं
+.
+छठ
+पर्व
+के
+मौके
+पर
+रिलीज
+होने
+वाली
+फिल्म
+'
+भाग
+खेसारी
+भाग
+'
+का
+टीजर
+दशहरे
+के
+दिन
+लॉन्च
+हुआ
+है
+.
+इस
+फिल्म
+में
+खेसारी
+लाल
+यादव
+के
+साथ
+स्मृति
+सिन्हा
+लीड
+रोल
+में
+दिखाई
+देंगी
+.
+52
+सेकेंड
+के
+टीजर
+में
+खेसारी
+दौड़ते
+हुए
+या
+फिर
+उसका
+अभ्यास
+करते
+दिखाई
+दे
+रहे
+हैं
+और
+अंत
+में
+स्मृति
+सिन्हा
+उन्हें
+स्टेडियम
+में
+चीयर्स
+करती
+हुई
+दिखाई
+दे
+रही
+हैं
+.
+खेसारी
+लाल
+यादव
+के
+इस
+विडियो
+को
+देखकर
+ऐसा
+लग
+रहा
+है
+कि
+इस
+बार
+वह
+फैन्स
+को
+अपने
+अलग
+अंदाज
+से
+एक
+बड़ा
+सरप्राइज
+देने
+वाले
+हैं
+.
+'
+भाग
+खेसार
+भाग
+'
+के
+टीजर
+को
+यूट्यूब
+अब
+तक
+14
+लाख
+से
+ज्यादा
+बार
+देखा
+जा
+चुका
+है
+.
+जाहिर
+है
+यूट्यूब
+पर
+'
+भाग
+खेसारी
+भाग
+'
+के
+टीजर
+को
+दर्शकों
+के
+बीच
+काफी
+पसंद
+किया
+जा
+रहा
+है
+.
+बता
+दें
+इस
+फिल्म
+में
+अयाज
+खान
+,
+अमित
+शुक्ला
+,
+संजय
+वर्मा
+जैसे
+कलाकार
+भी
+अपने
+अभिनय
+का
+जलवा
+बिखेरते
+दिखाई
+देंगे
+.
+भोजपुरी
+दर्शकों
+के
+बीच
+काफी
+समय
+बाद
+खेसारी
+लाल
+और
+स्मृति
+सिन्हा
+की
+जोड़ी
+धमाल
+मचाने
+को
+तैयार
+है
+.
+NBT

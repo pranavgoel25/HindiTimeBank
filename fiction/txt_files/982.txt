@@ -1,440 +1,440 @@
-आज	NN	B	O	O
-दस	QC	B	O	O
-साल	NN	I	O	O
-से	PSP	O	O	O
-जब्त	JJ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-अपने	PRP	O	O	O
-इस	DEM	O	O	O
-नन्हे-से	JJ	O	O	O
-ह्रदय	NN	O	O	O
-में	PSP	O	O	O
-अग्नि	NN	O	O	O
-का	PSP	O	O	O
-दहकता	NN	O	B-MISC	O
-हुआ	VM	O	I-MISC	O
-कुण्ड	NN	O	B-MISC	OCC
-छिपाये	VM	O	I-MISC	O
-बैठा	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-संसार	NN	O	O	O
-में	PSP	O	O	O
-कहीं	PRP	O	O	O
-शान्ति	NN	O	B-MISC	O
-होगी	VM	O	I-MISC	OCC
-,	SYM	O	O	O
-कहीं	RDP	O	O	O
-सैर-तमाशे	VM	O	B-MISC	OCC
-होंगे	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-कहीं	PRP	O	O	O
-मनोरंजन	NN	O	O	O
-की	PSP	O	O	O
-वस्तुएं	NN	O	O	O
-होंगी	VM	O	B-MISC	O
-;	SYM	O	O	O
-मेरे	PRP	O	O	O
-लिए	PSP	O	O	O
-तो	RP	O	O	O
-अब	PRP	O	O	O
-यही	DEM	O	O	O
-अग्निराशि	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-और	CC	O	O	O
-कुछ	QF	O	O	O
-नहीं	NEG	O	O	O
-.	SYM	O	O	O
-जीवन	NN	O	O	O
-की	PSP	O	O	O
-सारी	QF	O	O	O
-अभिलाषाएं	NN	O	O	O
-इसी	DEM	O	O	O
-में	PSP	O	O	O
-जलकर	VM	O	B-MISC	OCC
-राख	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गयीं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-किससे	WQ	O	O	O
-अपनी	PRP	O	O	O
-मनोव्यथा	NN	O	O	O
-कहूं	VM	O	O	O
-?	SYM	O	O	O
-फायदा	NN	O	O	O
-ही	RP	O	O	O
-क्या	WQ	O	O	O
-?	SYM	O	O	O
-जिसके	PRP	O	O	O
-भाग्य	NN	O	O	O
-में	PSP	O	O	O
-रुदन	NN	O	O	O
-,	SYM	O	O	O
-अनंत	XC	O	O	O
-रुदन	NN	O	O	O
-हो	VM	O	O	O
-,	SYM	O	O	O
-उसका	PRP	O	O	O
-मर	VM	O	B-MISC	OCC
-जाना	VAUX	O	I-MISC	O
-ही	RP	O	O	O
-अच्छा	JJ	O	O	O
-.	SYM	O	O	O
-मैंने	PRP	O	O	O
-पहली	QO	O	O	O
-बार	RP	O	O	O
-तारा	NNP	O	O	O
-को	PSP	O	O	O
-उस	DEM	O	O	O
-वक्त	NN	O	O	O
-देखा	VM	O	O	O
-,	SYM	O	O	O
-जब	PRP	O	O	O
-मेरी	PRP	O	O	O
-उम्र	NN	O	O	O
-दस	QC	O	O	O
-साल	NN	O	O	O
-की	VM	O	B-MISC	OCC
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मेरे	PRP	O	O	O
-पिता	NN	O	O	O
-आगरे	NN	O	O	O
-के	PSP	O	O	O
-एक	QC	O	O	O
-अच्छे	JJ	O	O	O
-डाक्टर	NN	O	B-STAT	O
-थे	VM	O	I-STAT	O
-.	SYM	O	O	O
-लखनऊ	NN	O	O	O
-में	PSP	O	O	O
-मेरे	PRP	O	O	O
-एक	QC	O	O	O
-चचा	NN	O	O	O
-रहते	VM	O	B-STAT	OCC
-थे	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-उन्होंने	PRP	O	O	O
-वकालत	NN	O	O	O
-में	PSP	O	O	O
-काफी	QF	O	O	O
-धन	NN	O	B-MISC	OCC
-कमाया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-उन	DEM	O	O	O
-दिनों	NN	O	O	O
-चचा	NN	O	O	O
-ही	RP	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-रहता	VM	O	B-MISC	OCC
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-चचा	NN	O	O	O
-के	PSP	O	O	O
-कोई	PRP	O	O	O
-सन्तान	NN	O	O	O
-न	NEG	O	O	O
-थी	VM	O	O	O
-;	SYM	O	O	O
-इसलिए	CC	O	O	O
-मैं	PRP	O	O	O
-ही	RP	O	O	O
-उनका	PRP	O	O	O
-वारिस	NN	O	B-MISC	OCC
-था	VM	O	I-MISC	O
-.	SYM	O	O	O
-चचा	NNP	O	O	O
-और	CC	O	O	O
-चची	NN	O	O	O
-दोनों	JJ	O	O	O
-मुझे	PRP	O	O	O
-अपना	PRP	O	O	O
-पुत्र	NN	O	O	O
-समझते	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मेरी	PRP	O	O	O
-माता	XC	O	O	O
-बचपन	NN	O	O	O
-ही	RP	O	O	O
-में	PSP	O	O	O
-सिधार	VM	O	B-MISC	OCC
-चुकी	VAUX	O	I-MISC	O
-थीं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मातृ-स्नेह	NN	O	O	O
-का	PSP	O	O	O
-जो	PRP	O	O	O
-कुछ	QF	O	O	O
-प्रसाद	NN	O	O	O
-मुझे	PRP	O	O	O
-मिला	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-वह	PRP	O	O	O
-चचीजी	NN	O	O	O
-ही	RP	O	O	O
-की	PSP	O	O	O
-भिक्षा	NN	O	O	OCC
-थी	VM	O	B-STAT	O
-.	SYM	O	O	O
-वही	PRP	O	O	O
-भिक्षा	NN	O	O	O
-मेरे	PRP	O	O	O
-उस	DEM	O	O	O
-मातृ-प्रेम	NN	O	O	O
-से	PSP	O	O	O
-वंचित	JJ	O	O	O
-बालपन	NN	O	O	O
-की	PSP	O	O	O
-सारी	QF	O	O	O
-विभूति	NN	O	B-MISC	O
-थी	VM	O	I-MISC	DECL
-.	SYM	O	O	O
-चचा	VM	O	O	O
-साहब	NN	O	O	O
-के	PSP	O	O	O
-पड़ोस	NN	O	O	O
-में	PSP	O	O	O
-हमारी	PRP	O	O	O
-बिरादरी	NN	O	O	O
-के	PSP	O	O	O
-एक	QC	O	O	O
-बाबू	XC	O	O	O
-साहब	NN	O	O	O
-और	CC	O	O	O
-रहते	VM	O	B-STAT	OCC
-थे	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-रेलवे-विभाग	NN	O	O	O
-में	PSP	O	O	O
-किसी	PRP	O	O	O
-अच्छे	JJ	O	O	O
-ओहदे	NN	O	O	O
-पर	PSP	O	O	O
-थे	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-दो-ढाई	NN	O	O	O
-सौ	QC	O	O	O
-रुपये	NN	O	O	O
-पाते	VM	O	B-MISC	OCC
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-नाम	NN	O	O	O
-था	VM	O	O	O
-विमलचन्द्र	XC	O	O	O
-.	SYM	O	O	O
-तारा	NNP	O	O	O
-उन्हीं	PRP	O	O	O
-की	PSP	O	O	O
-पुत्री	NN	O	B-MISC	OCC
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-उस	DEM	O	O	O
-वक्त	NN	O	O	O
-उसकी	PRP	O	O	O
-उम्र	NN	O	O	O
-पांच	QC	O	O	O
-साल	NN	O	O	O
-की	PSP	O	O	O
-होगी	VM	O	B-MISC	O
-.	SYM	O	O	O
-बचपन	NN	O	O	O
-का	PSP	O	O	O
-वह	PRP	O	O	O
-दिन	NN	O	O	O
-आज	NN	O	O	O
-भी	RP	O	O	O
-आंखों	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-जब	PRP	O	O	O
-तारा	NNP	O	O	O
-एक	QC	O	O	O
-फ्रॉक	NN	O	O	O
-पहने	VM	O	O	O
-,	SYM	O	O	O
-बालों	NN	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-गुलाब	NN	O	O	O
-का	PSP	O	O	O
-फूल	NN	O	B-MISC	OCC
-गूंथे	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-मेरे	PRP	O	O	O
-सामने	NST	O	B-MISC	O
-आकर	VM	O	I-MISC	O
-खड़ी	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गयी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कह	VM	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-क्यों	WQ	O	O	O
-मैं	PRP	O	O	O
-उसे	PRP	O	O	O
-देखकर	VM	O	B-MISC	OCC
-झेंप-सा	VAUX	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मुझे	PRP	O	O	O
-वह	PRP	O	O	O
-देव-कन्या	NN	O	O	O
-सी	RP	O	O	O
-मालूम	JJ	O	B-MISC	O
-हुई	VM	O	I-MISC	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-उषा-काल	NN	O	O	O
-के	PSP	O	O	O
-सौरभ	NN	O	O	O
-और	CC	O	O	O
-प्रकाश	NN	O	O	O
-से	PSP	O	O	O
-रंजित	JJ	O	O	O
-आकाश	NN	O	O	O
-से	PSP	O	O	O
-उतर	VM	O	B-MISC	OCC
-आयी	VAUX	O	I-MISC	O
-हो	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उस	DEM	O	O	O
-दिन	NN	O	O	O
-से	PSP	O	O	O
-तारा	NNP	O	O	O
-अक्सर	RB	O	O	O
-मेरे	PRP	O	O	O
-घर	NN	O	O	O
-आती	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-उसके	PRP	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-खेलने	VM	O	B-MISC	O
-की	PSP	O	O	O
-जगह	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-थी	VM	O	I-MISC	O
-.	SYM	O	O	O
-चचा	NN	O	O	O
-साहब	RP	O	O	O
-के	PSP	O	O	O
-घर	NN	O	O	O
-के	PSP	O	O	O
-सामने	NST	O	O	O
-लम्बा-चौड़ा	RDP	O	O	O
-मैदान	NN	O	O	O
-था	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-वहीं	PRP	O	O	O
-वह	PRP	O	O	O
-खेला	NN	O	B-MISC	O
-करती	VM	O	I-MISC	O
-.	SYM	O	O	O
-धीरे-धीरे	NN	O	O	O
-मैं	PRP	O	O	O
-भी	RP	O	O	O
-उससे	PRP	O	O	O
-मानूस	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-जब	PRP	O	O	O
-स्कूल	NN	O	O	O
-से	PSP	O	O	O
-लौटता	VM	O	B-MISC	OCC
-तो	CC	O	O	O
-तारा	XC	O	O	O
-दौड़कर	NNP	O	O	O
-मेरे	PRP	O	O	O
-हाथों	NN	O	O	O
-से	PSP	O	O	O
-किताबों	NN	O	O	O
-का	PSP	O	O	O
-बस्ता	NN	O	O	O
-ले	VM	O	B-MISC	OCC
-लेती	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जब	PRP	O	O	O
-मैं	PRP	O	O	O
-स्कूल	NN	O	B-MISC	O
-जाने	VM	O	I-MISC	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-गाड़ी	NNP	O	O	O
-पर	PSP	O	O	O
-बैठता	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-तो	CC	O	O	O
-वह	PRP	O	O	O
-भी	RP	O	O	O
-आकर	VM	O	B-MISC	OCC
-मेरे	PRP	O	O	O
-साथ	NST	O	O	O
-बैठ	VM	O	B-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-एक	QC	B	O	O
-दिन	NN	I	O	O
-उसके	PRP	O	O	O
-सामने	NST	O	O	O
-चची	NN	O	O	O
-ने	PSP	O	O	O
-चचाजी	NN	O	O	O
-से	PSP	O	O	O
-कहा	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-'	SYM	O	O	O
-तारा	NNP	O	O	O
-को	PSP	O	O	O
-मैं	PRP	O	O	O
-अपनी	PRP	O	O	O
-बहू	NN	O	B-MISC	O
-बनाऊंगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-क्यों	WQ	O	O	O
-कृष्णा	XC	O	O	O
-,	SYM	O	O	O
-तू	PRP	O	O	O
-तारा	NN	O	O	O
-से	PSP	O	O	O
-ब्याह	NN	O	O	O
-करेगा	VM	O	O	O
-?	SYM	O	O	O
-'	SYM	O	O	O
-मैं	PRP	O	O	O
-मारे	VM	O	O	O
-शर्म	NN	O	O	O
-के	PSP	O	O	O
-बाहर	NST	O	O	O
-भाग	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-;	SYM	O	O	O
-लेकिन	CC	O	O	O
-तारा	NNP	O	O	O
-वहीं	PRP	O	O	O
-खड़ी	XC	O	B-MISC	O
-रही	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-मानो	RP:?	O	O	O
-चची	NN	O	O	O
-ने	PSP	O	O	O
-उसे	PRP	O	O	O
-मिठाई	NN	O	B-MISC	OCC
-देने	VM	O	I-MISC	O
-को	PSP	O	O	O
-बुलाया	VM	O	B-MISC	OCC
-हो	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+आज
+दस
+साल
+से
+जब्त
+कर
+रहा
+हूं
+.
+अपने
+इस
+नन्हे-से
+ह्रदय
+में
+अग्नि
+का
+दहकता
+हुआ
+कुण्ड
+छिपाये
+बैठा
+हूं
+.
+संसार
+में
+कहीं
+शान्ति
+होगी
+,
+कहीं
+सैर-तमाशे
+होंगे
+,
+कहीं
+मनोरंजन
+की
+वस्तुएं
+होंगी
+;
+मेरे
+लिए
+तो
+अब
+यही
+अग्निराशि
+है
+और
+कुछ
+नहीं
+.
+जीवन
+की
+सारी
+अभिलाषाएं
+इसी
+में
+जलकर
+राख
+हो
+गयीं
+.
+किससे
+अपनी
+मनोव्यथा
+कहूं
+?
+फायदा
+ही
+क्या
+?
+जिसके
+भाग्य
+में
+रुदन
+,
+अनंत
+रुदन
+हो
+,
+उसका
+मर
+जाना
+ही
+अच्छा
+.
+मैंने
+पहली
+बार
+तारा
+को
+उस
+वक्त
+देखा
+,
+जब
+मेरी
+उम्र
+दस
+साल
+की
+थी
+.
+मेरे
+पिता
+आगरे
+के
+एक
+अच्छे
+डाक्टर
+थे
+.
+लखनऊ
+में
+मेरे
+एक
+चचा
+रहते
+थे
+.
+उन्होंने
+वकालत
+में
+काफी
+धन
+कमाया
+था
+.
+मैं
+उन
+दिनों
+चचा
+ही
+के
+साथ
+रहता
+था
+.
+चचा
+के
+कोई
+सन्तान
+न
+थी
+;
+इसलिए
+मैं
+ही
+उनका
+वारिस
+था
+.
+चचा
+और
+चची
+दोनों
+मुझे
+अपना
+पुत्र
+समझते
+थे
+.
+मेरी
+माता
+बचपन
+ही
+में
+सिधार
+चुकी
+थीं
+.
+मातृ-स्नेह
+का
+जो
+कुछ
+प्रसाद
+मुझे
+मिला
+,
+वह
+चचीजी
+ही
+की
+भिक्षा
+थी
+.
+वही
+भिक्षा
+मेरे
+उस
+मातृ-प्रेम
+से
+वंचित
+बालपन
+की
+सारी
+विभूति
+थी
+.
+चचा
+साहब
+के
+पड़ोस
+में
+हमारी
+बिरादरी
+के
+एक
+बाबू
+साहब
+और
+रहते
+थे
+.
+वह
+रेलवे-विभाग
+में
+किसी
+अच्छे
+ओहदे
+पर
+थे
+.
+दो-ढाई
+सौ
+रुपये
+पाते
+थे
+.
+नाम
+था
+विमलचन्द्र
+.
+तारा
+उन्हीं
+की
+पुत्री
+थी
+.
+उस
+वक्त
+उसकी
+उम्र
+पांच
+साल
+की
+होगी
+.
+बचपन
+का
+वह
+दिन
+आज
+भी
+आंखों
+के
+सामने
+है
+,
+जब
+तारा
+एक
+फ्रॉक
+पहने
+,
+बालों
+में
+एक
+गुलाब
+का
+फूल
+गूंथे
+हुए
+मेरे
+सामने
+आकर
+खड़ी
+हो
+गयी
+.
+कह
+नहीं
+सकता
+,
+क्यों
+मैं
+उसे
+देखकर
+झेंप-सा
+गया
+.
+मुझे
+वह
+देव-कन्या
+सी
+मालूम
+हुई
+,
+जो
+उषा-काल
+के
+सौरभ
+और
+प्रकाश
+से
+रंजित
+आकाश
+से
+उतर
+आयी
+हो
+.
+उस
+दिन
+से
+तारा
+अक्सर
+मेरे
+घर
+आती
+.
+उसके
+घर
+में
+खेलने
+की
+जगह
+न
+थी
+.
+चचा
+साहब
+के
+घर
+के
+सामने
+लम्बा-चौड़ा
+मैदान
+था
+.
+वहीं
+वह
+खेला
+करती
+.
+धीरे-धीरे
+मैं
+भी
+उससे
+मानूस
+हो
+गया
+.
+मैं
+जब
+स्कूल
+से
+लौटता
+तो
+तारा
+दौड़कर
+मेरे
+हाथों
+से
+किताबों
+का
+बस्ता
+ले
+लेती
+.
+जब
+मैं
+स्कूल
+जाने
+के
+लिए
+गाड़ी
+पर
+बैठता
+,
+तो
+वह
+भी
+आकर
+मेरे
+साथ
+बैठ
+जाती
+.
+एक
+दिन
+उसके
+सामने
+चची
+ने
+चचाजी
+से
+कहा
+,
+'
+तारा
+को
+मैं
+अपनी
+बहू
+बनाऊंगी
+.
+क्यों
+कृष्णा
+,
+तू
+तारा
+से
+ब्याह
+करेगा
+?
+'
+मैं
+मारे
+शर्म
+के
+बाहर
+भाग
+गया
+;
+लेकिन
+तारा
+वहीं
+खड़ी
+रही
+,
+मानो
+चची
+ने
+उसे
+मिठाई
+देने
+को
+बुलाया
+हो
+.

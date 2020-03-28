@@ -1,222 +1,222 @@
-बिहार	NNP	O	O	O
-से	PSP	O	O	O
-राज्यसभा	NN	O	O	O
-की	PSP	O	O	O
-एक	QC	O	O	O
-सीट	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	B-STAT	O
-हुए	VM	O	I-STAT	O
-उपचुनाव	NN	O	O	O
-में	PSP	O	O	O
-राजग	XC	O	O	O
-प्रत्याशी	NN	O	O	O
-और	CC	O	O	O
-भाजपा	JJ	O	O	O
-नेता	NN	O	O	O
-सतीश	XC	O	O	O
-चंद्र	XC	O	O	O
-दुबे	NN	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-निर्विरोध	NN	O	O	O
-निर्वाचित	JJ	O	O	O
-घोषित	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-दिए	VAUX	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-सीट	NN	O	O	O
-से	PSP	O	O	O
-तीन	QC	B	O	O
-साल	NN	I	O	O
-पहले	NST	O	O	OCC
-चुने	VM	O	B-MISC	O
-गए	VAUX	O	I-MISC	O
-प्रसिद्ध	JJ	O	O	O
-वकील	NN	O	O	O
-और	CC	O	O	O
-पूर्व	JJ	O	O	O
-केंद्रीय	XC	O	O	O
-मंत्री	XC	O	O	O
-राम	NNP	O	O	O
-जेठमलानी	NN	O	O	O
-का	PSP	O	O	O
-हाल	NN	O	O	O
-में	PSP	O	O	O
-निधन	NN	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पिछली	JJ	O	O	O
-लोकसभा	NN	O	O	O
-में	PSP	O	O	O
-बिहार	NNP	O	O	O
-के	PSP	O	O	O
-वाल्मीकि	XC	O	O	O
-नगर	NN	O	O	O
-संसदीय	JJ	O	O	O
-क्षेत्र	NN	O	O	O
-से	PSP	O	O	O
-भाजपा	NN	O	O	O
-सांसद	JJ	O	B-STAT	O
-रहे	VM	O	I-STAT	O
-दुबे	NN	O	O	O
-ने	PSP	O	O	O
-चार	XC	O	O	O
-अक्तूबर	NNP	O	O	O
-को	PSP	O	O	O
-अपना	PRP	O	O	O
-नामंकन	NN	O	O	O
-पत्र	NN	O	O	O
-दाखिल	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-बिहार	NNP	O	O	O
-विधानसभा	JJ	O	O	O
-सचिव	XC	O	O	O
-बटेसर	NN	O	O	O
-नाथ	XC	O	O	O
-पांडेय	NNP	O	O	O
-ने	PSP	O	O	O
-बुधवार	NN	B	O	O
-को	PSP	O	O	O
-बताया	VM	O	B-MISC	REP
-कि	CC	O	O	O
-दोपहर	NN	B	O	O
-तीन	QC	B	O	O
-बजे	NN	I	O	O
-तक	RP	O	O	O
-नामांकन	NN	O	O	O
-पत्र	NN	O	O	O
-वापस	JJ	O	B-MISC	OCC
-लेने	VM	O	I-MISC	O
-की	PSP	O	O	O
-समय	NN	O	O	O
-सीमा	NN	O	O	O
-खत्म	JJ	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-सतीश	XC	O	O	O
-चंद्र	XC	O	O	O
-दुबे	NN	O	O	O
-को	PSP	O	O	O
-निर्विरोध	NN	O	O	O
-निर्वाचित	JJ	O	O	O
-घोषित	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-और	CC	O	O	O
-उन्हें	PRP	O	O	O
-प्रमाणपत्र	NN	O	O	O
-सौंप	VM	O	B-MISC	OCC
-दिया	VAUX	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जेठमलानी	NN	O	O	O
-को	PSP	O	O	O
-2016	QC	O	O	O
-में	PSP	O	O	O
-मुख्यमंत्री	JJ	O	O	O
-नीतीश	XC	O	O	O
-कुमार	NNP	O	O	O
-की	PSP	O	O	O
-जदयू	NN	O	O	O
-,	SYM	O	O	O
-जो	PRP	O	O	O
-उस	DEM	O	O	O
-समय	NN	O	O	O
-राजद	NN	O	O	O
-और	CC	O	O	O
-कांग्रेस	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-प्रदेश	NN	O	O	O
-में	PSP	O	O	O
-सत्तासीन	JJ	O	O	O
-थी	VM	O	B-STAT	O
-,	SYM	O	O	O
-के	PSP	O	O	O
-कोटे	NN	O	O	O
-की	PSP	O	O	O
-सीट	NN	O	O	O
-पर	PSP	O	O	O
-चुना	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जेठमलानी	NN	O	O	O
-चारा	NN	O	B-MISC	O
-घोटाला	VM	O	I-MISC	O
-मामले	NN	O	O	O
-में	PSP	O	O	O
-बिहार	NNP	O	O	O
-के	PSP	O	O	O
-पूर्व	NST	O	O	O
-मुख्यमंत्री	NN	O	O	O
-और	CC	O	O	O
-पूर्व	JJ	O	O	O
-केंद्रीय	XC	O	O	O
-मंत्री	NN	O	O	O
-लालू	JJ	O	O	O
-प्रसाद	NN	O	O	O
-के	PSP	O	O	O
-वकील	NN	O	B-MISC	OCC
-रहे	VM	O	I-MISC	O
-थे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-राजग	XC	O	O	O
-प्रत्याशी	NN	O	O	O
-की	PSP	O	O	O
-जीत	NN	O	O	O
-पक्की	NN	O	B-MISC	OCC
-होने	VM	O	I-MISC	O
-के	PSP	O	O	O
-चलते	VM	O	O	O
-बिहार	NNP	O	O	O
-में	PSP	O	O	O
-विपक्षी	JJ	O	O	O
-महागठबंधन	NN	O	O	O
-में	PSP	O	O	O
-शामिल	JJ	O	O	O
-राजद	NN	O	O	O
-ने	PSP	O	O	O
-राज्यसभा	NN	O	O	O
-की	PSP	O	O	O
-इस	DEM	O	O	O
-सीट	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-अपने	PRP	O	O	O
-किसी	PRP	O	O	O
-उम्मीदवार	NN	O	O	O
-को	PSP	O	O	O
-मैदान	NN	O	O	O
-में	PSP	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-उतारा	VM	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-शुरुआत	NN	O	O	O
-में	PSP	O	O	O
-ऐसी	DEM	O	O	O
-अटकलें	NN	O	O	OCC
-लगायी	VM	O	B-MISC	O
-जा	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-थीं	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-इस	DEM	O	O	O
-सीट	NN	O	O	O
-से	PSP	O	O	O
-जदयू	NN	O	O	O
-अपना	PRP	O	O	O
-उम्मीदवार	NN	O	O	O
-खड़ा	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-चाहेगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+बिहार
+से
+राज्यसभा
+की
+एक
+सीट
+के
+लिए
+हुए
+उपचुनाव
+में
+राजग
+प्रत्याशी
+और
+भाजपा
+नेता
+सतीश
+चंद्र
+दुबे
+बुधवार
+को
+निर्विरोध
+निर्वाचित
+घोषित
+कर
+दिए
+गए
+.
+इस
+सीट
+से
+तीन
+साल
+पहले
+चुने
+गए
+प्रसिद्ध
+वकील
+और
+पूर्व
+केंद्रीय
+मंत्री
+राम
+जेठमलानी
+का
+हाल
+में
+निधन
+हो
+गया
+था
+.
+पिछली
+लोकसभा
+में
+बिहार
+के
+वाल्मीकि
+नगर
+संसदीय
+क्षेत्र
+से
+भाजपा
+सांसद
+रहे
+दुबे
+ने
+चार
+अक्तूबर
+को
+अपना
+नामंकन
+पत्र
+दाखिल
+किया
+था
+.
+बिहार
+विधानसभा
+सचिव
+बटेसर
+नाथ
+पांडेय
+ने
+बुधवार
+को
+बताया
+कि
+दोपहर
+तीन
+बजे
+तक
+नामांकन
+पत्र
+वापस
+लेने
+की
+समय
+सीमा
+खत्म
+होने
+के
+बाद
+सतीश
+चंद्र
+दुबे
+को
+निर्विरोध
+निर्वाचित
+घोषित
+किया
+गया
+और
+उन्हें
+प्रमाणपत्र
+सौंप
+दिया
+गया
+.
+जेठमलानी
+को
+2016
+में
+मुख्यमंत्री
+नीतीश
+कुमार
+की
+जदयू
+,
+जो
+उस
+समय
+राजद
+और
+कांग्रेस
+के
+साथ
+प्रदेश
+में
+सत्तासीन
+थी
+,
+के
+कोटे
+की
+सीट
+पर
+चुना
+गया
+था
+.
+जेठमलानी
+चारा
+घोटाला
+मामले
+में
+बिहार
+के
+पूर्व
+मुख्यमंत्री
+और
+पूर्व
+केंद्रीय
+मंत्री
+लालू
+प्रसाद
+के
+वकील
+रहे
+थे
+.
+राजग
+प्रत्याशी
+की
+जीत
+पक्की
+होने
+के
+चलते
+बिहार
+में
+विपक्षी
+महागठबंधन
+में
+शामिल
+राजद
+ने
+राज्यसभा
+की
+इस
+सीट
+के
+लिए
+अपने
+किसी
+उम्मीदवार
+को
+मैदान
+में
+नहीं
+उतारा
+था
+.
+शुरुआत
+में
+ऐसी
+अटकलें
+लगायी
+जा
+रही
+थीं
+कि
+इस
+सीट
+से
+जदयू
+अपना
+उम्मीदवार
+खड़ा
+करना
+चाहेगी
+.

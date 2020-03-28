@@ -1,249 +1,249 @@
-ऐक्ट्रेस	XC	O	O	O
-आम्रपाली	NN	O	O	O
-दुबे	VM	O	O	O
-यूं	RP	O	O	O
-ही	RP	O	O	O
-नहीं	NEG	O	O	O
-भोजपुरी	JJ	O	O	O
-इंडस्ट्री	NN	O	O	O
-और	CC	O	O	O
-सोशल	XC	O	O	O
-मीडिया	NNP	O	O	O
-की	PSP	O	O	O
-क्वीन	NN	O	O	O
-कही	VM	O	B-MISC	OCC
-जाती	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सोशल	XC	O	O	O
-मीडिया	NNP	O	O	O
-पर	PSP	O	O	O
-उनके	PRP	O	O	O
-सभी	QF	O	O	O
-गाने	VM	O	B-MISC	OCC
-और	CC	O	O	O
-विडियो	NN	O	O	O
-आते	VM	O	O	O
-ही	RP	O	O	O
-धमाल	NN	O	O	O
-मचा	VM	O	B-MISC	OCC
-देते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-कड़ी	NNP	O	O	O
-में	PSP	O	O	O
-उनका	PRP	O	O	O
-एक	QC	O	O	O
-नया	JJ	O	O	O
-टिक-टॉक	NN	O	O	O
-विडियो	XC	O	O	O
-इंटरनेट	NN	O	O	O
-पर	PSP	O	O	O
-समाने	JJ	O	B-MISC	OCC
-आ	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसे	PRP	O	O	O
-उनके	PRP	O	O	O
-फॉलोअर्स	NN	O	O	O
-काफी	QF	O	O	O
-पसंद	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	DEM	O	O	O
-विडियो	NN	O	O	O
-आम्रपाली	JJ	O	O	O
-दुबे	NN	O	O	O
-ने	PSP	O	O	O
-कुछ	QF	B	O	O
-समय	NN	I	O	O
-पहले	NST	O	O	O
-ही	RP	O	O	O
-अपने	PRP	O	O	O
-इंस्टाग्राम	NN	O	O	O
-पर	PSP	O	O	O
-शेयर	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-विडियो	NN	O	O	O
-में	PSP	O	O	O
-वह	PRP	O	O	O
-अपनी	PRP	O	O	O
-अपकमिंग	NN	O	O	O
-भोजपुरी	JJ	O	O	O
-फिल्म	NNP	O	O	O
-'	SYM	O	O	O
-शेर-सिंह	NNP	O	O	O
-'	SYM	O	O	O
-के	PSP	O	O	O
-गाने	NN	O	O	O
-'	SYM	O	O	O
-मेरे	PRP	O	O	O
-मरद	NN	O	O	O
-'	SYM	O	O	O
-पर	PSP	O	O	O
-लिपसिंक	JJ	O	B-MISC	OCC
-करती	VM	O	I-MISC	O
-हुई	VAUX	O	I-MISC	O
-दिखाई	VM	O	B-MISC	OCC
-दे	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उनके	PRP	O	O	O
-कातिल	JJ	O	O	O
-एक्सप्रेशन	NN	O	O	O
-इस	DEM	O	O	O
-विडियो	NN	O	O	O
-को	PSP	O	O	O
-और	INTF	O	O	O
-भी	RP	O	O	O
-खास	JJ	O	O	O
-बना	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-विडियो	NN	O	O	O
-को	PSP	O	O	O
-शेयर	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-उन्होंने	PRP	O	O	O
-कैप्शन	NN	O	O	O
-में	PSP	O	O	O
-लिखा	VM	O	O	OCC
-,	SYM	O	O	O
-'	SYM	O	O	O
-मेरे	PRP	O	O	O
-मरद	NN	O	O	O
-#	SYM	O	O	O
-shersingh	NN	O	O	O
-#	SYM	O	O	O
-bhojpuri	NN	O	O	O
-#	SYM	O	O	O
-film	NN	O	O	O
-#	SYM	O	O	O
-comingsoon	NN	O	O	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-बता	VM	O	B-MISC	O
-दें	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-आम्रपाली	JJ	O	O	O
-दुबे	NN	O	O	O
-और	CC	O	O	O
-पवन	XC	O	O	O
-सिंह	NNP	O	O	O
-स्टारर	NN	O	O	O
-भोजपुरी	JJ	O	O	O
-फिल्म	NNP	O	O	O
-'	SYM	O	O	O
-शेर	XC	O	O	O
-सिंह	NNP	O	O	O
-'	SYM	O	O	O
-का	PSP	O	O	O
-ट्रेलर	NN	O	O	O
-कुछ	QF	B	O	O
-दिनों	NN	I	O	O
-पहले	NST	O	O	O
-ही	RP	O	O	O
-यूट्यूब	NN	O	O	O
-पर	PSP	O	O	O
-रिलीज	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-जिसे	PRP	O	O	O
-फैन्स	NN	O	O	O
-का	PSP	O	O	O
-काफी	QF	O	O	O
-अच्छा	JJ	O	O	O
-रिस्पॉन्स	NN	O	B-MISC	OCC
-मिला	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-4	QC	O	O	O
-मिनट	NN	O	O	O
-और	CC	O	O	O
-10	QC	O	O	O
-सेकंड	NN	O	O	O
-के	PSP	O	O	O
-इस	DEM	O	O	O
-ट्रेलर	NN	O	O	O
-की	PSP	O	O	O
-शुरुआत	NN	O	O	O
-में	PSP	O	O	O
-पवन	XC	O	O	O
-सिंह	NNP	O	O	O
-को	PSP	O	O	O
-दमदार	JJ	O	O	O
-ऐक्शन	NN	O	O	O
-सीन	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-दिखाया	VM	O	B-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फिल्म	NN	O	O	O
-में	PSP	O	O	O
-पवन	XC	O	O	O
-सिंह	NNP	O	O	O
-के	PSP	O	O	O
-अलावा	PSP:?	O	O	O
-आम्रपाली	JJ	O	O	O
-दुबे	NN	O	O	O
-मुख्य	JJ	O	O	O
-भूमिका	NN	O	O	O
-में	PSP	O	O	O
-नजर	NN	O	B-MISC	O
-आने	VM	O	I-MISC	OCC
-वाली	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-फिल्म	NN	O	O	O
-में	PSP	O	O	O
-जबरदस्त	JJ	O	O	O
-ऐक्शन	NN	O	O	O
-रोमांस	NN	O	O	O
-के	PSP	O	O	O
-साथ	NST	O	O	O
-पवन	XC	O	O	O
-सिंह	NNP	O	O	O
-आपको	PRP	O	O	O
-शेर	NN	O	O	O
-से	PSP	O	O	O
-भी	RP	O	O	O
-लड़ते	NNP	O	B-MISC	O
-हुए	VM	O	I-MISC	O
-नजर	NN	O	B-MISC	OCC
-आएंगे	VM	O	I-MISC	O
-.	SYM	O	O	O
-फिलहाल	RB	O	O	O
-इस	DEM	O	O	O
-फिल्म	NN	O	O	O
-के	PSP	O	O	O
-गाने	XC	O	O	O
-'	SYM	O	O	O
-बाबू-बाबू	NN	O	O	O
-'	SYM	O	O	O
-और	CC	O	O	O
-'	SYM	O	O	O
-मेरे	PRP	O	O	O
-मरद	NN	O	O	O
-महोदय	RP	O	O	O
-'	SYM	O	O	O
-यूट्यूब	NN	O	O	O
-पर	PSP	O	O	O
-तहलका	NN	O	O	O
-मचा	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+ऐक्ट्रेस
+आम्रपाली
+दुबे
+यूं
+ही
+नहीं
+भोजपुरी
+इंडस्ट्री
+और
+सोशल
+मीडिया
+की
+क्वीन
+कही
+जाती
+हैं
+.
+सोशल
+मीडिया
+पर
+उनके
+सभी
+गाने
+और
+विडियो
+आते
+ही
+धमाल
+मचा
+देते
+हैं
+.
+इस
+कड़ी
+में
+उनका
+एक
+नया
+टिक-टॉक
+विडियो
+इंटरनेट
+पर
+समाने
+आ
+रहा
+है
+,
+जिसे
+उनके
+फॉलोअर्स
+काफी
+पसंद
+कर
+रहे
+हैं
+.
+यह
+विडियो
+आम्रपाली
+दुबे
+ने
+कुछ
+समय
+पहले
+ही
+अपने
+इंस्टाग्राम
+पर
+शेयर
+किया
+है
+.
+विडियो
+में
+वह
+अपनी
+अपकमिंग
+भोजपुरी
+फिल्म
+'
+शेर-सिंह
+'
+के
+गाने
+'
+मेरे
+मरद
+'
+पर
+लिपसिंक
+करती
+हुई
+दिखाई
+दे
+रही
+हैं
+.
+उनके
+कातिल
+एक्सप्रेशन
+इस
+विडियो
+को
+और
+भी
+खास
+बना
+रहे
+हैं
+.
+विडियो
+को
+शेयर
+करते
+हुए
+उन्होंने
+कैप्शन
+में
+लिखा
+,
+'
+मेरे
+मरद
+#
+shersingh
+#
+bhojpuri
+#
+film
+#
+comingsoon
+.
+'
+बता
+दें
+कि
+आम्रपाली
+दुबे
+और
+पवन
+सिंह
+स्टारर
+भोजपुरी
+फिल्म
+'
+शेर
+सिंह
+'
+का
+ट्रेलर
+कुछ
+दिनों
+पहले
+ही
+यूट्यूब
+पर
+रिलीज
+किया
+गया
+है
+,
+जिसे
+फैन्स
+का
+काफी
+अच्छा
+रिस्पॉन्स
+मिला
+रहा
+है
+.
+4
+मिनट
+और
+10
+सेकंड
+के
+इस
+ट्रेलर
+की
+शुरुआत
+में
+पवन
+सिंह
+को
+दमदार
+ऐक्शन
+सीन
+करते
+हुए
+दिखाया
+गया
+है
+.
+फिल्म
+में
+पवन
+सिंह
+के
+अलावा
+आम्रपाली
+दुबे
+मुख्य
+भूमिका
+में
+नजर
+आने
+वाली
+हैं
+.
+फिल्म
+में
+जबरदस्त
+ऐक्शन
+रोमांस
+के
+साथ
+पवन
+सिंह
+आपको
+शेर
+से
+भी
+लड़ते
+हुए
+नजर
+आएंगे
+.
+फिलहाल
+इस
+फिल्म
+के
+गाने
+'
+बाबू-बाबू
+'
+और
+'
+मेरे
+मरद
+महोदय
+'
+यूट्यूब
+पर
+तहलका
+मचा
+रहे
+हैं
+.

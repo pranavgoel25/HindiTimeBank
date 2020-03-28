@@ -1,449 +1,449 @@
-भोला	XC	O	O	O
-महतो	NNP	O	O	O
-ने	PSP	O	O	O
-पहली	QO	O	O	O
-स्त्री	NN	O	O	O
-के	PSP	O	O	O
-मर	NN	O	B-MISC	OCC
-जाने	VM	O	I-MISC	O
-बाद	NST	O	O	O
-दूसरी	QO	O	O	O
-सगाई	NN	O	O	O
-की	PSP	O	O	O
-तो	RP	O	O	O
-उसके	PRP	O	O	O
-लड़के	NNP	O	O	O
-रग्घू	NN	O	O	O
-के	PSP	O	O	O
-लिये	PSP	O	O	O
-बुरे	JJ	O	O	O
-दिन	NN	O	O	O
-आ	VM	O	B-MISC	OCC
-गये	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-रग्घू	NN	O	O	O
-की	PSP	O	O	O
-उम्र	NN	O	O	O
-उस	DEM	O	O	O
-समय	NN	O	O	O
-केवल	RB	O	O	O
-दस	QC	O	O	O
-वर्ष	NN	O	O	O
-की	PSP	O	O	O
-थी	VAUX	O	B-STAT	O
-.	SYM	O	O	O
-चैन	NN	O	O	O
-से	PSP	O	O	O
-गांव	NN	O	O	O
-में	PSP	O	O	O
-गुल्ली-डंडा	NN	O	O	O
-खेलता	VM	O	B-MISC	OCC
-फिरता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मां	NN	O	O	O
-के	PSP	O	O	O
-आते	VM	O	B-MISC	O
-ही	RP	O	O	O
-चक्की	NN	O	O	O
-में	PSP	O	O	O
-जुतना	VM	O	B-MISC	OCC
-पड़ा	XC	O	I-MISC	O
-.	SYM	O	O	O
-पन्ना	NN	O	O	O
-रुपवती	JJ	O	O	O
-स्त्री	NN	O	O	O
-थी	VM	O	B-STAT	O
-और	CC	O	O	O
-रुप	NN	O	O	O
-और	CC	O	O	O
-गर्व	NN	O	O	O
-में	PSP	O	O	O
-चोली-दामन	NN	O	O	O
-का	PSP	O	O	O
-नाता	NN	O	B-STAT	O
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-अपने	PRP	O	O	O
-हाथों	NN	O	O	O
-से	PSP	O	O	O
-कोई	PRP	O	O	O
-काम	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-करती	VM	O	I-MISC	O
-.	SYM	O	O	O
-गोबर	NN	O	O	O
-रग्घू	NN	O	O	O
-निकालता	VM	O	O	O
-,	SYM	O	O	O
-बैलों	NN	O	O	O
-को	PSP	O	O	O
-सानी	NN	O	O	O
-रग्घू	NN	O	B-MISC	OCC
-देता	VM	O	I-MISC	O
-.	SYM	O	O	O
-रग्घू	NN	O	O	O
-ही	RP	O	O	O
-जूठे	JJ	O	O	O
-बरतन	NN	O	O	O
-मांजता	VM	O	B-MISC	O
-.	SYM	O	O	O
-भोला	NN	O	O	O
-की	PSP	O	O	O
-आंखें	NN	O	O	O
-कुछ	QF	O	O	O
-ऐसी	PRP	O	O	O
-फिरीं	VM	O	B-MISC	OCC
-कि	CC	O	O	O
-उसे	PRP	O	O	O
-अब	PRP	O	O	O
-रग्घू	NN	O	O	O
-में	PSP	O	O	O
-सब	QF	O	O	O
-बुराइयां-ही-	JJ	O	O	O
-बुराइयां	NN	O	O	O
-नजर	NN	O	B-MISC	OCC
-आतीं	VM	O	I-MISC	O
-.	SYM	O	O	O
-पन्ना	NN	O	O	O
-की	PSP	O	O	O
-बातों	NN	O	O	O
-को	PSP	O	O	O
-वह	PRP	O	O	O
-प्राचीन	JJ	O	O	O
-मर्यादानुसार	NN	O	O	O
-आंखें	NN	O	O	O
-बंद	JJ	O	B-MISC	O
-करके	VM	O	I-MISC	O
-मान	VM	O	B-MISC	OCC
-लेता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-रग्घू	NN	O	O	O
-की	PSP	O	O	O
-शिकायतों	NN	O	O	O
-की	PSP	O	O	O
-जरा	QF	O	O	O
-परवाह	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-करता	VM	O	I-MISC	O
-.	SYM	O	O	O
-नतीजा	NN	O	O	O
-यह	PRP	O	O	O
-हुआ	VM	O	B-MISC	O
-कि	CC	O	O	O
-रग्घू	NN	O	O	O
-ने	PSP	O	O	O
-शिकायत	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-ही	RP	O	O	O
-छोड़	NNP	O	B-MISC	OCC
-दिया	VM	O	I-MISC	O
-.	SYM	O	O	O
-किसके	PRP	O	O	O
-सामने	NST	O	O	O
-रोये	VM	O	O	O
-?	SYM	O	O	O
-बाप	NN	O	O	O
-ही	RP	O	O	O
-नहीं	NEG	O	O	O
-,	SYM	O	O	O
-सारा	QF	O	O	O
-गांव	NN	O	O	O
-उसका	PRP	O	O	O
-दुश्मन	NN	O	O	O
-था	VM	O	B-STAT	O
-.	SYM	O	O	O
-बड़ा	NNP	O	O	O
-जिद्दी	JJ	O	O	O
-लड़का	NNP	O	O	O
-है	VM	O	B-STAT	O
-,	SYM	O	O	O
-पन्ना	NN	O	O	O
-को	PSP	O	O	O
-तो	RP	O	O	O
-कुछ	QF	O	O	O
-समझता	VM	O	O	OCC
-ही	RP	O	O	O
-नहीं	NEG	O	O	O
-;	SYM	O	O	O
-बेचारी	NNP	O	O	O
-उसका	PRP	O	O	O
-दुलार	NN	O	O	OCC
-करती	VM	O	B-STAT	O
-है	VAUX	O	I-STAT	O
-,	SYM	O	I-STAT	O
-खिलाती-पिलाती	VM	O	I-STAT	O
-है	VAUX	O	I-STAT	O
-यह	PRP	O	O	O
-उसी	DEM	O	O	O
-का	PSP	O	O	O
-फल	NN	O	B-STAT	DEC
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-दूसरी	QO	O	O	O
-औरत	NN	O	O	O
-होती	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-तो	RP	O	O	O
-निबाह	NN	O	O	O
-न	NEG	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-तो	RP	O	O	O
-कहो	VM	O	O	O
-,	SYM	O	O	O
-पन्ना	NN	O	O	O
-इतनी	INTF	O	O	O
-सीधी-सादी	JJ	O	B-STAT	O
-है	VM	O	I-STAT	O
-कि	CC	O	O	O
-निबाह	NN	O	B-MISC	OCC
-होता	VM	O	I-MISC	O
-जाता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-सबल	NN	O	O	O
-की	PSP	O	O	O
-शिकायतें	NN	O	O	O
-सब	QF	O	O	O
-सुनते	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-निर्बल	NN	O	O	O
-की	PSP	O	O	O
-फरियाद	NN	O	O	O
-भी	RP	O	O	O
-कोई	PRP	O	O	O
-नहीं	NEG	O	B-MISC	O
-सुनता	VM	O	I-MISC	O
-!	SYM	O	O	O
-रग्घू	NN	O	O	O
-का	PSP	O	O	O
-हृदय	NN	O	O	O
-मां	NN	O	O	O
-की	PSP	O	O	O
-ओर	NST	O	O	O
-से	PSP	O	O	O
-दिन-दिन	NN	O	B-MISC	OCC
-फटता	VM	O	I-MISC	O
-जाता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यहां	PRP	O	O	O
-तक	RP	O	O	O
-कि	CC	O	O	O
-आठ	QC	O	O	O
-साल	NN	O	O	O
-गुजर	VM	O	B-MISC	OCC
-गये	VAUX	O	I-MISC	O
-और	CC	O	O	O
-एक	QC	B	O	O
-दिन	NN	I	O	O
-भोला	NN	O	O	O
-के	PSP	O	O	O
-नाम	NN	O	O	O
-भी	RP	O	O	O
-मृत्यु	NN	O	O	O
-का	PSP	O	O	O
-संदेश	NN	O	B-MISC	O
-आ	VM	O	I-MISC	OCC
-पहुंचा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पन्ना	NN	O	O	O
-के	PSP	O	O	O
-चार	QC	O	O	O
-बच्चे	NN	O	O	O
-थे-	QC	O	O	O
-तीन	QC	O	O	O
-बेटे	NN	O	O	O
-और	CC	O	O	O
-एक	QC	O	O	O
-बेटी	NN	O	O	O
-.	SYM	O	O	O
-इतना	QF	O	O	O
-बड़ा	XC	O	O	O
-खर्च	NN	O	O	O
-और	CC	O	O	O
-कमानेवाला	NN	O	O	O
-कोई	PRP	O	O	O
-नहीं	NEG	O	O	O
-.	SYM	O	O	O
-रग्घू	NN	O	O	O
-अब	PRP	O	O	O
-क्यों	WQ	O	O	O
-बात	NN	O	O	O
-पूछने	VM	O	B-MISC	OCC
-लगा	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-यह	PRP	O	O	O
-मानी	VM	O	B-MISC	O
-हुई	VAUX	O	I-MISC	O
-बात	NN	O	I-MISC	O
-थी	VM	O	I-MISC	DECL
-.	SYM	O	O	O
-अपनी	PRP	O	O	O
-स्त्री	NN	O	O	O
-लाएगा	VM	O	B-MISC	O
-और	CC	O	O	O
-अलग	JJ	O	B-MISC	O
-रहेगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-स्त्री	NN	O	O	O
-आकर	VM	O	B-MISC	OCC
-और	CC	O	O	O
-भी	RP	O	O	O
-आग	NN	O	B-MISC	OCC
-लगायेगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-पन्ना	NN	O	O	O
-को	PSP	O	O	O
-चारों	QC	O	O	O
-ओर	NST	O	O	O
-अंधेरा-	JJ	O	O	O
-ही-	NN	O	O	O
-अंधेरा	NN	O	O	O
-दिखाई	VM	O	B-MISC	OCC
-देता	VAUX	O	I-MISC	O
-था	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-पर	PSP	O	O	O
-कुछ	QF	O	O	O
-भी	RP	O	O	O
-हो	VM	O	O	OCC
-,	SYM	O	O	O
-वह	PRP	O	O	O
-रग्घू	NN	O	O	O
-की	PSP	O	O	O
-आसरैत	NN	O	B-MISC	O
-बनकर	VM	O	I-MISC	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-न	NEG	O	B-MISC	OCC
-रहेगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-जिस	DEM	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-उसने	PRP	O	O	O
-राज	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-,	SYM	O	O	O
-उसमें	PRP	O	O	O
-अब	PRP	O	O	O
-लौंडी	NN	O	B-MISC	OCC
-न	NEG	O	I-MISC	O
-बनेगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-जिस	DEM	O	O	O
-लौंडे	NN	O	O	O
-को	PSP	O	O	O
-अपना	PRP	O	O	O
-गुलाम	NN	O	O	O
-समझा	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-उसका	PRP	O	O	O
-मुंह	NN	O	B-MISC	O
-न	NEG	O	I-MISC	OCC
-ताकेगी	VM	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-सुन्दर	JJ	O	O	O
-थी	VM	O	O	O
-,	SYM	O	O	O
-अवस्था	NN	O	O	O
-अभी	PRP	O	O	O
-कुछ	QF	O	O	O
-ऐसी	DEM	O	O	O
-ज्यादा	QF	O	O	O
-न	NEG	O	O	O
-थी	VM	O	B-STAT	O
-.	SYM	O	O	O
-जवानी	NN	O	O	O
-अपनी	PRP	O	O	O
-पूरी	JJ	O	O	O
-बहार	NN	O	O	O
-पर	PSP	O	O	O
-थी	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-क्या	WQ	O	O	O
-वह	PRP	O	O	O
-कोई	PRP	O	O	O
-दूसरा	QO	O	O	O
-घर	NN	O	O	O
-नहीं	NEG	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकती	VAUX	O	I-MISC	O
-?	SYM	O	O	O
-यही	PRP	O	O	O
-न	NEG	O	B-MISC	O
-होगा	VM	O	I-MISC	O
-,	SYM	O	O	O
-लोग	NN	O	O	O
-हंसेंगे	VM	O	B-MISC	O
-.	SYM	O	O	O
-बला	NNP	O	O	O
-से	PSP	O	O	O
-!	SYM	O	O	O
-उसकी	PRP	O	O	O
-बिरादरी	NN	O	O	O
-में	PSP	O	O	O
-क्या	WQ	O	O	O
-ऐसा	PRP	O	O	O
-होता	VM	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-?	SYM	O	O	O
-ब्राह्मण	NN	O	O	O
-,	SYM	O	O	O
-ठाकुर	NNP	O	O	O
-थोड़ी	JJ	O	O	O
-ही	RP	O	O	O
-थी	VM	O	B-MISC	O
-कि	CC	O	O	O
-नाक	NN	O	B-MISC	OCC
-कट	VM	O	I-MISC	O
-जायगी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-यह	PRP	O	O	O
-तो	RP	O	O	O
-उन्ही	PRP	O	O	O
-ऊंची	JJ	O	O	O
-जातों	NN	O	O	O
-में	PSP	O	O	O
-होता	VM	O	B-STAT	OCC
-है	VAUX	O	I-STAT	O
-कि	CC	O	O	O
-घर	NN	O	O	O
-में	PSP	O	O	O
-चाहे	CC:?	O	O	O
-जो	PRP	O	O	O
-कुछ	QF	O	O	O
-करो	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-बाहर	NST	O	O	O
-परदा	NN	O	O	O
-ढका	VM	O	B-MISC	OCC
-रहे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-तो	RP	O	O	O
-संसार	NN	O	O	O
-को	PSP	O	O	O
-दिखाकर	VM	O	B-MISC	OCC
-दूसरा	QO	O	O	O
-घर	NN	O	O	O
-कर	VM	O	B-MISC	OCC
-सकती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-फिर	RB	O	O	O
-वह	PRP	O	O	O
-रग्घू	NN	O	O	O
-की	PSP	O	O	O
-दबैल	NN	O	O	O
-बनकर	VM	O	B-MISC	OCC
-क्यों	WQ	O	O	O
-रहे	VAUX	O	O	O
-?	SYM	O	O	O
+भोला
+महतो
+ने
+पहली
+स्त्री
+के
+मर
+जाने
+बाद
+दूसरी
+सगाई
+की
+तो
+उसके
+लड़के
+रग्घू
+के
+लिये
+बुरे
+दिन
+आ
+गये
+.
+रग्घू
+की
+उम्र
+उस
+समय
+केवल
+दस
+वर्ष
+की
+थी
+.
+चैन
+से
+गांव
+में
+गुल्ली-डंडा
+खेलता
+फिरता
+था
+.
+मां
+के
+आते
+ही
+चक्की
+में
+जुतना
+पड़ा
+.
+पन्ना
+रुपवती
+स्त्री
+थी
+और
+रुप
+और
+गर्व
+में
+चोली-दामन
+का
+नाता
+है
+.
+वह
+अपने
+हाथों
+से
+कोई
+काम
+न
+करती
+.
+गोबर
+रग्घू
+निकालता
+,
+बैलों
+को
+सानी
+रग्घू
+देता
+.
+रग्घू
+ही
+जूठे
+बरतन
+मांजता
+.
+भोला
+की
+आंखें
+कुछ
+ऐसी
+फिरीं
+कि
+उसे
+अब
+रग्घू
+में
+सब
+बुराइयां-ही-
+बुराइयां
+नजर
+आतीं
+.
+पन्ना
+की
+बातों
+को
+वह
+प्राचीन
+मर्यादानुसार
+आंखें
+बंद
+करके
+मान
+लेता
+था
+.
+रग्घू
+की
+शिकायतों
+की
+जरा
+परवाह
+न
+करता
+.
+नतीजा
+यह
+हुआ
+कि
+रग्घू
+ने
+शिकायत
+करना
+ही
+छोड़
+दिया
+.
+किसके
+सामने
+रोये
+?
+बाप
+ही
+नहीं
+,
+सारा
+गांव
+उसका
+दुश्मन
+था
+.
+बड़ा
+जिद्दी
+लड़का
+है
+,
+पन्ना
+को
+तो
+कुछ
+समझता
+ही
+नहीं
+;
+बेचारी
+उसका
+दुलार
+करती
+है
+,
+खिलाती-पिलाती
+है
+यह
+उसी
+का
+फल
+है
+.
+दूसरी
+औरत
+होती
+,
+तो
+निबाह
+न
+होता
+.
+वह
+तो
+कहो
+,
+पन्ना
+इतनी
+सीधी-सादी
+है
+कि
+निबाह
+होता
+जाता
+है
+.
+सबल
+की
+शिकायतें
+सब
+सुनते
+हैं
+,
+निर्बल
+की
+फरियाद
+भी
+कोई
+नहीं
+सुनता
+!
+रग्घू
+का
+हृदय
+मां
+की
+ओर
+से
+दिन-दिन
+फटता
+जाता
+था
+.
+यहां
+तक
+कि
+आठ
+साल
+गुजर
+गये
+और
+एक
+दिन
+भोला
+के
+नाम
+भी
+मृत्यु
+का
+संदेश
+आ
+पहुंचा
+.
+पन्ना
+के
+चार
+बच्चे
+थे-
+तीन
+बेटे
+और
+एक
+बेटी
+.
+इतना
+बड़ा
+खर्च
+और
+कमानेवाला
+कोई
+नहीं
+.
+रग्घू
+अब
+क्यों
+बात
+पूछने
+लगा
+?
+यह
+मानी
+हुई
+बात
+थी
+.
+अपनी
+स्त्री
+लाएगा
+और
+अलग
+रहेगा
+.
+स्त्री
+आकर
+और
+भी
+आग
+लगायेगी
+.
+पन्ना
+को
+चारों
+ओर
+अंधेरा-
+ही-
+अंधेरा
+दिखाई
+देता
+था
+.
+पर
+कुछ
+भी
+हो
+,
+वह
+रग्घू
+की
+आसरैत
+बनकर
+घर
+में
+न
+रहेगी
+.
+जिस
+घर
+में
+उसने
+राज
+किया
+,
+उसमें
+अब
+लौंडी
+न
+बनेगी
+.
+जिस
+लौंडे
+को
+अपना
+गुलाम
+समझा
+,
+उसका
+मुंह
+न
+ताकेगी
+.
+वह
+सुन्दर
+थी
+,
+अवस्था
+अभी
+कुछ
+ऐसी
+ज्यादा
+न
+थी
+.
+जवानी
+अपनी
+पूरी
+बहार
+पर
+थी
+.
+क्या
+वह
+कोई
+दूसरा
+घर
+नहीं
+कर
+सकती
+?
+यही
+न
+होगा
+,
+लोग
+हंसेंगे
+.
+बला
+से
+!
+उसकी
+बिरादरी
+में
+क्या
+ऐसा
+होता
+नहीं
+?
+ब्राह्मण
+,
+ठाकुर
+थोड़ी
+ही
+थी
+कि
+नाक
+कट
+जायगी
+.
+यह
+तो
+उन्ही
+ऊंची
+जातों
+में
+होता
+है
+कि
+घर
+में
+चाहे
+जो
+कुछ
+करो
+,
+बाहर
+परदा
+ढका
+रहे
+.
+वह
+तो
+संसार
+को
+दिखाकर
+दूसरा
+घर
+कर
+सकती
+है
+,
+फिर
+वह
+रग्घू
+की
+दबैल
+बनकर
+क्यों
+रहे
+?

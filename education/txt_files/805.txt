@@ -1,151 +1,151 @@
-सीबीएसई	NNP	O	O	O
-से	PSP	O	O	O
-10	QC	O	O	O
-वीं	XC	O	O	O
-और	CC	O	O	O
-12	QC	O	O	O
-वीं	XC	O	O	O
-क्लास	NN	O	O	O
-के	PSP	O	O	O
-प्राइवेट	JJ	O	O	O
-कैंडिडट	NN	O	O	O
-के	PSP	O	O	O
-तौर	NN	O	O	O
-पर	PSP	O	O	O
-आवेदन	NN	O	B-MISC	OCC
-करने	VM	O	I-MISC	O
-का	PSP	O	O	O
-आज	NN	O	O	O
-आखिरी	JJ	O	O	O
-दिन	NN	O	O	O
-है	VM	O	B-STAT	DECL
-.	SYM	O	O	O
-जो	PRP	O	O	O
-छात्र	NN	O	O	O
-प्राइवेट	JJ	O	O	O
-कैंडिडेट	NN	O	O	O
-के	PSP	O	O	O
-तौर	NN	O	O	O
-पर	PSP	O	O	O
-परीक्षा	NN	O	B-MISC	OCC
-देना	VM	O	I-MISC	O
-चाहते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-उनको	PRP	O	O	O
-सीबीएसई	NN	O	O	O
-की	PSP	O	O	O
-ऑफिशल	JJ	O	O	O
-वेबसाइट	NN	O	O	O
-http://cbse.nic.in	NN	O	O	O
-पर	PSP	O	O	O
-जाकर	VM	O	B-MISC	O
-आवेदन	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-होगा	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-CBSE	NN	O	O	O
-प्राइवेट	JJ	O	O	O
-कैंडिडेट	NN	O	O	O
-के	PSP	O	O	O
-तौर	NN	O	O	O
-पर	PSP	O	O	O
-कौन	WQ	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-सकता	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-आवेदन	NN	O	O	O
-?	SYM	O	O	O
-1	QC	O	O	O
-.	SYM	O	O	O
-जिन	DEM	O	O	O
-छात्रों	NN	O	O	O
-को	PSP	O	O	O
-2019	QC	O	O	O
-के	PSP	O	O	O
-एग्जाम	NN	O	O	O
-में	PSP	O	O	O
-फेल	NN	O	O	O
-घोषित	JJ	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-2	QC	O	O	O
-.	SYM	O	O	O
-जिन	DEM	O	O	O
-छात्रों	NN	O	O	O
-की	PSP	O	O	O
-जुलाई	NNP	O	O	O
-2019	QC	O	O	O
-में	PSP	O	O	O
-आयोजित	JJ	O	O	O
-परीक्षा	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-कंपार्टमेंट	NN	O	B-MISC	OCC
-आई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-3	QC	O	O	O
-.	SYM	O	O	O
-जिन	DEM	O	O	O
-छात्रों	NN	O	O	O
-की	PSP	O	O	O
-2019	QC	O	O	O
-की	PSP	O	O	O
-मुख्य	JJ	O	O	O
-परीक्षा	NN	O	O	O
-में	PSP	O	O	O
-कंपार्टमेंट	NN	O	B-MISC	OCC
-आई	VM	O	I-MISC	O
-और	CC	O	O	O
-जुलाई-	NN	O	O	O
-2019	QC	O	O	O
-की	PSP	O	O	O
-कंपार्टमेंट	NN	O	O	O
-परीक्षा	NN	O	B-MISC	OCC
-नहीं	NEG	O	I-MISC	O
-दी	VM	O	I-MISC	O
-.	SYM	O	O	O
-4	QC	O	O	O
-.	SYM	O	O	O
-2019	QC	O	O	O
-में	PSP	O	O	O
-पास	NST	O	B-MISC	OCC
-हो	VM	O	I-MISC	O
-चुके	VAUX	O	I-MISC	O
-छात्र	NN	O	O	O
-जो	PRP	O	O	O
-एक	QC	O	O	O
-या	CC	O	O	O
-ज्यादा	QF	O	O	O
-विषय	NN	O	O	O
-में	PSP	O	O	O
-अपने	PRP	O	O	O
-परफॉर्मेंस	NN	O	O	O
-में	PSP	O	O	O
-सुधार	NN	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-चाहते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-5	QC	O	O	O
-.	SYM	O	O	O
-2014	QC	O	O	O
-में	PSP	O	O	O
-या	CC	O	O	O
-उसके	PRP	O	O	O
-बाद	NST	O	O	O
-पास	NST	O	O	O
-हुए	VM	O	B-MISC	O
-छात्र	NN	O	O	OCC
-जो	PRP	O	O	O
-एक	QC	O	O	O
-अतिरिक्त	JJ	O	O	O
-विषय	NN	O	O	O
-की	PSP	O	O	O
-परीक्षा	NN	O	B-MISC	OCC
-देना	VM	O	I-MISC	O
-चाहते	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+सीबीएसई
+से
+10
+वीं
+और
+12
+वीं
+क्लास
+के
+प्राइवेट
+कैंडिडट
+के
+तौर
+पर
+आवेदन
+करने
+का
+आज
+आखिरी
+दिन
+है
+.
+जो
+छात्र
+प्राइवेट
+कैंडिडेट
+के
+तौर
+पर
+परीक्षा
+देना
+चाहते
+हैं
+उनको
+सीबीएसई
+की
+ऑफिशल
+वेबसाइट
+http://cbse.nic.in
+पर
+जाकर
+आवेदन
+करना
+होगा
+.
+CBSE
+प्राइवेट
+कैंडिडेट
+के
+तौर
+पर
+कौन
+कर
+सकता
+है
+आवेदन
+?
+1
+.
+जिन
+छात्रों
+को
+2019
+के
+एग्जाम
+में
+फेल
+घोषित
+किया
+गया
+है
+.
+2
+.
+जिन
+छात्रों
+की
+जुलाई
+2019
+में
+आयोजित
+परीक्षा
+में
+भी
+कंपार्टमेंट
+आई
+है
+.
+3
+.
+जिन
+छात्रों
+की
+2019
+की
+मुख्य
+परीक्षा
+में
+कंपार्टमेंट
+आई
+और
+जुलाई-
+2019
+की
+कंपार्टमेंट
+परीक्षा
+नहीं
+दी
+.
+4
+.
+2019
+में
+पास
+हो
+चुके
+छात्र
+जो
+एक
+या
+ज्यादा
+विषय
+में
+अपने
+परफॉर्मेंस
+में
+सुधार
+करना
+चाहते
+हैं
+.
+5
+.
+2014
+में
+या
+उसके
+बाद
+पास
+हुए
+छात्र
+जो
+एक
+अतिरिक्त
+विषय
+की
+परीक्षा
+देना
+चाहते
+हैं
+.

@@ -1,272 +1,272 @@
-रिलायंस	XC	O	O	O
-जियो	XC	O	O	O
-(	SYM	O	O	O
-Reliance	JJ	O	O	O
-Jio	NN	O	O	O
-)	SYM	O	O	O
-ने	PSP	O	O	O
-अपने	PRP	O	O	O
-ग्राहकों	NN	O	O	O
-को	PSP	O	O	O
-30	QC	O	O	O
-मिनट	NN	O	O	O
-का	PSP	O	O	O
-फ्री	JJ	O	O	O
-टॉक	NN	O	O	O
-टाइम	NN	O	O	O
-देना	VM	O	B-MISC	OCC
-शुरू	NN	O	B-MISC	ASP
-कर	VM	O	I-MISC	O
-दिया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जियो	NN	O	O	O
-ने	PSP	O	O	O
-यह	DEM	O	O	O
-कदम	NN	O	O	O
-अपने	PRP	O	O	O
-ग्राहकों	NN	O	O	O
-को	PSP	O	O	O
-'	SYM	O	O	O
-खुश	JJ	O	O	O
-'	SYM	O	B-MISC	O
-करने	VM	O	I-MISC	O
-की	PSP	O	O	O
-कोशिश	NN	O	O	O
-के	PSP	O	O	O
-तहत	NN	O	O	O
-उठाया	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	DEM	O	O	O
-कदम	NN	O	O	O
-से	PSP	O	O	O
-जियो	VM	O	B-MISC	OCC
-यह	PRP	O	O	O
-सुनिश्चित	JJ	O	B-MISC	OCC
-करना	VM	O	I-MISC	O
-चाहती	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-उसके	PRP	O	O	O
-हालिया	XC	O	O	O
-फैसले	NN	O	O	O
-का	PSP	O	O	O
-असर	NN	O	O	O
-कंपनी	NNP	O	O	O
-के	PSP	O	O	O
-सब्सक्राइबर	JJ	O	O	O
-बेस	NN	O	O	O
-पर	PSP	O	O	O
-ना	NEG	O	B-MISC	OCC
-पड़े	NN	O	I-MISC	O
-.	SYM	O	O	O
-कंपनी	NNP	O	O	O
-ने	PSP	O	O	O
-पिछले	JJ	B	O	O
-दिनों	NN	I	O	O
-घोषणा	NN	O	O	O
-की	VM	O	B-MISC	O
-थी	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-जियो	NN	O	O	O
-के	PSP	O	O	O
-ग्राहकों	NN	O	O	O
-को	PSP	O	O	O
-दूसरे	PRP	O	O	O
-नेटवर्क	NN	O	O	O
-पर	PSP	O	O	O
-की	VM	O	B-MISC	DESC
-जाने	VAUX	O	I-MISC	O
-वाली	PSP	O	O	O
-कॉल	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-प्रति	RP:?	O	O	O
-मिनट	NN	O	O	O
-6	QC	O	O	O
-पैसे	NN	O	O	O
-देने	VM	O	B-MISC	OCC
-होंगे	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जियो	XC	O	O	O
-का	PSP	O	O	O
-लिमिटेड	XC	O	O	O
-पीरियड	NNP	O	O	O
-ऑफर	NN	O	O	O
-उसके	PRP	O	O	O
-हालिया	XC	O	O	O
-फैसले	NNP	O	O	O
-के	PSP	O	O	O
-48	QC	O	O	O
-घंटे	NN	O	O	O
-से	PSP	O	O	O
-भी	RP	O	O	O
-कम	QF	O	O	O
-समय	NN	O	O	O
-में	PSP	O	O	O
-आया	VM	O	B-STAT	OCC
-है	VAUX	O	I-STAT	O
-.	SYM	O	O	O
-अपने	PRP	O	O	O
-पैक	NN	O	O	O
-रिचार्ज	NN	O	O	O
-कराने	VM	O	B-STAT	O
-वाले	PSP	O	I-STAT	O
-ग्राहकों	NN	O	O	O
-को	PSP	O	O	O
-मेसेज	NN	O	O	O
-के	PSP	O	O	O
-जरिए	PSP	O	O	O
-इसकी	PRP	O	O	O
-जानकारी	NN	O	B-MISC	REP
-दी	VM	O	I-MISC	O
-गई	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-घटनाक्रम	NN	O	O	O
-की	PSP	O	O	O
-जानकारी	NN	O	O	O
-रखने	VM	O	B-STAT	OCC
-वाले	PSP	O	I-STAT	O
-एक	QC	O	O	O
-व्यक्ति	NN	O	O	O
-ने	PSP	O	O	O
-बताया	VM	O	B-MISC	OCC
-,	SYM	O	O	O
-'	SYM	O	O	O
-पहली	QO	O	O	O
-बार	RP	O	O	O
-अपने	PRP	O	O	O
-फोन	NN	O	O	O
-रिचार्ज	NN	O	B-MISC	O
-कराने	VM	O	I-MISC	O
-पर	PSP	O	O	O
-ग्राहकों	NN	O	O	O
-को	PSP	O	O	O
-30	QC	O	O	O
-मिनट	NN	O	O	O
-का	PSP	O	O	O
-फ्री	JJ	O	O	O
-टॉक	NN	O	O	O
-टाइम	NN	O	O	O
-मिलेगा	VM	O	B-MISC	O
-.	SYM	O	O	O
-यह	PRP	O	O	O
-वन-टाइम	JJ	O	O	O
-ऑफर	NN	O	O	O
-प्लान	NN	O	O	O
-की	PSP	O	O	O
-घोषणा	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-से	PSP	O	O	O
-पहले	NST	O	O	O
-7	QC	B	O	O
-दिनों	NN	I	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-उपलब्ध	JJ	O	B-MISC	OCC
-होगा	VM	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-रिलायंस	XC	O	O	O
-जियो	NNP	O	O	O
-ने	PSP	O	O	O
-9	QC	B	O	O
-अक्टूबर	NNP	I	O	O
-को	PSP	O	O	O
-तत्काल	JJ	O	O	O
-प्रभाव	NN	O	O	O
-से	PSP	O	O	O
-चार्ज	NN	O	O	O
-की	PSP	O	O	O
-घोषणा	NN	O	B-MISC	OCC
-की	VM	O	I-MISC	O
-थी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जियो	NN	O	O	O
-ने	PSP	O	O	O
-इस	DEM	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-इकनॉमिक	JJ	O	O	O
-टाइम्स	NN	O	O	O
-के	PSP	O	O	O
-सवालों	NN	O	O	O
-का	PSP	O	O	O
-कोई	PRP	O	O	O
-जवाब	NN	O	B-MISC	O
-नहीं	NEG	O	I-MISC	OCC
-दिया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-दूसरे	JJ	O	O	O
-नेटवर्क्स	NN	O	O	O
-पर	PSP	O	O	O
-कॉल	NN	O	O	O
-के	PSP	O	O	O
-लिए	PSP	O	O	O
-चार्ज	NN	O	B-MISC	OCC
-लिए	PSP	O	I-MISC	O
-जाने	VM	O	I-MISC	O
-से	PSP	O	O	O
-जुड़ी	XC	O	O	O
-जियो	NNP	O	O	O
-की	PSP	O	O	O
-घोषणा	NN	O	O	O
-के	PSP	O	O	O
-बाद	NST	O	O	O
-एयरटेल	NN	O	O	O
-और	CC	O	O	O
-वोडाफोन	JJ	O	O	O
-आइडिया	NN	O	O	O
-ग्राहकों	NN	O	O	O
-को	PSP	O	O	O
-लुभाने	VM	O	B-MISC	O
-की	PSP	O	O	O
-कोशिश	NN	O	O	O
-में	PSP	O	O	O
-जुटी	VM	O	B-MISC	OCC
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-जियो	VM	O	O	O
-के	PSP	O	O	O
-हालिया	XC	O	O	O
-फैसले	NNP	O	O	O
-की	PSP	O	O	O
-ट्विटर	NN	O	O	O
-पर	PSP	O	O	O
-कड़ी	XC	O	O	O
-आलोचना	NN	O	B-MISC	OCC
-हुई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-कई	QF	O	O	O
-यूजर्स	NN	O	O	O
-ने	PSP	O	O	O
-रिलायंस	XC	O	O	O
-जियो	NNP	O	O	O
-को	PSP	O	O	O
-तीन	QC	B	O	O
-साल	NN	I	O	O
-पहले	NST	O	O	O
-अपनी	PRP	O	O	O
-सर्विसेज	NN	O	O	O
-शुरू	NN	O	B-MISC	O
-करते	VM	O	I-MISC	O
-वक्त	NN	O	B-MISC	OCC
-किए	VM	O	I-MISC	O
-गए	VAUX	O	I-MISC	O
-फ्री	XC	O	O	O
-लाइफटाइम	XC	O	O	O
-वॉइस	XC	O	O	O
-कॉल	NN	O	O	O
-से	PSP	O	O	O
-जुड़े	XC	O	O	O
-वायदे	NN	O	O	O
-की	PSP	O	O	O
-याद	NN	O	B-MISC	OCC
-दिलाई	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
+रिलायंस
+जियो
+(
+Reliance
+Jio
+)
+ने
+अपने
+ग्राहकों
+को
+30
+मिनट
+का
+फ्री
+टॉक
+टाइम
+देना
+शुरू
+कर
+दिया
+है
+.
+जियो
+ने
+यह
+कदम
+अपने
+ग्राहकों
+को
+'
+खुश
+'
+करने
+की
+कोशिश
+के
+तहत
+उठाया
+है
+.
+इस
+कदम
+से
+जियो
+यह
+सुनिश्चित
+करना
+चाहती
+है
+कि
+उसके
+हालिया
+फैसले
+का
+असर
+कंपनी
+के
+सब्सक्राइबर
+बेस
+पर
+ना
+पड़े
+.
+कंपनी
+ने
+पिछले
+दिनों
+घोषणा
+की
+थी
+कि
+जियो
+के
+ग्राहकों
+को
+दूसरे
+नेटवर्क
+पर
+की
+जाने
+वाली
+कॉल
+के
+लिए
+प्रति
+मिनट
+6
+पैसे
+देने
+होंगे
+.
+जियो
+का
+लिमिटेड
+पीरियड
+ऑफर
+उसके
+हालिया
+फैसले
+के
+48
+घंटे
+से
+भी
+कम
+समय
+में
+आया
+है
+.
+अपने
+पैक
+रिचार्ज
+कराने
+वाले
+ग्राहकों
+को
+मेसेज
+के
+जरिए
+इसकी
+जानकारी
+दी
+गई
+है
+.
+घटनाक्रम
+की
+जानकारी
+रखने
+वाले
+एक
+व्यक्ति
+ने
+बताया
+,
+'
+पहली
+बार
+अपने
+फोन
+रिचार्ज
+कराने
+पर
+ग्राहकों
+को
+30
+मिनट
+का
+फ्री
+टॉक
+टाइम
+मिलेगा
+.
+यह
+वन-टाइम
+ऑफर
+प्लान
+की
+घोषणा
+के
+बाद
+से
+पहले
+7
+दिनों
+के
+लिए
+उपलब्ध
+होगा
+.
+'
+रिलायंस
+जियो
+ने
+9
+अक्टूबर
+को
+तत्काल
+प्रभाव
+से
+चार्ज
+की
+घोषणा
+की
+थी
+.
+जियो
+ने
+इस
+बारे
+में
+इकनॉमिक
+टाइम्स
+के
+सवालों
+का
+कोई
+जवाब
+नहीं
+दिया
+है
+.
+दूसरे
+नेटवर्क्स
+पर
+कॉल
+के
+लिए
+चार्ज
+लिए
+जाने
+से
+जुड़ी
+जियो
+की
+घोषणा
+के
+बाद
+एयरटेल
+और
+वोडाफोन
+आइडिया
+ग्राहकों
+को
+लुभाने
+की
+कोशिश
+में
+जुटी
+हैं
+.
+जियो
+के
+हालिया
+फैसले
+की
+ट्विटर
+पर
+कड़ी
+आलोचना
+हुई
+है
+.
+कई
+यूजर्स
+ने
+रिलायंस
+जियो
+को
+तीन
+साल
+पहले
+अपनी
+सर्विसेज
+शुरू
+करते
+वक्त
+किए
+गए
+फ्री
+लाइफटाइम
+वॉइस
+कॉल
+से
+जुड़े
+वायदे
+की
+याद
+दिलाई
+है
+.

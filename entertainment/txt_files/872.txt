@@ -1,320 +1,320 @@
-ऐक्ट्रेस	XC	O	O	O
-दीपिका	XC	O	O	O
-पादुकोण	NNP	O	O	O
-डिप्रेशन	NN	O	O	O
-को	PSP	O	O	O
-हराने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-बाद	NST	O	O	O
-अब	PRP	O	O	O
-सक्सेसफुल	JJ	O	O	O
-करियर	NN	O	O	O
-और	CC	O	O	O
-हैपी	XC	O	O	O
-मैरिड	NNP	O	O	O
-लाइफ	XC	O	O	O
-इंजॉय	NN	O	B-MISC	OCC
-कर	VM	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-उनकी	PRP	O	O	O
-इस	DEM	O	O	O
-जर्नी	NN	O	O	O
-में	PSP	O	O	O
-उनके	PRP	O	O	O
-ऐक्टर	XC	O	O	O
-पति	XC	O	O	O
-रणवीर	XC	O	O	O
-सिंह	NNP	O	O	O
-का	PSP	O	O	O
-काफी	QF	O	O	O
-अहम	JJ	O	B-MISC	OCC
-रोल	VM	O	I-MISC	O
-रहा	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-इस	PRP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-दीपिका	NN	O	O	O
-ने	PSP	O	O	O
-हाल	NN	O	O	O
-ही	RP	O	O	O
-में	PSP	O	O	O
-एक	QC	O	O	O
-इंटरव्यू	NN	O	O	O
-में	PSP	O	O	O
-अपनी	PRP	O	O	O
-फीलिंग्स	NN	O	O	O
-जाहिर	JJ	O	B-MISC	O
-कीं	VM	O	I-MISC	O
-.	SYM	O	O	O
-साथ	NST	O	O	O
-ही	RP	O	O	O
-में	PSP	O	O	O
-उन्होंने	PRP	O	O	O
-खुद	PRP	O	O	O
-के	PSP	O	O	O
-सबसे	INTF	O	O	O
-ज्यादा	QF	O	O	O
-फीस	NN	O	O	O
-पाने	VM	O	O	O
-वाली	PSP	O	O	O
-अदाकारा	NN	O	B-MISC	O
-होने	VM	O	I-MISC	O
-को	PSP	O	O	O
-लेकर	VM	O	B-MISC	O
-भी	RP	O	O	O
-राय	NN	O	B-MISC	OCC
-रखी	VM	O	I-MISC	O
-.	SYM	O	O	O
-रिपोर्ट्स	NN	O	O	O
-के	PSP	O	O	O
-मुताबिक	JJ	O	O	O
-,	SYM	O	O	O
-दीपिका	NN	O	O	O
-ने	PSP	O	O	O
-एक	QC	O	O	O
-मैगजीन	NN	O	O	O
-को	PSP	O	O	O
-इंटरव्यू	NN	O	O	O
-देने	VM	O	B-MISC	OCC
-के	PSP	O	O	O
-दौरान	NST	O	O	O
-रणवीर	NN	O	O	O
-के	PSP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-बात	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हुए	VAUX	O	I-MISC	O
-कहा	VM	O	B-MISC	REP
-'	SYM	O	O	O
-मैंने	PRP	O	O	O
-अब	PRP	O	O	O
-तक	RP	O	O	O
-जो	PRP	O	O	O
-भी	RP	O	O	O
-हासिल	NN	O	B-MISC	OCC
-किया	VM	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-उसमें	PRP	O	O	O
-से	PSP	O	O	O
-ज्यादातर	NN	O	O	O
-को	PSP	O	O	O
-मैं	PRP	O	O	O
-रणवीर	NN	O	O	O
-के	PSP	O	O	O
-सपॉर्ट	NN	O	O	O
-के	PSP	O	O	O
-कारण	NN	O	O	O
-पा	VM	O	B-MISC	OCC
-सकी	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-हम	PRP	O	O	O
-अच्छी	JJ	O	O	O
-टीम	NN	O	O	O
-हैं	VM	O	B-STAT	O
-.	SYM	O	O	O
-शादी	NN	O	B-MISC	OCC
-से	PSP	O	O	O
-पहले	NST	O	O	O
-सात	QC	B	O	O
-साल	NN	I	O	O
-तक	RP	O	O	O
-हम	PRP	O	O	O
-दोनों	NN	O	O	O
-ने	PSP	O	O	O
-काफी	QF	O	O	O
-कुछ	QF	O	O	O
-देखा	VM	O	B-MISC	OCC
-.	SYM	O	O	O
-रणवीर	NN	O	O	O
-ने	PSP	O	O	O
-मेरे	PRP	O	O	O
-गिरते-चढ़ते	JJ	O	O	O
-करियर	NN	O	O	O
-को	PSP	O	O	O
-देखा	VM	O	B-MISC	OCC
-और	CC	O	O	O
-मेरी	PRP	O	O	O
-जिंदगी	NN	O	O	O
-के	PSP	O	O	O
-सबसे	INTF	O	O	O
-बुरे	JJ	O	O	O
-समय	NN	O	O	O
-यानी	CC	O	O	O
-जब	PRP	O	O	O
-मैं	PRP	O	O	O
-डिप्रेशन	NN	O	O	O
-में	PSP	O	O	O
-थी	VM	O	B-STAT	OCC
-तब	PRP	O	O	O
-भी	RP	O	O	O
-वह	PRP	O	O	O
-मेरे	PRP	O	O	O
-साथ	NST	O	O	O
-थे	VM	O	B-STAT	OCC
-.	SYM	O	O	O
-हम	PRP	O	O	O
-एक-दूसरे	NN	O	O	O
-को	PSP	O	O	O
-आज	NN	O	O	O
-भी	RP	O	O	O
-एक्साइटिड	NN	O	O	O
-फील	NN	O	B-MISC	OCC
-करवाते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-एक-दूसरे	NN	O	O	O
-को	PSP	O	O	O
-इंस्पायर	NN	O	B-MISC	OCC
-करते	VM	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-वह	PRP	O	O	O
-मेरे	PRP	O	O	O
-बेस्ट	JJ	O	O	O
-फ्रेंड	NN	O	O	O
-हैं	VM	O	O	O
-'	SYM	O	O	O
-.	SYM	O	O	O
-हाइएस्ट	NN	O	O	O
-पेड	XC	O	O	O
-ऐक्ट्रेस	NN	O	O	O
-का	PSP	O	O	O
-खिताब	NN	O	O	O
-मिलने	VM	O	B-MISC	OCC
-को	PSP	O	O	O
-लेकर	VM	O	B-MISC	O
-भी	RP	O	O	O
-दीपिका	NN	O	O	O
-ने	PSP	O	O	O
-बात	NN	O	B-MISC	O
-की	PSP	O	I-MISC	O
-.	SYM	O	O	O
-'	SYM	O	O	O
-मैं	PRP	O	O	O
-कहां	WQ	O	O	O
-रहती	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-और	CC	O	O	O
-कितना	QF	O	O	O
-कमाती	VM	O	O	O
-हूं	VAUX	O	O	O
-इस	PRP	O	O	O
-बारे	PSP	O	O	O
-में	PSP	O	O	O
-बात	NN	O	B-MISC	O
-करना	VM	O	I-MISC	O
-मेरे	PRP	O	O	O
-नेचर	NN	O	O	O
-में	PSP	O	O	O
-नहीं	NEG	O	B-STAT	DECL
-है	VM	O	I-STAT	O
-.	SYM	O	O	O
-हालांकि	CC	O	O	O
-इसे	PRP	O	O	O
-लेकर	VM	O	O	O
-मैं	PRP	O	O	O
-असमंजस	NN	O	O	O
-में	PSP	O	O	O
-भी	RP	O	O	O
-रहती	VM	O	B-MISC	OCC
-हूं	VAUX	O	I-MISC	O
-क्योंकि	CC	O	O	O
-मुझे	PRP	O	O	O
-पता	JJ	O	B-MISC	DEC
-है	VM	O	I-MISC	O
-कि	CC	O	O	O
-आज	NN	O	O	O
-के	PSP	O	O	O
-समय	NN	O	O	O
-में	PSP	O	O	O
-इसे	PRP	O	O	O
-लेकर	VM	O	O	O
-बात	NN	O	B-MISC	O
-करना	VM	O	I-MISC	O
-जरूरी	JJ	O	O	O
-है	VM	O	B-STAT	O
-.	SYM	O	O	O
-सबसे	INTF	O	O	O
-ज्यादा	QF	O	O	O
-फीस	NN	O	O	O
-पाने	VM	O	O	O
-वाली	PSP	O	O	O
-अदाकारा	NN	O	O	O
-बनकर	VM	O	O	O
-मुझे	PRP	O	O	O
-बुरा	JJ	O	O	O
-भी	RP	O	O	O
-लगता	VM	O	B-MISC	OCC
-है	VAUX	O	I-MISC	O
-क्योंकि	CC	O	O	O
-मुझे	PRP	O	O	O
-अहसास	NN	O	B-MISC	O
-है	VM	O	I-MISC	O
-कि	CC	O	O	O
-मेरे	PRP	O	O	O
-लिए	PSP	O	O	O
-फीस	NN	O	O	O
-से	PSP	O	O	O
-ज्यादा	QF	O	O	O
-अहमियत	JJ	O	O	O
-फिल्म	NN	O	O	O
-की	PSP	O	O	O
-होनी	VM	O	B-MISC	OCC
-चाहिए	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मैं	PRP	O	O	O
-अब	PRP	O	O	O
-खुद	PRP	O	O	O
-भी	RP	O	O	O
-प्रड्यूसर	NN	O	B-MISC	OCC
-बन	VM	O	I-MISC	O
-चुकी	VAUX	O	I-MISC	O
-हूं	VAUX	O	I-MISC	O
-,	SYM	O	O	O
-इसलिए	CC	O	O	O
-इन	DEM	O	O	O
-चीजों	NN	O	O	O
-को	PSP	O	O	O
-ज्यादा	QF	O	O	O
-बेहतर	JJ	O	O	O
-तरीके	NN	O	O	O
-से	PSP	O	O	O
-समझ	VM	O	B-MISC	OCC
-पा	VAUX	O	I-MISC	O
-रही	VAUX	O	I-MISC	O
-हैं	VAUX	O	I-MISC	O
-.	SYM	O	O	O
-मुझे	PRP	O	O	O
-लगता	VM	O	B-MISC	REP
-है	VAUX	O	I-MISC	O
-कि	CC	O	O	O
-अब	PRP	O	O	O
-समय	NN	O	B-MISC	O
-आ	VM	O	I-MISC	OCC
-गया	VAUX	O	I-MISC	O
-है	VAUX	O	I-MISC	O
-जब	PRP	O	O	O
-मेल	NN	O	O	O
-ऐक्टर्स	NN	O	O	O
-भारी-भरकम	JJ	O	O	O
-फीस	NN	O	O	O
-लेकर	VM	O	O	O
-फिल्म	NN	O	O	O
-पर	PSP	O	O	O
-बोझ	NN	O	O	O
-बढ़ाने	NN	O	O	O
-की	PSP	O	O	O
-बात	NN	O	O	O
-पर	PSP	O	O	O
-विचार	NN	O	B-MISC	O
-करें	VM	O	I-MISC	O
-और	CC	O	O	O
-इसे	PRP	O	O	O
-रोकें	NN	O	O	OCC
-'	SYM	O	O	O
-.	SYM	O	O	O
+ऐक्ट्रेस
+दीपिका
+पादुकोण
+डिप्रेशन
+को
+हराने
+के
+बाद
+अब
+सक्सेसफुल
+करियर
+और
+हैपी
+मैरिड
+लाइफ
+इंजॉय
+कर
+रही
+हैं
+.
+उनकी
+इस
+जर्नी
+में
+उनके
+ऐक्टर
+पति
+रणवीर
+सिंह
+का
+काफी
+अहम
+रोल
+रहा
+है
+.
+इस
+बारे
+में
+दीपिका
+ने
+हाल
+ही
+में
+एक
+इंटरव्यू
+में
+अपनी
+फीलिंग्स
+जाहिर
+कीं
+.
+साथ
+ही
+में
+उन्होंने
+खुद
+के
+सबसे
+ज्यादा
+फीस
+पाने
+वाली
+अदाकारा
+होने
+को
+लेकर
+भी
+राय
+रखी
+.
+रिपोर्ट्स
+के
+मुताबिक
+,
+दीपिका
+ने
+एक
+मैगजीन
+को
+इंटरव्यू
+देने
+के
+दौरान
+रणवीर
+के
+बारे
+में
+बात
+करते
+हुए
+कहा
+'
+मैंने
+अब
+तक
+जो
+भी
+हासिल
+किया
+है
+उसमें
+से
+ज्यादातर
+को
+मैं
+रणवीर
+के
+सपॉर्ट
+के
+कारण
+पा
+सकी
+.
+हम
+अच्छी
+टीम
+हैं
+.
+शादी
+से
+पहले
+सात
+साल
+तक
+हम
+दोनों
+ने
+काफी
+कुछ
+देखा
+.
+रणवीर
+ने
+मेरे
+गिरते-चढ़ते
+करियर
+को
+देखा
+और
+मेरी
+जिंदगी
+के
+सबसे
+बुरे
+समय
+यानी
+जब
+मैं
+डिप्रेशन
+में
+थी
+तब
+भी
+वह
+मेरे
+साथ
+थे
+.
+हम
+एक-दूसरे
+को
+आज
+भी
+एक्साइटिड
+फील
+करवाते
+हैं
+और
+एक-दूसरे
+को
+इंस्पायर
+करते
+हैं
+.
+वह
+मेरे
+बेस्ट
+फ्रेंड
+हैं
+'
+.
+हाइएस्ट
+पेड
+ऐक्ट्रेस
+का
+खिताब
+मिलने
+को
+लेकर
+भी
+दीपिका
+ने
+बात
+की
+.
+'
+मैं
+कहां
+रहती
+हूं
+और
+कितना
+कमाती
+हूं
+इस
+बारे
+में
+बात
+करना
+मेरे
+नेचर
+में
+नहीं
+है
+.
+हालांकि
+इसे
+लेकर
+मैं
+असमंजस
+में
+भी
+रहती
+हूं
+क्योंकि
+मुझे
+पता
+है
+कि
+आज
+के
+समय
+में
+इसे
+लेकर
+बात
+करना
+जरूरी
+है
+.
+सबसे
+ज्यादा
+फीस
+पाने
+वाली
+अदाकारा
+बनकर
+मुझे
+बुरा
+भी
+लगता
+है
+क्योंकि
+मुझे
+अहसास
+है
+कि
+मेरे
+लिए
+फीस
+से
+ज्यादा
+अहमियत
+फिल्म
+की
+होनी
+चाहिए
+.
+मैं
+अब
+खुद
+भी
+प्रड्यूसर
+बन
+चुकी
+हूं
+,
+इसलिए
+इन
+चीजों
+को
+ज्यादा
+बेहतर
+तरीके
+से
+समझ
+पा
+रही
+हैं
+.
+मुझे
+लगता
+है
+कि
+अब
+समय
+आ
+गया
+है
+जब
+मेल
+ऐक्टर्स
+भारी-भरकम
+फीस
+लेकर
+फिल्म
+पर
+बोझ
+बढ़ाने
+की
+बात
+पर
+विचार
+करें
+और
+इसे
+रोकें
+'
+.
