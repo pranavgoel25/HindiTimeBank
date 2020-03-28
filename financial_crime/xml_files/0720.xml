@@ -1,0 +1,154 @@
+<document>
+<token id="1"> जागरण </token>
+<token id="2"> संवाददाता </token>
+<token id="3"> , </token>
+<token id="4"> भिवानी </token>
+<token id="5"> : </token>
+<token id="6"> गांव </token>
+<token id="7"> इंदीवाली </token>
+<token id="8"> के </token>
+<token id="9"> नजदीक </token>
+<token id="10"> मोटरसाइकिल </token>
+<token id="11"> पर </token>
+<token id="12"> सवार </token>
+<token id="13"> होकर </token>
+<token id="14"> लौट </token>
+<token id="15"> रहे </token>
+<token id="16"> व्यक्ति </token>
+<token id="17"> का </token>
+<token id="18"> रास्ता </token>
+<token id="19"> रोककर </token>
+<token id="20"> करीब </token>
+<token id="21"> आधा </token>
+<token id="22"> दर्जन </token>
+<token id="23"> युवकों </token>
+<token id="24"> ने </token>
+<token id="25"> उसके </token>
+<token id="26"> साथ </token>
+<token id="27"> मारपीट </token>
+<token id="28"> की </token>
+<token id="29"> . </token>
+<token id="30"> साथ </token>
+<token id="31"> ही </token>
+<token id="32"> उक्त </token>
+<token id="33"> लोगों </token>
+<token id="34"> ने </token>
+<token id="35"> उसके </token>
+<token id="36"> 10600 </token>
+<token id="37"> रुपये </token>
+<token id="38"> भी </token>
+<token id="39"> छीन </token>
+<token id="40"> लिए </token>
+<token id="41"> . </token>
+<token id="42"> अस्पताल </token>
+<token id="43"> में </token>
+<token id="44"> उपचाराधीन </token>
+<token id="45"> गांव </token>
+<token id="46"> ढिगावा </token>
+<token id="47"> निवासी </token>
+<token id="48"> गोवर्धन </token>
+<token id="49"> ने </token>
+<token id="50"> बताया </token>
+<token id="51"> कि </token>
+<token id="52"> वह </token>
+<token id="53"> शनिवार </token>
+<token id="54"> शाम </token>
+<token id="55"> करीब </token>
+<token id="56"> 7 </token>
+<token id="57"> बजे </token>
+<token id="58"> वह </token>
+<token id="59"> सुगंरपुर </token>
+<token id="60"> से </token>
+<token id="61"> मोटरसाइकिल </token>
+<token id="62"> पर </token>
+<token id="63"> सवार </token>
+<token id="64"> होकर </token>
+<token id="65"> गांव </token>
+<token id="66"> आ </token>
+<token id="67"> रहा </token>
+<token id="68"> था </token>
+<token id="69"> . </token>
+<token id="70"> इसी </token>
+<token id="71"> दौरान </token>
+<token id="72"> जब </token>
+<token id="73"> वह </token>
+<token id="74"> गांव </token>
+<token id="75"> इंदीवाली </token>
+<token id="76"> के </token>
+<token id="77"> पास </token>
+<token id="78"> पहुंचा </token>
+<token id="79"> तो </token>
+<token id="80"> करीब </token>
+<token id="81"> आधा </token>
+<token id="82"> दर्जन </token>
+<token id="83"> युवकों </token>
+<token id="84"> ने </token>
+<token id="85"> उसे </token>
+<token id="86"> रुकवा </token>
+<token id="87"> लिया </token>
+<token id="88"> और </token>
+<token id="89"> उसके </token>
+<token id="90"> साथ </token>
+<token id="91"> मारपीट </token>
+<token id="92"> कर </token>
+<token id="93"> दी </token>
+<token id="94"> . </token>
+<token id="95"> उक्त </token>
+<token id="96"> युवक </token>
+<token id="97"> उसे </token>
+<token id="98"> घायल </token>
+<token id="99"> अवस्था </token>
+<token id="100"> में </token>
+<token id="101"> छोडकर </token>
+<token id="102"> गोवर्धन </token>
+<token id="103"> के </token>
+<token id="104"> 10 </token>
+<token id="105"> हजार </token>
+<token id="106"> 600 </token>
+<token id="107"> रुपये </token>
+<token id="108"> छीनकर </token>
+<token id="109"> फरार </token>
+<token id="110"> हो </token>
+<token id="111"> गए </token>
+<token id="112"> . </token>
+<token id="113"> घायल </token>
+<token id="114"> को </token>
+<token id="115"> उपचार </token>
+<token id="116"> के </token>
+<token id="117"> लिए </token>
+<token id="118"> चौ </token>
+<token id="119"> . </token>
+<token id="120"> बंसीलाल </token>
+<token id="121"> नागरिक </token>
+<token id="122"> अस्पताल </token>
+<token id="123"> में </token>
+<token id="124"> भर्ती </token>
+<token id="125"> करवाया </token>
+<token id="126"> गया </token>
+<token id="127"> है </token>
+<token id="128"> . </token>
+<EVENT id="e13" class="OCC" tokens="12,13" annConf="High"/>
+<EVENT id="e1" class="OCC" tokens="18,19" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="27,28" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="39,40" annConf="High"/>
+<EVENT id="e4" class="REP" tokens="50" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="63,64" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="66,67,68" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="78" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="86,87" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="91,92,93" annConf="High"/>
+<EVENT id="e14" class="OCC" tokens="101" annConf="High"/>
+<EVENT id="e10" class="IAC" tokens="108" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="109,110,111" annConf="High"/>
+<EVENT id="e12" class="OCC" tokens="124,125,126,127" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="14,15" annConf="High"/>
+<TIMEX id="t1" tokens="53,54" annConf="High" class="TIME"/>
+<SLINK f_id="e4" s_id="e6" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="overlap" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="Medium"/>
+<TLINK f_id="e7" s_id="e8" class="before" AnnConf="High"/>
+<TLINK f_id="e8" s_id="e9" class="before" AnnConf="High"/>
+<TLINK f_id="e10" s_id="e11" class="before" AnnConf="High"/>
+<TLINK f_id="e9" s_id="e12" class="before" AnnConf="Low"/>
+</document>

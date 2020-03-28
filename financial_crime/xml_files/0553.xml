@@ -1,0 +1,116 @@
+<document>
+<token id="1"> चतरा </token>
+<token id="2"> में </token>
+<token id="3"> पिस्तौल </token>
+<token id="4"> के </token>
+<token id="5"> बल </token>
+<token id="6"> पर </token>
+<token id="7"> 80 </token>
+<token id="8"> हजार </token>
+<token id="9"> लूटेचतरा </token>
+<token id="10"> के </token>
+<token id="11"> सिमरिया </token>
+<token id="12"> में </token>
+<token id="13"> एसबीआइ </token>
+<token id="14"> के </token>
+<token id="15"> ग्राहक </token>
+<token id="16"> सेवा </token>
+<token id="17"> केंद्र </token>
+<token id="18"> के </token>
+<token id="19"> संचालक </token>
+<token id="20"> से </token>
+<token id="21"> दिनदहाडे </token>
+<token id="22"> लूट </token>
+<token id="23"> की </token>
+<token id="24"> खबर </token>
+<token id="25"> है </token>
+<token id="26"> . </token>
+<token id="27"> दो </token>
+<token id="28"> अपराधियों </token>
+<token id="29"> ने </token>
+<token id="30"> यहां </token>
+<token id="31"> पिस्तौल </token>
+<token id="32"> दिखाकर </token>
+<token id="33"> 80 </token>
+<token id="34"> हजार </token>
+<token id="35"> लूट </token>
+<token id="36"> लिए </token>
+<token id="37"> . </token>
+<token id="38"> लूट </token>
+<token id="39"> नावाडीह-रोल </token>
+<token id="40"> पथ </token>
+<token id="41"> में </token>
+<token id="42"> ललकीमाटी </token>
+<token id="43"> के </token>
+<token id="44"> पास </token>
+<token id="45"> हुई </token>
+<token id="46"> . </token>
+<token id="47"> जानकारी </token>
+<token id="48"> के </token>
+<token id="49"> अनुसार </token>
+<token id="50"> , </token>
+<token id="51"> संचालक </token>
+<token id="52"> रितेश </token>
+<token id="53"> अपने </token>
+<token id="54"> घर </token>
+<token id="55"> से </token>
+<token id="56"> सिमरिया </token>
+<token id="57"> जा </token>
+<token id="58"> रहा </token>
+<token id="59"> था </token>
+<token id="60"> . </token>
+<token id="61"> रास्ते </token>
+<token id="62"> में </token>
+<token id="63"> उनसे </token>
+<token id="64"> लूटपाट </token>
+<token id="65"> हुई </token>
+<token id="66"> पुलिस </token>
+<token id="67"> लुटेरों </token>
+<token id="68"> की </token>
+<token id="69"> धरपकड़ </token>
+<token id="70"> के </token>
+<token id="71"> लिए </token>
+<token id="72"> छापेमारी </token>
+<token id="73"> कर </token>
+<token id="74"> रही </token>
+<token id="75"> है </token>
+<token id="76"> . </token>
+<token id="77"> यह </token>
+<token id="78"> भी </token>
+<token id="79"> पढ़ेंः </token>
+<token id="80"> आबरू </token>
+<token id="81"> बचाने </token>
+<token id="82"> के </token>
+<token id="83"> लिए </token>
+<token id="84"> हैवानों </token>
+<token id="85"> से </token>
+<token id="86"> भिड़ी </token>
+<token id="87"> नाबालिग </token>
+<token id="88"> , </token>
+<token id="89"> तालाब </token>
+<token id="90"> में </token>
+<token id="91"> कूदीयह </token>
+<token id="92"> भी </token>
+<token id="93"> पढ़ेंः </token>
+<token id="94"> मशीन </token>
+<token id="95"> बेकाम </token>
+<token id="96"> , </token>
+<token id="97"> भारत </token>
+<token id="98"> पहुंचने </token>
+<token id="99"> से </token>
+<token id="100"> पूर्व </token>
+<token id="101"> चीन </token>
+<token id="102"> में </token>
+<token id="103"> 11 </token>
+<token id="104"> करोड़ </token>
+<token id="105"> भुगतान </token>
+<EVENT id="e1" class="PER" tokens="31,32" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="35,36" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="44,45" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="57,58,59" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="64,65" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="72,73,74,75" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="81" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="24,25" annConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+</document>

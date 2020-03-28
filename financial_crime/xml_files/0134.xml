@@ -1,0 +1,150 @@
+<document>
+<token id="1"> ﻿जासं </token>
+<token id="2"> तिगांव </token>
+<token id="3"> : </token>
+<token id="4"> बिजली </token>
+<token id="5"> विभाग </token>
+<token id="6"> विजिलेंस </token>
+<token id="7"> टीम </token>
+<token id="8"> ने </token>
+<token id="9"> तिगांव </token>
+<token id="10"> क्षेत्र </token>
+<token id="11"> के </token>
+<token id="12"> कई </token>
+<token id="13"> गांवों </token>
+<token id="14"> में </token>
+<token id="15"> छापा </token>
+<token id="16"> मारा </token>
+<token id="17"> . </token>
+<token id="18"> इस </token>
+<token id="19"> दौरान </token>
+<token id="20"> बिजली </token>
+<token id="21"> चोरी </token>
+<token id="22"> के </token>
+<token id="23"> 48 </token>
+<token id="24"> केस </token>
+<token id="25"> पकडे </token>
+<token id="26"> जिन </token>
+<token id="27"> पर </token>
+<token id="28"> 15 </token>
+<token id="29"> लाख </token>
+<token id="30"> रुपये </token>
+<token id="31"> का </token>
+<token id="32"> जुर्माना </token>
+<token id="33"> किया </token>
+<token id="34"> है </token>
+<token id="35"> . </token>
+<token id="36"> बदरौला </token>
+<token id="37"> सबस्टेशन </token>
+<token id="38"> के </token>
+<token id="39"> उपमंडल </token>
+<token id="40"> अधिकारी </token>
+<token id="41"> अनिल </token>
+<token id="42"> सोलंकी </token>
+<token id="43"> ने </token>
+<token id="44"> बताया </token>
+<token id="45"> कि </token>
+<token id="46"> म्हारा </token>
+<token id="47"> गांव </token>
+<token id="48"> जगमग </token>
+<token id="49"> गांव </token>
+<token id="50"> योजना </token>
+<token id="51"> के </token>
+<token id="52"> बिजली </token>
+<token id="53"> की </token>
+<token id="54"> आपूर्ति </token>
+<token id="55"> करने </token>
+<token id="56"> के </token>
+<token id="57"> बाद </token>
+<token id="58"> भी </token>
+<token id="59"> चोरी </token>
+<token id="60"> की </token>
+<token id="61"> शिकायत </token>
+<token id="62"> मिल </token>
+<token id="63"> रही </token>
+<token id="64"> थी </token>
+<token id="65"> . </token>
+<token id="66"> शिकायत </token>
+<token id="67"> पर </token>
+<token id="68"> शुक्रवार </token>
+<token id="69"> को </token>
+<token id="70"> विजिलेंस </token>
+<token id="71"> की </token>
+<token id="72"> टीम </token>
+<token id="73"> ने </token>
+<token id="74"> तिगांव </token>
+<token id="75"> नीमका </token>
+<token id="76"> भूपगढ़ </token>
+<token id="77"> फज्जुपुर </token>
+<token id="78"> नीमका </token>
+<token id="79"> के </token>
+<token id="80"> अलावा </token>
+<token id="81"> खेडी </token>
+<token id="82"> सबस्टेशन </token>
+<token id="83"> के </token>
+<token id="84"> गांवों </token>
+<token id="85"> में </token>
+<token id="86"> भी </token>
+<token id="87"> छापे </token>
+<token id="88"> मारे </token>
+<token id="89"> . </token>
+<token id="90"> छापे </token>
+<token id="91"> के </token>
+<token id="92"> दौरान </token>
+<token id="93"> 48 </token>
+<token id="94"> लोगों </token>
+<token id="95"> को </token>
+<token id="96"> बिजली </token>
+<token id="97"> चोरी </token>
+<token id="98"> करते </token>
+<token id="99"> हुए </token>
+<token id="100"> पकडा </token>
+<token id="101"> . </token>
+<token id="102"> चोरी </token>
+<token id="103"> करने </token>
+<token id="104"> वालों </token>
+<token id="105"> पर </token>
+<token id="106"> 15 </token>
+<token id="107"> लाख </token>
+<token id="108"> रुपये </token>
+<token id="109"> का </token>
+<token id="110"> जुर्माना </token>
+<token id="111"> किया </token>
+<token id="112"> है </token>
+<token id="113"> . </token>
+<token id="114"> अगर </token>
+<token id="115"> जुर्माना </token>
+<token id="116"> नहीं </token>
+<token id="117"> भरने </token>
+<token id="118"> की </token>
+<token id="119"> स्थिति </token>
+<token id="120"> में </token>
+<token id="121"> पुलिस </token>
+<token id="122"> में </token>
+<token id="123"> मुकदमा </token>
+<token id="124"> दर्ज </token>
+<token id="125"> करा </token>
+<token id="126"> दिया </token>
+<token id="127"> जाएगा </token>
+<token id="128"> . </token>
+<EVENT id="e1" class="OCC" tokens="15,16" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="25" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="32,33,34" AnnConf="High"/>
+<EVENT id="e4" class="REP" tokens="44" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="54,55" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="62,63,64" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="87,88" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="97,98,99,100" AnnConf="High"/>
+<EVENT id="e10" class="OCC" tokens="110,111,112" AnnConf="High"/>
+<EVENT id="e11" class="OCC" tokens="116,117" AnnConf="High"/>
+<EVENT id="e12" class="OCC" tokens="124,125,126,127" AnnConf="High"/>
+<STATE id="s1" class="DESC" tokens="102,103" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="68" AnnConf="High"/>
+<SLINK f_id="e4" s_id="e5" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="overlap" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="Low"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e7" s_id="e8" class="overlap" AnnConf="High"/>
+<TLINK f_id="e8" s_id="e10" class="before" AnnConf="High"/>
+<TLINK f_id="e11" s_id="e12" class="before" AnnConf="High"/>
+</document>

@@ -1,0 +1,414 @@
+<document>
+<token id="1"> जागरण </token>
+<token id="2"> संवाददाता </token>
+<token id="3"> , </token>
+<token id="4"> अलीगढ़ </token>
+<token id="5"> : </token>
+<token id="6"> चंडौस </token>
+<token id="7"> सीएचसी </token>
+<token id="8"> में </token>
+<token id="9"> एचबीएनसी </token>
+<token id="10"> ( </token>
+<token id="11"> हेल्थ </token>
+<token id="12"> बेस्ड </token>
+<token id="13"> न्यू </token>
+<token id="14"> बोर्न </token>
+<token id="15"> केयर </token>
+<token id="16"> ) </token>
+<token id="17"> योजना </token>
+<token id="18"> में </token>
+<token id="19"> पकडे </token>
+<token id="20"> गए </token>
+<token id="21"> 12.73 </token>
+<token id="22"> लाख </token>
+<token id="23"> रुपये </token>
+<token id="24"> के </token>
+<token id="25"> घोटाले </token>
+<token id="26"> की </token>
+<token id="27"> रिपोर्ट </token>
+<token id="28"> फाइलों </token>
+<token id="29"> में </token>
+<token id="30"> दब </token>
+<token id="31"> गई </token>
+<token id="32"> है </token>
+<token id="33"> . </token>
+<token id="34"> इस </token>
+<token id="35"> मामले </token>
+<token id="36"> में </token>
+<token id="37"> आरोपी </token>
+<token id="38"> ठहराए </token>
+<token id="39"> गए </token>
+<token id="40"> तत्कालीन </token>
+<token id="41"> चिकित्सा </token>
+<token id="42"> अधीक्षक </token>
+<token id="43"> पर </token>
+<token id="44"> विभागीय </token>
+<token id="45"> व </token>
+<token id="46"> कानूनी </token>
+<token id="47"> कार्रवाई </token>
+<token id="48"> के </token>
+<token id="49"> लिए </token>
+<token id="50"> अधिकारियों </token>
+<token id="51"> ने </token>
+<token id="52"> सालभर </token>
+<token id="53"> बाद </token>
+<token id="54"> भी </token>
+<token id="55"> कोई </token>
+<token id="56"> रूचि </token>
+<token id="57"> नहीं </token>
+<token id="58"> दिखाई </token>
+<token id="59"> है </token>
+<token id="60"> . </token>
+<token id="61"> अधिकारी </token>
+<token id="62"> आशा </token>
+<token id="63"> कर्मियों </token>
+<token id="64"> से </token>
+<token id="65"> धीरे-धीरे </token>
+<token id="66"> वसूली </token>
+<token id="67"> के </token>
+<token id="68"> नाम </token>
+<token id="69"> पर </token>
+<token id="70"> गुमराह </token>
+<token id="71"> करने </token>
+<token id="72"> में </token>
+<token id="73"> लगे </token>
+<token id="74"> हुए </token>
+<token id="75"> हैं </token>
+<token id="76"> . </token>
+<token id="77"> ये </token>
+<token id="78"> है </token>
+<token id="79"> मामला </token>
+<token id="80"> : </token>
+<token id="81"> वर्ष </token>
+<token id="82"> 2015 </token>
+<token id="83"> - </token>
+<token id="84"> 16 </token>
+<token id="85"> में </token>
+<token id="86"> चंडौस </token>
+<token id="87"> सीएचसी </token>
+<token id="88"> पर </token>
+<token id="89"> 8000 </token>
+<token id="90"> हजार </token>
+<token id="91"> नवजातों </token>
+<token id="92"> की </token>
+<token id="93"> देखभाल </token>
+<token id="94"> के </token>
+<token id="95"> नाम </token>
+<token id="96"> पर </token>
+<token id="97"> 20 </token>
+<token id="98"> लाख </token>
+<token id="99"> रुपये </token>
+<token id="100"> की </token>
+<token id="101"> धनराशि </token>
+<token id="102"> का </token>
+<token id="103"> भुगतान </token>
+<token id="104"> आशा </token>
+<token id="105"> कर्मियों </token>
+<token id="106"> को </token>
+<token id="107"> किया </token>
+<token id="108"> गया </token>
+<token id="109"> . </token>
+<token id="110"> प्रथम </token>
+<token id="111"> दृष्टया </token>
+<token id="112"> जांच </token>
+<token id="113"> में </token>
+<token id="114"> पता </token>
+<token id="115"> चला </token>
+<token id="116"> की </token>
+<token id="117"> 5095 </token>
+<token id="118"> फर्जी </token>
+<token id="119"> नवजातों </token>
+<token id="120"> के </token>
+<token id="121"> नाम </token>
+<token id="122"> पर </token>
+<token id="123"> कुल </token>
+<token id="124"> 12.73 </token>
+<token id="125"> लाख </token>
+<token id="126"> रुपये </token>
+<token id="127"> का </token>
+<token id="128"> भुगतान </token>
+<token id="129"> अपात्र </token>
+<token id="130"> आशा </token>
+<token id="131"> कर्मियों </token>
+<token id="132"> को </token>
+<token id="133"> कर </token>
+<token id="134"> दिया </token>
+<token id="135"> गया </token>
+<token id="136"> . </token>
+<token id="137"> इसमें </token>
+<token id="138"> तत्कालीन </token>
+<token id="139"> चिकित्सा </token>
+<token id="140"> अधीक्षक </token>
+<token id="141"> डॉ </token>
+<token id="142"> . </token>
+<token id="143"> गौरव </token>
+<token id="144"> नंदन </token>
+<token id="145"> , </token>
+<token id="146"> चतुर्थ </token>
+<token id="147"> श्रेणी </token>
+<token id="148"> कर्मी </token>
+<token id="149"> पंकज </token>
+<token id="150"> व </token>
+<token id="151"> अन्य </token>
+<token id="152"> लोगों </token>
+<token id="153"> को </token>
+<token id="154"> आरोपी </token>
+<token id="155"> बनाया </token>
+<token id="156"> गया </token>
+<token id="157"> है </token>
+<token id="158"> . </token>
+<token id="159"> छह </token>
+<token id="160"> सदस्यीय </token>
+<token id="161"> टीम </token>
+<token id="162"> ने </token>
+<token id="163"> की </token>
+<token id="164"> जांच </token>
+<token id="165"> : </token>
+<token id="166"> डीएम </token>
+<token id="167"> के </token>
+<token id="168"> निर्देश </token>
+<token id="169"> पर </token>
+<token id="170"> छह </token>
+<token id="171"> सदस्यीय </token>
+<token id="172"> टीम </token>
+<token id="173"> बनाई </token>
+<token id="174"> गई </token>
+<token id="175"> है </token>
+<token id="176"> . </token>
+<token id="177"> इसमें </token>
+<token id="178"> डीएलओ </token>
+<token id="179"> डॉ </token>
+<token id="180"> . </token>
+<token id="181"> अशोक </token>
+<token id="182"> कुमार </token>
+<token id="183"> , </token>
+<token id="184"> डीएमओ </token>
+<token id="185"> डॉ </token>
+<token id="186"> . </token>
+<token id="187"> राहुल </token>
+<token id="188"> कुलश्रेष्ठ </token>
+<token id="189"> , </token>
+<token id="190"> डॉ </token>
+<token id="191"> . </token>
+<token id="192"> पीके </token>
+<token id="193"> शर्मा </token>
+<token id="194"> , </token>
+<token id="195"> जिला </token>
+<token id="196"> प्रोग्राम </token>
+<token id="197"> आफिसर </token>
+<token id="198"> ( </token>
+<token id="199"> एनएचएम </token>
+<token id="200"> ) </token>
+<token id="201"> आदि </token>
+<token id="202"> शामिल </token>
+<token id="203"> रहे </token>
+<token id="204"> . </token>
+<token id="205"> जांच </token>
+<token id="206"> में </token>
+<token id="207"> घोटाले </token>
+<token id="208"> की </token>
+<token id="209"> पुष्टि </token>
+<token id="210"> हुई </token>
+<token id="211"> . </token>
+<token id="212"> अन्य </token>
+<token id="213"> स्तर </token>
+<token id="214"> से </token>
+<token id="215"> भी </token>
+<token id="216"> जांच </token>
+<token id="217"> कराई </token>
+<token id="218"> गई </token>
+<token id="219"> , </token>
+<token id="220"> सभी </token>
+<token id="221"> ने </token>
+<token id="222"> घोटाले </token>
+<token id="223"> की </token>
+<token id="224"> बात </token>
+<token id="225"> मानी </token>
+<token id="226"> . </token>
+<token id="227"> तत्कालीन </token>
+<token id="228"> व </token>
+<token id="229"> वर्तमान </token>
+<token id="230"> वित्त </token>
+<token id="231"> एवं </token>
+<token id="232"> लेखाधिकारी </token>
+<token id="233"> ने </token>
+<token id="234"> भी </token>
+<token id="235"> अपनी </token>
+<token id="236"> रिपोर्टो </token>
+<token id="237"> में </token>
+<token id="238"> घोटाले </token>
+<token id="239"> की </token>
+<token id="240"> बात </token>
+<token id="241"> स्वीकार </token>
+<token id="242"> करते </token>
+<token id="243"> हुए </token>
+<token id="244"> कार्रवाई </token>
+<token id="245"> की </token>
+<token id="246"> संस्तुति </token>
+<token id="247"> की </token>
+<token id="248"> . </token>
+<token id="249"> डीएम </token>
+<token id="250"> को </token>
+<token id="251"> भी </token>
+<token id="252"> रिपोर्ट </token>
+<token id="253"> भेजी </token>
+<token id="254"> गई </token>
+<token id="255"> . </token>
+<token id="256"> आरोपियों </token>
+<token id="257"> को </token>
+<token id="258"> बचाने </token>
+<token id="259"> का </token>
+<token id="260"> प्रयास </token>
+<token id="261"> फाइनल </token>
+<token id="262"> जांच </token>
+<token id="263"> रिपोर्ट </token>
+<token id="264"> मिलने </token>
+<token id="265"> के </token>
+<token id="266"> बाद </token>
+<token id="267"> आरोपियों </token>
+<token id="268"> पर </token>
+<token id="269"> विभागीय </token>
+<token id="270"> व </token>
+<token id="271"> कानूनी </token>
+<token id="272"> कार्रवाई </token>
+<token id="273"> होनी </token>
+<token id="274"> चाहिए </token>
+<token id="275"> थी </token>
+<token id="276"> , </token>
+<token id="277"> मगर </token>
+<token id="278"> अधिकारी </token>
+<token id="279"> उन्हें </token>
+<token id="280"> बचाने </token>
+<token id="281"> के </token>
+<token id="282"> प्रयास </token>
+<token id="283"> में </token>
+<token id="284"> जुट </token>
+<token id="285"> गए </token>
+<token id="286"> . </token>
+<token id="287"> आरोपी </token>
+<token id="288"> चिकित्सा </token>
+<token id="289"> अधीक्षक </token>
+<token id="290"> अपना </token>
+<token id="291"> ट्रांसफर </token>
+<token id="292"> कराकर </token>
+<token id="293"> कौशांबी </token>
+<token id="294"> चले </token>
+<token id="295"> गए </token>
+<token id="296"> , </token>
+<token id="297"> अन्य </token>
+<token id="298"> आरोपी </token>
+<token id="299"> कर्मचारियों </token>
+<token id="300"> को </token>
+<token id="301"> सीएमओ </token>
+<token id="302"> ने </token>
+<token id="303"> दूसरे </token>
+<token id="304"> केंद्रों </token>
+<token id="305"> पर </token>
+<token id="306"> भेज </token>
+<token id="307"> दिया </token>
+<token id="308"> . </token>
+<token id="309"> वर्तमान </token>
+<token id="310"> वित्त </token>
+<token id="311"> एवं </token>
+<token id="312"> लेखाधिकारी </token>
+<token id="313"> खुद </token>
+<token id="314"> इससे </token>
+<token id="315"> आहत </token>
+<token id="316"> हैं </token>
+<token id="317"> कि </token>
+<token id="318"> आरोपियों </token>
+<token id="319"> पर </token>
+<token id="320"> कार्रवाई </token>
+<token id="321"> नहीं </token>
+<token id="322"> हो </token>
+<token id="323"> रही </token>
+<token id="324"> . </token>
+<token id="325"> .. </token>
+<token id="326"> वर्जन </token>
+<token id="327"> .. </token>
+<token id="328"> डॉ </token>
+<token id="329"> . </token>
+<token id="330"> गौरव </token>
+<token id="331"> नंदन </token>
+<token id="332"> को </token>
+<token id="333"> नोटिस </token>
+<token id="334"> भेजा </token>
+<token id="335"> गया </token>
+<token id="336"> था </token>
+<token id="337"> , </token>
+<token id="338"> मगर </token>
+<token id="339"> कोई </token>
+<token id="340"> जवाब </token>
+<token id="341"> नहीं </token>
+<token id="342"> आया </token>
+<token id="343"> . </token>
+<token id="344"> जिन </token>
+<token id="345"> आशा </token>
+<token id="346"> कर्मियों </token>
+<token id="347"> के </token>
+<token id="348"> खातों </token>
+<token id="349"> में </token>
+<token id="350"> धनराशि </token>
+<token id="351"> भेजी </token>
+<token id="352"> गई </token>
+<token id="353"> थी </token>
+<token id="354"> , </token>
+<token id="355"> उनसे </token>
+<token id="356"> वसूली </token>
+<token id="357"> कराई </token>
+<token id="358"> जा </token>
+<token id="359"> रही </token>
+<token id="360"> है </token>
+<token id="361"> . </token>
+<token id="362"> - </token>
+<token id="363"> डॉ </token>
+<token id="364"> . </token>
+<token id="365"> एमएल </token>
+<token id="366"> अग्रवाल </token>
+<token id="367"> , </token>
+<token id="368"> सीएमओ </token>
+<token id="369"> . </token>
+<token id="370"> --- </token>
+<EVENT id="e1" class="OCC" tokens="19,20" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="30,31,32" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="38,39" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="46,47" annConf="High"/>
+<EVENT id="e5" class="PER" tokens="56,57,58,59" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="70,71" annConf="High"/>
+<EVENT id="e35" class="OCC" tokens="73,74,75" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="107,108" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="112" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="114,115" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="133,134,135" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="155,156,157" annConf="High"/>
+<EVENT id="e12" class="OCC" tokens="164" annConf="High"/>
+<EVENT id="e13" class="OCC" tokens="173,174,175" annConf="High"/>
+<EVENT id="e14" class="OCC" tokens="209,210" annConf="High"/>
+<EVENT id="e15" class="OCC" tokens="216,217,218" annConf="High"/>
+<EVENT id="e16" class="OCC" tokens="224,225" annConf="High"/>
+<EVENT id="e17" class="OCC" tokens="241,242,243" annConf="High"/>
+<EVENT id="e18" class="OCC" tokens="244" annConf="High"/>
+<EVENT id="e19" class="OCC" tokens="246,247" annConf="High"/>
+<EVENT id="e20" class="OCC" tokens="253,254" annConf="High"/>
+<EVENT id="e21" class="OCC" tokens="258" annConf="High"/>
+<EVENT id="e22" class="OCC" tokens="264" annConf="High"/>
+<EVENT id="e23" class="OCC" tokens="272,273,274,275" annConf="High"/>
+<EVENT id="e24" class="OCC" tokens="282" annConf="High"/>
+<EVENT id="e25" class="OCC" tokens="284,285" annConf="High"/>
+<EVENT id="e26" class="IAC" tokens="292" annConf="High"/>
+<EVENT id="e27" class="OCC" tokens="294,295" annConf="High"/>
+<EVENT id="e28" class="OCC" tokens="306,307" annConf="High"/>
+<EVENT id="e29" class="OCC" tokens="315,316" annConf="High"/>
+<EVENT id="e30" class="OCC" tokens="320,321,322,323" annConf="High"/>
+<EVENT id="e31" class="OCC" tokens="327,328" annConf="High"/>
+<EVENT id="e32" class="OCC" tokens="340,341,342" annConf="High"/>
+<EVENT id="e33" class="OCC" tokens="351,352,353" annConf="High"/>
+<EVENT id="e34" class="OCC" tokens="356,357,358,359,360" annConf="High"/>
+<STATE id="s2" class="DECL" tokens="202,203" annConf="High"/>
+<TIMEX id="t1" tokens="81,82" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="84" annConf="High" class="DATE"/>
+<SLINK f_id="e9" s_id="e10" AnnConf="High"/>
+<TLINK f_id="e17" s_id="e19" class="overlap" AnnConf="High"/>
+<TLINK f_id="e22" s_id="e23" class="before" AnnConf="Medium"/>
+<TLINK f_id="e26" s_id="e27" class="before" AnnConf="Medium"/>
+</document>

@@ -1,0 +1,88 @@
+<document>
+<token id="1"> जामताडा </token>
+<token id="2"> : </token>
+<token id="3"> चित्तरंजन </token>
+<token id="4"> रेलइंजन </token>
+<token id="5"> कारखाना </token>
+<token id="6"> ( </token>
+<token id="7"> चिरेका </token>
+<token id="8"> ) </token>
+<token id="9"> में </token>
+<token id="10"> भारत </token>
+<token id="11"> स्काउट </token>
+<token id="12"> एवं </token>
+<token id="13"> गाइड्स </token>
+<token id="14"> के </token>
+<token id="15"> स्वयं </token>
+<token id="16"> सेवकों </token>
+<token id="17"> ने </token>
+<token id="18"> पश्चिम </token>
+<token id="19"> बंगाल </token>
+<token id="20"> के </token>
+<token id="21"> बालूरगाहट </token>
+<token id="22"> जिले </token>
+<token id="23"> में </token>
+<token id="24"> आई </token>
+<token id="25"> बाढ़ </token>
+<token id="26"> से </token>
+<token id="27"> प्रभावित </token>
+<token id="28"> लोगों </token>
+<token id="29"> की </token>
+<token id="30"> मदद </token>
+<token id="31"> व </token>
+<token id="32"> सहायता </token>
+<token id="33"> करने </token>
+<token id="34"> के </token>
+<token id="35"> लिए </token>
+<token id="36"> राहत </token>
+<token id="37"> सामग्री </token>
+<token id="38"> व </token>
+<token id="39"> दान </token>
+<token id="40"> एकत्र </token>
+<token id="41"> किया </token>
+<token id="42"> . </token>
+<token id="43"> राहत </token>
+<token id="44"> सामग्री </token>
+<token id="45"> एवं </token>
+<token id="46"> दान </token>
+<token id="47"> में </token>
+<token id="48"> प्राप्त </token>
+<token id="49"> तकरीबन </token>
+<token id="50"> 66,000 </token>
+<token id="51"> रुपयों </token>
+<token id="52"> की </token>
+<token id="53"> सहायता </token>
+<token id="54"> राशि </token>
+<token id="55"> भारत </token>
+<token id="56"> स्काउट </token>
+<token id="57"> एंड </token>
+<token id="58"> गाइड्स </token>
+<token id="59"> के </token>
+<token id="60"> संयुक्त </token>
+<token id="61"> सचिव </token>
+<token id="62"> के </token>
+<token id="63"> जरिए </token>
+<token id="64"> भेजी </token>
+<token id="65"> गई </token>
+<token id="66"> . </token>
+<token id="67"> मौके </token>
+<token id="68"> पर </token>
+<token id="69"> स्काउट </token>
+<token id="70"> एडं </token>
+<token id="71"> गाइड्स </token>
+<token id="72"> के </token>
+<token id="73"> चितरंजन </token>
+<token id="74"> शाखा </token>
+<token id="75"> के </token>
+<token id="76"> सदस्य </token>
+<token id="77"> उपस्थित </token>
+<token id="78"> थे </token>
+<token id="79"> . </token>
+<EVENT id="e1" class="OCC" tokens="32,33" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="40,41" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="64,65" annConf="High"/>
+<STATE id="s2" class="DESC" tokens="24" annConf="High"/>
+<STATE id="s3" class="DESC" tokens="48" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="77,78" annConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="Medium"/>
+</document>

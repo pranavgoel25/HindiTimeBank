@@ -1,0 +1,163 @@
+<document>
+<token id="1"> गजरौला </token>
+<token id="2"> : </token>
+<token id="3"> पंजाब </token>
+<token id="4"> नेशनल </token>
+<token id="5"> बैंक </token>
+<token id="6"> में </token>
+<token id="7"> पैसे </token>
+<token id="8"> जमा </token>
+<token id="9"> करने </token>
+<token id="10"> जा </token>
+<token id="11"> रहे </token>
+<token id="12"> एक </token>
+<token id="13"> ग्रामीण </token>
+<token id="14"> को </token>
+<token id="15"> दो </token>
+<token id="16"> ठगों </token>
+<token id="17"> ने </token>
+<token id="18"> अपना </token>
+<token id="19"> शिकार </token>
+<token id="20"> बना </token>
+<token id="21"> लिया </token>
+<token id="22"> . </token>
+<token id="23"> उनके </token>
+<token id="24"> ऊपर </token>
+<token id="25"> रंग </token>
+<token id="26"> डाल </token>
+<token id="27"> डालकर </token>
+<token id="28"> दस </token>
+<token id="29"> हजार </token>
+<token id="30"> की </token>
+<token id="31"> रकम </token>
+<token id="32"> से </token>
+<token id="33"> भरे </token>
+<token id="34"> थैला </token>
+<token id="35"> लेकर </token>
+<token id="36"> फरार </token>
+<token id="37"> हो </token>
+<token id="38"> गए </token>
+<token id="39"> . </token>
+<token id="40"> गांव </token>
+<token id="41"> कुमराला </token>
+<token id="42"> बहादुरपुर </token>
+<token id="43"> निवासी </token>
+<token id="44"> धर्मवीर </token>
+<token id="45"> मंगलवार </token>
+<token id="46"> दोपहर </token>
+<token id="47"> 3 </token>
+<token id="48"> बजे </token>
+<token id="49"> एक </token>
+<token id="50"> थैले </token>
+<token id="51"> में </token>
+<token id="52"> दस </token>
+<token id="53"> हजार </token>
+<token id="54"> रुपये </token>
+<token id="55"> रखकर </token>
+<token id="56"> सरकारी </token>
+<token id="57"> अस्पताल </token>
+<token id="58"> के </token>
+<token id="59"> सामने </token>
+<token id="60"> स्थित </token>
+<token id="61"> पंजाब </token>
+<token id="62"> नेशनल </token>
+<token id="63"> बैंक </token>
+<token id="64"> में </token>
+<token id="65"> जमा </token>
+<token id="66"> करने </token>
+<token id="67"> जा </token>
+<token id="68"> रहा </token>
+<token id="69"> था </token>
+<token id="70"> . </token>
+<token id="71"> बैंक </token>
+<token id="72"> एटीएम </token>
+<token id="73"> के </token>
+<token id="74"> पास </token>
+<token id="75"> पहुंचा </token>
+<token id="76"> तो </token>
+<token id="77"> एक </token>
+<token id="78"> युवक </token>
+<token id="79"> ने </token>
+<token id="80"> उसे </token>
+<token id="81"> रोककर </token>
+<token id="82"> बातों </token>
+<token id="83"> में </token>
+<token id="84"> लगाकर </token>
+<token id="85"> थैला </token>
+<token id="86"> नीचे </token>
+<token id="87"> रखवाया </token>
+<token id="88"> और </token>
+<token id="89"> कपडों </token>
+<token id="90"> पर </token>
+<token id="91"> रंग </token>
+<token id="92"> बताकर </token>
+<token id="93"> झाडने </token>
+<token id="94"> को </token>
+<token id="95"> कहा </token>
+<token id="96"> . </token>
+<token id="97"> ग्रामीण </token>
+<token id="98"> के </token>
+<token id="99"> थैला </token>
+<token id="100"> रखते </token>
+<token id="101"> ही </token>
+<token id="102"> युवक </token>
+<token id="103"> उसे </token>
+<token id="104"> लेकर </token>
+<token id="105"> गायब </token>
+<token id="106"> हो </token>
+<token id="107"> गया </token>
+<token id="108"> . </token>
+<token id="109"> ग्रामीण </token>
+<token id="110"> ने </token>
+<token id="111"> शोर </token>
+<token id="112"> मचाया </token>
+<token id="113"> , </token>
+<token id="114"> लेकिन </token>
+<token id="115"> तब </token>
+<token id="116"> तक </token>
+<token id="117"> आरोपी </token>
+<token id="118"> युवक </token>
+<token id="119"> फरार </token>
+<token id="120"> हो </token>
+<token id="121"> चुका </token>
+<token id="122"> था </token>
+<token id="123"> . </token>
+<token id="124"> घटना </token>
+<token id="125"> की </token>
+<token id="126"> सूचना </token>
+<token id="127"> पुलिस </token>
+<token id="128"> को </token>
+<token id="129"> दी </token>
+<token id="130"> है </token>
+<token id="131"> . </token>
+<EVENT id="e1" class="OCC" tokens="8,9,10,11" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="19,20,21" annConf="High"/>
+<EVENT id="e3" class="IAC" tokens="25,26,27" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="33" annConf="High"/>
+<EVENT id="e5" class="IAC" tokens="35" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="36,37,38" annConf="High"/>
+<EVENT id="e7" class="IAC" tokens="55" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="65,66,67,68,69" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="75" annConf="High"/>
+<EVENT id="e10" class="IAC" tokens="81" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="84,85,86,87" annConf="High"/>
+<EVENT id="e19" class="OCC" tokens="91,92,93" annConf="High"/>
+<EVENT id="e12" class="REP" tokens="95" annConf="High"/>
+<EVENT id="e13" class="IAC" tokens="104" annConf="High"/>
+<EVENT id="e14" class="OCC" tokens="105,106,107" annConf="High"/>
+<EVENT id="e15" class="OCC" tokens="112" annConf="High"/>
+<EVENT id="e16" class="OCC" tokens="119,120,121,122" annConf="High"/>
+<EVENT id="e17" class="OCC" tokens="124" annConf="High"/>
+<EVENT id="e18" class="OCC" tokens="126,129,130" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="60" annConf="High"/>
+<TIMEX id="t1" tokens="45" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="46" annConf="High" class="TIME"/>
+<TIMEX id="t3" tokens="47,48" annConf="High" class="TIME"/>
+<SLINK f_id="e12" s_id="e19" AnnConf="Medium"/>
+<TLINK f_id="e3" s_id="e5" class="before" AnnConf="Medium"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e7" s_id="e8" class="before" AnnConf="High"/>
+<TLINK f_id="e9" s_id="e10" class="before" AnnConf="High"/>
+<TLINK f_id="e10" s_id="e11" class="before" AnnConf="High"/>
+<TLINK f_id="e13" s_id="e14" class="before" AnnConf="High"/>
+</document>

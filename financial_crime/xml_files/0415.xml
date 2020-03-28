@@ -1,0 +1,127 @@
+<document>
+<token id="1"> हाथरस </token>
+<token id="2"> : </token>
+<token id="3"> विद्युत </token>
+<token id="4"> विभाग </token>
+<token id="5"> जहां </token>
+<token id="6"> राजस्व </token>
+<token id="7"> वसूली </token>
+<token id="8"> बढ़ाने </token>
+<token id="9"> के </token>
+<token id="10"> लिए </token>
+<token id="11"> हर </token>
+<token id="12"> संभव </token>
+<token id="13"> प्रयास </token>
+<token id="14"> कर </token>
+<token id="15"> रहा </token>
+<token id="16"> है </token>
+<token id="17"> वहीं </token>
+<token id="18"> बिल </token>
+<token id="19"> में </token>
+<token id="20"> गडबडी </token>
+<token id="21"> को </token>
+<token id="22"> लेकर </token>
+<token id="23"> उपभोक्ताओं </token>
+<token id="24"> को </token>
+<token id="25"> नाकों </token>
+<token id="26"> चने </token>
+<token id="27"> चबवाया </token>
+<token id="28"> जाता </token>
+<token id="29"> है </token>
+<token id="30"> . </token>
+<token id="31"> वैसे </token>
+<token id="32"> भी </token>
+<token id="33"> विभाग </token>
+<token id="34"> की </token>
+<token id="35"> ओर </token>
+<token id="36"> से </token>
+<token id="37"> लोगों </token>
+<token id="38"> को </token>
+<token id="39"> समय </token>
+<token id="40"> से </token>
+<token id="41"> विद्युत </token>
+<token id="42"> बिल </token>
+<token id="43"> नहीं </token>
+<token id="44"> मिल </token>
+<token id="45"> पाते </token>
+<token id="46"> . </token>
+<token id="47"> जब </token>
+<token id="48"> मिलते </token>
+<token id="49"> हैं </token>
+<token id="50"> तो </token>
+<token id="51"> कुछ </token>
+<token id="52"> के </token>
+<token id="53"> पांव </token>
+<token id="54"> के </token>
+<token id="55"> नीचे </token>
+<token id="56"> से </token>
+<token id="57"> जमीन </token>
+<token id="58"> ही </token>
+<token id="59"> खिसक </token>
+<token id="60"> जाती </token>
+<token id="61"> है </token>
+<token id="62"> . </token>
+<token id="63"> इस </token>
+<token id="64"> तरह </token>
+<token id="65"> की </token>
+<token id="66"> अनियमितता </token>
+<token id="67"> के </token>
+<token id="68"> शिकार </token>
+<token id="69"> हुए </token>
+<token id="70"> हैं </token>
+<token id="71"> थाना </token>
+<token id="72"> कोतवाली </token>
+<token id="73"> चंदपा </token>
+<token id="74"> के </token>
+<token id="75"> प्रभारी </token>
+<token id="76"> . </token>
+<token id="77"> उनके </token>
+<token id="78"> पास </token>
+<token id="79"> बकाया </token>
+<token id="80"> बिल </token>
+<token id="81"> 3.60 </token>
+<token id="82"> लाख </token>
+<token id="83"> रुपये </token>
+<token id="84"> का </token>
+<token id="85"> आया </token>
+<token id="86"> है </token>
+<token id="87"> . </token>
+<token id="88"> कोतवाली </token>
+<token id="89"> चंदपा </token>
+<token id="90"> प्रभारी </token>
+<token id="91"> रमाकांत </token>
+<token id="92"> पचौरी </token>
+<token id="93"> ने </token>
+<token id="94"> बताया </token>
+<token id="95"> वर्ष </token>
+<token id="96"> 2014 </token>
+<token id="97"> से </token>
+<token id="98"> बिल </token>
+<token id="99"> थाने </token>
+<token id="100"> पर </token>
+<token id="101"> नहीं </token>
+<token id="102"> आया </token>
+<token id="103"> . </token>
+<token id="104"> अब </token>
+<token id="105"> एक </token>
+<token id="106"> साथ </token>
+<token id="107"> बिल </token>
+<token id="108"> भेज </token>
+<token id="109"> दिया </token>
+<token id="110"> गया </token>
+<token id="111"> है </token>
+<EVENT id="e1" class="OCC" tokens="7,8" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="13,14,15,16" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="25,26,27,28,29" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="43,44,45" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="48,49" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="53,54,55,56,57,58,59,60,61" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="85,86" annConf="High"/>
+<EVENT id="e8" class="REP" tokens="94" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="101,102" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="108,109,110,111" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="68,69,70" annConf="High"/>
+<SLINK f_id="e8" s_id="e9" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="Low"/>
+<TLINK f_id="e9" s_id="e10" class="before" AnnConf="High"/>
+</document>

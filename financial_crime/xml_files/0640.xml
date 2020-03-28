@@ -1,0 +1,109 @@
+<document>
+<token id="1"> पटना </token>
+<token id="2"> . </token>
+<token id="3"> 50 </token>
+<token id="4"> रुपये </token>
+<token id="5"> का </token>
+<token id="6"> नया </token>
+<token id="7"> नोट </token>
+<token id="8"> पटना </token>
+<token id="9"> पहुंच </token>
+<token id="10"> चुका </token>
+<token id="11"> है </token>
+<token id="12"> . </token>
+<token id="13"> हालांकि </token>
+<token id="14"> , </token>
+<token id="15"> 200 </token>
+<token id="16"> रुपये </token>
+<token id="17"> के </token>
+<token id="18"> नये </token>
+<token id="19"> नोट </token>
+<token id="20"> के </token>
+<token id="21"> लिए </token>
+<token id="22"> अभी </token>
+<token id="23"> इंतजार </token>
+<token id="24"> करना </token>
+<token id="25"> होगा </token>
+<token id="26"> . </token>
+<token id="27"> 50 </token>
+<token id="28"> रुपये </token>
+<token id="29"> का </token>
+<token id="30"> नया </token>
+<token id="31"> नोट </token>
+<token id="32"> भारतीय </token>
+<token id="33"> रिजर्व </token>
+<token id="34"> बैंक </token>
+<token id="35"> ( </token>
+<token id="36"> आरबीआइ </token>
+<token id="37"> ) </token>
+<token id="38"> के </token>
+<token id="39"> पटना </token>
+<token id="40"> स्थित </token>
+<token id="41"> क्षेत्रीय </token>
+<token id="42"> कार्यालय </token>
+<token id="43"> में </token>
+<token id="44"> पहुंच </token>
+<token id="45"> चुका </token>
+<token id="46"> है </token>
+<token id="47"> . </token>
+<token id="48"> शुक्रवार </token>
+<token id="49"> को </token>
+<token id="50"> इसे </token>
+<token id="51"> विभिन्न </token>
+<token id="52"> बैंकों </token>
+<token id="53"> को </token>
+<token id="54"> भी </token>
+<token id="55"> उपलब्ध </token>
+<token id="56"> करा </token>
+<token id="57"> दिया </token>
+<token id="58"> गया </token>
+<token id="59"> . </token>
+<token id="60"> उम्मीद </token>
+<token id="61"> है </token>
+<token id="62"> कि </token>
+<token id="63"> सोमवार </token>
+<token id="64"> से </token>
+<token id="65"> बैंक </token>
+<token id="66"> शाखाओं </token>
+<token id="67"> में </token>
+<token id="68"> भी </token>
+<token id="69"> ये </token>
+<token id="70"> नये </token>
+<token id="71"> नोट </token>
+<token id="72"> उपलब्ध </token>
+<token id="73"> हो </token>
+<token id="74"> जाएंगे </token>
+<token id="75"> . </token>
+<token id="76"> आरबीआइ </token>
+<token id="77"> की </token>
+<token id="78"> ओर </token>
+<token id="79"> से </token>
+<token id="80"> कहा </token>
+<token id="81"> गया </token>
+<token id="82"> है </token>
+<token id="83"> कि </token>
+<token id="84"> 200 </token>
+<token id="85"> रुपये </token>
+<token id="86"> का </token>
+<token id="87"> नया </token>
+<token id="88"> नोट </token>
+<token id="89"> अभी </token>
+<token id="90"> उपलब्ध </token>
+<token id="91"> नहीं </token>
+<token id="92"> हो </token>
+<token id="93"> पाया </token>
+<token id="94"> है </token>
+<token id="95"> . </token>
+<EVENT id="e1" class="OCC" tokens="9,10,11" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="23,24,25" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="44,45,46" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="55,56,57,58" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="72,73,74" annConf="High"/>
+<EVENT id="e6" class="REP" tokens="80,81,82" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="90,91,92,93,94" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="60,61" annConf="High"/>
+<TIMEX id="t1" tokens="48" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="63" annConf="High" class="DATE"/>
+<SLINK f_id="e6" s_id="e7" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="before" AnnConf="High"/>
+</document>

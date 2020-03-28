@@ -1,0 +1,79 @@
+<document>
+<token id="1"> ﻿बोकारो </token>
+<token id="2"> : </token>
+<token id="3"> सेक्टर- </token>
+<token id="4"> 4 </token>
+<token id="5"> में </token>
+<token id="6"> एटीएम </token>
+<token id="7"> से </token>
+<token id="8"> पैसे </token>
+<token id="9"> निकालने </token>
+<token id="10"> के </token>
+<token id="11"> दौरान </token>
+<token id="12"> बीटीपीएस </token>
+<token id="13"> निवासी </token>
+<token id="14"> एन </token>
+<token id="15"> परवीन </token>
+<token id="16"> नाम </token>
+<token id="17"> की </token>
+<token id="18"> महिला </token>
+<token id="19"> का </token>
+<token id="20"> एटीएम </token>
+<token id="21"> बदलकर </token>
+<token id="22"> जालसाज </token>
+<token id="23"> ने </token>
+<token id="24"> अस्सी </token>
+<token id="25"> हजार </token>
+<token id="26"> रुपये </token>
+<token id="27"> निकाल </token>
+<token id="28"> लिए </token>
+<token id="29"> . </token>
+<token id="30"> महिला </token>
+<token id="31"> एटीएम </token>
+<token id="32"> से </token>
+<token id="33"> रुपये </token>
+<token id="34"> निकाल </token>
+<token id="35"> रही </token>
+<token id="36"> थी </token>
+<token id="37"> , </token>
+<token id="38"> इसी </token>
+<token id="39"> दौरान </token>
+<token id="40"> मदद </token>
+<token id="41"> करने </token>
+<token id="42"> की </token>
+<token id="43"> बात </token>
+<token id="44"> कहकर </token>
+<token id="45"> जालसाज </token>
+<token id="46"> ने </token>
+<token id="47"> एटीएम </token>
+<token id="48"> बदल </token>
+<token id="49"> लिया </token>
+<token id="50"> और </token>
+<token id="51"> पैसे </token>
+<token id="52"> निकाल </token>
+<token id="53"> लिए </token>
+<token id="54"> . </token>
+<token id="55"> पुलिस </token>
+<token id="56"> मामले </token>
+<token id="57"> की </token>
+<token id="58"> जांच </token>
+<token id="59"> कर </token>
+<token id="60"> रही </token>
+<token id="61"> है </token>
+<token id="62"> . </token>
+<EVENT id="e1" class="OCC" tokens="9" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="21" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="27,28" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="34,35,36" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="40,41" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="44" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="47,48,49" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="52,53" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="58,59,60,61" annConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="overlap" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e6" class="overlap" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="High"/>
+<TLINK f_id="e7" s_id="e8" class="before" AnnConf="High"/>
+<TLINK f_id="e8" s_id="e9" class="before" AnnConf="Medium"/>
+</document>

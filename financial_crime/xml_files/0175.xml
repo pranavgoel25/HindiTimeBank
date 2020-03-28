@@ -1,0 +1,122 @@
+<document>
+<token id="1"> ﻿बेगूसराय </token>
+<token id="2"> . </token>
+<token id="3"> मंझौल </token>
+<token id="4"> सहायक </token>
+<token id="5"> थाने </token>
+<token id="6"> के </token>
+<token id="7"> बखरी </token>
+<token id="8"> रोड </token>
+<token id="9"> में </token>
+<token id="10"> एक </token>
+<token id="11"> किराना </token>
+<token id="12"> के </token>
+<token id="13"> थौक </token>
+<token id="14"> विक्रेता </token>
+<token id="15"> की </token>
+<token id="16"> दुकान </token>
+<token id="17"> में </token>
+<token id="18"> शनिवार </token>
+<token id="19"> की </token>
+<token id="20"> रात्रि </token>
+<token id="21"> अज्ञात </token>
+<token id="22"> चोर </token>
+<token id="23"> ने </token>
+<token id="24"> ताला </token>
+<token id="25"> तोडकर </token>
+<token id="26"> एक </token>
+<token id="27"> लाख </token>
+<token id="28"> रुपये </token>
+<token id="29"> से </token>
+<token id="30"> अधिक </token>
+<token id="31"> के </token>
+<token id="32"> सामानों </token>
+<token id="33"> की </token>
+<token id="34"> चोरी </token>
+<token id="35"> कर </token>
+<token id="36"> ली </token>
+<token id="37"> . </token>
+<token id="38"> दुकान </token>
+<token id="39"> मालिक </token>
+<token id="40"> सुनील </token>
+<token id="41"> साह </token>
+<token id="42"> ने </token>
+<token id="43"> चोरी </token>
+<token id="44"> के </token>
+<token id="45"> बाबत </token>
+<token id="46"> थाने </token>
+<token id="47"> में </token>
+<token id="48"> आवेदन </token>
+<token id="49"> देकर </token>
+<token id="50"> मामला </token>
+<token id="51"> दर्ज </token>
+<token id="52"> कराया </token>
+<token id="53"> है </token>
+<token id="54"> . </token>
+<token id="55"> दुकानदार </token>
+<token id="56"> ने </token>
+<token id="57"> बताया </token>
+<token id="58"> कि </token>
+<token id="59"> सुबह </token>
+<token id="60"> जब </token>
+<token id="61"> दुकान </token>
+<token id="62"> खोलने </token>
+<token id="63"> आया </token>
+<token id="64"> तो </token>
+<token id="65"> पता </token>
+<token id="66"> चला </token>
+<token id="67"> कि </token>
+<token id="68"> दुकान </token>
+<token id="69"> का </token>
+<token id="70"> ताला </token>
+<token id="71"> तोडकर </token>
+<token id="72"> तेल </token>
+<token id="73"> डालडा </token>
+<token id="74"> एवं </token>
+<token id="75"> रिफाइन </token>
+<token id="76"> चोरी </token>
+<token id="77"> कर </token>
+<token id="78"> ली </token>
+<token id="79"> गई </token>
+<token id="80"> है </token>
+<token id="81"> . </token>
+<token id="82"> थानाध्यक्ष </token>
+<token id="83"> मनीष </token>
+<token id="84"> कुमार </token>
+<token id="85"> ¨ </token>
+<token id="86"> सह </token>
+<token id="87"> ने </token>
+<token id="88"> बताया </token>
+<token id="89"> कि </token>
+<token id="90"> मामला </token>
+<token id="91"> दर्ज </token>
+<token id="92"> कर </token>
+<token id="93"> अनुसंधान </token>
+<token id="94"> किया </token>
+<token id="95"> जा </token>
+<token id="96"> रहा </token>
+<token id="97"> है </token>
+<token id="98"> . </token>
+<EVENT id="e1" class="OCC" tokens="25" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="34,35,36" AnnConf="High"/>
+<EVENT id="e3" class="IAC" tokens="48,49" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="51,52,53" AnnConf="High"/>
+<EVENT id="e5" class="REP" tokens="57" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="62,63" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="65,66" AnnConf="High"/>
+<EVENT id="e12" class="OCC" tokens="71" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="76,77,78,79,80" AnnConf="High"/>
+<EVENT id="e9" class="REP" tokens="88" AnnConf="High"/>
+<EVENT id="e10" class="OCC" tokens="91,92" AnnConf="High"/>
+<EVENT id="e11" class="OCC" tokens="93,94,95,96,97" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="18" AnnConf="High"/>
+<TIMEX id="t2" class="TIME" tokens="20" AnnConf="High"/>
+<TIMEX id="t3" class="TIME" tokens="59" AnnConf="High"/>
+<SLINK f_id="e3" s_id="e4" AnnConf="High"/>
+<SLINK f_id="e5" s_id="e6" AnnConf="High"/>
+<SLINK f_id="e9" s_id="e10" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="before" AnnConf="High"/>
+<TLINK f_id="e12" s_id="e8" class="before" AnnConf="High"/>
+<TLINK f_id="e10" s_id="e11" class="before" AnnConf="High"/>
+</document>

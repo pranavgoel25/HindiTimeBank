@@ -1,0 +1,82 @@
+<document>
+<token id="1"> -------- </token>
+<token id="2"> टेंपो </token>
+<token id="3"> की </token>
+<token id="4"> तलाश </token>
+<token id="5"> में </token>
+<token id="6"> जुटी </token>
+<token id="7"> पुलिस </token>
+<token id="8"> मकूनपुर </token>
+<token id="9"> , </token>
+<token id="10"> प्रतापगढ़ </token>
+<token id="11"> : </token>
+<token id="12"> जिस </token>
+<token id="13"> टेंपो </token>
+<token id="14"> से </token>
+<token id="15"> संतोष </token>
+<token id="16"> कोहंडौर </token>
+<token id="17"> जा </token>
+<token id="18"> रहा </token>
+<token id="19"> था </token>
+<token id="20"> उसकी </token>
+<token id="21"> तलाश </token>
+<token id="22"> में </token>
+<token id="23"> पुलिस </token>
+<token id="24"> ने </token>
+<token id="25"> वाहनों </token>
+<token id="26"> की </token>
+<token id="27"> चे </token>
+<token id="28"> ¨ </token>
+<token id="29"> कग </token>
+<token id="30"> की </token>
+<token id="31"> . </token>
+<token id="32"> घटना </token>
+<token id="33"> के </token>
+<token id="34"> बाद </token>
+<token id="35"> टेंपो </token>
+<token id="36"> चालक </token>
+<token id="37"> मौके </token>
+<token id="38"> से </token>
+<token id="39"> फरार </token>
+<token id="40"> हो </token>
+<token id="41"> गया </token>
+<token id="42"> था </token>
+<token id="43"> . </token>
+<token id="44"> जानकारी </token>
+<token id="45"> होने </token>
+<token id="46"> के </token>
+<token id="47"> बाद </token>
+<token id="48"> सक्रिय </token>
+<token id="49"> हुई </token>
+<token id="50"> कोहंडौर </token>
+<token id="51"> पुलिस </token>
+<token id="52"> ने </token>
+<token id="53"> पीडित </token>
+<token id="54"> के </token>
+<token id="55"> घर </token>
+<token id="56"> जाकर </token>
+<token id="57"> छानबीन </token>
+<token id="58"> करने </token>
+<token id="59"> के </token>
+<token id="60"> साथ </token>
+<token id="61"> ही </token>
+<token id="62"> वाहनों </token>
+<token id="63"> की </token>
+<token id="64"> चे </token>
+<token id="65"> ¨ </token>
+<token id="66"> कग </token>
+<token id="67"> लगाई </token>
+<token id="68"> . </token>
+<EVENT id="e1" class="OCC" tokens="17,18,19" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="27,28,29,30" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="32" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="39,40,41,42" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="44,45" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="48,49" annConf="High"/>
+<EVENT id="e7" class="IAC" tokens="56" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="57,58" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="64,65,66,67" annConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="before" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="Low"/>
+<TLINK f_id="e7" s_id="e8" class="before" AnnConf="High"/>
+</document>

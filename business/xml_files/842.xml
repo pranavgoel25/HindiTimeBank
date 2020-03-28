@@ -1,0 +1,417 @@
+<document>
+<token id="1"> रिलायंस </token>
+<token id="2"> जियो </token>
+<token id="3"> ने </token>
+<token id="4"> बुधवार </token>
+<token id="5"> को </token>
+<token id="6"> ऐलान </token>
+<token id="7"> किया </token>
+<token id="8"> कि </token>
+<token id="9"> अगर </token>
+<token id="10"> जियो </token>
+<token id="11"> के </token>
+<token id="12"> कस्टमर्स </token>
+<token id="13"> वोडाफोन </token>
+<token id="14"> , </token>
+<token id="15"> आइडिया </token>
+<token id="16"> , </token>
+<token id="17"> एयरटेल </token>
+<token id="18"> के </token>
+<token id="19"> ग्राहकों </token>
+<token id="20"> को </token>
+<token id="21"> फोन </token>
+<token id="22"> करेंगे </token>
+<token id="23"> तो </token>
+<token id="24"> वह </token>
+<token id="25"> उनसे </token>
+<token id="26"> 6 </token>
+<token id="27"> पैसे </token>
+<token id="28"> प्रति </token>
+<token id="29"> मिनट </token>
+<token id="30"> चार्ज </token>
+<token id="31"> वसूल </token>
+<token id="32"> करेगा </token>
+<token id="33"> . </token>
+<token id="34"> ऐसा </token>
+<token id="35"> वह </token>
+<token id="36"> इंटरकनेक्ट </token>
+<token id="37"> यूसेज </token>
+<token id="38"> चार्ज </token>
+<token id="39"> ( </token>
+<token id="40"> IUC </token>
+<token id="41"> ) </token>
+<token id="42"> की </token>
+<token id="43"> भरपाई </token>
+<token id="44"> के </token>
+<token id="45"> लिए </token>
+<token id="46"> कर </token>
+<token id="47"> रहा </token>
+<token id="48"> है </token>
+<token id="49"> . </token>
+<token id="50"> हालांकि </token>
+<token id="51"> , </token>
+<token id="52"> इसके </token>
+<token id="53"> बदले </token>
+<token id="54"> वह </token>
+<token id="55"> अपने </token>
+<token id="56"> ग्राहकों </token>
+<token id="57"> को </token>
+<token id="58"> उतने </token>
+<token id="59"> का </token>
+<token id="60"> डेटा </token>
+<token id="61"> देगा </token>
+<token id="62"> . </token>
+<token id="63"> एयरटेल </token>
+<token id="64"> ने </token>
+<token id="65"> ट्राई </token>
+<token id="66"> से </token>
+<token id="67"> इसकी </token>
+<token id="68"> शिकायत </token>
+<token id="69"> की </token>
+<token id="70"> और </token>
+<token id="71"> कहा </token>
+<token id="72"> कि </token>
+<token id="73"> ऐसा </token>
+<token id="74"> IUC </token>
+<token id="75"> चार्ज </token>
+<token id="76"> को </token>
+<token id="77"> खत्म </token>
+<token id="78"> करने </token>
+<token id="79"> के </token>
+<token id="80"> लिए </token>
+<token id="81"> किया </token>
+<token id="82"> गया </token>
+<token id="83"> है </token>
+<token id="84"> . </token>
+<token id="85"> ऐनालिस्टों </token>
+<token id="86"> का </token>
+<token id="87"> कहना </token>
+<token id="88"> है </token>
+<token id="89"> कि </token>
+<token id="90"> इस </token>
+<token id="91"> तरह </token>
+<token id="92"> अब </token>
+<token id="93"> जियो </token>
+<token id="94"> के </token>
+<token id="95"> प्रतिद्वंद्वियों </token>
+<token id="96"> को </token>
+<token id="97"> भी </token>
+<token id="98"> मौका </token>
+<token id="99"> मिला </token>
+<token id="100"> कि </token>
+<token id="101"> वह </token>
+<token id="102"> अपने </token>
+<token id="103"> ग्राहकों </token>
+<token id="104"> से </token>
+<token id="105"> इस </token>
+<token id="106"> तरह </token>
+<token id="107"> का </token>
+<token id="108"> चार्ज </token>
+<token id="109"> वसूल </token>
+<token id="110"> कर </token>
+<token id="111"> सकें </token>
+<token id="112"> . </token>
+<token id="113"> हालांकि </token>
+<token id="114"> , </token>
+<token id="115"> यह </token>
+<token id="116"> ग्राहक </token>
+<token id="117"> पर </token>
+<token id="118"> निर्भर </token>
+<token id="119"> करता </token>
+<token id="120"> है </token>
+<token id="121"> कि </token>
+<token id="122"> वह </token>
+<token id="123"> टेलिकॉम </token>
+<token id="124"> सर्विस </token>
+<token id="125"> प्रोवाइडर </token>
+<token id="126"> के </token>
+<token id="127"> फैसले </token>
+<token id="128"> को </token>
+<token id="129"> किस </token>
+<token id="130"> रूप </token>
+<token id="131"> में </token>
+<token id="132"> लेते </token>
+<token id="133"> हैं </token>
+<token id="134"> . </token>
+<token id="135"> IUC </token>
+<token id="136"> चार्ज </token>
+<token id="137"> को </token>
+<token id="138"> लेकर </token>
+<token id="139"> विवाद </token>
+<token id="140"> लंबे </token>
+<token id="141"> समय </token>
+<token id="142"> से </token>
+<token id="143"> जारी </token>
+<token id="144"> है </token>
+<token id="145"> . </token>
+<token id="146"> जियो </token>
+<token id="147"> पर </token>
+<token id="148"> अन्य </token>
+<token id="149"> टेलिकॉम </token>
+<token id="150"> कंपनियां </token>
+<token id="151"> कई </token>
+<token id="152"> तरह </token>
+<token id="153"> के </token>
+<token id="154"> आरोप </token>
+<token id="155"> लगा </token>
+<token id="156"> रही </token>
+<token id="157"> है </token>
+<token id="158"> . </token>
+<token id="159"> ऐनालिस्टों </token>
+<token id="160"> का </token>
+<token id="161"> कहना </token>
+<token id="162"> है </token>
+<token id="163"> कि </token>
+<token id="164"> कई </token>
+<token id="165"> वर्षों </token>
+<token id="166"> तक </token>
+<token id="167"> तीखी </token>
+<token id="168"> होड़ </token>
+<token id="169"> के </token>
+<token id="170"> गवाह </token>
+<token id="171"> रहे </token>
+<token id="172"> टेलिकॉम </token>
+<token id="173"> सेक्टर </token>
+<token id="174"> में </token>
+<token id="175"> यह </token>
+<token id="176"> कदम </token>
+<token id="177"> टैरिफ </token>
+<token id="178"> बढ़ने </token>
+<token id="179"> की </token>
+<token id="180"> राह </token>
+<token id="181"> बना </token>
+<token id="182"> सकता </token>
+<token id="183"> है </token>
+<token id="184"> . </token>
+<token id="185"> बुधवार </token>
+<token id="186"> को </token>
+<token id="187"> मुकेश </token>
+<token id="188"> अंबानी </token>
+<token id="189"> की </token>
+<token id="190"> टेलिकॉम </token>
+<token id="191"> कंपनी </token>
+<token id="192"> ने </token>
+<token id="193"> कहा </token>
+<token id="194"> कि </token>
+<token id="195"> उसे </token>
+<token id="196"> अपने </token>
+<token id="197"> 35 </token>
+<token id="198"> करोड़ </token>
+<token id="199"> से </token>
+<token id="200"> ज्यादा </token>
+<token id="201"> यूजर्स </token>
+<token id="202"> से </token>
+<token id="203"> 6 </token>
+<token id="204"> पैसे </token>
+<token id="205"> प्रति </token>
+<token id="206"> मिनट </token>
+<token id="207"> का </token>
+<token id="208"> IUC </token>
+<token id="209"> की </token>
+<token id="210"> रिकवरी </token>
+<token id="211"> शुरू </token>
+<token id="212"> करने </token>
+<token id="213"> के </token>
+<token id="214"> लिए </token>
+<token id="215"> ' </token>
+<token id="216"> मजबूर </token>
+<token id="217"> ' </token>
+<token id="218"> होना </token>
+<token id="219"> पड़ा </token>
+<token id="220"> है </token>
+<token id="221"> जिसका </token>
+<token id="222"> भुगतान </token>
+<token id="223"> उसे </token>
+<token id="224"> प्रतिद्वंद्वी </token>
+<token id="225"> कंपनियों </token>
+<token id="226"> को </token>
+<token id="227"> करना </token>
+<token id="228"> पड़ता </token>
+<token id="229"> है </token>
+<token id="230"> . </token>
+<token id="231"> हर </token>
+<token id="232"> वॉयस </token>
+<token id="233"> कॉल </token>
+<token id="234"> फ्री </token>
+<token id="235"> रखने </token>
+<token id="236"> का </token>
+<token id="237"> वादा </token>
+<token id="238"> कर </token>
+<token id="239"> चुकी </token>
+<token id="240"> कंपनी </token>
+<token id="241"> ने </token>
+<token id="242"> कहा </token>
+<token id="243"> कि </token>
+<token id="244"> टेलिकॉम </token>
+<token id="245"> रेगुलेटरी </token>
+<token id="246"> अथॉरिटी </token>
+<token id="247"> ऑफ </token>
+<token id="248"> इंडिया </token>
+<token id="249"> जब </token>
+<token id="250"> तक </token>
+<token id="251"> IUC </token>
+<token id="252"> को </token>
+<token id="253"> जीरो </token>
+<token id="254"> नहीं </token>
+<token id="255"> कर </token>
+<token id="256"> देता </token>
+<token id="257"> , </token>
+<token id="258"> तब </token>
+<token id="259"> तक </token>
+<token id="260"> उसे </token>
+<token id="261"> यह </token>
+<token id="262"> रिकवरी </token>
+<token id="263"> जारी </token>
+<token id="264"> रखने </token>
+<token id="265"> को </token>
+<token id="266"> ' </token>
+<token id="267"> मजबूर </token>
+<token id="268"> ' </token>
+<token id="269"> रहना </token>
+<token id="270"> पड़ेगा </token>
+<token id="271"> . </token>
+<token id="272"> हालांकि </token>
+<token id="273"> कंपनी </token>
+<token id="274"> ने </token>
+<token id="275"> कहा </token>
+<token id="276"> कि </token>
+<token id="277"> वह </token>
+<token id="278"> इसकी </token>
+<token id="279"> भरपाई </token>
+<token id="280"> यूजर्स </token>
+<token id="281"> को </token>
+<token id="282"> अतिरिक्त </token>
+<token id="283"> डेटा </token>
+<token id="284"> देकर </token>
+<token id="285"> करेगी </token>
+<token id="286"> ताकि </token>
+<token id="287"> उनके </token>
+<token id="288"> लिए </token>
+<token id="289"> टैरिफ </token>
+<token id="290"> में </token>
+<token id="291"> कोई </token>
+<token id="292"> ' </token>
+<token id="293"> प्रभावी </token>
+<token id="294"> बढ़ोतरी </token>
+<token id="295"> न </token>
+<token id="296"> हो </token>
+<token id="297"> . </token>
+<token id="298"> ' </token>
+<token id="299"> जियो </token>
+<token id="300"> से </token>
+<token id="301"> जियो </token>
+<token id="302"> , </token>
+<token id="303"> लैंडलाइन </token>
+<token id="304"> और </token>
+<token id="305"> वॉट्सऐप </token>
+<token id="306"> जैसे </token>
+<token id="307"> ऐप </token>
+<token id="308"> के </token>
+<token id="309"> जरिए </token>
+<token id="310"> की </token>
+<token id="311"> जाने </token>
+<token id="312"> वाली </token>
+<token id="313"> कॉल्स </token>
+<token id="314"> पहले </token>
+<token id="315"> की </token>
+<token id="316"> तरह </token>
+<token id="317"> फ्री </token>
+<token id="318"> रहेंगी </token>
+<token id="319"> . </token>
+<token id="320"> वोडाफोन </token>
+<token id="321"> आइडिया </token>
+<token id="322"> या </token>
+<token id="323"> एयरटेल </token>
+<token id="324"> के </token>
+<token id="325"> नेटवर्क </token>
+<token id="326"> पर </token>
+<token id="327"> कॉल </token>
+<token id="328"> करने </token>
+<token id="329"> के </token>
+<token id="330"> लिए </token>
+<token id="331"> जियो </token>
+<token id="332"> के </token>
+<token id="333"> कस्टमर्स </token>
+<token id="334"> को </token>
+<token id="335"> 10 </token>
+<token id="336"> , </token>
+<token id="337"> 20 </token>
+<token id="338"> , </token>
+<token id="339"> 50 </token>
+<token id="340"> या </token>
+<token id="341"> 100 </token>
+<token id="342"> रुपये </token>
+<token id="343"> के </token>
+<token id="344"> एडिशनल </token>
+<token id="345"> टॉप </token>
+<token id="346"> अप </token>
+<token id="347"> वाउचर </token>
+<token id="348"> खरीदने </token>
+<token id="349"> होंगे </token>
+<token id="350"> ताकि </token>
+<token id="351"> उन्हें </token>
+<token id="352"> अतिरिक्त </token>
+<token id="353"> IUC </token>
+<token id="354"> मिनट </token>
+<token id="355"> मिल </token>
+<token id="356"> सकें </token>
+<token id="357"> . </token>
+<EVENT id="e1" class="OCC" tokens="6,7" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="22" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="30,31,32" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="46,47,48" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="60,61" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="68,69" AnnConf="High"/>
+<EVENT id="e7" class="REP" tokens="71" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="77,78" AnnConf="Medium"/>
+<EVENT id="e9" class="OCC" tokens="81,82,83" AnnConf="High"/>
+<EVENT id="e10" class="REP" tokens="87,88" AnnConf="High"/>
+<EVENT id="e11" class="OCC" tokens="98,99" AnnConf="High"/>
+<EVENT id="e12" class="OCC" tokens="109,110,111" AnnConf="High"/>
+<EVENT id="e13" class="OCC" tokens="118,119,120" AnnConf="High"/>
+<EVENT id="e34" class="OCC" tokens="130,131,132,133" AnnConf="High"/>
+<EVENT id="e36" class="OCC" tokens="139" AnnConf="High"/>
+<EVENT id="e35" class="ASP" tokens="143,144" AnnConf="High"/>
+<EVENT id="e14" class="OCC" tokens="155,156,157" AnnConf="High"/>
+<EVENT id="e15" class="REP" tokens="161,162" AnnConf="High"/>
+<EVENT id="e16" class="IAC" tokens="177,178" AnnConf="High"/>
+<EVENT id="e17" class="OCC" tokens="180,181,182,183" AnnConf="High"/>
+<EVENT id="e18" class="REP" tokens="193" AnnConf="High"/>
+<EVENT id="e19" class="OCC" tokens="210" AnnConf="High"/>
+<EVENT id="e20" class="ASP" tokens="211,212" AnnConf="High"/>
+<EVENT id="e21" class="OCC" tokens="215,216,217,218,219" AnnConf="High"/>
+<EVENT id="e21" class="OCC" tokens="222,227,228,229" AnnConf="High"/>
+<EVENT id="e22" class="OCC" tokens="234,235" AnnConf="Medium"/>
+<EVENT id="e24" class="REP" tokens="242" AnnConf="High"/>
+<EVENT id="e25" class="OCC" tokens="253,254,255,256" AnnConf="High"/>
+<EVENT id="e37" class="OCC" tokens="262" AnnConf="High"/>
+<EVENT id="e38" class="ASP" tokens="263,264" AnnConf="High"/>
+<EVENT id="e39" class="OCC" tokens="266,267,268,269,270" AnnConf="High"/>
+<EVENT id="e26" class="REP" tokens="275" AnnConf="High"/>
+<EVENT id="e27" class="OCC" tokens="279,285" AnnConf="High"/>
+<EVENT id="e40" class="IAC" tokens="283,284" AnnConf="Medium"/>
+<EVENT id="e28" class="OCC" tokens="294,295,296" AnnConf="High"/>
+<EVENT id="e30" class="OCC" tokens="317,318" AnnConf="High"/>
+<EVENT id="e31" class="OCC" tokens="327,328" AnnConf="High"/>
+<EVENT id="e32" class="OCC" tokens="348,349" AnnConf="High"/>
+<EVENT id="e33" class="OCC" tokens="354,355,356" AnnConf="High"/>
+<STATE id="s1" class="DESC" tokens="170,171" AnnConf="High"/>
+<STATE id="s2" class="DESC" tokens="237,238,239" AnnConf="High"/>
+<STATE id="s3" class="DESC" tokens="310,311" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="4" AnnConf="High"/>
+<TIMEX id="t2" class="DATE" tokens="185" AnnConf="High"/>
+<ALINK f_id="e20" s_id="e19" class="INITIATION"/>
+<ALINK f_id="e36" s_id="e35" class="CONTINUATION"/>
+<ALINK f_id="e37" s_id="e38" class="CONTINUATION"/>
+<SLINK f_id="e7" s_id="e8" AnnConf="High"/>
+<SLINK f_id="e10" s_id="e11" AnnConf="High"/>
+<SLINK f_id="e15" s_id="e16" AnnConf="High"/>
+<SLINK f_id="e16" s_id="e17" AnnConf="High"/>
+<SLINK f_id="e18" s_id="e19" AnnConf="High"/>
+<SLINK f_id="e24" s_id="e25" AnnConf="High"/>
+<SLINK f_id="e26" s_id="e27" AnnConf="High"/>
+<SLINK f_id="e40" s_id="e27" AnnConf="Low"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="overlap" AnnConf="Low"/>
+<TLINK f_id="e27" s_id="e28" class="before" AnnConf="Low"/>
+</document>

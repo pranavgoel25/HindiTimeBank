@@ -1,0 +1,81 @@
+<document>
+<token id="1"> पशुक्रूरता </token>
+<token id="2"> में </token>
+<token id="3"> दो </token>
+<token id="4"> को </token>
+<token id="5"> पकडा </token>
+<token id="6"> गजरौला </token>
+<token id="7"> : </token>
+<token id="8"> थाना </token>
+<token id="9"> पुलिस </token>
+<token id="10"> ने </token>
+<token id="11"> बुधवार </token>
+<token id="12"> की </token>
+<token id="13"> रात </token>
+<token id="14"> डीसीएम </token>
+<token id="15"> में </token>
+<token id="16"> रस्सी </token>
+<token id="17"> से </token>
+<token id="18"> बांधकर </token>
+<token id="19"> 39 </token>
+<token id="20"> पशुओं </token>
+<token id="21"> को </token>
+<token id="22"> ले </token>
+<token id="23"> जाने </token>
+<token id="24"> के </token>
+<token id="25"> मामले </token>
+<token id="26"> में </token>
+<token id="27"> दो </token>
+<token id="28"> आरोपियों </token>
+<token id="29"> को </token>
+<token id="30"> बंदी </token>
+<token id="31"> बनाया </token>
+<token id="32"> है </token>
+<token id="33"> . </token>
+<token id="34"> इनके </token>
+<token id="35"> खिलाफ </token>
+<token id="36"> मुकदमा </token>
+<token id="37"> लिखने </token>
+<token id="38"> की </token>
+<token id="39"> तैयारी </token>
+<token id="40"> की </token>
+<token id="41"> जा </token>
+<token id="42"> रही </token>
+<token id="43"> थी </token>
+<token id="44"> . </token>
+<token id="45"> कार्यवाहक </token>
+<token id="46"> थाना </token>
+<token id="47"> प्रभारी </token>
+<token id="48"> नीरज </token>
+<token id="49"> कुमार </token>
+<token id="50"> ने </token>
+<token id="51"> इनके </token>
+<token id="52"> पकडे </token>
+<token id="53"> जाने </token>
+<token id="54"> की </token>
+<token id="55"> पुष्टि </token>
+<token id="56"> करते </token>
+<token id="57"> बताया </token>
+<token id="58"> कि </token>
+<token id="59"> दो </token>
+<token id="60"> आरोपियों </token>
+<token id="61"> से </token>
+<token id="62"> पूछताछ </token>
+<token id="63"> की </token>
+<token id="64"> जा </token>
+<token id="65"> रही </token>
+<token id="66"> है </token>
+<token id="67"> . </token>
+<EVENT id="e1" class="OCC" tokens="5" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="22,23" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="30,31,32" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="36,37" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="39,40,41,42,43" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="52,53" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="55,56" annConf="High"/>
+<EVENT id="e8" class="REP" tokens="57" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="62,63,64,65,66" annConf="High"/>
+<TIMEX id="t1" tokens="11" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="13" annConf="High" class="TIME"/>
+<SLINK f_id="e8" s_id="e9" AnnConf="High"/>
+</document>

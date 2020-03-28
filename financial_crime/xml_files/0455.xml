@@ -1,0 +1,109 @@
+<document>
+<token id="1"> एसडीएम </token>
+<token id="2"> से </token>
+<token id="3"> की </token>
+<token id="4"> गलत </token>
+<token id="5"> आय </token>
+<token id="6"> बनाने </token>
+<token id="7"> की </token>
+<token id="8"> शिकायत </token>
+<token id="9"> औरैया </token>
+<token id="10"> : </token>
+<token id="11"> सदर </token>
+<token id="12"> विकास </token>
+<token id="13"> खंड </token>
+<token id="14"> के </token>
+<token id="15"> गांव </token>
+<token id="16"> कखावतू </token>
+<token id="17"> निवासी </token>
+<token id="18"> तुलसीराम </token>
+<token id="19"> ने </token>
+<token id="20"> एसडीएम </token>
+<token id="21"> को </token>
+<token id="22"> दिये </token>
+<token id="23"> शिकायती </token>
+<token id="24"> पत्र </token>
+<token id="25"> में </token>
+<token id="26"> बताया </token>
+<token id="27"> कि </token>
+<token id="28"> लेखपाल </token>
+<token id="29"> द्वारा </token>
+<token id="30"> उसका </token>
+<token id="31"> गलत </token>
+<token id="32"> आय </token>
+<token id="33"> प्रमाण </token>
+<token id="34"> पत्र </token>
+<token id="35"> बना </token>
+<token id="36"> दिया </token>
+<token id="37"> गया </token>
+<token id="38"> है </token>
+<token id="39"> . </token>
+<token id="40"> उसने </token>
+<token id="41"> बताया </token>
+<token id="42"> कि </token>
+<token id="43"> उसकी </token>
+<token id="44"> मासिक </token>
+<token id="45"> आय </token>
+<token id="46"> चार </token>
+<token id="47"> हजार </token>
+<token id="48"> रुपये </token>
+<token id="49"> प्रति </token>
+<token id="50"> माह </token>
+<token id="51"> दिखाई </token>
+<token id="52"> गई </token>
+<token id="53"> है </token>
+<token id="54"> . </token>
+<token id="55"> जबकि </token>
+<token id="56"> वह </token>
+<token id="57"> कुछ </token>
+<token id="58"> नहीं </token>
+<token id="59"> करता </token>
+<token id="60"> है </token>
+<token id="61"> और </token>
+<token id="62"> चलने </token>
+<token id="63"> में </token>
+<token id="64"> भी </token>
+<token id="65"> असमर्थ </token>
+<token id="66"> है </token>
+<token id="67"> . </token>
+<token id="68"> ऐसे </token>
+<token id="69"> में </token>
+<token id="70"> वह </token>
+<token id="71"> चार </token>
+<token id="72"> हजार </token>
+<token id="73"> रुपये </token>
+<token id="74"> मासिक </token>
+<token id="75"> कैसे </token>
+<token id="76"> कमा </token>
+<token id="77"> सकता </token>
+<token id="78"> है </token>
+<token id="79"> . </token>
+<token id="80"> उसने </token>
+<token id="81"> एसडीएम </token>
+<token id="82"> से </token>
+<token id="83"> आय </token>
+<token id="84"> प्रमाण </token>
+<token id="85"> पत्र </token>
+<token id="86"> को </token>
+<token id="87"> सही </token>
+<token id="88"> कराने </token>
+<token id="89"> की </token>
+<token id="90"> मांग </token>
+<token id="91"> की </token>
+<token id="92"> है </token>
+<token id="93"> . </token>
+<EVENT id="e1" class="OCC" tokens="6" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="8,9" annConf="High"/>
+<EVENT id="e3" class="REP" tokens="26" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="35,36,37,38" annConf="High"/>
+<EVENT id="e5" class="REP" tokens="41" annConf="High"/>
+<EVENT id="e6" class="PER" tokens="51,52,53" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="58,59,60" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="62" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="76,77,78" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="87,88" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="90,91,92" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="65,66" annConf="High"/>
+<SLINK f_id="e3" s_id="e4" AnnConf="High"/>
+<SLINK f_id="e5" s_id="e6" AnnConf="Medium"/>
+</document>

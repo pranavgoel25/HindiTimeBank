@@ -1,0 +1,112 @@
+<document>
+<token id="1"> ﻿कुचायकोट </token>
+<token id="2"> ( </token>
+<token id="3"> गोपालगंज </token>
+<token id="4"> ) </token>
+<token id="5"> : </token>
+<token id="6"> थाना </token>
+<token id="7"> क्षेत्र </token>
+<token id="8"> के </token>
+<token id="9"> सासामुसा </token>
+<token id="10"> बाजार </token>
+<token id="11"> स्थित </token>
+<token id="12"> स्टेट </token>
+<token id="13"> बैंक </token>
+<token id="14"> की </token>
+<token id="15"> शाखा </token>
+<token id="16"> के </token>
+<token id="17"> एक </token>
+<token id="18"> खाताधारी </token>
+<token id="19"> को </token>
+<token id="20"> साइबर </token>
+<token id="21"> अपराधियों </token>
+<token id="22"> ने </token>
+<token id="23"> अपना </token>
+<token id="24"> शिकार </token>
+<token id="25"> बना </token>
+<token id="26"> लिया </token>
+<token id="27"> . </token>
+<token id="28"> इस </token>
+<token id="29"> खाताधारी </token>
+<token id="30"> के </token>
+<token id="31"> खाता </token>
+<token id="32"> से </token>
+<token id="33"> 67 </token>
+<token id="34"> हजार </token>
+<token id="35"> रुपया </token>
+<token id="36"> उडा </token>
+<token id="37"> लिया </token>
+<token id="38"> गया </token>
+<token id="39"> . </token>
+<token id="40"> बताया </token>
+<token id="41"> जाता </token>
+<token id="42"> है </token>
+<token id="43"> कि </token>
+<token id="44"> थाना </token>
+<token id="45"> क्षेत्र </token>
+<token id="46"> के </token>
+<token id="47"> पहाडपुर </token>
+<token id="48"> गांव </token>
+<token id="49"> निवासी </token>
+<token id="50"> गणेश </token>
+<token id="51"> प्रसाद </token>
+<token id="52"> का </token>
+<token id="53"> स्टेट </token>
+<token id="54"> बैंक </token>
+<token id="55"> की </token>
+<token id="56"> सासामुसा </token>
+<token id="57"> शाखा </token>
+<token id="58"> में </token>
+<token id="59"> खाता </token>
+<token id="60"> है </token>
+<token id="61"> . </token>
+<token id="62"> ये </token>
+<token id="63"> अपने </token>
+<token id="64"> खाता </token>
+<token id="65"> से </token>
+<token id="66"> रुपया </token>
+<token id="67"> निकालने </token>
+<token id="68"> पहुंचे </token>
+<token id="69"> तो </token>
+<token id="70"> पता </token>
+<token id="71"> चला </token>
+<token id="72"> कि </token>
+<token id="73"> इनके </token>
+<token id="74"> खाता </token>
+<token id="75"> से </token>
+<token id="76"> पहले </token>
+<token id="77"> ही </token>
+<token id="78"> 67 </token>
+<token id="79"> हजार </token>
+<token id="80"> रुपया </token>
+<token id="81"> निकाल </token>
+<token id="82"> लिया </token>
+<token id="83"> गया </token>
+<token id="84"> है </token>
+<token id="85"> . </token>
+<token id="86"> खाताधारी </token>
+<token id="87"> के </token>
+<token id="88"> आवेदन </token>
+<token id="89"> पर </token>
+<token id="90"> पुलिस </token>
+<token id="91"> मामले </token>
+<token id="92"> की </token>
+<token id="93"> जांच </token>
+<token id="94"> पडताल </token>
+<token id="95"> कर </token>
+<token id="96"> रही </token>
+<token id="97"> है </token>
+<token id="98"> . </token>
+<EVENT id="e1" class="OCC" tokens="24,25,26" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="36,37,38" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="40,41,42" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="67,68" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="70,71" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="81,82,83,84" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="93,94" annConf="High"/>
+<EVENT id="e8" class="ASP" tokens="95,96,97" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="60" annConf="High"/>
+<ALINK f_id="e8" s_id="e7" class="CONTINUATION"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="High"/>
+</document>

@@ -1,0 +1,105 @@
+<document>
+<token id="1"> ﻿जागरण </token>
+<token id="2"> संवाददाता </token>
+<token id="3"> जमशेदपुर </token>
+<token id="4"> : </token>
+<token id="5"> आरपीएफ </token>
+<token id="6"> थाना </token>
+<token id="7"> प्रभारी </token>
+<token id="8"> के </token>
+<token id="9"> नेतृत्व </token>
+<token id="10"> में </token>
+<token id="11"> टाटानगर </token>
+<token id="12"> स्टेशन </token>
+<token id="13"> में </token>
+<token id="14"> रेल </token>
+<token id="15"> अधिनियम </token>
+<token id="16"> के </token>
+<token id="17"> तहत </token>
+<token id="18"> गुरुवार </token>
+<token id="19"> को </token>
+<token id="20"> अभियान </token>
+<token id="21"> चलाया </token>
+<token id="22"> गया </token>
+<token id="23"> जिसमें </token>
+<token id="24"> 20 </token>
+<token id="25"> लोग </token>
+<token id="26"> रेलवे </token>
+<token id="27"> अधिनियम </token>
+<token id="28"> का </token>
+<token id="29"> उल्लंघन </token>
+<token id="30"> करते </token>
+<token id="31"> हुए </token>
+<token id="32"> गिरफ्तार </token>
+<token id="33"> किए </token>
+<token id="34"> गए </token>
+<token id="35"> . </token>
+<token id="36"> उनसे </token>
+<token id="37"> करीब </token>
+<token id="38"> चार </token>
+<token id="39"> हजार </token>
+<token id="40"> रुपये </token>
+<token id="41"> जुर्माना </token>
+<token id="42"> वसूला </token>
+<token id="43"> गया </token>
+<token id="44"> . </token>
+<token id="45"> जीएम </token>
+<token id="46"> 19 </token>
+<token id="47"> को </token>
+<token id="48"> गुजरेंगे </token>
+<token id="49"> टाटानगर </token>
+<token id="50"> से </token>
+<token id="51"> जागरण </token>
+<token id="52"> संवाददाता </token>
+<token id="53"> जमशेदपुर </token>
+<token id="54"> : </token>
+<token id="55"> जीएम </token>
+<token id="56"> एसएन </token>
+<token id="57"> अग्रवाल </token>
+<token id="58"> 19 </token>
+<token id="59"> नवंबर </token>
+<token id="60"> को </token>
+<token id="61"> टाटानगर </token>
+<token id="62"> स्टेशन </token>
+<token id="63"> से </token>
+<token id="64"> अपनी </token>
+<token id="65"> स्पेशल </token>
+<token id="66"> ट्रेन </token>
+<token id="67"> से </token>
+<token id="68"> गुजरेंगे </token>
+<token id="69"> . </token>
+<token id="70"> वे </token>
+<token id="71"> झाडसुगडा </token>
+<token id="72"> में </token>
+<token id="73"> होने </token>
+<token id="74"> वाले </token>
+<token id="75"> कार्यक्रम </token>
+<token id="76"> में </token>
+<token id="77"> शिरकत </token>
+<token id="78"> करेंगे </token>
+<token id="79"> . </token>
+<token id="80"> वहीं </token>
+<token id="81"> 20 </token>
+<token id="82"> नवंबर </token>
+<token id="83"> को </token>
+<token id="84"> पुन </token>
+<token id="85"> : </token>
+<token id="86"> लौट </token>
+<token id="87"> जाएंगे </token>
+<token id="88"> . </token>
+<EVENT id="e1" class="OCC" tokens="21,22" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="29,30,31" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="32,33,34" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="41,42,43" AnnConf="Medium"/>
+<EVENT id="e5" class="OCC" tokens="68" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="77,78" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="86,87" AnnConf="High"/>
+<STATE id="s1" class="DESC" tokens="73,74" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="18" AnnConf="High"/>
+<TIMEX id="t2" class="DATE" tokens="58,59" AnnConf="High"/>
+<TIMEX id="t3" class="DATE" tokens="81,82" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e3" class="overlap" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="before" AnnConf="Medium"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="High"/>
+</document>

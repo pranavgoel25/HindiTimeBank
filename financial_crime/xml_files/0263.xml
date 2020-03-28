@@ -1,0 +1,107 @@
+<document>
+<token id="1"> ﻿दिलदारनगर </token>
+<token id="2"> ( </token>
+<token id="3"> गाजीपुर </token>
+<token id="4"> ) </token>
+<token id="5"> : </token>
+<token id="6"> स्थानीय </token>
+<token id="7"> रेलवे </token>
+<token id="8"> स्टेशन </token>
+<token id="9"> पर </token>
+<token id="10"> मंगलवार </token>
+<token id="11"> को </token>
+<token id="12"> चलाये </token>
+<token id="13"> गए </token>
+<token id="14"> मजिस्ट्रेट </token>
+<token id="15"> चे </token>
+<token id="16"> ¨ </token>
+<token id="17"> कग </token>
+<token id="18"> अभियान </token>
+<token id="19"> में </token>
+<token id="20"> कुल </token>
+<token id="21"> 55 </token>
+<token id="22"> यात्रियों </token>
+<token id="23"> को </token>
+<token id="24"> हिरासत </token>
+<token id="25"> में </token>
+<token id="26"> ले </token>
+<token id="27"> कर </token>
+<token id="28"> स्थानीय </token>
+<token id="29"> स्टेशन </token>
+<token id="30"> पर </token>
+<token id="31"> लगे </token>
+<token id="32"> रेलवे </token>
+<token id="33"> मजिस्ट्रेट </token>
+<token id="34"> मुगलसराय </token>
+<token id="35"> के </token>
+<token id="36"> कैम्प </token>
+<token id="37"> न्यायालय </token>
+<token id="38"> में </token>
+<token id="39"> पेश </token>
+<token id="40"> किया </token>
+<token id="41"> गया </token>
+<token id="42"> . </token>
+<token id="43"> इसमें </token>
+<token id="44"> बिना </token>
+<token id="45"> टिकट </token>
+<token id="46"> यात्रा </token>
+<token id="47"> करते </token>
+<token id="48"> , </token>
+<token id="49"> ट्रेनों </token>
+<token id="50"> के </token>
+<token id="51"> पायदान </token>
+<token id="52"> पर </token>
+<token id="53"> बैठ </token>
+<token id="54"> कर </token>
+<token id="55"> यात्रा </token>
+<token id="56"> कर </token>
+<token id="57"> रहे </token>
+<token id="58"> , </token>
+<token id="59"> महिला </token>
+<token id="60"> कोच </token>
+<token id="61"> में </token>
+<token id="62"> सफर </token>
+<token id="63"> करते </token>
+<token id="64"> और </token>
+<token id="65"> स्टेशन </token>
+<token id="66"> परिसर </token>
+<token id="67"> में </token>
+<token id="68"> धूम्रपान </token>
+<token id="69"> करने </token>
+<token id="70"> वाले </token>
+<token id="71"> 50 </token>
+<token id="72"> यात्रियों </token>
+<token id="73"> से </token>
+<token id="74"> 30 </token>
+<token id="75"> हजार </token>
+<token id="76"> रुपये </token>
+<token id="77"> बतौर </token>
+<token id="78"> जुर्माना </token>
+<token id="79"> वसूला </token>
+<token id="80"> गया </token>
+<token id="81"> . </token>
+<token id="82"> जुर्माना </token>
+<token id="83"> नहीं </token>
+<token id="84"> देने </token>
+<token id="85"> पर </token>
+<token id="86"> पांच </token>
+<token id="87"> यात्रियों </token>
+<token id="88"> को </token>
+<token id="89"> जेल </token>
+<token id="90"> भेज </token>
+<token id="91"> दिया </token>
+<token id="92"> गया </token>
+<token id="93"> . </token>
+<EVENT id="e1" class="OCC" tokens="12,13" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="15,16,17,18" annConf="High"/>
+<EVENT id="e3" class="IAC" tokens="24,25,26,27" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="39,40,41" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="46,47" annConf="High"/>
+<EVENT id="e6" class="IAC" tokens="53,54" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="55,56,57" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="62,63" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="79,80" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="83,84" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="89,90,91,92" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="68,69,70" annConf="High"/>
+</document>

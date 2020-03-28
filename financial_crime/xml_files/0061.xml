@@ -1,0 +1,161 @@
+<document>
+<token id="1"> जागरण </token>
+<token id="2"> संवाददाता </token>
+
+<token id="3"> सिरसा </token>
+<token id="4"> : </token>
+<token id="5"> अतिरिक्त </token>
+<token id="6"> जिला </token>
+<token id="7"> एवं </token>
+<token id="8"> सत्र </token>
+<token id="9"> न्यायाधीश </token>
+<token id="10"> जेबी </token>
+<token id="11"> गुप्ता </token>
+<token id="12"> की </token>
+<token id="13"> अदालत </token>
+<token id="14"> ने </token>
+<token id="15"> तस्करी </token>
+<token id="16"> मामले </token>
+<token id="17"> में </token>
+<token id="18"> तस्कर </token>
+<token id="19"> को </token>
+<token id="20"> दोषी </token>
+<token id="21"> करार </token>
+<token id="22"> देते </token>
+<token id="23"> हुए </token>
+<token id="24"> एक </token>
+<token id="25"> साल </token>
+<token id="26"> कैद </token>
+<token id="27"> की </token>
+<token id="28"> सजा </token>
+<token id="29"> सुनाई </token>
+<token id="30"> है </token>
+<token id="31"> . </token>
+
+<token id="32"> अदालत </token>
+<token id="33"> ने </token>
+<token id="34"> दोषी </token>
+<token id="35"> पर </token>
+<token id="36"> 10 </token>
+<token id="37"> हजार </token>
+<token id="38"> रुपये </token>
+<token id="39"> का </token>
+<token id="40"> अर्थदंड </token>
+<token id="41"> किया </token>
+<token id="42"> है </token>
+<token id="43"> . </token>
+
+<token id="44"> जुर्माने </token>
+<token id="45"> की </token>
+<token id="46"> अदायगी </token>
+<token id="47"> न </token>
+<token id="48"> करने </token>
+<token id="49"> पर </token>
+<token id="50"> दोषी </token>
+<token id="51"> को </token>
+<token id="52"> 1 </token>
+<token id="53"> माह </token>
+<token id="54"> की </token>
+<token id="55"> अतिरिक्त </token>
+<token id="56"> कैद </token>
+<token id="57"> भुगतनी </token>
+<token id="58"> होगी </token>
+<token id="59"> . </token>
+
+<token id="60"> सीआइए </token>
+<token id="61"> पुलिस </token>
+<token id="62"> ने </token>
+<token id="63"> 9 </token>
+<token id="64"> फरवरी </token>
+<token id="65"> 2014 </token>
+<token id="66"> को </token>
+<token id="67"> गश्त </token>
+<token id="68"> के </token>
+<token id="69"> दौरान </token>
+<token id="70"> गांव </token>
+<token id="71"> गदराना </token>
+<token id="72"> निवासी </token>
+<token id="73"> नरेंद्र </token>
+<token id="74"> के </token>
+<token id="75"> कब्जे </token>
+<token id="76"> से </token>
+<token id="77"> 1.5 </token>
+<token id="78"> ग्राम </token>
+<token id="79"> अफीम </token>
+<token id="80"> व </token>
+<token id="81"> 500 </token>
+<token id="82"> किलोग्राम </token>
+<token id="83"> चूरापोस्त </token>
+<token id="84"> बरामद </token>
+<token id="85"> किया </token>
+<token id="86"> था </token>
+<token id="87"> . </token>
+
+<token id="88"> पुलिस </token>
+<token id="89"> ने </token>
+<token id="90"> उनके </token>
+<token id="91"> खिलाफ </token>
+<token id="92"> मादक </token>
+<token id="93"> पदार्थ </token>
+<token id="94"> अधिनियम </token>
+<token id="95"> के </token>
+<token id="96"> तहत </token>
+<token id="97"> मामला </token>
+<token id="98"> दर्ज </token>
+<token id="99"> कर </token>
+<token id="100"> चालान </token>
+<token id="101"> न्यायालय </token>
+<token id="102"> में </token>
+<token id="103"> पेश </token>
+<token id="104"> किया </token>
+<token id="105"> . </token>
+
+<token id="106"> बृहस्पतिवार </token>
+<token id="107"> को </token>
+<token id="108"> अतिरिक्त </token>
+<token id="109"> जिला </token>
+<token id="110"> एवं </token>
+<token id="111"> सत्र </token>
+<token id="112"> न्यायाधीश </token>
+<token id="113"> जेबी </token>
+<token id="114"> गुप्ता </token>
+<token id="115"> की </token>
+<token id="116"> अदालत </token>
+<token id="117"> ने </token>
+<token id="118"> तस्कर </token>
+<token id="119"> को </token>
+<token id="120"> दोषी </token>
+<token id="121"> करार </token>
+<token id="122"> देते </token>
+<token id="123"> हुए </token>
+<token id="124"> सजा </token>
+<token id="125"> से </token>
+<token id="126"> दंडित </token>
+<token id="127"> किया </token>
+<token id="128"> है </token>
+<token id="129"> . </token>
+<EVENT id="e1" class="OCC " tokens="21,22,23" AnnConf="High"/>
+<EVENT id="e10" class="IAC " tokens="121,122,123" AnnConf="Medium"/>
+<EVENT id="e11" class="OCC " tokens="126,127,128" AnnConf="High"/>
+<EVENT id="e2" class="PER" tokens="28,29,30" AnnConf="High"/>
+<EVENT id="e3" class="OCC " tokens="40,41,42" AnnConf="High"/>
+<EVENT id="e4" class="OCC " tokens="46,47,48" AnnConf="High"/>
+<EVENT id="e5" class="OCC " tokens="57,58" AnnConf="High"/>
+<EVENT id="e6" class="OCC " tokens="67" AnnConf="Medium"/>
+<EVENT id="e7" class="OCC " tokens="84,85,86" AnnConf="High"/>
+<EVENT id="e8" class="OCC " tokens="98,99" AnnConf="High"/>
+<EVENT id="e9" class="OCC " tokens="103,104" AnnConf="High"/>
+<TIMEX id="t1" class="DUR" tokens="24,25" AnnConf="High"/>
+<TIMEX id="t2" class="DUR" tokens="52,53" AnnConf="High"/>
+<TIMEX id="t3" class="DATE" tokens="63,64,65" AnnConf="High"/>
+<TIMEX id="t4" class="DATE" tokens="106" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="Medium"/>
+<TLINK f_id="e1" s_id="e3" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="overlap" AnnConf="High"/>
+<TLINK f_id="e8" s_id="e9" class="before" AnnConf="High"/>
+<TLINK f_id="e10" s_id="e11" class="before" AnnConf="High"/>
+<SLINK f_id="e1" s_id="e2" AnnConf="High"/>
+<SLINK f_id="e4" s_id="e5" AnnConf="High"/>
+<SLINK f_id="e8" s_id="e9" AnnConf="Low"/>
+<SLINK f_id="e10" s_id="e11" AnnConf="High"/>
+</document>

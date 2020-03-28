@@ -1,0 +1,128 @@
+<document>
+<token id="1"> नलकूप </token>
+<token id="2"> बंद </token>
+<token id="3"> होने </token>
+<token id="4"> से </token>
+<token id="5"> प्रभावित </token>
+<token id="6"> हो </token>
+<token id="7"> रही </token>
+<token id="8"> फसल </token>
+<token id="9"> हसनपुर </token>
+<token id="10"> : </token>
+<token id="11"> तहसील </token>
+<token id="12"> क्षेत्र </token>
+<token id="13"> के </token>
+<token id="14"> ग्राम </token>
+<token id="15"> रहरा </token>
+<token id="16"> निवासी </token>
+<token id="17"> पूर्व </token>
+<token id="18"> प्रधान </token>
+<token id="19"> ने </token>
+<token id="20"> अवर </token>
+<token id="21"> अभियंता </token>
+<token id="22"> पर </token>
+<token id="23"> एक </token>
+<token id="24"> किसान </token>
+<token id="25"> से </token>
+<token id="26"> हमसाज </token>
+<token id="27"> होकर </token>
+<token id="28"> उसके </token>
+<token id="29"> नलकूप </token>
+<token id="30"> की </token>
+<token id="31"> लाइन </token>
+<token id="32"> अवैध </token>
+<token id="33"> रूप </token>
+<token id="34"> से </token>
+<token id="35"> काटने </token>
+<token id="36"> का </token>
+<token id="37"> आरोप </token>
+<token id="38"> लगाते </token>
+<token id="39"> हुए </token>
+<token id="40"> उपजिलाधिकारी </token>
+<token id="41"> से </token>
+<token id="42"> शिकायत </token>
+<token id="43"> की </token>
+<token id="44"> है </token>
+<token id="45"> . </token>
+<token id="46"> गांव </token>
+<token id="47"> रहरा </token>
+<token id="48"> निवासी </token>
+<token id="49"> शिव </token>
+<token id="50"> कुमार </token>
+<token id="51"> शर्मा </token>
+<token id="52"> का </token>
+<token id="53"> आरोप </token>
+<token id="54"> है </token>
+<token id="55"> कि </token>
+<token id="56"> उन्होंने </token>
+<token id="57"> नन्हे </token>
+<token id="58"> के </token>
+<token id="59"> खेत </token>
+<token id="60"> में </token>
+<token id="61"> लगे </token>
+<token id="62"> ट्रांसफार्मर </token>
+<token id="63"> से </token>
+<token id="64"> अपने </token>
+<token id="65"> नलकूप </token>
+<token id="66"> का </token>
+<token id="67"> एलटी </token>
+<token id="68"> कनेक्शन </token>
+<token id="69"> लेकर </token>
+<token id="70"> नलकूप </token>
+<token id="71"> चालू </token>
+<token id="72"> कराया </token>
+<token id="73"> था </token>
+<token id="74"> . </token>
+<token id="75"> अवर </token>
+<token id="76"> अभियंता </token>
+<token id="77"> ने </token>
+<token id="78"> किसान </token>
+<token id="79"> से </token>
+<token id="80"> हमसाज </token>
+<token id="81"> होकर </token>
+<token id="82"> उसका </token>
+<token id="83"> कनेक्शन </token>
+<token id="84"> अवैध </token>
+<token id="85"> रूप </token>
+<token id="86"> से </token>
+<token id="87"> काट </token>
+<token id="88"> दिया </token>
+<token id="89"> है </token>
+<token id="90"> . </token>
+<token id="91"> नलकूप </token>
+<token id="92"> नहीं </token>
+<token id="93"> चलने </token>
+<token id="94"> से </token>
+<token id="95"> उसकी </token>
+<token id="96"> फसल </token>
+<token id="97"> सूख </token>
+<token id="98"> रही </token>
+<token id="99"> है </token>
+<token id="100"> . </token>
+<token id="101"> उसके </token>
+<token id="102"> ऊपर </token>
+<token id="103"> बिल </token>
+<token id="104"> चढ़ </token>
+<token id="105"> रहा </token>
+<token id="106"> है </token>
+<EVENT id="e1" class="OCC" tokens="2,3" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="5,6,7" annConf="High"/>
+<EVENT id="e3" class="IAC" tokens="26,27" annConf="High"/>
+<EVENT id="e4" class="IAC" tokens="37,38,39" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="42,43,44" annConf="High"/>
+<EVENT id="e6" class="IAC" tokens="68,69" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="71,72,73" annConf="High"/>
+<EVENT id="e8" class="IAC" tokens="80,81" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="87,88,89" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="91,92,93" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="96,97,98,99" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="53,54" annConf="High"/>
+<STATE id="s2" class="DESC" tokens="61" annConf="High"/>
+<STATE id="s3" class="DECL" tokens="105,106" annConf="High"/>
+<SLINK f_id="s1" s_id="e6" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="before" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="overlap" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="High"/>
+<TLINK f_id="e8" s_id="e9" class="before" AnnConf="Medium"/>
+</document>

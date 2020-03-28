@@ -1,0 +1,105 @@
+<document>
+<token id="1"> : </token>
+<token id="2"> एटीएम </token>
+<token id="3"> कार्ड </token>
+<token id="4"> बदलकर </token>
+<token id="5"> शातिरों </token>
+<token id="6"> ने </token>
+<token id="7"> एक </token>
+<token id="8"> व्यक्ति </token>
+<token id="9"> के </token>
+<token id="10"> खाते </token>
+<token id="11"> से </token>
+<token id="12"> 84 </token>
+<token id="13"> हजार </token>
+<token id="14"> रुपये </token>
+<token id="15"> निकाल </token>
+<token id="16"> लिए </token>
+<token id="17"> . </token>
+<token id="18"> पीडित </token>
+<token id="19"> ने </token>
+<token id="20"> तहरीर </token>
+<token id="21"> दी </token>
+<token id="22"> है </token>
+<token id="23"> . </token>
+<token id="24"> बन्नादेवी </token>
+<token id="25"> क्षेत्र </token>
+<token id="26"> के </token>
+<token id="27"> मथुरिया </token>
+<token id="28"> नगर </token>
+<token id="29"> , </token>
+<token id="30"> नगला </token>
+<token id="31"> बरौला </token>
+<token id="32"> निवासी </token>
+<token id="33"> नीरज </token>
+<token id="34"> कुमार </token>
+<token id="35"> के </token>
+<token id="36"> मुताबिक </token>
+<token id="37"> उनका </token>
+<token id="38"> खाता </token>
+<token id="39"> एसबीआइ </token>
+<token id="40"> की </token>
+<token id="41"> बरौला </token>
+<token id="42"> जाफराबाद </token>
+<token id="43"> ब्रांच </token>
+<token id="44"> में </token>
+<token id="45"> है </token>
+<token id="46"> . </token>
+<token id="47"> 30 </token>
+<token id="48"> अक्टूबर </token>
+<token id="49"> को </token>
+<token id="50"> पता </token>
+<token id="51"> चला </token>
+<token id="52"> कि </token>
+<token id="53"> उनके </token>
+<token id="54"> खाते </token>
+<token id="55"> से </token>
+<token id="56"> 84 </token>
+<token id="57"> हजार </token>
+<token id="58"> रुपये </token>
+<token id="59"> निकाल </token>
+<token id="60"> लिए </token>
+<token id="61"> गए </token>
+<token id="62"> . </token>
+<token id="63"> पीडित </token>
+<token id="64"> कहना </token>
+<token id="65"> है </token>
+<token id="66"> कि </token>
+<token id="67"> उनका </token>
+<token id="68"> एटीएम </token>
+<token id="69"> कार्ड </token>
+<token id="70"> बदलकर </token>
+<token id="71"> किसी </token>
+<token id="72"> शातिर </token>
+<token id="73"> ने </token>
+<token id="74"> यह </token>
+<token id="75"> काम </token>
+<token id="76"> किया </token>
+<token id="77"> है </token>
+<token id="78"> . </token>
+<token id="79"> तहरीर </token>
+<token id="80"> के </token>
+<token id="81"> आधार </token>
+<token id="82"> पर </token>
+<token id="83"> पुलिस </token>
+<token id="84"> जांच </token>
+<token id="85"> में </token>
+<token id="86"> जुटी </token>
+<token id="87"> है </token>
+<token id="88"> . </token>
+<EVENT id="e1" class="IAC" tokens="4" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="15,16" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="20,21,22" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="50,51" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="59,60,61" annConf="High"/>
+<EVENT id="e6" class="REP" tokens="64,65" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="70" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="75,76,77" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="84" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="85,86,87" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="45" annConf="High"/>
+<TIMEX id="t1" tokens="47,48" annConf="High" class="DATE"/>
+<SLINK f_id="e4" s_id="e5" AnnConf="Low"/>
+<SLINK f_id="e6" s_id="e7" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="Medium"/>
+</document>

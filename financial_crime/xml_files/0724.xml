@@ -1,0 +1,138 @@
+<document>
+<token id="1"> हाथरस </token>
+<token id="2"> : </token>
+<token id="3"> सादाबाद </token>
+<token id="4"> की </token>
+<token id="5"> सुभाष </token>
+<token id="6"> गली </token>
+<token id="7"> निवासी </token>
+<token id="8"> एक </token>
+<token id="9"> युवक </token>
+<token id="10"> कस्बे </token>
+<token id="11"> के </token>
+<token id="12"> कई </token>
+<token id="13"> लोगों </token>
+<token id="14"> से </token>
+<token id="15"> लाटरी </token>
+<token id="16"> के </token>
+<token id="17"> नाम </token>
+<token id="18"> पर </token>
+<token id="19"> लाखों </token>
+<token id="20"> रुपये </token>
+<token id="21"> ठग </token>
+<token id="22"> कर </token>
+<token id="23"> फरार </token>
+<token id="24"> हो </token>
+<token id="25"> गया </token>
+<token id="26"> . </token>
+<token id="27"> इस </token>
+<token id="28"> मामले </token>
+<token id="29"> में </token>
+<token id="30"> कोतवाली </token>
+<token id="31"> में </token>
+<token id="32"> दी </token>
+<token id="33"> गई </token>
+<token id="34"> शिकायत </token>
+<token id="35"> में </token>
+<token id="36"> बताया </token>
+<token id="37"> गया </token>
+<token id="38"> है </token>
+<token id="39"> रुखसार </token>
+<token id="40"> पत्नी </token>
+<token id="41"> शाकिर </token>
+<token id="42"> निवासी </token>
+<token id="43"> नई </token>
+<token id="44"> बस्ती </token>
+<token id="45"> मुकेर </token>
+<token id="46"> खाना </token>
+<token id="47"> ने </token>
+<token id="48"> बताया </token>
+<token id="49"> कि </token>
+<token id="50"> उससे </token>
+<token id="51"> सलीम </token>
+<token id="52"> उर्फ </token>
+<token id="53"> पप्पू </token>
+<token id="54"> पुत्र </token>
+<token id="55"> मुन्ने </token>
+<token id="56"> खान </token>
+<token id="57"> निवासी </token>
+<token id="58"> निकट </token>
+<token id="59"> अग्रसेन </token>
+<token id="60"> स्कूल </token>
+<token id="61"> सुभाष </token>
+<token id="62"> गली </token>
+<token id="63"> ने </token>
+<token id="64"> साढ़े </token>
+<token id="65"> आठ </token>
+<token id="66"> लाख </token>
+<token id="67"> रुपये </token>
+<token id="68"> लिए </token>
+<token id="69"> थे </token>
+<token id="70"> . </token>
+<token id="71"> रुखसार </token>
+<token id="72"> की </token>
+<token id="73"> मां </token>
+<token id="74"> मरजीना </token>
+<token id="75"> से </token>
+<token id="76"> साढ़े </token>
+<token id="77"> तीन </token>
+<token id="78"> लाख </token>
+<token id="79"> रुपये </token>
+<token id="80"> मजबूरी </token>
+<token id="81"> बताकर </token>
+<token id="82"> ले </token>
+<token id="83"> लिए </token>
+<token id="84"> . </token>
+<token id="85"> बाबुद्दीन </token>
+<token id="86"> पुत्र </token>
+<token id="87"> नन्ने </token>
+<token id="88"> खान </token>
+<token id="89"> व </token>
+<token id="90"> सगीर </token>
+<token id="91"> पुत्र </token>
+<token id="92"> रसीद </token>
+<token id="93"> से </token>
+<token id="94"> भी </token>
+<token id="95"> एक-एक </token>
+<token id="96"> लाख </token>
+<token id="97"> रुपये </token>
+<token id="98"> पप्पू </token>
+<token id="99"> धोखा </token>
+<token id="100"> देकर </token>
+<token id="101"> ले </token>
+<token id="102"> चुका </token>
+<token id="103"> है </token>
+<token id="104"> . </token>
+<token id="105"> रूखसार </token>
+<token id="106"> को </token>
+<token id="107"> पप्पू </token>
+<token id="108"> ने </token>
+<token id="109"> 13 </token>
+<token id="110"> अगस्त </token>
+<token id="111"> को </token>
+<token id="112"> पैसा </token>
+<token id="113"> लौटाने </token>
+<token id="114"> का </token>
+<token id="115"> वादा </token>
+<token id="116"> किया </token>
+<token id="117"> था </token>
+<token id="118"> . </token>
+<EVENT id="e1" class="IAC" tokens="21,22" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="23,24,25" annConf="High"/>
+<EVENT id="e3" class="REP" tokens="36,37,38" annConf="High"/>
+<EVENT id="e4" class="REP" tokens="48" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="68,69" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="80,81" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="82,83" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="99,100" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="101,102,103" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="112,113" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="115,116,117" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="32,33" annConf="High"/>
+<TIMEX id="t1" tokens="109,110" annConf="High" class="DATE"/>
+<SLINK f_id="e3" s_id="e4" AnnConf="High"/>
+<SLINK f_id="e4" s_id="e5" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="High"/>
+<TLINK f_id="e8" s_id="e11" class="before" AnnConf="High"/>
+</document>

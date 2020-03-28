@@ -1,0 +1,109 @@
+<document>
+<token id="1"> -काउंटर </token>
+<token id="2"> बनाया </token>
+<token id="3"> था </token>
+<token id="4"> , </token>
+<token id="5"> नहीं </token>
+<token id="6"> आया </token>
+<token id="7"> क्लेम </token>
+<token id="8"> केस </token>
+<token id="9"> डेरा </token>
+<token id="10"> प्रकरण </token>
+<token id="11"> के </token>
+<token id="12"> दौरान </token>
+<token id="13"> पंचकूलां </token>
+<token id="14"> व </token>
+<token id="15"> सिरसा </token>
+<token id="16"> में </token>
+<token id="17"> कुछ </token>
+<token id="18"> लोगों </token>
+<token id="19"> को </token>
+<token id="20"> आर्थिक </token>
+<token id="21"> क्षति </token>
+<token id="22"> पहुंची </token>
+<token id="23"> थी </token>
+<token id="24"> . </token>
+<token id="25"> इसके </token>
+<token id="26"> लिए </token>
+<token id="27"> सरकार </token>
+<token id="28"> ने </token>
+<token id="29"> प्रभावित </token>
+<token id="30"> जिलों </token>
+<token id="31"> में </token>
+<token id="32"> क्लेम </token>
+<token id="33"> काउंटर </token>
+<token id="34"> बनाए </token>
+<token id="35"> थे </token>
+<token id="36"> . </token>
+<token id="37"> कहा </token>
+<token id="38"> गया </token>
+<token id="39"> था </token>
+<token id="40"> कि </token>
+<token id="41"> यदि </token>
+<token id="42"> किसी </token>
+<token id="43"> का </token>
+<token id="44"> आर्थिक </token>
+<token id="45"> नुकसान </token>
+<token id="46"> हुआ </token>
+<token id="47"> है </token>
+<token id="48"> तो </token>
+<token id="49"> वे </token>
+<token id="50"> काउंटर </token>
+<token id="51"> पर </token>
+<token id="52"> जाकर </token>
+<token id="53"> पत्र </token>
+<token id="54"> दें </token>
+<token id="55"> . </token>
+<token id="56"> नगर </token>
+<token id="57"> परिषद </token>
+<token id="58"> कार्यालय </token>
+<token id="59"> में </token>
+<token id="60"> काउंटर </token>
+<token id="61"> बनाया </token>
+<token id="62"> गया </token>
+<token id="63"> था </token>
+<token id="64"> . </token>
+<token id="65"> लेकिन </token>
+<token id="66"> यहां </token>
+<token id="67"> पर </token>
+<token id="68"> ऐसा </token>
+<token id="69"> कोई </token>
+<token id="70"> केस </token>
+<token id="71"> नहीं </token>
+<token id="72"> आया </token>
+<token id="73"> , </token>
+<token id="74"> जिसमें </token>
+<token id="75"> डेरा </token>
+<token id="76"> प्रकरण </token>
+<token id="77"> के </token>
+<token id="78"> चलते </token>
+<token id="79"> नुकसान </token>
+<token id="80"> की </token>
+<token id="81"> भरपाई </token>
+<token id="82"> मांगी </token>
+<token id="83"> हो </token>
+<token id="84"> . </token>
+<token id="85"> चूंकि </token>
+<token id="86"> यहां </token>
+<token id="87"> पर </token>
+<token id="88"> ऐसा </token>
+<token id="89"> कुछ </token>
+<token id="90"> हुआ </token>
+<token id="91"> ही </token>
+<token id="92"> नहीं </token>
+<token id="93"> था </token>
+<EVENT id="e1" class="OCC" tokens="5,6" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="22,23" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="34,35" annConf="High"/>
+<EVENT id="e4" class="REP" tokens="37,38,39" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="45,46,47" annConf="High"/>
+<EVENT id="e6" class="IAC" tokens="52" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="54" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="61,62,63" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="70,71,72" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="81,82,83" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="90,91,92,93" annConf="High"/>
+<SLINK f_id="e4" s_id="e7" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="Medium"/>
+</document>

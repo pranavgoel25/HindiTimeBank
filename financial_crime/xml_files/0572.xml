@@ -1,0 +1,128 @@
+<document>
+<token id="1"> जागरण </token>
+<token id="2"> संवाददाता </token>
+<token id="3"> , </token>
+<token id="4"> फतेहाबाद </token>
+<token id="5"> : </token>
+<token id="6"> गांव </token>
+<token id="7"> बैजलपुर </token>
+<token id="8"> के </token>
+<token id="9"> ओमप्रकाश </token>
+<token id="10"> को </token>
+<token id="11"> जेएमआइसी </token>
+<token id="12"> की </token>
+<token id="13"> जतिन </token>
+<token id="14"> गर्ग </token>
+<token id="15"> की </token>
+<token id="16"> अदालत </token>
+<token id="17"> ने </token>
+<token id="18"> 15 </token>
+<token id="19"> लाख </token>
+<token id="20"> रुपये </token>
+<token id="21"> का </token>
+<token id="22"> जुर्माना </token>
+<token id="23"> व </token>
+<token id="24"> एक </token>
+<token id="25"> साल </token>
+<token id="26"> की </token>
+<token id="27"> सजा </token>
+<token id="28"> सुनवाई </token>
+<token id="29"> है </token>
+<token id="30"> . </token>
+<token id="31"> अधिवक्ता </token>
+<token id="32"> इंद्र </token>
+<token id="33"> सिहाग </token>
+<token id="34"> ने </token>
+<token id="35"> बताया </token>
+<token id="36"> कि </token>
+<token id="37"> उक्त </token>
+<token id="38"> व्यक्ति </token>
+<token id="39"> ने </token>
+<token id="40"> दो </token>
+<token id="41"> वर्ष </token>
+<token id="42"> पूर्व </token>
+<token id="43"> भूना </token>
+<token id="44"> के </token>
+<token id="45"> सर्व </token>
+<token id="46"> हरियाणा </token>
+<token id="47"> ग्रामीण </token>
+<token id="48"> बैंक </token>
+<token id="49"> से </token>
+<token id="50"> पानी </token>
+<token id="51"> का </token>
+<token id="52"> आरओ </token>
+<token id="53"> लगाने </token>
+<token id="54"> के </token>
+<token id="55"> लिए </token>
+<token id="56"> 13 </token>
+<token id="57"> लाख </token>
+<token id="58"> 44 </token>
+<token id="59"> हजार </token>
+<token id="60"> रुपये </token>
+<token id="61"> का </token>
+<token id="62"> कर्ज </token>
+<token id="63"> लिया </token>
+<token id="64"> था </token>
+<token id="65"> . </token>
+<token id="66"> इसके </token>
+<token id="67"> बदले </token>
+<token id="68"> उसने </token>
+<token id="69"> बैंक </token>
+<token id="70"> को </token>
+<token id="71"> 14 </token>
+<token id="72"> लाख </token>
+<token id="73"> 71 </token>
+<token id="74"> हजार </token>
+<token id="75"> का </token>
+<token id="76"> चेक </token>
+<token id="77"> दिया </token>
+<token id="78"> था </token>
+<token id="79"> . </token>
+<token id="80"> जब </token>
+<token id="81"> बैंक </token>
+<token id="82"> ने </token>
+<token id="83"> चेक </token>
+<token id="84"> लगाया </token>
+<token id="85"> तो </token>
+<token id="86"> वह </token>
+<token id="87"> बाउंस </token>
+<token id="88"> हो </token>
+<token id="89"> गया </token>
+<token id="90"> . </token>
+<token id="91"> इसके </token>
+<token id="92"> बाद </token>
+<token id="93"> बैंक </token>
+<token id="94"> ने </token>
+<token id="95"> ओमप्रकाश </token>
+<token id="96"> के </token>
+<token id="97"> खिलाफ </token>
+<token id="98"> कोर्ट </token>
+<token id="99"> में </token>
+<token id="100"> याचिका </token>
+<token id="101"> लगाई </token>
+<token id="102"> . </token>
+<token id="103"> जिसकी </token>
+<token id="104"> सुनवाई </token>
+<token id="105"> करते </token>
+<token id="106"> हुए </token>
+<token id="107"> अदालत </token>
+<token id="108"> ने </token>
+<token id="109"> सोमवार </token>
+<token id="110"> को </token>
+<token id="111"> सजा </token>
+<token id="112"> सुनवाई </token>
+<token id="113"> . </token>
+<EVENT id="e1" class="OCC" tokens="27,28,29" annConf="High"/>
+<EVENT id="e2" class="REP" tokens="35" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="52,53" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="62,63,64" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="76,77,78" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="83,84" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="87,88,89" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="100,101" annConf="High"/>
+<EVENT id="e9" class="IAC" tokens="104,105,106" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="111,112" annConf="High"/>
+<TIMEX id="t1" tokens="24,25" annConf="High" class="DURATION"/>
+<TIMEX id="t2" tokens="109" annConf="High" class="DATE"/>
+<SLINK f_id="e2" s_id="e4" AnnConf="Low"/>
+</document>

@@ -1,0 +1,106 @@
+<document>
+<token id="1"> अरवल </token>
+<token id="2"> . </token>
+<token id="3"> स्थानीय </token>
+<token id="4"> व्यवहार </token>
+<token id="5"> न्यायालय </token>
+<token id="6"> स्थित </token>
+<token id="7"> अनुमंडलीय </token>
+<token id="8"> न्यायिक </token>
+<token id="9"> दंडाधिकारी </token>
+<token id="10"> माधवेंद्र </token>
+<token id="11"> ¨ </token>
+<token id="12"> सह </token>
+<token id="13"> के </token>
+<token id="14"> न्यायालय </token>
+<token id="15"> ने </token>
+<token id="16"> मारपीट </token>
+<token id="17"> के </token>
+<token id="18"> आरोपी </token>
+<token id="19"> को </token>
+<token id="20"> दोषी </token>
+<token id="21"> पाकर </token>
+<token id="22"> पांच </token>
+<token id="23"> हजार </token>
+<token id="24"> रुपये </token>
+<token id="25"> क्षतिपूर्ति </token>
+<token id="26"> के </token>
+<token id="27"> लिए </token>
+<token id="28"> सूचक </token>
+<token id="29"> को </token>
+<token id="30"> देने </token>
+<token id="31"> का </token>
+<token id="32"> निर्देश </token>
+<token id="33"> दिया </token>
+<token id="34"> . </token>
+<token id="35"> अरवल </token>
+<token id="36"> थाना </token>
+<token id="37"> कांड </token>
+<token id="38"> संख्या </token>
+<token id="39"> 98 </token>
+<token id="40"> - </token>
+<token id="41"> 12 </token>
+<token id="42"> के </token>
+<token id="43"> सूचक </token>
+<token id="44"> भुसुडा </token>
+<token id="45"> निवासी </token>
+<token id="46"> विमल </token>
+<token id="47"> ¨ </token>
+<token id="48"> सह </token>
+<token id="49"> ने </token>
+<token id="50"> अपने </token>
+<token id="51"> ही </token>
+<token id="52"> गांव </token>
+<token id="53"> के </token>
+<token id="54"> बजरंगी </token>
+<token id="55"> साह </token>
+<token id="56"> पर </token>
+<token id="57"> मारपीट </token>
+<token id="58"> कर </token>
+<token id="59"> हाथ </token>
+<token id="60"> तोड </token>
+<token id="61"> दिए </token>
+<token id="62"> जाने </token>
+<token id="63"> का </token>
+<token id="64"> आरोप </token>
+<token id="65"> लगाते </token>
+<token id="66"> हुए </token>
+<token id="67"> मुकदमा </token>
+<token id="68"> दर्ज </token>
+<token id="69"> किया </token>
+<token id="70"> था </token>
+<token id="71"> . </token>
+<token id="72"> न्यायालय </token>
+<token id="73"> द्वारा </token>
+<token id="74"> सुनवाई </token>
+<token id="75"> के </token>
+<token id="76"> पश्चात </token>
+<token id="77"> धारा </token>
+<token id="78"> 323 </token>
+<token id="79"> में </token>
+<token id="80"> उसे </token>
+<token id="81"> दोषी </token>
+<token id="82"> पाया </token>
+<token id="83"> गया </token>
+<token id="84"> तथा </token>
+<token id="85"> यह </token>
+<token id="86"> निर्देश </token>
+<token id="87"> दिया </token>
+<token id="88"> गया </token>
+<token id="89"> . </token>
+<EVENT id="e9" class="OCC" tokens="20,21" annConf="High"/>
+<EVENT id="e1" class="OCC" tokens="30" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="32,33" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="57,58" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="60,61,62" annConf="High"/>
+<EVENT id="e5" class="IAC" tokens="64,65,66" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="68,69,70" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="74" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="81,82,83" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="86,87,88" annConf="High"/>
+<TLINK f_id="e9" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="before" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="overlap" AnnConf="High"/>
+<TLINK f_id="e10" s_id="e7" class="before" AnnConf="High"/>
+<TLINK f_id="e10" s_id="e8" class="before" AnnConf="High"/>
+</document>

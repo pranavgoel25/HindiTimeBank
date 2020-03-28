@@ -1,0 +1,146 @@
+<document>
+<token id="1"> जागरण </token>
+<token id="2"> संवाददाता </token>
+
+<token id="3"> वाराणसी </token>
+<token id="4"> : </token>
+<token id="5"> उपनिदेशक </token>
+<token id="6"> मंडी </token>
+<token id="7"> -LRB- </token>
+<token id="8"> प्रशासन </token>
+<token id="9"> -RRB- </token>
+<token id="10"> डा </token>
+<token id="11"> . </token>
+
+<token id="12"> हिमांशु </token>
+<token id="13"> शेखर </token>
+<token id="14"> त्रिपाठी </token>
+<token id="15"> के </token>
+<token id="16"> निर्देश </token>
+<token id="17"> पर </token>
+<token id="18"> चलाए </token>
+<token id="19"> गए </token>
+<token id="20"> अभियान </token>
+<token id="21"> के </token>
+<token id="22"> तहत </token>
+<token id="23"> मंगलवार </token>
+<token id="24"> को </token>
+<token id="25"> बिहार </token>
+<token id="26"> जा </token>
+<token id="27"> रही </token>
+<token id="28"> दो </token>
+<token id="29"> गाडि़यों </token>
+<token id="30"> से </token>
+<token id="31"> एक </token>
+<token id="32"> लाख </token>
+<token id="33"> रुपये </token>
+<token id="34"> शमन </token>
+<token id="35"> शुल्क </token>
+<token id="36"> की </token>
+<token id="37"> वसूली </token>
+<token id="38"> की </token>
+<token id="39"> गई </token>
+<token id="40"> . </token>
+
+<token id="41"> मंडी </token>
+<token id="42"> निरीक्षक </token>
+<token id="43"> रामनाथ </token>
+<token id="44"> यादव </token>
+<token id="45"> ने </token>
+<token id="46"> बताया </token>
+<token id="47"> कि </token>
+<token id="48"> गेहूं </token>
+<token id="49"> व </token>
+<token id="50"> लकड़ी </token>
+<token id="51"> लदे </token>
+<token id="52"> बिहार </token>
+<token id="53"> जा </token>
+<token id="54"> रहे </token>
+<token id="55"> दो </token>
+<token id="56"> ट्रकों </token>
+<token id="57"> से </token>
+<token id="58"> जब </token>
+<token id="59"> कागज </token>
+<token id="60"> के </token>
+<token id="61"> बावत </token>
+<token id="62"> पूछताछ </token>
+<token id="63"> की </token>
+<token id="64"> गई </token>
+<token id="65"> तो </token>
+<token id="66"> वे </token>
+<token id="67"> स्पष्ट </token>
+<token id="68"> जवाब </token>
+<token id="69"> नहीं </token>
+<token id="70"> दे </token>
+<token id="71"> पाए </token>
+<token id="72"> . </token>
+
+<token id="73"> ऐसे </token>
+<token id="74"> में </token>
+<token id="75"> उनके </token>
+<token id="76"> विरुद्ध </token>
+<token id="77"> कार्रवाई </token>
+<token id="78"> करते </token>
+<token id="79"> हुए </token>
+<token id="80"> शमन </token>
+<token id="81"> शुल्क </token>
+<token id="82"> की </token>
+<token id="83"> वसूली </token>
+<token id="84"> की </token>
+<token id="85"> गई </token>
+<token id="86"> . </token>
+
+<token id="87"> जौनपुर </token>
+<token id="88"> से </token>
+<token id="89"> आए </token>
+<token id="90"> गेहूं </token>
+<token id="91"> लदे </token>
+<token id="92"> ट्रक </token>
+<token id="93"> से </token>
+<token id="94"> 61 </token>
+<token id="95"> हजार </token>
+<token id="96"> व </token>
+<token id="97"> सुल्तानपुर </token>
+<token id="98"> से </token>
+<token id="99"> आए </token>
+<token id="100"> लकड़ी </token>
+<token id="101"> लदे </token>
+<token id="102"> ट्रक </token>
+<token id="103"> से </token>
+<token id="104"> चालीस </token>
+<token id="105"> हजार </token>
+<token id="106"> रुपये </token>
+<token id="107"> शमन </token>
+<token id="108"> शुल्क </token>
+<token id="109"> की </token>
+<token id="110"> वसूली </token>
+<token id="111"> हुई </token>
+<token id="112"> . </token>
+<EVENT id="e1" class="OCC " tokens="20" AnnConf="High"/>
+<EVENT id="e10" class="OCC " tokens="99" AnnConf="High"/>
+<EVENT id="e11" class="OCC " tokens="110,111" AnnConf="High"/>
+<EVENT id="e2" class="OCC " tokens="37,38,39" AnnConf="High"/>
+<EVENT id="e3" class="REP " tokens="46" AnnConf="High"/>
+<EVENT id="e4" class="OCC " tokens="62,63,64" AnnConf="High"/>
+<EVENT id="e5" class="OCC " tokens="69,70,71" AnnConf="High"/>
+<EVENT id="e6" class="OCC " tokens="77" AnnConf="High"/>
+<EVENT id="e7" class="IAC " tokens="78,79" AnnConf="High"/>
+<EVENT id="e8" class="OCC " tokens="83,84,85" AnnConf="High"/>
+<EVENT id="e9" class="OCC " tokens="89" AnnConf="High"/>
+<STATE id="s1" class="DESC " tokens="18,19" AnnConf="High"/>
+<STATE id="s2" class="DESC " tokens="26,27" AnnConf="High"/>
+<STATE id="s3" class="DESC " tokens="53,54" AnnConf="High"/>
+<STATE id="s4" class="DESC " tokens="91" AnnConf="High"/>
+<STATE id="s5" class="DESC " tokens="101" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="23" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e8" class="before" AnnConf="High"/>
+<SLINK f_id="s2" s_id="e2" AnnConf="Medium"/>
+<SLINK f_id="e3" s_id="s3" AnnConf="High"/>
+<SLINK f_id="e3" s_id="e4" AnnConf="High"/>
+<SLINK f_id="e3" s_id="e5" AnnConf="High"/>
+<SLINK f_id="e7" s_id="e8" AnnConf="High"/>
+<SLINK f_id="e9" s_id="s4" AnnConf="High"/>
+<SLINK f_id="e10" s_id="e1" AnnConf="High"/>
+<SLINK f_id="e10" s_id="e11" AnnConf="High"/>
+</document>

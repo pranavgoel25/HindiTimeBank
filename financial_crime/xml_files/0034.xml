@@ -1,0 +1,581 @@
+<document>
+<token id="1"> नई </token>
+<token id="2"> दिल्ली </token>
+<token id="3"> -LRB- </token>
+<token id="4"> बिजनेस </token>
+<token id="5"> डेस्क </token>
+<token id="6"> -RRB- </token>
+<token id="7"> . </token>
+
+<token id="8"> बीते </token>
+<token id="9"> दो </token>
+<token id="10"> दिनों </token>
+<token id="11"> के </token>
+<token id="12"> दौरान </token>
+<token id="13"> रुपए </token>
+<token id="14"> के </token>
+<token id="15"> प्रदर्शन </token>
+<token id="16"> में </token>
+<token id="17"> सुधार </token>
+<token id="18"> देखने </token>
+<token id="19"> को </token>
+<token id="20"> मिला </token>
+<token id="21"> है </token>
+<token id="22"> . </token>
+
+<token id="23"> मंगलवार </token>
+<token id="24"> को </token>
+<token id="25"> 9 </token>
+<token id="26"> पैसे </token>
+<token id="27"> की </token>
+<token id="28"> कमजोरी </token>
+<token id="29"> के </token>
+<token id="30"> साथ </token>
+<token id="31"> खुला </token>
+<token id="32"> रुपया </token>
+<token id="33"> 11 </token>
+<token id="34"> बजे </token>
+<token id="35"> के </token>
+<token id="36"> आस-पास </token>
+<token id="37"> 64.41 </token>
+<token id="38"> के </token>
+<token id="39"> स्तर </token>
+<token id="40"> पर </token>
+<token id="41"> कारोबार </token>
+<token id="42"> करता </token>
+<token id="43"> हुआ </token>
+<token id="44"> देखा </token>
+<token id="45"> गया </token>
+<token id="46"> . </token>
+
+<token id="47"> वहीं </token>
+<token id="48"> सोमवार </token>
+<token id="49"> के </token>
+<token id="50"> कारोबार </token>
+<token id="51"> में </token>
+<token id="52"> भारतीय </token>
+<token id="53"> रुपया </token>
+<token id="54"> बीते </token>
+<token id="55"> दो </token>
+<token id="56"> महीने </token>
+<token id="57"> के </token>
+<token id="58"> उच्चतम </token>
+<token id="59"> स्तर </token>
+<token id="60"> पर </token>
+<token id="61"> पहुंच </token>
+<token id="62"> गया </token>
+<token id="63"> . </token>
+
+<token id="64"> शुरुआती </token>
+<token id="65"> उतार-चढ़ाव </token>
+<token id="66"> के </token>
+<token id="67"> साथ </token>
+<token id="68"> भारतीय </token>
+<token id="69"> रुपया </token>
+<token id="70"> बीते </token>
+<token id="71"> दिन </token>
+<token id="72"> 20 </token>
+<token id="73"> पैसे </token>
+<token id="74"> की </token>
+<token id="75"> मजबूती </token>
+<token id="76"> के </token>
+<token id="77"> साथ </token>
+<token id="78"> दो </token>
+<token id="79"> महीने </token>
+<token id="80"> के </token>
+<token id="81"> उच्चतम </token>
+<token id="82"> 64.5 </token>
+<token id="83"> के </token>
+<token id="84"> स्तर </token>
+<token id="85"> पर </token>
+<token id="86"> बंद </token>
+<token id="87"> हुआ </token>
+<token id="88"> . </token>
+
+<token id="89"> जबकि </token>
+<token id="90"> एसएंडपी </token>
+<token id="91"> ने </token>
+<token id="92"> भारत </token>
+<token id="93"> की </token>
+<token id="94"> क्रेडिट </token>
+<token id="95"> रेटिंग </token>
+<token id="96"> को </token>
+<token id="97"> अपरिवर्तित </token>
+<token id="98"> रखा </token>
+<token id="99"> था </token>
+<token id="100"> . </token>
+
+<token id="101"> वहीं </token>
+<token id="102"> दिन </token>
+<token id="103"> के </token>
+<token id="104"> कारोबार </token>
+<token id="105"> में </token>
+<token id="106"> भारतीय </token>
+<token id="107"> रुपया </token>
+<token id="108"> डॉलर </token>
+<token id="109"> के </token>
+<token id="110"> मुकाबले </token>
+<token id="111"> 64.83 </token>
+<token id="112"> के </token>
+<token id="113"> स्तर </token>
+<token id="114"> पर </token>
+<token id="115"> कारोबार </token>
+<token id="116"> करता </token>
+<token id="117"> दिखा </token>
+<token id="118"> था </token>
+<token id="119"> . </token>
+
+<token id="120"> डॉलर </token>
+<token id="121"> के </token>
+<token id="122"> मुकाबले </token>
+<token id="123"> रुपए </token>
+<token id="124"> में </token>
+<token id="125"> आई </token>
+<token id="126"> यह </token>
+<token id="127"> मजबूती </token>
+<token id="128"> एक </token>
+<token id="129"> बेहतर </token>
+<token id="130"> संकेत </token>
+<token id="131"> है </token>
+<token id="132"> . </token>
+
+<token id="133"> रुपए </token>
+<token id="134"> के </token>
+<token id="135"> मजबूत </token>
+<token id="136"> होने </token>
+<token id="137"> से </token>
+<token id="138"> महंगाई </token>
+<token id="139"> पर </token>
+<token id="140"> कुछ </token>
+<token id="141"> हद </token>
+<token id="142"> तक </token>
+<token id="143"> लगाम </token>
+<token id="144"> लगने </token>
+<token id="145"> की </token>
+<token id="146"> संभावना </token>
+<token id="147"> बढ़ </token>
+<token id="148"> जाती </token>
+<token id="149"> है </token>
+<token id="150"> . </token>
+
+<token id="151"> जानिए </token>
+<token id="152"> रुपए </token>
+<token id="153"> की </token>
+<token id="154"> मजबूती </token>
+<token id="155"> से </token>
+<token id="156"> आम </token>
+<token id="157"> आदमी </token>
+<token id="158"> को </token>
+<token id="159"> कौन </token>
+<token id="160"> से </token>
+<token id="161"> 4 </token>
+<token id="162"> बड़े </token>
+<token id="163"> फायदे </token>
+<token id="164"> होंगे </token>
+<token id="165"> . </token>
+
+<token id="166"> रुपए </token>
+<token id="167"> के </token>
+<token id="168"> मजबूत </token>
+<token id="169"> होने </token>
+<token id="170"> से </token>
+<token id="171"> वो </token>
+<token id="172"> लोग </token>
+<token id="173"> खुश </token>
+<token id="174"> हो </token>
+<token id="175"> सकते </token>
+<token id="176"> हैं </token>
+<token id="177"> जिन्हें </token>
+<token id="178"> विदेश </token>
+<token id="179"> की </token>
+<token id="180"> सैर </token>
+<token id="181"> करना </token>
+<token id="182"> काफी </token>
+<token id="183"> भाता </token>
+<token id="184"> है </token>
+<token id="185"> . </token>
+
+<token id="186"> क्योंकि </token>
+<token id="187"> अब </token>
+<token id="188"> रुपए </token>
+<token id="189"> के </token>
+<token id="190"> मजबूत </token>
+<token id="191"> होने </token>
+<token id="192"> से </token>
+<token id="193"> आपको </token>
+<token id="194"> हवाई </token>
+<token id="195"> किराए </token>
+<token id="196"> के </token>
+<token id="197"> लिए </token>
+<token id="198"> पहले </token>
+<token id="199"> के </token>
+<token id="200"> मुकाबले </token>
+<token id="201"> थोड़े </token>
+<token id="202"> कम </token>
+<token id="203"> पैसे </token>
+<token id="204"> खर्च </token>
+<token id="205"> करने </token>
+<token id="206"> होंगे </token>
+<token id="207"> . </token>
+
+<token id="208"> फर्ज </token>
+<token id="209"> कीजिए </token>
+<token id="210"> अगर </token>
+<token id="211"> आप </token>
+<token id="212"> न्यूयॉर्क </token>
+<token id="213"> की </token>
+<token id="214"> हवाई </token>
+<token id="215"> सैर </token>
+<token id="216"> के </token>
+<token id="217"> लिए </token>
+<token id="218"> 3000 </token>
+<token id="219"> डॉलर </token>
+<token id="220"> की </token>
+<token id="221"> टिकट </token>
+<token id="222"> भारत </token>
+<token id="223"> में </token>
+<token id="224"> खरीद </token>
+<token id="225"> रहे </token>
+<token id="226"> हैं </token>
+<token id="227"> तो </token>
+<token id="228"> अब </token>
+<token id="229"> आपको </token>
+<token id="230"> कम </token>
+<token id="231"> भारतीय </token>
+<token id="232"> रुपए </token>
+<token id="233"> खर्च </token>
+<token id="234"> करने </token>
+<token id="235"> होंगे </token>
+<token id="236"> . </token>
+
+<token id="237"> अगर </token>
+<token id="238"> आपके </token>
+<token id="239"> बच्चे </token>
+<token id="240"> विदेश </token>
+<token id="241"> में </token>
+<token id="242"> पढ़ाई </token>
+<token id="243"> कर </token>
+<token id="244"> रहे </token>
+<token id="245"> हैं </token>
+<token id="246"> तो </token>
+<token id="247"> रुपए </token>
+<token id="248"> का </token>
+<token id="249"> मजबूत </token>
+<token id="250"> होना </token>
+<token id="251"> आपके </token>
+<token id="252"> लिए </token>
+<token id="253"> एक </token>
+<token id="254"> अच्छी </token>
+<token id="255"> खबर </token>
+<token id="256"> है </token>
+<token id="257"> . </token>
+
+<token id="258"> क्योंकि </token>
+<token id="259"> अब </token>
+<token id="260"> आपको </token>
+<token id="261"> पहले </token>
+<token id="262"> के </token>
+<token id="263"> मुकाबले </token>
+<token id="264"> थोड़े </token>
+<token id="265"> कम </token>
+<token id="266"> पैसे </token>
+<token id="267"> भेजने </token>
+<token id="268"> होंगे </token>
+<token id="269"> . </token>
+
+<token id="270"> मान </token>
+<token id="271"> लीजिए </token>
+<token id="272"> अगर </token>
+<token id="273"> आपका </token>
+<token id="274"> बच्चा </token>
+<token id="275"> अमेरिका </token>
+<token id="276"> में </token>
+<token id="277"> पढ़ाई </token>
+<token id="278"> कर </token>
+<token id="279"> रहा </token>
+<token id="280"> है </token>
+<token id="281"> . </token>
+
+<token id="282"> तो </token>
+<token id="283"> अभी </token>
+<token id="284"> तक </token>
+<token id="285"> आपको </token>
+<token id="286"> डॉलर </token>
+<token id="287"> के </token>
+<token id="288"> हिसाब </token>
+<token id="289"> से </token>
+<token id="290"> ही </token>
+<token id="291"> भारतीय </token>
+<token id="292"> रुपए </token>
+<token id="293"> भेजने </token>
+<token id="294"> पड़ते </token>
+<token id="295"> थे </token>
+<token id="296"> . </token>
+
+<token id="297"> यानी </token>
+<token id="298"> अगर </token>
+<token id="299"> डॉलर </token>
+<token id="300"> मजबूत </token>
+<token id="301"> है </token>
+<token id="302"> तो </token>
+<token id="303"> आप </token>
+<token id="304"> ज्यादा </token>
+<token id="305"> रुपए </token>
+<token id="306"> भेजते </token>
+<token id="307"> थे </token>
+<token id="308"> . </token>
+
+<token id="309"> लेकिन </token>
+<token id="310"> अब </token>
+<token id="311"> आपको </token>
+<token id="312"> डॉलर </token>
+<token id="313"> के </token>
+<token id="314"> कमजोर </token>
+<token id="315"> -LRB- </token>
+<token id="316"> रुपए </token>
+<token id="317"> के </token>
+<token id="318"> मजबूत </token>
+<token id="319"> -RRB- </token>
+<token id="320"> होने </token>
+<token id="321"> से </token>
+<token id="322"> कम </token>
+<token id="323"> रुपए </token>
+<token id="324"> भेजने </token>
+<token id="325"> होंगे </token>
+<token id="326"> . </token>
+
+<token id="327"> तो </token>
+<token id="328"> इस </token>
+<token id="329"> तरह </token>
+<token id="330"> से </token>
+<token id="331"> विदेश </token>
+<token id="332"> में </token>
+<token id="333"> पढ़ </token>
+<token id="334"> रहे </token>
+<token id="335"> बच्चों </token>
+<token id="336"> की </token>
+<token id="337"> पढ़ाई </token>
+<token id="338"> भारतीय </token>
+<token id="339"> अभिभावकों </token>
+<token id="340"> को </token>
+<token id="341"> राहत </token>
+<token id="342"> दे </token>
+<token id="343"> सकती </token>
+<token id="344"> है </token>
+<token id="345"> . </token>
+
+<token id="346"> डॉलर </token>
+<token id="347"> के </token>
+<token id="348"> कमजोर </token>
+<token id="349"> होने </token>
+<token id="350"> से </token>
+<token id="351"> क्रूड </token>
+<token id="352"> ऑयल </token>
+<token id="353"> सस्ता </token>
+<token id="354"> हो </token>
+<token id="355"> सकता </token>
+<token id="356"> है </token>
+<token id="357"> . </token>
+
+<token id="358"> यानी </token>
+<token id="359"> जो </token>
+<token id="360"> देश </token>
+<token id="361"> कच्चे </token>
+<token id="362"> तेल </token>
+<token id="363"> का </token>
+<token id="364"> आयात </token>
+<token id="365"> करते </token>
+<token id="366"> हैं </token>
+
+<token id="367"> उन्हें </token>
+<token id="368"> अब </token>
+<token id="369"> पहले </token>
+<token id="370"> के </token>
+<token id="371"> मुकाबले </token>
+<token id="372"> -LRB- </token>
+<token id="373"> डॉलर </token>
+<token id="374"> के </token>
+<token id="375"> मुकाबले </token>
+<token id="376"> -RRB- </token>
+<token id="377"> कम </token>
+<token id="378"> रुपए </token>
+<token id="379"> खर्च </token>
+<token id="380"> करने </token>
+<token id="381"> होंगे </token>
+<token id="382"> . </token>
+
+<token id="383"> भारत </token>
+<token id="384"> जैसे </token>
+<token id="385"> देश </token>
+<token id="386"> के </token>
+<token id="387"> लिहाज </token>
+<token id="388"> से </token>
+<token id="389"> देखा </token>
+<token id="390"> जाए </token>
+<token id="391"> तो </token>
+<token id="392"> अगर </token>
+<token id="393"> क्रूड </token>
+<token id="394"> आयल </token>
+<token id="395"> सस्ता </token>
+<token id="396"> होगा </token>
+<token id="397"> तो </token>
+<token id="398"> सीधे </token>
+<token id="399"> तौर </token>
+<token id="400"> पर </token>
+<token id="401"> महंगाई </token>
+<token id="402"> थमने </token>
+<token id="403"> की </token>
+<token id="404"> संभावना </token>
+<token id="405"> बढ़ेगी </token>
+<token id="406"> . </token>
+
+<token id="407"> आम </token>
+<token id="408"> उपभोक्ताओं </token>
+<token id="409"> के </token>
+<token id="410"> खाने-पीने </token>
+<token id="411"> और </token>
+<token id="412"> अन्य </token>
+<token id="413"> जरूरी </token>
+<token id="414"> सामानों </token>
+<token id="415"> की </token>
+<token id="416"> आपूर्ति </token>
+<token id="417"> परिवहन </token>
+<token id="418"> माध्यम </token>
+<token id="419"> से </token>
+<token id="420"> की </token>
+<token id="421"> जाती </token>
+<token id="422"> है </token>
+
+<token id="423"> इसलिए </token>
+<token id="424"> महंगाई </token>
+<token id="425"> थम </token>
+<token id="426"> सकती </token>
+<token id="427"> है </token>
+<token id="428"> . </token>
+
+<token id="429"> वहीं </token>
+<token id="430"> अगर </token>
+<token id="431"> डॉलर </token>
+<token id="432"> कमजोर </token>
+<token id="433"> होता </token>
+<token id="434"> है </token>
+<token id="435"> तो </token>
+<token id="436"> डॉलर </token>
+<token id="437"> के </token>
+<token id="438"> मुकाबले </token>
+<token id="439"> भारत </token>
+<token id="440"> जिन </token>
+<token id="441"> भी </token>
+<token id="442"> मदों </token>
+<token id="443"> में </token>
+<token id="444"> पेमेंट </token>
+<token id="445"> करता </token>
+<token id="446"> है </token>
+<token id="447"> वह </token>
+<token id="448"> भी </token>
+<token id="449"> सस्ता </token>
+<token id="450"> हो </token>
+<token id="451"> जाएगा </token>
+<token id="452"> . </token>
+
+<token id="453"> यानी </token>
+<token id="454"> यह </token>
+<token id="455"> भी </token>
+<token id="456"> भारत </token>
+<token id="457"> के </token>
+<token id="458"> लिए </token>
+<token id="459"> एक </token>
+<token id="460"> राहत </token>
+<token id="461"> भरी </token>
+<token id="462"> खबर </token>
+<token id="463"> है </token>
+<token id="464"> . </token>
+<EVENT id="e1" class="PER" tokens="18,19,20,21" AnnConf="High"/>
+<EVENT id="e10" class="OCC " tokens="115,116" AnnConf="High"/>
+<EVENT id="e11" class="OCC " tokens="117,118" AnnConf="High"/>
+<EVENT id="e12" class="OCC " tokens="135,136" AnnConf="High"/>
+<EVENT id="e13" class="OCC " tokens="143,144" AnnConf="High"/>
+<EVENT id="e14" class="OCC " tokens="146,147,148,149" AnnConf="High"/>
+<EVENT id="e15" class="OCC " tokens="163,164" AnnConf="High"/>
+<EVENT id="e16" class="OCC " tokens="168,169" AnnConf="High"/>
+<EVENT id="e17" class="OCC " tokens="173,174,175,176" AnnConf="High"/>
+<EVENT id="e18" class="OCC " tokens="180,181" AnnConf="High"/>
+<EVENT id="e19" class="OCC " tokens="190,191" AnnConf="High"/>
+<EVENT id="e2" class="OCC " tokens="41,42,43" AnnConf="High"/>
+<EVENT id="e20" class="OCC " tokens="204,205,206" AnnConf="High"/>
+<EVENT id="e21" class="OCC " tokens="208,209" AnnConf="High"/>
+<EVENT id="e22" class="OCC " tokens="214,215" AnnConf="High"/>
+<EVENT id="e23" class="OCC " tokens="224,225,226" AnnConf="High"/>
+<EVENT id="e24" class="OCC " tokens="233,234,235" AnnConf="High"/>
+<EVENT id="e25" class="OCC " tokens="242,243,244,245" AnnConf="High"/>
+<EVENT id="e26" class="OCC " tokens="249,250" AnnConf="High"/>
+<EVENT id="e27" class="OCC " tokens="267,268" AnnConf="High"/>
+<EVENT id="e28" class="OCC " tokens="277,278,279,280" AnnConf="High"/>
+<EVENT id="e29" class="OCC " tokens="293,294,295" AnnConf="High"/>
+<EVENT id="e3" class="PER" tokens="44,45" AnnConf="High"/>
+<EVENT id="e30" class="OCC " tokens="306,307" AnnConf="High"/>
+<EVENT id="e31" class="OCC " tokens="314,320" AnnConf="High"/>
+<EVENT id="e32" class="OCC " tokens="324,325" AnnConf="High"/>
+<EVENT id="e33" class="OCC " tokens="341,342,343,344" AnnConf="High"/>
+<EVENT id="e34" class="OCC " tokens="348,349" AnnConf="High"/>
+<EVENT id="e35" class="OCC " tokens="353,354,355,356" AnnConf="High"/>
+<EVENT id="e36" class="OCC " tokens="364,365,366" AnnConf="High"/>
+<EVENT id="e37" class="OCC " tokens="379,380,381" AnnConf="High"/>
+<EVENT id="e38" class="OCC " tokens="395,396" AnnConf="High"/>
+<EVENT id="e39" class="OCC " tokens="404,405" AnnConf="High"/>
+<EVENT id="e4" class="OCC " tokens="50" AnnConf="High"/>
+<EVENT id="e40" class="OCC " tokens="416,420,421,422" AnnConf="High"/>
+<EVENT id="e41" class="OCC " tokens="425,426,427" AnnConf="High"/>
+<EVENT id="e42" class="OCC " tokens="432,433,434" AnnConf="High"/>
+<EVENT id="e43" class="OCC " tokens="444,445,446" AnnConf="High"/>
+<EVENT id="e44" class="OCC " tokens="449,450,451" AnnConf="High"/>
+<EVENT id="e5" class="OCC " tokens="61,62" AnnConf="High"/>
+<EVENT id="e6" class="OCC " tokens="65" AnnConf="High"/>
+<EVENT id="e7" class="OCC " tokens="86,87" AnnConf="High"/>
+<EVENT id="e8" class="OCC " tokens="97,98,99" AnnConf="High"/>
+<EVENT id="e9" class="OCC " tokens="104" AnnConf="High"/>
+<STATE id="s1" class="DESC" tokens="31" AnnConf="High"/>
+<STATE id="s10" class="DECL" tokens="462,463" AnnConf="High"/>
+<STATE id="s2" class="DESC" tokens="125" AnnConf="High"/>
+<STATE id="s3" class="DECL" tokens="130,131" AnnConf="High"/>
+<STATE id="s4" class="DECL" tokens="151" AnnConf="High"/>
+<STATE id="s5" class="DECL" tokens="183,184" AnnConf="High"/>
+<STATE id="s6" class="DECL" tokens="256" AnnConf="High"/>
+<STATE id="s7" class="DECL" tokens="300,301" AnnConf="High"/>
+<STATE id="s8" class="DESC" tokens="333,334" AnnConf="High"/>
+<STATE id="s9" class="DECL" tokens="389,390" AnnConf="High"/>
+<TIMEX id="t1" class="DUR" tokens="8,9,10" AnnConf="High"/>
+<TIMEX id="t2" class="DATE" tokens="23" AnnConf="High"/>
+<TIMEX id="t3" class="TIME" tokens="33,34" AnnConf="High"/>
+<TIMEX id="t4" class="DATE" tokens="48" AnnConf="High"/>
+<TIMEX id="t5" class="DUR" tokens="54,55,56" AnnConf="High"/>
+<TIMEX id="t6" class="DATE" tokens="70,71" AnnConf="High"/>
+<TIMEX id="t7" class="DATE" tokens="78,79" AnnConf="High"/>
+<TIMEX id="t8" class="TIME" tokens="102" AnnConf="High"/>
+<SLINK f_id="e2" s_id="e3" AnnConf="High"/>
+<SLINK f_id="e4" s_id="e5" AnnConf="High"/>
+<SLINK f_id="e6" s_id="e7" AnnConf="High"/>
+<SLINK f_id="e10" s_id="e11" AnnConf="Medium"/>
+<SLINK f_id="e12" s_id="e13" AnnConf="High"/>
+<SLINK f_id="e13" s_id="e14" AnnConf="High"/>
+<SLINK f_id="s4" s_id="e15" AnnConf="High"/>
+<SLINK f_id="e16" s_id="e17" AnnConf="High"/>
+<SLINK f_id="e17" s_id="e18" AnnConf="High"/>
+<SLINK f_id="e19" s_id="e20" AnnConf="High"/>
+<SLINK f_id="e21" s_id="e22" AnnConf="Medium"/>
+<SLINK f_id="e21" s_id="e23" AnnConf="High"/>
+<SLINK f_id="e21" s_id="e24" AnnConf="High"/>
+<SLINK f_id="e25" s_id="e26" AnnConf="Low"/>
+<SLINK f_id="e26" s_id="s6" AnnConf="High"/>
+<SLINK f_id="s7" s_id="e30" AnnConf="High"/>
+<SLINK f_id="s8" s_id="e33" AnnConf="High"/>
+<SLINK f_id="e36" s_id="e37" AnnConf="Low"/>
+<SLINK f_id="e38" s_id="e39" AnnConf="Low"/>
+<SLINK f_id="e40" s_id="e41" AnnConf="High"/>
+<SLINK f_id="e42" s_id="e43" AnnConf="High"/>
+<SLINK f_id="e43" s_id="e44" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="High"/>
+<TLINK f_id="e23" s_id="e24" class="before" AnnConf="High"/>
+<TLINK f_id="e30" s_id="e32" class="before" AnnConf="High"/>
+<TLINK f_id="e38" s_id="e39" class="before" AnnConf="High"/>
+</document>

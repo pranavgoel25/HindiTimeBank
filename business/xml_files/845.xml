@@ -1,0 +1,116 @@
+<document>
+<token id="1"> निर्माण </token>
+<token id="2"> क्षेत्र </token>
+<token id="3"> के </token>
+<token id="4"> केंद्रीय </token>
+<token id="5"> उपक्रम </token>
+<token id="6"> एनबीसीसी </token>
+<token id="7"> ने </token>
+<token id="8"> बुधवार </token>
+<token id="9"> को </token>
+<token id="10"> कहा </token>
+<token id="11"> कि </token>
+<token id="12"> पीके </token>
+<token id="13"> गुप्ता </token>
+<token id="14"> ने </token>
+<token id="15"> उसके </token>
+<token id="16"> चेयरमैन </token>
+<token id="17"> एवं </token>
+<token id="18"> प्रबंध </token>
+<token id="19"> निदेशक </token>
+<token id="20"> ( </token>
+<token id="21"> सीएमडी </token>
+<token id="22"> ) </token>
+<token id="23"> का </token>
+<token id="24"> पदभार </token>
+<token id="25"> संभाल </token>
+<token id="26"> लिया </token>
+<token id="27"> है </token>
+<token id="28"> . </token>
+<token id="29"> एनबीसीसी </token>
+<token id="30"> के </token>
+<token id="31"> एक </token>
+<token id="32"> बयान </token>
+<token id="33"> में </token>
+<token id="34"> कहा </token>
+<token id="35"> गया </token>
+<token id="36"> है </token>
+<token id="37"> , </token>
+<token id="38"> ‘ </token>
+<token id="39"> एनबीसीसी </token>
+<token id="40"> के </token>
+<token id="41"> सीएमडी </token>
+<token id="42"> का </token>
+<token id="43"> पद </token>
+<token id="44"> संभालने </token>
+<token id="45"> से </token>
+<token id="46"> पहले </token>
+<token id="47"> वह </token>
+<token id="48"> राइट्स </token>
+<token id="49"> लि </token>
+<token id="50"> के </token>
+<token id="51"> कार्यकारी </token>
+<token id="52"> निदेशक </token>
+<token id="53"> ( </token>
+<token id="54"> क्षेत्रीय </token>
+<token id="55"> परियोजनाएं </token>
+<token id="56"> ) </token>
+<token id="57"> थे </token>
+<token id="58"> . </token>
+<token id="59"> ’ </token>
+<token id="60"> गुप्ता </token>
+<token id="61"> ने </token>
+<token id="62"> एनआईटी </token>
+<token id="63"> कुरुक्षेत्र </token>
+<token id="64"> से </token>
+<token id="65"> सिविल </token>
+<token id="66"> इंजीनियरिंग </token>
+<token id="67"> में </token>
+<token id="68"> स्नातक </token>
+<token id="69"> और </token>
+<token id="70"> आईआईटी </token>
+<token id="71"> दिल्ली </token>
+<token id="72"> से </token>
+<token id="73"> इसी </token>
+<token id="74"> विधा </token>
+<token id="75"> में </token>
+<token id="76"> परास्नातक </token>
+<token id="77"> डिग्री </token>
+<token id="78"> हासिल </token>
+<token id="79"> की </token>
+<token id="80"> है </token>
+<token id="81"> . </token>
+<token id="82"> वह </token>
+<token id="83"> भारतीय </token>
+<token id="84"> रेलवे </token>
+<token id="85"> अभियांत्रिकी </token>
+<token id="86"> सेवा </token>
+<token id="87"> में </token>
+<token id="88"> 1986 </token>
+<token id="89"> में </token>
+<token id="90"> शामिल </token>
+<token id="91"> हुए </token>
+<token id="92"> थे </token>
+<token id="93"> . </token>
+<token id="94"> उनका </token>
+<token id="95"> इस </token>
+<token id="96"> क्षेत्र </token>
+<token id="97"> में </token>
+<token id="98"> 33 </token>
+<token id="99"> वर्ष </token>
+<token id="100"> का </token>
+<token id="101"> अनुभव </token>
+<token id="102"> है </token>
+<token id="103"> . </token>
+<EVENT id="e1" class="REP" tokens="10" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="24,25,26,27" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="34,35,36" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="43,44" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="78,79,80" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="90,91,92" AnnConf="High"/>
+<STATE id="s4" class="DECL" tokens="57" AnnConf="High"/>
+<STATE id="s3" class="DESC" tokens="101,102" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="8" AnnConf="High"/>
+<SLINK f_id="e1" s_id="e2" AnnConf="High"/>
+<TLINK f_id="s4" s_id="e4" class="before" AnnConf="Medium"/>
+</document>

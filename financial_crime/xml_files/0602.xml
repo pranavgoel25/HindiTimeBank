@@ -1,0 +1,141 @@
+<document>
+<token id="1"> अरवल </token>
+<token id="2"> . </token>
+<token id="3"> स्थानीय </token>
+<token id="4"> बाजार </token>
+<token id="5"> के </token>
+<token id="6"> दुकानदारों </token>
+<token id="7"> द्वारा </token>
+<token id="8"> एक </token>
+<token id="9"> रुपये </token>
+<token id="10"> के </token>
+<token id="11"> छोटे </token>
+<token id="12"> सिक्के </token>
+<token id="13"> नहीं </token>
+<token id="14"> लेने </token>
+<token id="15"> से </token>
+<token id="16"> आमलोगों </token>
+<token id="17"> की </token>
+<token id="18"> परेशानी </token>
+<token id="19"> बढ़ </token>
+<token id="20"> गई </token>
+<token id="21"> है </token>
+<token id="22"> . </token>
+<token id="23"> इस </token>
+<token id="24"> बात </token>
+<token id="25"> को </token>
+<token id="26"> लेकर </token>
+<token id="27"> ग्राहक </token>
+<token id="28"> तथा </token>
+<token id="29"> दुकानदारों </token>
+<token id="30"> के </token>
+<token id="31"> बीच </token>
+<token id="32"> कई </token>
+<token id="33"> बार </token>
+<token id="34"> विवाद </token>
+<token id="35"> हो </token>
+<token id="36"> चुका </token>
+<token id="37"> है </token>
+<token id="38"> . </token>
+<token id="39"> मिली </token>
+<token id="40"> जानकारी </token>
+<token id="41"> के </token>
+<token id="42"> अनुसार </token>
+<token id="43"> ग्राहक </token>
+<token id="44"> जब </token>
+<token id="45"> सब्जी </token>
+<token id="46"> , </token>
+<token id="47"> फल </token>
+<token id="48"> , </token>
+<token id="49"> चाय </token>
+<token id="50"> , </token>
+<token id="51"> पान </token>
+<token id="52"> आदि </token>
+<token id="53"> के </token>
+<token id="54"> दुकानदारों </token>
+<token id="55"> को </token>
+<token id="56"> एक </token>
+<token id="57"> का </token>
+<token id="58"> सिक्का </token>
+<token id="59"> देते </token>
+<token id="60"> है </token>
+<token id="61"> तो </token>
+<token id="62"> वे </token>
+<token id="63"> लोग </token>
+<token id="64"> इसे </token>
+<token id="65"> लेने </token>
+<token id="66"> से </token>
+<token id="67"> इंकार </token>
+<token id="68"> कर </token>
+<token id="69"> देते </token>
+<token id="70"> हैं </token>
+<token id="71"> . </token>
+<token id="72"> उधर </token>
+<token id="73"> इस </token>
+<token id="74"> सिलसिले </token>
+<token id="75"> में </token>
+<token id="76"> बैंक </token>
+<token id="77"> शाखाओं </token>
+<token id="78"> द्वारा </token>
+<token id="79"> भी </token>
+<token id="80"> कोई </token>
+<token id="81"> दिशा </token>
+<token id="82"> निर्देश </token>
+<token id="83"> नहीं </token>
+<token id="84"> दिया </token>
+<token id="85"> जा </token>
+<token id="86"> रहा </token>
+<token id="87"> है </token>
+<token id="88"> . </token>
+<token id="89"> लोगो </token>
+<token id="90"> द्वारा </token>
+<token id="91"> अफवाह </token>
+<token id="92"> फैला </token>
+<token id="93"> दिया </token>
+<token id="94"> गया </token>
+<token id="95"> है </token>
+<token id="96"> कि </token>
+<token id="97"> छोटे </token>
+<token id="98"> सिक्के </token>
+<token id="99"> का </token>
+<token id="100"> प्रचलन </token>
+<token id="101"> बंद </token>
+<token id="102"> किया </token>
+<token id="103"> गया </token>
+<token id="104"> है </token>
+<token id="105"> . </token>
+<token id="106"> जबकि </token>
+<token id="107"> ऐसी </token>
+<token id="108"> बात </token>
+<token id="109"> नहीं </token>
+<token id="110"> है </token>
+<token id="111"> . </token>
+<token id="112"> उपभोक्ताओं </token>
+<token id="113"> ने </token>
+<token id="114"> प्रशासन </token>
+<token id="115"> से </token>
+<token id="116"> आवश्यक </token>
+<token id="117"> कार्रवाई </token>
+<token id="118"> करने </token>
+<token id="119"> की </token>
+<token id="120"> मांग </token>
+<token id="121"> की </token>
+<token id="122"> है </token>
+<token id="123"> . </token>
+<EVENT id="e1" class="OCC" tokens="13,14" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="18,19,20,21" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="34,35,36,37" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="59,60" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="65" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="67,68,69,70" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="82,83,84,85,86,87" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="91,92,93,94,95" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="100,101,102,103,104" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="117,118" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="120,121,122" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="39" annConf="High"/>
+<STATE id="s2" class="DECL" tokens="109,110" annConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="Low"/>
+<TLINK f_id="e4" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e11" class="before" AnnConf="High"/>
+</document>

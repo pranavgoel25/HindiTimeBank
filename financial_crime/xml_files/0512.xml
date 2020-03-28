@@ -1,0 +1,122 @@
+<document>
+<token id="1"> जहानाबाद </token>
+<token id="2"> . </token>
+<token id="3"> कागजात </token>
+<token id="4"> तथा </token>
+<token id="5"> हेलमेट </token>
+<token id="6"> के </token>
+<token id="7"> बगैर </token>
+<token id="8"> वाहनों </token>
+<token id="9"> का </token>
+<token id="10"> परिचालन </token>
+<token id="11"> करने </token>
+<token id="12"> वालों </token>
+<token id="13"> के </token>
+<token id="14"> खिलाफ </token>
+<token id="15"> संचालित </token>
+<token id="16"> अभियान </token>
+<token id="17"> में </token>
+<token id="18"> बुधवार </token>
+<token id="19"> को </token>
+<token id="20"> पुलिस </token>
+<token id="21"> ने </token>
+<token id="22"> जुर्माने </token>
+<token id="23"> के </token>
+<token id="24"> रूप </token>
+<token id="25"> में </token>
+<token id="26"> सात </token>
+<token id="27"> सौ </token>
+<token id="28"> रुपये </token>
+<token id="29"> की </token>
+<token id="30"> वसूली </token>
+<token id="31"> की </token>
+<token id="32"> गई </token>
+<token id="33"> . </token>
+<token id="34"> शकुराबाद </token>
+<token id="35"> के </token>
+<token id="36"> थानाध्यक्ष </token>
+<token id="37"> चंदन </token>
+<token id="38"> कुमार </token>
+<token id="39"> ¨ </token>
+<token id="40"> सह </token>
+<token id="41"> ने </token>
+<token id="42"> बताया </token>
+<token id="43"> कि </token>
+<token id="44"> घेजन </token>
+<token id="45"> मोड </token>
+<token id="46"> तथा </token>
+<token id="47"> बाजार </token>
+<token id="48"> में </token>
+<token id="49"> सहायक </token>
+<token id="50"> निरीक्षक </token>
+<token id="51"> उमेश </token>
+<token id="52"> यादव </token>
+<token id="53"> के </token>
+<token id="54"> नेतृत्व </token>
+<token id="55"> में </token>
+<token id="56"> दो </token>
+<token id="57"> पहिए </token>
+<token id="58"> वाहनों </token>
+<token id="59"> की </token>
+<token id="60"> जांच </token>
+<token id="61"> पडताल </token>
+<token id="62"> की </token>
+<token id="63"> गई </token>
+<token id="64"> . </token>
+<token id="65"> उन्होंने </token>
+<token id="66"> बताया </token>
+<token id="67"> कि </token>
+<token id="68"> जिन </token>
+<token id="69"> लोगों </token>
+<token id="70"> के </token>
+<token id="71"> पास </token>
+<token id="72"> कागजात </token>
+<token id="73"> नहीं </token>
+<token id="74"> थे </token>
+<token id="75"> या </token>
+<token id="76"> हेलमेट </token>
+<token id="77"> का </token>
+<token id="78"> प्रयोग </token>
+<token id="79"> नहीं </token>
+<token id="80"> कर </token>
+<token id="81"> रहे </token>
+<token id="82"> थे </token>
+<token id="83"> उनलोगों </token>
+<token id="84"> से </token>
+<token id="85"> जुर्माने </token>
+<token id="86"> की </token>
+<token id="87"> राशि </token>
+<token id="88"> वसूली </token>
+<token id="89"> गई </token>
+<token id="90"> . </token>
+<token id="91"> उन्होंने </token>
+<token id="92"> कहा </token>
+<token id="93"> कि </token>
+<token id="94"> पुलिस </token>
+<token id="95"> का </token>
+<token id="96"> यह </token>
+<token id="97"> अभियान </token>
+<token id="98"> आगे </token>
+<token id="99"> भी </token>
+<token id="100"> जारी </token>
+<token id="101"> रहेगा </token>
+<token id="102"> . </token>
+<EVENT id="e1" class="OCC" tokens="30,31,32" annConf="High"/>
+<EVENT id="e2" class="REP" tokens="42" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="60" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="61,62,63" annConf="High"/>
+<EVENT id="e5" class="REP" tokens="66" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="78,79,80,81,82" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="88,89" annConf="High"/>
+<EVENT id="e8" class="REP" tokens="92" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="97" annConf="High"/>
+<EVENT id="e9" class="ASP" tokens="100,101" annConf="High"/>
+<STATE id="s2" class="DESC" tokens="10,11" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="73,74" annConf="High"/>
+<TIMEX id="t1" tokens="18" annConf="High" class="DATE"/>
+<SLINK f_id="e2" s_id="e3" AnnConf="High"/>
+<SLINK f_id="e5" s_id="e6" AnnConf="High"/>
+<SLINK f_id="e8" s_id="e9" AnnConf="Low"/>
+<ALINK f_id="e9" s_id="e10" class="CONTINUATION"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="Medium"/>
+</document>

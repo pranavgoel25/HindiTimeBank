@@ -1,0 +1,106 @@
+<document>
+<token id="1"> ﻿मंडी </token>
+<token id="2"> धनौरा </token>
+<token id="3"> : </token>
+<token id="4"> भारतीय </token>
+<token id="5"> किसान </token>
+<token id="6"> यूनियन </token>
+<token id="7"> की </token>
+<token id="8"> नगर </token>
+<token id="9"> स्थित </token>
+<token id="10"> बिजलीघर </token>
+<token id="11"> पर </token>
+<token id="12"> पंचायत </token>
+<token id="13"> में </token>
+<token id="14"> प्रदेश </token>
+<token id="15"> संगठन </token>
+<token id="16"> मंत्री </token>
+<token id="17"> बिजेंद्र </token>
+<token id="18"> शर्मा </token>
+<token id="19"> ने </token>
+<token id="20"> कहा </token>
+<token id="21"> कि </token>
+<token id="22"> सरकार </token>
+<token id="23"> द्वारा </token>
+<token id="24"> गन्ने </token>
+<token id="25"> पर </token>
+<token id="26"> दस </token>
+<token id="27"> रुपये </token>
+<token id="28"> बढ़ाए </token>
+<token id="29"> हैं </token>
+<token id="30"> . </token>
+<token id="31"> इसका </token>
+<token id="32"> किसान </token>
+<token id="33"> पूर्ण </token>
+<token id="34"> रूप </token>
+<token id="35"> से </token>
+<token id="36"> विरोध </token>
+<token id="37"> करते </token>
+<token id="38"> हैं </token>
+<token id="39"> . </token>
+<token id="40"> उन्होंने </token>
+<token id="41"> सरकार </token>
+<token id="42"> से </token>
+<token id="43"> गन्ने </token>
+<token id="44"> का </token>
+<token id="45"> मूल्य </token>
+<token id="46"> चार </token>
+<token id="47"> सौ </token>
+<token id="48"> रुपये </token>
+<token id="49"> प्रति </token>
+<token id="50"> कुंतल </token>
+<token id="51"> निर्धारित </token>
+<token id="52"> करने </token>
+<token id="53"> की </token>
+<token id="54"> मांग </token>
+<token id="55"> की </token>
+<token id="56"> . </token>
+<token id="57"> राज्यपाल </token>
+<token id="58"> को </token>
+<token id="59"> संबोधित </token>
+<token id="60"> ज्ञापन </token>
+<token id="61"> शनिवार </token>
+<token id="62"> को </token>
+<token id="63"> जिलाधिकारी </token>
+<token id="64"> को </token>
+<token id="65"> सौंपा </token>
+<token id="66"> जाएगा </token>
+<token id="67"> . </token>
+<token id="68"> इस </token>
+<token id="69"> मौके </token>
+<token id="70"> पर </token>
+<token id="71"> डूंगर </token>
+<token id="72"> ¨ </token>
+<token id="73"> सह </token>
+<token id="74"> , </token>
+<token id="75"> सोवीर </token>
+<token id="76"> ¨ </token>
+<token id="77"> सह </token>
+<token id="78"> , </token>
+<token id="79"> सुभाष </token>
+<token id="80"> , </token>
+<token id="81"> मुन्नु </token>
+<token id="82"> गुर्जर </token>
+<token id="83"> , </token>
+<token id="84"> सुभाष </token>
+<token id="85"> , </token>
+<token id="86"> गजेन्द्र </token>
+<token id="87"> ¨ </token>
+<token id="88"> सह </token>
+<token id="89"> , </token>
+<token id="90"> दिनेश </token>
+<token id="91"> कुमार </token>
+<token id="92"> आदि </token>
+<token id="93"> मौजूद </token>
+<token id="94"> थे </token>
+<token id="95"> . </token>
+<EVENT id="e1" class="REP" tokens="20" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="28,29" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="36,37,38" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="51,52" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="54,55" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="65,66" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="93,94" annConf="High"/>
+<TIMEX id="t1" tokens="61" annConf="High" class="DATE"/>
+<SLINK f_id="e1" s_id="e2" AnnConf="High"/>
+</document>

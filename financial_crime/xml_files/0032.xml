@@ -1,0 +1,530 @@
+<document>
+<token id="1"> नई </token>
+<token id="2"> दिल्ली </token>
+<token id="3"> -LRB- </token>
+<token id="4"> पीटीआई </token>
+<token id="5"> -RRB- </token>
+<token id="6"> . </token>
+
+<token id="7"> उत्तर </token>
+<token id="8"> प्रदेश </token>
+<token id="9"> के </token>
+<token id="10"> शाहजहांपुर </token>
+<token id="11"> जिले </token>
+<token id="12"> की </token>
+<token id="13"> एक </token>
+<token id="14"> अदालत </token>
+<token id="15"> ने </token>
+<token id="16"> साल </token>
+<token id="17"> 2015 </token>
+<token id="18"> के </token>
+<token id="19"> एक </token>
+<token id="20"> पुराने </token>
+<token id="21"> मामले </token>
+<token id="22"> में </token>
+<token id="23"> नैस्ले </token>
+<token id="24"> इंडिया </token>
+<token id="25"> पर </token>
+<token id="26"> 45 </token>
+<token id="27"> लाख </token>
+<token id="28"> का </token>
+<token id="29"> जुर्माना </token>
+<token id="30"> लगाया </token>
+<token id="31"> है </token>
+<token id="32"> . </token>
+
+<token id="33"> यह </token>
+<token id="34"> जुर्माना </token>
+<token id="35"> उस </token>
+<token id="36"> पर </token>
+<token id="37"> खराब </token>
+<token id="38"> मैगी </token>
+<token id="39"> नूडल्स </token>
+<token id="40"> बेचने </token>
+<token id="41"> के </token>
+<token id="42"> जुर्म </token>
+<token id="43"> में </token>
+<token id="44"> लगाया </token>
+<token id="45"> गया </token>
+<token id="46"> है </token>
+<token id="47"> . </token>
+
+<token id="48"> जानकारी </token>
+<token id="49"> के </token>
+<token id="50"> मुताबिक </token>
+<token id="51"> जिला </token>
+<token id="52"> प्रशासन </token>
+<token id="53"> के </token>
+<token id="54"> अधिकारियों </token>
+<token id="55"> ने </token>
+<token id="56"> पिछले </token>
+<token id="57"> साल </token>
+<token id="58"> नवंबर </token>
+<token id="59"> में </token>
+<token id="60"> नमूने </token>
+<token id="61"> इकट्ठा </token>
+<token id="62"> किए </token>
+<token id="63"> थे </token>
+<token id="64"> और </token>
+<token id="65"> उन्हें </token>
+<token id="66"> लैब </token>
+<token id="67"> जांच </token>
+<token id="68"> के </token>
+<token id="69"> लिए </token>
+<token id="70"> भेज </token>
+<token id="71"> दिया </token>
+<token id="72"> था </token>
+<token id="73"> . </token>
+
+<token id="74"> जांच </token>
+<token id="75"> में </token>
+<token id="76"> पाया </token>
+<token id="77"> गया </token>
+<token id="78"> कि </token>
+<token id="79"> मैगी </token>
+<token id="80"> के </token>
+<token id="81"> उन </token>
+<token id="82"> नमूनों </token>
+<token id="83"> में </token>
+<token id="84"> इंसान </token>
+<token id="85"> की </token>
+<token id="86"> खपत </token>
+<token id="87"> के </token>
+<token id="88"> लिए </token>
+<token id="89"> तय </token>
+<token id="90"> सीमा </token>
+<token id="91"> से </token>
+<token id="92"> अधिक </token>
+<token id="93"> मात्रा </token>
+<token id="94"> में </token>
+<token id="95"> राख </token>
+<token id="96"> थी </token>
+<token id="97"> . </token>
+
+<token id="98"> अदालत </token>
+<token id="99"> ने </token>
+<token id="100"> नैस्ले </token>
+<token id="101"> इंडिया </token>
+<token id="102"> के </token>
+<token id="103"> वितरकों </token>
+<token id="104"> पर </token>
+<token id="105"> भी </token>
+<token id="106"> 26 </token>
+<token id="107"> लाख </token>
+<token id="108"> का </token>
+<token id="109"> जुर्माना </token>
+<token id="110"> लगाया </token>
+<token id="111"> है </token>
+<token id="112"> . </token>
+
+<token id="113"> स्विस </token>
+<token id="114"> खाद्य </token>
+<token id="115"> फर्म </token>
+<token id="116"> इकाई </token>
+<token id="117"> के </token>
+<token id="118"> खिलाफ </token>
+<token id="119"> यह </token>
+<token id="120"> मामला </token>
+<token id="121"> नियामकों </token>
+<token id="122"> की </token>
+<token id="123"> ओर </token>
+<token id="124"> से </token>
+<token id="125"> दायर </token>
+<token id="126"> किया </token>
+<token id="127"> गया </token>
+<token id="128"> था </token>
+<token id="129"> . </token>
+
+<token id="130"> प्रशासन </token>
+<token id="131"> की </token>
+<token id="132"> ओर </token>
+<token id="133"> से </token>
+<token id="134"> साल </token>
+<token id="135"> 2015 </token>
+<token id="136"> और </token>
+<token id="137"> 2016 </token>
+<token id="138"> के </token>
+<token id="139"> दौरान </token>
+<token id="140"> मैगी </token>
+<token id="141"> नूडल्स </token>
+<token id="142"> के </token>
+<token id="143"> कई </token>
+<token id="144"> ऐसे </token>
+<token id="145"> सैंपल्स </token>
+<token id="146"> जब्त </token>
+<token id="147"> किए </token>
+<token id="148"> गए </token>
+<token id="149"> थे </token>
+<token id="150"> जिनमें </token>
+<token id="151"> लेड </token>
+
+<token id="152"> एस </token>
+<token id="153"> और </token>
+<token id="154"> मोनोसोडियम </token>
+<token id="155"> ग्लूकामेट </token>
+<token id="156"> -LRB- </token>
+<token id="157"> एमएसजी </token>
+<token id="158"> -RRB- </token>
+<token id="159"> अधिक </token>
+<token id="160"> मात्रा </token>
+<token id="161"> में </token>
+<token id="162"> पाया </token>
+<token id="163"> गया </token>
+<token id="164"> था </token>
+
+<token id="165"> जिन्हें </token>
+<token id="166"> फ्लेवर </token>
+<token id="167"> इन्हेंसर </token>
+<token id="168"> के </token>
+<token id="169"> तौर </token>
+<token id="170"> पर </token>
+<token id="171"> जाना </token>
+<token id="172"> जाता </token>
+<token id="173"> है </token>
+<token id="174"> . </token>
+
+<token id="175"> नेस्ले </token>
+<token id="176"> इंडिया </token>
+<token id="177"> के </token>
+<token id="178"> प्रवक्ता </token>
+<token id="179"> ने </token>
+<token id="180"> बताया </token>
+<token id="181"> कि </token>
+<token id="182"> कंपनी </token>
+<token id="183"> इस </token>
+<token id="184"> आदेश </token>
+<token id="185"> के </token>
+<token id="186"> खिलाफ </token>
+<token id="187"> अपील </token>
+<token id="188"> करेगी </token>
+<token id="189"> . </token>
+
+<token id="190"> कंपनी </token>
+<token id="191"> पॉलिसी </token>
+<token id="192"> के </token>
+<token id="193"> अंतर्गत </token>
+<token id="194"> नाम </token>
+<token id="195"> न </token>
+<token id="196"> छिपाने </token>
+<token id="197"> की </token>
+<token id="198"> शर्त </token>
+<token id="199"> पर </token>
+<token id="200"> कंपनी </token>
+<token id="201"> के </token>
+<token id="202"> प्रवक्ता </token>
+<token id="203"> ने </token>
+<token id="204"> बताया </token>
+
+<token id="205"> `` </token>
+<token id="206"> यह </token>
+<token id="207"> गलत </token>
+<token id="208"> मानकों </token>
+<token id="209"> के </token>
+<token id="210"> आवेदन </token>
+<token id="211"> का </token>
+<token id="212"> एक </token>
+<token id="213"> मामला </token>
+<token id="214"> जान </token>
+<token id="215"> पड़ता </token>
+<token id="216"> है </token>
+<token id="217"> और </token>
+<token id="218"> आदेश </token>
+<token id="219"> की </token>
+<token id="220"> कॉपी </token>
+<token id="221"> प्राप्त </token>
+<token id="222"> होने </token>
+<token id="223"> के </token>
+<token id="224"> बाद </token>
+<token id="225"> हम </token>
+<token id="226"> इसके </token>
+<token id="227"> खिलाफ </token>
+<token id="228"> एक </token>
+<token id="229"> अपील </token>
+<token id="230"> दायर </token>
+<token id="231"> करेंगे </token>
+<token id="232"> . </token>
+
+<token id="233"> '' </token>
+<token id="234"> गौरतलब </token>
+<token id="235"> है </token>
+<token id="236"> कि </token>
+<token id="237"> मैगी </token>
+<token id="238"> नैस्ले </token>
+<token id="239"> इंडिया </token>
+<token id="240"> का </token>
+<token id="241"> इकलौता </token>
+<token id="242"> ऐसा </token>
+<token id="243"> ब्रैंड </token>
+<token id="244"> है </token>
+<token id="245"> जो </token>
+<token id="246"> मुनाफा </token>
+<token id="247"> कमा </token>
+<token id="248"> रहा </token>
+<token id="249"> था </token>
+<token id="250"> और </token>
+<token id="251"> इसे </token>
+<token id="252"> पूरे </token>
+<token id="253"> भारत </token>
+<token id="254"> में </token>
+<token id="255"> 6 </token>
+<token id="256"> महीने </token>
+<token id="257"> के </token>
+<token id="258"> लिए </token>
+<token id="259"> बैन </token>
+<token id="260"> कर </token>
+<token id="261"> दिया </token>
+<token id="262"> गया </token>
+<token id="263"> था </token>
+<token id="264"> . </token>
+
+<token id="265"> नेस्ले </token>
+<token id="266"> इंडिया </token>
+<token id="267"> की </token>
+<token id="268"> ओर </token>
+<token id="269"> से </token>
+<token id="270"> क्या </token>
+<token id="271"> आया </token>
+<token id="272"> बयान </token>
+<token id="273"> : </token>
+<token id="274"> `` </token>
+<token id="275"> हम </token>
+<token id="276"> इस </token>
+<token id="277"> बात </token>
+<token id="278"> को </token>
+<token id="279"> दमदार </token>
+<token id="280"> तरीके </token>
+<token id="281"> से </token>
+<token id="282"> दोहराते </token>
+<token id="283"> हैं </token>
+<token id="284"> कि </token>
+<token id="285"> उपभोग </token>
+<token id="286"> के </token>
+<token id="287"> लिहाज </token>
+<token id="288"> से </token>
+<token id="289"> मैगी </token>
+<token id="290"> 100 </token>
+<token id="291"> फीसद </token>
+<token id="292"> सुरक्षित </token>
+<token id="293"> है </token>
+<token id="294"> . </token>
+
+<token id="295"> हालांकि </token>
+<token id="296"> हमें </token>
+<token id="297"> निर्णय </token>
+<token id="298"> अधिकारी </token>
+<token id="299"> की </token>
+<token id="300"> ओर </token>
+<token id="301"> से </token>
+<token id="302"> पारित </token>
+<token id="303"> आदेश </token>
+<token id="304"> प्राप्त </token>
+<token id="305"> नहीं </token>
+<token id="306"> हुआ </token>
+<token id="307"> है </token>
+
+<token id="308"> हमें </token>
+<token id="309"> बताया </token>
+<token id="310"> गया </token>
+<token id="311"> है </token>
+<token id="312"> कि </token>
+<token id="313"> नमूने </token>
+<token id="314"> वर्ष </token>
+<token id="315"> 2015 </token>
+<token id="316"> के </token>
+<token id="317"> हैं </token>
+<token id="318"> और </token>
+<token id="319"> यह </token>
+<token id="320"> समस्या </token>
+<token id="321"> नूडल्स </token>
+<token id="322"> में </token>
+<token id="323"> मिली </token>
+<token id="324"> ` </token>
+<token id="325"> राख </token>
+<token id="326"> सामग्री </token>
+<token id="327"> ' </token>
+<token id="328"> से </token>
+<token id="329"> संबंधित </token>
+<token id="330"> है </token>
+<token id="331"> . </token>
+
+<token id="332"> यह </token>
+<token id="333"> गलत </token>
+<token id="334"> मानकों </token>
+<token id="335"> के </token>
+<token id="336"> आवेदन </token>
+<token id="337"> का </token>
+<token id="338"> एक </token>
+<token id="339"> मामला </token>
+<token id="340"> है </token>
+<token id="341"> और </token>
+<token id="342"> हम </token>
+<token id="343"> आदेश </token>
+<token id="344"> प्राप्त </token>
+<token id="345"> होने </token>
+<token id="346"> के </token>
+<token id="347"> बाद </token>
+<token id="348"> तुरंत </token>
+<token id="349"> एक </token>
+<token id="350"> अपील </token>
+<token id="351"> दायर </token>
+<token id="352"> करेंगे </token>
+<token id="353"> . </token>
+
+<token id="354"> साल </token>
+<token id="355"> 2015 </token>
+<token id="356"> में </token>
+
+<token id="357"> नेस्ले </token>
+<token id="358"> इंडिया </token>
+<token id="359"> और </token>
+<token id="360"> अन्य </token>
+<token id="361"> कंपनियों </token>
+<token id="362"> ने </token>
+<token id="363"> नूडल्स </token>
+<token id="364"> के </token>
+<token id="365"> लिए </token>
+<token id="366"> विशिष्ट </token>
+<token id="367"> मानकों </token>
+<token id="368"> को </token>
+<token id="369"> निर्धारित </token>
+<token id="370"> करने </token>
+<token id="371"> के </token>
+<token id="372"> लिए </token>
+
+<token id="373"> उद्योग </token>
+<token id="374"> संघों </token>
+<token id="375"> के </token>
+<token id="376"> माध्यम </token>
+<token id="377"> से </token>
+<token id="378"> संबंधित </token>
+<token id="379"> अधिकारियों </token>
+<token id="380"> के </token>
+<token id="381"> समक्ष </token>
+<token id="382"> अपना </token>
+<token id="383"> प्रतिनिधित्व </token>
+<token id="384"> रखा </token>
+<token id="385"> था </token>
+
+<token id="386"> ताकि </token>
+<token id="387"> प्रवर्तन </token>
+<token id="388"> अधिकारियों </token>
+<token id="389"> और </token>
+<token id="390"> उपभोक्ताओं </token>
+<token id="391"> के </token>
+<token id="392"> बीच </token>
+<token id="393"> भ्रम </token>
+<token id="394"> की </token>
+<token id="395"> स्थिति </token>
+<token id="396"> को </token>
+<token id="397"> रोका </token>
+<token id="398"> जा </token>
+<token id="399"> सके </token>
+<token id="400"> . </token>
+
+<token id="401"> उस </token>
+<token id="402"> वक्त </token>
+<token id="403"> मानकों </token>
+<token id="404"> को </token>
+<token id="405"> तय </token>
+<token id="406"> किया </token>
+<token id="407"> गया </token>
+<token id="408"> था </token>
+<token id="409"> और </token>
+<token id="410"> उसी </token>
+<token id="411"> के </token>
+<token id="412"> अनुरूप </token>
+<token id="413"> उत्पादों </token>
+<token id="414"> को </token>
+<token id="415"> तैयार </token>
+<token id="416"> किया </token>
+<token id="417"> गया </token>
+<token id="418"> था </token>
+<token id="419"> . </token>
+
+<token id="420"> हमें </token>
+<token id="421"> इस </token>
+<token id="422"> भ्रम </token>
+<token id="423"> के </token>
+<token id="424"> लिए </token>
+<token id="425"> खेद </token>
+<token id="426"> है </token>
+<token id="427"> जिसकी </token>
+<token id="428"> वजह </token>
+<token id="429"> से </token>
+<token id="430"> उपभोक्ताओं </token>
+<token id="431"> को </token>
+<token id="432"> मुश्किलें </token>
+<token id="433"> आई </token>
+<token id="434"> हैं </token>
+<token id="435"> . </token>
+<EVENT id="e1" class="OCC " tokens="29,30,31" AnnConf="High"/>
+<EVENT id="e10" class="OCC " tokens="109,110,111" AnnConf="High"/>
+<EVENT id="e11" class="OCC " tokens="125,126,127,128" AnnConf="High"/>
+<EVENT id="e12" class="OCC " tokens="146,147,148,149" AnnConf="High"/>
+<EVENT id="e13" class="OCC " tokens="162,163,164" AnnConf="High"/>
+<EVENT id="e14" class="REP " tokens="180" AnnConf="High"/>
+<EVENT id="e15" class="OCC " tokens="187,188" AnnConf="High"/>
+<EVENT id="e16" class="OCC " tokens="194,195,196" AnnConf="High"/>
+<EVENT id="e17" class="REP " tokens="204" AnnConf="High"/>
+<EVENT id="e18" class="OCC " tokens="214,215,216" AnnConf="High"/>
+<EVENT id="e19" class="OCC " tokens="221,222" AnnConf="High"/>
+<EVENT id="e2" class="OCC " tokens="40" AnnConf="High"/>
+<EVENT id="e20" class="OCC " tokens="230,231" AnnConf="High"/>
+<EVENT id="e21" class="OCC " tokens="246,247,248,249" AnnConf="High"/>
+<EVENT id="e22" class="OCC " tokens="259,260,261,262,263" AnnConf="High"/>
+<EVENT id="e23" class="OCC " tokens="271,272" AnnConf="High"/>
+<EVENT id="e24" class="OCC " tokens="282,283" AnnConf="High"/>
+<EVENT id="e25" class="OCC " tokens="304,305,306,307" AnnConf="High"/>
+<EVENT id="e26" class="OCC " tokens="309,310,311" AnnConf="High"/>
+<EVENT id="e27" class="OCC " tokens="323" AnnConf="High"/>
+<EVENT id="e28" class="OCC " tokens="344,345" AnnConf="High"/>
+<EVENT id="e29" class="OCC " tokens="351,352" AnnConf="High"/>
+<EVENT id="e3" class="OCC " tokens="44,45,46" AnnConf="High"/>
+<EVENT id="e30" class="OCC " tokens="369,370" AnnConf="High"/>
+<EVENT id="e31" class="OCC " tokens="383,384,385" AnnConf="High"/>
+<EVENT id="e32" class="OCC " tokens="397,398,399" AnnConf="High"/>
+<EVENT id="e33" class="OCC " tokens="405,406,407,408" AnnConf="High"/>
+<EVENT id="e34" class="OCC " tokens="415,416,417,418" AnnConf="High"/>
+<EVENT id="e35" class="OCC " tokens="432,433,434" AnnConf="High"/>
+<EVENT id="e4" class="OCC " tokens="61,62,63" AnnConf="High"/>
+<EVENT id="e5" class="OCC " tokens="67" AnnConf="High"/>
+<EVENT id="e6" class="OCC " tokens="70,71,72" AnnConf="High"/>
+<EVENT id="e7" class="OCC " tokens="74" AnnConf="High"/>
+<EVENT id="e8" class="OCC " tokens="76,77" AnnConf="High"/>
+<EVENT id="e9" class="OCC " tokens="86" AnnConf="High"/>
+<STATE id="s1" class="DECL" tokens="96" AnnConf="High"/>
+<STATE id="s2" class="DECL" tokens="171,172,173" AnnConf="High"/>
+<STATE id="s3" class="DECL" tokens="292,293" AnnConf="High"/>
+<STATE id="s4" class="DECL" tokens="317" AnnConf="High"/>
+<STATE id="s5" class="DECL" tokens="329,330" AnnConf="High"/>
+<STATE id="s6" class="DECL" tokens="339,340" AnnConf="High"/>
+<STATE id="s7" class="DECL" tokens="425,426" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="16,17" AnnConf="High"/>
+<TIMEX id="t2" class="DATE" tokens="56,57" AnnConf="High"/>
+<TIMEX id="t3" class="DATE" tokens="58" AnnConf="High"/>
+<TIMEX id="t4" class="DATE" tokens="134,135" AnnConf="High"/>
+<TIMEX id="t5" class="DATE" tokens="137" AnnConf="High"/>
+<TIMEX id="t6" class="DUR" tokens="255,256" AnnConf="High"/>
+<TIMEX id="t7" class="DATE" tokens="314,315" AnnConf="High"/>
+<TIMEX id="t8" class="DATE" tokens="354,355" AnnConf="High"/>
+<SLINK f_id="e2" s_id="e3" AnnConf="High"/>
+<SLINK f_id="e4" s_id="e5" AnnConf="Low"/>
+<SLINK f_id="e7" s_id="e8" AnnConf="High"/>
+<SLINK f_id="e9" s_id="s1" AnnConf="Medium"/>
+<SLINK f_id="e12" s_id="e13" AnnConf="Medium"/>
+<SLINK f_id="e13" s_id="s2" AnnConf="Medium"/>
+<SLINK f_id="e14" s_id="e15" AnnConf="High"/>
+<SLINK f_id="e16" s_id="e17" AnnConf="Low"/>
+<SLINK f_id="e21" s_id="e22" AnnConf="Low"/>
+<SLINK f_id="e24" s_id="s3" AnnConf="High"/>
+<SLINK f_id="e25" s_id="e26" AnnConf="Low"/>
+<SLINK f_id="e28" s_id="e29" AnnConf="Medium"/>
+<SLINK f_id="e30" s_id="e31" AnnConf="High"/>
+<SLINK f_id="e33" s_id="e34" AnnConf="High"/>
+<SLINK f_id="s7" s_id="e35" AnnConf="Low"/>
+<TLINK f_id="e4" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e8" class="before" AnnConf="High"/>
+<TLINK f_id="e19" s_id="e20" class="before" AnnConf="High"/>
+<TLINK f_id="e22" s_id="e23" class="before" AnnConf="Low"/>
+<TLINK f_id="e28" s_id="e29" class="before" AnnConf="Low"/>
+</document>

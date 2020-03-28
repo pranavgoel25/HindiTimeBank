@@ -1,0 +1,61 @@
+<document>
+<token id="1"> सादाबाद </token>
+<token id="2"> : </token>
+<token id="3"> सतेंद्र </token>
+<token id="4"> ¨ </token>
+<token id="5"> सह </token>
+<token id="6"> पुत्र </token>
+<token id="7"> भीमसेन </token>
+<token id="8"> निवासी </token>
+<token id="9"> मीरपुर </token>
+<token id="10"> ने </token>
+<token id="11"> कोतवाली </token>
+<token id="12"> में </token>
+<token id="13"> रिपोर्ट </token>
+<token id="14"> दर्ज </token>
+<token id="15"> कराई </token>
+<token id="16"> है </token>
+<token id="17"> कि </token>
+<token id="18"> 26 </token>
+<token id="19"> नवंबर </token>
+<token id="20"> को </token>
+<token id="21"> वह </token>
+<token id="22"> बस </token>
+<token id="23"> स्टैंड </token>
+<token id="24"> आया </token>
+<token id="25"> हुआ </token>
+<token id="26"> था </token>
+<token id="27"> . </token>
+
+<token id="28"> उसकी </token>
+<token id="29"> बाइक </token>
+<token id="30"> -LRB- </token>
+<token id="31"> यूपी </token>
+<token id="32"> 86 </token>
+<token id="33"> एपी </token>
+<token id="34"> 4985 </token>
+<token id="35"> -RRB- </token>
+<token id="36"> ताज </token>
+<token id="37"> होटल </token>
+<token id="38"> के </token>
+<token id="39"> पास </token>
+<token id="40"> खड़ी </token>
+<token id="41"> थी </token>
+
+<token id="42"> जहां </token>
+<token id="43"> से </token>
+<token id="44"> चोरों </token>
+<token id="45"> ने </token>
+<token id="46"> उसे </token>
+<token id="47"> पार </token>
+<token id="48"> कर </token>
+<token id="49"> दिया </token>
+<token id="50"> . </token>
+<EVENT id="e1" class="OCC " tokens="14,15,16" AnnConf="High"/>
+<EVENT id="e2" class="OCC " tokens="47,48,49" AnnConf="High"/>
+<STATE id="s1" class="DECL" tokens="24,25,26" AnnConf="High"/>
+<STATE id="s2" class="DECL" tokens="40,41" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="18,19" AnnConf="High"/>
+<TLINK f_id="s1" s_id="s2" class="overlap" AnnConf="High"/>
+<TLINK f_id="s2" s_id="e2" class="before" AnnConf="High"/>
+</document>

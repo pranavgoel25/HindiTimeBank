@@ -1,0 +1,155 @@
+<document>
+<token id="1"> हल्दिया </token>
+<token id="2"> : </token>
+<token id="3"> पूर्व </token>
+<token id="4"> मेदिनीपुर </token>
+<token id="5"> जिला </token>
+<token id="6"> अंतर्गत </token>
+<token id="7"> औद्योगिक </token>
+<token id="8"> नगरी </token>
+<token id="9"> हल्दिया </token>
+<token id="10"> में </token>
+<token id="11"> स्थित </token>
+<token id="12"> हल्दिया </token>
+<token id="13"> पेट्रोकेमिकल्स </token>
+<token id="14"> कारखाने </token>
+<token id="15"> में </token>
+<token id="16"> काम </token>
+<token id="17"> करते </token>
+<token id="18"> हुए </token>
+<token id="19"> दुर्घटना </token>
+<token id="20"> में </token>
+<token id="21"> एक </token>
+<token id="22"> श्रमिक </token>
+<token id="23"> की </token>
+<token id="24"> हुई </token>
+<token id="25"> मृत्यु </token>
+<token id="26"> के </token>
+<token id="27"> बाद </token>
+<token id="28"> उसके </token>
+<token id="29"> परिजन </token>
+<token id="30"> को </token>
+<token id="31"> 10 </token>
+<token id="32"> लाख </token>
+<token id="33"> रुपये </token>
+<token id="34"> की </token>
+<token id="35"> आर्थिक </token>
+<token id="36"> सहायता </token>
+<token id="37"> मुहैया </token>
+<token id="38"> कराई </token>
+<token id="39"> गई </token>
+<token id="40"> . </token>
+
+<token id="41"> शंकर </token>
+<token id="42"> कुइला </token>
+<token id="43"> नामक </token>
+<token id="44"> 40 </token>
+<token id="45"> वर्षीय </token>
+<token id="46"> अस्थाई </token>
+<token id="47"> मजदूर </token>
+<token id="48"> की </token>
+<token id="49"> मौत </token>
+<token id="50"> 19 </token>
+<token id="51"> अक्टूबर </token>
+<token id="52"> को </token>
+<token id="53"> कारखाने </token>
+<token id="54"> में </token>
+<token id="55"> ही </token>
+<token id="56"> हुई </token>
+<token id="57"> थी </token>
+<token id="58"> . </token>
+
+<token id="59"> मंगलवार </token>
+<token id="60"> को </token>
+<token id="61"> हल्दिया </token>
+<token id="62"> भवन </token>
+<token id="63"> में </token>
+<token id="64"> आयोजित </token>
+<token id="65"> कार्यक्रम </token>
+<token id="66"> के </token>
+<token id="67"> दौरान </token>
+<token id="68"> मौजूद </token>
+<token id="69"> राज्य </token>
+<token id="70"> के </token>
+<token id="71"> परिवहन </token>
+<token id="72"> मंत्री </token>
+<token id="73"> शुभेंदु </token>
+<token id="74"> अधिकारी </token>
+<token id="75"> ने </token>
+<token id="76"> मृत </token>
+<token id="77"> श्रमिक </token>
+<token id="78"> के </token>
+<token id="79"> परिजन </token>
+<token id="80"> को </token>
+<token id="81"> 10 </token>
+<token id="82"> लाख </token>
+<token id="83"> रुपये </token>
+<token id="84"> का </token>
+<token id="85"> चेक </token>
+<token id="86"> प्रदान </token>
+<token id="87"> किया </token>
+<token id="88"> . </token>
+
+<token id="89"> इस </token>
+<token id="90"> मौके </token>
+<token id="91"> पर </token>
+<token id="92"> कारखाने </token>
+<token id="93"> में </token>
+<token id="94"> श्रमिक </token>
+<token id="95"> यूनियन </token>
+<token id="96"> से </token>
+<token id="97"> जुडे </token>
+<token id="98"> पदाधिकारियों </token>
+<token id="99"> के </token>
+<token id="100"> अलावा </token>
+<token id="101"> कारखाने </token>
+<token id="102"> के </token>
+<token id="103"> अधिकारी </token>
+<token id="104"> भी </token>
+<token id="105"> मौजूद </token>
+<token id="106"> रहे </token>
+<token id="107"> . </token>
+
+<token id="108"> मृत </token>
+<token id="109"> मजदूर </token>
+<token id="110"> के </token>
+<token id="111"> परिजन </token>
+<token id="112"> को </token>
+<token id="113"> आर्थिक </token>
+<token id="114"> सहायता </token>
+<token id="115"> उपलब्ध </token>
+<token id="116"> कराने </token>
+<token id="117"> पर </token>
+<token id="118"> शुभेंदु </token>
+<token id="119"> ने </token>
+<token id="120"> एचपीएल </token>
+<token id="121"> अधिकारियों </token>
+<token id="122"> के </token>
+<token id="123"> साथ </token>
+<token id="124"> ही </token>
+<token id="125"> मजदूरों </token>
+<token id="126"> की </token>
+<token id="127"> भी </token>
+<token id="128"> सराहना </token>
+<token id="129"> की </token>
+<token id="130"> . </token>
+<EVENT id="e1" class="IAC" tokens="16,17,18" AnnConf="High"/>
+<EVENT id="e10" class="OCC" tokens="128,129" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="19" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="24,25" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="37,38,39" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="49,56,57" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="65" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="86,87" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="105,106" AnnConf="High"/>
+<EVENT id="e9" class="OCC" tokens="115,116" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="50,51" AnnConf="High"/>
+<TIMEX id="t2" class="DATE" tokens="59" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e3" class="overlap" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="before" AnnConf="Medium"/>
+<TLINK f_id="e6" s_id="e7" class="overlap" AnnConf="High"/>
+<SLINK f_id="e1" s_id="e2" AnnConf="High"/>
+<SLINK f_id="e3" s_id="e4" AnnConf="High"/>
+<SLINK f_id="e6" s_id="e7" AnnConf="High"/>
+<SLINK f_id="e9" s_id="e10" AnnConf="High"/>
+</document>

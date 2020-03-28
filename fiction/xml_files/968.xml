@@ -1,0 +1,141 @@
+<document>
+<token id="1"> फटे </token>
+<token id="2"> वस्त्रों </token>
+<token id="3"> वाली </token>
+<token id="4"> मुनिया </token>
+<token id="5"> ने </token>
+<token id="6"> रानी </token>
+<token id="7"> वसुधा </token>
+<token id="8"> के </token>
+<token id="9"> चांद </token>
+<token id="10"> से </token>
+<token id="11"> मुखड़े </token>
+<token id="12"> की </token>
+<token id="13"> ओर </token>
+<token id="14"> सम्मान </token>
+<token id="15"> भरी </token>
+<token id="16"> आंखो </token>
+<token id="17"> से </token>
+<token id="18"> देखकर </token>
+<token id="19"> राजकुमार </token>
+<token id="20"> को </token>
+<token id="21"> गोद </token>
+<token id="22"> में </token>
+<token id="23"> उठाते </token>
+<token id="24"> हुए </token>
+<token id="25"> कहा </token>
+<token id="26"> , </token>
+<token id="27"> हम </token>
+<token id="28"> गरीबों </token>
+<token id="29"> का </token>
+<token id="30"> इस </token>
+<token id="31"> तरह </token>
+<token id="32"> कैसे </token>
+<token id="33"> निबाह </token>
+<token id="34"> हो </token>
+<token id="35"> सकता </token>
+<token id="36"> है </token>
+<token id="37"> महारानी </token>
+<token id="38"> ! </token>
+<token id="39"> मेरी </token>
+<token id="40"> तो </token>
+<token id="41"> अपने </token>
+<token id="42"> आदमी </token>
+<token id="43"> से </token>
+<token id="44"> एक </token>
+<token id="45"> दिन </token>
+<token id="46"> न </token>
+<token id="47"> पटे </token>
+<token id="48"> , </token>
+<token id="49"> मैं </token>
+<token id="50"> उसे </token>
+<token id="51"> घर </token>
+<token id="52"> में </token>
+<token id="53"> पैठने </token>
+<token id="54"> न </token>
+<token id="55"> दूं </token>
+<token id="56"> . </token>
+<token id="57"> ऐसी-ऐसी </token>
+<token id="58"> गालियां </token>
+<token id="59"> सुनाऊं </token>
+<token id="60"> कि </token>
+<token id="61"> छठी </token>
+<token id="62"> का </token>
+<token id="63"> दूध </token>
+<token id="64"> याद </token>
+<token id="65"> आ </token>
+<token id="66"> जाय </token>
+<token id="67"> . </token>
+<token id="68"> रानी </token>
+<token id="69"> वसुधा </token>
+<token id="70"> ने </token>
+<token id="71"> गम्भीर </token>
+<token id="72"> विनोद </token>
+<token id="73"> के </token>
+<token id="74"> भाव </token>
+<token id="75"> से </token>
+<token id="76"> कहा </token>
+<token id="77"> , </token>
+<token id="78"> क्यों </token>
+<token id="79"> , </token>
+<token id="80"> वह </token>
+<token id="81"> कहेगा </token>
+<token id="82"> नहीं </token>
+<token id="83"> , </token>
+<token id="84"> तू </token>
+<token id="85"> मेरे </token>
+<token id="86"> बीच </token>
+<token id="87"> में </token>
+<token id="88"> बोलनेवाली </token>
+<token id="89"> कौन </token>
+<token id="90"> है </token>
+<token id="91"> ? </token>
+<token id="92"> मेरी </token>
+<token id="93"> जो </token>
+<token id="94"> इच्छा </token>
+<token id="95"> होगी </token>
+<token id="96"> वह </token>
+<token id="97"> करूंगा </token>
+<token id="98"> . </token>
+<token id="99"> तू </token>
+<token id="100"> अपना </token>
+<token id="101"> रोटी-कपड़ा </token>
+<token id="102"> मुझसे </token>
+<token id="103"> लिया </token>
+<token id="104"> कर </token>
+<token id="105"> . </token>
+<token id="106"> तुझे </token>
+<token id="107"> मेरी </token>
+<token id="108"> दूसरी </token>
+<token id="109"> बातों </token>
+<token id="110"> से </token>
+<token id="111"> क्या </token>
+<token id="112"> मतलब </token>
+<token id="113"> ? </token>
+<token id="114"> मैं </token>
+<token id="115"> तेरा </token>
+<token id="116"> गुलाम </token>
+<token id="117"> नहीं </token>
+<token id="118"> हूं </token>
+<token id="119"> . </token>
+<EVENT id="e2" class="PER" tokens="18" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="23,24" AnnConf="High"/>
+<EVENT id="e4" class="REP" tokens="25" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="33,34,35,36" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="46,47" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="53,54,55" AnnConf="High"/>
+<EVENT id="e8" class="PER" tokens="59" AnnConf="High"/>
+<EVENT id="e9" class="OCC" tokens="64,65,66" AnnConf="High"/>
+<EVENT id="e10" class="REP" tokens="76" AnnConf="High"/>
+<EVENT id="e11" class="OCC" tokens="94,95" AnnConf="High"/>
+<EVENT id="e12" class="OCC" tokens="97" AnnConf="High"/>
+<EVENT id="e13" class="OCC" tokens="103,104" AnnConf="High"/>
+<EVENT id="e14" class="OCC" tokens="116,117,118" AnnConf="High"/>
+<STATE id="s1" class="DESC" tokens="90" AnnConf="High"/>
+<TIMEX id="t1" class="DUR" tokens="44,45" AnnConf="High"/>
+<SLINK f_id="e4" s_id="e5" AnnConf="High"/>
+<SLINK f_id="e10" s_id="e11" AnnConf="Low"/>
+<TLINK f_id="e3" s_id="e4" class="overlap" AnnConf="Low"/>
+<TLINK f_id="e8" s_id="e9" class="before" AnnConf="High"/>
+<TLINK f_id="e11" s_id="e12" class="before" AnnConf="High"/>
+</document>

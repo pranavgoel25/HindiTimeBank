@@ -1,0 +1,101 @@
+<document>
+<token id="1"> तमंचे </token>
+<token id="2"> के </token>
+<token id="3"> बल </token>
+<token id="4"> पर </token>
+<token id="5"> दो </token>
+<token id="6"> भैंस </token>
+<token id="7"> लूट </token>
+<token id="8"> ले </token>
+<token id="9"> गए </token>
+<token id="10"> अकराबाद </token>
+<token id="11"> : </token>
+<token id="12"> पनेठी </token>
+<token id="13"> चौकी </token>
+<token id="14"> क्षेत्र </token>
+<token id="15"> में </token>
+<token id="16"> लगातार </token>
+<token id="17"> वारदात </token>
+<token id="18"> हो </token>
+<token id="19"> रही </token>
+<token id="20"> हैं </token>
+<token id="21"> . </token>
+<token id="22"> बीती </token>
+<token id="23"> रात </token>
+<token id="24"> गाव </token>
+<token id="25"> पनेठी </token>
+<token id="26"> से </token>
+<token id="27"> बदमाश </token>
+<token id="28"> तमंचे </token>
+<token id="29"> के </token>
+<token id="30"> बल </token>
+<token id="31"> पर </token>
+<token id="32"> वीरपाल </token>
+<token id="33"> सिंह </token>
+<token id="34"> पुत्र </token>
+<token id="35"> होडिल </token>
+<token id="36"> सिंह </token>
+<token id="37"> की </token>
+<token id="38"> भैंस </token>
+<token id="39"> खोल </token>
+<token id="40"> ले </token>
+<token id="41"> गए </token>
+<token id="42"> . </token>
+<token id="43"> दूसरी </token>
+<token id="44"> घटना </token>
+<token id="45"> गाव </token>
+<token id="46"> भिलावटी </token>
+<token id="47"> में </token>
+<token id="48"> हुई </token>
+<token id="49"> , </token>
+<token id="50"> जहां </token>
+<token id="51"> रमेशचंद </token>
+<token id="52"> पुत्र </token>
+<token id="53"> महाबीर </token>
+<token id="54"> से </token>
+<token id="55"> मारपीट </token>
+<token id="56"> कर </token>
+<token id="57"> कुछ </token>
+<token id="58"> लोग </token>
+<token id="59"> भैंस </token>
+<token id="60"> खोलकर </token>
+<token id="61"> ले </token>
+<token id="62"> गए </token>
+<token id="63"> . </token>
+<token id="64"> पीडित </token>
+<token id="65"> ने </token>
+<token id="66"> बताया </token>
+<token id="67"> कि </token>
+<token id="68"> विरोध </token>
+<token id="69"> किया </token>
+<token id="70"> तो </token>
+<token id="71"> बदमाशों </token>
+<token id="72"> ने </token>
+<token id="73"> तमंचा </token>
+<token id="74"> दिखाकर </token>
+<token id="75"> धमकाया </token>
+<token id="76"> और </token>
+<token id="77"> भैंस </token>
+<token id="78"> खोल </token>
+<token id="79"> ले </token>
+<token id="80"> गए </token>
+<token id="81"> . </token>
+<EVENT id="e1" class="OCC" tokens="7,8,9" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="12,13" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="17,18,19,20" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="39,40,41" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="48" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="55,56" annConf="High"/>
+<EVENT id="e13" class="IAC" tokens="59,60" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="61,62" annConf="High"/>
+<EVENT id="e8" class="REP" tokens="66" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="68,69" annConf="High"/>
+<EVENT id="e14" class="PER" tokens="73,74" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="75" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="77,78" annConf="High"/>
+<EVENT id="e12" class="OCC" tokens="79,80" annConf="High"/>
+<SLINK f_id="e8" s_id="e9" AnnConf="Medium"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="Low"/>
+<TLINK f_id="e9" s_id="e10" class="before" AnnConf="High"/>
+<TLINK f_id="e10" s_id="e12" class="before" AnnConf="High"/>
+</document>

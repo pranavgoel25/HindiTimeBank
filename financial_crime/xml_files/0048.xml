@@ -1,0 +1,156 @@
+<document>
+<token id="1"> जागरण </token>
+<token id="2"> संवाददाता </token>
+
+<token id="3"> मुहम्मदाबाद </token>
+<token id="4"> गोहना </token>
+<token id="5"> -LRB- </token>
+<token id="6"> मऊ </token>
+<token id="7"> -RRB- </token>
+<token id="8"> : </token>
+<token id="9"> पुलिस </token>
+<token id="10"> प्रशासन </token>
+<token id="11"> द्वारा </token>
+<token id="12"> बुधवार </token>
+<token id="13"> की </token>
+<token id="14"> रात </token>
+<token id="15"> और </token>
+<token id="16"> गुरुवार </token>
+<token id="17"> को </token>
+<token id="18"> दिन </token>
+<token id="19"> में </token>
+<token id="20"> की </token>
+<token id="21"> गई </token>
+<token id="22"> चे </token>
+<token id="23"> ¨ </token>
+<token id="24"> कग </token>
+<token id="25"> में </token>
+<token id="26"> पुलिस </token>
+<token id="27"> ने </token>
+<token id="28"> 70 </token>
+<token id="29"> दोपहिया </token>
+<token id="30"> वाहनों </token>
+<token id="31"> का </token>
+<token id="32"> चालान </token>
+<token id="33"> किया </token>
+<token id="34"> . </token>
+
+<token id="35"> दो </token>
+<token id="36"> मोटरसाइकिलें </token>
+<token id="37"> सीज </token>
+<token id="38"> कर </token>
+<token id="39"> दी </token>
+<token id="40"> गईं </token>
+<token id="41"> . </token>
+
+<token id="42"> इन </token>
+<token id="43"> वाहनों </token>
+<token id="44"> के </token>
+<token id="45"> स्वामियों </token>
+<token id="46"> से </token>
+<token id="47"> 10 </token>
+<token id="48"> हजार </token>
+<token id="49"> रुपये </token>
+<token id="50"> शमन </token>
+<token id="51"> शुल्क </token>
+<token id="52"> भी </token>
+<token id="53"> वसूला </token>
+<token id="54"> गया </token>
+<token id="55"> . </token>
+
+<token id="56"> स्थानीय </token>
+<token id="57"> कोतवाली </token>
+<token id="58"> पुलिस </token>
+<token id="59"> ने </token>
+<token id="60"> रात </token>
+<token id="61"> में </token>
+<token id="62"> मुहम्मदाबाद </token>
+<token id="63"> गोहना </token>
+<token id="64"> व </token>
+<token id="65"> आजमगढ़ </token>
+<token id="66"> के </token>
+<token id="67"> बीच </token>
+<token id="68"> उम्मनपुर </token>
+<token id="69"> बॉर्डर </token>
+<token id="70"> तथा </token>
+<token id="71"> कैलेंडर </token>
+<token id="72"> तिराहे </token>
+<token id="73"> पर </token>
+<token id="74"> इधर </token>
+<token id="75"> से </token>
+<token id="76"> उधर </token>
+<token id="77"> आने </token>
+<token id="78"> व </token>
+<token id="79"> जाने </token>
+<token id="80"> वाले </token>
+<token id="81"> दो </token>
+<token id="82"> पहिया </token>
+<token id="83"> वाहनों </token>
+<token id="84"> की </token>
+<token id="85"> गहन </token>
+<token id="86"> चे </token>
+<token id="87"> ¨ </token>
+<token id="88"> कग </token>
+<token id="89"> किया </token>
+<token id="90"> . </token>
+
+<token id="91"> गुरुवार </token>
+<token id="92"> को </token>
+<token id="93"> दिन </token>
+<token id="94"> में </token>
+<token id="95"> भी </token>
+<token id="96"> गहन </token>
+<token id="97"> चे </token>
+<token id="98"> ¨ </token>
+<token id="99"> कग </token>
+<token id="100"> हुई </token>
+<token id="101"> . </token>
+
+<token id="102"> चे </token>
+<token id="103"> ¨ </token>
+<token id="104"> कग </token>
+<token id="105"> में </token>
+<token id="106"> कोतवाली </token>
+<token id="107"> प्रभारी </token>
+<token id="108"> आरके </token>
+<token id="109"> द्विवेदी </token>
+
+<token id="110"> अजय </token>
+<token id="111"> तिवारी </token>
+
+<token id="112"> महेंद्र </token>
+<token id="113"> यादव </token>
+
+<token id="114"> रणजीत </token>
+<token id="115"> आदि </token>
+<token id="116"> पुलिस </token>
+<token id="117"> के </token>
+<token id="118"> लोग </token>
+<token id="119"> उपस्थित </token>
+<token id="120"> थे </token>
+<token id="121"> . </token>
+<EVENT id="e1" class="OCC " tokens="22,23,24" AnnConf="High"/>
+<EVENT id="e2" class="OCC " tokens="32,33" AnnConf="High"/>
+<EVENT id="e3" class="OCC " tokens="37,38,39,40" AnnConf="High"/>
+<EVENT id="e4" class="OCC " tokens="53,54" AnnConf="High"/>
+<EVENT id="e5" class="OCC " tokens="86,87,88,89" AnnConf="High"/>
+<EVENT id="e6" class="OCC " tokens="97,98,99,100" AnnConf="High"/>
+<EVENT id="e7" class="OCC " tokens="102,103,104" AnnConf="High"/>
+<STATE id="s1" class="DESC" tokens="20,21" AnnConf="High"/>
+<STATE id="s2" class="DESC" tokens="77,78,79" AnnConf="High"/>
+<STATE id="s3" class="DECL" tokens="119,120" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="12" AnnConf="High"/>
+<TIMEX id="t2" class="TIME" tokens="14" AnnConf="High"/>
+<TIMEX id="t3" class="DATE" tokens="16" AnnConf="High"/>
+<TIMEX id="t4" class="TIME" tokens="18" AnnConf="High"/>
+<TIMEX id="t5" class="TIME" tokens="60" AnnConf="High"/>
+<TIMEX id="t6" class="DATE" tokens="91" AnnConf="High"/>
+<TIMEX id="t7" class="TIME" tokens="93" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="overlap" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e3" class="overlap" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e4" class="before" AnnConf="High"/>
+<SLINK f_id="s1" s_id="e1" AnnConf="High"/>
+<SLINK f_id="e1" s_id="e2" AnnConf="Medium"/>
+<SLINK f_id="s2" s_id="e5" AnnConf="High"/>
+<SLINK f_id="e7" s_id="s3" AnnConf="Medium"/>
+</document>

@@ -1,0 +1,107 @@
+<document>
+<token id="1"> स्कूल </token>
+<token id="2"> वाहन </token>
+<token id="3"> के </token>
+<token id="4"> चालक </token>
+<token id="5"> को </token>
+<token id="6"> पीटा </token>
+<token id="7"> , </token>
+<token id="8"> लूट </token>
+<token id="9"> का </token>
+<token id="10"> आरोप </token>
+<token id="11"> एट </token>
+<token id="12"> : </token>
+<token id="13"> एट </token>
+<token id="14"> में </token>
+<token id="15"> एक </token>
+<token id="16"> स्कूल </token>
+<token id="17"> का </token>
+<token id="18"> वाहन </token>
+<token id="19"> चलाने </token>
+<token id="20"> वाले </token>
+<token id="21"> केशव </token>
+<token id="22"> व्यास </token>
+<token id="23"> के </token>
+<token id="24"> साथ </token>
+<token id="25"> पांच </token>
+<token id="26"> लोगों </token>
+<token id="27"> ने </token>
+<token id="28"> मारपीट </token>
+<token id="29"> कर </token>
+<token id="30"> दी </token>
+<token id="31"> . </token>
+<token id="32"> उसका </token>
+<token id="33"> कहना </token>
+<token id="34"> है </token>
+<token id="35"> कि </token>
+<token id="36"> आरोपियों </token>
+<token id="37"> ने </token>
+<token id="38"> न </token>
+<token id="39"> सिर्फ </token>
+<token id="40"> उसके </token>
+<token id="41"> साथ </token>
+<token id="42"> मारपीट </token>
+<token id="43"> की </token>
+<token id="44"> . </token>
+<token id="45"> बल्कि </token>
+<token id="46"> सोने </token>
+<token id="47"> की </token>
+<token id="48"> जंजीर </token>
+<token id="49"> व </token>
+<token id="50"> 10 </token>
+<token id="51"> हजार </token>
+<token id="52"> रुपये </token>
+<token id="53"> भी </token>
+<token id="54"> लूट </token>
+<token id="55"> ले </token>
+<token id="56"> गये </token>
+<token id="57"> . </token>
+<token id="58"> दो </token>
+<token id="59"> लोगों </token>
+<token id="60"> के </token>
+<token id="61"> विरुद्ध </token>
+<token id="62"> लूट </token>
+<token id="63"> व </token>
+<token id="64"> मारपीट </token>
+<token id="65"> का </token>
+<token id="66"> मुकदमा </token>
+<token id="67"> दर्ज </token>
+<token id="68"> कराने </token>
+<token id="69"> के </token>
+<token id="70"> लिये </token>
+<token id="71"> उसने </token>
+<token id="72"> नामजद </token>
+<token id="73"> तहरीर </token>
+<token id="74"> दी </token>
+<token id="75"> है </token>
+<token id="76"> . </token>
+<token id="77"> थानाध्यक्ष </token>
+<token id="78"> चंद्रशेखर </token>
+<token id="79"> दुबे </token>
+<token id="80"> का </token>
+<token id="81"> कहना </token>
+<token id="82"> है </token>
+<token id="83"> कि </token>
+<token id="84"> जांच </token>
+<token id="85"> के </token>
+<token id="86"> बाद </token>
+<token id="87"> मामले </token>
+<token id="88"> में </token>
+<token id="89"> प्रभावी </token>
+<token id="90"> कार्रवाई </token>
+<token id="91"> की </token>
+<token id="92"> जाएगी </token>
+<token id="93"> . </token>
+<EVENT id="e1" class="OCC" tokens="28,29,30" annConf="High"/>
+<EVENT id="e2" class="REP" tokens="33,34" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="42,43" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="54,55,56" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="67,68" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="73,74,75" annConf="High"/>
+<EVENT id="e7" class="REP" tokens="81,82" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="84" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="90,91,92" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="18,19,20" annConf="High"/>
+<SLINK f_id="e2" s_id="e3" AnnConf="High"/>
+<SLINK f_id="e7" s_id="e9" AnnConf="High"/>
+</document>

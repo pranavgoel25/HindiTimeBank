@@ -1,0 +1,130 @@
+<document>
+<token id="1"> ﻿पट्टी </token>
+<token id="2"> , </token>
+<token id="3"> प्रतापगढ़ </token>
+<token id="4"> : </token>
+<token id="5"> कोतवाली </token>
+<token id="6"> क्षेत्र </token>
+<token id="7"> के </token>
+<token id="8"> पेडऱा </token>
+<token id="9"> गांव </token>
+<token id="10"> निवासी </token>
+<token id="11"> नूर </token>
+<token id="12"> मोहम्मद </token>
+<token id="13"> को </token>
+<token id="14"> विदेश </token>
+<token id="15"> भेजने </token>
+<token id="16"> के </token>
+<token id="17"> नाम </token>
+<token id="18"> पर </token>
+<token id="19"> 90 </token>
+<token id="20"> हजार </token>
+<token id="21"> रुपये </token>
+<token id="22"> डकारने </token>
+<token id="23"> के </token>
+<token id="24"> मामले </token>
+<token id="25"> में </token>
+<token id="26"> पुलिस </token>
+<token id="27"> ने </token>
+<token id="28"> बरहूपुर </token>
+<token id="29"> गांव </token>
+<token id="30"> निवासी </token>
+<token id="31"> तीन </token>
+<token id="32"> लोगों </token>
+<token id="33"> के </token>
+<token id="34"> खिलाफ </token>
+<token id="35"> धोखाधडी </token>
+<token id="36"> का </token>
+<token id="37"> मुकदमा </token>
+<token id="38"> दर्ज </token>
+<token id="39"> किया </token>
+<token id="40"> है </token>
+<token id="41"> . </token>
+<token id="42"> पेडरा </token>
+<token id="43"> गांव </token>
+<token id="44"> निवासी </token>
+<token id="45"> नूर </token>
+<token id="46"> मोहम्मद </token>
+<token id="47"> का </token>
+<token id="48"> आरोप </token>
+<token id="49"> है </token>
+<token id="50"> कि </token>
+<token id="51"> 22 </token>
+<token id="52"> अप्रैल </token>
+<token id="53"> 2015 </token>
+<token id="54"> को </token>
+<token id="55"> विदेश </token>
+<token id="56"> भेजने </token>
+<token id="57"> के </token>
+<token id="58"> नाम </token>
+<token id="59"> पर </token>
+<token id="60"> बरहूपुर </token>
+<token id="61"> गांव </token>
+<token id="62"> निवासी </token>
+<token id="63"> मो </token>
+<token id="64"> . </token>
+<token id="65"> तारिक </token>
+<token id="66"> , </token>
+<token id="67"> आरिफ </token>
+<token id="68"> व </token>
+<token id="69"> कुद्दस </token>
+<token id="70"> ने </token>
+<token id="71"> उनसे </token>
+<token id="72"> रुपये </token>
+<token id="73"> लिए </token>
+<token id="74"> थे </token>
+<token id="75"> . </token>
+<token id="76"> बाद </token>
+<token id="77"> में </token>
+<token id="78"> जब </token>
+<token id="79"> रुपये </token>
+<token id="80"> मांगे </token>
+<token id="81"> गए </token>
+<token id="82"> तो </token>
+<token id="83"> धमकी </token>
+<token id="84"> दी </token>
+<token id="85"> जा </token>
+<token id="86"> रही </token>
+<token id="87"> है </token>
+<token id="88"> . </token>
+<token id="89"> इससे </token>
+<token id="90"> लोग </token>
+<token id="91"> परिवार </token>
+<token id="92"> के </token>
+<token id="93"> डरे </token>
+<token id="94"> सहमे </token>
+<token id="95"> हुए </token>
+<token id="96"> हैं </token>
+<token id="97"> . </token>
+<token id="98"> तहरीर </token>
+<token id="99"> के </token>
+<token id="100"> आधार </token>
+<token id="101"> पर </token>
+<token id="102"> पुलिस </token>
+<token id="103"> ने </token>
+<token id="104"> तीनों </token>
+<token id="105"> आरोपियों </token>
+<token id="106"> के </token>
+<token id="107"> खिलाफ </token>
+<token id="108"> धोखाधडी </token>
+<token id="109"> सहित </token>
+<token id="110"> अन्य </token>
+<token id="111"> धाराओं </token>
+<token id="112"> में </token>
+<token id="113"> मुकदमा </token>
+<token id="114"> दर्ज </token>
+<token id="115"> किया </token>
+<token id="116"> है </token>
+<token id="117"> . </token>
+<EVENT id="e1" class="OCC" tokens="15" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="22" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="38,39,40" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="56" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="73,74" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="80,81" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="83,84,85,86,87" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="93,94,95,96" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="114,115,116" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="48,49" annConf="High"/>
+<TIMEX id="t1" tokens="51,52,53" annConf="High" class="DATE"/>
+</document>

@@ -1,0 +1,95 @@
+<document>
+<token id="1"> ﻿जागरण </token>
+<token id="2"> संवाददाता </token>
+<token id="3"> , </token>
+<token id="4"> बटाला </token>
+<token id="5"> : </token>
+<token id="6"> पेट्रोल </token>
+<token id="7"> पंप </token>
+<token id="8"> दादूजोध </token>
+<token id="9"> के </token>
+<token id="10"> सेल्समैन </token>
+<token id="11"> संजय </token>
+<token id="12"> कुमार </token>
+<token id="13"> वासी </token>
+<token id="14"> घारजनोट </token>
+<token id="15"> थाना </token>
+<token id="16"> नगरोटा </token>
+<token id="17"> सुरियां </token>
+<token id="18"> जिला </token>
+<token id="19"> कांगडा </token>
+<token id="20"> हिमाचल </token>
+<token id="21"> प्रदेश </token>
+<token id="22"> से </token>
+<token id="23"> 8 </token>
+<token id="24"> अक्टूबर </token>
+<token id="25"> की </token>
+<token id="26"> रात्रि </token>
+<token id="27"> को </token>
+<token id="28"> करीब </token>
+<token id="29"> साढे </token>
+<token id="30"> 8 </token>
+<token id="31"> बजे </token>
+<token id="32"> मोटरसाइकिल </token>
+<token id="33"> सवार </token>
+<token id="34"> एक </token>
+<token id="35"> युवक </token>
+<token id="36"> ने </token>
+<token id="37"> 3 </token>
+<token id="38"> सौ </token>
+<token id="39"> रुपये </token>
+<token id="40"> का </token>
+<token id="41"> तेल </token>
+<token id="42"> डलवाया </token>
+<token id="43"> और </token>
+<token id="44"> बाद </token>
+<token id="45"> में </token>
+<token id="46"> पिस्तोल </token>
+<token id="47"> दिखाकर </token>
+<token id="48"> 8 </token>
+<token id="49"> हजार </token>
+<token id="50"> रुपये </token>
+<token id="51"> छीन </token>
+<token id="52"> लिए </token>
+<token id="53"> . </token>
+<token id="54"> थाना </token>
+<token id="55"> फतेहगढ़ </token>
+<token id="56"> चूडियां </token>
+<token id="57"> की </token>
+<token id="58"> पुलिस </token>
+<token id="59"> ने </token>
+<token id="60"> संजय </token>
+<token id="61"> कुमार </token>
+<token id="62"> के </token>
+<token id="63"> बयानों </token>
+<token id="64"> पर </token>
+<token id="65"> उक्त </token>
+<token id="66"> अज्ञात </token>
+<token id="67"> मोटरसाइकिल </token>
+<token id="68"> सवार </token>
+<token id="69"> युवक </token>
+<token id="70"> पर </token>
+<token id="71"> भादंस </token>
+<token id="72"> की </token>
+<token id="73"> धारा </token>
+<token id="74"> 379 </token>
+<token id="75"> -बी </token>
+<token id="76"> के </token>
+<token id="77"> तहत </token>
+<token id="78"> मामला </token>
+<token id="79"> दर्ज </token>
+<token id="80"> कर </token>
+<token id="81"> लिया </token>
+<token id="82"> है </token>
+<token id="83"> . </token>
+<EVENT id="e1" class="OCC" tokens="42" annConf="High"/>
+<EVENT id="e4" class="PER" tokens="46,47" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="51,52" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="79,80,81,82" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="68" annConf="High"/>
+<TIMEX id="t1" tokens="23,24" annConf="High" class="DATE"/>
+<TIMEX id="t1" tokens="26" annConf="High" class="TIME"/>
+<TIMEX id="t1" tokens="29,30,31" annConf="High" class="TIME"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="Medium"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+</document>

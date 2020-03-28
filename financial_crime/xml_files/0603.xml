@@ -1,0 +1,75 @@
+<document>
+<token id="1"> बसंतपुर </token>
+<token id="2"> ( </token>
+<token id="3"> सिवान </token>
+<token id="4"> ) </token>
+<token id="5"> : </token>
+<token id="6"> स्थानीय </token>
+<token id="7"> थाना </token>
+<token id="8"> क्षेत्र </token>
+<token id="9"> के </token>
+<token id="10"> लछुआ </token>
+<token id="11"> निवासी </token>
+<token id="12"> बलिराम </token>
+<token id="13"> कुमार </token>
+<token id="14"> ने </token>
+<token id="15"> विशेश्वर </token>
+<token id="16"> साह </token>
+<token id="17"> , </token>
+<token id="18"> अखिलेश </token>
+<token id="19"> साह </token>
+<token id="20"> , </token>
+<token id="21"> विनोद </token>
+<token id="22"> साह </token>
+<token id="23"> सहित </token>
+<token id="24"> पांच </token>
+<token id="25"> लोगों </token>
+<token id="26"> के </token>
+<token id="27"> मारपीट </token>
+<token id="28"> कर </token>
+<token id="29"> 30 </token>
+<token id="30"> हजार </token>
+<token id="31"> रुपये </token>
+<token id="32"> और </token>
+<token id="33"> सोने </token>
+<token id="34"> की </token>
+<token id="35"> चेन </token>
+<token id="36"> छीन </token>
+<token id="37"> लेने </token>
+<token id="38"> की </token>
+<token id="39"> एफआइआर </token>
+<token id="40"> दर्ज </token>
+<token id="41"> कराई </token>
+<token id="42"> है </token>
+<token id="43"> . </token>
+<token id="44"> दूसरे </token>
+<token id="45"> पक्ष </token>
+<token id="46"> के </token>
+<token id="47"> विशेश्वर </token>
+<token id="48"> साह </token>
+<token id="49"> ने </token>
+<token id="50"> भी </token>
+<token id="51"> मारपीट </token>
+<token id="52"> कर </token>
+<token id="53"> ढाई </token>
+<token id="54"> हजार </token>
+<token id="55"> रुपये </token>
+<token id="56"> छीनने </token>
+<token id="57"> की </token>
+<token id="58"> एफआइआर </token>
+<token id="59"> बलिराम </token>
+<token id="60"> पर </token>
+<token id="61"> कराई </token>
+<token id="62"> है </token>
+<token id="63"> . </token>
+<EVENT id="e1" class="OCC" tokens="27,28" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="36,37" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="40,41,42" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="51,52" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="56" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="58,61,62" annConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="Low"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="High"/>
+</document>

@@ -1,0 +1,127 @@
+<document>
+<token id="1"> पांच </token>
+<token id="2"> लाख </token>
+<token id="3"> की </token>
+<token id="4"> लूटने </token>
+<token id="5"> वालों </token>
+<token id="6"> का </token>
+<token id="7"> नहीं </token>
+<token id="8"> मिला </token>
+<token id="9"> सुराग </token>
+<token id="10"> 5 </token>
+<token id="11"> सितंबर </token>
+<token id="12"> 2016 </token>
+<token id="13"> को </token>
+<token id="14"> बल्लभगढ़ </token>
+<token id="15"> 100 </token>
+<token id="16"> फुट </token>
+<token id="17"> रोड </token>
+<token id="18"> स्थित </token>
+<token id="19"> मित्तल </token>
+<token id="20"> ट्रे </token>
+<token id="21"> ¨ </token>
+<token id="22"> डग </token>
+<token id="23"> कंपनी </token>
+<token id="24"> से </token>
+<token id="25"> सुबह </token>
+<token id="26"> 9 </token>
+<token id="27"> बजे </token>
+<token id="28"> पांच </token>
+<token id="29"> लाख </token>
+<token id="30"> रुपये </token>
+<token id="31"> लूटने </token>
+<token id="32"> और </token>
+<token id="33"> गोली </token>
+<token id="34"> चलाकर </token>
+<token id="35"> व्यापारियों </token>
+<token id="36"> में </token>
+<token id="37"> भय </token>
+<token id="38"> पैदा </token>
+<token id="39"> करने </token>
+<token id="40"> वाले </token>
+<token id="41"> लुटेरों </token>
+<token id="42"> का </token>
+<token id="43"> पुलिस </token>
+<token id="44"> अभी </token>
+<token id="45"> तक </token>
+<token id="46"> कोई </token>
+<token id="47"> सुराग </token>
+<token id="48"> नहीं </token>
+<token id="49"> लगा </token>
+<token id="50"> पाई </token>
+<token id="51"> है </token>
+<token id="52"> . </token>
+<token id="53"> हालांकि </token>
+<token id="54"> तब </token>
+<token id="55"> उद्योग </token>
+<token id="56"> मंत्री </token>
+<token id="57"> विपुल </token>
+<token id="58"> गोयल </token>
+<token id="59"> , </token>
+<token id="60"> पुलिस </token>
+<token id="61"> आयुक्त </token>
+<token id="62"> डॉ </token>
+<token id="63"> . </token>
+<token id="64"> हनीफ </token>
+<token id="65"> कुरैशी </token>
+<token id="66"> व </token>
+<token id="67"> सहायक </token>
+<token id="68"> पुलिस </token>
+<token id="69"> आयुक्त </token>
+<token id="70"> अमन </token>
+<token id="71"> यादव </token>
+<token id="72"> ने </token>
+<token id="73"> मौका </token>
+<token id="74"> मुआयना </token>
+<token id="75"> कर </token>
+<token id="76"> तुरंत </token>
+<token id="77"> दोषियों </token>
+<token id="78"> को </token>
+<token id="79"> गिरफ्तार </token>
+<token id="80"> करने </token>
+<token id="81"> का </token>
+<token id="82"> आश्वासन </token>
+<token id="83"> दिया </token>
+<token id="84"> था </token>
+<token id="85"> . </token>
+<token id="86"> पुलिस </token>
+<token id="87"> ने </token>
+<token id="88"> लगभग </token>
+<token id="89"> एक </token>
+<token id="90"> साल </token>
+<token id="91"> में </token>
+<token id="92"> इस </token>
+<token id="93"> मामले </token>
+<token id="94"> में </token>
+<token id="95"> क्या </token>
+<token id="96"> कार्रवाई </token>
+<token id="97"> की </token>
+<token id="98"> , </token>
+<token id="99"> इस </token>
+<token id="100"> बाबत </token>
+<token id="101"> भी </token>
+<token id="102"> पीडित </token>
+<token id="103"> व्यापारी </token>
+<token id="104"> को </token>
+<token id="105"> कोई </token>
+<token id="106"> जानकारी </token>
+<token id="107"> नहीं </token>
+<token id="108"> दी </token>
+<token id="109"> है </token>
+<token id="110"> . </token>
+<EVENT id="e1" class="OCC" tokens="7,8" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="31" annConf="High"/>
+<EVENT id="e3" class="IAC" tokens="33,34" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="47,48,49,50,51" annConf="High"/>
+<EVENT id="e5" class="IAC" tokens="73,74,75" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="79,80" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="82,83,84" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="106,107,108,109" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="38,39,40" annConf="High"/>
+<TIMEX id="t1" tokens="10,11,12" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="25" annConf="High" class="TIME"/>
+<TIMEX id="t3" tokens="26,27" annConf="High" class="TIME"/>
+<TIMEX id="t4" tokens="88,89,90" annConf="High" class="DURATION"/>
+<TLINK f_id="e3" s_id="s1" class="before" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e7" class="before" AnnConf="High"/>
+</document>

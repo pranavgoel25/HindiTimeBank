@@ -1,0 +1,64 @@
+<document>
+<token id="1"> ﻿संवाद </token>
+<token id="2"> सहयोगी </token>
+<token id="3"> ब </token>
+<token id="4"> ¨ </token>
+<token id="5"> ठडा </token>
+<token id="6"> : </token>
+<token id="7"> आसरा </token>
+<token id="8"> वेलफेयर </token>
+<token id="9"> सोसायटी </token>
+<token id="10"> ब </token>
+<token id="11"> ¨ </token>
+<token id="12"> ठडा </token>
+<token id="13"> के </token>
+<token id="14"> समाजसेवी </token>
+<token id="15"> कार्यों </token>
+<token id="16"> को </token>
+<token id="17"> देखते </token>
+<token id="18"> हुए </token>
+<token id="19"> नवजीवन </token>
+<token id="20"> बांसल </token>
+<token id="21"> ठेकेदार </token>
+<token id="22"> ने </token>
+<token id="23"> देवराज </token>
+<token id="24"> ¨ </token>
+<token id="25"> जदल </token>
+<token id="26"> मंडी </token>
+<token id="27"> बोर्ड </token>
+<token id="28"> के </token>
+<token id="29"> सहयोग </token>
+<token id="30"> से </token>
+<token id="31"> संस्था </token>
+<token id="32"> को </token>
+<token id="33"> 11 </token>
+<token id="34"> हजार </token>
+<token id="35"> रुपये </token>
+<token id="36"> की </token>
+<token id="37"> राशि </token>
+<token id="38"> दान </token>
+<token id="39"> दी </token>
+<token id="40"> . </token>
+<token id="41"> इस </token>
+<token id="42"> मौके </token>
+<token id="43"> पर </token>
+<token id="44"> संस्था </token>
+<token id="45"> संस्थापक </token>
+<token id="46"> रमेश </token>
+<token id="47"> मेहता </token>
+<token id="48"> सदस्य </token>
+<token id="49"> लवली </token>
+<token id="50"> बांसल </token>
+<token id="51"> ने </token>
+<token id="52"> दानी </token>
+<token id="53"> परिवार </token>
+<token id="54"> का </token>
+<token id="55"> धन्यवाद </token>
+<token id="56"> किया </token>
+<token id="57"> . </token>
+<EVENT id="e1" class="PER" tokens="17,18" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="38,39" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="55,56" AnnConf="High"/>
+<SLINK f_id="e1" s_id="e2" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="Low"/>
+</document>

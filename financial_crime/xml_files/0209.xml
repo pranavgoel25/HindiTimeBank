@@ -1,0 +1,142 @@
+<document>
+<token id="1"> ﻿बेगूसराय </token>
+<token id="2"> . </token>
+<token id="3"> थाना </token>
+<token id="4"> क्षेत्र </token>
+<token id="5"> के </token>
+<token id="6"> खरहट </token>
+<token id="7"> गांव </token>
+<token id="8"> में </token>
+<token id="9"> भुक्खड </token>
+<token id="10"> यादव </token>
+<token id="11"> की </token>
+<token id="12"> तिजोरी </token>
+<token id="13"> में </token>
+<token id="14"> रखे </token>
+<token id="15"> सवा </token>
+<token id="16"> लाख </token>
+<token id="17"> रुपये </token>
+<token id="18"> नकद </token>
+<token id="19"> एवं </token>
+<token id="20"> तीन </token>
+<token id="21"> तोला </token>
+<token id="22"> सोने </token>
+<token id="23"> के </token>
+<token id="24"> गहने </token>
+<token id="25"> गायब </token>
+<token id="26"> होने </token>
+<token id="27"> का </token>
+<token id="28"> मामला </token>
+<token id="29"> प्रकाश </token>
+<token id="30"> में </token>
+<token id="31"> आया </token>
+<token id="32"> है </token>
+<token id="33"> . </token>
+<token id="34"> इस </token>
+<token id="35"> संबंध </token>
+<token id="36"> में </token>
+<token id="37"> गृह </token>
+<token id="38"> स्वामी </token>
+<token id="39"> ने </token>
+<token id="40"> थानाध्यक्ष </token>
+<token id="41"> राजेश </token>
+<token id="42"> कुमार </token>
+<token id="43"> को </token>
+<token id="44"> आवेदन </token>
+<token id="45"> दिया </token>
+<token id="46"> . </token>
+<token id="47"> पुलिस </token>
+<token id="48"> ने </token>
+<token id="49"> कार्रवाई </token>
+<token id="50"> करते </token>
+<token id="51"> हुए </token>
+<token id="52"> लखमिनियां </token>
+<token id="53"> के </token>
+<token id="54"> चाभी </token>
+<token id="55"> मिस्त्री </token>
+<token id="56"> मो </token>
+<token id="57"> . </token>
+<token id="58"> महमूद </token>
+<token id="59"> को </token>
+<token id="60"> गिरफ्तार </token>
+<token id="61"> कर </token>
+<token id="62"> जेल </token>
+<token id="63"> भेज </token>
+<token id="64"> दिया </token>
+<token id="65"> है </token>
+<token id="66"> . </token>
+<token id="67"> पीडित </token>
+<token id="68"> ने </token>
+<token id="69"> थाना </token>
+<token id="70"> को </token>
+<token id="71"> दिए </token>
+<token id="72"> आवेदन </token>
+<token id="73"> में </token>
+<token id="74"> बताया </token>
+<token id="75"> कि </token>
+<token id="76"> उसने </token>
+<token id="77"> लखमिनियां </token>
+<token id="78"> के </token>
+<token id="79"> मिस्त्री </token>
+<token id="80"> को </token>
+<token id="81"> घर </token>
+<token id="82"> बुला </token>
+<token id="83"> कर </token>
+<token id="84"> गोदरेज </token>
+<token id="85"> सहित </token>
+<token id="86"> अन्य </token>
+<token id="87"> ताले </token>
+<token id="88"> की </token>
+<token id="89"> डुप्लीकेट </token>
+<token id="90"> चाभी </token>
+<token id="91"> बनवाई </token>
+<token id="92"> थी </token>
+<token id="93"> . </token>
+<token id="94"> दूसरे </token>
+<token id="95"> दिन </token>
+<token id="96"> जब </token>
+<token id="97"> घर </token>
+<token id="98"> की </token>
+<token id="99"> महिला </token>
+<token id="100"> ने </token>
+<token id="101"> तिजोरी </token>
+<token id="102"> खोली </token>
+<token id="103"> तो </token>
+<token id="104"> उसमें </token>
+<token id="105"> रखे </token>
+<token id="106"> एक </token>
+<token id="107"> लाख </token>
+<token id="108"> 25 </token>
+<token id="109"> हजार </token>
+<token id="110"> रुपए </token>
+<token id="111"> एवं </token>
+<token id="112"> तीन </token>
+<token id="113"> भर </token>
+<token id="114"> सोना </token>
+<token id="115"> गायब </token>
+<token id="116"> पाया </token>
+<token id="117"> . </token>
+<EVENT id="e1" class="OCC" tokens="25,26" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="29,30,31,32" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="44,45" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="49,50,51" annConf="High"/>
+<EVENT id="e5" class="IAC" tokens="60,61" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="63,64,65" annConf="High"/>
+<EVENT id="e7" class="REP" tokens="74" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="82,83" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="90,91,92" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="101,102" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="115,116" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="14" annConf="High"/>
+<STATE id="s2" class="DESC" tokens="105" annConf="High"/>
+<TIMEX id="t1" tokens="94,95" annConf="High" class="DATE"/>
+<SLINK f_id="e5" s_id="e6" annConf="Low" AnnConf="High"/>
+<SLINK f_id="e7" s_id="e9" AnnConf="Medium"/>
+<TLINK f_id="s1" s_id="e1" class="before" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e6" class="before-overlap" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="before-overlap" AnnConf="Low"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e8" s_id="e9" class="before" AnnConf="High"/>
+<TLINK f_id="e10" s_id="e11" class="before" AnnConf="High"/>
+<TLINK f_id="s2" s_id="e11" class="before" AnnConf="Medium"/>
+</document>

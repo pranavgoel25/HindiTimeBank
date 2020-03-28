@@ -1,0 +1,37 @@
+
+सारण	NN	TEMP	O	O	O	O
+.	SYM	TEMP	O	O	O	O
+
+एकमा	NN	TEMP	O	O	O	O
+थाना	VM	TEMP	O	O	O	O
+पुलिस	NN	TEMP	O	O	O	O
+ने	PSP	TEMP	O	O	O	O
+शुक्रवार	NN	TEMP	O	B	O	O
+को	PSP	TEMP	O	O	O	O
+पुलिस	NN	TEMP	O	O	O	O
+अधीक्षक	NN	TEMP	O	O	O	O
+के	PSP	TEMP	O	O	O	O
+निर्देश	NN	TEMP	O	O	O	O
+पर	PSP	TEMP	O	O	O	O
+चलाए	VM	TEMP	O	O	B-STAT	DESC
+गए	VAUX	TEMP	O	O	I-STAT	O
+सघन	JJ	TEMP	O	O	O	O
+वाहन	XC	TEMP	O	O	O	O
+जांच	NN	TEMP	O	O	O	OCC
+अभियान	NN	TEMP	B-MISC	O	B-MISC	O
+के	PSP	TEMP	O	O	O	O
+दौरान	NST	TEMP	O	O	O	O
+पांच	QC	TEMP	O	O	O	O
+मोटरसाइकिल	NN	TEMP	O	O	O	O
+को	PSP	TEMP	O	O	O	O
+जब्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
+कर	VM	TEMP	I-MISC	O	I-MISC	O
+बतौर	JJ	TEMP	O	O	O	O
+जुर्माना	NN	TEMP	O	O	O	O
+नौ	QC	TEMP	O	O	O	O
+सौ	QC	TEMP	O	O	O	O
+रुपये	NN	TEMP	O	O	O	O
+की	PSP	TEMP	O	O	O	O
+वसूली	NN	TEMP	O	O	B-MISC	OCC
+की	PSP	TEMP	O	O	I-MISC	O
+.	SYM	TEMP	O	O	O	O

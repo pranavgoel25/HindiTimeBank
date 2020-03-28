@@ -1,0 +1,145 @@
+<document>
+<token id="1"> संवाद </token>
+<token id="2"> सहयोगी </token>
+<token id="3"> पाकबडा </token>
+<token id="4"> : </token>
+<token id="5"> टैम्पो </token>
+<token id="6"> यूनियन </token>
+<token id="7"> के </token>
+<token id="8"> अध्यक्ष </token>
+<token id="9"> ने </token>
+<token id="10"> भाजपा </token>
+<token id="11"> नेता </token>
+<token id="12"> व </token>
+<token id="13"> अन्य </token>
+<token id="14"> साथियों </token>
+<token id="15"> के </token>
+<token id="16"> खिलाफ </token>
+<token id="17"> पुलिस </token>
+<token id="18"> को </token>
+<token id="19"> तहरीर </token>
+<token id="20"> दी </token>
+<token id="21"> थी </token>
+<token id="22"> . </token>
+<token id="23"> यूनियन </token>
+<token id="24"> के </token>
+<token id="25"> अध्यक्ष </token>
+<token id="26"> रहीस </token>
+<token id="27"> अहमद </token>
+<token id="28"> का </token>
+<token id="29"> आरोप </token>
+<token id="30"> है </token>
+<token id="31"> कि </token>
+<token id="32"> भाजपा </token>
+<token id="33"> नेता </token>
+<token id="34"> ने </token>
+<token id="35"> हर </token>
+<token id="36"> माह </token>
+<token id="37"> दो </token>
+<token id="38"> लाख </token>
+<token id="39"> रुपये </token>
+<token id="40"> की </token>
+<token id="41"> माग </token>
+<token id="42"> की </token>
+<token id="43"> . </token>
+<token id="44"> एतराज </token>
+<token id="45"> जताने </token>
+<token id="46"> पर </token>
+<token id="47"> भाजपा </token>
+<token id="48"> नेता </token>
+<token id="49"> व </token>
+<token id="50"> उसके </token>
+<token id="51"> साथियों </token>
+<token id="52"> ने </token>
+<token id="53"> धमकी </token>
+<token id="54"> दी </token>
+<token id="55"> . </token>
+<token id="56"> तहरीर </token>
+<token id="57"> मे </token>
+<token id="58"> रंगदारी </token>
+<token id="59"> न </token>
+<token id="60"> देने </token>
+<token id="61"> पर </token>
+<token id="62"> जान </token>
+<token id="63"> से </token>
+<token id="64"> मारने </token>
+<token id="65"> की </token>
+<token id="66"> धमकी </token>
+<token id="67"> देने </token>
+<token id="68"> का </token>
+<token id="69"> आरोप </token>
+<token id="70"> लगाया </token>
+<token id="71"> था </token>
+<token id="72"> . </token>
+<token id="73"> पुलिस </token>
+<token id="74"> द्वारा </token>
+<token id="75"> कार्यवाही </token>
+<token id="76"> न </token>
+<token id="77"> करने </token>
+<token id="78"> पर </token>
+<token id="79"> टैम्पों </token>
+<token id="80"> यूनियन </token>
+<token id="81"> में </token>
+<token id="82"> रोष </token>
+<token id="83"> व्याप्त </token>
+<token id="84"> है </token>
+<token id="85"> . </token>
+<token id="86"> इन </token>
+<token id="87"> मामले </token>
+<token id="88"> में </token>
+<token id="89"> कार्रवाई </token>
+<token id="90"> नहीं </token>
+<token id="91"> - </token>
+<token id="92"> मास </token>
+<token id="93"> पकडने </token>
+<token id="94"> पर </token>
+<token id="95"> ग्रामीणों </token>
+<token id="96"> ने </token>
+<token id="97"> पुलिस </token>
+<token id="98"> के </token>
+<token id="99"> साथ </token>
+<token id="100"> मारपीट </token>
+<token id="101"> की </token>
+<token id="102"> . </token>
+<token id="103"> -पाकबडा </token>
+<token id="104"> स्थित </token>
+<token id="105"> ख्वाजा </token>
+<token id="106"> पेट्रोल </token>
+<token id="107"> पंप </token>
+<token id="108"> पर </token>
+<token id="109"> लूट </token>
+<token id="110"> का </token>
+<token id="111"> प्रयास </token>
+<token id="112"> किया </token>
+<token id="113"> . </token>
+<token id="114"> -हाईकोर्ट </token>
+<token id="115"> मे </token>
+<token id="116"> लिपिक </token>
+<token id="117"> की </token>
+<token id="118"> नौकरी </token>
+<token id="119"> के </token>
+<token id="120"> नाम </token>
+<token id="121"> पर </token>
+<token id="122"> लाखों </token>
+<token id="123"> रूपये </token>
+<token id="124"> की </token>
+<token id="125"> ठगी </token>
+<token id="126"> की </token>
+<token id="127"> . </token>
+<EVENT id="e1" class="OCC" tokens="19,20,21" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="41,42" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="53,54" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="59,60" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="62,63,64" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="66,67" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="69,70,71" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="75,76,77" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="89,90" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="100,101" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="111,112" annConf="High"/>
+<EVENT id="e12" class="OCC" tokens="125,126" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="83,84" annConf="High"/>
+<TIMEX id="t1" tokens="35,36" annConf="High" class="SET"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="High"/>
+<TLINK f_id="e8" s_id="s1" class="before" AnnConf="High"/>
+</document>

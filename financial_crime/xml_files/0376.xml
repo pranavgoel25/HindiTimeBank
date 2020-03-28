@@ -1,0 +1,591 @@
+<document>
+<token id="1"> ﻿लखनऊ </token>
+<token id="2"> ( </token>
+<token id="3"> जागरण </token>
+<token id="4"> संवाददाता </token>
+<token id="5"> ) </token>
+<token id="6"> . </token>
+<token id="7"> रोडवेज </token>
+<token id="8"> बसों </token>
+<token id="9"> के </token>
+<token id="10"> चालक </token>
+<token id="11"> परिचालक </token>
+<token id="12"> सुधरने </token>
+<token id="13"> को </token>
+<token id="14"> तैयार </token>
+<token id="15"> नहीं </token>
+<token id="16"> दिखते </token>
+<token id="17"> . </token>
+<token id="18"> निर्देश </token>
+<token id="19"> पर </token>
+<token id="20"> निर्देश </token>
+<token id="21"> दिये </token>
+<token id="22"> जाने </token>
+<token id="23"> के </token>
+<token id="24"> बाद </token>
+<token id="25"> भी </token>
+<token id="26"> उन </token>
+<token id="27"> फर्क </token>
+<token id="28"> पड़ता </token>
+<token id="29"> नहीं </token>
+<token id="30"> दिख </token>
+<token id="31"> रहा </token>
+<token id="32"> . </token>
+<token id="33"> चंद </token>
+<token id="34"> पैसों </token>
+<token id="35"> के </token>
+<token id="36"> लालच </token>
+<token id="37"> में </token>
+<token id="38"> ये </token>
+<token id="39"> रोडवेजकर्मी </token>
+<token id="40"> बसों </token>
+<token id="41"> में </token>
+<token id="42"> बिना </token>
+<token id="43"> बुक </token>
+<token id="44"> माल </token>
+<token id="45"> लेकर </token>
+<token id="46"> खुलेआम </token>
+<token id="47"> चल </token>
+<token id="48"> रहे </token>
+<token id="49"> हैं </token>
+<token id="50"> . </token>
+<token id="51"> बस </token>
+<token id="52"> अड्डों </token>
+<token id="53"> पर </token>
+<token id="54"> खुलेआम </token>
+<token id="55"> सौदा </token>
+<token id="56"> होता </token>
+<token id="57"> है </token>
+<token id="58"> . </token>
+<token id="59"> सवारी </token>
+<token id="60"> भले </token>
+<token id="61"> ही </token>
+<token id="62"> न </token>
+<token id="63"> बैठ </token>
+<token id="64"> पाएं </token>
+<token id="65"> , </token>
+<token id="66"> उनके </token>
+<token id="67"> निकलने </token>
+<token id="68"> के </token>
+<token id="69"> लिए </token>
+<token id="70"> चाहे </token>
+<token id="71"> जगह </token>
+<token id="72"> भी </token>
+<token id="73"> न </token>
+<token id="74"> बचे </token>
+<token id="75"> , </token>
+<token id="76"> लेकिन </token>
+<token id="77"> माल </token>
+<token id="78"> लेने </token>
+<token id="79"> में </token>
+<token id="80"> चालक-परिचालक </token>
+<token id="81"> कोताही </token>
+<token id="82"> नहीं </token>
+<token id="83"> बरतते </token>
+<token id="84"> . </token>
+<token id="85"> फोन </token>
+<token id="86"> नंबर </token>
+<token id="87"> लेकर </token>
+<token id="88"> वह </token>
+<token id="89"> बेझिझक </token>
+<token id="90"> माल </token>
+<token id="91"> बसों </token>
+<token id="92"> में </token>
+<token id="93"> रख </token>
+<token id="94"> देते </token>
+<token id="95"> हैं </token>
+<token id="96"> . </token>
+<token id="97"> यात्रियों </token>
+<token id="98"> की </token>
+<token id="99"> सुरक्षा </token>
+<token id="100"> में </token>
+<token id="101"> यह </token>
+<token id="102"> सीधा </token>
+<token id="103"> खिलवाड़ </token>
+<token id="104"> है </token>
+<token id="105"> . </token>
+<token id="106"> दिलचस्प </token>
+<token id="107"> यह </token>
+<token id="108"> है </token>
+<token id="109"> कि </token>
+<token id="110"> मार्गों </token>
+<token id="111"> पर </token>
+<token id="112"> जांच </token>
+<token id="113"> करने </token>
+<token id="114"> वाले </token>
+<token id="115"> चेकिंग </token>
+<token id="116"> दलों </token>
+<token id="117"> को </token>
+<token id="118"> भी </token>
+<token id="119"> यह </token>
+<token id="120"> सब </token>
+<token id="121"> नहीं </token>
+<token id="122"> दिखता </token>
+<token id="123"> . </token>
+<token id="124"> एसी </token>
+<token id="125"> विशेष </token>
+<token id="126"> सेवाओं </token>
+<token id="127"> तक </token>
+<token id="128"> में </token>
+<token id="129"> यह </token>
+<token id="130"> माल </token>
+<token id="131"> भरने </token>
+<token id="132"> में </token>
+<token id="133"> हिचकते </token>
+<token id="134"> नहीं </token>
+<token id="135"> . </token>
+<token id="136"> कैसरबाग </token>
+<token id="137"> बस </token>
+<token id="138"> अड्डा </token>
+<token id="139"> पर </token>
+<token id="140"> रविवार </token>
+<token id="141"> को </token>
+<token id="142"> दोपहर </token>
+<token id="143"> दो </token>
+<token id="144"> बजे </token>
+<token id="145"> बस </token>
+<token id="146"> संख्या </token>
+<token id="147"> यूपी </token>
+<token id="148"> 33 </token>
+<token id="149"> टी- </token>
+<token id="150"> 4106 </token>
+<token id="151"> लखनऊ </token>
+<token id="152"> से </token>
+<token id="153"> गोरखपुर </token>
+<token id="154"> के </token>
+<token id="155"> लिए </token>
+<token id="156"> तैयार </token>
+<token id="157"> खड़ी </token>
+<token id="158"> थी </token>
+<token id="159"> . </token>
+<token id="160"> फर्श </token>
+<token id="161"> से </token>
+<token id="162"> लेकर </token>
+<token id="163"> विंड </token>
+<token id="164"> स्क्रीन </token>
+<token id="165"> तक </token>
+<token id="166"> गत्ते </token>
+<token id="167"> लदे </token>
+<token id="168"> थे </token>
+<token id="169"> . </token>
+<token id="170"> चालक </token>
+<token id="171"> इन्हें </token>
+<token id="172"> बिना </token>
+<token id="173"> बुक </token>
+<token id="174"> कराए </token>
+<token id="175"> ही </token>
+<token id="176"> ले </token>
+<token id="177"> जा </token>
+<token id="178"> रहा </token>
+<token id="179"> था </token>
+<token id="180"> . </token>
+<token id="181"> वहीं </token>
+<token id="182"> उपनगरीय </token>
+<token id="183"> डिपो </token>
+<token id="184"> की </token>
+<token id="185"> एक </token>
+<token id="186"> अन्य </token>
+<token id="187"> बस </token>
+<token id="188"> संख्या </token>
+<token id="189"> यूपी </token>
+<token id="190"> 32 </token>
+<token id="191"> -बीएन </token>
+<token id="192"> 8572 </token>
+<token id="193"> में </token>
+<token id="194"> चालक </token>
+<token id="195"> के </token>
+<token id="196"> बगल </token>
+<token id="197"> से </token>
+<token id="198"> लेकर </token>
+<token id="199"> पूरे </token>
+<token id="200"> अगले </token>
+<token id="201"> हिस्से </token>
+<token id="202"> में </token>
+<token id="203"> गत्ते </token>
+<token id="204"> भरे </token>
+<token id="205"> लदे </token>
+<token id="206"> थे </token>
+<token id="207"> . </token>
+<token id="208"> इससे </token>
+<token id="209"> यात्रियों </token>
+<token id="210"> को </token>
+<token id="211"> बस </token>
+<token id="212"> में </token>
+<token id="213"> चढ़ने </token>
+<token id="214"> में </token>
+<token id="215"> भी </token>
+<token id="216"> दिक्कत </token>
+<token id="217"> हो </token>
+<token id="218"> रही </token>
+<token id="219"> थी </token>
+<token id="220"> . </token>
+<token id="221"> लेकिन </token>
+<token id="222"> परिचालक </token>
+<token id="223"> ने </token>
+<token id="224"> जरा </token>
+<token id="225"> सी </token>
+<token id="226"> भी </token>
+<token id="227"> टोकाटाकी </token>
+<token id="228"> नहीं </token>
+<token id="229"> की </token>
+<token id="230"> . </token>
+<token id="231"> जबकि </token>
+<token id="232"> आम </token>
+<token id="233"> तौर </token>
+<token id="234"> पर </token>
+<token id="235"> यदि </token>
+<token id="236"> कोई </token>
+<token id="237"> यात्री </token>
+<token id="238"> बस </token>
+<token id="239"> के </token>
+<token id="240"> फर्श </token>
+<token id="241"> पर </token>
+<token id="242"> सामान </token>
+<token id="243"> रख </token>
+<token id="244"> दे </token>
+<token id="245"> तो </token>
+<token id="246"> परिचालक </token>
+<token id="247"> तुरंत </token>
+<token id="248"> उसे </token>
+<token id="249"> हटाने </token>
+<token id="250"> को </token>
+<token id="251"> कह </token>
+<token id="252"> देते </token>
+<token id="253"> हैं </token>
+<token id="254"> . </token>
+<token id="255"> चारबाग </token>
+<token id="256"> स्टेशन </token>
+<token id="257"> पर </token>
+<token id="258"> जनरथ </token>
+<token id="259"> बस </token>
+<token id="260"> संख्या </token>
+<token id="261"> यूपी </token>
+<token id="262"> 33 </token>
+<token id="263"> एटी </token>
+<token id="264"> 5747 </token>
+<token id="265"> में </token>
+<token id="266"> मटर </token>
+<token id="267"> की </token>
+<token id="268"> बोरियां </token>
+<token id="269"> लदी </token>
+<token id="270"> थीं </token>
+<token id="271"> . </token>
+<token id="272"> जबकि </token>
+<token id="273"> इन </token>
+<token id="274"> ठंडी </token>
+<token id="275"> सेवाओं </token>
+<token id="276"> में </token>
+<token id="277"> यात्रियों </token>
+<token id="278"> का </token>
+<token id="279"> सामान </token>
+<token id="280"> रखने </token>
+<token id="281"> के </token>
+<token id="282"> लिए </token>
+<token id="283"> अलग </token>
+<token id="284"> जगह </token>
+<token id="285"> बनी </token>
+<token id="286"> है </token>
+<token id="287"> . </token>
+<token id="288"> लेकिन </token>
+<token id="289"> परिचालक </token>
+<token id="290"> कमाई </token>
+<token id="291"> का </token>
+<token id="292"> कोई </token>
+<token id="293"> मौका </token>
+<token id="294"> चूकते </token>
+<token id="295"> नहीं </token>
+<token id="296"> . </token>
+<token id="297"> आधा </token>
+<token id="298"> दर्जन </token>
+<token id="299"> बोरियां </token>
+<token id="300"> चालक </token>
+<token id="301"> की </token>
+<token id="302"> सीट </token>
+<token id="303"> के </token>
+<token id="304"> पीछे </token>
+<token id="305"> गेट </token>
+<token id="306"> तक </token>
+<token id="307"> लादी </token>
+<token id="308"> जा </token>
+<token id="309"> चुकी </token>
+<token id="310"> थीं </token>
+<token id="311"> . </token>
+<token id="312"> परिवहन </token>
+<token id="313"> निगम </token>
+<token id="314"> की </token>
+<token id="315"> वातानुकूलित </token>
+<token id="316"> सेवाएं </token>
+<token id="317"> आज </token>
+<token id="318"> भी </token>
+<token id="319"> चारबाग </token>
+<token id="320"> से </token>
+<token id="321"> मवैया </token>
+<token id="322"> के </token>
+<token id="323"> बीच </token>
+<token id="324"> मार्ग </token>
+<token id="325"> पर </token>
+<token id="326"> खड़ी </token>
+<token id="327"> रहती </token>
+<token id="328"> हैं </token>
+<token id="329"> . </token>
+<token id="330"> मंत्री </token>
+<token id="331"> और </token>
+<token id="332"> उच्चाधिकारियों </token>
+<token id="333"> के </token>
+<token id="334"> सख्त </token>
+<token id="335"> निर्देशों </token>
+<token id="336"> के </token>
+<token id="337"> बाद </token>
+<token id="338"> भी </token>
+<token id="339"> बसें </token>
+<token id="340"> मुख्य </token>
+<token id="341"> मार्ग </token>
+<token id="342"> से </token>
+<token id="343"> हटायी </token>
+<token id="344"> नहीं </token>
+<token id="345"> जा </token>
+<token id="346"> सकी </token>
+<token id="347"> हैं </token>
+<token id="348"> . </token>
+<token id="349"> एसी </token>
+<token id="350"> सेवाओं </token>
+<token id="351"> में </token>
+<token id="352"> भी </token>
+<token id="353"> बाज </token>
+<token id="354"> नहीं </token>
+<token id="355"> आते </token>
+<token id="356"> : </token>
+<token id="357"> आमतौर </token>
+<token id="358"> पर </token>
+<token id="359"> विशिष्ठ </token>
+<token id="360"> सेवाओं </token>
+<token id="361"> के </token>
+<token id="362"> रूप </token>
+<token id="363"> में </token>
+<token id="364"> अपनी </token>
+<token id="365"> पहचान </token>
+<token id="366"> बनाने </token>
+<token id="367"> वाली </token>
+<token id="368"> एसी </token>
+<token id="369"> सेवाओं </token>
+<token id="370"> में </token>
+<token id="371"> भी </token>
+<token id="372"> कमोबेश </token>
+<token id="373"> यही </token>
+<token id="374"> हाल </token>
+<token id="375"> देखने </token>
+<token id="376"> को </token>
+<token id="377"> मिला </token>
+<token id="378"> . </token>
+<token id="379"> अवध </token>
+<token id="380"> डिपो </token>
+<token id="381"> में </token>
+<token id="382"> सवारियों </token>
+<token id="383"> का </token>
+<token id="384"> इंतजार </token>
+<token id="385"> कर </token>
+<token id="386"> रही </token>
+<token id="387"> एसी </token>
+<token id="388"> जनरथ </token>
+<token id="389"> सेवा </token>
+<token id="390"> के </token>
+<token id="391"> चालक-परिचालक </token>
+<token id="392"> भी </token>
+<token id="393"> माल </token>
+<token id="394"> भरने </token>
+<token id="395"> में </token>
+<token id="396"> व्यस्त </token>
+<token id="397"> दिखे </token>
+<token id="398"> . </token>
+<token id="399"> चालक </token>
+<token id="400"> की </token>
+<token id="401"> सीट </token>
+<token id="402"> से </token>
+<token id="403"> लेकर </token>
+<token id="404"> फर्श </token>
+<token id="405"> तक </token>
+<token id="406"> गत्ते </token>
+<token id="407"> और </token>
+<token id="408"> डिब्बे </token>
+<token id="409"> लगे </token>
+<token id="410"> हुए </token>
+<token id="411"> थे </token>
+<token id="412"> . </token>
+<token id="413"> यात्री </token>
+<token id="414"> उन्हें </token>
+<token id="415"> फांद-फांदकर </token>
+<token id="416"> बस </token>
+<token id="417"> में </token>
+<token id="418"> प्रवेश </token>
+<token id="419"> कर </token>
+<token id="420"> रहे </token>
+<token id="421"> थे </token>
+<token id="422"> . </token>
+<token id="423"> यह </token>
+<token id="424"> भी </token>
+<token id="425"> पढ़ें </token>
+<token id="426"> : </token>
+<token id="427"> करवा </token>
+<token id="428"> चौथ </token>
+<token id="429"> : </token>
+<token id="430"> दस </token>
+<token id="431"> वर्ष </token>
+<token id="432"> के </token>
+<token id="433"> बालक </token>
+<token id="434"> ने </token>
+<token id="435"> रखा </token>
+<token id="436"> दादी </token>
+<token id="437"> की </token>
+<token id="438"> लंबी </token>
+<token id="439"> आयु </token>
+<token id="440"> के </token>
+<token id="441"> लिए </token>
+<token id="442"> व्रत </token>
+<token id="443"> क्या </token>
+<token id="444"> कहते </token>
+<token id="445"> हैं </token>
+<token id="446"> अधिकारी </token>
+<token id="447"> : </token>
+<token id="448"> सहायक </token>
+<token id="449"> क्षेत्रीय </token>
+<token id="450"> प्रबंधक </token>
+<token id="451"> अमरनाथ </token>
+<token id="452"> सहाय </token>
+<token id="453"> कहते </token>
+<token id="454"> हैं </token>
+<token id="455"> , </token>
+<token id="456"> कई </token>
+<token id="457"> बार </token>
+<token id="458"> चेतावनी </token>
+<token id="459"> दी </token>
+<token id="460"> गई </token>
+<token id="461"> है </token>
+<token id="462"> . </token>
+<token id="463"> जांच </token>
+<token id="464"> दल </token>
+<token id="465"> को </token>
+<token id="466"> भी </token>
+<token id="467"> रूट </token>
+<token id="468"> पर </token>
+<token id="469"> इसकी </token>
+<token id="470"> जांच </token>
+<token id="471"> करने </token>
+<token id="472"> के </token>
+<token id="473"> निर्देशित </token>
+<token id="474"> किया </token>
+<token id="475"> जा </token>
+<token id="476"> चुका </token>
+<token id="477"> है </token>
+<token id="478"> . </token>
+<token id="479"> जांच </token>
+<token id="480"> दल </token>
+<token id="481"> की </token>
+<token id="482"> रिपोर्ट </token>
+<token id="483"> पर </token>
+<token id="484"> कई </token>
+<token id="485"> मामलों </token>
+<token id="486"> में </token>
+<token id="487"> पेनाल्टी </token>
+<token id="488"> भी </token>
+<token id="489"> चालक </token>
+<token id="490"> परिचालक </token>
+<token id="491"> से </token>
+<token id="492"> वसूली </token>
+<token id="493"> गई </token>
+<token id="494"> है </token>
+<token id="495"> . </token>
+<token id="496"> अब </token>
+<token id="497"> और </token>
+<token id="498"> भी </token>
+<token id="499"> सख्ती </token>
+<token id="500"> बरती </token>
+<token id="501"> जाएगी </token>
+<token id="502"> . </token>
+<token id="503"> यह </token>
+<token id="504"> भी </token>
+<token id="505"> पढ़ें </token>
+<token id="506"> : </token>
+<token id="507"> लखनऊ </token>
+<token id="508"> में </token>
+<token id="509"> जालसाज </token>
+<token id="510"> एक </token>
+<token id="511"> ग्राहक </token>
+<token id="512"> के </token>
+<token id="513"> आधार </token>
+<token id="514"> से </token>
+<token id="515"> बेच </token>
+<token id="516"> देते </token>
+<token id="517"> थे </token>
+<token id="518"> कई </token>
+<token id="519"> सिम </token>
+<token id="520"> कार्ड </token>
+<EVENT id="e1" class="PER" tokens="14,15,16" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="20,21,22" annConf="High"/>
+<EVENT id="e3" class="PER" tokens="27,28,29,30,31" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="42,43" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="47,48,49" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="55,56,57" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="62,63,64" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="67" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="71,73,74" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="78" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="81,82,83" annConf="High"/>
+<EVENT id="e52" class="OCC" tokens="87" annConf="High"/>
+<EVENT id="e12" class="OCC" tokens="93,94,95" annConf="High"/>
+<EVENT id="e16" class="PER" tokens="121,122" annConf="High"/>
+<EVENT id="e17" class="OCC" tokens="131" annConf="High"/>
+<EVENT id="e18" class="OCC" tokens="133,134" annConf="High"/>
+<EVENT id="e20" class="OCC" tokens="172,173,174" annConf="High"/>
+<EVENT id="e21" class="OCC" tokens="176,177,178,179" annConf="High"/>
+<EVENT id="e53" class="OCC" tokens="213" annConf="High"/>
+<EVENT id="e22" class="OCC" tokens="216,217,218,219" annConf="High"/>
+<EVENT id="e23" class="OCC" tokens="227,228,229" annConf="High"/>
+<EVENT id="e24" class="OCC" tokens="243,244" annConf="High"/>
+<EVENT id="e54" class="OCC" tokens="249" annConf="High"/>
+<EVENT id="e25" class="REP" tokens="251,252,253" annConf="High"/>
+<EVENT id="e27" class="OCC" tokens="280" annConf="High"/>
+<EVENT id="e29" class="OCC" tokens="294,295" annConf="High"/>
+<EVENT id="e30" class="OCC" tokens="307,308,309,310" annConf="High"/>
+<EVENT id="e32" class="OCC" tokens="343,344,345,346,347" annConf="High"/>
+<EVENT id="e33" class="OCC" tokens="353,354,355" annConf="High"/>
+<EVENT id="e35" class="PER" tokens="375,376,377" annConf="High"/>
+<EVENT id="e37" class="OCC" tokens="393,394" annConf="High"/>
+<EVENT id="e38" class="PER" tokens="396,397" annConf="High"/>
+<EVENT id="e39" class="OCC" tokens="403" annConf="High"/>
+<EVENT id="e55" class="OCC" tokens="415" annConf="High"/>
+<EVENT id="e41" class="OCC" tokens="418,419,420,421" annConf="High"/>
+<EVENT id="e42" class="OCC" tokens="427,428" annConf="High"/>
+<EVENT id="e43" class="OCC" tokens="435" annConf="High"/>
+<EVENT id="e44" class="OCC" tokens="444,445" annConf="High"/>
+<EVENT id="e45" class="REP" tokens="453,454" annConf="High"/>
+<EVENT id="e46" class="OCC" tokens="458,459,460,461" annConf="High"/>
+<EVENT id="e47" class="OCC" tokens="470,471" annConf="High"/>
+<EVENT id="e48" class="OCC" tokens="473,474,475,476,477" annConf="High"/>
+<EVENT id="e49" class="OCC" tokens="492,493,494" annConf="High"/>
+<EVENT id="e50" class="OCC" tokens="499,500,501" annConf="High"/>
+<EVENT id="e51" class="OCC" tokens="515,516,517" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="102,103,104" annConf="High"/>
+<STATE id="s2" class="DECL" tokens="108" annConf="High"/>
+<STATE id="s3" class="DESC" tokens="112,113" annConf="High"/>
+<STATE id="s4" class="DECL" tokens="157,158" annConf="High"/>
+<STATE id="s5" class="DESC" tokens="167,168" annConf="High"/>
+<STATE id="s6" class="DESC" tokens="205,206" annConf="High"/>
+<STATE id="s7" class="DECL" tokens="269,270" annConf="High"/>
+<STATE id="s8" class="DECL" tokens="285,286" annConf="High"/>
+<STATE id="s9" class="DECL" tokens="326,327,328" annConf="High"/>
+<STATE id="s10" class="DESC" tokens="365,366" annConf="High"/>
+<STATE id="s11" class="DESC" tokens="384,385,386" annConf="High"/>
+<STATE id="s12" class="DECL" tokens="409,410,411" annConf="High"/>
+<TIMEX id="t1" tokens="142" annConf="High" class="TIME"/>
+<TIMEX id="t2" tokens="143,144" annConf="High" class="TIME"/>
+<SLINK f_id="e25" s_id="e54" AnnConf="High"/>
+<SLINK f_id="e45" s_id="e46" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="Medium"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="High"/>
+<TLINK f_id="e52" s_id="e18" class="before" AnnConf="Medium"/>
+<TLINK f_id="e20" s_id="e21" class="before" AnnConf="Medium"/>
+<TLINK f_id="e22" s_id="e23" class="before" AnnConf="High"/>
+<TLINK f_id="e24" s_id="e25" class="before" AnnConf="High"/>
+<TLINK f_id="e55" s_id="e41" class="before" AnnConf="Low"/>
+<TLINK f_id="e47" s_id="e49" class="before" AnnConf="Medium"/>
+</document>

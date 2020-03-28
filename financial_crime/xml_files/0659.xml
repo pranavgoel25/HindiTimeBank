@@ -1,0 +1,99 @@
+<document>
+<token id="1"> गजरौला </token>
+<token id="2"> : </token>
+<token id="3"> नेशनल </token>
+<token id="4"> हाईवे </token>
+<token id="5"> पर </token>
+<token id="6"> हाल </token>
+<token id="7"> में </token>
+<token id="8"> ठेके </token>
+<token id="9"> पर </token>
+<token id="10"> ढाबा </token>
+<token id="11"> लेकर </token>
+<token id="12"> चलाने </token>
+<token id="13"> वाले </token>
+<token id="14"> संचालक </token>
+<token id="15"> ने </token>
+<token id="16"> दो </token>
+<token id="17"> युवकों </token>
+<token id="18"> के </token>
+<token id="19"> द्वारा </token>
+<token id="20"> ढाई </token>
+<token id="21"> लाख </token>
+<token id="22"> रुपये </token>
+<token id="23"> की </token>
+<token id="24"> रंगदारी </token>
+<token id="25"> मांगने </token>
+<token id="26"> की </token>
+<token id="27"> शिकायत </token>
+<token id="28"> कर </token>
+<token id="29"> खलबली </token>
+<token id="30"> मचा </token>
+<token id="31"> दी </token>
+<token id="32"> . </token>
+<token id="33"> शामली </token>
+<token id="34"> निवासी </token>
+<token id="35"> रवि </token>
+<token id="36"> ने </token>
+<token id="37"> यह </token>
+<token id="38"> शिकायत </token>
+<token id="39"> दूरभाष </token>
+<token id="40"> पर </token>
+<token id="41"> पुलिस </token>
+<token id="42"> से </token>
+<token id="43"> की </token>
+<token id="44"> . </token>
+<token id="45"> इस </token>
+<token id="46"> पर </token>
+<token id="47"> खलबली </token>
+<token id="48"> मच </token>
+<token id="49"> गई </token>
+<token id="50"> , </token>
+<token id="51"> लेकिन </token>
+<token id="52"> पुलिस </token>
+<token id="53"> ने </token>
+<token id="54"> पडताल </token>
+<token id="55"> की </token>
+<token id="56"> तो </token>
+<token id="57"> पुराने </token>
+<token id="58"> ठेकेदार </token>
+<token id="59"> से </token>
+<token id="60"> मामला </token>
+<token id="61"> लेनदेन </token>
+<token id="62"> का </token>
+<token id="63"> निकलने </token>
+<token id="64"> पर </token>
+<token id="65"> पुलिस </token>
+<token id="66"> ने </token>
+<token id="67"> राहत </token>
+<token id="68"> की </token>
+<token id="69"> सास </token>
+<token id="70"> . </token>
+<token id="71"> उधर </token>
+<token id="72"> रवि </token>
+<token id="73"> का </token>
+<token id="74"> कहना </token>
+<token id="75"> है </token>
+<token id="76"> कि </token>
+<token id="77"> वह </token>
+<token id="78"> भी </token>
+<token id="79"> आरोपियों </token>
+<token id="80"> के </token>
+<token id="81"> खिलाफ </token>
+<token id="82"> अभद्रता </token>
+<token id="83"> की </token>
+<token id="84"> रिपोर्ट </token>
+<token id="85"> कराएगा </token>
+<token id="86"> . </token>
+<EVENT id="e1" class="OCC" tokens="24,25" annConf="High"/>
+<EVENT id="e2" class="IAC" tokens="27,28" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="29,30,31,43" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="47,48,49" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="63" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="67,68,69" annConf="High"/>
+<EVENT id="e7" class="REP" tokens="74,75" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="85" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="11,12,13" annConf="High"/>
+<SLINK f_id="e7" s_id="e8" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="Medium"/>
+</document>

@@ -1,0 +1,530 @@
+<document>
+<token id="1"> भागलपुर </token>
+<token id="2"> [ </token>
+<token id="3"> जेएनएन </token>
+<token id="4"> ] </token>
+<token id="5"> . </token>
+<token id="6"> 13 </token>
+<token id="7"> सौ </token>
+<token id="8"> करोड़ </token>
+<token id="9"> रुपये </token>
+<token id="10"> सरकारी </token>
+<token id="11"> राशि </token>
+<token id="12"> घोटाला </token>
+<token id="13"> मामले </token>
+<token id="14"> में </token>
+<token id="15"> एसआइटी </token>
+<token id="16"> ने </token>
+<token id="17"> एक </token>
+<token id="18"> और </token>
+<token id="19"> चौंकाने </token>
+<token id="20"> वाला </token>
+<token id="21"> खुलासा </token>
+<token id="22"> किया </token>
+<token id="23"> था </token>
+<token id="24"> . </token>
+<token id="25"> जांच </token>
+<token id="26"> के </token>
+<token id="27"> दौरान </token>
+<token id="28"> इस </token>
+<token id="29"> बात </token>
+<token id="30"> का </token>
+<token id="31"> पता </token>
+<token id="32"> चला </token>
+<token id="33"> कि </token>
+<token id="34"> बैंक </token>
+<token id="35"> को </token>
+<token id="36"> संबंधित </token>
+<token id="37"> विभाग </token>
+<token id="38"> द्वारा </token>
+<token id="39"> मोटी </token>
+<token id="40"> राशि </token>
+<token id="41"> सरकारी </token>
+<token id="42"> खाते </token>
+<token id="43"> में </token>
+<token id="44"> जमा </token>
+<token id="45"> करने </token>
+<token id="46"> पर </token>
+<token id="47"> अनुरोध </token>
+<token id="48"> पत्र </token>
+<token id="49"> भेजा </token>
+<token id="50"> जाता </token>
+<token id="51"> था </token>
+<token id="52"> . </token>
+<token id="53"> मगर </token>
+<token id="54"> बैंक </token>
+<token id="55"> , </token>
+<token id="56"> जिला </token>
+<token id="57"> प्रशासन </token>
+<token id="58"> के </token>
+<token id="59"> कुछ </token>
+<token id="60"> कर्मियों </token>
+<token id="61"> समेत </token>
+<token id="62"> सृजन </token>
+<token id="63"> से </token>
+<token id="64"> जुड़े </token>
+<token id="65"> कुछ </token>
+<token id="66"> लोग </token>
+<token id="67"> उक्त </token>
+<token id="68"> पत्र </token>
+<token id="69"> को </token>
+<token id="70"> दबा </token>
+<token id="71"> देते </token>
+<token id="72"> थे </token>
+<token id="73"> और </token>
+<token id="74"> उसके </token>
+<token id="75"> बदले </token>
+<token id="76"> फर्जी </token>
+<token id="77"> पत्र </token>
+<token id="78"> तैयार </token>
+<token id="79"> करते </token>
+<token id="80"> थे </token>
+<token id="81"> . </token>
+<token id="82"> जिसमें </token>
+<token id="83"> आवंटन </token>
+<token id="84"> की </token>
+<token id="85"> राशि </token>
+<token id="86"> सृजन </token>
+<token id="87"> संस्था </token>
+<token id="88"> के </token>
+<token id="89"> खाते </token>
+<token id="90"> में </token>
+<token id="91"> जमा </token>
+<token id="92"> करने </token>
+<token id="93"> का </token>
+<token id="94"> अनुरोध </token>
+<token id="95"> होता </token>
+<token id="96"> था </token>
+<token id="97"> . </token>
+<token id="98"> मगर </token>
+<token id="99"> जांच </token>
+<token id="100"> के </token>
+<token id="101"> दौरान </token>
+<token id="102"> इस </token>
+<token id="103"> बात </token>
+<token id="104"> का </token>
+<token id="105"> खुलासा </token>
+<token id="106"> हुआ </token>
+<token id="107"> है </token>
+<token id="108"> कि </token>
+<token id="109"> ये </token>
+<token id="110"> पत्र </token>
+<token id="111"> किसी </token>
+<token id="112"> भी </token>
+<token id="113"> विभाग </token>
+<token id="114"> द्वारा </token>
+<token id="115"> जारी </token>
+<token id="116"> नहीं </token>
+<token id="117"> किए </token>
+<token id="118"> गए </token>
+<token id="119"> थे </token>
+<token id="120"> . </token>
+<token id="121"> भू-अर्जन </token>
+<token id="122"> के </token>
+<token id="123"> 120 </token>
+<token id="124"> करोड़ </token>
+<token id="125"> हो </token>
+<token id="126"> गए </token>
+<token id="127"> थे </token>
+<token id="128"> सृजन </token>
+<token id="129"> के </token>
+<token id="130"> खाते </token>
+<token id="131"> में </token>
+<token id="132"> ट्रांसफरविभाग </token>
+<token id="133"> में </token>
+<token id="134"> सृजन </token>
+<token id="135"> के </token>
+<token id="136"> खाते </token>
+<token id="137"> में </token>
+<token id="138"> जमा </token>
+<token id="139"> करने </token>
+<token id="140"> संबंधी </token>
+<token id="141"> पत्र </token>
+<token id="142"> के </token>
+<token id="143"> नहीं </token>
+<token id="144"> मिलने </token>
+<token id="145"> के </token>
+<token id="146"> बाद </token>
+<token id="147"> एसआइटी </token>
+<token id="148"> ने </token>
+<token id="149"> अपनी </token>
+<token id="150"> छानबीन </token>
+<token id="151"> तेज </token>
+<token id="152"> कर </token>
+<token id="153"> दी </token>
+<token id="154"> थी </token>
+<token id="155"> . </token>
+<token id="156"> भू-अर्जन </token>
+<token id="157"> कार्यालय </token>
+<token id="158"> समेत </token>
+<token id="159"> अन्य </token>
+<token id="160"> विभागों </token>
+<token id="161"> के </token>
+<token id="162"> दर्जनों </token>
+<token id="163"> ऐसे </token>
+<token id="164"> पत्र </token>
+<token id="165"> हैं </token>
+<token id="166"> , </token>
+<token id="167"> जिनमें </token>
+<token id="168"> सरकारी </token>
+<token id="169"> राशि </token>
+<token id="170"> सृजन </token>
+<token id="171"> संस्था </token>
+<token id="172"> के </token>
+<token id="173"> खाते </token>
+<token id="174"> में </token>
+<token id="175"> जमा </token>
+<token id="176"> करने </token>
+<token id="177"> का </token>
+<token id="178"> अनुरोध </token>
+<token id="179"> किया </token>
+<token id="180"> गया </token>
+<token id="181"> था </token>
+<token id="182"> . </token>
+<token id="183"> जिलाधिकारी </token>
+<token id="184"> द्वारा </token>
+<token id="185"> विभागीय </token>
+<token id="186"> जांच </token>
+<token id="187"> कराई </token>
+<token id="188"> गई </token>
+<token id="189"> थी </token>
+<token id="190"> . </token>
+<token id="191"> इसमें </token>
+<token id="192"> भी </token>
+<token id="193"> जांच </token>
+<token id="194"> टीम </token>
+<token id="195"> ने </token>
+<token id="196"> पाया </token>
+<token id="197"> कि </token>
+<token id="198"> जो </token>
+<token id="199"> भी </token>
+<token id="200"> इस </token>
+<token id="201"> तरह </token>
+<token id="202"> के </token>
+<token id="203"> पत्र </token>
+<token id="204"> जारी </token>
+<token id="205"> हुए </token>
+<token id="206"> थे </token>
+<token id="207"> . </token>
+<token id="208"> वे </token>
+<token id="209"> किसी </token>
+<token id="210"> भी </token>
+<token id="211"> विभाग </token>
+<token id="212"> से </token>
+<token id="213"> जारी </token>
+<token id="214"> नहीं </token>
+<token id="215"> किए </token>
+<token id="216"> गए </token>
+<token id="217"> थे </token>
+<token id="218"> . </token>
+<token id="219"> विभागीय </token>
+<token id="220"> जांच </token>
+<token id="221"> में </token>
+<token id="222"> ऐसे </token>
+<token id="223"> पत्र </token>
+<token id="224"> को </token>
+<token id="225"> फर्जी </token>
+<token id="226"> बताया </token>
+<token id="227"> गया </token>
+<token id="228"> है </token>
+<token id="229"> . </token>
+<token id="230"> एसआइटी </token>
+<token id="231"> कर </token>
+<token id="232"> रही </token>
+<token id="233"> थी </token>
+<token id="234"> पत्रों </token>
+<token id="235"> की </token>
+<token id="236"> जांच </token>
+<token id="237"> जिस </token>
+<token id="238"> विभागीय </token>
+<token id="239"> पत्र </token>
+<token id="240"> से </token>
+<token id="241"> करोड़ों </token>
+<token id="242"> रुपये </token>
+<token id="243"> की </token>
+<token id="244"> राशि </token>
+<token id="245"> सृजन </token>
+<token id="246"> संस्था </token>
+<token id="247"> के </token>
+<token id="248"> खाते </token>
+<token id="249"> में </token>
+<token id="250"> जमा </token>
+<token id="251"> कर </token>
+<token id="252"> दी </token>
+<token id="253"> गई </token>
+<token id="254"> थी </token>
+<token id="255"> . </token>
+<token id="256"> उस </token>
+<token id="257"> पत्र </token>
+<token id="258"> की </token>
+<token id="259"> जांच </token>
+<token id="260"> एसआइटी </token>
+<token id="261"> अपने </token>
+<token id="262"> स्तर </token>
+<token id="263"> से </token>
+<token id="264"> कर </token>
+<token id="265"> रही </token>
+<token id="266"> थी </token>
+<token id="267"> . </token>
+<token id="268"> वे </token>
+<token id="269"> पत्र </token>
+<token id="270"> तत्कालीन </token>
+<token id="271"> भू-अर्जन </token>
+<token id="272"> पदाधिकारी </token>
+<token id="273"> राजीव </token>
+<token id="274"> रंजन </token>
+<token id="275"> सिंह </token>
+<token id="276"> के </token>
+<token id="277"> समय </token>
+<token id="278"> बैंक </token>
+<token id="279"> को </token>
+<token id="280"> लिखे </token>
+<token id="281"> गए </token>
+<token id="282"> थे </token>
+<token id="283"> . </token>
+<token id="284"> हालांकि </token>
+<token id="285"> एसआइटी </token>
+<token id="286"> को </token>
+<token id="287"> भी </token>
+<token id="288"> इस </token>
+<token id="289"> संबंध </token>
+<token id="290"> में </token>
+<token id="291"> कोई </token>
+<token id="292"> भी </token>
+<token id="293"> रिकार्ड </token>
+<token id="294"> विभाग </token>
+<token id="295"> में </token>
+<token id="296"> नहीं </token>
+<token id="297"> मिला </token>
+<token id="298"> . </token>
+<token id="299"> मगर </token>
+<token id="300"> एसआइटी </token>
+<token id="301"> इस </token>
+<token id="302"> बात </token>
+<token id="303"> की </token>
+<token id="304"> जांच </token>
+<token id="305"> कर </token>
+<token id="306"> रही </token>
+<token id="307"> थी </token>
+<token id="308"> कि </token>
+<token id="309"> यहां </token>
+<token id="310"> के </token>
+<token id="311"> किन </token>
+<token id="312"> किन </token>
+<token id="313"> कर्मियों </token>
+<token id="314"> की </token>
+<token id="315"> मिलीभगत </token>
+<token id="316"> से </token>
+<token id="317"> विभाग </token>
+<token id="318"> के </token>
+<token id="319"> मुहर </token>
+<token id="320"> और </token>
+<token id="321"> कागजात </token>
+<token id="322"> का </token>
+<token id="323"> इस्तेमाल </token>
+<token id="324"> हुआ </token>
+<token id="325"> था </token>
+<token id="326"> . </token>
+<token id="327"> हालांकि </token>
+<token id="328"> यहां </token>
+<token id="329"> इस </token>
+<token id="330"> विभाग </token>
+<token id="331"> का </token>
+<token id="332"> घोटाला </token>
+<token id="333"> उजागर </token>
+<token id="334"> होने </token>
+<token id="335"> के </token>
+<token id="336"> बाद </token>
+<token id="337"> तत्कालीन </token>
+<token id="338"> भू-अर्जन </token>
+<token id="339"> पदाधिकारी </token>
+<token id="340"> राजीव </token>
+<token id="341"> रंजन </token>
+<token id="342"> सिंह </token>
+<token id="343"> फरार </token>
+<token id="344"> हैं </token>
+<token id="345"> . </token>
+<token id="346"> अब </token>
+<token id="347"> इस </token>
+<token id="348"> मामले </token>
+<token id="349"> की </token>
+<token id="350"> जांच </token>
+<token id="351"> सीबीआइ </token>
+<token id="352"> कर </token>
+<token id="353"> रही </token>
+<token id="354"> है </token>
+<token id="355"> . </token>
+<token id="356"> सीबीआइ </token>
+<token id="357"> इस </token>
+<token id="358"> बात </token>
+<token id="359"> का </token>
+<token id="360"> पता </token>
+<token id="361"> लगाएगी </token>
+<token id="362"> कि </token>
+<token id="363"> पत्र </token>
+<token id="364"> कहां </token>
+<token id="365"> से </token>
+<token id="366"> किसी </token>
+<token id="367"> परिस्थिति </token>
+<token id="368"> में </token>
+<token id="369"> निर्गत </token>
+<token id="370"> हुए </token>
+<token id="371"> हैं </token>
+<token id="372"> . </token>
+<token id="373"> 360 </token>
+<token id="374"> करोड़ </token>
+<token id="375"> का </token>
+<token id="376"> हुआ </token>
+<token id="377"> था </token>
+<token id="378"> गबन </token>
+<token id="379"> जिला </token>
+<token id="380"> भू-अर्जन </token>
+<token id="381"> कार्यालय </token>
+<token id="382"> ने </token>
+<token id="383"> करीब </token>
+<token id="384"> 360 </token>
+<token id="385"> करोड़ </token>
+<token id="386"> रुपये </token>
+<token id="387"> के </token>
+<token id="388"> सरकारी </token>
+<token id="389"> राशि </token>
+<token id="390"> के </token>
+<token id="391"> गबन </token>
+<token id="392"> का </token>
+<token id="393"> मामला </token>
+<token id="394"> तिलकामांझी </token>
+<token id="395"> थाने </token>
+<token id="396"> में </token>
+<token id="397"> दर्ज </token>
+<token id="398"> कराया </token>
+<token id="399"> है </token>
+<token id="400"> . </token>
+<token id="401"> इस </token>
+<token id="402"> मामले </token>
+<token id="403"> में </token>
+<token id="404"> कई </token>
+<token id="405"> आरोपित </token>
+<token id="406"> गिरफ्तार </token>
+<token id="407"> होकर </token>
+<token id="408"> जेल </token>
+<token id="409"> में </token>
+<token id="410"> हैं </token>
+<token id="411"> . </token>
+<token id="412"> इन </token>
+<token id="413"> सारी </token>
+<token id="414"> राशि </token>
+<token id="415"> के </token>
+<token id="416"> सृजन </token>
+<token id="417"> संस्था </token>
+<token id="418"> में </token>
+<token id="419"> हस्तांतरण </token>
+<token id="420"> के </token>
+<token id="421"> लिए </token>
+<token id="422"> अनुरोध </token>
+<token id="423"> पत्र </token>
+<token id="424"> का </token>
+<token id="425"> इस्तेमाल </token>
+<token id="426"> किया </token>
+<token id="427"> गया </token>
+<token id="428"> था </token>
+<token id="429"> . </token>
+<token id="430"> हालांकि </token>
+<token id="431"> इस </token>
+<token id="432"> पत्र </token>
+<token id="433"> में </token>
+<token id="434"> विभागीय </token>
+<token id="435"> अधिकारियों </token>
+<token id="436"> का </token>
+<token id="437"> ही </token>
+<token id="438"> हस्ताक्षर </token>
+<token id="439"> है </token>
+<token id="440"> . </token>
+<token id="441"> इस </token>
+<token id="442"> कारण </token>
+<token id="443"> वे </token>
+<token id="444"> अपनी </token>
+<token id="445"> जिम्मेवारी </token>
+<token id="446"> से </token>
+<token id="447"> नहीं </token>
+<token id="448"> बच </token>
+<token id="449"> सकते </token>
+<token id="450"> . </token>
+<token id="451"> सीबीआइ </token>
+<token id="452"> की </token>
+<token id="453"> जांच </token>
+<token id="454"> में </token>
+<token id="455"> इस </token>
+<token id="456"> बात </token>
+<token id="457"> का </token>
+<token id="458"> खुलासा </token>
+<token id="459"> होगा </token>
+<token id="460"> कि </token>
+<token id="461"> ये </token>
+<token id="462"> पत्र </token>
+<token id="463"> किसके </token>
+<token id="464"> द्वारा </token>
+<token id="465"> बैंक </token>
+<token id="466"> को </token>
+<token id="467"> लिखे </token>
+<token id="468"> जाते </token>
+<token id="469"> रहे </token>
+<token id="470"> हैं </token>
+<token id="471"> . </token>
+<EVENT id="e1" class="OCC" tokens="12" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="21,22,23" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="25" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="31,32" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="44,45" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="49,50,51" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="70,71,72" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="78,79,80" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="91,92" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="94,95,96" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="99" annConf="High"/>
+<EVENT id="e12" class="OCC" tokens="105,106,107" annConf="High"/>
+<EVENT id="e13" class="OCC" tokens="116,117,118,119" annConf="High"/>
+<EVENT id="e14" class="OCC" tokens="124,125,126,127" annConf="High"/>
+<EVENT id="e15" class="OCC" tokens="138,139" annConf="High"/>
+<EVENT id="e16" class="OCC" tokens="143,144" annConf="High"/>
+<EVENT id="e17" class="OCC" tokens="151,152,153,154" annConf="High"/>
+<EVENT id="e18" class="OCC" tokens="175,176" annConf="High"/>
+<EVENT id="e19" class="OCC" tokens="178,179,180,181" annConf="High"/>
+<EVENT id="e20" class="OCC" tokens="186,187,188,189" annConf="High"/>
+<EVENT id="e21" class="OCC" tokens="193" annConf="High"/>
+<EVENT id="e22" class="OCC" tokens="196" annConf="High"/>
+<EVENT id="e23" class="OCC" tokens="204,205,206" annConf="High"/>
+<EVENT id="e24" class="OCC" tokens="213,214,215,216,217" annConf="High"/>
+<EVENT id="e25" class="OCC" tokens="226,227,228" annConf="High"/>
+<EVENT id="e26" class="OCC" tokens="230,231,232,233" annConf="High"/>
+<EVENT id="e27" class="OCC" tokens="236" annConf="High"/>
+<EVENT id="e28" class="OCC" tokens="250,251,252,253,254" annConf="High"/>
+<EVENT id="e29" class="OCC" tokens="259" annConf="High"/>
+<EVENT id="e30" class="OCC" tokens="264,265,266" annConf="High"/>
+<EVENT id="e31" class="OCC" tokens="280,281,282" annConf="High"/>
+<EVENT id="e32" class="OCC" tokens="296,297" annConf="High"/>
+<EVENT id="e33" class="OCC" tokens="304,305,306,307" annConf="High"/>
+<EVENT id="e34" class="OCC" tokens="323,324,325" annConf="High"/>
+<EVENT id="e35" class="OCC" tokens="333,334" annConf="High"/>
+<EVENT id="e36" class="OCC" tokens="350" annConf="High"/>
+<EVENT id="e37" class="ASP" tokens="351,352,353,354" annConf="High"/>
+<EVENT id="e38" class="OCC" tokens="360,361" annConf="High"/>
+<EVENT id="e39" class="OCC" tokens="376,377" annConf="High"/>
+<EVENT id="e40" class="OCC" tokens="397,398,399" annConf="High"/>
+<EVENT id="e41" class="OCC" tokens="425,426,427,428" annConf="High"/>
+<EVENT id="e42" class="OCC" tokens="447,448,449" annConf="High"/>
+<EVENT id="e43" class="OCC" tokens="453" annConf="High"/>
+<EVENT id="e44" class="OCC" tokens="458,459" annConf="High"/>
+<EVENT id="e45" class="OCC" tokens="467,468,469,470" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="343,344" annConf="High"/>
+<STATE id="s2" class="DECL" tokens="369,370,371" annConf="High"/>
+<STATE id="s3" class="DECL" tokens="410" annConf="High"/>
+<STATE id="s4" class="DESC" tokens="438,439" annConf="High"/>
+<ALINK f_id="e37" s_id="e36" class="CONTINUATION"/>
+<SLINK f_id="e4" s_id="e6" AnnConf="High"/>
+<SLINK f_id="e12" s_id="e13" AnnConf="Medium"/>
+<SLINK f_id="e22" s_id="e24" AnnConf="High"/>
+<SLINK f_id="e43" s_id="e44" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="before-overlap" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e11" s_id="e12" class="before-overlap" AnnConf="High"/>
+</document>

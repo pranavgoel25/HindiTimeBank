@@ -1,0 +1,140 @@
+<document>
+<token id="1"> ﻿संवाद </token>
+<token id="2"> सूत्र </token>
+<token id="3"> भूना </token>
+<token id="4"> : </token>
+<token id="5"> टोहाना </token>
+<token id="6"> रोड </token>
+<token id="7"> पर </token>
+<token id="8"> हैफेड </token>
+<token id="9"> गोदाम </token>
+<token id="10"> के </token>
+<token id="11"> निकट </token>
+<token id="12"> स्थित </token>
+<token id="13"> जेबीटी </token>
+<token id="14"> अध्यापक </token>
+<token id="15"> के </token>
+<token id="16"> घर </token>
+<token id="17"> सेंध </token>
+<token id="18"> मारकर </token>
+<token id="19"> अज्ञात </token>
+<token id="20"> चोरों </token>
+<token id="21"> ने </token>
+<token id="22"> 25 </token>
+<token id="23"> हजार </token>
+<token id="24"> रुपये </token>
+<token id="25"> की </token>
+<token id="26"> राशि </token>
+<token id="27"> चुरा </token>
+<token id="28"> ली </token>
+<token id="29"> है </token>
+<token id="30"> . </token>
+<token id="31"> राजकीय </token>
+<token id="32"> प्राथमिक </token>
+<token id="33"> पाठशाला-भूना </token>
+<token id="34"> में </token>
+<token id="35"> कार्यरत </token>
+<token id="36"> अध्यापक </token>
+<token id="37"> होशियार </token>
+<token id="38"> ¨ </token>
+<token id="39"> सह </token>
+<token id="40"> ने </token>
+<token id="41"> मामले </token>
+<token id="42"> की </token>
+<token id="43"> शिकायत </token>
+<token id="44"> भूना </token>
+<token id="45"> पुलिस </token>
+<token id="46"> ने </token>
+<token id="47"> देकर </token>
+<token id="48"> अज्ञात </token>
+<token id="49"> चोरों </token>
+<token id="50"> के </token>
+<token id="51"> विरूद्ध </token>
+<token id="52"> कार्रवाई </token>
+<token id="53"> करने </token>
+<token id="54"> की </token>
+<token id="55"> मांग </token>
+<token id="56"> की </token>
+<token id="57"> है </token>
+<token id="58"> . </token>
+<token id="59"> पुलिस </token>
+<token id="60"> ने </token>
+<token id="61"> मामला </token>
+<token id="62"> दर्ज </token>
+<token id="63"> करके </token>
+<token id="64"> अज्ञात </token>
+<token id="65"> चोरों </token>
+<token id="66"> की </token>
+<token id="67"> तलाश </token>
+<token id="68"> शुरू </token>
+<token id="69"> कर </token>
+<token id="70"> दी </token>
+<token id="71"> है </token>
+<token id="72"> . </token>
+<token id="73"> बता </token>
+<token id="74"> दें </token>
+<token id="75"> कि </token>
+<token id="76"> जेबीटी </token>
+<token id="77"> अध्यापक </token>
+<token id="78"> होशियार </token>
+<token id="79"> ¨ </token>
+<token id="80"> सह </token>
+<token id="81"> का </token>
+<token id="82"> पूरा </token>
+<token id="83"> परिवार </token>
+<token id="84"> गत </token>
+<token id="85"> दिनों </token>
+<token id="86"> भिवानी </token>
+<token id="87"> में </token>
+<token id="88"> एक </token>
+<token id="89"> विवाह </token>
+<token id="90"> समारोह </token>
+<token id="91"> में </token>
+<token id="92"> शिरकत </token>
+<token id="93"> करने </token>
+<token id="94"> गया </token>
+<token id="95"> हुआ </token>
+<token id="96"> था </token>
+<token id="97"> . </token>
+<token id="98"> जब </token>
+<token id="99"> वापस </token>
+<token id="100"> आकर </token>
+<token id="101"> देखा </token>
+<token id="102"> तो </token>
+<token id="103"> सारा </token>
+<token id="104"> समान </token>
+<token id="105"> बिखरा </token>
+<token id="106"> पडा </token>
+<token id="107"> था </token>
+<token id="108"> और </token>
+<token id="109"> अलमारी </token>
+<token id="110"> में </token>
+<token id="111"> से </token>
+<token id="112"> 25 </token>
+<token id="113"> हजार </token>
+<token id="114"> रुपये </token>
+<token id="115"> गायब </token>
+<token id="116"> थे </token>
+<token id="117"> . </token>
+<EVENT id="e1" class="OCC" tokens="27,28,29" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="47" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="52,53" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="55,56,57" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="62,63" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="67" AnnConf="High"/>
+<EVENT id="e7" class="ASP" tokens="68,69,70,71" AnnConf="High"/>
+<EVENT id="e8" class="REP" tokens="73,74" AnnConf="High"/>
+<EVENT id="e9" class="OCC" tokens="92,93,94,95,96" AnnConf="High"/>
+<EVENT id="e10" class="OCC" tokens="99,100" AnnConf="High"/>
+<EVENT id="e11" class="PER" tokens="101" AnnConf="High"/>
+<EVENT id="e12" class="OCC" tokens="105,106,107" AnnConf="Medium"/>
+<EVENT id="e13" class="OCC" tokens="17,18" AnnConf="High"/>
+<STATE id="s1" class="DECL" tokens="115,116" AnnConf="High"/>
+<ALINK f_id="e7" s_id="e6"/>
+<SLINK f_id="e8" s_id="e9" AnnConf="High"/>
+<TLINK f_id="e13" s_id="e1" class="before" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e4" class="before" AnnConf="Medium"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e9" s_id="e10" class="before" AnnConf="Low"/>
+<TLINK f_id="e10" s_id="e11" class="before" AnnConf="High"/>
+</document>

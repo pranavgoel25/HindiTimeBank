@@ -1,0 +1,103 @@
+<document>
+<token id="1"> रितेश </token>
+<token id="2"> देशमुख </token>
+<token id="3"> और </token>
+<token id="4"> उनकी </token>
+<token id="5"> वाइफ </token>
+<token id="6"> जेनेलिया </token>
+<token id="7"> डिसूजा </token>
+<token id="8"> बॉलिवुड </token>
+<token id="9"> के </token>
+<token id="10"> क्यूट </token>
+<token id="11"> कपल्स </token>
+<token id="12"> में </token>
+<token id="13"> से </token>
+<token id="14"> एक </token>
+<token id="15"> हैं </token>
+<token id="16"> . </token>
+<token id="17"> हालांकि </token>
+<token id="18"> दोनों </token>
+<token id="19"> बहुत </token>
+<token id="20"> ही </token>
+<token id="21"> कम </token>
+<token id="22"> साथ </token>
+<token id="23"> दिखाई </token>
+<token id="24"> दते </token>
+<token id="25"> हैं </token>
+<token id="26"> लेकिन </token>
+<token id="27"> सोशल </token>
+<token id="28"> मीडिया </token>
+<token id="29"> पर </token>
+<token id="30"> उनका </token>
+<token id="31"> प्यार </token>
+<token id="32"> और </token>
+<token id="33"> नोकझोंक </token>
+<token id="34"> अक्सर </token>
+<token id="35"> देखने </token>
+<token id="36"> को </token>
+<token id="37"> मिल </token>
+<token id="38"> जाते </token>
+<token id="39"> हैं </token>
+<token id="40"> . </token>
+<token id="41"> दोनों </token>
+<token id="42"> अक्सर </token>
+<token id="43"> एक-दूसरे </token>
+<token id="44"> की </token>
+<token id="45"> तस्वीर </token>
+<token id="46"> पर </token>
+<token id="47"> मजेदार </token>
+<token id="48"> कॉमेंट्स </token>
+<token id="49"> करते </token>
+<token id="50"> हैं </token>
+<token id="51"> . </token>
+<token id="52"> रितेश </token>
+<token id="53"> कई </token>
+<token id="54"> बार </token>
+<token id="55"> जेनेलिया </token>
+<token id="56"> को </token>
+<token id="57"> चिढ़ाते </token>
+<token id="58"> नजर </token>
+<token id="59"> आते </token>
+<token id="60"> हैं </token>
+<token id="61"> . </token>
+<token id="62"> हाल </token>
+<token id="63"> ही </token>
+<token id="64"> में </token>
+<token id="65"> रितेश </token>
+<token id="66"> ने </token>
+<token id="67"> जेनेलिया </token>
+<token id="68"> का </token>
+<token id="69"> प्यारा </token>
+<token id="70"> सा </token>
+<token id="71"> फोटो </token>
+<token id="72"> शेयर </token>
+<token id="73"> किया </token>
+<token id="74"> है </token>
+<token id="75"> . </token>
+<token id="76"> फोटो </token>
+<token id="77"> में </token>
+<token id="78"> उनके </token>
+<token id="79"> एक्सप्रेशंस </token>
+<token id="80"> बहुत </token>
+<token id="81"> प्यारे </token>
+<token id="82"> हैं </token>
+<token id="83"> और </token>
+<token id="84"> उससे </token>
+<token id="85"> भी </token>
+<token id="86"> मजेदार </token>
+<token id="87"> है </token>
+<token id="88"> रितेश </token>
+<token id="89"> का </token>
+<token id="90"> कैप्शन </token>
+<token id="91"> . </token>
+<EVENT id="e1" class="OCC" tokens="23,24,25" AnnConf="High"/>
+<EVENT id="e2" class="PER" tokens="35" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="37,38,39" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="48,49,50" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="57,58,59,60" AnnConf="Medium"/>
+<EVENT id="e6" class="OCC" tokens="72,73,74" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="86,87" AnnConf="Medium"/>
+<STATE id="s1" class="DESC" tokens="15" AnnConf="High"/>
+<STATE id="s2" class="DESC" tokens="81,82" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e3" class="overlap" AnnConf="High"/>
+</document>

@@ -1,0 +1,95 @@
+<document>
+<token id="1"> ﻿कानपुर </token>
+<token id="2"> : </token>
+<token id="3"> आरबीआइ </token>
+<token id="4"> में </token>
+<token id="5"> जाली </token>
+<token id="6"> नोट </token>
+<token id="7"> जमा </token>
+<token id="8"> करने </token>
+<token id="9"> के </token>
+<token id="10"> आरोप </token>
+<token id="11"> में </token>
+<token id="12"> आरबीआइ </token>
+<token id="13"> के </token>
+<token id="14"> निर्गम </token>
+<token id="15"> विभाग </token>
+<token id="16"> के </token>
+<token id="17"> दावा </token>
+<token id="18"> अनुभाग </token>
+<token id="19"> मैनेजर </token>
+<token id="20"> ने </token>
+<token id="21"> दो </token>
+<token id="22"> और </token>
+<token id="23"> बैंकों </token>
+<token id="24"> के </token>
+<token id="25"> मैनेजर </token>
+<token id="26"> व </token>
+<token id="27"> कर्मचारी </token>
+<token id="28"> के </token>
+<token id="29"> खिलाफ </token>
+<token id="30"> मुकदमा </token>
+<token id="31"> दर्ज </token>
+<token id="32"> कराया </token>
+<token id="33"> है </token>
+<token id="34"> . </token>
+<token id="35"> एक </token>
+<token id="36"> मुकदमा </token>
+<token id="37"> नजीराबाद </token>
+<token id="38"> थाने </token>
+<token id="39"> में </token>
+<token id="40"> बैंक </token>
+<token id="41"> ऑफ </token>
+<token id="42"> बडौदा </token>
+<token id="43"> गुमटी </token>
+<token id="44"> नंबर </token>
+<token id="45"> पांच </token>
+<token id="46"> के </token>
+<token id="47"> प्रबंधक </token>
+<token id="48"> और </token>
+<token id="49"> दूसरा </token>
+<token id="50"> मुकदमा </token>
+<token id="51"> बिल्हौर </token>
+<token id="52"> थाने </token>
+<token id="53"> में </token>
+<token id="54"> एसबीआइ </token>
+<token id="55"> कर्मचारी </token>
+<token id="56"> के </token>
+<token id="57"> खिलाफ </token>
+<token id="58"> लिखाया </token>
+<token id="59"> गया </token>
+<token id="60"> है </token>
+<token id="61"> . </token>
+<token id="62"> आरोप </token>
+<token id="63"> है </token>
+<token id="64"> कि </token>
+<token id="65"> दोनों </token>
+<token id="66"> बैंकों </token>
+<token id="67"> की </token>
+<token id="68"> ओर </token>
+<token id="69"> से </token>
+<token id="70"> जमा </token>
+<token id="71"> कराए </token>
+<token id="72"> गए </token>
+<token id="73"> नोटों </token>
+<token id="74"> की </token>
+<token id="75"> जांच </token>
+<token id="76"> में </token>
+<token id="77"> करीब </token>
+<token id="78"> 23 </token>
+<token id="79"> हजार </token>
+<token id="80"> रुपये </token>
+<token id="81"> के </token>
+<token id="82"> नोट </token>
+<token id="83"> जाली </token>
+<token id="84"> निकले </token>
+<token id="85"> है </token>
+<token id="86"> . </token>
+<EVENT id="e1" class="OCC" tokens="7,8" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="31,32,33" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="58,59,60" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="70,71,72" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="75" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="83,84,85" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="62,63" annConf="High"/>
+</document>

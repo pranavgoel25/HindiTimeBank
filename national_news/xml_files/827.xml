@@ -1,0 +1,90 @@
+<document>
+<token id="1"> बिहार </token>
+<token id="2"> के </token>
+<token id="3"> वैशाली </token>
+<token id="4"> जिले </token>
+<token id="5"> के </token>
+<token id="6"> नगर </token>
+<token id="7"> थाना </token>
+<token id="8"> अंतर्गत </token>
+<token id="9"> बालाजी </token>
+<token id="10"> मठ </token>
+<token id="11"> घाट </token>
+<token id="12"> के </token>
+<token id="13"> समीप </token>
+<token id="14"> बुधवार </token>
+<token id="15"> को </token>
+<token id="16"> दुर्गा </token>
+<token id="17"> पूजा </token>
+<token id="18"> के </token>
+<token id="19"> बाद </token>
+<token id="20"> मूर्ति </token>
+<token id="21"> विसर्जन </token>
+<token id="22"> के </token>
+<token id="23"> दौरान </token>
+<token id="24"> एक </token>
+<token id="25"> युवक </token>
+<token id="26"> गंडक </token>
+<token id="27"> नदी </token>
+<token id="28"> में </token>
+<token id="29"> डूबने </token>
+<token id="30"> के </token>
+<token id="31"> बाद </token>
+<token id="32"> से </token>
+<token id="33"> लापता </token>
+<token id="34"> बताया </token>
+<token id="35"> जा </token>
+<token id="36"> रहा </token>
+<token id="37"> है </token>
+<token id="38"> . </token>
+<token id="39"> हाजीपुर </token>
+<token id="40"> अनुमंडल </token>
+<token id="41"> पुलिस </token>
+<token id="42"> अधिकारी </token>
+<token id="43"> राघव </token>
+<token id="44"> दयाल </token>
+<token id="45"> ने </token>
+<token id="46"> बताया </token>
+<token id="47"> कि </token>
+<token id="48"> युवक </token>
+<token id="49"> का </token>
+<token id="50"> नाम </token>
+<token id="51"> राहुल </token>
+<token id="52"> कुमार </token>
+<token id="53"> ( </token>
+<token id="54"> 17 </token>
+<token id="55"> ) </token>
+<token id="56"> है </token>
+<token id="57"> . </token>
+<token id="58"> उन्होंने </token>
+<token id="59"> बताया </token>
+<token id="60"> कि </token>
+<token id="61"> लापता </token>
+<token id="62"> नवयुवक </token>
+<token id="63"> की </token>
+<token id="64"> तलाश </token>
+<token id="65"> में </token>
+<token id="66"> एनडीआरएफ </token>
+<token id="67"> की </token>
+<token id="68"> टीम </token>
+<token id="69"> को </token>
+<token id="70"> लगाया </token>
+<token id="71"> गया </token>
+<token id="72"> है </token>
+<token id="73"> . </token>
+<EVENT id="e6" class="OCC" tokens="16,17" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="20,21" AnnConf="High"/>
+<EVENT id="e1" class="OCC" tokens="29" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="34,35,36,37" AnnConf="High"/>
+<EVENT id="e3" class="REP" tokens="46" AnnConf="High"/>
+<EVENT id="e4" class="REP" tokens="59" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="70,71,72" AnnConf="High"/>
+<STATE id="s1" class="DECL" tokens="56" AnnConf="High"/>
+<STATE id="s2" class="DESC" tokens="61" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="14" AnnConf="High"/>
+<SLINK f_id="e3" s_id="e4" AnnConf="High"/>
+<SLINK f_id="e4" s_id="e5" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="High"/>
+<TLINK f_id="e7" s_id="e1" class="overlap" AnnConf="Medium"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+</document>

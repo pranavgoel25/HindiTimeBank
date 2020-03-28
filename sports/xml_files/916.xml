@@ -1,0 +1,121 @@
+<document>
+<token id="1"> अमेरिकी </token>
+<token id="2"> की </token>
+<token id="3"> युवा </token>
+<token id="4"> कोको </token>
+<token id="5"> गौफ </token>
+<token id="6"> ने </token>
+<token id="7"> लिंज </token>
+<token id="8"> में </token>
+<token id="9"> डब्ल्यूटीए </token>
+<token id="10"> टूर्नामेंट </token>
+<token id="11"> में </token>
+<token id="12"> क्वालीफायर </token>
+<token id="13"> से </token>
+<token id="14"> मिले </token>
+<token id="15"> मौके </token>
+<token id="16"> का </token>
+<token id="17"> फायदा </token>
+<token id="18"> उठाकर </token>
+<token id="19"> दूसरे </token>
+<token id="20"> दौर </token>
+<token id="21"> में </token>
+<token id="22"> प्रवेश </token>
+<token id="23"> किया </token>
+<token id="24"> . </token>
+<token id="25"> पंद्रह </token>
+<token id="26"> साल </token>
+<token id="27"> की </token>
+<token id="28"> खिलाड़ी </token>
+<token id="29"> हफ्ते </token>
+<token id="30"> के </token>
+<token id="31"> शुरू </token>
+<token id="32"> में </token>
+<token id="33"> क्वालीफाइंग </token>
+<token id="34"> में </token>
+<token id="35"> हार </token>
+<token id="36"> गयी </token>
+<token id="37"> थी </token>
+<token id="38"> लेकिन </token>
+<token id="39"> उन्हें </token>
+<token id="40"> तब </token>
+<token id="41"> ड्रा </token>
+<token id="42"> में </token>
+<token id="43"> शामिल </token>
+<token id="44"> किया </token>
+<token id="45"> जब </token>
+<token id="46"> यूनान </token>
+<token id="47"> की </token>
+<token id="48"> मारिया </token>
+<token id="49"> सकारी </token>
+<token id="50"> चोट </token>
+<token id="51"> के </token>
+<token id="52"> कारण </token>
+<token id="53"> पहले </token>
+<token id="54"> दौर </token>
+<token id="55"> के </token>
+<token id="56"> मैच </token>
+<token id="57"> से </token>
+<token id="58"> पहले </token>
+<token id="59"> हट </token>
+<token id="60"> गयी </token>
+<token id="61"> . </token>
+<token id="62"> विश्व </token>
+<token id="63"> रैंकिंग </token>
+<token id="64"> में </token>
+<token id="65"> 110 </token>
+<token id="66"> वें </token>
+<token id="67"> नंबर </token>
+<token id="68"> की </token>
+<token id="69"> खिलाड़ी </token>
+<token id="70"> गौफ </token>
+<token id="71"> क्वालीफाइंग </token>
+<token id="72"> दौर </token>
+<token id="73"> में </token>
+<token id="74"> हारने </token>
+<token id="75"> वाली </token>
+<token id="76"> सबसे </token>
+<token id="77"> ऊंची </token>
+<token id="78"> रैंकिंग </token>
+<token id="79"> की </token>
+<token id="80"> खिलाड़ी </token>
+<token id="81"> थी </token>
+<token id="82"> जिससे </token>
+<token id="83"> उन्हें </token>
+<token id="84"> मौका </token>
+<token id="85"> मिला </token>
+<token id="86"> . </token>
+<token id="87"> गौफ </token>
+<token id="88"> ने </token>
+<token id="89"> स्विट्जरलैंड </token>
+<token id="90"> की </token>
+<token id="91"> स्टेफानी </token>
+<token id="92"> वोएगिली </token>
+<token id="93"> पर </token>
+<token id="94"> 6 </token>
+<token id="95"> - </token>
+<token id="96"> 3 </token>
+<token id="97"> 7 </token>
+<token id="98"> - </token>
+<token id="99"> 6 </token>
+<token id="100"> से </token>
+<token id="101"> जीत </token>
+<token id="102"> हासिल </token>
+<token id="103"> की </token>
+<token id="104"> . </token>
+<EVENT id="e10" class="OCC" tokens="9,10" AnnConf="High"/>
+<EVENT id="e1" class="OCC" tokens="14" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="17,18" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="22,23" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="35,36,37" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="43,44" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="59,60" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="84,85" AnnConf="High"/>
+<EVENT id="e9" class="OCC" tokens="101,102,103" AnnConf="High"/>
+<STATE id="s1" class="DECL" tokens="81" AnnConf="High"/>
+<TIMEX id="t1" class="DUR" tokens="25,26" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="Low"/>
+<TLINK f_id="e6" s_id="e5" class="before" AnnConf="High"/>
+<TLINK f_id="e8" s_id="e9" class="before" AnnConf="Low"/>
+</document>

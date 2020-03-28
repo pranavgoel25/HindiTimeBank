@@ -1,0 +1,57 @@
+<document>
+<token id="1"> ﻿जमशेदपुर </token>
+<token id="2"> : </token>
+<token id="3"> वाणिज्य </token>
+<token id="4"> विभाग </token>
+<token id="5"> की </token>
+<token id="6"> ओर </token>
+<token id="7"> से </token>
+<token id="8"> चलाए </token>
+<token id="9"> गए </token>
+<token id="10"> स्पेशल </token>
+<token id="11"> टिकट </token>
+<token id="12"> चेकिंग </token>
+<token id="13"> के </token>
+<token id="14"> दौरान </token>
+<token id="15"> शनिवार </token>
+<token id="16"> को </token>
+<token id="17"> एक </token>
+<token id="18"> लाख </token>
+<token id="19"> दो </token>
+<token id="20"> हजार </token>
+<token id="21"> 285 </token>
+<token id="22"> रुपये </token>
+<token id="23"> यात्रियों </token>
+<token id="24"> से </token>
+<token id="25"> वसूले </token>
+<token id="26"> गए </token>
+<token id="27"> . </token>
+<token id="28"> शनिवार </token>
+<token id="29"> को </token>
+<token id="30"> 421 </token>
+<token id="31"> यात्रियों </token>
+<token id="32"> को </token>
+<token id="33"> टीम </token>
+<token id="34"> ने </token>
+<token id="35"> पकडा </token>
+<token id="36"> . </token>
+<token id="37"> वहीं </token>
+<token id="38"> 211 </token>
+<token id="39"> लगेज </token>
+<token id="40"> के </token>
+<token id="41"> लिए </token>
+<token id="42"> जुर्माना </token>
+<token id="43"> किया </token>
+<token id="44"> गया </token>
+<token id="45"> . </token>
+<EVENT id="e1" class="OCC" tokens="10,11,12" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="25,26" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="35" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="42,43,44" AnnConf="High"/>
+<STATE id="s1" class="DESC" tokens="8,9" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="15" AnnConf="High"/>
+<TIMEX id="t2" class="DATE" tokens="28" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="overlap" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e3" class="overlap" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e4" class="overlap" AnnConf="High"/>
+</document>

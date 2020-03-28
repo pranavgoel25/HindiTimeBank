@@ -1,0 +1,102 @@
+<document>
+<token id="1"> चांदपुर </token>
+<token id="2"> में </token>
+<token id="3"> हजारों </token>
+<token id="4"> की </token>
+<token id="5"> चोरी </token>
+<token id="6"> पचरूखी </token>
+<token id="7"> ( </token>
+<token id="8"> सिवान </token>
+<token id="9"> ) </token>
+<token id="10"> : </token>
+<token id="11"> थाना </token>
+<token id="12"> क्षेत्र </token>
+<token id="13"> के </token>
+<token id="14"> चांदपुर </token>
+<token id="15"> गांव </token>
+<token id="16"> में </token>
+<token id="17"> रविवार </token>
+<token id="18"> की </token>
+<token id="19"> रात </token>
+<token id="20"> संजय </token>
+<token id="21"> यादव </token>
+<token id="22"> के </token>
+<token id="23"> घर </token>
+<token id="24"> में </token>
+<token id="25"> चोरों </token>
+<token id="26"> ने </token>
+<token id="27"> दरवाजा </token>
+<token id="28"> तोड </token>
+<token id="29"> हजारों </token>
+<token id="30"> के </token>
+<token id="31"> सामान </token>
+<token id="32"> चुरा </token>
+<token id="33"> लिए </token>
+<token id="34"> . </token>
+<token id="35"> बताया </token>
+<token id="36"> गया </token>
+<token id="37"> कि </token>
+<token id="38"> संजय </token>
+<token id="39"> परिवार </token>
+<token id="40"> के </token>
+<token id="41"> साथ </token>
+<token id="42"> गर्मी </token>
+<token id="43"> के </token>
+<token id="44"> चलते </token>
+<token id="45"> छत </token>
+<token id="46"> पर </token>
+<token id="47"> सो </token>
+<token id="48"> रह </token>
+<token id="49"> थे </token>
+<token id="50"> . </token>
+<token id="51"> उन्होंने </token>
+<token id="52"> बताया </token>
+<token id="53"> कि </token>
+<token id="54"> 32 </token>
+<token id="55"> हजार </token>
+<token id="56"> नकद </token>
+<token id="57"> , </token>
+<token id="58"> गहने </token>
+<token id="59"> , </token>
+<token id="60"> कपडा </token>
+<token id="61"> समेत </token>
+<token id="62"> हजारों </token>
+<token id="63"> के </token>
+<token id="64"> सामान </token>
+<token id="65"> की </token>
+<token id="66"> चोरी </token>
+<token id="67"> हुई </token>
+<token id="68"> है </token>
+<token id="69"> . </token>
+<token id="70"> घटना </token>
+<token id="71"> की </token>
+<token id="72"> जानकारी </token>
+<token id="73"> सोमवार </token>
+<token id="74"> की </token>
+<token id="75"> सुबह </token>
+<token id="76"> हुई </token>
+<token id="77"> . </token>
+<token id="78"> पुलिस </token>
+<token id="79"> ने </token>
+<token id="80"> जांच </token>
+<token id="81"> शुरू </token>
+<token id="82"> कर </token>
+<token id="83"> दी </token>
+<token id="84"> है </token>
+<token id="85"> . </token>
+<EVENT id="e1" class="IAC" tokens="28" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="32,33" annConf="High"/>
+<EVENT id="e3" class="REP" tokens="35,36" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="47,48,49" annConf="High"/>
+<EVENT id="e5" class="REP" tokens="52" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="66,67,68" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="75,76" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="80" annConf="High"/>
+<EVENT id="e9" class="ASP" tokens="81,82,83,84" annConf="High"/>
+<TIMEX id="t1" tokens="17" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="73" annConf="High" class="DATE"/>
+<ALINK f_id="e9" s_id="e8" class="INITIATION"/>
+<SLINK f_id="e3" s_id="e4" AnnConf="Low"/>
+<SLINK f_id="e5" s_id="e6" AnnConf="Medium"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+</document>

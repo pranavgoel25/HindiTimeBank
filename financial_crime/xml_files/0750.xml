@@ -1,0 +1,86 @@
+<document>
+<token id="1"> बेगूसराय </token>
+<token id="2"> . </token>
+<token id="3"> बलिया </token>
+<token id="4"> थाना </token>
+<token id="5"> क्षेत्र </token>
+<token id="6"> के </token>
+<token id="7"> एनएच </token>
+<token id="8"> 31 </token>
+<token id="9"> से </token>
+<token id="10"> डंडारी </token>
+<token id="11"> जाने </token>
+<token id="12"> वाली </token>
+<token id="13"> सडक </token>
+<token id="14"> स्थित </token>
+<token id="15"> एक </token>
+<token id="16"> खरीद-बिक्री </token>
+<token id="17"> केंद्र </token>
+<token id="18"> पर </token>
+<token id="19"> सोमवार </token>
+<token id="20"> की </token>
+<token id="21"> रात </token>
+<token id="22"> चोरी </token>
+<token id="23"> हो </token>
+<token id="24"> गई </token>
+<token id="25"> . </token>
+<token id="26"> घटना </token>
+<token id="27"> के </token>
+<token id="28"> संबंध </token>
+<token id="29"> में </token>
+<token id="30"> खरीद-बिक्री </token>
+<token id="31"> केंद्र </token>
+<token id="32"> के </token>
+<token id="33"> संचालक </token>
+<token id="34"> बलिया </token>
+<token id="35"> गाछी </token>
+<token id="36"> टोला </token>
+<token id="37"> निवासी </token>
+<token id="38"> शंभू </token>
+<token id="39"> कुमार </token>
+<token id="40"> पोद्दार </token>
+<token id="41"> ने </token>
+<token id="42"> बलिया </token>
+<token id="43"> थाने </token>
+<token id="44"> में </token>
+<token id="45"> प्राथमिकी </token>
+<token id="46"> दर्ज </token>
+<token id="47"> कराई </token>
+<token id="48"> है </token>
+<token id="49"> . </token>
+<token id="50"> गल्ले </token>
+<token id="51"> से </token>
+<token id="52"> करीब </token>
+<token id="53"> तीन </token>
+<token id="54"> सौ </token>
+<token id="55"> रुपये </token>
+<token id="56"> एवं </token>
+<token id="57"> मनसेरपुर </token>
+<token id="58"> निवासी </token>
+<token id="59"> सदानंद </token>
+<token id="60"> ¨ </token>
+<token id="61"> सह </token>
+<token id="62"> के </token>
+<token id="63"> पुत्र </token>
+<token id="64"> ¨ </token>
+<token id="65"> मटू </token>
+<token id="66"> कुमार </token>
+<token id="67"> ¨ </token>
+<token id="68"> सह </token>
+<token id="69"> की </token>
+<token id="70"> बाइक </token>
+<token id="71"> लेकर </token>
+<token id="72"> फरार </token>
+<token id="73"> हो </token>
+<token id="74"> गया </token>
+<token id="75"> . </token>
+<EVENT id="e1" class="OCC" tokens="22,23,24" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="26" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="46,47,48" annConf="High"/>
+<EVENT id="e4" class="IAC" tokens="71" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="72,73,74" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="11,12" annConf="High"/>
+<TIMEX id="t1" tokens="19" annConf="High" class="DATE"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="High"/>
+</document>

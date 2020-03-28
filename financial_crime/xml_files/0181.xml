@@ -1,0 +1,106 @@
+<document>
+<token id="1"> ﻿जागरण </token>
+<token id="2"> संवाददाता </token>
+<token id="3"> हाजीपुर </token>
+<token id="4"> : </token>
+<token id="5"> नगर </token>
+<token id="6"> थाना </token>
+<token id="7"> क्षेत्र </token>
+<token id="8"> के </token>
+<token id="9"> सुभाष </token>
+<token id="10"> चौक </token>
+<token id="11"> के </token>
+<token id="12"> निकट </token>
+<token id="13"> खडी </token>
+<token id="14"> एक </token>
+<token id="15"> बाइक </token>
+<token id="16"> की </token>
+<token id="17"> डिक्की </token>
+<token id="18"> तोडकर </token>
+<token id="19"> उच्चकों </token>
+<token id="20"> ने </token>
+<token id="21"> 89 </token>
+<token id="22"> हजार </token>
+<token id="23"> रुपये </token>
+<token id="24"> नकद </token>
+<token id="25"> एवं </token>
+<token id="26"> आवश्यक </token>
+<token id="27"> कागजात </token>
+<token id="28"> की </token>
+<token id="29"> चोरी </token>
+<token id="30"> कर </token>
+<token id="31"> ली </token>
+<token id="32"> . </token>
+<token id="33"> यह </token>
+<token id="34"> घटना </token>
+<token id="35"> तब </token>
+<token id="36"> घटी </token>
+<token id="37"> जब </token>
+<token id="38"> स्थानीय </token>
+<token id="39"> आरएन </token>
+<token id="40"> कालेज </token>
+<token id="41"> के </token>
+<token id="42"> निकट </token>
+<token id="43"> अवस्थित </token>
+<token id="44"> सोमेश्वर </token>
+<token id="45"> कॉलोनी </token>
+<token id="46"> के </token>
+<token id="47"> राणा </token>
+<token id="48"> अरुण </token>
+<token id="49"> कुमार </token>
+<token id="50"> ¨ </token>
+<token id="51"> सह </token>
+<token id="52"> अपनी </token>
+<token id="53"> मां </token>
+<token id="54"> का </token>
+<token id="55"> जीवन </token>
+<token id="56"> प्रमाणपत्र </token>
+<token id="57"> जमा </token>
+<token id="58"> कर </token>
+<token id="59"> घर </token>
+<token id="60"> लौटने </token>
+<token id="61"> के </token>
+<token id="62"> दौरान </token>
+<token id="63"> गाडी </token>
+<token id="64"> खडी </token>
+<token id="65"> कर </token>
+<token id="66"> मिठाई </token>
+<token id="67"> लेने </token>
+<token id="68"> दुकान </token>
+<token id="69"> में </token>
+<token id="70"> गए </token>
+<token id="71"> थे </token>
+<token id="72"> . </token>
+<token id="73"> इस </token>
+<token id="74"> मामले </token>
+<token id="75"> में </token>
+<token id="76"> नगर </token>
+<token id="77"> थाना </token>
+<token id="78"> में </token>
+<token id="79"> अज्ञात </token>
+<token id="80"> चोर </token>
+<token id="81"> के </token>
+<token id="82"> विरुद्ध </token>
+<token id="83"> प्राथमिकी </token>
+<token id="84"> दर्ज </token>
+<token id="85"> कराई </token>
+<token id="86"> गई </token>
+<token id="87"> है </token>
+<token id="88"> . </token>
+<EVENT id="e1" class="OCC" tokens="18" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="29,30,31" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="34" AnnConf="High"/>
+<EVENT id="e10" class="OCC" tokens="36" AnnConf="High"/>
+<EVENT id="e4" class="IAC" tokens="57,58" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="60" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="64,65" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="66,67" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="70,71" AnnConf="High"/>
+<EVENT id="e9" class="OCC" tokens="84,85,86,87" AnnConf="High"/>
+<STATE id="s1" class="DESC" tokens="13" AnnConf="High"/>
+<SLINK f_id="e4" s_id="e5" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="Medium"/>
+<TLINK f_id="e5" s_id="e6" class="overlap" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e8" class="before" AnnConf="High"/>
+</document>

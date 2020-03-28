@@ -1,0 +1,149 @@
+<document>
+<token id="1"> नौगावां </token>
+<token id="2"> सादात </token>
+<token id="3"> : </token>
+<token id="4"> घर </token>
+<token id="5"> से </token>
+<token id="6"> टहलने </token>
+<token id="7"> निकला </token>
+<token id="8"> छात्र </token>
+<token id="9"> लापता </token>
+<token id="10"> हो </token>
+<token id="11"> गया </token>
+<token id="12"> . </token>
+<token id="13"> काफी </token>
+<token id="14"> तलाश </token>
+<token id="15"> करने </token>
+<token id="16"> के </token>
+<token id="17"> बाद </token>
+<token id="18"> भी </token>
+<token id="19"> उसका </token>
+<token id="20"> सुराग </token>
+<token id="21"> नही </token>
+<token id="22"> मिला </token>
+<token id="23"> . </token>
+<token id="24"> परिजनों </token>
+<token id="25"> ने </token>
+<token id="26"> अपहरण </token>
+<token id="27"> की </token>
+<token id="28"> आशंका </token>
+<token id="29"> जताते </token>
+<token id="30"> हुए </token>
+<token id="31"> थाने </token>
+<token id="32"> में </token>
+<token id="33"> तहरीर </token>
+<token id="34"> दे </token>
+<token id="35"> दी </token>
+<token id="36"> है </token>
+<token id="37"> . </token>
+<token id="38"> थाना </token>
+<token id="39"> क्षेत्र </token>
+<token id="40"> के </token>
+<token id="41"> गांव </token>
+<token id="42"> बीलना </token>
+<token id="43"> में </token>
+<token id="44"> इरशाद </token>
+<token id="45"> अली </token>
+<token id="46"> का </token>
+<token id="47"> परिवार </token>
+<token id="48"> रहता </token>
+<token id="49"> है </token>
+<token id="50"> . </token>
+<token id="51"> उसका </token>
+<token id="52"> बेटा </token>
+<token id="53"> अरबाज </token>
+<token id="54"> किसान </token>
+<token id="55"> इंटर </token>
+<token id="56"> कालेज </token>
+<token id="57"> बादशाहपुर </token>
+<token id="58"> में </token>
+<token id="59"> कक्षा </token>
+<token id="60"> नौ </token>
+<token id="61"> का </token>
+<token id="62"> छात्र </token>
+<token id="63"> है </token>
+<token id="64"> . </token>
+<token id="65"> रविवार </token>
+<token id="66"> शाम </token>
+<token id="67"> पांच </token>
+<token id="68"> बजे </token>
+<token id="69"> अरबाज </token>
+<token id="70"> घर </token>
+<token id="71"> से </token>
+<token id="72"> टहलने </token>
+<token id="73"> निकला </token>
+<token id="74"> परंतु </token>
+<token id="75"> वापस </token>
+<token id="76"> नही </token>
+<token id="77"> लौटा </token>
+<token id="78"> . </token>
+<token id="79"> परिजनों </token>
+<token id="80"> ने </token>
+<token id="81"> उसे </token>
+<token id="82"> काफी </token>
+<token id="83"> तलाश </token>
+<token id="84"> किया </token>
+<token id="85"> . </token>
+<token id="86"> सभी </token>
+<token id="87"> रिश्तेदारों </token>
+<token id="88"> के </token>
+<token id="89"> यहां </token>
+<token id="90"> भी </token>
+<token id="91"> ढूंढा </token>
+<token id="92"> मगर </token>
+<token id="93"> सफलता </token>
+<token id="94"> नही </token>
+<token id="95"> मिली </token>
+<token id="96"> . </token>
+<token id="97"> परिजनों </token>
+<token id="98"> ने </token>
+<token id="99"> अरबाज </token>
+<token id="100"> के </token>
+<token id="101"> अपहरण </token>
+<token id="102"> की </token>
+<token id="103"> आशंका </token>
+<token id="104"> जताई </token>
+<token id="105"> है </token>
+<token id="106"> . </token>
+<token id="107"> उन्होंने </token>
+<token id="108"> थाने </token>
+<token id="109"> में </token>
+<token id="110"> तहरीर </token>
+<token id="111"> दे </token>
+<token id="112"> दी </token>
+<token id="113"> है </token>
+<token id="114"> . </token>
+<token id="115"> छात्र </token>
+<token id="116"> के </token>
+<token id="117"> लापता </token>
+<token id="118"> होने </token>
+<token id="119"> से </token>
+<token id="120"> परिजनों </token>
+<token id="121"> में </token>
+<token id="122"> हडकंप </token>
+<token id="123"> मचा </token>
+<token id="124"> है </token>
+<token id="125"> . </token>
+<EVENT id="e1" class="OCC" tokens="9,10,11" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="14,15" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="20,21,22" annConf="High"/>
+<EVENT id="e4" class="IAC" tokens="28,29,30" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="33,34,35,36" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="72,73" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="75,76,77" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="83,84" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="91" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="93,94,95" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="103,104,105" annConf="High"/>
+<EVENT id="e12" class="OCC" tokens="110,111,112,113" annConf="High"/>
+<EVENT id="e13" class="OCC" tokens="117,118" annConf="High"/>
+<EVENT id="e14" class="OCC" tokens="122,123,124" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="6,7" annConf="High"/>
+<STATE id="s2" class="DECL" tokens="48,49" annConf="High"/>
+<STATE id="s3" class="DECL" tokens="62,63" annConf="High"/>
+<TIMEX id="t1" tokens="65" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="66" annConf="High" class="TIME"/>
+<TIMEX id="t3" tokens="67,68" annConf="High" class="TIME"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="overlap" AnnConf="Low"/>
+</document>

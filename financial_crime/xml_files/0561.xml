@@ -1,0 +1,141 @@
+<document>
+<token id="1"> जागरण </token>
+<token id="2"> संवाददाता </token>
+<token id="3"> , </token>
+<token id="4"> जालंधर </token>
+<token id="5"> कन्या </token>
+<token id="6"> महाविद्यालय </token>
+<token id="7"> के </token>
+<token id="8"> इक्नॉमिक्स </token>
+<token id="9"> विभाग </token>
+<token id="10"> की </token>
+<token id="11"> ओर </token>
+<token id="12"> अल्टरनेटिवज </token>
+<token id="13"> टू </token>
+<token id="14"> कन्वेंशनल </token>
+<token id="15"> टूल्स </token>
+<token id="16"> विषय </token>
+<token id="17"> पर </token>
+<token id="18"> कार्यशाला </token>
+<token id="19"> आयोजित </token>
+<token id="20"> की </token>
+<token id="21"> गई </token>
+<token id="22"> . </token>
+<token id="23"> कार्यशाला </token>
+<token id="24"> में </token>
+<token id="25"> वक्ता </token>
+<token id="26"> के </token>
+<token id="27"> रूप </token>
+<token id="28"> में </token>
+<token id="29"> एसबीआई </token>
+<token id="30"> लाइफ </token>
+<token id="31"> के </token>
+<token id="32"> पूर्व </token>
+<token id="33"> स्टेट </token>
+<token id="34"> ट्रेनिंग </token>
+<token id="35"> मैनेजर </token>
+<token id="36"> विकास </token>
+<token id="37"> भार्गव </token>
+<token id="38"> ने </token>
+<token id="39"> शिरकत </token>
+<token id="40"> की </token>
+<token id="41"> . </token>
+<token id="42"> वक्ता </token>
+<token id="43"> भार्गव </token>
+<token id="44"> ने </token>
+<token id="45"> छात्राओं </token>
+<token id="46"> को </token>
+<token id="47"> छोटी </token>
+<token id="48"> आयु </token>
+<token id="49"> में </token>
+<token id="50"> ही </token>
+<token id="51"> बचत </token>
+<token id="52"> की </token>
+<token id="53"> आदत </token>
+<token id="54"> तथा </token>
+<token id="55"> आय </token>
+<token id="56"> के </token>
+<token id="57"> प्रबंधन </token>
+<token id="58"> से </token>
+<token id="59"> होने </token>
+<token id="60"> वाले </token>
+<token id="61"> लाभ </token>
+<token id="62"> से </token>
+<token id="63"> अवगत </token>
+<token id="64"> करवाया </token>
+<token id="65"> . </token>
+<token id="66"> बचत </token>
+<token id="67"> के </token>
+<token id="68"> विभिन्न </token>
+<token id="69"> विकल्प </token>
+<token id="70"> के </token>
+<token id="71"> विषय </token>
+<token id="72"> में </token>
+<token id="73"> बताते </token>
+<token id="74"> हुए </token>
+<token id="75"> कहा </token>
+<token id="76"> कि </token>
+<token id="77"> रिटायर्ड </token>
+<token id="78"> होने </token>
+<token id="79"> के </token>
+<token id="80"> बाद </token>
+<token id="81"> बचत </token>
+<token id="82"> से </token>
+<token id="83"> मिलने </token>
+<token id="84"> वाले </token>
+<token id="85"> लाभ </token>
+<token id="86"> से </token>
+<token id="87"> लाइफ </token>
+<token id="88"> को </token>
+<token id="89"> सिक्योर </token>
+<token id="90"> कर </token>
+<token id="91"> सकते </token>
+<token id="92"> है </token>
+<token id="93"> . </token>
+<token id="94"> प्रिंसिपल </token>
+<token id="95"> डा </token>
+<token id="96"> . </token>
+<token id="97"> अतिमा </token>
+<token id="98"> शर्मा </token>
+<token id="99"> ने </token>
+<token id="100"> कहा </token>
+<token id="101"> कि </token>
+<token id="102"> जीवन </token>
+<token id="103"> में </token>
+<token id="104"> बचत </token>
+<token id="105"> करने </token>
+<token id="106"> की </token>
+<token id="107"> आदत </token>
+<token id="108"> डालनी </token>
+<token id="109"> चाहिए </token>
+<token id="110"> . </token>
+<token id="111"> बचत </token>
+<token id="112"> की </token>
+<token id="113"> राशि </token>
+<token id="114"> आगे </token>
+<token id="115"> जीवन </token>
+<token id="116"> को </token>
+<token id="117"> संवारने </token>
+<token id="118"> में </token>
+<token id="119"> सहायक </token>
+<token id="120"> होती </token>
+<token id="121"> है </token>
+<token id="122"> . </token>
+<EVENT id="e1" class="OCC" tokens="19,20,21" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="39,40" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="63,64" annConf="High"/>
+<EVENT id="e4" class="IAC" tokens="73,74" annConf="High"/>
+<EVENT id="e5" class="REP" tokens="75" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="77,78" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="89,90,91,92" annConf="High"/>
+<EVENT id="e8" class="REP" tokens="100" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="104,105" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="107,108,109" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="59,60" annConf="High"/>
+<STATE id="s2" class="DESC" tokens="83,84" annConf="High"/>
+<STATE id="s3" class="DECL" tokens="119,120,121" annConf="High"/>
+<SLINK f_id="e5" s_id="e7" AnnConf="High"/>
+<SLINK f_id="e8" s_id="e10" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="overlap" AnnConf="High"/>
+<TLINK f_id="e6" s_id="s2" class="before" AnnConf="High"/>
+</document>

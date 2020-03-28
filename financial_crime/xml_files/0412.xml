@@ -1,0 +1,142 @@
+<document>
+<token id="1"> सारण </token>
+<token id="2"> . </token>
+<token id="3"> भेल्दी </token>
+<token id="4"> थाना </token>
+<token id="5"> क्षेत्र </token>
+<token id="6"> के </token>
+<token id="7"> रामचक </token>
+<token id="8"> गांव </token>
+<token id="9"> में </token>
+<token id="10"> चापाकल </token>
+<token id="11"> से </token>
+<token id="12"> पानी </token>
+<token id="13"> भरने </token>
+<token id="14"> के </token>
+<token id="15"> विवाद </token>
+<token id="16"> में </token>
+<token id="17"> हुई </token>
+<token id="18"> मारपीट </token>
+<token id="19"> में </token>
+<token id="20"> एक </token>
+<token id="21"> महिला </token>
+<token id="22"> जख्मी </token>
+<token id="23"> हो </token>
+<token id="24"> गई </token>
+<token id="25"> . </token>
+<token id="26"> जख्मी </token>
+<token id="27"> महिला </token>
+<token id="28"> ¨ </token>
+<token id="29"> चता </token>
+<token id="30"> देवी </token>
+<token id="31"> का </token>
+<token id="32"> इलाज </token>
+<token id="33"> गडखा </token>
+<token id="34"> सामुदायिक </token>
+<token id="35"> स्वास्थ्य </token>
+<token id="36"> केंद्र </token>
+<token id="37"> में </token>
+<token id="38"> हुआ </token>
+<token id="39"> . </token>
+<token id="40"> ¨ </token>
+<token id="41"> चता </token>
+<token id="42"> देवी </token>
+<token id="43"> ने </token>
+<token id="44"> गडखा </token>
+<token id="45"> थाना </token>
+<token id="46"> में </token>
+<token id="47"> प्राथमिकी </token>
+<token id="48"> दर्ज </token>
+<token id="49"> कराते </token>
+<token id="50"> हुए </token>
+<token id="51"> साहिब </token>
+<token id="52"> कुमार </token>
+<token id="53"> और </token>
+<token id="54"> धर्मनाथ </token>
+<token id="55"> राय </token>
+<token id="56"> को </token>
+<token id="57"> नामजद </token>
+<token id="58"> अभियुक्त </token>
+<token id="59"> बनाया </token>
+<token id="60"> है </token>
+<token id="61"> . </token>
+<token id="62"> मारपीट </token>
+<token id="63"> के </token>
+<token id="64"> क्रम </token>
+<token id="65"> में </token>
+<token id="66"> गले </token>
+<token id="67"> से </token>
+<token id="68"> सोने </token>
+<token id="69"> की </token>
+<token id="70"> चेन </token>
+<token id="71"> छीन </token>
+<token id="72"> ली </token>
+<token id="73"> गई </token>
+<token id="74"> . </token>
+<token id="75"> वही </token>
+<token id="76"> एक </token>
+<token id="77"> रुपये </token>
+<token id="78"> के </token>
+<token id="79"> विवाद </token>
+<token id="80"> में </token>
+<token id="81"> बसंतपुर </token>
+<token id="82"> गांव </token>
+<token id="83"> में </token>
+<token id="84"> एक </token>
+<token id="85"> चाय </token>
+<token id="86"> की </token>
+<token id="87"> दुकान </token>
+<token id="88"> पर </token>
+<token id="89"> विवाद </token>
+<token id="90"> हो </token>
+<token id="91"> गया </token>
+<token id="92"> है </token>
+<token id="93"> जिसमें </token>
+<token id="94"> एक </token>
+<token id="95"> युवक </token>
+<token id="96"> घायल </token>
+<token id="97"> हो </token>
+<token id="98"> गया </token>
+<token id="99"> . </token>
+<token id="100"> घायल </token>
+<token id="101"> युवक </token>
+<token id="102"> मुकेश </token>
+<token id="103"> का </token>
+<token id="104"> इलाज </token>
+<token id="105"> पीएचसी </token>
+<token id="106"> गडखा </token>
+<token id="107"> में </token>
+<token id="108"> हुई </token>
+<token id="109"> . </token>
+<token id="110"> मुकेश </token>
+<token id="111"> के </token>
+<token id="112"> फर्द </token>
+<token id="113"> बयान </token>
+<token id="114"> पर </token>
+<token id="115"> गडखा </token>
+<token id="116"> थाना </token>
+<token id="117"> में </token>
+<token id="118"> प्राथमिकी </token>
+<token id="119"> दर्ज </token>
+<token id="120"> की </token>
+<token id="121"> गई </token>
+<token id="122"> है </token>
+<token id="123"> . </token>
+<EVENT id="e1" class="OCC" tokens="12,13" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="18" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="22,23,24" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="32,38" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="48,49,50" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="58,59,60" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="71,72,73" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="89,90,91,92" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="96,97,98" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="104,108" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="119,120,121,122" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="17" annConf="High"/>
+<STATE id="s6" class="DESC" tokens="100" annConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="overlap" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="overlap" AnnConf="High"/>
+<TLINK f_id="e8" s_id="e9" class="overlap" AnnConf="High"/>
+<TLINK f_id="e9" s_id="e10" class="before" AnnConf="High"/>
+</document>

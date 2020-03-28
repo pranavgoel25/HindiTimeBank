@@ -1,0 +1,81 @@
+<document>
+<token id="1"> सिवान </token>
+<token id="2"> . </token>
+<token id="3"> पचरूखी </token>
+<token id="4"> थाना </token>
+<token id="5"> क्षेत्र </token>
+<token id="6"> के </token>
+<token id="7"> जसौली </token>
+<token id="8"> के </token>
+<token id="9"> जुडी </token>
+<token id="10"> हाता </token>
+<token id="11"> निवासी </token>
+<token id="12"> शिक्षक </token>
+<token id="13"> सकलदेव </token>
+<token id="14"> ¨ </token>
+<token id="15"> सह </token>
+<token id="16"> के </token>
+<token id="17"> घर </token>
+<token id="18"> से </token>
+<token id="19"> दिनदहाडे </token>
+<token id="20"> 20 </token>
+<token id="21"> हजार </token>
+<token id="22"> रुपये </token>
+<token id="23"> नकद </token>
+<token id="24"> और </token>
+<token id="25"> लाखों </token>
+<token id="26"> के </token>
+<token id="27"> जेवरात </token>
+<token id="28"> की </token>
+<token id="29"> चोरी </token>
+<token id="30"> हो </token>
+<token id="31"> गई </token>
+<token id="32"> . </token>
+<token id="33"> घटना </token>
+<token id="34"> के </token>
+<token id="35"> समय </token>
+<token id="36"> शिक्षक </token>
+<token id="37"> अपने </token>
+<token id="38"> विद्यालय </token>
+<token id="39"> में </token>
+<token id="40"> थे </token>
+<token id="41"> . </token>
+<token id="42"> परिवार </token>
+<token id="43"> के </token>
+<token id="44"> सदस्य </token>
+<token id="45"> भी </token>
+<token id="46"> कहीं </token>
+<token id="47"> शादी </token>
+<token id="48"> समारोह </token>
+<token id="49"> में </token>
+<token id="50"> गए </token>
+<token id="51"> हुए </token>
+<token id="52"> थे </token>
+<token id="53"> . </token>
+<token id="54"> थाना </token>
+<token id="55"> प्रभारी </token>
+<token id="56"> अमित </token>
+<token id="57"> कुमार </token>
+<token id="58"> ¨ </token>
+<token id="59"> सह </token>
+<token id="60"> ने </token>
+<token id="61"> बताया </token>
+<token id="62"> कि </token>
+<token id="63"> अभी </token>
+<token id="64"> उनको </token>
+<token id="65"> सूचना </token>
+<token id="66"> नहीं </token>
+<token id="67"> मिली </token>
+<token id="68"> है </token>
+<token id="69"> . </token>
+<EVENT id="e1" class="OCC" tokens="29,30,31" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="33" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="47,48" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="50,51,52" AnnConf="High"/>
+<EVENT id="e5" class="REP" tokens="61" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="65,66,67,68" AnnConf="High"/>
+<STATE id="s1" class="DECL" tokens="40" AnnConf="Medium"/>
+<SLINK f_id="e6" s_id="e7" AnnConf="High"/>
+<TLINK f_id="e2" s_id="s1" class="overlap" AnnConf="Low"/>
+<TLINK f_id="e2" s_id="e4" class="overlap" AnnConf="High"/>
+</document>

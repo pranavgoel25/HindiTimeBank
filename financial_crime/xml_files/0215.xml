@@ -1,0 +1,122 @@
+<document>
+<token id="1"> ﻿संवाद </token>
+<token id="2"> सहयोगी </token>
+<token id="3"> , </token>
+<token id="4"> जालौन </token>
+<token id="5"> : </token>
+<token id="6"> स्टेट </token>
+<token id="7"> बैंक </token>
+<token id="8"> के </token>
+<token id="9"> खाता </token>
+<token id="10"> धारक </token>
+<token id="11"> के </token>
+<token id="12"> खाते </token>
+<token id="13"> से </token>
+<token id="14"> 40 </token>
+<token id="15"> हजार </token>
+<token id="16"> रुपये </token>
+<token id="17"> निकाल </token>
+<token id="18"> लिए </token>
+<token id="19"> गए </token>
+<token id="20"> . </token>
+<token id="21"> पीडित </token>
+<token id="22"> ने </token>
+<token id="23"> इसकी </token>
+<token id="24"> शिकायत </token>
+<token id="25"> उप </token>
+<token id="26"> जिलाधिकारी </token>
+<token id="27"> के </token>
+<token id="28"> साथ </token>
+<token id="29"> उच्च </token>
+<token id="30"> अधिकारियों </token>
+<token id="31"> से </token>
+<token id="32"> की </token>
+<token id="33"> है </token>
+<token id="34"> . </token>
+<token id="35"> तहसील </token>
+<token id="36"> क्षेत्र </token>
+<token id="37"> के </token>
+<token id="38"> ग्राम </token>
+<token id="39"> खनुवा </token>
+<token id="40"> निवासी </token>
+<token id="41"> भगवानदास </token>
+<token id="42"> तिवारी </token>
+<token id="43"> ने </token>
+<token id="44"> उप </token>
+<token id="45"> जिलाधिकारी </token>
+<token id="46"> को </token>
+<token id="47"> शिकायती </token>
+<token id="48"> पत्र </token>
+<token id="49"> देते </token>
+<token id="50"> हुए </token>
+<token id="51"> बताया </token>
+<token id="52"> कि </token>
+<token id="53"> उसका </token>
+<token id="54"> खाता </token>
+<token id="55"> स्थानीय </token>
+<token id="56"> स्टेट </token>
+<token id="57"> बैंक </token>
+<token id="58"> में </token>
+<token id="59"> है </token>
+<token id="60"> . </token>
+<token id="61"> जिसमें </token>
+<token id="62"> 40 </token>
+<token id="63"> हजार </token>
+<token id="64"> रुपये </token>
+<token id="65"> जमा </token>
+<token id="66"> थे </token>
+<token id="67"> . </token>
+<token id="68"> उसके </token>
+<token id="69"> मोबाइल </token>
+<token id="70"> पर </token>
+<token id="71"> पैसे </token>
+<token id="72"> निकलने </token>
+<token id="73"> का </token>
+<token id="74"> मैसेज </token>
+<token id="75"> आया </token>
+<token id="76"> तो </token>
+<token id="77"> वह </token>
+<token id="78"> बैंक </token>
+<token id="79"> में </token>
+<token id="80"> जानकारी </token>
+<token id="81"> करने </token>
+<token id="82"> पहुंचा </token>
+<token id="83"> लेकिन </token>
+<token id="84"> उसे </token>
+<token id="85"> टरका </token>
+<token id="86"> दिया </token>
+<token id="87"> गया </token>
+<token id="88"> . </token>
+<token id="89"> पीडित </token>
+<token id="90"> ने </token>
+<token id="91"> उप </token>
+<token id="92"> जिलाधिकारी </token>
+<token id="93"> से </token>
+<token id="94"> जांच </token>
+<token id="95"> कर </token>
+<token id="96"> कार्रवाई </token>
+<token id="97"> करने </token>
+<token id="98"> की </token>
+<token id="99"> मांग </token>
+<token id="100"> की </token>
+<token id="101"> है </token>
+<token id="102"> . </token>
+<EVENT id="e1" class="OCC" tokens="17,18,19" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="32,33" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="49,50" annConf="High"/>
+<EVENT id="e4" class="REP" tokens="51" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="65,66" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="71,72" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="74,75" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="80,81,82" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="85,86,87" annConf="High"/>
+<EVENT id="e10" class="IAC" tokens="94,95" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="96,97" annConf="High"/>
+<EVENT id="e12" class="OCC" tokens="99,100,101" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="59" annConf="High"/>
+<SLINK f_id="e4" s_id="s1" AnnConf="High"/>
+<SLINK f_id="e10" s_id="e11" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="overlap" AnnConf="High"/>
+<TLINK f_id="e7" s_id="e8" class="before" AnnConf="High"/>
+<TLINK f_id="e10" s_id="e11" class="before" AnnConf="High"/>
+</document>

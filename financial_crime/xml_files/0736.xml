@@ -1,0 +1,113 @@
+<document>
+<token id="1"> गोड्डा </token>
+<token id="2"> : </token>
+<token id="3"> जिले </token>
+<token id="4"> में </token>
+<token id="5"> 11 </token>
+<token id="6"> अगस्त </token>
+<token id="7"> तक </token>
+<token id="8"> 81 </token>
+<token id="9"> फीसद </token>
+<token id="10"> धनरोपनी </token>
+<token id="11"> का </token>
+<token id="12"> कार्य </token>
+<token id="13"> हुआ </token>
+<token id="14"> है </token>
+<token id="15"> . </token>
+<token id="16"> जबकि </token>
+<token id="17"> अगस्त </token>
+<token id="18"> माह </token>
+<token id="19"> में </token>
+<token id="20"> 67.9 </token>
+<token id="21"> मिमी </token>
+<token id="22"> वर्षा </token>
+<token id="23"> रिकार्ड </token>
+<token id="24"> की </token>
+<token id="25"> गई </token>
+<token id="26"> है </token>
+<token id="27"> . </token>
+<token id="28"> जो </token>
+<token id="29"> सामान्य </token>
+<token id="30"> से </token>
+<token id="31"> कम </token>
+<token id="32"> है </token>
+<token id="33"> इधर </token>
+<token id="34"> शुक्रवार </token>
+<token id="35"> को </token>
+<token id="36"> 20 </token>
+<token id="37"> मिलीमीटर </token>
+<token id="38"> वर्षा </token>
+<token id="39"> रिकार्ड </token>
+<token id="40"> की </token>
+<token id="41"> गई </token>
+<token id="42"> है </token>
+<token id="43"> . </token>
+<token id="44"> विभाग </token>
+<token id="45"> के </token>
+<token id="46"> अनुसार </token>
+<token id="47"> फिलहाल </token>
+<token id="48"> मौसम </token>
+<token id="49"> कृषि </token>
+<token id="50"> कार्य </token>
+<token id="51"> के </token>
+<token id="52"> अनुरूप </token>
+<token id="53"> है </token>
+<token id="54"> अगर </token>
+<token id="55"> बेहतर </token>
+<token id="56"> वर्षा </token>
+<token id="57"> होती </token>
+<token id="58"> है </token>
+<token id="59"> तो </token>
+<token id="60"> 20 </token>
+<token id="61"> अगस्त </token>
+<token id="62"> तक </token>
+<token id="63"> शतप्रतिशत </token>
+<token id="64"> रोपनी </token>
+<token id="65"> कार्य </token>
+<token id="66"> पूरा </token>
+<token id="67"> हो </token>
+<token id="68"> जाएगा </token>
+<token id="69"> . </token>
+<token id="70"> पहले </token>
+<token id="71"> की </token>
+<token id="72"> अपेक्षा </token>
+<token id="73"> हालात </token>
+<token id="74"> में </token>
+<token id="75"> अब </token>
+<token id="76"> काफी </token>
+<token id="77"> सुधार </token>
+<token id="78"> हुआ </token>
+<token id="79"> है </token>
+<token id="80"> . </token>
+<token id="81"> इससे </token>
+<token id="82"> किसान </token>
+<token id="83"> भी </token>
+<token id="84"> उत्साहित </token>
+<token id="85"> हैं </token>
+<token id="86"> . </token>
+<token id="87"> विभाग </token>
+<token id="88"> भी </token>
+<token id="89"> स्थिती </token>
+<token id="90"> पर </token>
+<token id="91"> लगातार </token>
+<token id="92"> नजर </token>
+<token id="93"> रखे </token>
+<token id="94"> हुए </token>
+<token id="95"> है </token>
+<token id="96"> . </token>
+<EVENT id="e1" class="OCC" tokens="12,13,14" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="23,24,25,26" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="39,40,41,42" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="57,58" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="65" annConf="High"/>
+<EVENT id="e5" class="ASP" tokens="66,67,68" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="77,78,79" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="84,85" annConf="High"/>
+<STATE id="s3" class="DECL" tokens="92,93,94,95" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="31,32" annConf="High"/>
+<STATE id="s2" class="DESC" tokens="53" annConf="High"/>
+<TIMEX id="t1" tokens="17,18" annConf="High" class="DURATION"/>
+<TIMEX id="t2" tokens="34" annConf="High" class="DATE"/>
+<ALINK f_id="e5" s_id="e4" class="CONCLUSION"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+</document>

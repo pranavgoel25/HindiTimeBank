@@ -1,0 +1,162 @@
+<document>
+<token id="1"> ﻿आगरा </token>
+<token id="2"> : </token>
+<token id="3"> खंदौली </token>
+<token id="4"> चौराहे </token>
+<token id="5"> पर </token>
+<token id="6"> रविवार </token>
+<token id="7"> को </token>
+<token id="8"> टप्पेबाज </token>
+<token id="9"> सेवानिवृत्त </token>
+<token id="10"> सूबेदार </token>
+<token id="11"> इंद्रभूषण </token>
+<token id="12"> सिंह </token>
+<token id="13"> की </token>
+<token id="14"> कार </token>
+<token id="15"> से </token>
+<token id="16"> सवा </token>
+<token id="17"> लाख </token>
+<token id="18"> रुपये </token>
+<token id="19"> से </token>
+<token id="20"> भरा </token>
+<token id="21"> बैग </token>
+<token id="22"> ले </token>
+<token id="23"> भागे </token>
+<token id="24"> . </token>
+<token id="25"> टेडी </token>
+<token id="26"> बगिया </token>
+<token id="27"> सौ </token>
+<token id="28"> फुटा </token>
+<token id="29"> निवासी </token>
+<token id="30"> सेवानिवृत्त </token>
+<token id="31"> सूबेदार </token>
+<token id="32"> पत्नी </token>
+<token id="33"> गायत्री </token>
+<token id="34"> देवी </token>
+<token id="35"> और </token>
+<token id="36"> नातिन </token>
+<token id="37"> के </token>
+<token id="38"> साथ </token>
+<token id="39"> दिल्ली </token>
+<token id="40"> जा </token>
+<token id="41"> रहे </token>
+<token id="42"> थे </token>
+<token id="43"> . </token>
+<token id="44"> पत्नी </token>
+<token id="45"> के </token>
+<token id="46"> बैग </token>
+<token id="47"> में </token>
+<token id="48"> सवा </token>
+<token id="49"> लाख </token>
+<token id="50"> रुपये </token>
+<token id="51"> रखे </token>
+<token id="52"> थे </token>
+<token id="53"> . </token>
+<token id="54"> एक </token>
+<token id="55"> लाख </token>
+<token id="56"> रुपये </token>
+<token id="57"> की </token>
+<token id="58"> उन्हें </token>
+<token id="59"> नातिन </token>
+<token id="60"> के </token>
+<token id="61"> नाम </token>
+<token id="62"> से </token>
+<token id="63"> एफडी </token>
+<token id="64"> करानी </token>
+<token id="65"> थी </token>
+<token id="66"> . </token>
+<token id="67"> सूबेदार </token>
+<token id="68"> के </token>
+<token id="69"> मुताबिक </token>
+<token id="70"> खंदौली </token>
+<token id="71"> चौराहे </token>
+<token id="72"> पर </token>
+<token id="73"> नातिन </token>
+<token id="74"> के </token>
+<token id="75"> लिए </token>
+<token id="76"> वह </token>
+<token id="77"> चिप्स </token>
+<token id="78"> खरीदने </token>
+<token id="79"> रुके </token>
+<token id="80"> थे </token>
+<token id="81"> . </token>
+<token id="82"> इसी </token>
+<token id="83"> दौरान </token>
+<token id="84"> एक </token>
+<token id="85"> युवक </token>
+<token id="86"> ने </token>
+<token id="87"> उनसे </token>
+<token id="88"> कार </token>
+<token id="89"> के </token>
+<token id="90"> इंजन </token>
+<token id="91"> से </token>
+<token id="92"> ऑयल </token>
+<token id="93"> गिरना </token>
+<token id="94"> बताया </token>
+<token id="95"> . </token>
+<token id="96"> वह </token>
+<token id="97"> खंदौली </token>
+<token id="98"> चौराहे </token>
+<token id="99"> के </token>
+<token id="100"> पास </token>
+<token id="101"> एक </token>
+<token id="102"> कार </token>
+<token id="103"> मैकेनिक </token>
+<token id="104"> पर </token>
+<token id="105"> गाडी </token>
+<token id="106"> लेकर </token>
+<token id="107"> गए </token>
+<token id="108"> . </token>
+<token id="109"> टप्पेबाज </token>
+<token id="110"> भी </token>
+<token id="111"> वहां </token>
+<token id="112"> पहुंचा </token>
+<token id="113"> और </token>
+<token id="114"> कार </token>
+<token id="115"> की </token>
+<token id="116"> सीट </token>
+<token id="117"> पर </token>
+<token id="118"> बैठी </token>
+<token id="119"> उनकी </token>
+<token id="120"> पत्नी </token>
+<token id="121"> को </token>
+<token id="122"> बहाने </token>
+<token id="123"> से </token>
+<token id="124"> नीचे </token>
+<token id="125"> उतारा </token>
+<token id="126"> और </token>
+<token id="127"> सीट </token>
+<token id="128"> पर </token>
+<token id="129"> रखा </token>
+<token id="130"> सवा </token>
+<token id="131"> लाख </token>
+<token id="132"> रुपये </token>
+<token id="133"> से </token>
+<token id="134"> भरा </token>
+<token id="135"> बैग </token>
+<token id="136"> लेकर </token>
+<token id="137"> भाग </token>
+<token id="138"> गया </token>
+<token id="139"> . </token>
+<EVENT id="e1" class="OCC" tokens="22,23" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="40,41,42" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="64,65" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="78" annConf="High"/>
+<EVENT id="e13" class="OCC" tokens="79,80" annConf="High"/>
+<EVENT id="e14" class="OCC" tokens="92,93" annConf="High"/>
+<EVENT id="e5" class="REP" tokens="94" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="105,106,107" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="112" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="124,125" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="136" annConf="High"/>
+<EVENT id="e12" class="OCC" tokens="137,138" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="51,52" annConf="High"/>
+<STATE id="s3" class="DESC" tokens="118" annConf="High"/>
+<STATE id="s2" class="DESC" tokens="129" annConf="High"/>
+<SLINK f_id="e5" s_id="e14" AnnConf="High"/>
+<TLINK f_id="e2" s_id="s1" class="overlap" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e13" class="overlap" AnnConf="Medium"/>
+<TLINK f_id="e11" s_id="e12" class="before" AnnConf="Medium"/>
+<TLINK f_id="e7" s_id="e10" class="before" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="High"/>
+</document>

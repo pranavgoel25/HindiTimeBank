@@ -1,0 +1,75 @@
+<document>
+<token id="1"> नवादा </token>
+<token id="2"> . </token>
+<token id="3"> प्रखंड </token>
+<token id="4"> में </token>
+<token id="5"> संचालित </token>
+<token id="6"> विभिन्न </token>
+<token id="7"> उच्च </token>
+<token id="8"> एवं </token>
+<token id="9"> इंटर </token>
+<token id="10"> विद्यालयों </token>
+<token id="11"> में </token>
+<token id="12"> शैक्षणिक </token>
+<token id="13"> व्यवस्था </token>
+<token id="14"> सु²ढ़ </token>
+<token id="15"> करने </token>
+<token id="16"> के </token>
+<token id="17"> उद्देश्य </token>
+<token id="18"> से </token>
+<token id="19"> आरएस </token>
+<token id="20"> इंटर </token>
+<token id="21"> विद्यालय </token>
+<token id="22"> फतेहपुर </token>
+<token id="23"> , </token>
+<token id="24"> विश्वकर्मा </token>
+<token id="25"> इंटर </token>
+<token id="26"> विद्यालय </token>
+<token id="27"> हुडराही </token>
+<token id="28"> रूनीपुर </token>
+<token id="29"> और </token>
+<token id="30"> इंटर </token>
+<token id="31"> विद्यालय </token>
+<token id="32"> गोपालपुर </token>
+<token id="33"> का </token>
+<token id="34"> चयन </token>
+<token id="35"> किया </token>
+<token id="36"> गया </token>
+<token id="37"> है </token>
+<token id="38"> . </token>
+<token id="39"> इन </token>
+<token id="40"> विद्यालयों </token>
+<token id="41"> में </token>
+<token id="42"> प्रयोगशाला </token>
+<token id="43"> व </token>
+<token id="44"> पुस्तकालय </token>
+<token id="45"> को </token>
+<token id="46"> सु²ढ़ </token>
+<token id="47"> करने </token>
+<token id="48"> के </token>
+<token id="49"> लिए </token>
+<token id="50"> बिहार </token>
+<token id="51"> माध्यमिक </token>
+<token id="52"> शिक्षा </token>
+<token id="53"> बोर्ड </token>
+<token id="54"> द्वारा </token>
+<token id="55"> वार्षिक </token>
+<token id="56"> अनुदान </token>
+<token id="57"> मद </token>
+<token id="58"> से </token>
+<token id="59"> 50 </token>
+<token id="60"> - </token>
+<token id="61"> 50 </token>
+<token id="62"> हजार </token>
+<token id="63"> रुपये </token>
+<token id="64"> उपलब्ध </token>
+<token id="65"> कराए </token>
+<token id="66"> गए </token>
+<token id="67"> हैं </token>
+<token id="68"> . </token>
+<EVENT id="e1" class="OCC" tokens="14,15" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="34,35,36,37" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="46,47" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="64,65,66,67" annConf="High"/>
+<TLINK f_id="e2" s_id="e4" class="before" AnnConf="High"/>
+</document>

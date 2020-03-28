@@ -1,0 +1,113 @@
+<document>
+<token id="1"> कटरामेंदनीगंज </token>
+<token id="2"> , </token>
+<token id="3"> प्रतापगढ़ </token>
+<token id="4"> : </token>
+<token id="5"> प्रतापगढ़ </token>
+<token id="6"> सिटी </token>
+<token id="7"> कस्बे </token>
+<token id="8"> के </token>
+<token id="9"> मलियाना </token>
+<token id="10"> टोला </token>
+<token id="11"> निवासी </token>
+<token id="12"> अब्बास </token>
+<token id="13"> अली </token>
+<token id="14"> पुत्र </token>
+<token id="15"> शमशाद </token>
+<token id="16"> अली </token>
+<token id="17"> इंदिरा </token>
+<token id="18"> आवास </token>
+<token id="19"> मिला </token>
+<token id="20"> है </token>
+<token id="21"> . </token>
+<token id="22"> घर </token>
+<token id="23"> में </token>
+<token id="24"> लगी </token>
+<token id="25"> लोहे </token>
+<token id="26"> की </token>
+<token id="27"> खिडकी </token>
+<token id="28"> में </token>
+<token id="29"> में </token>
+<token id="30"> सिर्फ </token>
+<token id="31"> सरिया </token>
+<token id="32"> लगी </token>
+<token id="33"> है </token>
+<token id="34"> . </token>
+<token id="35"> शुक्रवार </token>
+<token id="36"> की </token>
+<token id="37"> रात </token>
+<token id="38"> चोर </token>
+<token id="39"> ने </token>
+<token id="40"> खिडकी </token>
+<token id="41"> में </token>
+<token id="42"> हाथ </token>
+<token id="43"> डालकर </token>
+<token id="44"> दरवाजे </token>
+<token id="45"> की </token>
+<token id="46"> कुंडी </token>
+<token id="47"> खोल </token>
+<token id="48"> लिया </token>
+<token id="49"> और </token>
+<token id="50"> घर </token>
+<token id="51"> में </token>
+<token id="52"> रखा </token>
+<token id="53"> जेवर </token>
+<token id="54"> , </token>
+<token id="55"> 15 </token>
+<token id="56"> हजार </token>
+<token id="57"> रुपये </token>
+<token id="58"> , </token>
+<token id="59"> एक </token>
+<token id="60"> मोबाइल </token>
+<token id="61"> चुरा </token>
+<token id="62"> ले </token>
+<token id="63"> गए </token>
+<token id="64"> . </token>
+<token id="65"> रात </token>
+<token id="66"> लगभग </token>
+<token id="67"> तीन </token>
+<token id="68"> बजे </token>
+<token id="69"> अब्बास </token>
+<token id="70"> की </token>
+<token id="71"> नींद </token>
+<token id="72"> खुली </token>
+<token id="73"> तो </token>
+<token id="74"> आलमारी </token>
+<token id="75"> खुली </token>
+<token id="76"> देख </token>
+<token id="77"> वह </token>
+<token id="78"> सन्न </token>
+<token id="79"> रह </token>
+<token id="80"> गया </token>
+<token id="81"> . </token>
+<token id="82"> सुबह </token>
+<token id="83"> पुलिस </token>
+<token id="84"> चौकी </token>
+<token id="85"> पहुंचकर </token>
+<token id="86"> अब्बास </token>
+<token id="87"> ने </token>
+<token id="88"> लिखित </token>
+<token id="89"> सूचना </token>
+<token id="90"> दी </token>
+<token id="91"> . </token>
+<EVENT id="e1" class="OCC" tokens="19,20" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="42,43" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="47,48" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="61,62,63" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="71,72" annConf="High"/>
+<EVENT id="e7" class="PER" tokens="76" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="78,79,80" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="85" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="89,90" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="24" annConf="High"/>
+<STATE id="s2" class="DECL" tokens="31,32,33" annConf="High"/>
+<TIMEX id="t1" tokens="35" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="37" annConf="High" class="TIME"/>
+<TIMEX id="t3" tokens="65" annConf="High" class="TIME"/>
+<TIMEX id="t4" tokens="66,67,68" annConf="High" class="TIME"/>
+<TLINK f_id="e3" s_id="e4" class="before" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="Medium"/>
+<TLINK f_id="e7" s_id="e8" class="before" AnnConf="Medium"/>
+<TLINK f_id="e9" s_id="e10" class="before" AnnConf="Medium"/>
+</document>

@@ -1,0 +1,78 @@
+<document>
+<token id="1"> अमृतसर </token>
+<token id="2"> : </token>
+<token id="3"> जंडियाला </token>
+<token id="4"> गुरु </token>
+<token id="5"> इलाके </token>
+<token id="6"> में </token>
+<token id="7"> बाइक </token>
+<token id="8"> चोर </token>
+<token id="9"> गिरोह </token>
+<token id="10"> के </token>
+<token id="11"> सदस्यों </token>
+<token id="12"> ने </token>
+<token id="13"> कुछ </token>
+<token id="14"> दिन </token>
+<token id="15"> पहले </token>
+<token id="16"> गुनोवान </token>
+<token id="17"> निवासी </token>
+<token id="18"> सुख </token>
+<token id="19"> ¨ </token>
+<token id="20"> जदर </token>
+<token id="21"> ¨ </token>
+<token id="22"> सह </token>
+<token id="23"> की </token>
+<token id="24"> बाइक </token>
+<token id="25"> चोरी </token>
+<token id="26"> कर </token>
+<token id="27"> ली </token>
+<token id="28"> . </token>
+
+<token id="29"> सुख </token>
+<token id="30"> ¨ </token>
+<token id="31"> जदर </token>
+<token id="32"> ¨ </token>
+<token id="33"> सह </token>
+<token id="34"> अपनी </token>
+<token id="35"> बाइक </token>
+<token id="36"> पार्क </token>
+<token id="37"> कर </token>
+<token id="38"> किसी </token>
+<token id="39"> से </token>
+<token id="40"> मिलने </token>
+<token id="41"> गए </token>
+<token id="42"> थे </token>
+<token id="43"> . </token>
+
+<token id="44"> जब </token>
+<token id="45"> वह </token>
+<token id="46"> काम </token>
+<token id="47"> समाप्त </token>
+<token id="48"> कर </token>
+<token id="49"> लौटे </token>
+<token id="50"> तो </token>
+<token id="51"> बाइक </token>
+<token id="52"> अज्ञात </token>
+<token id="53"> चोर </token>
+<token id="54"> लेकर </token>
+<token id="55"> फरार </token>
+<token id="56"> हो </token>
+<token id="57"> चुके </token>
+<token id="58"> थे </token>
+<token id="59"> . </token>
+<EVENT id="e1" class="OCC" tokens="25,26,27" AnnConf="High"/>
+<EVENT id="e2" class="IAC" tokens="36,37" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="40,41,42" AnnConf="High"/>
+<EVENT id="e4" class="ASP" tokens="47,48" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="49" AnnConf="High"/>
+<EVENT id="e6" class="IAC" tokens="54" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="55,56,57,58" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="46" AnnConf="High"/>
+<TIMEX id="t1" class="DUR" tokens="13,14,15" AnnConf="High"/>
+<ALINK f_id="e4" s_id="e8" type="CULMINATION" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="Low"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="Medium"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="Low"/>
+<SLINK f_id="e5" s_id="e6" AnnConf="High"/>
+<SLINK f_id="e7" s_id="e8" AnnConf="Medium"/>
+</document>

@@ -1,0 +1,116 @@
+<document>
+<token id="1"> ﻿रोहतास </token>
+<token id="2"> . </token>
+<token id="3"> स्थानीय </token>
+<token id="4"> एससी-एसटी </token>
+<token id="5"> थाना </token>
+<token id="6"> में </token>
+<token id="7"> अगरेर </token>
+<token id="8"> थाना </token>
+<token id="9"> क्षेत्र </token>
+<token id="10"> के </token>
+<token id="11"> तुर्की </token>
+<token id="12"> बाजार </token>
+<token id="13"> निवासी </token>
+<token id="14"> व्यवसायी </token>
+<token id="15"> टीपू </token>
+<token id="16"> कुमार </token>
+<token id="17"> बैठा </token>
+<token id="18"> को </token>
+<token id="19"> पिटाई </token>
+<token id="20"> कर </token>
+<token id="21"> 19 </token>
+<token id="22"> हजार </token>
+<token id="23"> रुपये </token>
+<token id="24"> छीनने </token>
+<token id="25"> की </token>
+<token id="26"> प्राथमिकी </token>
+<token id="27"> एससी </token>
+<token id="28"> एसटी </token>
+<token id="29"> थाने </token>
+<token id="30"> में </token>
+<token id="31"> दर्ज </token>
+<token id="32"> कराई </token>
+<token id="33"> गई </token>
+<token id="34"> है </token>
+<token id="35"> . </token>
+<token id="36"> थानाध्यक्ष </token>
+<token id="37"> के </token>
+<token id="38"> अनुसार </token>
+<token id="39"> दिलीप </token>
+<token id="40"> तुर्की </token>
+<token id="41"> बाजार </token>
+<token id="42"> में </token>
+<token id="43"> मुर्गा </token>
+<token id="44"> बेचने </token>
+<token id="45"> का </token>
+<token id="46"> कारोबार </token>
+<token id="47"> करता </token>
+<token id="48"> है </token>
+<token id="49"> . </token>
+<token id="50"> रुपये </token>
+<token id="51"> की </token>
+<token id="52"> लेनदेन </token>
+<token id="53"> को </token>
+<token id="54"> ले </token>
+<token id="55"> बरडीहा </token>
+<token id="56"> गांव </token>
+<token id="57"> के </token>
+<token id="58"> अज्जू </token>
+<token id="59"> खान </token>
+<token id="60"> , </token>
+<token id="61"> साजिद </token>
+<token id="62"> खान </token>
+<token id="63"> , </token>
+<token id="64"> सोनू </token>
+<token id="65"> खान </token>
+<token id="66"> , </token>
+<token id="67"> आरिफ </token>
+<token id="68"> खान </token>
+<token id="69"> समेत </token>
+<token id="70"> अन्य </token>
+<token id="71"> ने </token>
+<token id="72"> उसकी </token>
+<token id="73"> पिटाई </token>
+<token id="74"> कर </token>
+<token id="75"> दी </token>
+<token id="76"> . </token>
+<token id="77"> पॉकेट </token>
+<token id="78"> में </token>
+<token id="79"> रखे </token>
+<token id="80"> 19 </token>
+<token id="81"> हजार </token>
+<token id="82"> लेकर </token>
+<token id="83"> चलते </token>
+<token id="84"> बने </token>
+<token id="85"> . </token>
+<token id="86"> इस </token>
+<token id="87"> संबंध </token>
+<token id="88"> में </token>
+<token id="89"> प्राथमिकी </token>
+<token id="90"> दर्ज </token>
+<token id="91"> कर </token>
+<token id="92"> जांच </token>
+<token id="93"> शुरू </token>
+<token id="94"> कर </token>
+<token id="95"> दी </token>
+<token id="96"> गई </token>
+<token id="97"> है </token>
+<token id="98"> . </token>
+<EVENT id="e1" class="IAC" tokens="19,20" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="24" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="31,32,33,34" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="44" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="46,47,48" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="73,74,75" annConf="High"/>
+<EVENT id="e7" class="IAC" tokens="82" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="83,84" annConf="High"/>
+<EVENT id="e9" class="IAC" tokens="90,91" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="92" annConf="High"/>
+<EVENT id="e11" class="ASP" tokens="93,94,95,96,97" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="79" annConf="High"/>
+<ALINK f_id="e10" s_id="e9" class="INITIATION"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e7 " s_id="e8" class="before" AnnConf="High"/>
+<TLINK f_id="e9" s_id="e10" class="before" AnnConf="Medium"/>
+</document>

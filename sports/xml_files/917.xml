@@ -1,0 +1,151 @@
+<document>
+<token id="1"> ब्रिटिश </token>
+<token id="2"> टेनिश </token>
+<token id="3"> खिलाड़ी </token>
+<token id="4"> एंडी </token>
+<token id="5"> मर्रे </token>
+<token id="6"> को </token>
+<token id="7"> विश्व </token>
+<token id="8"> रैंकिंग </token>
+<token id="9"> में </token>
+<token id="10"> 12 </token>
+<token id="11"> वें </token>
+<token id="12"> पायदान </token>
+<token id="13"> पर </token>
+<token id="14"> काबिज </token>
+<token id="15"> इटली </token>
+<token id="16"> के </token>
+<token id="17"> फैबियो </token>
+<token id="18"> फोगनिनी </token>
+<token id="19"> से </token>
+<token id="20"> शंघाई </token>
+<token id="21"> मास्टर्स </token>
+<token id="22"> के </token>
+<token id="23"> तीसरे </token>
+<token id="24"> दौर </token>
+<token id="25"> के </token>
+<token id="26"> कड़े </token>
+<token id="27"> मुकाबले </token>
+<token id="28"> में </token>
+<token id="29"> मंगलवार </token>
+<token id="30"> को </token>
+<token id="31"> यहां </token>
+<token id="32"> शिकस्त </token>
+<token id="33"> झेलनी </token>
+<token id="34"> पड़ी </token>
+<token id="35"> . </token>
+<token id="36"> तीन </token>
+<token id="37"> घंटे </token>
+<token id="38"> से </token>
+<token id="39"> ज्यादा </token>
+<token id="40"> देर </token>
+<token id="41"> तक </token>
+<token id="42"> चले </token>
+<token id="43"> मुकाबले </token>
+<token id="44"> को </token>
+<token id="45"> फोगनिनी </token>
+<token id="46"> ने </token>
+<token id="47"> 7 </token>
+<token id="48"> - </token>
+<token id="49"> 6 </token>
+<token id="50"> , </token>
+<token id="51"> 2 </token>
+<token id="52"> - </token>
+<token id="53"> 6 </token>
+<token id="54"> , </token>
+<token id="55"> 7 </token>
+<token id="56"> - </token>
+<token id="57"> 6 </token>
+<token id="58"> से </token>
+<token id="59"> अपने </token>
+<token id="60"> नाम </token>
+<token id="61"> किया </token>
+<token id="62"> . </token>
+<token id="63"> मैच </token>
+<token id="64"> में </token>
+<token id="65"> कड़ी </token>
+<token id="66"> प्रतिस्पर्धा </token>
+<token id="67"> के </token>
+<token id="68"> बीच </token>
+<token id="69"> दोनों </token>
+<token id="70"> खिलाड़ियों </token>
+<token id="71"> के </token>
+<token id="72"> बीच </token>
+<token id="73"> कई </token>
+<token id="74"> बार </token>
+<token id="75"> तीखी </token>
+<token id="76"> बहस </token>
+<token id="77"> भी </token>
+<token id="78"> हुई </token>
+<token id="79"> . </token>
+<token id="80"> ब्रिटिश </token>
+<token id="81"> खिलाड़ी </token>
+<token id="82"> मर्रे </token>
+<token id="83"> ने </token>
+<token id="84"> एक </token>
+<token id="85"> साल </token>
+<token id="86"> पहले </token>
+<token id="87"> अपने </token>
+<token id="88"> कूल्हे </token>
+<token id="89"> का </token>
+<token id="90"> आपरेशन </token>
+<token id="91"> करवाया </token>
+<token id="92"> था </token>
+<token id="93"> और </token>
+<token id="94"> अब </token>
+<token id="95"> वह </token>
+<token id="96"> फिटनेस </token>
+<token id="97"> और </token>
+<token id="98"> फार्म </token>
+<token id="99"> हासिल </token>
+<token id="100"> करने </token>
+<token id="101"> में </token>
+<token id="102"> लगे </token>
+<token id="103"> हुए </token>
+<token id="104"> हैं </token>
+<token id="105"> . </token>
+<token id="106"> तीन </token>
+<token id="107"> बार </token>
+<token id="108"> का </token>
+<token id="109"> ग्रैंडस्लैम </token>
+<token id="110"> विजेता </token>
+<token id="111"> अभी </token>
+<token id="112"> विश्व </token>
+<token id="113"> रैंकिंग </token>
+<token id="114"> में </token>
+<token id="115"> 289 </token>
+<token id="116"> वें </token>
+<token id="117"> नंबर </token>
+<token id="118"> पर </token>
+<token id="119"> है </token>
+<token id="120"> जबकि </token>
+<token id="121"> एक </token>
+<token id="122"> सप्ताह </token>
+<token id="123"> पहले </token>
+<token id="124"> तक </token>
+<token id="125"> वह </token>
+<token id="126"> 503 </token>
+<token id="127"> वें </token>
+<token id="128"> स्थान </token>
+<token id="129"> पर </token>
+<token id="130"> थे </token>
+<token id="131"> . </token>
+<EVENT id="e6" class="OCC" tokens="20,21" AnnConf="High"/>
+<EVENT id="e1" class="OCC" tokens="32,33,34" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="43" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="59,60,61" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="63" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="76,78" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="90,91,92" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="98,99,100" AnnConf="High"/>
+<EVENT id="e9" class="OCC" tokens="102,103,104" AnnConf="High"/>
+<STATE id="s2" class="DESC" tokens="119" AnnConf="High"/>
+<STATE id="s3" class="DECL" tokens="130" AnnConf="High"/>
+<STATE id="s4" class="DESC" tokens="42" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="29" AnnConf="High"/>
+<TIMEX id="t2" class="TIME" tokens="36,37" AnnConf="High"/>
+<TIMEX id="t3" class="DATE" tokens="84,85" AnnConf="High"/>
+<TIMEX id="t4" class="DUR" tokens="121,122" AnnConf="High"/>
+<TLINK f_id="e7" s_id="e8" class="overlap" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e9" class="before" AnnConf="High"/>
+</document>

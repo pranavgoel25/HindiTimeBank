@@ -1,0 +1,128 @@
+<document>
+<token id="1"> वैशाली </token>
+<token id="2"> . </token>
+<token id="3"> महुआ </token>
+<token id="4"> थाना </token>
+<token id="5"> क्षेत्र </token>
+<token id="6"> के </token>
+<token id="7"> निलकंठपुर </token>
+<token id="8"> गांव </token>
+<token id="9"> में </token>
+<token id="10"> शनिवार </token>
+<token id="11"> की </token>
+<token id="12"> देर </token>
+<token id="13"> रात </token>
+<token id="14"> चोरों </token>
+<token id="15"> ने </token>
+<token id="16"> एक </token>
+<token id="17"> घर </token>
+<token id="18"> से </token>
+<token id="19"> दो </token>
+<token id="20"> लाख </token>
+<token id="21"> रुपये </token>
+<token id="22"> से </token>
+<token id="23"> ज्यादा </token>
+<token id="24"> के </token>
+<token id="25"> आभूषण </token>
+<token id="26"> समेत </token>
+<token id="27"> अन्य </token>
+<token id="28"> सामानों </token>
+<token id="29"> की </token>
+<token id="30"> चोरी </token>
+<token id="31"> कर </token>
+<token id="32"> ली </token>
+<token id="33"> . </token>
+<token id="34"> चोरी </token>
+<token id="35"> की </token>
+<token id="36"> घटना </token>
+<token id="37"> की </token>
+<token id="38"> सूचना </token>
+<token id="39"> पुलिस </token>
+<token id="40"> को </token>
+<token id="41"> दी </token>
+<token id="42"> गई </token>
+<token id="43"> है </token>
+<token id="44"> . </token>
+<token id="45"> पुलिस </token>
+<token id="46"> मामले </token>
+<token id="47"> की </token>
+<token id="48"> जांच </token>
+<token id="49"> कर </token>
+<token id="50"> रही </token>
+<token id="51"> है </token>
+<token id="52"> . </token>
+<token id="53"> मिली </token>
+<token id="54"> जानकारी </token>
+<token id="55"> के </token>
+<token id="56"> अनुसार </token>
+<token id="57"> डगरू </token>
+<token id="58"> पंचायत </token>
+<token id="59"> के </token>
+<token id="60"> निलकंठपुर </token>
+<token id="61"> गांव </token>
+<token id="62"> निवासी </token>
+<token id="63"> जुगेश्वर </token>
+<token id="64"> ¨ </token>
+<token id="65"> सह </token>
+<token id="66"> के </token>
+<token id="67"> घर </token>
+<token id="68"> में </token>
+<token id="69"> शनिवार </token>
+<token id="70"> की </token>
+<token id="71"> देर </token>
+<token id="72"> रात </token>
+<token id="73"> चोर </token>
+<token id="74"> घर </token>
+<token id="75"> से </token>
+<token id="76"> सटे </token>
+<token id="77"> पेड </token>
+<token id="78"> के </token>
+<token id="79"> सहारे </token>
+<token id="80"> उस </token>
+<token id="81"> वक्त </token>
+<token id="82"> घुस </token>
+<token id="83"> गए </token>
+<token id="84"> जब </token>
+<token id="85"> घर </token>
+<token id="86"> के </token>
+<token id="87"> सभी </token>
+<token id="88"> लोग </token>
+<token id="89"> सोये </token>
+<token id="90"> हुए </token>
+<token id="91"> थे </token>
+<token id="92"> . </token>
+<token id="93"> चोरों </token>
+<token id="94"> ने </token>
+<token id="95"> बक्सा </token>
+<token id="96"> का </token>
+<token id="97"> लॉक </token>
+<token id="98"> तोड </token>
+<token id="99"> कर </token>
+<token id="100"> लगभग </token>
+<token id="101"> दो </token>
+<token id="102"> लाख </token>
+<token id="103"> रुपये </token>
+<token id="104"> के </token>
+<token id="105"> आभूषण </token>
+<token id="106"> व </token>
+<token id="107"> अन्य </token>
+<token id="108"> कीमती </token>
+<token id="109"> सामानों </token>
+<token id="110"> की </token>
+<token id="111"> चोरी </token>
+<token id="112"> कर </token>
+<token id="113"> ली </token>
+<token id="114"> . </token>
+<EVENT id="e1" class="OCC" tokens="30,31,32" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="36" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="38,41,42,43" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="48,49,50,51" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="82,83" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="88,89,90,91" annConf="High"/>
+<EVENT id="e7" class="IAC" tokens="98,99" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="111,112,113" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="53" annConf="High"/>
+<TIMEX id="t1" tokens="10" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="69" annConf="High" class="DATE"/>
+<TLINK f_id="e7" s_id="e8" class="before" AnnConf="High"/>
+</document>

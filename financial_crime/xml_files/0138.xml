@@ -1,0 +1,124 @@
+<document>
+<token id="1"> ﻿पटना </token>
+<token id="2"> . </token>
+<token id="3"> पूर्व </token>
+<token id="4"> मध्य </token>
+<token id="5"> रेल </token>
+<token id="6"> स्टेशनों </token>
+<token id="7"> पर </token>
+<token id="8"> साफ-सफाई </token>
+<token id="9"> को </token>
+<token id="10"> बेहतर </token>
+<token id="11"> बनाने </token>
+<token id="12"> के </token>
+<token id="13"> लिए </token>
+<token id="14"> कई </token>
+<token id="15"> उपाय </token>
+<token id="16"> कर </token>
+<token id="17"> रहा </token>
+<token id="18"> है </token>
+<token id="19"> . </token>
+<token id="20"> इसी </token>
+<token id="21"> कडी </token>
+<token id="22"> में </token>
+<token id="23"> स्टेशनों </token>
+<token id="24"> पर </token>
+<token id="25"> उद्घोषणा </token>
+<token id="26"> पोस्टर </token>
+<token id="27"> एवं </token>
+<token id="28"> नुक्कड </token>
+<token id="29"> नाटकों </token>
+<token id="30"> के </token>
+<token id="31"> माध्यम </token>
+<token id="32"> से </token>
+<token id="33"> यात्रियों </token>
+<token id="34"> को </token>
+<token id="35"> साफ-सफाई </token>
+<token id="36"> के </token>
+<token id="37"> प्रति </token>
+<token id="38"> जागरूक </token>
+<token id="39"> किया </token>
+<token id="40"> जा </token>
+<token id="41"> रहा </token>
+<token id="42"> है </token>
+<token id="43"> . </token>
+<token id="44"> गंदगी </token>
+<token id="45"> फैलाने </token>
+<token id="46"> वालों </token>
+<token id="47"> पर </token>
+<token id="48"> जुर्माना </token>
+<token id="49"> किया </token>
+<token id="50"> जा </token>
+<token id="51"> रहा </token>
+<token id="52"> है </token>
+<token id="53"> . </token>
+<token id="54"> चालू </token>
+<token id="55"> वित्तीय </token>
+<token id="56"> वर्ष </token>
+<token id="57"> में </token>
+<token id="58"> 6891 </token>
+<token id="59"> यात्री </token>
+<token id="60"> गंदगी </token>
+<token id="61"> फैलाते </token>
+<token id="62"> हुए </token>
+<token id="63"> पकडे </token>
+<token id="64"> गए </token>
+<token id="65"> तथा </token>
+<token id="66"> उनसे </token>
+<token id="67"> जुर्माने </token>
+<token id="68"> के </token>
+<token id="69"> रूप </token>
+<token id="70"> में </token>
+<token id="71"> 12.59 </token>
+<token id="72"> लाख </token>
+<token id="73"> रुपये </token>
+<token id="74"> वसूल </token>
+<token id="75"> किए </token>
+<token id="76"> गए </token>
+<token id="77"> . </token>
+<token id="78"> जबकि </token>
+<token id="79"> केवल </token>
+<token id="80"> अक्टूबर </token>
+<token id="81"> माह </token>
+<token id="82"> में </token>
+<token id="83"> 677 </token>
+<token id="84"> यात्री </token>
+<token id="85"> ट्रेनों </token>
+<token id="86"> एवं </token>
+<token id="87"> स्टेशन </token>
+<token id="88"> परिसर </token>
+<token id="89"> में </token>
+<token id="90"> गंदगी </token>
+<token id="91"> फैलाते </token>
+<token id="92"> हुए </token>
+<token id="93"> पकडे </token>
+<token id="94"> गए </token>
+<token id="95"> . </token>
+<token id="96"> जुर्माने </token>
+<token id="97"> के </token>
+<token id="98"> रूप </token>
+<token id="99"> में </token>
+<token id="100"> उनसे </token>
+<token id="101"> 1.13 </token>
+<token id="102"> लाख </token>
+<token id="103"> रुपये </token>
+<token id="104"> वसूल </token>
+<token id="105"> किए </token>
+<token id="106"> गए </token>
+<token id="107"> . </token>
+<EVENT id="e1" class="OCC" tokens="11" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="15,16,17,18" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="38,39,40,41,42" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="48,49,50,51,52" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="60,61,62" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="63,64" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="74,75,76" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="90,91,92" AnnConf="High"/>
+<EVENT id="e9" class="OCC" tokens="93,94" AnnConf="High"/>
+<EVENT id="e10" class="OCC" tokens="104,105,106" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="overlap" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e6" class="overlap" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e9" class="overlap" AnnConf="High"/>
+<TLINK f_id="e9" s_id="e10" class="before" AnnConf="High"/>
+</document>

@@ -1,0 +1,138 @@
+<document>
+<token id="1"> ﻿मोरना </token>
+<token id="2"> : </token>
+<token id="3"> ककरौली </token>
+<token id="4"> क्षेत्र </token>
+<token id="5"> के </token>
+<token id="6"> जडवड </token>
+<token id="7"> कटिया </token>
+<token id="8"> गांव </token>
+<token id="9"> के </token>
+<token id="10"> जंगल </token>
+<token id="11"> में </token>
+<token id="12"> हाइटेंशन </token>
+<token id="13"> विद्युत </token>
+<token id="14"> लाइन </token>
+<token id="15"> का </token>
+<token id="16"> तार </token>
+<token id="17"> टूटने </token>
+<token id="18"> से </token>
+<token id="19"> किसान </token>
+<token id="20"> ज्ञानवीर </token>
+<token id="21"> के </token>
+<token id="22"> गन्ने </token>
+<token id="23"> के </token>
+<token id="24"> खेत </token>
+<token id="25"> में </token>
+<token id="26"> आग </token>
+<token id="27"> लग </token>
+<token id="28"> गई </token>
+<token id="29"> . </token>
+<token id="30"> आग </token>
+<token id="31"> फैलने </token>
+<token id="32"> से </token>
+<token id="33"> महेंद्र </token>
+<token id="34"> व </token>
+<token id="35"> ब्रह्मपाल </token>
+<token id="36"> की </token>
+<token id="37"> फसल </token>
+<token id="38"> चपेट </token>
+<token id="39"> में </token>
+<token id="40"> आ </token>
+<token id="41"> गई </token>
+<token id="42"> . </token>
+<token id="43"> सूचना </token>
+<token id="44"> पर </token>
+<token id="45"> गांव </token>
+<token id="46"> से </token>
+<token id="47"> सैकडों </token>
+<token id="48"> लोग </token>
+<token id="49"> पहुंचे </token>
+<token id="50"> और </token>
+<token id="51"> फसल </token>
+<token id="52"> पर </token>
+<token id="53"> ट्रैक्टर </token>
+<token id="54"> चलाकर </token>
+<token id="55"> आग </token>
+<token id="56"> पर </token>
+<token id="57"> काबू </token>
+<token id="58"> पाया </token>
+<token id="59"> , </token>
+<token id="60"> लेकिन </token>
+<token id="61"> तब </token>
+<token id="62"> तक </token>
+<token id="63"> 10 </token>
+<token id="64"> बीघा </token>
+<token id="65"> गन्ना </token>
+<token id="66"> जल </token>
+<token id="67"> गया </token>
+<token id="68"> . </token>
+<token id="69"> जिला </token>
+<token id="70"> पंचायत </token>
+<token id="71"> सदस्य </token>
+<token id="72"> नजर </token>
+<token id="73"> ¨ </token>
+<token id="74"> सह </token>
+<token id="75"> , </token>
+<token id="76"> प्रधान </token>
+<token id="77"> मेहर </token>
+<token id="78"> चंद </token>
+<token id="79"> , </token>
+<token id="80"> भाजपा </token>
+<token id="81"> मंडल </token>
+<token id="82"> अध्यक्ष </token>
+<token id="83"> डा </token>
+<token id="84"> . </token>
+<token id="85"> दिनेश </token>
+<token id="86"> धीमान </token>
+<token id="87"> , </token>
+<token id="88"> सुदेश </token>
+<token id="89"> पाल </token>
+<token id="90"> , </token>
+<token id="91"> सुंदर </token>
+<token id="92"> , </token>
+<token id="93"> राहुल </token>
+<token id="94"> , </token>
+<token id="95"> धर्मेद्र </token>
+<token id="96"> , </token>
+<token id="97"> महेंद्र </token>
+<token id="98"> , </token>
+<token id="99"> बालिस्टर </token>
+<token id="100"> व </token>
+<token id="101"> हरेंद्र </token>
+<token id="102"> आदि </token>
+<token id="103"> ने </token>
+<token id="104"> एसडीएम </token>
+<token id="105"> जानसठ </token>
+<token id="106"> श्याम </token>
+<token id="107"> अवध </token>
+<token id="108"> चौहान </token>
+<token id="109"> से </token>
+<token id="110"> पीडित </token>
+<token id="111"> किसानों </token>
+<token id="112"> को </token>
+<token id="113"> फसल </token>
+<token id="114"> का </token>
+<token id="115"> मुआवजा </token>
+<token id="116"> दिलाने </token>
+<token id="117"> की </token>
+<token id="118"> मांग </token>
+<token id="119"> की </token>
+<token id="120"> है </token>
+<token id="121"> . </token>
+<EVENT id="e10" class="OCC" tokens="17" annConf="High"/>
+<EVENT id="e1" class="OCC" tokens="26,27,28" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="30,31" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="38,39,40,41" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="49" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="54" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="57,58" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="66,67" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="115,116" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="118,119,120" annConf="High"/>
+<TLINK f_id="e10" s_id="e1" class="before" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e3" class="before" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e7" s_id="e9" class="before" AnnConf="High"/>
+</document>

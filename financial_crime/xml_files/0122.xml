@@ -1,0 +1,123 @@
+<document>
+<token id="1"> ﻿आजमगढ़ </token>
+<token id="2"> : </token>
+<token id="3"> बरदह </token>
+<token id="4"> थाने </token>
+<token id="5"> की </token>
+<token id="6"> पुलिस </token>
+<token id="7"> ने </token>
+<token id="8"> बैग </token>
+<token id="9"> से </token>
+<token id="10"> 25 </token>
+<token id="11"> हजार </token>
+<token id="12"> रुपये </token>
+<token id="13"> चोरी </token>
+<token id="14"> होने </token>
+<token id="15"> के </token>
+<token id="16"> मामले </token>
+<token id="17"> में </token>
+<token id="18"> पीडित </token>
+<token id="19"> पक्ष </token>
+<token id="20"> की </token>
+<token id="21"> तहरीर </token>
+<token id="22"> पर </token>
+<token id="23"> तीन </token>
+<token id="24"> अज्ञात </token>
+<token id="25"> के </token>
+<token id="26"> खिलाफ </token>
+<token id="27"> रिपोर्ट </token>
+<token id="28"> दर्ज </token>
+<token id="29"> की </token>
+<token id="30"> है </token>
+<token id="31"> . </token>
+<token id="32"> क्षेत्र </token>
+<token id="33"> के </token>
+<token id="34"> बरबसपुर </token>
+<token id="35"> ग्राम </token>
+<token id="36"> निवासी </token>
+<token id="37"> राजमुनी </token>
+<token id="38"> का </token>
+<token id="39"> आरोप </token>
+<token id="40"> है </token>
+<token id="41"> कि </token>
+<token id="42"> गत </token>
+<token id="43"> गुरुवार </token>
+<token id="44"> को </token>
+<token id="45"> बैग </token>
+<token id="46"> में </token>
+<token id="47"> 25 </token>
+<token id="48"> हजार </token>
+<token id="49"> रुपये </token>
+<token id="50"> लेकर </token>
+<token id="51"> ठेकमा </token>
+<token id="52"> बाजार </token>
+<token id="53"> गए </token>
+<token id="54"> थे </token>
+<token id="55"> . </token>
+<token id="56"> तभी </token>
+<token id="57"> मौका </token>
+<token id="58"> देख </token>
+<token id="59"> तीन </token>
+<token id="60"> अज्ञात </token>
+<token id="61"> व्यक्तियों </token>
+<token id="62"> ने </token>
+<token id="63"> उनके </token>
+<token id="64"> बैग </token>
+<token id="65"> में </token>
+<token id="66"> रखे </token>
+<token id="67"> 25 </token>
+<token id="68"> हजार </token>
+<token id="69"> रुपये </token>
+<token id="70"> निकाल </token>
+<token id="71"> लिए </token>
+<token id="72"> . </token>
+<token id="73"> पीडित </token>
+<token id="74"> ने </token>
+<token id="75"> जब </token>
+<token id="76"> बैग </token>
+<token id="77"> खोला </token>
+<token id="78"> तो </token>
+<token id="79"> बैग </token>
+<token id="80"> में </token>
+<token id="81"> रखे </token>
+<token id="82"> सारे </token>
+<token id="83"> रुपये </token>
+<token id="84"> गायब </token>
+<token id="85"> हो </token>
+<token id="86"> गए </token>
+<token id="87"> . </token>
+<token id="88"> पीडित </token>
+<token id="89"> ने </token>
+<token id="90"> इस </token>
+<token id="91"> संबंध </token>
+<token id="92"> में </token>
+<token id="93"> बरदह </token>
+<token id="94"> थाने </token>
+<token id="95"> में </token>
+<token id="96"> तीन </token>
+<token id="97"> अज्ञात </token>
+<token id="98"> लोगों </token>
+<token id="99"> के </token>
+<token id="100"> खिलाफ </token>
+<token id="101"> रिपोर्ट </token>
+<token id="102"> दर्ज </token>
+<token id="103"> कराई </token>
+<token id="104"> है </token>
+<token id="105"> . </token>
+<EVENT id="e1" class="OCC" tokens="13,14" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="28,29,30" AnnConf="High"/>
+<EVENT id="e3" class="IAC" tokens="50" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="52,53,54" AnnConf="High"/>
+<EVENT id="e5" class="PER" tokens="58" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="70,71" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="77" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="84,85,86" AnnConf="High"/>
+<EVENT id="e9" class="OCC" tokens="102,103,104" AnnConf="High"/>
+<STATE id="s1" class="DESC" tokens="39,40" AnnConf="High"/>
+<STATE id="s2" class="DESC" tokens="66" AnnConf="High"/>
+<SLINK f_id="e3" s_id="e4" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="before" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="High"/>
+<TLINK f_id="e8" s_id="e9" class="before" AnnConf="High"/>
+</document>

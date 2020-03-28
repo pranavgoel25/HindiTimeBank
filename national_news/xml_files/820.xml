@@ -1,0 +1,121 @@
+<document>
+<token id="1"> जवाहर </token>
+<token id="2"> लाल </token>
+<token id="3"> नेहरू </token>
+<token id="4"> विश्वविद्यालय </token>
+<token id="5"> के </token>
+<token id="6"> पूर्व </token>
+<token id="7"> छात्र </token>
+<token id="8"> नेता </token>
+<token id="9"> उमर </token>
+<token id="10"> खालिद </token>
+<token id="11"> के </token>
+<token id="12"> साथ </token>
+<token id="13"> पिछले </token>
+<token id="14"> साल </token>
+<token id="15"> दिल्ली </token>
+<token id="16"> में </token>
+<token id="17"> मारपीट </token>
+<token id="18"> करने </token>
+<token id="19"> वाले </token>
+<token id="20"> नवीन </token>
+<token id="21"> दलाल </token>
+<token id="22"> को </token>
+<token id="23"> शिवसेना </token>
+<token id="24"> ने </token>
+<token id="25"> हरियाणा </token>
+<token id="26"> की </token>
+<token id="27"> बहादुरगढ़ </token>
+<token id="28"> विधानसभा </token>
+<token id="29"> सीट </token>
+<token id="30"> से </token>
+<token id="31"> चुनाव </token>
+<token id="32"> मैदान </token>
+<token id="33"> में </token>
+<token id="34"> उतारा </token>
+<token id="35"> है </token>
+<token id="36"> . </token>
+<token id="37"> पार्टी </token>
+<token id="38"> द्वारा </token>
+<token id="39"> उम्मीदवार </token>
+<token id="40"> बनाए </token>
+<token id="41"> जाने </token>
+<token id="42"> के </token>
+<token id="43"> बाद </token>
+<token id="44"> नवीन </token>
+<token id="45"> दलाल </token>
+<token id="46"> ने </token>
+<token id="47"> कहा </token>
+<token id="48"> कि </token>
+<token id="49"> उन्होंने </token>
+<token id="50"> 6 </token>
+<token id="51"> महीने </token>
+<token id="52"> पहले </token>
+<token id="53"> शिवसेना </token>
+<token id="54"> की </token>
+<token id="55"> सदस्यता </token>
+<token id="56"> ली </token>
+<token id="57"> थी </token>
+<token id="58"> . </token>
+<token id="59"> वहीं </token>
+<token id="60"> राज्य </token>
+<token id="61"> के </token>
+<token id="62"> प्रमुख </token>
+<token id="63"> दलों </token>
+<token id="64"> की </token>
+<token id="65"> आलोचना </token>
+<token id="66"> करते </token>
+<token id="67"> हुए </token>
+<token id="68"> नवीन </token>
+<token id="69"> ने </token>
+<token id="70"> यह </token>
+<token id="71"> भी </token>
+<token id="72"> कहा </token>
+<token id="73"> कि </token>
+<token id="74"> वह </token>
+<token id="75"> शिवसेना </token>
+<token id="76"> के </token>
+<token id="77"> साथ </token>
+<token id="78"> इसलिए </token>
+<token id="79"> आए </token>
+<token id="80"> क्योंकि </token>
+<token id="81"> वह </token>
+<token id="82"> मानते </token>
+<token id="83"> हैं </token>
+<token id="84"> कि </token>
+<token id="85"> बीजेपी </token>
+<token id="86"> और </token>
+<token id="87"> कांग्रेस </token>
+<token id="88"> जैसी </token>
+<token id="89"> पार्टियां </token>
+<token id="90"> गाय </token>
+<token id="91"> , </token>
+<token id="92"> किसान </token>
+<token id="93"> , </token>
+<token id="94"> शहीद </token>
+<token id="95"> और </token>
+<token id="96"> गरीबों </token>
+<token id="97"> के </token>
+<token id="98"> नाम </token>
+<token id="99"> पर </token>
+<token id="100"> केवल </token>
+<token id="101"> राजनीति </token>
+<token id="102"> करती </token>
+<token id="103"> हैं </token>
+<token id="104"> . </token>
+<EVENT id="e1" class="OCC" tokens="40,41" AnnConf="High"/>
+<EVENT id="e9" class="OCC" tokens="34,35" AnnConf="High"/>
+<EVENT id="e2" class="REP" tokens="47" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="55,56,57" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="65,66,67" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="72" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="79" AnnConf="High"/>
+<EVENT id="e7" class="REP" tokens="82,83" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="101,102,103" AnnConf="High"/>
+<STATE id="s1" class="DESC" tokens="17,18,19" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="13,14" AnnConf="High"/>
+<TIMEX id="t2" class="DUR" tokens="50,51" AnnConf="High"/>
+<SLINK f_id="e2" s_id="e3" AnnConf="High"/>
+<SLINK f_id="e7" s_id="e8" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+</document>

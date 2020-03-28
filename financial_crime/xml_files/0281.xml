@@ -1,0 +1,125 @@
+<document>
+<token id="1"> ﻿जागरण </token>
+<token id="2"> संवाददाता </token>
+<token id="3"> , </token>
+<token id="4"> मधुबन </token>
+<token id="5"> ( </token>
+<token id="6"> मऊ </token>
+<token id="7"> ) </token>
+<token id="8"> : </token>
+<token id="9"> स्थानीय </token>
+<token id="10"> थाना </token>
+<token id="11"> क्षेत्र </token>
+<token id="12"> के </token>
+<token id="13"> भीटिया </token>
+<token id="14"> माफी </token>
+<token id="15"> में </token>
+<token id="16"> एक </token>
+<token id="17"> युवक </token>
+<token id="18"> से </token>
+<token id="19"> जालसाजों </token>
+<token id="20"> ने </token>
+<token id="21"> एटीएम </token>
+<token id="22"> का </token>
+<token id="23"> कोड </token>
+<token id="24"> पूछकर </token>
+<token id="25"> उसके </token>
+<token id="26"> खाते </token>
+<token id="27"> से </token>
+<token id="28"> 17 </token>
+<token id="29"> हजार </token>
+<token id="30"> रुपए </token>
+<token id="31"> गायब </token>
+<token id="32"> कर </token>
+<token id="33"> दिए </token>
+<token id="34"> . </token>
+<token id="35"> जालसाजी </token>
+<token id="36"> की </token>
+<token id="37"> जानकारी </token>
+<token id="38"> मिलने </token>
+<token id="39"> पर </token>
+<token id="40"> युवक </token>
+<token id="41"> ने </token>
+<token id="42"> पुलिस </token>
+<token id="43"> को </token>
+<token id="44"> तहरीर </token>
+<token id="45"> देकर </token>
+<token id="46"> जांच </token>
+<token id="47"> की </token>
+<token id="48"> गुहार </token>
+<token id="49"> लगाया </token>
+<token id="50"> है </token>
+<token id="51"> . </token>
+<token id="52"> क्षेत्र </token>
+<token id="53"> के </token>
+<token id="54"> भीटिया </token>
+<token id="55"> माफी </token>
+<token id="56"> निवासी </token>
+<token id="57"> अनकेश </token>
+<token id="58"> यादव </token>
+<token id="59"> पुत्र </token>
+<token id="60"> रामअवध </token>
+<token id="61"> यादव </token>
+<token id="62"> का </token>
+<token id="63"> स्थानीय </token>
+<token id="64"> बाजार </token>
+<token id="65"> स्थित </token>
+<token id="66"> स्टेट </token>
+<token id="67"> बैंक </token>
+<token id="68"> आफ </token>
+<token id="69"> इंडिया </token>
+<token id="70"> मे </token>
+<token id="71"> खाता </token>
+<token id="72"> है </token>
+<token id="73"> . </token>
+<token id="74"> बीते </token>
+<token id="75"> 14 </token>
+<token id="76"> अक्टूबर </token>
+<token id="77"> को </token>
+<token id="78"> जालसाजों </token>
+<token id="79"> ने </token>
+<token id="80"> उसकी </token>
+<token id="81"> मोबाइल </token>
+<token id="82"> पर </token>
+<token id="83"> बैंककर्मी </token>
+<token id="84"> बनकर </token>
+<token id="85"> फोन </token>
+<token id="86"> कर </token>
+<token id="87"> उसके </token>
+<token id="88"> एटीएम </token>
+<token id="89"> कार्ड </token>
+<token id="90"> का </token>
+<token id="91"> नंबर </token>
+<token id="92"> व </token>
+<token id="93"> पासवर्ड </token>
+<token id="94"> पूछ </token>
+<token id="95"> लिया </token>
+<token id="96"> तथा </token>
+<token id="97"> उसके </token>
+<token id="98"> खाते </token>
+<token id="99"> मे </token>
+<token id="100"> पडे </token>
+<token id="101"> 17 </token>
+<token id="102"> हजार </token>
+<token id="103"> रुपए </token>
+<token id="104"> गायब </token>
+<token id="105"> कर </token>
+<token id="106"> दिया </token>
+<token id="107"> . </token>
+<EVENT id="e1" class="IAC" tokens="23,24" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="31,32,33" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="37,38" annConf="High"/>
+<EVENT id="e4" class="IAC" tokens="44,45" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="46" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="48,49,50" annConf="High"/>
+<EVENT id="e7" class="IAC" tokens="84" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="85,86" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="94,95" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="104,105,106" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="71,72" annConf="High"/>
+<TIMEX id="t1" tokens="75,76" annConf="High" class="DATE"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e6" class="before" AnnConf="Medium"/>
+<TLINK f_id="e7" s_id="e8" class="before" AnnConf="High"/>
+</document>

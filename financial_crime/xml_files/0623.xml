@@ -1,0 +1,89 @@
+<document>
+<token id="1"> बाइक </token>
+<token id="2"> चालक </token>
+<token id="3"> के </token>
+<token id="4"> खिलाफ </token>
+<token id="5"> मुकदमा </token>
+<token id="6"> दर्ज </token>
+<token id="7"> फर्रुखाबाद </token>
+<token id="8"> : </token>
+<token id="9"> शहर </token>
+<token id="10"> कोतवाली </token>
+<token id="11"> के </token>
+<token id="12"> मोहल्ला </token>
+<token id="13"> चिलपुरा </token>
+<token id="14"> निवासी </token>
+<token id="15"> भोलेबाबू </token>
+<token id="16"> वर्मा </token>
+<token id="17"> के </token>
+<token id="18"> पुत्र </token>
+<token id="19"> अमित </token>
+<token id="20"> वर्मा </token>
+<token id="21"> ने </token>
+<token id="22"> मोहल्ला </token>
+<token id="23"> नाला </token>
+<token id="24"> सिम्तसुमाल </token>
+<token id="25"> निवासी </token>
+<token id="26"> बाइक </token>
+<token id="27"> चालक </token>
+<token id="28"> अमन </token>
+<token id="29"> वर्मा </token>
+<token id="30"> के </token>
+<token id="31"> खिलाफ </token>
+<token id="32"> मुकदमा </token>
+<token id="33"> दर्ज </token>
+<token id="34"> कराया </token>
+<token id="35"> है </token>
+<token id="36"> . </token>
+<token id="37"> रिपोर्ट </token>
+<token id="38"> के </token>
+<token id="39"> अनुसार </token>
+<token id="40"> अमित </token>
+<token id="41"> वर्मा </token>
+<token id="42"> 23 </token>
+<token id="43"> अगस्त </token>
+<token id="44"> की </token>
+<token id="45"> शाम </token>
+<token id="46"> दुकान </token>
+<token id="47"> बंद </token>
+<token id="48"> कर </token>
+<token id="49"> अपने </token>
+<token id="50"> घर </token>
+<token id="51"> जा </token>
+<token id="52"> रहे </token>
+<token id="53"> थे </token>
+<token id="54"> . </token>
+<token id="55"> उसी </token>
+<token id="56"> समय </token>
+<token id="57"> अमन </token>
+<token id="58"> वर्मा </token>
+<token id="59"> ने </token>
+<token id="60"> अपनी </token>
+<token id="61"> बाइक </token>
+<token id="62"> से </token>
+<token id="63"> अमित </token>
+<token id="64"> की </token>
+<token id="65"> बाइक </token>
+<token id="66"> में </token>
+<token id="67"> टक्कर </token>
+<token id="68"> मार </token>
+<token id="69"> दी </token>
+<token id="70"> . </token>
+<token id="71"> इससे </token>
+<token id="72"> अमित </token>
+<token id="73"> गंभीर </token>
+<token id="74"> रूप </token>
+<token id="75"> से </token>
+<token id="76"> घायल </token>
+<token id="77"> हो </token>
+<token id="78"> गए </token>
+<token id="79"> . </token>
+<EVENT id="e1" class="OCC" tokens="33,34,35" annConf="High"/>
+<EVENT id="e2" class="IAC" tokens="47,48" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="51,52,53" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="67,68,69" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="76,77,78" annConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="Low"/>
+<TLINK f_id="e3" s_id="e4" class="overlap" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="Medium"/>
+</document>

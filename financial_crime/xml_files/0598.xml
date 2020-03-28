@@ -1,0 +1,146 @@
+<document>
+<token id="1"> हाथरस </token>
+<token id="2"> : </token>
+<token id="3"> दिल्ली </token>
+<token id="4"> में </token>
+<token id="5"> सिलाई </token>
+<token id="6"> का </token>
+<token id="7"> काम </token>
+<token id="8"> करने </token>
+<token id="9"> वाले </token>
+<token id="10"> एक </token>
+<token id="11"> कारीगर </token>
+<token id="12"> को </token>
+<token id="13"> अचेत </token>
+<token id="14"> कर </token>
+<token id="15"> शातिर </token>
+<token id="16"> रुपये </token>
+<token id="17"> व </token>
+<token id="18"> मोबाइल </token>
+<token id="19"> लूट </token>
+<token id="20"> ले </token>
+<token id="21"> गए </token>
+<token id="22"> . </token>
+<token id="23"> दिल्ली </token>
+<token id="24"> से </token>
+<token id="25"> अपने </token>
+<token id="26"> गांव </token>
+<token id="27"> लौटते </token>
+<token id="28"> वक्त </token>
+<token id="29"> देर </token>
+<token id="30"> हो </token>
+<token id="31"> जाने </token>
+<token id="32"> के </token>
+<token id="33"> कारण </token>
+<token id="34"> वह </token>
+<token id="35"> हाथरस </token>
+<token id="36"> जंक्शन </token>
+<token id="37"> रेलवे </token>
+<token id="38"> स्टेशन </token>
+<token id="39"> पर </token>
+<token id="40"> ही </token>
+<token id="41"> रुक </token>
+<token id="42"> गया </token>
+<token id="43"> था </token>
+<token id="44"> . </token>
+<token id="45"> वहीं </token>
+<token id="46"> किसी </token>
+<token id="47"> व्यक्ति </token>
+<token id="48"> ने </token>
+<token id="49"> बातों </token>
+<token id="50"> में </token>
+<token id="51"> लेकर </token>
+<token id="52"> उसे </token>
+<token id="53"> नशीला </token>
+<token id="54"> पदार्थ </token>
+<token id="55"> खिला </token>
+<token id="56"> दिया </token>
+<token id="57"> . </token>
+<token id="58"> सुबह </token>
+<token id="59"> युवक </token>
+<token id="60"> बेहोशी </token>
+<token id="61"> की </token>
+<token id="62"> अवस्था </token>
+<token id="63"> में </token>
+<token id="64"> पडा </token>
+<token id="65"> मिला </token>
+<token id="66"> . </token>
+<token id="67"> रेलवे </token>
+<token id="68"> पुलिस </token>
+<token id="69"> ने </token>
+<token id="70"> उसे </token>
+<token id="71"> जिला </token>
+<token id="72"> अस्पताल </token>
+<token id="73"> में </token>
+<token id="74"> भर्ती </token>
+<token id="75"> कराया </token>
+<token id="76"> . </token>
+<token id="77"> होश </token>
+<token id="78"> आने </token>
+<token id="79"> पर </token>
+<token id="80"> युवक </token>
+<token id="81"> ने </token>
+<token id="82"> अपना </token>
+<token id="83"> नाम </token>
+<token id="84"> बिहारीलाल </token>
+<token id="85"> उर्फ </token>
+<token id="86"> राजू </token>
+<token id="87"> पुत्र </token>
+<token id="88"> लीलाधर </token>
+<token id="89"> निवासी </token>
+<token id="90"> गांव </token>
+<token id="91"> मान </token>
+<token id="92"> महौ </token>
+<token id="93"> थाना </token>
+<token id="94"> हाथरस </token>
+<token id="95"> जंक्शन </token>
+<token id="96"> बताया </token>
+<token id="97"> तथा </token>
+<token id="98"> पूरी </token>
+<token id="99"> घटना </token>
+<token id="100"> की </token>
+<token id="101"> जानकारी </token>
+<token id="102"> दी </token>
+<token id="103"> . </token>
+<token id="104"> उसके </token>
+<token id="105"> अनुसार </token>
+<token id="106"> शातिर </token>
+<token id="107"> उसके </token>
+<token id="108"> पास </token>
+<token id="109"> रखे </token>
+<token id="110"> 15 </token>
+<token id="111"> हजार </token>
+<token id="112"> रुपये </token>
+<token id="113"> व </token>
+<token id="114"> मोबाइल </token>
+<token id="115"> पार </token>
+<token id="116"> कर </token>
+<token id="117"> ले </token>
+<token id="118"> गया </token>
+<token id="119"> . </token>
+<token id="120"> घायल </token>
+<token id="121"> का </token>
+<token id="122"> अभी </token>
+<token id="123"> उपचार </token>
+<token id="124"> चल </token>
+<token id="125"> रहा </token>
+<token id="126"> है </token>
+<token id="127"> . </token>
+<EVENT id="e1" class="IAC" tokens="13,14" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="19,20,21" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="29,30,31" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="41,42,43" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="49,50,51" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="55,56" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="64,65" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="74,75" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="77,78" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="96" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="101,102" annConf="High"/>
+<EVENT id="e12" class="OCC" tokens="115,116" annConf="High"/>
+<EVENT id="e13" class="OCC" tokens="117,118" annConf="High"/>
+<EVENT id="e14" class="OCC" tokens="123,124,125,126" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="7,8,9" annConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e9" s_id="e10" class="before" AnnConf="High"/>
+</document>

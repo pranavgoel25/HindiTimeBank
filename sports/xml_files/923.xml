@@ -1,0 +1,93 @@
+<document>
+<token id="1"> लंबे </token>
+<token id="2"> प्रारूप </token>
+<token id="3"> में </token>
+<token id="4"> विश्व </token>
+<token id="5"> बिलियर्ड्स </token>
+<token id="6"> चैंपियन </token>
+<token id="7"> सौरव </token>
+<token id="8"> कोठारी </token>
+<token id="9"> ने </token>
+<token id="10"> गुरुवार </token>
+<token id="11"> को </token>
+<token id="12"> यहां </token>
+<token id="13"> विश्व </token>
+<token id="14"> चैम्पियनशिप </token>
+<token id="15"> के </token>
+<token id="16"> प्री-क्वार्टर </token>
+<token id="17"> फाइनल </token>
+<token id="18"> में </token>
+<token id="19"> दिग्गज </token>
+<token id="20"> पंकज </token>
+<token id="21"> आडवाणी </token>
+<token id="22"> को </token>
+<token id="23"> बड़े </token>
+<token id="24"> अंतर </token>
+<token id="25"> से </token>
+<token id="26"> हराया </token>
+<token id="27"> . </token>
+<token id="28"> कोठारी </token>
+<token id="29"> ने </token>
+<token id="30"> दमदार </token>
+<token id="31"> प्रदर्शन </token>
+<token id="32"> करते </token>
+<token id="33"> हुए </token>
+<token id="34"> 407 </token>
+<token id="35"> , </token>
+<token id="36"> 295 </token>
+<token id="37"> और </token>
+<token id="38"> 170 </token>
+<token id="39"> के </token>
+<token id="40"> बड़े </token>
+<token id="41"> ब्रेक </token>
+<token id="42"> बनाये </token>
+<token id="43"> . </token>
+<token id="44"> उन्होंने </token>
+<token id="45"> दो </token>
+<token id="46"> घंटे </token>
+<token id="47"> 30 </token>
+<token id="48"> मिनट </token>
+<token id="49"> तक </token>
+<token id="50"> चले </token>
+<token id="51"> मुकाबले </token>
+<token id="52"> को </token>
+<token id="53"> 1047 </token>
+<token id="54"> - </token>
+<token id="55"> 663 </token>
+<token id="56"> के </token>
+<token id="57"> बड़े </token>
+<token id="58"> अंतर </token>
+<token id="59"> से </token>
+<token id="60"> अपने </token>
+<token id="61"> नाम </token>
+<token id="62"> किया </token>
+<token id="63"> . </token>
+<token id="64"> कोठारी </token>
+<token id="65"> शुक्रवार </token>
+<token id="66"> को </token>
+<token id="67"> क्वार्टर </token>
+<token id="68"> फाइनल </token>
+<token id="69"> में </token>
+<token id="70"> इंग्लैंड </token>
+<token id="71"> के </token>
+<token id="72"> रोबर्ट </token>
+<token id="73"> हाल </token>
+<token id="74"> का </token>
+<token id="75"> सामना </token>
+<token id="76"> करेंगे </token>
+<token id="77"> . </token>
+<EVENT id="e6" class="OCC" tokens="13,14" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="16,17" AnnConf="High"/>
+<EVENT id="e1" class="OCC" tokens="26" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="31,32,33" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="41,42" AnnConf="Medium"/>
+<EVENT id="e8" class="OCC" tokens="51" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="61,62" AnnConf="High"/>
+<EVENT id="e9" class="OCC" tokens="67,68" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="75,76" AnnConf="High"/>
+<STATE id="s1" class="DESC" tokens="50" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="10" AnnConf="High"/>
+<TLINK f_id="e7" s_id="e1" class="overlap" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="overlap" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e5" class="before" AnnConf="High"/>
+</document>

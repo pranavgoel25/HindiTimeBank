@@ -1,0 +1,601 @@
+<document>
+<token id="1"> पटना </token>
+<token id="2"> [ </token>
+<token id="3"> जेएनएन </token>
+<token id="4"> ] </token>
+<token id="5"> . </token>
+<token id="6"> देश </token>
+<token id="7"> में </token>
+<token id="8"> पहली </token>
+<token id="9"> बार </token>
+<token id="10"> 200 </token>
+<token id="11"> रुपए </token>
+<token id="12"> के </token>
+<token id="13"> नोट </token>
+<token id="14"> लोगों </token>
+<token id="15"> को </token>
+<token id="16"> मिल </token>
+<token id="17"> रहे </token>
+<token id="18"> हैं </token>
+<token id="19"> . </token>
+<token id="20"> लेकिन </token>
+<token id="21"> राजधानी </token>
+<token id="22"> पटना </token>
+<token id="23"> में </token>
+<token id="24"> कम </token>
+<token id="25"> से </token>
+<token id="26"> कम </token>
+<token id="27"> यह </token>
+<token id="28"> एटीएम </token>
+<token id="29"> के </token>
+<token id="30"> माध्यम </token>
+<token id="31"> के </token>
+<token id="32"> दिवाली </token>
+<token id="33"> के </token>
+<token id="34"> बाद </token>
+<token id="35"> ही </token>
+<token id="36"> मिलेंगे </token>
+<token id="37"> . </token>
+<token id="38"> बैंक </token>
+<token id="39"> सूत्रों </token>
+<token id="40"> का </token>
+<token id="41"> कहना </token>
+<token id="42"> है </token>
+<token id="43"> कि </token>
+<token id="44"> इस </token>
+<token id="45"> संबंध </token>
+<token id="46"> में </token>
+<token id="47"> कोई </token>
+<token id="48"> औपचारिक </token>
+<token id="49"> सूचना </token>
+<token id="50"> नहीं </token>
+<token id="51"> मिली </token>
+<token id="52"> है </token>
+<token id="53"> . </token>
+<token id="54"> बैंक </token>
+<token id="55"> ब्रांच </token>
+<token id="56"> में </token>
+<token id="57"> भी </token>
+<token id="58"> यह </token>
+<token id="59"> छिटपुट </token>
+<token id="60"> रूप </token>
+<token id="61"> से </token>
+<token id="62"> ही </token>
+<token id="63"> है </token>
+<token id="64"> . </token>
+<token id="65"> खास </token>
+<token id="66"> बात </token>
+<token id="67"> यह </token>
+<token id="68"> है </token>
+<token id="69"> कि </token>
+<token id="70"> अब </token>
+<token id="71"> तक </token>
+<token id="72"> 100 </token>
+<token id="73"> के </token>
+<token id="74"> बाद </token>
+<token id="75"> दूसरा </token>
+<token id="76"> बड़ा </token>
+<token id="77"> करेंसी </token>
+<token id="78"> नोट </token>
+<token id="79"> 200 </token>
+<token id="80"> रुपए </token>
+<token id="81"> का </token>
+<token id="82"> है </token>
+<token id="83"> . </token>
+<token id="84"> लेकिन </token>
+<token id="85"> 200 </token>
+<token id="86"> के </token>
+<token id="87"> नोट </token>
+<token id="88"> आने </token>
+<token id="89"> के </token>
+<token id="90"> बाद </token>
+<token id="91"> से </token>
+<token id="92"> 100 </token>
+<token id="93"> रुपए </token>
+<token id="94"> मूल्य </token>
+<token id="95"> वर्ग </token>
+<token id="96"> के </token>
+<token id="97"> नोट </token>
+<token id="98"> कम </token>
+<token id="99"> खपत </token>
+<token id="100"> होंगे </token>
+<token id="101"> . </token>
+<token id="102"> प्रावधानों </token>
+<token id="103"> के </token>
+<token id="104"> मुताबिक </token>
+<token id="105"> नए </token>
+<token id="106"> मूल्य </token>
+<token id="107"> वर्ग </token>
+<token id="108"> के </token>
+<token id="109"> नोट </token>
+<token id="110"> जारी </token>
+<token id="111"> करने </token>
+<token id="112"> के </token>
+<token id="113"> लिए </token>
+<token id="114"> बैंकों </token>
+<token id="115"> को </token>
+<token id="116"> आरबीआई </token>
+<token id="117"> से </token>
+<token id="118"> अनुमति </token>
+<token id="119"> अनिवार्य </token>
+<token id="120"> है </token>
+<token id="121"> . </token>
+<token id="122"> इसके </token>
+<token id="123"> अलावा </token>
+<token id="124"> अनुमति </token>
+<token id="125"> मिलने </token>
+<token id="126"> के </token>
+<token id="127"> बाद </token>
+<token id="128"> एटीएम </token>
+<token id="129"> में </token>
+<token id="130"> इसका </token>
+<token id="131"> रीकैलिबरेशन </token>
+<token id="132"> किया </token>
+<token id="133"> जाता </token>
+<token id="134"> है </token>
+<token id="135"> . </token>
+<token id="136"> जब </token>
+<token id="137"> 2000 </token>
+<token id="138"> रुपए </token>
+<token id="139"> का </token>
+<token id="140"> नया </token>
+<token id="141"> नोट </token>
+<token id="142"> आया </token>
+<token id="143"> था </token>
+<token id="144"> , </token>
+<token id="145"> तब </token>
+<token id="146"> एटीएम </token>
+<token id="147"> को </token>
+<token id="148"> रीकैलिबरेट </token>
+<token id="149"> किया </token>
+<token id="150"> गया </token>
+<token id="151"> था </token>
+<token id="152"> . </token>
+<token id="153"> 200 </token>
+<token id="154"> रुपए </token>
+<token id="155"> के </token>
+<token id="156"> मूल्य </token>
+<token id="157"> वर्ग </token>
+<token id="158"> के </token>
+<token id="159"> नोट </token>
+<token id="160"> के </token>
+<token id="161"> लिए </token>
+<token id="162"> भी </token>
+<token id="163"> इसे </token>
+<token id="164"> यह </token>
+<token id="165"> करना </token>
+<token id="166"> होगा </token>
+<token id="167"> . </token>
+<token id="168"> क्या </token>
+<token id="169"> है </token>
+<token id="170"> प्रकियाआरबीआई </token>
+<token id="171"> की </token>
+<token id="172"> ओर </token>
+<token id="173"> से </token>
+<token id="174"> सर्कुलर </token>
+<token id="175"> जारी </token>
+<token id="176"> कर </token>
+<token id="177"> बैंकों </token>
+<token id="178"> को </token>
+<token id="179"> सूचना </token>
+<token id="180"> देकर </token>
+<token id="181"> करेंसी </token>
+<token id="182"> चेस्ट </token>
+<token id="183"> में </token>
+<token id="184"> भेजा </token>
+<token id="185"> जाता </token>
+<token id="186"> है </token>
+<token id="187"> . </token>
+<token id="188"> यदि </token>
+<token id="189"> एटीएम </token>
+<token id="190"> के </token>
+<token id="191"> माध्यम </token>
+<token id="192"> से </token>
+<token id="193"> उपलब्ध </token>
+<token id="194"> कराना </token>
+<token id="195"> है </token>
+<token id="196"> तो </token>
+<token id="197"> रीकैलिबरेशन </token>
+<token id="198"> कराया </token>
+<token id="199"> जाएगा </token>
+<token id="200"> . </token>
+<token id="201"> रीकैलिबरेशन </token>
+<token id="202"> ऐसी </token>
+<token id="203"> प्रकिया </token>
+<token id="204"> है </token>
+<token id="205"> जिसमें </token>
+<token id="206"> नोट </token>
+<token id="207"> के </token>
+<token id="208"> आकार </token>
+<token id="209"> और </token>
+<token id="210"> मोटाई </token>
+<token id="211"> के </token>
+<token id="212"> आधार </token>
+<token id="213"> पर </token>
+<token id="214"> खांचे </token>
+<token id="215"> को </token>
+<token id="216"> सेट </token>
+<token id="217"> किया </token>
+<token id="218"> जाता </token>
+<token id="219"> है </token>
+<token id="220"> . </token>
+<token id="221"> जब </token>
+<token id="222"> 2000 </token>
+<token id="223"> का </token>
+<token id="224"> नोट </token>
+<token id="225"> आया </token>
+<token id="226"> था </token>
+<token id="227"> , </token>
+<token id="228"> तब </token>
+<token id="229"> करीब </token>
+<token id="230"> एक </token>
+<token id="231"> माह </token>
+<token id="232"> एटीएम </token>
+<token id="233"> कैलिबरेशन </token>
+<token id="234"> में </token>
+<token id="235"> लग </token>
+<token id="236"> गया </token>
+<token id="237"> था </token>
+<token id="238"> . </token>
+<token id="239"> बाजार </token>
+<token id="240"> में </token>
+<token id="241"> आ </token>
+<token id="242"> चुका </token>
+<token id="243"> है </token>
+<token id="244"> 0 </token>
+<token id="245"> 0 </token>
+<token id="246"> का </token>
+<token id="247"> नोट </token>
+<token id="248"> 200 </token>
+<token id="249"> के </token>
+<token id="250"> नए </token>
+<token id="251"> नोट </token>
+<token id="252"> बाजार </token>
+<token id="253"> में </token>
+<token id="254"> तो </token>
+<token id="255"> आ </token>
+<token id="256"> चुके </token>
+<token id="257"> हैं </token>
+<token id="258"> लेकिन </token>
+<token id="259"> अभी </token>
+<token id="260"> बहुत </token>
+<token id="261"> ही </token>
+<token id="262"> कम </token>
+<token id="263"> मात्रा </token>
+<token id="264"> में </token>
+<token id="265"> उपलब्ध </token>
+<token id="266"> है </token>
+<token id="267"> . </token>
+<token id="268"> लेकिन </token>
+<token id="269"> अभी </token>
+<token id="270"> एटीएम </token>
+<token id="271"> से </token>
+<token id="272"> निकलने </token>
+<token id="273"> के </token>
+<token id="274"> लिए </token>
+<token id="275"> इंतजार </token>
+<token id="276"> करना </token>
+<token id="277"> होगा </token>
+<token id="278"> . </token>
+<token id="279"> इस </token>
+<token id="280"> बारे </token>
+<token id="281"> में </token>
+<token id="282"> बैक </token>
+<token id="283"> कर्मचारी </token>
+<token id="284"> यूनियन </token>
+<token id="285"> के </token>
+<token id="286"> नेता </token>
+<token id="287"> ने </token>
+<token id="288"> कहा </token>
+<token id="289"> कि </token>
+<token id="290"> अभी </token>
+<token id="291"> सीमित </token>
+<token id="292"> मात्रा </token>
+<token id="293"> में </token>
+<token id="294"> 200 </token>
+<token id="295"> रुपए </token>
+<token id="296"> के </token>
+<token id="297"> नये </token>
+<token id="298"> नोट </token>
+<token id="299"> आये </token>
+<token id="300"> हैं </token>
+<token id="301"> बैंकों </token>
+<token id="302"> को </token>
+<token id="303"> इसे </token>
+<token id="304"> एटीएम </token>
+<token id="305"> में </token>
+<token id="306"> उपलब्ध </token>
+<token id="307"> कराने </token>
+<token id="308"> के </token>
+<token id="309"> लिए </token>
+<token id="310"> अनुमति </token>
+<token id="311"> नहीं </token>
+<token id="312"> मिली </token>
+<token id="313"> है </token>
+<token id="314"> . </token>
+<token id="315"> 200 </token>
+<token id="316"> रुपए </token>
+<token id="317"> के </token>
+<token id="318"> नोट </token>
+<token id="319"> की </token>
+<token id="320"> विशेषताएं-नोट </token>
+<token id="321"> के </token>
+<token id="322"> सामने </token>
+<token id="323"> वाले </token>
+<token id="324"> हिस्से </token>
+<token id="325"> पर </token>
+<token id="326"> गांधीजी </token>
+<token id="327"> की </token>
+<token id="328"> तस्वीर </token>
+<token id="329"> बीच </token>
+<token id="330"> में </token>
+<token id="331"> है </token>
+<token id="332"> -नोट </token>
+<token id="333"> में </token>
+<token id="334"> धागानुमा </token>
+<token id="335"> लाइनें </token>
+<token id="336"> प्रकाश </token>
+<token id="337"> में </token>
+<token id="338"> थोड़ा </token>
+<token id="339"> घुमाएंगे </token>
+<token id="340"> तो </token>
+<token id="341"> यह </token>
+<token id="342"> हरे </token>
+<token id="343"> से </token>
+<token id="344"> ? </token>
+<token id="345"> लू </token>
+<token id="346"> रंग </token>
+<token id="347"> में </token>
+<token id="348"> बदलने </token>
+<token id="349"> लगता </token>
+<token id="350"> है-अशोक </token>
+<token id="351"> स्तंभ </token>
+<token id="352"> का </token>
+<token id="353"> निशान </token>
+<token id="354"> नोट </token>
+<token id="355"> के </token>
+<token id="356"> सामने </token>
+<token id="357"> वाले </token>
+<token id="358"> हिस्से </token>
+<token id="359"> के </token>
+<token id="360"> दाहिनी </token>
+<token id="361"> ओर </token>
+<token id="362"> बॉटम </token>
+<token id="363"> पर </token>
+<token id="364"> है-नोट </token>
+<token id="365"> के </token>
+<token id="366"> दूसरे </token>
+<token id="367"> हिस्से </token>
+<token id="368"> पर </token>
+<token id="369"> सांची </token>
+<token id="370"> का </token>
+<token id="371"> बौद्ध </token>
+<token id="372"> स्तूप </token>
+<token id="373"> का </token>
+<token id="374"> चित्र </token>
+<token id="375"> है-नोट </token>
+<token id="376"> का </token>
+<token id="377"> बेस </token>
+<token id="378"> कलर </token>
+<token id="379"> चमकदार </token>
+<token id="380"> पीला </token>
+<token id="381"> रंग </token>
+<token id="382"> का </token>
+<token id="383"> है-पूरे </token>
+<token id="384"> नोट </token>
+<token id="385"> पर </token>
+<token id="386"> जीयोमीट्रिक </token>
+<token id="387"> पैटर्न </token>
+<token id="388"> है-नोट </token>
+<token id="389"> के </token>
+<token id="390"> दूसरे </token>
+<token id="391"> हिस्से </token>
+<token id="392"> के </token>
+<token id="393"> बांये </token>
+<token id="394"> वाटर </token>
+<token id="395"> मार्क </token>
+<token id="396"> एरिया </token>
+<token id="397"> के </token>
+<token id="398"> नीचले </token>
+<token id="399"> हिस्से </token>
+<token id="400"> पर </token>
+<token id="401"> स्वच्छ </token>
+<token id="402"> भारत </token>
+<token id="403"> का </token>
+<token id="404"> लोगो </token>
+<token id="405"> लगा </token>
+<token id="406"> है-नेत्रहीन </token>
+<token id="407"> दिव्यांग </token>
+<token id="408"> भी </token>
+<token id="409"> नोट </token>
+<token id="410"> की </token>
+<token id="411"> पहचान </token>
+<token id="412"> कर </token>
+<token id="413"> सकें </token>
+<token id="414"> इसके </token>
+<token id="415"> लिए </token>
+<token id="416"> नोट </token>
+<token id="417"> का </token>
+<token id="418"> सामने </token>
+<token id="419"> का </token>
+<token id="420"> हिस्सा </token>
+<token id="421"> , </token>
+<token id="422"> जो </token>
+<token id="423"> गांधीजी </token>
+<token id="424"> का </token>
+<token id="425"> चित्र </token>
+<token id="426"> है </token>
+<token id="427"> , </token>
+<token id="428"> वह </token>
+<token id="429"> उभार </token>
+<token id="430"> लिये </token>
+<token id="431"> हुए </token>
+<token id="432"> है </token>
+<token id="433"> बैंककर्मियों </token>
+<token id="434"> ने </token>
+<token id="435"> कहा-एटीएम </token>
+<token id="436"> से </token>
+<token id="437"> अभी </token>
+<token id="438"> 200 </token>
+<token id="439"> के </token>
+<token id="440"> नए </token>
+<token id="441"> नोट </token>
+<token id="442"> नहीं </token>
+<token id="443"> मिल </token>
+<token id="444"> पाएंगे </token>
+<token id="445"> , </token>
+<token id="446"> क्योंकि </token>
+<token id="447"> इसके </token>
+<token id="448"> लिए </token>
+<token id="449"> एटीएम </token>
+<token id="450"> को </token>
+<token id="451"> रीकैलिबरेट </token>
+<token id="452"> करना </token>
+<token id="453"> होगा </token>
+<token id="454"> . </token>
+<token id="455"> - </token>
+<token id="456"> अमरेंद्र </token>
+<token id="457"> कुमार </token>
+<token id="458"> , </token>
+<token id="459"> डिप्टी </token>
+<token id="460"> जोनल </token>
+<token id="461"> मैनेजर </token>
+<token id="462"> , </token>
+<token id="463"> बैंक </token>
+<token id="464"> ऑफ </token>
+<token id="465"> इंडिया </token>
+<token id="466"> जब </token>
+<token id="467"> तक </token>
+<token id="468"> इस </token>
+<token id="469"> संबंध </token>
+<token id="470"> में </token>
+<token id="471"> सर्कुलर </token>
+<token id="472"> नहीं </token>
+<token id="473"> आ </token>
+<token id="474"> जाता </token>
+<token id="475"> है </token>
+<token id="476"> तब </token>
+<token id="477"> तक </token>
+<token id="478"> इसके </token>
+<token id="479"> बारे </token>
+<token id="480"> में </token>
+<token id="481"> औपचारिक </token>
+<token id="482"> रूप </token>
+<token id="483"> से </token>
+<token id="484"> कुछ </token>
+<token id="485"> नहीं </token>
+<token id="486"> कहा </token>
+<token id="487"> जा </token>
+<token id="488"> सकता </token>
+<token id="489"> है </token>
+<token id="490"> . </token>
+<token id="491"> - </token>
+<token id="492"> आनंद </token>
+<token id="493"> विक्रम </token>
+<token id="494"> , </token>
+<token id="495"> एजीएम </token>
+<token id="496"> ( </token>
+<token id="497"> एटीएम </token>
+<token id="498"> सर्विसेज </token>
+<token id="499"> ) </token>
+<token id="500"> 200 </token>
+<token id="501"> रुपए </token>
+<token id="502"> के </token>
+<token id="503"> नए </token>
+<token id="504"> नोट </token>
+<token id="505"> कुछ </token>
+<token id="506"> बैंकों </token>
+<token id="507"> में </token>
+<token id="508"> सीमित </token>
+<token id="509"> रूप </token>
+<token id="510"> से </token>
+<token id="511"> आये </token>
+<token id="512"> हैं </token>
+<token id="513"> . </token>
+<token id="514"> लेकिन </token>
+<token id="515"> पेमेंट </token>
+<token id="516"> करने </token>
+<token id="517"> के </token>
+<token id="518"> लिए </token>
+<token id="519"> यह </token>
+<token id="520"> एटीएम </token>
+<token id="521"> में </token>
+<token id="522"> अब </token>
+<token id="523"> तक </token>
+<token id="524"> नहीं </token>
+<token id="525"> आया </token>
+<token id="526"> है </token>
+<token id="527"> . </token>
+<token id="528"> - </token>
+<token id="529"> संजय </token>
+<token id="530"> तिवारी </token>
+<token id="531"> , </token>
+<token id="532"> नेता </token>
+<token id="533"> बिहार </token>
+<token id="534"> प्रोविंसियल </token>
+<token id="535"> बैंक </token>
+<token id="536"> कर्मचारी </token>
+<EVENT id="e1" class="OCC" tokens="16,17,18" annConf="High"/>
+<EVENT id="e39" class="OCC" tokens="32" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="36" annConf="High"/>
+<EVENT id="e3" class="REP" tokens="41,42" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="49,50,51,52" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="88" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="99,100" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="110,111" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="124,125" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="131,132,133,134" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="142,143" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="148,149,150,151" annConf="High"/>
+<EVENT id="e12" class="OCC" tokens="165,166" annConf="High"/>
+<EVENT id="e13" class="OCC" tokens="174,175,176" annConf="High"/>
+<EVENT id="e14" class="OCC" tokens="179,180" annConf="High"/>
+<EVENT id="e15" class="OCC" tokens="184,185,186" annConf="High"/>
+<EVENT id="e16" class="OCC" tokens="193,194,195" annConf="High"/>
+<EVENT id="e17" class="OCC" tokens="198,199" annConf="High"/>
+<EVENT id="e18" class="OCC" tokens="216,217,218,219" annConf="High"/>
+<EVENT id="e19" class="OCC" tokens="225,226" annConf="High"/>
+<EVENT id="e20" class="OCC" tokens="235,236,237" annConf="High"/>
+<EVENT id="e21" class="OCC" tokens="241,242,243" annConf="High"/>
+<EVENT id="e22" class="OCC" tokens="255,256,257" annConf="High"/>
+<EVENT id="e23" class="OCC" tokens="272" annConf="High"/>
+<EVENT id="e24" class="OCC" tokens="275,276,277" annConf="High"/>
+<EVENT id="e25" class="REP" tokens="288" annConf="High"/>
+<EVENT id="e40" class="OCC" tokens="299,300" annConf="High"/>
+<EVENT id="e26" class="OCC" tokens="306,307" annConf="High"/>
+<EVENT id="e27" class="OCC" tokens="310,311,312,313" annConf="High"/>
+<EVENT id="e28" class="OCC" tokens="339" annConf="High"/>
+<EVENT id="e29" class="OCC" tokens="348,349" annConf="High"/>
+<EVENT id="e30" class="OCC" tokens="411,412,413" annConf="High"/>
+<EVENT id="e31" class="OCC" tokens="429,430,431,432" annConf="High"/>
+<EVENT id="e41" class="REP" tokens="435" annConf="High"/>
+<EVENT id="e32" class="OCC" tokens="442,443,444" annConf="High"/>
+<EVENT id="e33" class="OCC" tokens="451,452,453" annConf="High"/>
+<EVENT id="e34" class="OCC" tokens="471,472,473,474,475" annConf="High"/>
+<EVENT id="e35" class="OCC" tokens="485,486,487,488,489" annConf="High"/>
+<EVENT id="e36" class="OCC" tokens="511,512" annConf="High"/>
+<EVENT id="e37" class="OCC" tokens="515,516" annConf="High"/>
+<EVENT id="e38" class="OCC" tokens="524,525,526" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="63,68" annConf="High"/>
+<STATE id="s2" class="DECL" tokens="82" annConf="High"/>
+<STATE id="s3" class="DECL" tokens="119,120" annConf="High"/>
+<STATE id="s4" class="DESC" tokens="169" annConf="High"/>
+<STATE id="s8" class="DECL" tokens="204" annConf="High"/>
+<STATE id="s5" class="DECL" tokens="265,266" annConf="High"/>
+<STATE id="s7" class="DESC" tokens="331" annConf="High"/>
+<STATE id="s9" class="DECL" tokens="364" annConf="High"/>
+<STATE id="s10" class="DECL" tokens="375" annConf="High"/>
+<STATE id="s11" class="DECL" tokens="383" annConf="High"/>
+<STATE id="s12" class="DECL" tokens="388" annConf="High"/>
+<STATE id="s13" class="DECL" tokens="406" annConf="High"/>
+<STATE id="s14" class="DECL" tokens="426" annConf="High"/>
+<TIMEX id="t1" tokens="229,230,231" annConf="High" class="TIME"/>
+<SLINK f_id="e3" s_id="e4" AnnConf="High"/>
+<SLINK f_id="e25" s_id="e26" AnnConf="High"/>
+<SLINK f_id="e41" s_id="e32" AnnConf="High"/>
+<TLINK f_id="e39" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e8" s_id="e9" class="before" AnnConf="High"/>
+<TLINK f_id="e10" s_id="e11" class="before" AnnConf="High"/>
+<TLINK f_id="e13" s_id="e15" class="before" AnnConf="High"/>
+</document>

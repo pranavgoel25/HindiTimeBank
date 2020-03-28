@@ -1,0 +1,143 @@
+<document>
+<token id="1"> संवाद </token>
+<token id="2"> सहयोगी </token>
+<token id="3"> , </token>
+<token id="4"> डबवाली </token>
+<token id="5"> : </token>
+<token id="6"> शुक्रवार </token>
+<token id="7"> को </token>
+<token id="8"> हरदेव </token>
+<token id="9"> गोरखी </token>
+<token id="10"> ने </token>
+<token id="11"> 7100 </token>
+<token id="12"> रुपये </token>
+<token id="13"> का </token>
+<token id="14"> सहयोग </token>
+<token id="15"> नंदीशाला </token>
+<token id="16"> के </token>
+<token id="17"> लिए </token>
+<token id="18"> दिया </token>
+<token id="19"> . </token>
+<token id="20"> गोरखी </token>
+<token id="21"> ने </token>
+<token id="22"> बताया </token>
+<token id="23"> कि </token>
+<token id="24"> उन्होंने </token>
+<token id="25"> अपने </token>
+<token id="26"> घर </token>
+<token id="27"> में </token>
+<token id="28"> भोलेनाथ </token>
+<token id="29"> का </token>
+<token id="30"> एक </token>
+<token id="31"> मंदिर </token>
+<token id="32"> बनाया </token>
+<token id="33"> हुआ </token>
+<token id="34"> है </token>
+<token id="35"> जहां </token>
+<token id="36"> वह </token>
+<token id="37"> और </token>
+<token id="38"> उसके </token>
+<token id="39"> परिवार </token>
+<token id="40"> के </token>
+<token id="41"> सदस्य </token>
+<token id="42"> प्रतिदिन </token>
+<token id="43"> पूजा </token>
+<token id="44"> अर्चना </token>
+<token id="45"> करते </token>
+<token id="46"> हैं </token>
+<token id="47"> . </token>
+<token id="48"> समय-समय </token>
+<token id="49"> पर </token>
+<token id="50"> मंदिर </token>
+<token id="51"> के </token>
+<token id="52"> गोलक </token>
+<token id="53"> में </token>
+<token id="54"> नकद </token>
+<token id="55"> राशि </token>
+<token id="56"> का </token>
+<token id="57"> चढ़ावा </token>
+<token id="58"> भी </token>
+<token id="59"> चढ़ाते </token>
+<token id="60"> हैं </token>
+<token id="61"> . </token>
+<token id="62"> ये </token>
+<token id="63"> राशि </token>
+<token id="64"> वे </token>
+<token id="65"> पहले </token>
+<token id="66"> भोले </token>
+<token id="67"> नाथ </token>
+<token id="68"> के </token>
+<token id="69"> मंदिरों </token>
+<token id="70"> में </token>
+<token id="71"> जाकर </token>
+<token id="72"> दे </token>
+<token id="73"> देते </token>
+<token id="74"> थे </token>
+<token id="75"> . </token>
+<token id="76"> गोलक </token>
+<token id="77"> में </token>
+<token id="78"> से </token>
+<token id="79"> 7100 </token>
+<token id="80"> रुपये </token>
+<token id="81"> की </token>
+<token id="82"> राशि </token>
+<token id="83"> निकली </token>
+<token id="84"> . </token>
+<token id="85"> बृहस्पतिवार </token>
+<token id="86"> शाम </token>
+<token id="87"> को </token>
+<token id="88"> एसडीएम </token>
+<token id="89"> सतीश </token>
+<token id="90"> कुमार </token>
+<token id="91"> को </token>
+<token id="92"> यह </token>
+<token id="93"> राशि </token>
+<token id="94"> नकद </token>
+<token id="95"> भेंट </token>
+<token id="96"> की </token>
+<token id="97"> . </token>
+<token id="98"> इस </token>
+<token id="99"> अवसर </token>
+<token id="100"> पर </token>
+<token id="101"> सुशासन </token>
+<token id="102"> सहायक </token>
+<token id="103"> प्रियंका </token>
+<token id="104"> , </token>
+<token id="105"> डा </token>
+<token id="106"> . </token>
+<token id="107"> प्रेम </token>
+<token id="108"> छाबडा </token>
+<token id="109"> , </token>
+<token id="110"> नरेश </token>
+<token id="111"> शर्मा </token>
+<token id="112"> , </token>
+<token id="113"> केशव </token>
+<token id="114"> शर्मा </token>
+<token id="115"> , </token>
+<token id="116"> संजीव </token>
+<token id="117"> शाद </token>
+<token id="118"> , </token>
+<token id="119"> लवली </token>
+<token id="120"> शर्मा </token>
+<token id="121"> , </token>
+<token id="122"> राजेंद्र </token>
+<token id="123"> कुमार </token>
+<token id="124"> मेहता </token>
+<token id="125"> मौजूद </token>
+<token id="126"> थे </token>
+<token id="127"> . </token>
+<EVENT id="e1" class="OCC" tokens="14,18" annConf="High"/>
+<EVENT id="e2" class="REP" tokens="22" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="32,33,34" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="45,46" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="57,59,60" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="71,72,73,74" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="83" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="95,96" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="125,126" annConf="High"/>
+<TIMEX id="t1" tokens="85" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="86" annConf="High" class="TIME"/>
+<SLINK f_id="e2" s_id="e3" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="High"/>
+<TLINK f_id="e7" s_id="e8" class="before" AnnConf="High"/>
+</document>

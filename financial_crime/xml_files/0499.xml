@@ -1,0 +1,43 @@
+<document>
+<token id="1"> सारण </token>
+<token id="2"> . </token>
+<token id="3"> एकमा </token>
+<token id="4"> थाना </token>
+<token id="5"> पुलिस </token>
+<token id="6"> ने </token>
+<token id="7"> शुक्रवार </token>
+<token id="8"> को </token>
+<token id="9"> पुलिस </token>
+<token id="10"> अधीक्षक </token>
+<token id="11"> के </token>
+<token id="12"> निर्देश </token>
+<token id="13"> पर </token>
+<token id="14"> चलाए </token>
+<token id="15"> गए </token>
+<token id="16"> सघन </token>
+<token id="17"> वाहन </token>
+<token id="18"> जांच </token>
+<token id="19"> अभियान </token>
+<token id="20"> के </token>
+<token id="21"> दौरान </token>
+<token id="22"> पांच </token>
+<token id="23"> मोटरसाइकिल </token>
+<token id="24"> को </token>
+<token id="25"> जब्त </token>
+<token id="26"> कर </token>
+<token id="27"> बतौर </token>
+<token id="28"> जुर्माना </token>
+<token id="29"> नौ </token>
+<token id="30"> सौ </token>
+<token id="31"> रुपये </token>
+<token id="32"> की </token>
+<token id="33"> वसूली </token>
+<token id="34"> की </token>
+<token id="35"> . </token>
+<EVENT id="e1" class="OCC" tokens="19" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="25,26" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="33,34" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="14,15" annConf="High"/>
+<TIMEX id="t1" tokens="7" annConf="High" class="DATE"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+</document>

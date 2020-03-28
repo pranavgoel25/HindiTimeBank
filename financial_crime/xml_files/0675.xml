@@ -1,0 +1,50 @@
+<document>
+<token id="1"> बसंतपुर </token>
+<token id="2"> ( </token>
+<token id="3"> सिवान </token>
+<token id="4"> ) </token>
+<token id="5"> : </token>
+<token id="6"> थाना </token>
+<token id="7"> क्षेत्र </token>
+<token id="8"> के </token>
+<token id="9"> बलथरा </token>
+<token id="10"> निवासी </token>
+<token id="11"> दूधनाथ </token>
+<token id="12"> राय </token>
+<token id="13"> की </token>
+<token id="14"> दालान </token>
+<token id="15"> का </token>
+<token id="16"> ताला </token>
+<token id="17"> तोडकर </token>
+<token id="18"> चोरों </token>
+<token id="19"> ने </token>
+<token id="20"> बाइक </token>
+<token id="21"> , </token>
+<token id="22"> पांच </token>
+<token id="23"> हजार </token>
+<token id="24"> रुपये </token>
+<token id="25"> नकद </token>
+<token id="26"> , </token>
+<token id="27"> बैंक </token>
+<token id="28"> पासबुक </token>
+<token id="29"> और </token>
+<token id="30"> खेत </token>
+<token id="31"> के </token>
+<token id="32"> कागजात </token>
+<token id="33"> लेकर </token>
+<token id="34"> भाग </token>
+<token id="35"> गए </token>
+<token id="36"> . </token>
+<token id="37"> इसकी </token>
+<token id="38"> एफआइआर </token>
+<token id="39"> दर्ज </token>
+<token id="40"> करा </token>
+<token id="41"> दी </token>
+<token id="42"> गई </token>
+<token id="43"> है </token>
+<token id="44"> . </token>
+<EVENT id="e1" class="IAC" tokens="17" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="34,35" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="39,40,41,42,43" annConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="Low"/>
+</document>

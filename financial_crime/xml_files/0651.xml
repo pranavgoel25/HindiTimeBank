@@ -1,0 +1,140 @@
+<document>
+<token id="1"> मैनपुरी </token>
+<token id="2"> , </token>
+<token id="3"> करहल </token>
+<token id="4"> : </token>
+<token id="5"> मुहल्ला </token>
+<token id="6"> कानून </token>
+<token id="7"> गोयान </token>
+<token id="8"> निवासी </token>
+<token id="9"> नसीम </token>
+<token id="10"> की </token>
+<token id="11"> मोबाइल </token>
+<token id="12"> की </token>
+<token id="13"> दुकान </token>
+<token id="14"> सिनेमा </token>
+<token id="15"> वाली </token>
+<token id="16"> गली </token>
+<token id="17"> में </token>
+<token id="18"> है </token>
+<token id="19"> . </token>
+<token id="20"> बुधवार </token>
+<token id="21"> रात </token>
+<token id="22"> नसीम </token>
+<token id="23"> साढ़े </token>
+<token id="24"> आठ </token>
+<token id="25"> बजे </token>
+<token id="26"> दुकान </token>
+<token id="27"> बंद </token>
+<token id="28"> करके </token>
+<token id="29"> घर </token>
+<token id="30"> चले </token>
+<token id="31"> गए </token>
+<token id="32"> . </token>
+<token id="33"> रात </token>
+<token id="34"> में </token>
+<token id="35"> चोरों </token>
+<token id="36"> ने </token>
+<token id="37"> शटर </token>
+<token id="38"> के </token>
+<token id="39"> ताले </token>
+<token id="40"> तोड </token>
+<token id="41"> दुकान </token>
+<token id="42"> से </token>
+<token id="43"> ढाई </token>
+<token id="44"> लाख </token>
+<token id="45"> रुपये </token>
+<token id="46"> कीमत </token>
+<token id="47"> के </token>
+<token id="48"> मोबाइल </token>
+<token id="49"> चोरी </token>
+<token id="50"> कर </token>
+<token id="51"> लिए </token>
+<token id="52"> . </token>
+<token id="53"> इसी </token>
+<token id="54"> गली </token>
+<token id="55"> में </token>
+<token id="56"> शकील </token>
+<token id="57"> की </token>
+<token id="58"> परचून </token>
+<token id="59"> की </token>
+<token id="60"> दुकान </token>
+<token id="61"> का </token>
+<token id="62"> भी </token>
+<token id="63"> चोरों </token>
+<token id="64"> ने </token>
+<token id="65"> ताला </token>
+<token id="66"> तोडने </token>
+<token id="67"> की </token>
+<token id="68"> कोशिश </token>
+<token id="69"> की </token>
+<token id="70"> , </token>
+<token id="71"> लेकिन </token>
+<token id="72"> सफलता </token>
+<token id="73"> नहीं </token>
+<token id="74"> मिली </token>
+<token id="75"> . </token>
+<token id="76"> कस्बा </token>
+<token id="77"> के </token>
+<token id="78"> व्यापार </token>
+<token id="79"> मंडल </token>
+<token id="80"> के </token>
+<token id="81"> महासचिव </token>
+<token id="82"> आजम </token>
+<token id="83"> खां </token>
+<token id="84"> ने </token>
+<token id="85"> कहा </token>
+<token id="86"> कि </token>
+<token id="87"> पुलिस </token>
+<token id="88"> की </token>
+<token id="89"> गश्त </token>
+<token id="90"> न </token>
+<token id="91"> होने </token>
+<token id="92"> के </token>
+<token id="93"> कारण </token>
+<token id="94"> चोरी </token>
+<token id="95"> की </token>
+<token id="96"> घटनाएं </token>
+<token id="97"> हो </token>
+<token id="98"> रही </token>
+<token id="99"> हैं </token>
+<token id="100"> . </token>
+<token id="101"> कोतवाली </token>
+<token id="102"> प्रभारी </token>
+<token id="103"> जयवीर </token>
+<token id="104"> ¨ </token>
+<token id="105"> सह </token>
+<token id="106"> सिरोही </token>
+<token id="107"> ने </token>
+<token id="108"> बताया </token>
+<token id="109"> कि </token>
+<token id="110"> रिपोर्ट </token>
+<token id="111"> दर्ज </token>
+<token id="112"> कर </token>
+<token id="113"> चोरों </token>
+<token id="114"> का </token>
+<token id="115"> पता </token>
+<token id="116"> लगाया </token>
+<token id="117"> जा </token>
+<token id="118"> रहा </token>
+<token id="119"> है </token>
+<token id="120"> . </token>
+<EVENT id="e1" class="IAC" tokens="27,28" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="30,31" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="49,50,51" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="66" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="72,73,74" annConf="High"/>
+<EVENT id="e6" class="REP" tokens="85" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="89,90,91" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="96,97,98,99" annConf="High"/>
+<EVENT id="e9" class="REP" tokens="108" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="111,112" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="115,116,117,118,119" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="18" annConf="High"/>
+<TIMEX id="t1" tokens="20" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="21" annConf="High" class="TIME"/>
+<TIMEX id="t3" tokens="22,23,24,25" annConf="High" class="TIME"/>
+<TIMEX id="t4" tokens="33" annConf="High" class="TIME"/>
+<SLINK f_id="e6" s_id="e7" AnnConf="High"/>
+<SLINK f_id="e9" s_id="e10" AnnConf="High"/>
+</document>

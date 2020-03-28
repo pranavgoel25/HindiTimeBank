@@ -1,0 +1,507 @@
+<document>
+<token id="1"> जागरण </token>
+<token id="2"> संवाददाता </token>
+
+<token id="3"> रोहतक </token>
+<token id="4"> : </token>
+<token id="5"> देश </token>
+<token id="6"> के </token>
+<token id="7"> लिए </token>
+<token id="8"> दो-दो </token>
+<token id="9"> लड़ाइयां </token>
+<token id="10"> लड़ी </token>
+<token id="11"> . </token>
+
+<token id="12"> वो </token>
+<token id="13"> भी </token>
+<token id="14"> पाकिस्तान </token>
+<token id="15"> के </token>
+<token id="16"> खिलाफ </token>
+<token id="17"> . </token>
+
+<token id="18"> वर्ष </token>
+<token id="19"> 1965 </token>
+<token id="20"> और </token>
+<token id="21"> 1971 </token>
+<token id="22"> में </token>
+<token id="23"> . </token>
+
+<token id="24"> अब </token>
+<token id="25"> सेना </token>
+<token id="26"> से </token>
+<token id="27"> रिटायर </token>
+<token id="28"> हो </token>
+<token id="29"> गए </token>
+<token id="30"> . </token>
+
+<token id="31"> पेंशन </token>
+<token id="32"> आती </token>
+<token id="33"> है </token>
+<token id="34"> . </token>
+
+<token id="35"> जिस </token>
+<token id="36"> खाते </token>
+<token id="37"> में </token>
+<token id="38"> पेंशन </token>
+<token id="39"> आती </token>
+<token id="40"> है </token>
+
+<token id="41"> उसमें </token>
+<token id="42"> धोखाधड़ी </token>
+<token id="43"> कर </token>
+<token id="44"> के </token>
+<token id="45"> अज्ञात </token>
+<token id="46"> ने </token>
+<token id="47"> 21 </token>
+<token id="48"> हजार </token>
+<token id="49"> रुपये </token>
+<token id="50"> निकाल </token>
+<token id="51"> लिए </token>
+<token id="52"> . </token>
+
+<token id="53"> जब </token>
+<token id="54"> जानकारी </token>
+<token id="55"> हुई </token>
+<token id="56"> तो </token>
+<token id="57"> बैंक </token>
+<token id="58"> के </token>
+<token id="59"> अधिकारियों </token>
+<token id="60"> को </token>
+<token id="61"> सूचित </token>
+<token id="62"> किया </token>
+<token id="63"> . </token>
+
+<token id="64"> बैंक </token>
+<token id="65"> के </token>
+<token id="66"> अधिकारी </token>
+<token id="67"> बोले </token>
+<token id="68"> कि </token>
+<token id="69"> एक </token>
+<token id="70"> सप्ताह </token>
+<token id="71"> में </token>
+<token id="72"> वापस </token>
+<token id="73"> आ </token>
+<token id="74"> जाएगी </token>
+<token id="75"> . </token>
+
+<token id="76"> पहले </token>
+<token id="77"> तो </token>
+<token id="78"> खूब </token>
+<token id="79"> दौड़ाया </token>
+<token id="80"> . </token>
+
+<token id="81"> अब </token>
+<token id="82"> एक </token>
+<token id="83"> महीने </token>
+<token id="84"> बाद </token>
+<token id="85"> जब </token>
+<token id="86"> पैसे </token>
+<token id="87"> वापस </token>
+<token id="88"> नहीं </token>
+<token id="89"> आए </token>
+<token id="90"> तो </token>
+<token id="91"> पीड़ित </token>
+<token id="92"> रिटायर </token>
+<token id="93"> फौजी </token>
+<token id="94"> ने </token>
+<token id="95"> थाने </token>
+<token id="96"> में </token>
+<token id="97"> जाकर </token>
+<token id="98"> पुलिस </token>
+<token id="99"> को </token>
+<token id="100"> शिकायत </token>
+<token id="101"> दी </token>
+<token id="102"> है </token>
+<token id="103"> . </token>
+
+<token id="104"> पुलिस </token>
+<token id="105"> ने </token>
+<token id="106"> मामला </token>
+<token id="107"> दर्ज </token>
+<token id="108"> कर </token>
+<token id="109"> लिया </token>
+<token id="110"> है </token>
+<token id="111"> . </token>
+
+<token id="112"> रोहताश </token>
+<token id="113"> ¨ </token>
+<token id="114"> सह </token>
+<token id="115"> बल्लम </token>
+<token id="116"> गांव </token>
+<token id="117"> में </token>
+<token id="118"> रहते </token>
+<token id="119"> हैं </token>
+<token id="120"> . </token>
+
+<token id="121"> पाकिस्तान </token>
+<token id="122"> के </token>
+<token id="123"> खिलाफ </token>
+<token id="124"> लड़ाई </token>
+<token id="125"> में </token>
+<token id="126"> हिस्सा </token>
+<token id="127"> ले </token>
+<token id="128"> चुके </token>
+<token id="129"> हैं </token>
+<token id="130"> . </token>
+
+<token id="131"> लेकिन </token>
+<token id="132"> अब </token>
+<token id="133"> पिछले </token>
+<token id="134"> एक </token>
+<token id="135"> महीने </token>
+<token id="136"> से </token>
+<token id="137"> परेशान </token>
+<token id="138"> हैं </token>
+<token id="139"> . </token>
+
+<token id="140"> आरोप </token>
+<token id="141"> है </token>
+<token id="142"> कि </token>
+<token id="143"> कुछ </token>
+<token id="144"> बैंक </token>
+<token id="145"> वालों </token>
+<token id="146"> की </token>
+<token id="147"> ओर </token>
+<token id="148"> से </token>
+<token id="149"> परेशानी </token>
+<token id="150"> बढ़ी </token>
+<token id="151"> है </token>
+<token id="152"> तो </token>
+<token id="153"> कुछ </token>
+<token id="154"> पैसे </token>
+<token id="155"> निकल </token>
+<token id="156"> जाने </token>
+<token id="157"> के </token>
+<token id="158"> कारण </token>
+<token id="159"> रोहताश </token>
+<token id="160"> ¨ </token>
+<token id="161"> सह </token>
+<token id="162"> के </token>
+<token id="163"> बेटे </token>
+<token id="164"> रवि </token>
+<token id="165"> ने </token>
+<token id="166"> बताया </token>
+<token id="167"> कि </token>
+<token id="168"> उन्हें </token>
+<token id="169"> 30 </token>
+<token id="170"> अक्टूबर </token>
+<token id="171"> को </token>
+<token id="172"> पता </token>
+<token id="173"> चला </token>
+<token id="174"> कि </token>
+<token id="175"> उनके </token>
+<token id="176"> पिता </token>
+<token id="177"> के </token>
+<token id="178"> पेंशन </token>
+<token id="179"> वाले </token>
+<token id="180"> खाते </token>
+<token id="181"> से </token>
+<token id="182"> करीब </token>
+<token id="183"> 21 </token>
+<token id="184"> हजार </token>
+<token id="185"> रुपये </token>
+<token id="186"> निकल </token>
+<token id="187"> गए </token>
+<token id="188"> हैं </token>
+<token id="189"> . </token>
+
+<token id="190"> वह </token>
+<token id="191"> इस </token>
+<token id="192"> बात </token>
+<token id="193"> की </token>
+<token id="194"> शिकायत </token>
+<token id="195"> लेकर </token>
+<token id="196"> एसबीआई </token>
+<token id="197"> की </token>
+<token id="198"> काहनौर </token>
+<token id="199"> स्थित </token>
+<token id="200"> शाखा </token>
+<token id="201"> के </token>
+<token id="202"> बैंक </token>
+<token id="203"> अधिकारी </token>
+<token id="204"> के </token>
+<token id="205"> पास </token>
+<token id="206"> पहुंचे </token>
+<token id="207"> . </token>
+
+<token id="208"> रवि </token>
+<token id="209"> के </token>
+<token id="210"> मुताबिक </token>
+
+<token id="211"> ब्रांच </token>
+<token id="212"> मैनेजर </token>
+<token id="213"> ने </token>
+<token id="214"> खाते </token>
+<token id="215"> का </token>
+<token id="216"> स्टेटस </token>
+<token id="217"> चेक </token>
+<token id="218"> करने </token>
+<token id="219"> के </token>
+<token id="220"> बाद </token>
+<token id="221"> बताया </token>
+<token id="222"> कि </token>
+<token id="223"> उनके </token>
+<token id="224"> पास </token>
+<token id="225"> इस </token>
+<token id="226"> तरह </token>
+<token id="227"> की </token>
+<token id="228"> करीब </token>
+<token id="229"> 15 </token>
+<token id="230"> शिकायत </token>
+<token id="231"> आई </token>
+<token id="232"> है </token>
+<token id="233"> . </token>
+
+<token id="234"> यह </token>
+<token id="235"> तकनीकी </token>
+<token id="236"> समस्या </token>
+<token id="237"> है </token>
+<token id="238"> . </token>
+
+<token id="239"> उनके </token>
+<token id="240"> पिता </token>
+<token id="241"> के </token>
+<token id="242"> खाते </token>
+<token id="243"> से </token>
+<token id="244"> गायब </token>
+<token id="245"> हुए </token>
+<token id="246"> पैसे </token>
+<token id="247"> एक </token>
+<token id="248"> सप्ताह </token>
+<token id="249"> के </token>
+<token id="250"> अंदर </token>
+<token id="251"> वापस </token>
+<token id="252"> आ </token>
+<token id="253"> जाएंगे </token>
+<token id="254"> . </token>
+
+<token id="255"> रवि </token>
+<token id="256"> ने </token>
+<token id="257"> बताया </token>
+<token id="258"> कि </token>
+<token id="259"> एक </token>
+<token id="260"> सप्ताह </token>
+<token id="261"> बाद </token>
+<token id="262"> जब </token>
+<token id="263"> वह </token>
+<token id="264"> फिर </token>
+<token id="265"> बैंक </token>
+<token id="266"> पहुंचे </token>
+<token id="267"> तो </token>
+<token id="268"> पैसे </token>
+<token id="269"> वापस </token>
+<token id="270"> नहीं </token>
+<token id="271"> आए </token>
+<token id="272"> . </token>
+
+<token id="273"> बैंक </token>
+<token id="274"> के </token>
+<token id="275"> अधिकारियों </token>
+<token id="276"> ने </token>
+<token id="277"> उन्हें </token>
+<token id="278"> जल्द </token>
+<token id="279"> ही </token>
+<token id="280"> पैसे </token>
+<token id="281"> के </token>
+<token id="282"> वापस </token>
+<token id="283"> आने </token>
+<token id="284"> का </token>
+<token id="285"> आश्वासन </token>
+<token id="286"> दिया </token>
+<token id="287"> . </token>
+
+<token id="288"> उन्होंने </token>
+<token id="289"> बताया </token>
+<token id="290"> कि </token>
+<token id="291"> उनके </token>
+<token id="292"> एटीएम </token>
+<token id="293"> उनके </token>
+<token id="294"> पास </token>
+<token id="295"> है </token>
+<token id="296"> . </token>
+
+<token id="297"> फोन </token>
+<token id="298"> पर </token>
+<token id="299"> उन्होंने </token>
+<token id="300"> किसी </token>
+<token id="301"> को </token>
+<token id="302"> भी </token>
+<token id="303"> खाते </token>
+<token id="304"> से </token>
+<token id="305"> संबंधित </token>
+<token id="306"> कोई </token>
+<token id="307"> जानकारी </token>
+<token id="308"> नहीं </token>
+<token id="309"> साझा </token>
+<token id="310"> की </token>
+<token id="311"> है </token>
+<token id="312"> . </token>
+
+<token id="313"> लेकिन </token>
+<token id="314"> फिर </token>
+<token id="315"> भी </token>
+<token id="316"> उनके </token>
+<token id="317"> पिता </token>
+<token id="318"> के </token>
+<token id="319"> खाते </token>
+<token id="320"> से </token>
+<token id="321"> रोहतक </token>
+<token id="322"> की </token>
+<token id="323"> एसबीआई </token>
+<token id="324"> की </token>
+<token id="325"> मुख्य </token>
+<token id="326"> शाखा </token>
+<token id="327"> के </token>
+<token id="328"> पास </token>
+<token id="329"> स्थित </token>
+<token id="330"> एटीएम </token>
+<token id="331"> से </token>
+<token id="332"> 21 </token>
+<token id="333"> हजार </token>
+<token id="334"> रुपये </token>
+<token id="335"> निकल </token>
+<token id="336"> गए </token>
+<token id="337"> हैं </token>
+<token id="338"> . </token>
+
+<token id="339"> उन्होंने </token>
+<token id="340"> बताया </token>
+<token id="341"> कि </token>
+<token id="342"> जब </token>
+<token id="343"> बैंक </token>
+<token id="344"> वालों </token>
+<token id="345"> की </token>
+<token id="346"> ओर </token>
+<token id="347"> से </token>
+<token id="348"> कोई </token>
+<token id="349"> कार्रवाई </token>
+<token id="350"> नहीं </token>
+<token id="351"> हुई </token>
+<token id="352"> तो </token>
+<token id="353"> उन्होंने </token>
+<token id="354"> पुलिस </token>
+<token id="355"> थाने </token>
+<token id="356"> में </token>
+<token id="357"> जाकर </token>
+<token id="358"> अज्ञात </token>
+<token id="359"> के </token>
+<token id="360"> खिलाफ </token>
+<token id="361"> धोखाधड़ी </token>
+<token id="362"> की </token>
+<token id="363"> शिकायत </token>
+<token id="364"> दी </token>
+<token id="365"> है </token>
+<token id="366"> और </token>
+<token id="367"> कार्रवाई </token>
+<token id="368"> की </token>
+<token id="369"> मांग </token>
+<token id="370"> की </token>
+<token id="371"> है </token>
+<token id="372"> . </token>
+
+<token id="373"> पुलिस </token>
+<token id="374"> ने </token>
+<token id="375"> शिकायत </token>
+<token id="376"> मिलने </token>
+<token id="377"> के </token>
+<token id="378"> बाद </token>
+<token id="379"> केस </token>
+<token id="380"> दर्ज </token>
+<token id="381"> कर </token>
+<token id="382"> मामले </token>
+<token id="383"> की </token>
+<token id="384"> छानबीन </token>
+<token id="385"> शुरु </token>
+<token id="386"> कर </token>
+<token id="387"> दी </token>
+<token id="388"> है </token>
+<token id="389"> . </token>
+<EVENT id="e1" class="OCC " tokens="10" AnnConf="High"/>
+<EVENT id="e10" class="OCC " tokens="87,88,89" AnnConf="High"/>
+<EVENT id="e11" class="IAC " tokens="97" AnnConf="High"/>
+<EVENT id="e12" class="OCC " tokens="100,101,102" AnnConf="High"/>
+<EVENT id="e13" class="OCC " tokens="107,108,109,110" AnnConf="High"/>
+<EVENT id="e14" class="OCC " tokens="124" AnnConf="High"/>
+<EVENT id="e15" class="OCC " tokens="126,127,128,129" AnnConf="High"/>
+<EVENT id="e16" class="OCC " tokens="149,150,151" AnnConf="High"/>
+<EVENT id="e17" class="OCC " tokens="155,156" AnnConf="High"/>
+<EVENT id="e18" class="REP " tokens="166" AnnConf="High"/>
+<EVENT id="e19" class="OCC " tokens="172,173" AnnConf="High"/>
+<EVENT id="e2" class="OCC " tokens="27,28,29" AnnConf="High"/>
+<EVENT id="e20" class="OCC " tokens="186,187,188" AnnConf="High"/>
+<EVENT id="e21" class="IAC " tokens="195" AnnConf="High"/>
+<EVENT id="e22" class="OCC " tokens="206" AnnConf="High"/>
+<EVENT id="e23" class="OCC " tokens="217,218" AnnConf="High"/>
+<EVENT id="e24" class="REP " tokens="221" AnnConf="High"/>
+<EVENT id="e25" class="OCC " tokens="230,231,232" AnnConf="High"/>
+<EVENT id="e26" class="OCC " tokens="251,252,253" AnnConf="High"/>
+<EVENT id="e27" class="OCC " tokens="257" AnnConf="High"/>
+<EVENT id="e28" class="OCC " tokens="266" AnnConf="High"/>
+<EVENT id="e29" class="OCC " tokens="269,270,271" AnnConf="High"/>
+<EVENT id="e3" class="OCC " tokens="42,43" AnnConf="High"/>
+<EVENT id="e30" class="IAC " tokens="282,283" AnnConf="High"/>
+<EVENT id="e31" class="OCC " tokens="285,286" AnnConf="High"/>
+<EVENT id="e32" class="REP " tokens="289" AnnConf="High"/>
+<EVENT id="e33" class="OCC " tokens="308,309,310,311" AnnConf="High"/>
+<EVENT id="e34" class="OCC " tokens="335,336,337" AnnConf="High"/>
+<EVENT id="e35" class="REP " tokens="340" AnnConf="High"/>
+<EVENT id="e36" class="OCC " tokens="349,350,351" AnnConf="High"/>
+<EVENT id="e37" class="IAC " tokens="357" AnnConf="High"/>
+<EVENT id="e38" class="OCC " tokens="363,364,365" AnnConf="High"/>
+<EVENT id="e39" class="OCC " tokens="367" AnnConf="High"/>
+<EVENT id="e4" class="OCC " tokens="50,51" AnnConf="High"/>
+<EVENT id="e40" class="OCC " tokens="369,370,371" AnnConf="High"/>
+<EVENT id="e41" class="OCC " tokens="376" AnnConf="High"/>
+<EVENT id="e42" class="OCC " tokens="380,381" AnnConf="High"/>
+<EVENT id="e43" class="OCC " tokens="384" AnnConf="High"/>
+<EVENT id="e44" class="ASP " tokens="385,386,387,388" AnnConf="High"/>
+<EVENT id="e5" class="REP " tokens="54,55" AnnConf="High"/>
+<EVENT id="e6" class="OCC " tokens="61,62" AnnConf="High"/>
+<EVENT id="e7" class="OCC " tokens="67" AnnConf="High"/>
+<EVENT id="e8" class="OCC " tokens="72,73,74" AnnConf="High"/>
+<EVENT id="e9" class="OCC " tokens="79" AnnConf="High"/>
+<STATE id="s1" class="DECL " tokens="31,32,33" AnnConf="High"/>
+<STATE id="s2" class="DECL " tokens="38,39,40" AnnConf="High"/>
+<STATE id="s3" class="DECL " tokens="118,119" AnnConf="High"/>
+<STATE id="s4" class="DECL " tokens="137,138" AnnConf="High"/>
+<STATE id="s5" class="DECL " tokens="237" AnnConf="High"/>
+<STATE id="s6" class="DECL " tokens="244,245" AnnConf="High"/>
+<STATE id="s7" class="DECL " tokens="294,295" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="18,19" AnnConf="High"/>
+<TIMEX id="t2" class="DATE" tokens="21" AnnConf="High"/>
+<TIMEX id="t3" class="DUR" tokens="69,70" AnnConf="High"/>
+<TIMEX id="t4" class="DUR" tokens="82,83" AnnConf="High"/>
+<TIMEX id="t5" class="DUR" tokens="133,134,135" AnnConf="High"/>
+<TIMEX id="t6" class="DATE" tokens="169,170" AnnConf="High"/>
+<TIMEX id="t7" class="DUR" tokens="247,248" AnnConf="High"/>
+<TIMEX id="t8" class="DUR" tokens="259,260" AnnConf="High"/>
+<ALINK f_id="e44" s_id="e43" type="INITIATION" AnnConf="High"/>
+<TLINK f_id="e2" s_id="s1" class="before" AnnConf="Low"/>
+<TLINK f_id="e3" s_id="e4" class="before" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e6" class="before" AnnConf="Medium"/>
+<TLINK f_id="e10" s_id="e11" class="before" AnnConf="High"/>
+<TLINK f_id="e11" s_id="e12" class="before" AnnConf="Medium"/>
+<TLINK f_id="e12" s_id="e13" class="before" AnnConf="High"/>
+<TLINK f_id="e20" s_id="e22" class="before" AnnConf="High"/>
+<TLINK f_id="e23" s_id="e24" class="before" AnnConf="High"/>
+<TLINK f_id="e38" s_id="e40" class="before-overlap" AnnConf="High"/>
+<TLINK f_id="e41" s_id="e42" class="before" AnnConf="High"/>
+<TLINK f_id="e42" s_id="e44" class="before" AnnConf="High"/>
+<SLINK f_id="s2" s_id="e3" AnnConf="Low"/>
+<SLINK f_id="s2" s_id="e4" AnnConf="High"/>
+<SLINK f_id="e7" s_id="e8" AnnConf="Low"/>
+<SLINK f_id="e10" s_id="e11" AnnConf="High"/>
+<SLINK f_id="e10" s_id="e12" AnnConf="High"/>
+<SLINK f_id="e16" s_id="e17" AnnConf="High"/>
+<SLINK f_id="e18" s_id="e19" AnnConf="High"/>
+<SLINK f_id="e18" s_id="e20" AnnConf="Low"/>
+<SLINK f_id="e23" s_id="e24" AnnConf="High"/>
+<SLINK f_id="e24" s_id="e25" AnnConf="High"/>
+<SLINK f_id="e27" s_id="e28" AnnConf="Medium"/>
+<SLINK f_id="e27" s_id="e29" AnnConf="High"/>
+<SLINK f_id="e30" s_id="e31" AnnConf="High"/>
+<SLINK f_id="e36" s_id="e37" AnnConf="High"/>
+<SLINK f_id="e36" s_id="e38" AnnConf="High"/>
+<SLINK f_id="e41" s_id="e43" AnnConf="High"/>
+<SLINK f_id="e41" s_id="e44" AnnConf="High"/>
+</document>

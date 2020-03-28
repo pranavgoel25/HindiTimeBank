@@ -1,0 +1,52 @@
+<document>
+<token id="1"> 15 </token>
+<token id="2"> दिन </token>
+<token id="3"> से </token>
+<token id="4"> विवाहिता </token>
+<token id="5"> लापता </token>
+<token id="6"> सादाबाद </token>
+<token id="7"> : </token>
+<token id="8"> गांव </token>
+<token id="9"> आरती </token>
+<token id="10"> की </token>
+<token id="11"> गुंजन </token>
+<token id="12"> पत्नी </token>
+<token id="13"> अश्वनी </token>
+<token id="14"> उपाध्याय </token>
+<token id="15"> 27 </token>
+<token id="16"> जुलाई </token>
+<token id="17"> से </token>
+<token id="18"> लापता </token>
+<token id="19"> है </token>
+<token id="20"> . </token>
+<token id="21"> वह </token>
+<token id="22"> मायके </token>
+<token id="23"> सोरों </token>
+<token id="24"> जाने </token>
+<token id="25"> के </token>
+<token id="26"> लिए </token>
+<token id="27"> निकली </token>
+<token id="28"> थी </token>
+<token id="29"> , </token>
+<token id="30"> पर </token>
+<token id="31"> वहां </token>
+<token id="32"> नहीं </token>
+<token id="33"> पहुंची </token>
+<token id="34"> . </token>
+<token id="35"> पुलिस </token>
+<token id="36"> विवाहिता </token>
+<token id="37"> की </token>
+<token id="38"> तलाश </token>
+<token id="39"> कर </token>
+<token id="40"> रही </token>
+<token id="41"> है </token>
+<token id="42"> . </token>
+<EVENT id="e1" class="OCC" tokens="24" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="27,28" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="32,33" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="38,39,40,41" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="18,19" annConf="High"/>
+<TIMEX id="t1" tokens="1,2" annConf="High" class="DURATION"/>
+<TLINK f_id="e4" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+</document>

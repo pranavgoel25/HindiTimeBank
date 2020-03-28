@@ -1,0 +1,143 @@
+<document>
+<token id="1"> जिस </token>
+<token id="2"> तेजी </token>
+<token id="3"> से </token>
+<token id="4"> दुनियाभर </token>
+<token id="5"> की </token>
+<token id="6"> स्मार्टफोन </token>
+<token id="7"> कंपनियां </token>
+<token id="8"> अपना </token>
+<token id="9"> स्मार्टफोन </token>
+<token id="10"> लॉन्च </token>
+<token id="11"> करने </token>
+<token id="12"> की </token>
+<token id="13"> कोशिश </token>
+<token id="14"> में </token>
+<token id="15"> लगी </token>
+<token id="16"> हैं </token>
+<token id="17"> . </token>
+<token id="18"> यह </token>
+<token id="19"> देखकर </token>
+<token id="20"> कहा </token>
+<token id="21"> जा </token>
+<token id="22"> सकता </token>
+<token id="23"> है </token>
+<token id="24"> कि </token>
+<token id="25"> आने </token>
+<token id="26"> वाला </token>
+<token id="27"> समय </token>
+<token id="28"> फोल्डेबल </token>
+<token id="29"> स्मार्टफोन </token>
+<token id="30"> का </token>
+<token id="31"> रहना </token>
+<token id="32"> वाला </token>
+<token id="33"> है </token>
+<token id="34"> . </token>
+<token id="35"> सैमसंग </token>
+<token id="36"> के </token>
+<token id="37"> गैलेक्सी </token>
+<token id="38"> फोल्ड </token>
+<token id="39"> और </token>
+<token id="40"> हुवावे </token>
+<token id="41"> के </token>
+<token id="42"> फोल्डेबल </token>
+<token id="43"> फोन </token>
+<token id="44"> Mate </token>
+<token id="45"> X </token>
+<token id="46"> के </token>
+<token id="47"> बाद </token>
+<token id="48"> हाल </token>
+<token id="49"> में </token>
+<token id="50"> मोटोरोला </token>
+<token id="51"> ने </token>
+<token id="52"> भी </token>
+<token id="53"> Moto </token>
+<token id="54"> Razr </token>
+<token id="55"> 2019 </token>
+<token id="56"> के </token>
+<token id="57"> साथ </token>
+<token id="58"> फोल्डेबल </token>
+<token id="59"> स्मार्टफोन </token>
+<token id="60"> सेगमेंट </token>
+<token id="61"> में </token>
+<token id="62"> अपनी </token>
+<token id="63"> एंट्री </token>
+<token id="64"> दर्ज </token>
+<token id="65"> करा </token>
+<token id="66"> दी </token>
+<token id="67"> है </token>
+<token id="68"> . </token>
+<token id="69"> साल </token>
+<token id="70"> की </token>
+<token id="71"> शुरुआत </token>
+<token id="72"> में </token>
+<token id="73"> LG </token>
+<token id="74"> ने </token>
+<token id="75"> भी </token>
+<token id="76"> अपने </token>
+<token id="77"> फोल्डेबल </token>
+<token id="78"> फोन </token>
+<token id="79"> LG </token>
+<token id="80"> G </token>
+<token id="81"> 8 </token>
+<token id="82"> X </token>
+<token id="83"> ThinQ </token>
+<token id="84"> को </token>
+<token id="85"> पेश </token>
+<token id="86"> किया </token>
+<token id="87"> था </token>
+<token id="88"> . </token>
+<token id="89"> हालांकि </token>
+<token id="90"> , </token>
+<token id="91"> एलजी </token>
+<token id="92"> अब </token>
+<token id="93"> फोल्डेबल </token>
+<token id="94"> फोन </token>
+<token id="95"> के </token>
+<token id="96"> सेगमेंट </token>
+<token id="97"> में </token>
+<token id="98"> अपनी </token>
+<token id="99"> पकड़ </token>
+<token id="100"> को </token>
+<token id="101"> मजबूत </token>
+<token id="102"> करने </token>
+<token id="103"> की </token>
+<token id="104"> सोच </token>
+<token id="105"> रहा </token>
+<token id="106"> है </token>
+<token id="107"> . </token>
+<token id="108"> यही </token>
+<token id="109"> कारण </token>
+<token id="110"> है </token>
+<token id="111"> कि </token>
+<token id="112"> हाल </token>
+<token id="113"> में </token>
+<token id="114"> कंपनी </token>
+<token id="115"> ने </token>
+<token id="116"> एक </token>
+<token id="117"> नए </token>
+<token id="118"> किस्म </token>
+<token id="119"> के </token>
+<token id="120"> फोल्डिंग </token>
+<token id="121"> स्मार्टफोन </token>
+<token id="122"> के </token>
+<token id="123"> कॉन्सेप्ट </token>
+<token id="124"> का </token>
+<token id="125"> पेटेंट </token>
+<token id="126"> कराया </token>
+<token id="127"> है </token>
+<token id="128"> . </token>
+<EVENT id="e1" class="OCC" tokens="10,11" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="13,14,15,16" AnnConf="High"/>
+<EVENT id="e3" class="PER" tokens="19" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="20,21,22,23" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="27,31,32,33" AnnConf="High"/>
+<EVENT id="e6" class="OCC" tokens="63,64,65,66,67" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="85,86,87" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="99,100,101,102" AnnConf="High"/>
+<EVENT id="e9" class="OCC" tokens="104,105,106" AnnConf="High"/>
+<EVENT id="e10" class="OCC" tokens="125,126,127" AnnConf="High"/>
+<EVENT id="e11" class="OCC" tokens="109,110" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="before" AnnConf="Medium"/>
+<TLINK f_id="e7" s_id="e6" class="before" AnnConf="High"/>
+</document>

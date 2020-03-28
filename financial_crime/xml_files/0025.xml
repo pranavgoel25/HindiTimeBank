@@ -1,0 +1,167 @@
+<document>
+<token id="1"> संवाद </token>
+<token id="2"> सहयोगी </token>
+
+<token id="3"> महनार </token>
+<token id="4"> : </token>
+<token id="5"> महनार </token>
+<token id="6"> थाना </token>
+<token id="7"> के </token>
+<token id="8"> चमरहरा </token>
+<token id="9"> चंवर </token>
+<token id="10"> के </token>
+<token id="11"> सिरपल्ला </token>
+<token id="12"> के </token>
+<token id="13"> पास </token>
+<token id="14"> आग </token>
+<token id="15"> लगने </token>
+<token id="16"> से </token>
+<token id="17"> सैंकड़ों </token>
+<token id="18"> बीघा </token>
+<token id="19"> खर </token>
+<token id="20"> जल </token>
+<token id="21"> कर </token>
+<token id="22"> राख </token>
+<token id="23"> हो </token>
+<token id="24"> गया </token>
+<token id="25"> . </token>
+
+<token id="26"> सैकड़ो </token>
+<token id="27"> बीधे </token>
+<token id="28"> में </token>
+<token id="29"> खर </token>
+<token id="30"> में </token>
+<token id="31"> लगी </token>
+<token id="32"> आग </token>
+<token id="33"> से </token>
+<token id="34"> लाखों </token>
+<token id="35"> रुपए </token>
+<token id="36"> के </token>
+<token id="37"> नुकसान </token>
+<token id="38"> का </token>
+<token id="39"> अनुमान </token>
+<token id="40"> है </token>
+<token id="41"> . </token>
+
+<token id="42"> जानकारी </token>
+<token id="43"> के </token>
+<token id="44"> अनुसार </token>
+<token id="45"> चमरहरा </token>
+<token id="46"> के </token>
+<token id="47"> सिरपल्ला </token>
+<token id="48"> चंवर </token>
+<token id="49"> में </token>
+<token id="50"> खर </token>
+<token id="51"> के </token>
+<token id="52"> खेत </token>
+<token id="53"> में </token>
+<token id="54"> लगी </token>
+<token id="55"> आग </token>
+<token id="56"> की </token>
+<token id="57"> सूचना </token>
+<token id="58"> स्थानीय </token>
+<token id="59"> मीडिया </token>
+<token id="60"> कर्मी </token>
+<token id="61"> ने </token>
+<token id="62"> महनार </token>
+<token id="63"> के </token>
+<token id="64"> सीओ </token>
+<token id="65"> एवं </token>
+<token id="66"> महनार </token>
+<token id="67"> अग्निशमन </token>
+<token id="68"> विभाग </token>
+<token id="69"> को </token>
+<token id="70"> दी </token>
+<token id="71"> . </token>
+
+<token id="72"> लेकिन </token>
+<token id="73"> जब </token>
+<token id="74"> तक </token>
+<token id="75"> दमकल </token>
+<token id="76"> की </token>
+<token id="77"> गाड़ी </token>
+<token id="78"> मौके </token>
+<token id="79"> पर </token>
+<token id="80"> पहुंचती </token>
+<token id="81"> तब </token>
+<token id="82"> तक </token>
+<token id="83"> सैंकड़ो </token>
+<token id="84"> ग्रामीण </token>
+<token id="85"> अपने </token>
+<token id="86"> हाथों </token>
+<token id="87"> में </token>
+<token id="88"> तार </token>
+<token id="89"> का </token>
+<token id="90"> छज्जा </token>
+<token id="91"> आदि </token>
+<token id="92"> लेकर </token>
+<token id="93"> आग </token>
+<token id="94"> बुझाने </token>
+<token id="95"> लगे </token>
+<token id="96"> . </token>
+
+<token id="97"> बाद </token>
+<token id="98"> में </token>
+<token id="99"> मौके </token>
+<token id="100"> पर </token>
+<token id="101"> पहुंचे </token>
+<token id="102"> अग्निशमन </token>
+<token id="103"> दल </token>
+<token id="104"> ने </token>
+<token id="105"> आग </token>
+<token id="106"> पर </token>
+<token id="107"> काबू </token>
+<token id="108"> पाया </token>
+<token id="109"> . </token>
+
+<token id="110"> इस </token>
+<token id="111"> आगलगी </token>
+<token id="112"> में </token>
+<token id="113"> सैकड़ों </token>
+<token id="114"> एकड़ </token>
+<token id="115"> में </token>
+<token id="116"> लगा </token>
+<token id="117"> खर </token>
+<token id="118"> जल </token>
+<token id="119"> गया </token>
+<token id="120"> . </token>
+
+<token id="121"> स्थानीय </token>
+<token id="122"> लोगों </token>
+<token id="123"> के </token>
+<token id="124"> अनुसार </token>
+<token id="125"> इस </token>
+<token id="126"> अगलगी </token>
+<token id="127"> में </token>
+<token id="128"> लाखों </token>
+<token id="129"> रुपये </token>
+<token id="130"> की </token>
+<token id="131"> क्षति </token>
+<token id="132"> हुई </token>
+<token id="133"> है </token>
+<token id="134"> . </token>
+<EVENT id="e1" class="OCC " tokens="14,15" AnnConf="High"/>
+<EVENT id="e10" class="OCC " tokens="111" AnnConf="High"/>
+<EVENT id="e11" class="OCC " tokens="118,119" AnnConf="High"/>
+<EVENT id="e12" class="OCC " tokens="126" AnnConf="Medium"/>
+<EVENT id="e13" class="OCC " tokens="131,132,133" AnnConf="High"/>
+<EVENT id="e2" class="OCC " tokens="20,21" AnnConf="High"/>
+<EVENT id="e3" class="OCC " tokens="22,23,24" AnnConf="High"/>
+<EVENT id="e4" class="OCC " tokens="31,32" AnnConf="High"/>
+<EVENT id="e5" class="OCC " tokens="57,70" AnnConf="High"/>
+<EVENT id="e6" class="OCC " tokens="80" AnnConf="High"/>
+<EVENT id="e7" class="OCC " tokens="92" AnnConf="High"/>
+<EVENT id="e8" class="OCC " tokens="94,95" AnnConf="High"/>
+<EVENT id="e9" class="OCC " tokens="107,108" AnnConf="High"/>
+<STATE id="s1" class="DECL" tokens="39,40" AnnConf="High"/>
+<STATE id="s2" class="DESC" tokens="54" AnnConf="High"/>
+<STATE id="s3" class="DESC" tokens="101" AnnConf="High"/>
+<STATE id="s4" class="DESC" tokens="116" AnnConf="High"/>
+<SLINK f_id="e1" s_id="e2" AnnConf="High"/>
+<SLINK f_id="s2" s_id="e5" AnnConf="High"/>
+<SLINK f_id="e10" s_id="s4" AnnConf="High"/>
+<SLINK f_id="e12" s_id="e13" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+<TLINK f_id="e7" s_id="e8" class="before" AnnConf="Low"/>
+<TLINK f_id="s3" s_id="e9" class="before" AnnConf="High"/>
+</document>

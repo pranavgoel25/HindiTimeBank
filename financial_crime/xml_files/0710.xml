@@ -1,0 +1,438 @@
+<document>
+<token id="1"> लखनऊ </token>
+<token id="2"> ( </token>
+<token id="3"> जागरण </token>
+<token id="4"> संवाददाता </token>
+<token id="5"> ) </token>
+<token id="6"> . </token>
+<token id="7"> राजधानी </token>
+<token id="8"> की </token>
+<token id="9"> 50 </token>
+<token id="10"> लाख </token>
+<token id="11"> जनता </token>
+<token id="12"> के </token>
+<token id="13"> लिए </token>
+<token id="14"> खुशखबरी </token>
+<token id="15"> है </token>
+<token id="16"> . </token>
+<token id="17"> अब </token>
+<token id="18"> वह </token>
+<token id="19"> सिर्फ </token>
+<token id="20"> दस </token>
+<token id="21"> रुपये </token>
+<token id="22"> में </token>
+<token id="23"> मेट्रो </token>
+<token id="24"> का </token>
+<token id="25"> सफर </token>
+<token id="26"> कर </token>
+<token id="27"> सकेंगे </token>
+<token id="28"> . </token>
+<token id="29"> शासन </token>
+<token id="30"> की </token>
+<token id="31"> स्वीकृति </token>
+<token id="32"> के </token>
+<token id="33"> बाद </token>
+<token id="34"> लखनऊ </token>
+<token id="35"> मेट्रो </token>
+<token id="36"> ने </token>
+<token id="37"> अपने </token>
+<token id="38"> सभी </token>
+<token id="39"> आठों </token>
+<token id="40"> स्टेशनों </token>
+<token id="41"> पर </token>
+<token id="42"> किराए </token>
+<token id="43"> की </token>
+<token id="44"> फीडिंग </token>
+<token id="45"> करा </token>
+<token id="46"> दी </token>
+<token id="47"> है </token>
+<token id="48"> . </token>
+<token id="49"> यह </token>
+<token id="50"> किराया </token>
+<token id="51"> चेन्नई </token>
+<token id="52"> व </token>
+<token id="53"> बेंगलुरु </token>
+<token id="54"> की </token>
+<token id="55"> तर्ज </token>
+<token id="56"> पर </token>
+<token id="57"> रखा </token>
+<token id="58"> गया </token>
+<token id="59"> है </token>
+<token id="60"> . </token>
+<token id="61"> यही </token>
+<token id="62"> नहीं </token>
+<token id="63"> स्मार्ट </token>
+<token id="64"> कार्ड </token>
+<token id="65"> से </token>
+<token id="66"> सफर </token>
+<token id="67"> करने </token>
+<token id="68"> वालों </token>
+<token id="69"> को </token>
+<token id="70"> दस </token>
+<token id="71"> फीसद </token>
+<token id="72"> की </token>
+<token id="73"> छूट </token>
+<token id="74"> किराए </token>
+<token id="75"> में </token>
+<token id="76"> मिलेगी </token>
+<token id="77"> . </token>
+<token id="78"> उधर </token>
+<token id="79"> , </token>
+<token id="80"> प्रबंध </token>
+<token id="81"> निदेशक </token>
+<token id="82"> ने </token>
+<token id="83"> बुधवार </token>
+<token id="84"> को </token>
+<token id="85"> हुई </token>
+<token id="86"> मीटिंग </token>
+<token id="87"> में </token>
+<token id="88"> निर्देश </token>
+<token id="89"> दिए </token>
+<token id="90"> हैं </token>
+<token id="91"> कि </token>
+<token id="92"> साइट </token>
+<token id="93"> पर </token>
+<token id="94"> भी </token>
+<token id="95"> किराए </token>
+<token id="96"> की </token>
+<token id="97"> फीडिंग </token>
+<token id="98"> कर </token>
+<token id="99"> दी </token>
+<token id="100"> जाए </token>
+<token id="101"> . </token>
+<token id="102"> मेट्रो </token>
+<token id="103"> में </token>
+<token id="104"> सफर </token>
+<token id="105"> करने </token>
+<token id="106"> वाले </token>
+<token id="107"> को </token>
+<token id="108"> एलएमआरसी </token>
+<token id="109"> तीन </token>
+<token id="110"> तरह </token>
+<token id="111"> के </token>
+<token id="112"> टिकट </token>
+<token id="113"> जारी </token>
+<token id="114"> करेगा </token>
+<token id="115"> . </token>
+<token id="116"> पहला </token>
+<token id="117"> वह </token>
+<token id="118"> जो </token>
+<token id="119"> टोकन </token>
+<token id="120"> के </token>
+<token id="121"> जरिए </token>
+<token id="122"> जारी </token>
+<token id="123"> होगा </token>
+<token id="124"> , </token>
+<token id="125"> यानी </token>
+<token id="126"> 10 </token>
+<token id="127"> रुपये </token>
+<token id="128"> से </token>
+<token id="129"> लेकर </token>
+<token id="130"> 30 </token>
+<token id="131"> रुपये </token>
+<token id="132"> तक </token>
+<token id="133"> . </token>
+<token id="134"> दूसरा </token>
+<token id="135"> मेट्रो </token>
+<token id="136"> पांच </token>
+<token id="137"> श्रेणियों </token>
+<token id="138"> में </token>
+<token id="139"> स्मार्ट </token>
+<token id="140"> कार्ड </token>
+<token id="141"> जारी </token>
+<token id="142"> करेगा </token>
+<token id="143"> . </token>
+<token id="144"> यह </token>
+<token id="145"> दो </token>
+<token id="146"> सौ </token>
+<token id="147"> से </token>
+<token id="148"> दो </token>
+<token id="149"> हजार </token>
+<token id="150"> रुपये </token>
+<token id="151"> तक </token>
+<token id="152"> होगा </token>
+<token id="153"> . </token>
+<token id="154"> इनमें </token>
+<token id="155"> दस </token>
+<token id="156"> फीसद </token>
+<token id="157"> की </token>
+<token id="158"> छूट </token>
+<token id="159"> प्रति </token>
+<token id="160"> यात्र </token>
+<token id="161"> पर </token>
+<token id="162"> मिलेगी </token>
+<token id="163"> . </token>
+<token id="164"> स्मार्ट </token>
+<token id="165"> कार्ड </token>
+<token id="166"> एक </token>
+<token id="167"> साल </token>
+<token id="168"> तक </token>
+<token id="169"> वैध </token>
+<token id="170"> होगा </token>
+<token id="171"> . </token>
+<token id="172"> इसमें </token>
+<token id="173"> सौ </token>
+<token id="174"> रुपये </token>
+<token id="175"> सिक्योरिटी </token>
+<token id="176"> मनी </token>
+<token id="177"> होगा </token>
+<token id="178"> . </token>
+<token id="179"> मेट्रो </token>
+<token id="180"> पर्यटकों </token>
+<token id="181"> का </token>
+<token id="182"> ध्यान </token>
+<token id="183"> रखते </token>
+<token id="184"> हुए </token>
+<token id="185"> टूरिस्ट </token>
+<token id="186"> कार्ड </token>
+<token id="187"> भी </token>
+<token id="188"> देगा </token>
+<token id="189"> . </token>
+<token id="190"> यह </token>
+<token id="191"> सत्तर </token>
+<token id="192"> रुपये </token>
+<token id="193"> का </token>
+<token id="194"> होगा </token>
+<token id="195"> , </token>
+<token id="196"> इसकी </token>
+<token id="197"> वैधता </token>
+<token id="198"> एक </token>
+<token id="199"> दिन </token>
+<token id="200"> होगी </token>
+<token id="201"> और </token>
+<token id="202"> यात्री </token>
+<token id="203"> एक </token>
+<token id="204"> दिन </token>
+<token id="205"> में </token>
+<token id="206"> असीमित </token>
+<token id="207"> सफर </token>
+<token id="208"> कर </token>
+<token id="209"> सकेगा </token>
+<token id="210"> . </token>
+<token id="211"> इसके </token>
+<token id="212"> अलावा </token>
+<token id="213"> दो </token>
+<token id="214"> सौ </token>
+<token id="215"> रुपये </token>
+<token id="216"> के </token>
+<token id="217"> टूरिस्ट </token>
+<token id="218"> कार्ड </token>
+<token id="219"> में </token>
+<token id="220"> तीन </token>
+<token id="221"> दिन </token>
+<token id="222"> असीमित </token>
+<token id="223"> यात्र </token>
+<token id="224"> की </token>
+<token id="225"> जा </token>
+<token id="226"> सकेगी </token>
+<token id="227"> . </token>
+<token id="228"> एलएमआरसी </token>
+<token id="229"> ने </token>
+<token id="230"> निजी </token>
+<token id="231"> एजेंसी </token>
+<token id="232"> इंफ्रा </token>
+<token id="233"> प्राइवेट </token>
+<token id="234"> लिमिटेड </token>
+<token id="235"> द्वारा </token>
+<token id="236"> सर्वे </token>
+<token id="237"> कराया </token>
+<token id="238"> था </token>
+<token id="239"> . </token>
+<token id="240"> सर्वे </token>
+<token id="241"> में </token>
+<token id="242"> आटो </token>
+<token id="243"> , </token>
+<token id="244"> बस </token>
+<token id="245"> , </token>
+<token id="246"> निजी </token>
+<token id="247"> टैक्सी </token>
+<token id="248"> का </token>
+<token id="249"> किराया </token>
+<token id="250"> और </token>
+<token id="251"> उसकी </token>
+<token id="252"> समयसारिणी </token>
+<token id="253"> से </token>
+<token id="254"> संबंधित </token>
+<token id="255"> रिपोर्ट </token>
+<token id="256"> तैयार </token>
+<token id="257"> की </token>
+<token id="258"> गई </token>
+<token id="259"> . </token>
+<token id="260"> देखा </token>
+<token id="261"> गया </token>
+<token id="262"> कि </token>
+<token id="263"> यात्री </token>
+<token id="264"> कितना </token>
+<token id="265"> किराया </token>
+<token id="266"> और </token>
+<token id="267"> समय </token>
+<token id="268"> देकर </token>
+<token id="269"> अपनी </token>
+<token id="270"> मंजिल </token>
+<token id="271"> तक </token>
+<token id="272"> पहुंच </token>
+<token id="273"> रहा </token>
+<token id="274"> है </token>
+<token id="275"> . </token>
+<token id="276"> सर्वे </token>
+<token id="277"> में </token>
+<token id="278"> समय </token>
+<token id="279"> की </token>
+<token id="280"> सबसे </token>
+<token id="281"> ज्यादा </token>
+<token id="282"> बर्बादी </token>
+<token id="283"> पायी </token>
+<token id="284"> गई </token>
+<token id="285"> . </token>
+<token id="286"> यह </token>
+<token id="287"> भी </token>
+<token id="288"> पढ़ें </token>
+<token id="289"> : </token>
+<token id="290"> DM </token>
+<token id="291"> ने </token>
+<token id="292"> सौंपी </token>
+<token id="293"> गोरखपुर </token>
+<token id="294"> हादसे </token>
+<token id="295"> की </token>
+<token id="296"> रिपोर्ट </token>
+<token id="297"> , </token>
+<token id="298"> जानिए- </token>
+<token id="299"> कौन-कौन </token>
+<token id="300"> ठहराए </token>
+<token id="301"> गए </token>
+<token id="302"> जिम्मेदारअगस्त </token>
+<token id="303"> में </token>
+<token id="304"> ही </token>
+<token id="305"> सीएम </token>
+<token id="306"> योगी </token>
+<token id="307"> आदित्यनाथ </token>
+<token id="308"> लखनऊ </token>
+<token id="309"> मेट्रो </token>
+<token id="310"> को </token>
+<token id="311"> हरी </token>
+<token id="312"> झंडी </token>
+<token id="313"> दिखा </token>
+<token id="314"> सकते </token>
+<token id="315"> हैं </token>
+<token id="316"> . </token>
+<token id="317"> लखनऊ </token>
+<token id="318"> मेट्रो </token>
+<token id="319"> ने </token>
+<token id="320"> फिलहाल </token>
+<token id="321"> अपनी </token>
+<token id="322"> ओर </token>
+<token id="323"> से </token>
+<token id="324"> पूरी </token>
+<token id="325"> तैयार </token>
+<token id="326"> कर </token>
+<token id="327"> ली </token>
+<token id="328"> है </token>
+<token id="329"> . </token>
+<token id="330"> मेट्रो </token>
+<token id="331"> अफसरों </token>
+<token id="332"> की </token>
+<token id="333"> मंशा </token>
+<token id="334"> है </token>
+<token id="335"> कि </token>
+<token id="336"> कार्यक्रम </token>
+<token id="337"> में </token>
+<token id="338"> पीएम </token>
+<token id="339"> नरेंद्र </token>
+<token id="340"> मोदी </token>
+<token id="341"> व </token>
+<token id="342"> गृहमंत्री </token>
+<token id="343"> राजनाथ </token>
+<token id="344"> सिंह </token>
+<token id="345"> भी </token>
+<token id="346"> आएं </token>
+<token id="347"> . </token>
+<token id="348"> उधर </token>
+<token id="349"> छह </token>
+<token id="350"> सितंबर </token>
+<token id="351"> से </token>
+<token id="352"> पितृपक्ष </token>
+<token id="353"> शुरू </token>
+<token id="354"> हो </token>
+<token id="355"> रहा </token>
+<token id="356"> है </token>
+<token id="357"> . </token>
+<token id="358"> अगर </token>
+<token id="359"> इधर </token>
+<token id="360"> लेट </token>
+<token id="361"> हुआ </token>
+<token id="362"> तो </token>
+<token id="363"> फिर </token>
+<token id="364"> 21 </token>
+<token id="365"> सितंबर </token>
+<token id="366"> यानी </token>
+<token id="367"> नवरात्र </token>
+<token id="368"> तक </token>
+<token id="369"> जा </token>
+<token id="370"> सकता </token>
+<token id="371"> है </token>
+<token id="372"> . </token>
+<token id="373"> यह </token>
+<token id="374"> भी </token>
+<token id="375"> पढ़ें </token>
+<token id="376"> : </token>
+<token id="377"> लखनऊ </token>
+<token id="378"> से </token>
+<token id="379"> औरैया </token>
+<token id="380"> जा </token>
+<token id="381"> रहे </token>
+<token id="382"> अखिलेश </token>
+<token id="383"> यादव </token>
+<token id="384"> उन्नाव </token>
+<token id="385"> में </token>
+<token id="386"> गिरफ्तार </token>
+<EVENT id="e1" class="OCC" tokens="25,26,27" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="31" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="44,45,46,47" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="57,58,59" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="73,76" annConf="High"/>
+<EVENT id="e34" class="OCC" tokens="86" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="88,89,90" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="97,98,99,100" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="112,113,114" annConf="High"/>
+<EVENT id="e35" class="OCC" tokens="122,123" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="141,142" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="152" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="158,162" annConf="High"/>
+<EVENT id="e12" class="OCC" tokens="169,170" annConf="High"/>
+<EVENT id="e13" class="OCC" tokens="176,177" annConf="High"/>
+<EVENT id="e14" class="OCC" tokens="182,183,184" annConf="High"/>
+<EVENT id="e15" class="OCC" tokens="188" annConf="High"/>
+<EVENT id="e16" class="OCC" tokens="194" annConf="High"/>
+<EVENT id="e17" class="OCC" tokens="200" annConf="High"/>
+<EVENT id="e18" class="OCC" tokens="207,208,209" annConf="High"/>
+<EVENT id="e19" class="OCC" tokens="223,224,225,226" annConf="High"/>
+<EVENT id="e20" class="OCC" tokens="236,237,238" annConf="High"/>
+<EVENT id="e21" class="OCC" tokens="256,257,258" annConf="High"/>
+<EVENT id="e22" class="PER" tokens="260,261" annConf="High"/>
+<EVENT id="e23" class="OCC" tokens="267,268" annConf="High"/>
+<EVENT id="e24" class="OCC" tokens="272,273,274" annConf="High"/>
+<EVENT id="e25" class="OCC" tokens="282,283,284" annConf="High"/>
+<EVENT id="e26" class="PER" tokens="311,312,313,314,315" annConf="High"/>
+<EVENT id="e27" class="OCC" tokens="324,325,326,327,328" annConf="High"/>
+<EVENT id="e28" class="OCC" tokens="346" annConf="High"/>
+<EVENT id="e29" class="OCC" tokens="353,354,355,356" annConf="High"/>
+<EVENT id="e30" class="OCC" tokens="360,361" annConf="High"/>
+<EVENT id="e31" class="OCC" tokens="369,370,371" annConf="High"/>
+<EVENT id="e33" class="OCC" tokens="386" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="14,15" annConf="High"/>
+<STATE id="s2" class="DESC" tokens="66,67,68" annConf="High"/>
+<STATE id="s5" class="DESC" tokens="85" annConf="High"/>
+<STATE id="s3" class="DESC" tokens="104,105,106" annConf="High"/>
+<STATE id="s4" class="DESC" tokens="333,334" annConf="High"/>
+<STATE id="s6" class="DESC" tokens="379,380,381" annConf="High"/>
+<TIMEX id="t1" tokens="83" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="166,167" annConf="High" class="DURATION"/>
+<TIMEX id="t3" tokens="203,204" annConf="High" class="DATE"/>
+<TIMEX id="t4" tokens="220,221" annConf="High" class="DURATION"/>
+<TIMEX id="t5" tokens="349,350" annConf="High" class="DATE"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+<TLINK f_id="e34" s_id="e6" class="overlap" AnnConf="High"/>
+<TLINK f_id="e20" s_id="e21" class="before" AnnConf="High"/>
+<TLINK f_id="e21" s_id="e22" class="before" AnnConf="High"/>
+<TLINK f_id="e22" s_id="e25" class="before" AnnConf="High"/>
+</document>

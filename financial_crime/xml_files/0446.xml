@@ -1,0 +1,151 @@
+<document>
+<token id="1"> गजरौला </token>
+<token id="2"> : </token>
+<token id="3"> आबकारी </token>
+<token id="4"> पुलिस </token>
+<token id="5"> ने </token>
+<token id="6"> गांव </token>
+<token id="7"> शहबाजपुर </token>
+<token id="8"> माफी </token>
+<token id="9"> में </token>
+<token id="10"> एक </token>
+<token id="11"> आम </token>
+<token id="12"> के </token>
+<token id="13"> बाग </token>
+<token id="14"> में </token>
+<token id="15"> छापा </token>
+<token id="16"> मारकर </token>
+<token id="17"> अरुणाचल </token>
+<token id="18"> प्रदेश </token>
+<token id="19"> से </token>
+<token id="20"> तस्करी </token>
+<token id="21"> कर </token>
+<token id="22"> लाई </token>
+<token id="23"> गई </token>
+<token id="24"> अंग्रेजी </token>
+<token id="25"> शराब </token>
+<token id="26"> पकडी </token>
+<token id="27"> है </token>
+<token id="28"> . </token>
+<token id="29"> एक </token>
+<token id="30"> तस्कर </token>
+<token id="31"> को </token>
+<token id="32"> भी </token>
+<token id="33"> हिरासत </token>
+<token id="34"> में </token>
+<token id="35"> लिया </token>
+<token id="36"> है </token>
+<token id="37"> . </token>
+<token id="38"> शनिवार </token>
+<token id="39"> को </token>
+<token id="40"> आबकारी </token>
+<token id="41"> टीम </token>
+<token id="42"> ने </token>
+<token id="43"> गांव </token>
+<token id="44"> स्थित </token>
+<token id="45"> एक </token>
+<token id="46"> आम </token>
+<token id="47"> के </token>
+<token id="48"> बाग </token>
+<token id="49"> में </token>
+<token id="50"> छापा </token>
+<token id="51"> मारा </token>
+<token id="52"> . </token>
+<token id="53"> छापे </token>
+<token id="54"> के </token>
+<token id="55"> दौरान </token>
+<token id="56"> शराब </token>
+<token id="57"> की </token>
+<token id="58"> पहरेदारी </token>
+<token id="59"> कर </token>
+<token id="60"> रहे </token>
+<token id="61"> गांव </token>
+<token id="62"> निवासी </token>
+<token id="63"> धीरेंद्र </token>
+<token id="64"> को </token>
+<token id="65"> पुलिस </token>
+<token id="66"> ने </token>
+<token id="67"> हिरासत </token>
+<token id="68"> में </token>
+<token id="69"> ले </token>
+<token id="70"> लिया </token>
+<token id="71"> . </token>
+<token id="72"> जबकि </token>
+<token id="73"> पकडे </token>
+<token id="74"> गए </token>
+<token id="75"> तस्कर </token>
+<token id="76"> के </token>
+<token id="77"> पुत्र </token>
+<token id="78"> नितिन </token>
+<token id="79"> व </token>
+<token id="80"> नकुल </token>
+<token id="81"> फरार </token>
+<token id="82"> हो </token>
+<token id="83"> गए </token>
+<token id="84"> . </token>
+<token id="85"> इसके </token>
+<token id="86"> बाद </token>
+<token id="87"> आबकारी </token>
+<token id="88"> ने </token>
+<token id="89"> उसकी </token>
+<token id="90"> निशानदेही </token>
+<token id="91"> पर </token>
+<token id="92"> अरुणाचल </token>
+<token id="93"> प्रदेश </token>
+<token id="94"> के </token>
+<token id="95"> अंग्रेजी </token>
+<token id="96"> शराब </token>
+<token id="97"> के </token>
+<token id="98"> 655 </token>
+<token id="99"> पव्वे </token>
+<token id="100"> , </token>
+<token id="101"> 30 </token>
+<token id="102"> बोलत </token>
+<token id="103"> बरामद </token>
+<token id="104"> की </token>
+<token id="105"> है </token>
+<token id="106"> . </token>
+<token id="107"> इनकी </token>
+<token id="108"> कीमत </token>
+<token id="109"> एक </token>
+<token id="110"> लाख </token>
+<token id="111"> से </token>
+<token id="112"> अधिक </token>
+<token id="113"> आंकी </token>
+<token id="114"> जा </token>
+<token id="115"> रही </token>
+<token id="116"> है </token>
+<token id="117"> . </token>
+<token id="118"> पुलिस </token>
+<token id="119"> ने </token>
+<token id="120"> आरोपी </token>
+<token id="121"> सहित </token>
+<token id="122"> तीनों </token>
+<token id="123"> पिता-पुत्रों </token>
+<token id="124"> के </token>
+<token id="125"> खिलाफ </token>
+<token id="126"> मुकदमा </token>
+<token id="127"> दर्ज </token>
+<token id="128"> कर </token>
+<token id="129"> लिया </token>
+<token id="130"> है </token>
+<EVENT id="e1" class="OCC" tokens="15,16" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="20,21" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="26,27" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="33,34,35,36" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="50,51" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="67,68,69,70" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="81,82,83" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="103,104,105" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="113,114,115,116" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="127,128,129,130" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="22,23" annConf="High"/>
+<STATE id="s2" class="DESC" tokens="44" annConf="High"/>
+<STATE id="s3" class="DESC" tokens="58,59,60" annConf="High"/>
+<STATE id="s4" class="DESC" tokens="73,74" annConf="High"/>
+<TIMEX id="t1" tokens="38" annConf="High" class="DATE"/>
+<TLINK f_id="e1" s_id="e3" class="before" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="overlap" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e7" class="overlap" AnnConf="High"/>
+<TLINK f_id="e7" s_id="e9" class="before" AnnConf="High"/>
+</document>

@@ -1,0 +1,87 @@
+<document>
+<token id="1"> बेगूसराय </token>
+<token id="2"> . </token>
+<token id="3"> जीरोमाइल </token>
+<token id="4"> ओपी </token>
+<token id="5"> अंतर्गत </token>
+<token id="6"> पपरौर </token>
+<token id="7"> स्थित </token>
+<token id="8"> एक </token>
+<token id="9"> कंपनी </token>
+<token id="10"> के </token>
+<token id="11"> कर्मचारी </token>
+<token id="12"> ने </token>
+<token id="13"> ढाई </token>
+<token id="14"> लाख </token>
+<token id="15"> रुपये </token>
+<token id="16"> व </token>
+<token id="17"> सामान </token>
+<token id="18"> चोरी </token>
+<token id="19"> कर </token>
+<token id="20"> लेने </token>
+<token id="21"> की </token>
+<token id="22"> प्राथमिकी </token>
+<token id="23"> दर्ज </token>
+<token id="24"> कराई </token>
+<token id="25"> है </token>
+<token id="26"> . </token>
+<token id="27"> समस्तीपुर </token>
+<token id="28"> जिला </token>
+<token id="29"> पचमहला </token>
+<token id="30"> निवासी </token>
+<token id="31"> दीनानाथ </token>
+<token id="32"> राय </token>
+<token id="33"> का </token>
+<token id="34"> पुत्र </token>
+<token id="35"> उत्तम </token>
+<token id="36"> कुमार </token>
+<token id="37"> ने </token>
+<token id="38"> कहा </token>
+<token id="39"> कि </token>
+<token id="40"> उसके </token>
+<token id="41"> डेरा </token>
+<token id="42"> में </token>
+<token id="43"> रखे </token>
+<token id="44"> ढाई </token>
+<token id="45"> लाख </token>
+<token id="46"> रुपये </token>
+<token id="47"> , </token>
+<token id="48"> दो </token>
+<token id="49"> लैपटॉप </token>
+<token id="50"> , </token>
+<token id="51"> मोबाइल </token>
+<token id="52"> सहित </token>
+<token id="53"> अन्य </token>
+<token id="54"> कागजात </token>
+<token id="55"> चोरी </token>
+<token id="56"> हो </token>
+<token id="57"> गई </token>
+<token id="58"> है </token>
+<token id="59"> . </token>
+<token id="60"> जीरोमाइल </token>
+<token id="61"> ओपी </token>
+<token id="62"> प्रभारी </token>
+<token id="63"> यशोदानंद </token>
+<token id="64"> पांडेय </token>
+<token id="65"> ने </token>
+<token id="66"> मामला </token>
+<token id="67"> दर्ज </token>
+<token id="68"> कर </token>
+<token id="69"> छानबीन </token>
+<token id="70"> शुरू </token>
+<token id="71"> कर </token>
+<token id="72"> दी </token>
+<token id="73"> है </token>
+<token id="74"> . </token>
+<EVENT id="e1" class="OCC" tokens="18,19,20" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="23,24,25" annConf="High"/>
+<EVENT id="e3" class="REP" tokens="38" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="55,56,57,58" annConf="High"/>
+<EVENT id="e5" class="IAC" tokens="67,68" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="69" annConf="High"/>
+<EVENT id="e7" class="ASP" tokens="70,71,72,73" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="43" annConf="High"/>
+<ALINK f_id="e7" s_id="e6" class="INITIATION"/>
+<SLINK f_id="e3" s_id="e4" AnnConf="High"/>
+<TLINK f_id="e5" s_id="e7" class="before" AnnConf="High"/>
+</document>

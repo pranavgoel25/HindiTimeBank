@@ -1,0 +1,135 @@
+<document>
+<token id="1"> हसनपुर </token>
+<token id="2"> : </token>
+<token id="3"> विकास </token>
+<token id="4"> खंड </token>
+<token id="5"> गंगेश्वरी </token>
+<token id="6"> की </token>
+<token id="7"> ग्राम </token>
+<token id="8"> पंचायत </token>
+<token id="9"> बरतौरा </token>
+<token id="10"> के </token>
+<token id="11"> ग्रामीणों </token>
+<token id="12"> ने </token>
+<token id="13"> ग्राम </token>
+<token id="14"> प्रधान </token>
+<token id="15"> पर </token>
+<token id="16"> दो </token>
+<token id="17"> साल </token>
+<token id="18"> में </token>
+<token id="19"> विकास </token>
+<token id="20"> के </token>
+<token id="21"> लिए </token>
+<token id="22"> आए </token>
+<token id="23"> 18 </token>
+<token id="24"> लाख </token>
+<token id="25"> रुपये </token>
+<token id="26"> निकालकर </token>
+<token id="27"> विकास </token>
+<token id="28"> न </token>
+<token id="29"> कराने </token>
+<token id="30"> का </token>
+<token id="31"> आरोप </token>
+<token id="32"> लगाते </token>
+<token id="33"> हुए </token>
+<token id="34"> जिलाधिकारी </token>
+<token id="35"> से </token>
+<token id="36"> शिकायत </token>
+<token id="37"> की </token>
+<token id="38"> है </token>
+<token id="39"> . </token>
+<token id="40"> आरोप </token>
+<token id="41"> है </token>
+<token id="42"> कि </token>
+<token id="43"> गांव </token>
+<token id="44"> में </token>
+<token id="45"> शौचालय </token>
+<token id="46"> , </token>
+<token id="47"> सडक </token>
+<token id="48"> , </token>
+<token id="49"> सोलर </token>
+<token id="50"> लाइट </token>
+<token id="51"> एवं </token>
+<token id="52"> नालियों </token>
+<token id="53"> का </token>
+<token id="54"> निर्माण </token>
+<token id="55"> न </token>
+<token id="56"> होने </token>
+<token id="57"> से </token>
+<token id="58"> लोग </token>
+<token id="59"> परेशान </token>
+<token id="60"> हैं </token>
+<token id="61"> . </token>
+<token id="62"> उन्होंने </token>
+<token id="63"> ग्राम </token>
+<token id="64"> प्रधान </token>
+<token id="65"> पर </token>
+<token id="66"> ग्राम </token>
+<token id="67"> पंचायत </token>
+<token id="68"> की </token>
+<token id="69"> खुली </token>
+<token id="70"> मी </token>
+<token id="71"> ¨ </token>
+<token id="72"> टग </token>
+<token id="73"> भी </token>
+<token id="74"> न </token>
+<token id="75"> करने </token>
+<token id="76"> का </token>
+<token id="77"> आरोप </token>
+<token id="78"> लगाते </token>
+<token id="79"> हुए </token>
+<token id="80"> मामले </token>
+<token id="81"> की </token>
+<token id="82"> जांच </token>
+<token id="83"> कराकर </token>
+<token id="84"> कार्रवाई </token>
+<token id="85"> करने </token>
+<token id="86"> की </token>
+<token id="87"> मांग </token>
+<token id="88"> की </token>
+<token id="89"> है </token>
+<token id="90"> . </token>
+<token id="91"> शिकायती </token>
+<token id="92"> पत्र </token>
+<token id="93"> पर </token>
+<token id="94"> ग्राम </token>
+<token id="95"> पंचायत </token>
+<token id="96"> सदस्य </token>
+<token id="97"> वीरेंद्र </token>
+<token id="98"> कुमार </token>
+<token id="99"> , </token>
+<token id="100"> प्रमोद </token>
+<token id="101"> कुमार </token>
+<token id="102"> , </token>
+<token id="103"> सोनू </token>
+<token id="104"> , </token>
+<token id="105"> ¨ </token>
+<token id="106"> पकी </token>
+<token id="107"> , </token>
+<token id="108"> जसवंत </token>
+<token id="109"> कुमार </token>
+<token id="110"> , </token>
+<token id="111"> पारूल </token>
+<token id="112"> एवं </token>
+<token id="113"> कमलेश </token>
+<token id="114"> के </token>
+<token id="115"> हस्ताक्षर </token>
+<token id="116"> हैं </token>
+<token id="117"> . </token>
+<EVENT id="e1" class="OCC" tokens="26" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="27,28,29" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="31,32,33" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="36,37,38" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="54,55,56" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="74,75" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="77,78,79" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="82,83" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="84,85" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="87,88,89" annConf="High"/>
+<STATE id="s6" class="DESC" tokens="22" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="59,60" annConf="High"/>
+<STATE id="s2" class="DESC" tokens="115,116" annConf="High"/>
+<TIMEX id="t1" tokens="16,17" annConf="High" class="DATE"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e8" s_id="e10" class="before" AnnConf="High"/>
+</document>

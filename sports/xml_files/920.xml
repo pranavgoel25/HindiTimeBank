@@ -1,0 +1,124 @@
+<document>
+<token id="1"> अजिंक्या </token>
+<token id="2"> कापरे </token>
+<token id="3"> ( </token>
+<token id="4"> 10 </token>
+<token id="5"> अंक </token>
+<token id="6"> ) </token>
+<token id="7"> , </token>
+<token id="8"> डोंग </token>
+<token id="9"> ली </token>
+<token id="10"> ( </token>
+<token id="11"> नौ </token>
+<token id="12"> अंक </token>
+<token id="13"> ) </token>
+<token id="14"> और </token>
+<token id="15"> फजल </token>
+<token id="16"> अत्राचली </token>
+<token id="17"> ( </token>
+<token id="18"> आठ </token>
+<token id="19"> अंक </token>
+<token id="20"> ) </token>
+<token id="21"> के </token>
+<token id="22"> प्रभावशाली </token>
+<token id="23"> खेल </token>
+<token id="24"> के </token>
+<token id="25"> बूते </token>
+<token id="26"> यू </token>
+<token id="27"> मुंबा </token>
+<token id="28"> ने </token>
+<token id="29"> प्रो </token>
+<token id="30"> कबड्डी </token>
+<token id="31"> लीग </token>
+<token id="32"> के </token>
+<token id="33"> मुकाबले </token>
+<token id="34"> में </token>
+<token id="35"> गुरुवार </token>
+<token id="36"> को </token>
+<token id="37"> यहां </token>
+<token id="38"> हरियाणा </token>
+<token id="39"> स्टीलर्स </token>
+<token id="40"> को </token>
+<token id="41"> 39 </token>
+<token id="42"> - </token>
+<token id="43"> 33 </token>
+<token id="44"> से </token>
+<token id="45"> शिकस्त </token>
+<token id="46"> दी </token>
+<token id="47"> . </token>
+<token id="48"> दोनों </token>
+<token id="49"> टीमें </token>
+<token id="50"> पहले </token>
+<token id="51"> ही </token>
+<token id="52"> प्लेऑफ </token>
+<token id="53"> के </token>
+<token id="54"> लिए </token>
+<token id="55"> क्वालीफाई </token>
+<token id="56"> कर </token>
+<token id="57"> चुकी </token>
+<token id="58"> है </token>
+<token id="59"> . </token>
+<token id="60"> इस </token>
+<token id="61"> जीत </token>
+<token id="62"> के </token>
+<token id="63"> साथ </token>
+<token id="64"> ही </token>
+<token id="65"> मुंबई </token>
+<token id="66"> की </token>
+<token id="67"> टीम </token>
+<token id="68"> 69 </token>
+<token id="69"> तालिका </token>
+<token id="70"> में </token>
+<token id="71"> चौथे </token>
+<token id="72"> पायदान </token>
+<token id="73"> पर </token>
+<token id="74"> पहुंच </token>
+<token id="75"> गयी </token>
+<token id="76"> जबकि </token>
+<token id="77"> हरियाणा </token>
+<token id="78"> 71 </token>
+<token id="79"> अंक </token>
+<token id="80"> के </token>
+<token id="81"> साथ </token>
+<token id="82"> तीसरे </token>
+<token id="83"> स्थान </token>
+<token id="84"> पर </token>
+<token id="85"> है </token>
+<token id="86"> . </token>
+<token id="87"> हरियाणा </token>
+<token id="88"> की </token>
+<token id="89"> टीम </token>
+<token id="90"> के </token>
+<token id="91"> लिए </token>
+<token id="92"> विनय </token>
+<token id="93"> ने </token>
+<token id="94"> सबसे </token>
+<token id="95"> ज्यादा </token>
+<token id="96"> 11 </token>
+<token id="97"> अंक </token>
+<token id="98"> बटोरे </token>
+<token id="99"> लेकिन </token>
+<token id="100"> यह </token>
+<token id="101"> टीम </token>
+<token id="102"> को </token>
+<token id="103"> जीत </token>
+<token id="104"> दिलाने </token>
+<token id="105"> के </token>
+<token id="106"> लिए </token>
+<token id="107"> काफी </token>
+<token id="108"> नहीं </token>
+<token id="109"> था </token>
+<token id="110"> . </token>
+<EVENT id="e6" class="OCC" tokens="29,30,31" AnnConf="High"/>
+<EVENT id="e7" class="OCC" tokens="33" AnnConf="High"/>
+<EVENT id="e1" class="OCC" tokens="45,46" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="55,56,57,58" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="97,98" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="74,75" AnnConf="High"/>
+<EVENT id="e4" class="OCC" tokens="103,104" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="108,109" AnnConf="High"/>
+<STATE id="s1" class="DECL" tokens="85" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="35" AnnConf="High"/>
+<TLINK f_id="e7" s_id="e1" class="before" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+</document>

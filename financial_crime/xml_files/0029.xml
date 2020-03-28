@@ -1,0 +1,112 @@
+<document>
+<token id="1"> जागरण </token>
+<token id="2"> संवाददाता </token>
+
+<token id="3"> सिरसा </token>
+<token id="4"> : </token>
+<token id="5"> कालांवाली </token>
+<token id="6"> क्षेत्र </token>
+<token id="7"> के </token>
+<token id="8"> गांव </token>
+<token id="9"> दादू </token>
+<token id="10"> निवासी </token>
+<token id="11"> एक </token>
+<token id="12"> व्यक्ति </token>
+<token id="13"> को </token>
+<token id="14"> चूरा </token>
+<token id="15"> पोस्त </token>
+<token id="16"> तस्करी </token>
+<token id="17"> मामले </token>
+<token id="18"> में </token>
+<token id="19"> ढाई </token>
+<token id="20"> साल </token>
+<token id="21"> कैद </token>
+<token id="22"> व </token>
+<token id="23"> दस </token>
+<token id="24"> हजार </token>
+<token id="25"> रुपये </token>
+<token id="26"> जुर्माना </token>
+<token id="27"> की </token>
+<token id="28"> सजा </token>
+<token id="29"> सुनाई </token>
+<token id="30"> है </token>
+<token id="31"> . </token>
+
+<token id="32"> डबवाली </token>
+<token id="33"> सीआइए </token>
+<token id="34"> ने </token>
+<token id="35"> दादू </token>
+<token id="36"> निवासी </token>
+<token id="37"> वकील </token>
+<token id="38"> ¨ </token>
+<token id="39"> सह </token>
+<token id="40"> को </token>
+<token id="41"> चूरापोस्त </token>
+<token id="42"> के </token>
+<token id="43"> साथ </token>
+<token id="44"> काबू </token>
+<token id="45"> किया </token>
+<token id="46"> था </token>
+<token id="47"> और </token>
+<token id="48"> उसके </token>
+<token id="49"> विरुद्ध </token>
+<token id="50"> कालांवाली </token>
+<token id="51"> थाने </token>
+<token id="52"> में </token>
+<token id="53"> केस </token>
+<token id="54"> दर्ज </token>
+<token id="55"> करवाया </token>
+<token id="56"> गया </token>
+<token id="57"> . </token>
+
+<token id="58"> वकील </token>
+<token id="59"> ¨ </token>
+<token id="60"> सह </token>
+<token id="61"> को </token>
+<token id="62"> 29 </token>
+<token id="63"> दिसंबर </token>
+<token id="64"> 2013 </token>
+<token id="65"> को </token>
+<token id="66"> 28 </token>
+<token id="67"> किलो </token>
+<token id="68"> चूरापोस्त </token>
+<token id="69"> के </token>
+<token id="70"> साथ </token>
+<token id="71"> पकड़ा </token>
+<token id="72"> गया </token>
+<token id="73"> था </token>
+<token id="74"> . </token>
+
+<token id="75"> अतिरिक्त </token>
+<token id="76"> जिला </token>
+<token id="77"> एवं </token>
+<token id="78"> स्तर </token>
+<token id="79"> न्यायाधीश </token>
+<token id="80"> जेबी </token>
+<token id="81"> गुप्ता </token>
+<token id="82"> की </token>
+<token id="83"> अदालत </token>
+<token id="84"> ने </token>
+<token id="85"> उसे </token>
+<token id="86"> सजा </token>
+<token id="87"> से </token>
+<token id="88"> दंडित </token>
+<token id="89"> किया </token>
+<token id="90"> है </token>
+<token id="91"> . </token>
+<EVENT id="e1" class="OCC " tokens="14,15,16" AnnConf="High"/>
+<EVENT id="e2" class="OCC " tokens="21" AnnConf="High"/>
+<EVENT id="e3" class="PER" tokens="28,29,30" AnnConf="High"/>
+<EVENT id="e4" class="OCC " tokens="44,45,46" AnnConf="High"/>
+<EVENT id="e5" class="OCC " tokens="53,54,55,56" AnnConf="High"/>
+<EVENT id="e6" class="OCC " tokens="71,72,73" AnnConf="High"/>
+<EVENT id="e7" class="OCC " tokens="86" AnnConf="High"/>
+<EVENT id="e8" class="OCC " tokens="88,89,90" AnnConf="High"/>
+<TIMEX id="t1" class="DUR" tokens="19,20" AnnConf="High"/>
+<TIMEX id="t2" class="DATE" tokens="62,63,64" AnnConf="High"/>
+<SLINK f_id="e2" s_id="e3" AnnConf="High"/>
+<SLINK f_id="e4" s_id="e5" AnnConf="High"/>
+<SLINK f_id="e7" s_id="e8" AnnConf="High"/>
+<TLINK f_id="e4" s_id="e5" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e8" class="before" AnnConf="High"/>
+</document>

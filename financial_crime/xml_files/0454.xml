@@ -1,0 +1,106 @@
+<document>
+<token id="1"> दो </token>
+<token id="2"> बच्चों </token>
+<token id="3"> सहित </token>
+<token id="4"> पत्नी </token>
+<token id="5"> एक </token>
+<token id="6"> माह </token>
+<token id="7"> से </token>
+<token id="8"> गायब </token>
+<token id="9"> टांडा </token>
+<token id="10"> : </token>
+<token id="11"> एक </token>
+<token id="12"> माह </token>
+<token id="13"> से </token>
+<token id="14"> गायब </token>
+<token id="15"> पत्नी </token>
+<token id="16"> न </token>
+<token id="17"> मिलने </token>
+<token id="18"> पर </token>
+<token id="19"> पति </token>
+<token id="20"> ने </token>
+<token id="21"> तहरीर </token>
+<token id="22"> दी </token>
+<token id="23"> है </token>
+<token id="24"> . </token>
+<token id="25"> गांव </token>
+<token id="26"> धर्मपुर </token>
+<token id="27"> पश्चिमी </token>
+<token id="28"> निवासी </token>
+<token id="29"> मजदूर </token>
+<token id="30"> हरस्वरूप </token>
+<token id="31"> का </token>
+<token id="32"> कहना </token>
+<token id="33"> है </token>
+<token id="34"> कि </token>
+<token id="35"> वह </token>
+<token id="36"> बाहर </token>
+<token id="37"> नोएडा </token>
+<token id="38"> काम </token>
+<token id="39"> करता </token>
+<token id="40"> था </token>
+<token id="41"> . </token>
+<token id="42"> इस </token>
+<token id="43"> बीच </token>
+<token id="44"> एक </token>
+<token id="45"> माह </token>
+<token id="46"> पूर्व </token>
+<token id="47"> उसकी </token>
+<token id="48"> पत्नी </token>
+<token id="49"> दो </token>
+<token id="50"> बच्चों </token>
+<token id="51"> सहित </token>
+<token id="52"> गायब </token>
+<token id="53"> हो </token>
+<token id="54"> गई </token>
+<token id="55"> है </token>
+<token id="56"> . </token>
+<token id="57"> उसने </token>
+<token id="58"> काफी </token>
+<token id="59"> तलाश </token>
+<token id="60"> किया </token>
+<token id="61"> पर </token>
+<token id="62"> पत्नी </token>
+<token id="63"> नहीं </token>
+<token id="64"> मिल </token>
+<token id="65"> पाई </token>
+<token id="66"> है </token>
+<token id="67"> . </token>
+<token id="68"> उसे </token>
+<token id="69"> आशंका </token>
+<token id="70"> है </token>
+<token id="71"> कि </token>
+<token id="72"> उसकी </token>
+<token id="73"> पत्नी </token>
+<token id="74"> के </token>
+<token id="75"> साथ </token>
+<token id="76"> कोई </token>
+<token id="77"> घटना </token>
+<token id="78"> न </token>
+<token id="79"> हो </token>
+<token id="80"> जाए </token>
+<token id="81"> . </token>
+<token id="82"> उसने </token>
+<token id="83"> पुलिस </token>
+<token id="84"> को </token>
+<token id="85"> तहरीर </token>
+<token id="86"> दी </token>
+<token id="87"> है </token>
+<token id="88"> . </token>
+<EVENT id="e1" class="IAC" tokens="16,17" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="21,22,23" annConf="High"/>
+<EVENT id="e3" class="REP" tokens="32,33" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="39,40" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="52,53,54,55" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="59,60" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="62,63,64,65,66" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="77,78,79,80" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="85,86,87" annConf="High"/>
+<STATE id="s1" class="DESC" tokens="69,70" annConf="High"/>
+<TIMEX id="t1" tokens="5,6" annConf="High" class="DURATION"/>
+<TIMEX id="t2" tokens="11,12" annConf="High" class="DURATION"/>
+<TIMEX id="t3" tokens="44,45" annConf="High" class="DATE"/>
+<SLINK f_id="e3" s_id="e4" AnnConf="High"/>
+<SLINK f_id="s1" s_id="e8" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+</document>

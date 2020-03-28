@@ -1,0 +1,76 @@
+<document>
+<token id="1"> संवाद </token>
+<token id="2"> सूत्र </token>
+
+<token id="3"> जंदाहा </token>
+<token id="4"> : </token>
+<token id="5"> जंदाहा </token>
+<token id="6"> बाजार </token>
+<token id="7"> स्थित </token>
+<token id="8"> उमेश </token>
+<token id="9"> ड्राई </token>
+<token id="10"> क्लीनर्स </token>
+<token id="11"> के </token>
+<token id="12"> आवासीय </token>
+<token id="13"> परिसर </token>
+<token id="14"> के </token>
+<token id="15"> एक </token>
+<token id="16"> कमरे </token>
+<token id="17"> में </token>
+<token id="18"> शुक्रवार </token>
+<token id="19"> की </token>
+<token id="20"> देर </token>
+<token id="21"> रात </token>
+<token id="22"> बिजली </token>
+<token id="23"> के </token>
+<token id="24"> शॉर्ट </token>
+<token id="25"> सर्किट </token>
+<token id="26"> से </token>
+<token id="27"> लगी </token>
+<token id="28"> आग </token>
+<token id="29"> में </token>
+<token id="30"> लाखों </token>
+<token id="31"> रुपये </token>
+<token id="32"> के </token>
+<token id="33"> कपड़े </token>
+<token id="34"> व </token>
+<token id="35"> सामान </token>
+<token id="36"> जलकर </token>
+<token id="37"> राख </token>
+<token id="38"> हो </token>
+<token id="39"> गए </token>
+<token id="40"> . </token>
+
+<token id="41"> आग </token>
+<token id="42"> की </token>
+<token id="43"> तेज </token>
+<token id="44"> लपटें </token>
+<token id="45"> देख </token>
+<token id="46"> वहां </token>
+<token id="47"> जुटे </token>
+<token id="48"> लोगों </token>
+<token id="49"> ने </token>
+<token id="50"> काफी </token>
+<token id="51"> मशक्कत </token>
+<token id="52"> के </token>
+<token id="53"> बाद </token>
+<token id="54"> आग </token>
+<token id="55"> पर </token>
+<token id="56"> काबू </token>
+<token id="57"> पाया </token>
+<token id="58"> . </token>
+<EVENT id="e1" class="OCC " tokens="24,25" AnnConf="High"/>
+<EVENT id="e2" class="OCC " tokens="27,28" AnnConf="High"/>
+<EVENT id="e3" class="OCC " tokens="36" AnnConf="High"/>
+<EVENT id="e4" class="OCC " tokens="37,38,39" AnnConf="High"/>
+<EVENT id="e5" class="PER" tokens="45" AnnConf="High"/>
+<EVENT id="e6" class="OCC " tokens="51" AnnConf="Medium"/>
+<EVENT id="e7" class="OCC " tokens="54,55,56,57" AnnConf="High"/>
+<STATE id="s1" class="DESC" tokens="47" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="18" AnnConf="High"/>
+<TIMEX id="t2" class="TIME" tokens="20,21" AnnConf="High"/>
+<SLINK f_id="e1" s_id="e2" AnnConf="Medium"/>
+<SLINK f_id="e5" s_id="s1" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="before" AnnConf="High"/>
+</document>

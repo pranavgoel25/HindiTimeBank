@@ -1,0 +1,458 @@
+<document>
+<token id="1"> विद्युत-बैटरी </token>
+<token id="2"> चालित </token>
+<token id="3"> वाहनों </token>
+<token id="4"> को </token>
+<token id="5"> प्रोत्साहन </token>
+<token id="6"> देने </token>
+<token id="7"> से </token>
+<token id="8"> जुडे़ </token>
+<token id="9"> मुद्दों </token>
+<token id="10"> पर </token>
+<token id="11"> बुधवार </token>
+<token id="12"> को </token>
+<token id="13"> आयोजित </token>
+<token id="14"> एक </token>
+<token id="15"> संगोष्ठी </token>
+<token id="16"> में </token>
+<token id="17"> विशेषज्ञों </token>
+<token id="18"> ने </token>
+<token id="19"> कहा </token>
+<token id="20"> कि </token>
+<token id="21"> प्रौद्योगिकी </token>
+<token id="22"> की </token>
+<token id="23"> मौजूदा </token>
+<token id="24"> कमजोरियों </token>
+<token id="25"> के </token>
+<token id="26"> कारण </token>
+<token id="27"> विद्युत </token>
+<token id="28"> वाहनों </token>
+<token id="29"> की </token>
+<token id="30"> प्रगति </token>
+<token id="31"> को </token>
+<token id="32"> नहीं </token>
+<token id="33"> रोका </token>
+<token id="34"> जाना </token>
+<token id="35"> चाहिए </token>
+<token id="36"> . </token>
+<token id="37"> आयोजकों </token>
+<token id="38"> की </token>
+<token id="39"> ओर </token>
+<token id="40"> से </token>
+<token id="41"> जारी </token>
+<token id="42"> विज्ञप्ति </token>
+<token id="43"> के </token>
+<token id="44"> अनुसार </token>
+<token id="45"> वक्ताओं </token>
+<token id="46"> ने </token>
+<token id="47"> कहा </token>
+<token id="48"> कि </token>
+<token id="49"> आने </token>
+<token id="50"> वाला </token>
+<token id="51"> समय </token>
+<token id="52"> प्रदूषण </token>
+<token id="53"> रहित </token>
+<token id="54"> वाहनों </token>
+<token id="55"> का </token>
+<token id="56"> है </token>
+<token id="57"> . </token>
+<token id="58"> विद्युत </token>
+<token id="59"> वाहनों </token>
+<token id="60"> ( </token>
+<token id="61"> ईपी </token>
+<token id="62"> ) </token>
+<token id="63"> को </token>
+<token id="64"> प्रोत्साहित </token>
+<token id="65"> करने </token>
+<token id="66"> वाली </token>
+<token id="67"> पहल </token>
+<token id="68"> शुरू </token>
+<token id="69"> करने </token>
+<token id="70"> वाले </token>
+<token id="71"> बौद्धिक </token>
+<token id="72"> संगठन </token>
+<token id="73"> दी </token>
+<token id="74"> ब्ल्यू </token>
+<token id="75"> सर्किल </token>
+<token id="76"> , </token>
+<token id="77"> निवेश </token>
+<token id="78"> बैंक </token>
+<token id="79"> एवेंडस </token>
+<token id="80"> कैपिटल </token>
+<token id="81"> और </token>
+<token id="82"> हीरो </token>
+<token id="83"> इलेक्ट्रिक </token>
+<token id="84"> के </token>
+<token id="85"> संयुक्त </token>
+<token id="86"> प्रयास </token>
+<token id="87"> से </token>
+<token id="88"> गुरुग्राम </token>
+<token id="89"> में </token>
+<token id="90"> आयोजित </token>
+<token id="91"> इस </token>
+<token id="92"> चर्चा </token>
+<token id="93"> में </token>
+<token id="94"> नीति </token>
+<token id="95"> आयोग </token>
+<token id="96"> के </token>
+<token id="97"> यातायात </token>
+<token id="98"> एवं </token>
+<token id="99"> परिवहन </token>
+<token id="100"> प्रणाली </token>
+<token id="101"> विषय </token>
+<token id="102"> के </token>
+<token id="103"> प्रधान </token>
+<token id="104"> सलाहकार </token>
+<token id="105"> एवं </token>
+<token id="106"> मिशन </token>
+<token id="107"> निदेशक </token>
+<token id="108"> अनिल </token>
+<token id="109"> श्रीवास्तव </token>
+<token id="110"> ने </token>
+<token id="111"> कहा </token>
+<token id="112"> कि </token>
+<token id="113"> आने </token>
+<token id="114"> वाला </token>
+<token id="115"> समय </token>
+<token id="116"> कम </token>
+<token id="117"> उत्सर्जन </token>
+<token id="118"> वाले </token>
+<token id="119"> वाहनों </token>
+<token id="120"> का </token>
+<token id="121"> है </token>
+<token id="122"> . </token>
+<token id="123"> श्रीवास्तव </token>
+<token id="124"> ने </token>
+<token id="125"> कहा </token>
+<token id="126"> कि </token>
+<token id="127"> आवागमन </token>
+<token id="128"> के </token>
+<token id="129"> साधनों </token>
+<token id="130"> को </token>
+<token id="131"> अब </token>
+<token id="132"> आमजन </token>
+<token id="133"> की </token>
+<token id="134"> अर्थव्यवस्था </token>
+<token id="135"> के </token>
+<token id="136"> अनुसार </token>
+<token id="137"> बदलना </token>
+<token id="138"> होगा </token>
+<token id="139"> . </token>
+<token id="140"> उन्होंने </token>
+<token id="141"> , </token>
+<token id="142"> ‘ </token>
+<token id="143"> हमें </token>
+<token id="144"> इस </token>
+<token id="145"> बात </token>
+<token id="146"> पर </token>
+<token id="147"> गौर </token>
+<token id="148"> करना </token>
+<token id="149"> चाहिए </token>
+<token id="150"> कि </token>
+<token id="151"> युगों </token>
+<token id="152"> से </token>
+<token id="153"> यातायात </token>
+<token id="154"> के </token>
+<token id="155"> साधनों </token>
+<token id="156"> / </token>
+<token id="157"> प्रणालियों </token>
+<token id="158"> के </token>
+<token id="159"> विकास </token>
+<token id="160"> की </token>
+<token id="161"> अपनी </token>
+<token id="162"> अपनी </token>
+<token id="163"> पृष्ठभूमि </token>
+<token id="164"> रही </token>
+<token id="165"> है </token>
+<token id="166"> . </token>
+<token id="167"> हाल </token>
+<token id="168"> में </token>
+<token id="169"> इसका </token>
+<token id="170"> विकास </token>
+<token id="171"> औपनिवेशिक </token>
+<token id="172"> शोषण </token>
+<token id="173"> के </token>
+<token id="174"> लिए </token>
+<token id="175"> किया </token>
+<token id="176"> गया </token>
+<token id="177"> था </token>
+<token id="178"> . </token>
+<token id="179"> अब </token>
+<token id="180"> इसे </token>
+<token id="181"> आम </token>
+<token id="182"> लोगों </token>
+<token id="183"> की </token>
+<token id="184"> अर्थव्यवस्था </token>
+<token id="185"> के </token>
+<token id="186"> अनुसार </token>
+<token id="187"> बदलना </token>
+<token id="188"> होगा </token>
+<token id="189"> . </token>
+<token id="190"> ’ </token>
+<token id="191"> श्रीवास्तव </token>
+<token id="192"> ने </token>
+<token id="193"> कहा </token>
+<token id="194"> , </token>
+<token id="195"> ‘ </token>
+<token id="196"> यह </token>
+<token id="197"> साफ </token>
+<token id="198"> है </token>
+<token id="199"> कि </token>
+<token id="200"> आने </token>
+<token id="201"> वाला </token>
+<token id="202"> समय </token>
+<token id="203"> अल्प </token>
+<token id="204"> उत्सर्जन </token>
+<token id="205"> वाले </token>
+<token id="206"> वाहनों </token>
+<token id="207"> का </token>
+<token id="208"> है </token>
+<token id="209"> . </token>
+<token id="210"> ’ </token>
+<token id="211"> वायगॉन </token>
+<token id="212"> इंडिया </token>
+<token id="213"> के </token>
+<token id="214"> प्रबंध </token>
+<token id="215"> निदेशक </token>
+<token id="216"> पवन </token>
+<token id="217"> चौधरी </token>
+<token id="218"> ने </token>
+<token id="219"> कहा </token>
+<token id="220"> कि </token>
+<token id="221"> बिजली </token>
+<token id="222"> के </token>
+<token id="223"> बल्ब </token>
+<token id="224"> और </token>
+<token id="225"> दूसरे </token>
+<token id="226"> उपकरणों </token>
+<token id="227"> की </token>
+<token id="228"> तरह </token>
+<token id="229"> बिजली </token>
+<token id="230"> के </token>
+<token id="231"> वाहन </token>
+<token id="232"> को </token>
+<token id="233"> चलन </token>
+<token id="234"> में </token>
+<token id="235"> लाने </token>
+<token id="236"> के </token>
+<token id="237"> लिए </token>
+<token id="238"> बुनियादी </token>
+<token id="239"> सुविधाओं </token>
+<token id="240"> का </token>
+<token id="241"> विकास </token>
+<token id="242"> हो </token>
+<token id="243"> जाएगा </token>
+<token id="244"> . </token>
+<token id="245"> उन्होंने </token>
+<token id="246"> कहा </token>
+<token id="247"> , </token>
+<token id="248"> ‘ </token>
+<token id="249"> ईवी </token>
+<token id="250"> प्रौद्योगिकी </token>
+<token id="251"> की </token>
+<token id="252"> मौजूदा </token>
+<token id="253"> कमजोरियों </token>
+<token id="254"> के </token>
+<token id="255"> कारण </token>
+<token id="256"> इसकी </token>
+<token id="257"> प्रगति </token>
+<token id="258"> को </token>
+<token id="259"> नहीं </token>
+<token id="260"> रोका </token>
+<token id="261"> जाना </token>
+<token id="262"> चाहिए </token>
+<token id="263"> . </token>
+<token id="264"> उन्होंने </token>
+<token id="265"> कहा </token>
+<token id="266"> कि </token>
+<token id="267"> जैसे </token>
+<token id="268"> बैंक </token>
+<token id="269"> अपने </token>
+<token id="270"> कारोबार </token>
+<token id="271"> को </token>
+<token id="272"> संभावित </token>
+<token id="273"> चुनौती </token>
+<token id="274"> देने </token>
+<token id="275"> वाली </token>
+<token id="276"> ब्लाक </token>
+<token id="277"> चेन </token>
+<token id="278"> प्रौद्योगिकी </token>
+<token id="279"> का </token>
+<token id="280"> खुद </token>
+<token id="281"> विकास </token>
+<token id="282"> कर </token>
+<token id="283"> रहे </token>
+<token id="284"> हैं </token>
+<token id="285"> वैसे </token>
+<token id="286"> ही </token>
+<token id="287"> डीजल-पेट्रोल </token>
+<token id="288"> इंजन </token>
+<token id="289"> वाले </token>
+<token id="290"> वाहनों </token>
+<token id="291"> के </token>
+<token id="292"> विनिर्माताओं </token>
+<token id="293"> को </token>
+<token id="294"> ईवी </token>
+<token id="295"> के </token>
+<token id="296"> विनिर्माण </token>
+<token id="297"> पर </token>
+<token id="298"> और </token>
+<token id="299"> ज्यादा </token>
+<token id="300"> जोर </token>
+<token id="301"> लगाना </token>
+<token id="302"> चाहिए </token>
+<token id="303"> . </token>
+<token id="304"> आब्जर्वर </token>
+<token id="305"> रिसर्च </token>
+<token id="306"> फाउंडेशन </token>
+<token id="307"> के </token>
+<token id="308"> चेयरमैन </token>
+<token id="309"> संजय </token>
+<token id="310"> जोशी </token>
+<token id="311"> ने </token>
+<token id="312"> भी </token>
+<token id="313"> कहा </token>
+<token id="314"> कि </token>
+<token id="315"> आने </token>
+<token id="316"> वाला </token>
+<token id="317"> समय </token>
+<token id="318"> तो </token>
+<token id="319"> ईवी </token>
+<token id="320"> जैसे </token>
+<token id="321"> प्रदूषणमुक्त </token>
+<token id="322"> वाहनों </token>
+<token id="323"> का </token>
+<token id="324"> ही </token>
+<token id="325"> होगा </token>
+<token id="326"> . </token>
+<token id="327"> हीरो </token>
+<token id="328"> इलेक्ट्रिक </token>
+<token id="329"> के </token>
+<token id="330"> प्रबंध </token>
+<token id="331"> निदेशक </token>
+<token id="332"> नवीन </token>
+<token id="333"> मुंजाल </token>
+<token id="334"> ने </token>
+<token id="335"> कहा </token>
+<token id="336"> , </token>
+<token id="337"> ‘ </token>
+<token id="338"> हम </token>
+<token id="339"> विद्युत </token>
+<token id="340"> वाहनों </token>
+<token id="341"> के </token>
+<token id="342"> लिए </token>
+<token id="343"> अनुकूल </token>
+<token id="344"> परिस्थितियां </token>
+<token id="345"> बनाने </token>
+<token id="346"> में </token>
+<token id="347"> लगे </token>
+<token id="348"> हैं </token>
+<token id="349"> . </token>
+<token id="350"> हम </token>
+<token id="351"> चुनौतियों </token>
+<token id="352"> को </token>
+<token id="353"> पार </token>
+<token id="354"> पाने </token>
+<token id="355"> में </token>
+<token id="356"> लगे </token>
+<token id="357"> हैं </token>
+<token id="358"> . </token>
+<token id="359"> उन्होंने </token>
+<token id="360"> कहा </token>
+<token id="361"> कि </token>
+<token id="362"> ईवी </token>
+<token id="363"> के </token>
+<token id="364"> बारे </token>
+<token id="365"> में </token>
+<token id="366"> अभी </token>
+<token id="367"> बहुत </token>
+<token id="368"> भ्रांतियां </token>
+<token id="369"> है </token>
+<token id="370"> जो </token>
+<token id="371"> इसके </token>
+<token id="372"> बाजार </token>
+<token id="373"> विस्तार </token>
+<token id="374"> में </token>
+<token id="375"> बाधा </token>
+<token id="376"> बन </token>
+<token id="377"> रही </token>
+<token id="378"> हैं </token>
+<token id="379"> . </token>
+<token id="380"> लोगों </token>
+<token id="381"> को </token>
+<token id="382"> लगता </token>
+<token id="383"> है </token>
+<token id="384"> कि </token>
+<token id="385"> इसे </token>
+<token id="386"> कैसे </token>
+<token id="387"> चार्ज </token>
+<token id="388"> किया </token>
+<token id="389"> जाएगा </token>
+<token id="390"> , </token>
+<token id="391"> कैसे </token>
+<token id="392"> इस्तेमाल </token>
+<token id="393"> किया </token>
+<token id="394"> जाएगा </token>
+<token id="395"> . </token>
+<EVENT id="e1" class="OCC" tokens="5,6" AnnConf="High"/>
+<EVENT id="e32" class="OCC" tokens="15" AnnConf="High"/>
+<EVENT id="e2" class="REP" tokens="19" AnnConf="High"/>
+<EVENT id="e3" class="OCC" tokens="32,33,34,35" AnnConf="High"/>
+<EVENT id="e4" class="REP" tokens="47" AnnConf="High"/>
+<EVENT id="e5" class="OCC" tokens="64,65" AnnConf="High"/>
+<EVENT id="e33" class="OCC" tokens="92" AnnConf="High"/>
+<EVENT id="e6" class="REP" tokens="111" AnnConf="High"/>
+<EVENT id="e7" class="REP" tokens="125" AnnConf="High"/>
+<EVENT id="e8" class="OCC" tokens="137,138" AnnConf="High"/>
+<EVENT id="e9" class="OCC" tokens="147,148,149" AnnConf="High"/>
+<EVENT id="e10" class="OCC" tokens="163,164,165" AnnConf="High"/>
+<EVENT id="e11" class="OCC" tokens="170,175,176,177" AnnConf="High"/>
+<EVENT id="e12" class="OCC" tokens="187,188" AnnConf="High"/>
+<EVENT id="e13" class="REP" tokens="193" AnnConf="High"/>
+<EVENT id="e14" class="REP" tokens="219" AnnConf="High"/>
+<EVENT id="e15" class="OCC" tokens="233,234,235" AnnConf="High"/>
+<EVENT id="e16" class="OCC" tokens="241,242,243" AnnConf="High"/>
+<EVENT id="e17" class="REP" tokens="246" AnnConf="High"/>
+<EVENT id="e18" class="OCC" tokens="259,260,261,262" AnnConf="High"/>
+<EVENT id="e19" class="REP" tokens="265" AnnConf="High"/>
+<EVENT id="e20" class="OCC" tokens="281,282,283,284" AnnConf="High"/>
+<EVENT id="e21" class="OCC" tokens="300,301,302" AnnConf="High"/>
+<EVENT id="e22" class="REP" tokens="313" AnnConf="High"/>
+<EVENT id="e23" class="OCC" tokens="317,325" AnnConf="High"/>
+<EVENT id="e24" class="REP" tokens="335" AnnConf="High"/>
+<EVENT id="e25" class="OCC" tokens="345,346,347,348" AnnConf="High"/>
+<EVENT id="e34" class="IAC" tokens="353,354" AnnConf="High"/>
+<EVENT id="e26" class="OCC" tokens="356,357" AnnConf="High"/>
+<EVENT id="e27" class="REP" tokens="360" AnnConf="High"/>
+<EVENT id="e28" class="OCC" tokens="375,376,377,378" AnnConf="High"/>
+<EVENT id="e29" class="OCC" tokens="382,383" AnnConf="High"/>
+<EVENT id="e30" class="OCC" tokens="387,388,389" AnnConf="High"/>
+<EVENT id="e31" class="OCC" tokens="392,393,394" AnnConf="High"/>
+<STATE id="s7" class="DESC" tokens="13" AnnConf="High"/>
+<STATE id="s8" class="DESC" tokens="41" AnnConf="High"/>
+<STATE id="s1" class="DECL" tokens="56" AnnConf="High"/>
+<STATE id="s2" class="DESC" tokens="68,69,70" AnnConf="High"/>
+<STATE id="s9" class="DECL" tokens="90" AnnConf="High"/>
+<STATE id="s3" class="DECL" tokens="121" AnnConf="High"/>
+<STATE id="s4" class="DESC" tokens="197,198" AnnConf="High"/>
+<STATE id="s5" class="DECL" tokens="208" AnnConf="High"/>
+<STATE id="s6" class="DESC" tokens="368,369" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="11" AnnConf="High"/>
+<SLINK f_id="e2" s_id="e3" AnnConf="High"/>
+<SLINK f_id="e4" s_id="e5" AnnConf="High"/>
+<SLINK f_id="e6" s_id="e7" AnnConf="High"/>
+<SLINK f_id="e7" s_id="e8" AnnConf="High"/>
+<SLINK f_id="e13" s_id="e14" AnnConf="High"/>
+<SLINK f_id="e14" s_id="e15" AnnConf="High"/>
+<SLINK f_id="e17" s_id="e18" AnnConf="High"/>
+<SLINK f_id="e19" s_id="e20" AnnConf="High"/>
+<SLINK f_id="e22" s_id="e23" AnnConf="Low"/>
+<SLINK f_id="e24" s_id="e25" AnnConf="High"/>
+<SLINK f_id="e27" s_id="e28" AnnConf="High"/>
+<SLINK f_id="e34" s_id="e26" AnnConf="High"/>
+<TLINK f_id="e32" s_id="e2" class="overlap" AnnConf="High"/>
+<TLINK f_id="e33" s_id="e6" class="overlap" AnnConf="High"/>
+<TLINK f_id="e11" s_id="e12" class="before" AnnConf="High"/>
+<TLINK f_id="e20" s_id="e21" class="overlap" AnnConf="High"/>
+<TLINK f_id="e30" s_id="e31" class="overlap" AnnConf="High"/>
+</document>

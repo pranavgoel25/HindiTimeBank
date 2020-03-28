@@ -1,0 +1,137 @@
+<document>
+<token id="1"> ﻿जागरण </token>
+<token id="2"> संवाददाता </token>
+<token id="3"> , </token>
+<token id="4"> संगरूर </token>
+<token id="5"> : </token>
+<token id="6"> गांव </token>
+<token id="7"> कपियाल </token>
+<token id="8"> के </token>
+<token id="9"> शैलर </token>
+<token id="10"> में </token>
+<token id="11"> से </token>
+<token id="12"> अज्ञात </token>
+<token id="13"> व्यक्तियों </token>
+<token id="14"> ने </token>
+<token id="15"> रात </token>
+<token id="16"> के </token>
+<token id="17"> समय </token>
+<token id="18"> दाखिल </token>
+<token id="19"> होकर </token>
+<token id="20"> 165 </token>
+<token id="21"> बोरी </token>
+<token id="22"> धान </token>
+<token id="23"> चोरी </token>
+<token id="24"> कर </token>
+<token id="25"> लिया </token>
+<token id="26"> . </token>
+<token id="27"> पुलिस </token>
+<token id="28"> ने </token>
+<token id="29"> अज्ञात </token>
+<token id="30"> व्यक्तियों </token>
+<token id="31"> के </token>
+<token id="32"> खिलाफ </token>
+<token id="33"> मामला </token>
+<token id="34"> दर्ज </token>
+<token id="35"> कर </token>
+<token id="36"> जांच-पडताल </token>
+<token id="37"> शुरू </token>
+<token id="38"> कर </token>
+<token id="39"> दी </token>
+<token id="40"> . </token>
+<token id="41"> चोरी </token>
+<token id="42"> हुई </token>
+<token id="43"> धान </token>
+<token id="44"> की </token>
+<token id="45"> कीमत </token>
+<token id="46"> एक </token>
+<token id="47"> लाख </token>
+<token id="48"> रुपये </token>
+<token id="49"> बताई </token>
+<token id="50"> जा </token>
+<token id="51"> रही </token>
+<token id="52"> है </token>
+<token id="53"> . </token>
+<token id="54"> पुलिस </token>
+<token id="55"> को </token>
+<token id="56"> जानकारी </token>
+<token id="57"> देते </token>
+<token id="58"> हुए </token>
+<token id="59"> ह </token>
+<token id="60"> ¨ </token>
+<token id="61"> रदर </token>
+<token id="62"> गोयल </token>
+<token id="63"> निवासी </token>
+<token id="64"> भवानीगढ़ </token>
+<token id="65"> ने </token>
+<token id="66"> बताया </token>
+<token id="67"> कि </token>
+<token id="68"> 27 </token>
+<token id="69"> अक्टूबर </token>
+<token id="70"> की </token>
+<token id="71"> रात </token>
+<token id="72"> को </token>
+<token id="73"> शैलर </token>
+<token id="74"> में </token>
+<token id="75"> से </token>
+<token id="76"> कुछ </token>
+<token id="77"> अज्ञात </token>
+<token id="78"> व्यक्ति </token>
+<token id="79"> दाखिल </token>
+<token id="80"> हो </token>
+<token id="81"> गए </token>
+<token id="82"> . </token>
+<token id="83"> यह </token>
+<token id="84"> व्यक्ति </token>
+<token id="85"> शैलर </token>
+<token id="86"> में </token>
+<token id="87"> से </token>
+<token id="88"> 165 </token>
+<token id="89"> धान </token>
+<token id="90"> की </token>
+<token id="91"> बोरियां </token>
+<token id="92"> चोरी </token>
+<token id="93"> करके </token>
+<token id="94"> फरार </token>
+<token id="95"> हो </token>
+<token id="96"> गए </token>
+<token id="97"> . </token>
+<token id="98"> पुलिस </token>
+<token id="99"> ने </token>
+<token id="100"> ह </token>
+<token id="101"> ¨ </token>
+<token id="102"> रदर </token>
+<token id="103"> गोयल </token>
+<token id="104"> की </token>
+<token id="105"> शिकायत </token>
+<token id="106"> के </token>
+<token id="107"> आधार </token>
+<token id="108"> पर </token>
+<token id="109"> अज्ञात </token>
+<token id="110"> व्यक्तियों </token>
+<token id="111"> के </token>
+<token id="112"> खिलाफ </token>
+<token id="113"> मामला </token>
+<token id="114"> दर्ज </token>
+<token id="115"> कर </token>
+<token id="116"> लिया </token>
+<token id="117"> . </token>
+<EVENT id="e1" class="OCC" tokens="23,24,25" annConf="High"/>
+<EVENT id="e2" class="IAC" tokens="34,35" annConf="High"/>
+<EVENT id="e3" class="ASP" tokens="37,38,39" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="41,42" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="49,50,51,52" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="56,57,58" annConf="High"/>
+<EVENT id="e7" class="REP" tokens="66" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="79,80,81" annConf="High"/>
+<EVENT id="e9" class="IAC" tokens="92,93" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="94,95,96" annConf="High"/>
+<EVENT id="e11" class="OCC" tokens="114,115,116" annConf="High"/>
+<TIMEX id="t1" tokens="68,69" annConf="High" class="DATE"/>
+<TIMEX id="t2" tokens="71" annConf="High" class="TIME"/>
+<ALINK f_id="e3" s_id="e2" class="INITIATION"/>
+<SLINK f_id="e7" s_id="e8" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="High"/>
+<TLINK f_id="e6" s_id="e7" class="overlap" AnnConf="High"/>
+<TLINK f_id="e9" s_id="e10" class="before" AnnConf="High"/>
+</document>

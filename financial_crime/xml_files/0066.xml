@@ -1,0 +1,955 @@
+<document>
+<token id="1"> जागरण </token>
+<token id="2"> संवाददाता </token>
+
+<token id="3"> अलीगढ़ </token>
+<token id="4"> : </token>
+<token id="5"> द </token>
+<token id="6"> डीपीएस </token>
+<token id="7"> इंटरनेशनल </token>
+<token id="8"> एथलेटिक्स </token>
+<token id="9"> मीट </token>
+<token id="10"> में </token>
+<token id="11"> डीपीएस </token>
+<token id="12"> सीनियर </token>
+<token id="13"> विंग </token>
+
+<token id="14"> अलीगढ़ </token>
+<token id="15"> के </token>
+<token id="16"> छह </token>
+<token id="17"> खिलाड़ियों </token>
+<token id="18"> ने </token>
+<token id="19"> सात </token>
+<token id="20"> स्वर्ण </token>
+<token id="21"> व </token>
+<token id="22"> तीन </token>
+<token id="23"> रजत </token>
+<token id="24"> पदक </token>
+<token id="25"> हासिल </token>
+<token id="26"> कर </token>
+<token id="27"> स्कूल </token>
+<token id="28"> व </token>
+<token id="29"> शहर </token>
+<token id="30"> का </token>
+<token id="31"> नाम </token>
+<token id="32"> रोशन </token>
+<token id="33"> किया </token>
+<token id="34"> . </token>
+
+<token id="35"> स्कूल </token>
+<token id="36"> के </token>
+<token id="37"> एथलेटिक्स </token>
+<token id="38"> कोच </token>
+<token id="39"> जीशान </token>
+<token id="40"> ने </token>
+<token id="41"> बताया </token>
+<token id="42"> कि </token>
+<token id="43"> प्रतियोगिता </token>
+<token id="44"> 24 </token>
+<token id="45"> से </token>
+<token id="46"> 26 </token>
+<token id="47"> नवंबर </token>
+<token id="48"> तक </token>
+<token id="49"> मेरठ </token>
+<token id="50"> में </token>
+<token id="51"> कराई </token>
+<token id="52"> गई </token>
+<token id="53"> . </token>
+
+<token id="54"> इसमें </token>
+<token id="55"> देश </token>
+<token id="56"> के </token>
+<token id="57"> 59 </token>
+<token id="58"> स्कूलों </token>
+<token id="59"> के </token>
+<token id="60"> 600 </token>
+<token id="61"> खिलाड़ियों </token>
+<token id="62"> ने </token>
+<token id="63"> प्रतिभाग </token>
+<token id="64"> किया </token>
+<token id="65"> . </token>
+
+<token id="66"> वीजा </token>
+<token id="67"> की </token>
+<token id="68"> समस्या </token>
+<token id="69"> के </token>
+<token id="70"> चलते </token>
+<token id="71"> बाहरी </token>
+<token id="72"> देशों </token>
+<token id="73"> के </token>
+<token id="74"> खिलाड़ी </token>
+<token id="75"> नहीं </token>
+<token id="76"> आ </token>
+<token id="77"> सके </token>
+<token id="78"> . </token>
+
+<token id="79"> डीपीएस </token>
+<token id="80"> के </token>
+<token id="81"> छह </token>
+<token id="82"> खिलाड़ियों </token>
+<token id="83"> में </token>
+<token id="84"> पालेंद्र </token>
+<token id="85"> चौधरी </token>
+<token id="86"> ने </token>
+<token id="87"> 100 </token>
+<token id="88"> व </token>
+<token id="89"> 200 </token>
+<token id="90"> मीटर </token>
+<token id="91"> दौड़ </token>
+<token id="92"> में </token>
+<token id="93"> स्वर्ण </token>
+<token id="94"> पदक </token>
+<token id="95"> जीते </token>
+<token id="96"> . </token>
+
+<token id="97"> 400 </token>
+<token id="98"> मीटर </token>
+<token id="99"> दौड़ </token>
+<token id="100"> में </token>
+<token id="101"> गौरव </token>
+<token id="102"> कुमार </token>
+<token id="103"> ने </token>
+<token id="104"> रजत </token>
+
+<token id="105"> अतुल </token>
+<token id="106"> चौधरी </token>
+<token id="107"> ने </token>
+<token id="108"> 800 </token>
+<token id="109"> मीटर </token>
+<token id="110"> में </token>
+<token id="111"> रजत </token>
+<token id="112"> व </token>
+<token id="113"> 1500 </token>
+<token id="114"> मीटर </token>
+<token id="115"> दौड़ </token>
+<token id="116"> में </token>
+<token id="117"> स्वर्ण </token>
+<token id="118"> पदक </token>
+<token id="119"> जीता </token>
+<token id="120"> . </token>
+
+<token id="121"> लांग </token>
+<token id="122"> जंप </token>
+<token id="123"> में </token>
+<token id="124"> जयदीप </token>
+<token id="125"> सिंह </token>
+<token id="126"> ने </token>
+<token id="127"> रजत </token>
+<token id="128"> पदक </token>
+<token id="129"> जीता </token>
+<token id="130"> . </token>
+
+<token id="131"> चार </token>
+<token id="132"> गुणा </token>
+<token id="133"> 100 </token>
+<token id="134"> मीटर </token>
+<token id="135"> रिले </token>
+<token id="136"> रेस </token>
+<token id="137"> में </token>
+<token id="138"> पालेंद्र </token>
+
+<token id="139"> जयदीप </token>
+
+<token id="140"> गौरव </token>
+<token id="141"> व </token>
+<token id="142"> भानु </token>
+<token id="143"> प्रताप </token>
+<token id="144"> सिंह </token>
+<token id="145"> ने </token>
+<token id="146"> एक-एक </token>
+<token id="147"> गोल्ड </token>
+<token id="148"> हासिल </token>
+<token id="149"> किया </token>
+<token id="150"> . </token>
+
+<token id="151"> प्रधानाचार्य </token>
+<token id="152"> रश्मि </token>
+<token id="153"> ग्रोवर </token>
+<token id="154"> ने </token>
+<token id="155"> बताया </token>
+<token id="156"> कि </token>
+<token id="157"> इस </token>
+<token id="158"> प्रदर्शन </token>
+<token id="159"> के </token>
+<token id="160"> आधार </token>
+<token id="161"> पर </token>
+<token id="162"> डीपीएस </token>
+<token id="163"> टीम </token>
+<token id="164"> को </token>
+<token id="165"> 50 </token>
+<token id="166"> प्वांइट्स </token>
+<token id="167"> के </token>
+<token id="168"> साथ </token>
+<token id="169"> प्रथम </token>
+<token id="170"> स्थान </token>
+<token id="171"> मिला </token>
+<token id="172"> . </token>
+
+<token id="173"> साथ </token>
+<token id="174"> ही </token>
+<token id="175"> 1.21 </token>
+<token id="176"> लाख </token>
+<token id="177"> रुपये </token>
+<token id="178"> पुरस्कार </token>
+<token id="179"> राशि </token>
+<token id="180"> का </token>
+<token id="181"> चेक </token>
+<token id="182"> भी </token>
+<token id="183"> दिया </token>
+<token id="184"> गया </token>
+<token id="185"> . </token>
+
+<token id="186"> स्कूल </token>
+<token id="187"> के </token>
+<token id="188"> पीवीसी </token>
+<token id="189"> स्वप्निल </token>
+<token id="190"> जैन </token>
+<token id="191"> ने </token>
+<token id="192"> खिलाड़ियों </token>
+<token id="193"> को </token>
+<token id="194"> बधाई </token>
+<token id="195"> देते </token>
+<token id="196"> हुए </token>
+<token id="197"> कहा </token>
+<token id="198"> कि </token>
+<token id="199"> उन्होंने </token>
+<token id="200"> स्कूल </token>
+<token id="201"> का </token>
+<token id="202"> नाम </token>
+<token id="203"> विश्वस्तर </token>
+<token id="204"> पर </token>
+<token id="205"> चमकाया </token>
+<token id="206"> है </token>
+<token id="207"> . </token>
+
+<token id="208"> सोमवार </token>
+<token id="209"> को </token>
+<token id="210"> स्कूल </token>
+<token id="211"> में </token>
+<token id="212"> सभी </token>
+<token id="213"> छह </token>
+<token id="214"> एथलीट्स </token>
+<token id="215"> का </token>
+<token id="216"> सम्मान </token>
+<token id="217"> समारोह </token>
+<token id="218"> किया </token>
+<token id="219"> जाएगा </token>
+<token id="220"> . </token>
+
+<token id="221"> औरंगाबाद </token>
+<token id="222"> . </token>
+
+<token id="223"> व </token>
+<token id="224"> प्रखंड </token>
+<token id="225"> के </token>
+<token id="226"> गांवों </token>
+<token id="227"> में </token>
+<token id="228"> विकास </token>
+<token id="229"> योजनाओं </token>
+<token id="230"> का </token>
+<token id="231"> कार्य </token>
+<token id="232"> अधूरा </token>
+<token id="233"> पड़ा </token>
+<token id="234"> है </token>
+<token id="235"> . </token>
+
+<token id="236"> विकास </token>
+<token id="237"> का </token>
+<token id="238"> पैसा </token>
+<token id="239"> अग्रिम </token>
+<token id="240"> निकाल </token>
+<token id="241"> पंचायत </token>
+<token id="242"> सचिव </token>
+<token id="243"> खा </token>
+<token id="244"> गए </token>
+<token id="245"> . </token>
+
+<token id="246"> लाखों </token>
+<token id="247"> रुपये </token>
+<token id="248"> गबन </token>
+<token id="249"> हो </token>
+<token id="250"> गया </token>
+<token id="251"> परंतु </token>
+<token id="252"> अधिकारी </token>
+<token id="253"> मौन </token>
+<token id="254"> हैं </token>
+<token id="255"> . </token>
+
+<token id="256"> पंचायत </token>
+<token id="257"> सचिव </token>
+<token id="258"> के </token>
+<token id="259"> खिलाफ </token>
+<token id="260"> जांच </token>
+<token id="261"> हुई </token>
+<token id="262"> परंतु </token>
+<token id="263"> कार्रवाई </token>
+<token id="264"> नहीं </token>
+<token id="265"> हुआ </token>
+<token id="266"> . </token>
+
+<token id="267"> कंतरी </token>
+<token id="268"> गांव </token>
+<token id="269"> में </token>
+<token id="270"> कब्रिस्तान </token>
+<token id="271"> की </token>
+<token id="272"> घेराबंदी </token>
+<token id="273"> का </token>
+<token id="274"> कार्य </token>
+<token id="275"> वित्तिय </token>
+<token id="276"> वर्ष </token>
+<token id="277"> 2012 </token>
+<token id="278"> - </token>
+<token id="279"> 13 </token>
+<token id="280"> में </token>
+<token id="281"> प्रारंभ </token>
+<token id="282"> हुआ </token>
+<token id="283"> . </token>
+
+<token id="284"> कार्य </token>
+<token id="285"> का </token>
+<token id="286"> जिम्मा </token>
+<token id="287"> तत्कालीन </token>
+<token id="288"> पंचायत </token>
+<token id="289"> सेवक </token>
+<token id="290"> सुरेंद्र </token>
+<token id="291"> प्रसाद </token>
+<token id="292"> ¨ </token>
+<token id="293"> सह </token>
+<token id="294"> को </token>
+<token id="295"> दिया </token>
+<token id="296"> गया </token>
+<token id="297"> . </token>
+
+<token id="298"> घेराबंदी </token>
+<token id="299"> का </token>
+<token id="300"> प्राक्कलन </token>
+<token id="301"> 9 </token>
+<token id="302"> था </token>
+<token id="303"> . </token>
+
+<token id="304"> पंचायत </token>
+<token id="305"> सेवक </token>
+<token id="306"> ने </token>
+<token id="307"> अग्रिम </token>
+<token id="308"> के </token>
+<token id="309"> रुप </token>
+<token id="310"> में </token>
+<token id="311"> 3 </token>
+
+<token id="312"> 500 </token>
+<token id="313"> रुपये </token>
+<token id="314"> की </token>
+<token id="315"> निकासी </token>
+<token id="316"> कर </token>
+<token id="317"> ली </token>
+<token id="318"> . </token>
+
+<token id="319"> 1 </token>
+
+<token id="320"> 662 </token>
+<token id="321"> रुपये </token>
+<token id="322"> का </token>
+<token id="323"> कार्य </token>
+<token id="324"> कराया </token>
+<token id="325"> और </token>
+<token id="326"> 23838 </token>
+<token id="327"> रुपये </token>
+<token id="328"> अपने </token>
+<token id="329"> पास </token>
+<token id="330"> रख </token>
+<token id="331"> लिया </token>
+<token id="332"> . </token>
+
+<token id="333"> बीडीओ </token>
+<token id="334"> पंकज </token>
+<token id="335"> कुमार </token>
+<token id="336"> शक्तिधर </token>
+<token id="337"> ने </token>
+<token id="338"> कई </token>
+<token id="339"> बार </token>
+<token id="340"> योजना </token>
+<token id="341"> पूरा </token>
+<token id="342"> करने </token>
+<token id="343"> एवं </token>
+<token id="344"> पैसा </token>
+<token id="345"> जमा </token>
+<token id="346"> करने </token>
+<token id="347"> के </token>
+<token id="348"> लिए </token>
+<token id="349"> पंचायत </token>
+<token id="350"> सेवक </token>
+<token id="351"> को </token>
+<token id="352"> स्मार </token>
+<token id="353"> पत्र </token>
+<token id="354"> दिया </token>
+<token id="355"> . </token>
+
+<token id="356"> बीडीओ </token>
+<token id="357"> के </token>
+<token id="358"> आदेश </token>
+<token id="359"> को </token>
+<token id="360"> पंचायत </token>
+<token id="361"> सेवक </token>
+<token id="362"> ने </token>
+<token id="363"> हवा </token>
+<token id="364"> में </token>
+<token id="365"> उड़ा </token>
+<token id="366"> दिया </token>
+<token id="367"> . </token>
+
+<token id="368"> अब </token>
+<token id="369"> तक </token>
+<token id="370"> यह </token>
+<token id="371"> योजना </token>
+<token id="372"> अधूरा </token>
+<token id="373"> पड़ा </token>
+<token id="374"> है </token>
+<token id="375"> . </token>
+
+<token id="376"> बेढ़ना </token>
+<token id="377"> पंचायत </token>
+<token id="378"> के </token>
+<token id="379"> प्राथमिक </token>
+<token id="380"> विद्यालय </token>
+<token id="381"> बरहेता </token>
+<token id="382"> परिसर </token>
+<token id="383"> में </token>
+<token id="384"> आंगनबाड़ी </token>
+<token id="385"> केंद्र </token>
+<token id="386"> का </token>
+<token id="387"> निर्माण </token>
+<token id="388"> वित्तिय </token>
+<token id="389"> वर्ष </token>
+<token id="390"> 2012 </token>
+<token id="391"> - </token>
+<token id="392"> 13 </token>
+<token id="393"> में </token>
+<token id="394"> प्रारंभ </token>
+<token id="395"> हुआ </token>
+<token id="396"> . </token>
+
+<token id="397"> केंद्र </token>
+<token id="398"> के </token>
+<token id="399"> निर्माण </token>
+<token id="400"> के </token>
+<token id="401"> लिए </token>
+<token id="402"> 69800 </token>
+<token id="403"> रुपये </token>
+<token id="404"> स्वीकृत </token>
+<token id="405"> हुई </token>
+<token id="406"> . </token>
+
+<token id="407"> योजना </token>
+<token id="408"> की </token>
+<token id="409"> फाइल </token>
+<token id="410"> खोल </token>
+<token id="411"> निर्माण </token>
+<token id="412"> कार्य </token>
+<token id="413"> प्रारंभ </token>
+<token id="414"> किया </token>
+<token id="415"> गया </token>
+<token id="416"> परंतु </token>
+<token id="417"> अब </token>
+<token id="418"> तक </token>
+<token id="419"> योजना </token>
+<token id="420"> अधूरा </token>
+<token id="421"> है </token>
+<token id="422"> . </token>
+
+<token id="423"> कार्य </token>
+<token id="424"> का </token>
+<token id="425"> जिम्मा </token>
+<token id="426"> जनसेवक </token>
+<token id="427"> विनोद </token>
+<token id="428"> बेक </token>
+<token id="429"> को </token>
+<token id="430"> मिली </token>
+<token id="431"> थी </token>
+<token id="432"> . </token>
+
+<token id="433"> जनसेवक </token>
+<token id="434"> ने </token>
+<token id="435"> अग्रिम </token>
+<token id="436"> के </token>
+<token id="437"> रुप </token>
+<token id="438"> में </token>
+<token id="439"> 47500 </token>
+<token id="440"> रुपये </token>
+<token id="441"> की </token>
+<token id="442"> निकासी </token>
+<token id="443"> कर </token>
+<token id="444"> ली </token>
+<token id="445"> . </token>
+
+<token id="446"> मात्र </token>
+<token id="447"> 247544 </token>
+<token id="448"> रुपये </token>
+<token id="449"> कार्य </token>
+<token id="450"> कराया </token>
+<token id="451"> और </token>
+<token id="452"> अब </token>
+<token id="453"> तक </token>
+<token id="454"> 159956 </token>
+<token id="455"> रुपये </token>
+<token id="456"> जमा </token>
+<token id="457"> नहीं </token>
+<token id="458"> किया </token>
+<token id="459"> . </token>
+
+<token id="460"> यहीं </token>
+<token id="461"> हाल </token>
+<token id="462"> पूर्वी </token>
+<token id="463"> केताकी </token>
+<token id="464"> पंचायत </token>
+<token id="465"> के </token>
+<token id="466"> आंगनबाड़ी </token>
+<token id="467"> केंद्र </token>
+<token id="468"> दोसमा </token>
+<token id="469"> का </token>
+<token id="470"> रहा </token>
+<token id="471"> . </token>
+
+<token id="472"> केंद्र </token>
+<token id="473"> के </token>
+<token id="474"> निर्माण </token>
+<token id="475"> पर </token>
+<token id="476"> 69800 </token>
+<token id="477"> रुपये </token>
+<token id="478"> खर्च </token>
+<token id="479"> होना </token>
+<token id="480"> था </token>
+<token id="481"> . </token>
+
+<token id="482"> पंचायत </token>
+<token id="483"> सेवक </token>
+<token id="484"> ने </token>
+<token id="485"> भवन </token>
+<token id="486"> निर्माण </token>
+<token id="487"> के </token>
+<token id="488"> लिए </token>
+<token id="489"> 497500 </token>
+<token id="490"> रुपये </token>
+<token id="491"> अग्रिम </token>
+<token id="492"> निकासी </token>
+<token id="493"> कर </token>
+<token id="494"> ली </token>
+<token id="495"> . </token>
+
+<token id="496"> कार्य </token>
+<token id="497"> मात्र </token>
+<token id="498"> 249883 </token>
+<token id="499"> रुपये </token>
+<token id="500"> का </token>
+<token id="501"> हुआ </token>
+<token id="502"> . </token>
+
+<token id="503"> सरकार </token>
+<token id="504"> का </token>
+<token id="505"> 247617 </token>
+<token id="506"> रुपये </token>
+<token id="507"> बकाया </token>
+<token id="508"> है </token>
+<token id="509"> . </token>
+
+<token id="510"> पंचायत </token>
+<token id="511"> सेवक </token>
+<token id="512"> पैसा </token>
+<token id="513"> पांच </token>
+<token id="514"> वर्षों </token>
+<token id="515"> से </token>
+<token id="516"> रखे </token>
+<token id="517"> हुए </token>
+<token id="518"> है </token>
+<token id="519"> परंतु </token>
+<token id="520"> अब </token>
+<token id="521"> तक </token>
+<token id="522"> कोई </token>
+<token id="523"> कार्रवाई </token>
+<token id="524"> नहीं </token>
+<token id="525"> हुआ </token>
+<token id="526"> . </token>
+
+<token id="527"> यही </token>
+<token id="528"> हाल </token>
+<token id="529"> आंगनबाड़ी </token>
+<token id="530"> केंद्र </token>
+<token id="531"> तेतरीया </token>
+<token id="532"> एवं </token>
+<token id="533"> विश्रामपुर </token>
+<token id="534"> का </token>
+<token id="535"> है </token>
+<token id="536"> . </token>
+
+<token id="537"> पंचायत </token>
+<token id="538"> सेवक </token>
+<token id="539"> दिलकेश्वर </token>
+<token id="540"> रिकियासन </token>
+<token id="541"> कई </token>
+<token id="542"> योजनाओं </token>
+<token id="543"> का </token>
+<token id="544"> पैसा </token>
+<token id="545"> अपने </token>
+<token id="546"> पास </token>
+<token id="547"> रखे </token>
+<token id="548"> हुए </token>
+<token id="549"> है </token>
+<token id="550"> . </token>
+
+<token id="551"> चापाकल </token>
+<token id="552"> लगाने </token>
+<token id="553"> में </token>
+<token id="554"> व्यापक </token>
+<token id="555"> पैमाने </token>
+<token id="556"> पर </token>
+<token id="557"> धांधली </token>
+<token id="558"> हुई </token>
+<token id="559"> है </token>
+<token id="560"> . </token>
+
+<token id="561"> बगैर </token>
+<token id="562"> चापाकल </token>
+<token id="563"> लगाए </token>
+<token id="564"> पैसा </token>
+<token id="565"> की </token>
+<token id="566"> निकासी </token>
+<token id="567"> कर </token>
+<token id="568"> ली </token>
+<token id="569"> गई </token>
+<token id="570"> है </token>
+<token id="571"> . </token>
+
+<token id="572"> बताया </token>
+<token id="573"> जाता </token>
+<token id="574"> है </token>
+<token id="575"> कि </token>
+<token id="576"> हसौली </token>
+<token id="577"> के </token>
+<token id="578"> कोईरी </token>
+<token id="579"> बिगहा </token>
+<token id="580"> में </token>
+<token id="581"> बलि </token>
+<token id="582"> मेहता </token>
+
+<token id="583"> दुलारे </token>
+<token id="584"> में </token>
+<token id="585"> देवी </token>
+<token id="586"> मंदिर </token>
+
+<token id="587"> पथरा </token>
+<token id="588"> में </token>
+<token id="589"> रामजी </token>
+<token id="590"> भूईयां </token>
+
+<token id="591"> करमा </token>
+<token id="592"> में </token>
+<token id="593"> गोपाल </token>
+<token id="594"> यादव </token>
+<token id="595"> के </token>
+<token id="596"> घर </token>
+<token id="597"> के </token>
+<token id="598"> पास </token>
+<token id="599"> चापाकल </token>
+<token id="600"> लगाना </token>
+<token id="601"> था </token>
+<token id="602"> . </token>
+
+<token id="603"> वित्तिय </token>
+<token id="604"> वर्ष </token>
+<token id="605"> 2012 </token>
+<token id="606"> - </token>
+<token id="607"> 13 </token>
+<token id="608"> में </token>
+<token id="609"> योजना </token>
+<token id="610"> स्वीकृत </token>
+<token id="611"> हुआ </token>
+<token id="612"> . </token>
+
+<token id="613"> पंचायत </token>
+<token id="614"> सेवक </token>
+<token id="615"> दिलकेश्वर </token>
+<token id="616"> रिकियासन </token>
+<token id="617"> एवं </token>
+<token id="618"> मिथिलेश </token>
+<token id="619"> कुमार </token>
+<token id="620"> आरोही </token>
+<token id="621"> संवेदक </token>
+<token id="622"> बने </token>
+<token id="623"> . </token>
+
+<token id="624"> दोनों </token>
+<token id="625"> ने </token>
+<token id="626"> पैसे </token>
+<token id="627"> की </token>
+<token id="628"> निकासी </token>
+<token id="629"> कर </token>
+<token id="630"> ली </token>
+<token id="631"> परंतु </token>
+<token id="632"> कोई </token>
+<token id="633"> कार्रवाई </token>
+<token id="634"> नहीं </token>
+<token id="635"> हुई </token>
+<token id="636"> . </token>
+
+<token id="637"> यही </token>
+<token id="638"> हाल </token>
+<token id="639"> कई </token>
+<token id="640"> और </token>
+<token id="641"> विकास </token>
+<token id="642"> योजनाओं </token>
+<token id="643"> का </token>
+<token id="644"> है </token>
+<token id="645"> . </token>
+
+<token id="646"> धरातल </token>
+<token id="647"> पर </token>
+<token id="648"> कार्य </token>
+<token id="649"> किए </token>
+<token id="650"> बगैर </token>
+<token id="651"> पैसे </token>
+<token id="652"> की </token>
+<token id="653"> निकासी </token>
+<token id="654"> कर </token>
+<token id="655"> ली </token>
+<token id="656"> गई </token>
+<token id="657"> . </token>
+
+<token id="658"> अधिकारी </token>
+<token id="659"> धरातल </token>
+<token id="660"> पर </token>
+<token id="661"> योजना </token>
+<token id="662"> खोजते </token>
+<token id="663"> रहे </token>
+<token id="664"> पंचायत </token>
+<token id="665"> सेवक </token>
+<token id="666"> व </token>
+<token id="667"> जन </token>
+<token id="668"> सेवक </token>
+<token id="669"> उन्हें </token>
+<token id="670"> वरगलाते </token>
+<token id="671"> रहे </token>
+<token id="672"> . </token>
+
+<token id="673"> मैंने </token>
+<token id="674"> 40 </token>
+<token id="675"> दिन </token>
+<token id="676"> पहले </token>
+<token id="677"> जिला </token>
+<token id="678"> अधिकारी </token>
+<token id="679"> एवं </token>
+<token id="680"> अन्य </token>
+<token id="681"> अधिकारियों </token>
+<token id="682"> को </token>
+<token id="683"> कार्रवाई </token>
+<token id="684"> के </token>
+<token id="685"> लिए </token>
+<token id="686"> रिपोर्ट </token>
+<token id="687"> भेज </token>
+<token id="688"> दिया </token>
+<token id="689"> है </token>
+<token id="690"> . </token>
+
+<token id="691"> कई </token>
+<token id="692"> पंचायत </token>
+<token id="693"> सेवक </token>
+<token id="694"> पैसा </token>
+<token id="695"> लेकर </token>
+<token id="696"> गायब </token>
+<token id="697"> हो </token>
+<token id="698"> गए </token>
+<token id="699"> हैं </token>
+<token id="700"> . </token>
+
+<token id="701"> कई </token>
+<token id="702"> बार </token>
+<token id="703"> उन्हें </token>
+<token id="704"> स्मार </token>
+<token id="705"> पत्र </token>
+<token id="706"> लिखा </token>
+<token id="707"> परंतु </token>
+<token id="708"> न </token>
+<token id="709"> तो </token>
+<token id="710"> योजना </token>
+<token id="711"> को </token>
+<token id="712"> पूरा </token>
+<token id="713"> किया </token>
+<token id="714"> और </token>
+<token id="715"> न </token>
+<token id="716"> ही </token>
+<token id="717"> पैसा </token>
+<token id="718"> जमा </token>
+<token id="719"> की </token>
+<token id="720"> . </token>
+
+<token id="721"> अब </token>
+<token id="722"> पंचायत </token>
+<token id="723"> सचिव </token>
+<token id="724"> हमें </token>
+<token id="725"> जान </token>
+<token id="726"> मारने </token>
+<token id="727"> की </token>
+<token id="728"> धमकी </token>
+<token id="729"> दे </token>
+<token id="730"> रही </token>
+<token id="731"> हैं </token>
+<token id="732"> . </token>
+
+<token id="733"> मैं </token>
+<token id="734"> डरा </token>
+<token id="735"> सहमा </token>
+<token id="736"> रहता </token>
+<token id="737"> हूं </token>
+<token id="738"> . </token>
+
+<token id="739"> दोषी </token>
+<token id="740"> पंचायत </token>
+<token id="741"> सेवकों </token>
+<token id="742"> पर </token>
+<token id="743"> कार्रवाई </token>
+<token id="744"> के </token>
+<token id="745"> लिए </token>
+<token id="746"> प्रपत्र </token>
+<token id="747"> क </token>
+<token id="748"> गठित </token>
+<token id="749"> कर </token>
+<token id="750"> भेजा </token>
+<token id="751"> है </token>
+<token id="752"> . </token>
+<EVENT id="e1" class="OCC " tokens="5,6,7,8,9" AnnConf="High"/>
+<EVENT id="e10" class="OCC " tokens="97,98,99" AnnConf="High"/>
+<EVENT id="e11" class="OCC " tokens="113,114,115" AnnConf="High"/>
+<EVENT id="e12" class="OCC " tokens="119" AnnConf="High"/>
+<EVENT id="e13" class="OCC " tokens="121,122" AnnConf="High"/>
+<EVENT id="e14" class="OCC " tokens="129" AnnConf="High"/>
+<EVENT id="e15" class="OCC " tokens="131,132,133,134,135,136" AnnConf="High"/>
+<EVENT id="e16" class="OCC " tokens="148,149" AnnConf="High"/>
+<EVENT id="e17" class="REP " tokens="155" AnnConf="High"/>
+<EVENT id="e18" class="OCC " tokens="171" AnnConf="High"/>
+<EVENT id="e19" class="OCC " tokens="183,184" AnnConf="High"/>
+<EVENT id="e2" class="IAC " tokens="25,26" AnnConf="High"/>
+<EVENT id="e20" class="IAC " tokens="194,195,196" AnnConf="High"/>
+<EVENT id="e21" class="REP " tokens="197" AnnConf="High"/>
+<EVENT id="e22" class="OCC " tokens="202,205,206" AnnConf="High"/>
+<EVENT id="e23" class="OCC " tokens="216,217" AnnConf="High"/>
+<EVENT id="e24" class="OCC " tokens="218,219" AnnConf="High"/>
+<EVENT id="e25" class="OCC " tokens="243,244" AnnConf="High"/>
+<EVENT id="e26" class="OCC " tokens="248,249,250" AnnConf="High"/>
+<EVENT id="e27" class="OCC " tokens="260,261" AnnConf="High"/>
+<EVENT id="e28" class="OCC " tokens="263,264,265" AnnConf="High"/>
+<EVENT id="e29" class="OCC " tokens="281,282" AnnConf="High"/>
+<EVENT id="e3" class="OCC " tokens="31,32,33" AnnConf="High"/>
+<EVENT id="e30" class="OCC " tokens="295,296" AnnConf="High"/>
+<EVENT id="e31" class="OCC " tokens="315,316,317" AnnConf="High"/>
+<EVENT id="e32" class="OCC " tokens="324" AnnConf="High"/>
+<EVENT id="e33" class="OCC " tokens="330,331" AnnConf="High"/>
+<EVENT id="e34" class="IAC " tokens="340,341,342" AnnConf="High"/>
+<EVENT id="e35" class="IAC " tokens="344,345,346" AnnConf="High"/>
+<EVENT id="e36" class="OCC " tokens="354" AnnConf="High"/>
+<EVENT id="e37" class="OCC " tokens="363,364,365,366" AnnConf="High"/>
+<EVENT id="e38" class="OCC " tokens="387" AnnConf="High"/>
+<EVENT id="e39" class="OCC " tokens="394,395" AnnConf="High"/>
+<EVENT id="e4" class="REP " tokens="41" AnnConf="High"/>
+<EVENT id="e40" class="OCC " tokens="399" AnnConf="High"/>
+<EVENT id="e41" class="OCC " tokens="404,405" AnnConf="High"/>
+<EVENT id="e42" class="OCC " tokens="411,412" AnnConf="High"/>
+<EVENT id="e43" class="OCC " tokens="413,414,415" AnnConf="High"/>
+<EVENT id="e44" class="OCC " tokens="430,431" AnnConf="High"/>
+<EVENT id="e45" class="OCC " tokens="442,443,444" AnnConf="High"/>
+<EVENT id="e46" class="OCC " tokens="450" AnnConf="High"/>
+<EVENT id="e47" class="OCC " tokens="456,457,458" AnnConf="High"/>
+<EVENT id="e48" class="OCC " tokens="478,479,480" AnnConf="High"/>
+<EVENT id="e49" class="OCC " tokens="485,486" AnnConf="High"/>
+<EVENT id="e5" class="OCC " tokens="51,52" AnnConf="High"/>
+<EVENT id="e50" class="OCC " tokens="492,493,494" AnnConf="High"/>
+<EVENT id="e51" class="OCC " tokens="496" AnnConf="High"/>
+<EVENT id="e52" class="OCC " tokens="501" AnnConf="High"/>
+<EVENT id="e53" class="OCC " tokens="516,517,518" AnnConf="High"/>
+<EVENT id="e54" class="OCC " tokens="523,524,525" AnnConf="High"/>
+<EVENT id="e55" class="OCC " tokens="552" AnnConf="High"/>
+<EVENT id="e56" class="OCC " tokens="557,558,559" AnnConf="High"/>
+<EVENT id="e57" class="OCC " tokens="566,567,568,569,570" AnnConf="High"/>
+<EVENT id="e58" class="OCC " tokens="600,601" AnnConf="High"/>
+<EVENT id="e59" class="OCC " tokens="610,611" AnnConf="High"/>
+<EVENT id="e6" class="OCC " tokens="63,64" AnnConf="High"/>
+<EVENT id="e60" class="OCC " tokens="621,622" AnnConf="High"/>
+<EVENT id="e61" class="OCC " tokens="628,629,630" AnnConf="High"/>
+<EVENT id="e62" class="OCC " tokens="634,635" AnnConf="High"/>
+<EVENT id="e63" class="OCC " tokens="648" AnnConf="High"/>
+<EVENT id="e64" class="OCC " tokens="649,650" AnnConf="High"/>
+<EVENT id="e65" class="OCC " tokens="653,654,655,656" AnnConf="High"/>
+<EVENT id="e66" class="IAC " tokens="662,663" AnnConf="High"/>
+<EVENT id="e67" class="OCC " tokens="670,671" AnnConf="High"/>
+<EVENT id="e68" class="OCC " tokens="687,688,689" AnnConf="High"/>
+<EVENT id="e69" class="IAC " tokens="695" AnnConf="High"/>
+<EVENT id="e7" class="OCC " tokens="75,76,77" AnnConf="High"/>
+<EVENT id="e70" class="OCC " tokens="696,697,698,699" AnnConf="High"/>
+<EVENT id="e71" class="OCC " tokens="706" AnnConf="High"/>
+<EVENT id="e72" class="OCC " tokens="712,713" AnnConf="High"/>
+<EVENT id="e73" class="OCC " tokens="717,718,719" AnnConf="High"/>
+<EVENT id="e74" class="OCC " tokens="725,726" AnnConf="High"/>
+<EVENT id="e75" class="OCC " tokens="728,729,730,731" AnnConf="High"/>
+<EVENT id="e76" class="OCC " tokens="734,735,736,737" AnnConf="High"/>
+<EVENT id="e77" class="OCC " tokens="743" AnnConf="High"/>
+<EVENT id="e78" class="OCC " tokens="750,751" AnnConf="High"/>
+<EVENT id="e8" class="OCC " tokens="87,89,90,91" AnnConf="High"/>
+<EVENT id="e9" class="OCC " tokens="95" AnnConf="High"/>
+<STATE id="s1" class="DESC " tokens="70" AnnConf="High"/>
+<STATE id="s10" class="DECL " tokens="547,548,549" AnnConf="High"/>
+<STATE id="s11" class="DESC " tokens="563" AnnConf="High"/>
+<STATE id="s12" class="DECL " tokens="644" AnnConf="High"/>
+<STATE id="s2" class="DECL " tokens="232,233,234" AnnConf="High"/>
+<STATE id="s3" class="DECL " tokens="253,254" AnnConf="High"/>
+<STATE id="s4" class="DECL " tokens="302" AnnConf="High"/>
+<STATE id="s5" class="DECL " tokens="372,373,374" AnnConf="High"/>
+<STATE id="s6" class="DECL " tokens="420,421" AnnConf="High"/>
+<STATE id="s7" class="DECL " tokens="470" AnnConf="High"/>
+<STATE id="s8" class="DECL " tokens="507,508" AnnConf="High"/>
+<STATE id="s9" class="DECL " tokens="535" AnnConf="High"/>
+<TIMEX id="t1" class="DATE" tokens="44" AnnConf="High"/>
+<TIMEX id="t10" class="DATE" tokens="607" AnnConf="High"/>
+<TIMEX id="t11" class="DUR" tokens="674,675" AnnConf="High"/>
+<TIMEX id="t2" class="DATE" tokens="46,47" AnnConf="High"/>
+<TIMEX id="t3" class="DATE" tokens="208" AnnConf="High"/>
+<TIMEX id="t4" class="DATE" tokens="276,277" AnnConf="High"/>
+<TIMEX id="t5" class="DATE" tokens="279" AnnConf="High"/>
+<TIMEX id="t6" class="DATE" tokens="389,390" AnnConf="High"/>
+<TIMEX id="t7" class="DATE" tokens="392" AnnConf="High"/>
+<TIMEX id="t8" class="DUR" tokens="513,514" AnnConf="High"/>
+<TIMEX id="t9" class="DATE" tokens="604,605" AnnConf="High"/>
+<TLINK f_id="e2" s_id="e3" class="before" AnnConf="Low"/>
+<TLINK f_id="e18" s_id="e19" class="overlap" AnnConf="High"/>
+<TLINK f_id="e20" s_id="e21" class="overlap" AnnConf="High"/>
+<TLINK f_id="e30" s_id="e29" class="before" AnnConf="High"/>
+<TLINK f_id="e31" s_id="e32" class="before" AnnConf="High"/>
+<TLINK f_id="e31" s_id="e33" class="before" AnnConf="High"/>
+<TLINK f_id="e36" s_id="e37" class="before" AnnConf="Low"/>
+<TLINK f_id="e44" s_id="e43" class="before" AnnConf="High"/>
+<TLINK f_id="e45" s_id="e46" class="before" AnnConf="Low"/>
+<TLINK f_id="e45" s_id="e47" class="before" AnnConf="High"/>
+<TLINK f_id="e50" s_id="e52" class="before" AnnConf="High"/>
+<TLINK f_id="e59" s_id="e60" class="before" AnnConf="High"/>
+<TLINK f_id="e60" s_id="e61" class="before" AnnConf="High"/>
+<TLINK f_id="e69" s_id="e70" class="before" AnnConf="High"/>
+<TLINK f_id="e71" s_id="e75" class="before" AnnConf="Low"/>
+<TLINK f_id="e75" s_id="e76" class="before" AnnConf="Medium"/>
+<SLINK f_id="e4" s_id="e5" AnnConf="High"/>
+<SLINK f_id="s1" s_id="e7" AnnConf="Medium"/>
+<SLINK f_id="e8" s_id="e9" AnnConf="High"/>
+<SLINK f_id="e13" s_id="e14" AnnConf="Low"/>
+<SLINK f_id="e15" s_id="e16" AnnConf="Medium"/>
+<SLINK f_id="e17" s_id="e18" AnnConf="High"/>
+<SLINK f_id="e20" s_id="e21" AnnConf="High"/>
+<SLINK f_id="e21" s_id="e22" AnnConf="High"/>
+<SLINK f_id="e26" s_id="s3" AnnConf="High"/>
+<SLINK f_id="e32" s_id="e33" AnnConf="Medium"/>
+<SLINK f_id="e35" s_id="e36" AnnConf="High"/>
+<SLINK f_id="e38" s_id="e39" AnnConf="Medium"/>
+<SLINK f_id="e42" s_id="e43" AnnConf="High"/>
+<SLINK f_id="e53" s_id="e54" AnnConf="Low"/>
+<SLINK f_id="e55" s_id="e56" AnnConf="High"/>
+<SLINK f_id="e61" s_id="e62" AnnConf="Low"/>
+<SLINK f_id="e63" s_id="e64" AnnConf="Medium"/>
+<SLINK f_id="e64" s_id="e65" AnnConf="High"/>
+<SLINK f_id="e72" s_id="e73" AnnConf="High"/>
+<SLINK f_id="e74" s_id="e75" AnnConf="High"/>
+<SLINK f_id="e77" s_id="e78" AnnConf="High"/>
+</document>

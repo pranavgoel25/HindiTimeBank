@@ -1,0 +1,131 @@
+<document>
+<token id="1"> सिवान </token>
+<token id="2"> . </token>
+<token id="3"> अपराधियों </token>
+<token id="4"> ने </token>
+<token id="5"> दारौंदा </token>
+<token id="6"> थाना </token>
+<token id="7"> क्षेत्र </token>
+<token id="8"> के </token>
+<token id="9"> बगौरा </token>
+<token id="10"> हाईस्कूल </token>
+<token id="11"> के </token>
+<token id="12"> पास </token>
+<token id="13"> से </token>
+<token id="14"> शुक्रवार </token>
+<token id="15"> की </token>
+<token id="16"> देर </token>
+<token id="17"> रात </token>
+<token id="18"> मदारी </token>
+<token id="19"> चक </token>
+<token id="20"> मठिया </token>
+<token id="21"> निवासी </token>
+<token id="22"> गो </token>
+<token id="23"> ¨ </token>
+<token id="24"> वद </token>
+<token id="25"> कुमार </token>
+<token id="26"> ¨ </token>
+<token id="27"> सह </token>
+<token id="28"> एवं </token>
+<token id="29"> इसके </token>
+<token id="30"> मामा </token>
+<token id="31"> को </token>
+<token id="32"> मारपीट </token>
+<token id="33"> कर </token>
+<token id="34"> बाइक </token>
+<token id="35"> तथा </token>
+<token id="36"> 15 </token>
+<token id="37"> हजार </token>
+<token id="38"> रुपये </token>
+<token id="39"> लूट </token>
+<token id="40"> लिए </token>
+<token id="41"> . </token>
+<token id="42"> घटना </token>
+<token id="43"> के </token>
+<token id="44"> समय </token>
+<token id="45"> गो </token>
+<token id="46"> ¨ </token>
+<token id="47"> वद </token>
+<token id="48"> अपने </token>
+<token id="49"> मामा </token>
+<token id="50"> को </token>
+<token id="51"> छोडने </token>
+<token id="52"> दोन </token>
+<token id="53"> छपरा </token>
+<token id="54"> जा </token>
+<token id="55"> रहा </token>
+<token id="56"> था </token>
+<token id="57"> . </token>
+<token id="58"> गो </token>
+<token id="59"> ¨ </token>
+<token id="60"> वद </token>
+<token id="61"> ने </token>
+<token id="62"> तीन </token>
+<token id="63"> लुटेरों </token>
+<token id="64"> की </token>
+<token id="65"> पहचान </token>
+<token id="66"> भी </token>
+<token id="67"> की </token>
+<token id="68"> है </token>
+<token id="69"> , </token>
+<token id="70"> जिनमें </token>
+<token id="71"> बगौरा </token>
+<token id="72"> निवासी </token>
+<token id="73"> चंदन </token>
+<token id="74"> , </token>
+<token id="75"> पवन </token>
+<token id="76"> और </token>
+<token id="77"> चोचो </token>
+<token id="78"> बताए </token>
+<token id="79"> जा </token>
+<token id="80"> रहे </token>
+<token id="81"> हैं </token>
+<token id="82"> . </token>
+<token id="83"> इनके </token>
+<token id="84"> विरुद्ध </token>
+<token id="85"> थाने </token>
+<token id="86"> में </token>
+<token id="87"> एफआइआर </token>
+<token id="88"> दर्ज </token>
+<token id="89"> कराने </token>
+<token id="90"> के </token>
+<token id="91"> लिए </token>
+<token id="92"> आवेदन </token>
+<token id="93"> दिया </token>
+<token id="94"> है </token>
+<token id="95"> . </token>
+<token id="96"> पुलिस </token>
+<token id="97"> मामले </token>
+<token id="98"> की </token>
+<token id="99"> छानबीन </token>
+<token id="100"> में </token>
+<token id="101"> जुटी </token>
+<token id="102"> है </token>
+<token id="103"> . </token>
+<token id="104"> घायल </token>
+<token id="105"> गो </token>
+<token id="106"> ¨ </token>
+<token id="107"> वद </token>
+<token id="108"> का </token>
+<token id="109"> इलाज </token>
+<token id="110"> सदर </token>
+<token id="111"> अस्पताल </token>
+<token id="112"> में </token>
+<token id="113"> चल </token>
+<token id="114"> रहा </token>
+<token id="115"> है </token>
+<EVENT id="e1" class="OCC" tokens="32,33" annConf="High"/>
+<EVENT id="e2" class="OCC" tokens="39,40" annConf="High"/>
+<EVENT id="e3" class="OCC" tokens="42" annConf="High"/>
+<EVENT id="e4" class="OCC" tokens="54,55,56" annConf="High"/>
+<EVENT id="e5" class="OCC" tokens="65,66,67,68" annConf="High"/>
+<EVENT id="e6" class="OCC" tokens="78,79,80,81" annConf="High"/>
+<EVENT id="e7" class="OCC" tokens="88,89" annConf="High"/>
+<EVENT id="e8" class="OCC" tokens="92,93,94" annConf="High"/>
+<EVENT id="e9" class="OCC" tokens="99" annConf="High"/>
+<EVENT id="e10" class="OCC" tokens="109,113,114,115" annConf="High"/>
+<STATE id="s1" class="DECL" tokens="101,102" annConf="High"/>
+<TIMEX id="t1" tokens="16,17" annConf="High" class="TIME"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+<TLINK f_id="e3" s_id="e4" class="overlap" AnnConf="High"/>
+</document>

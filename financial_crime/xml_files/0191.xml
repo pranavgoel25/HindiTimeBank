@@ -1,0 +1,53 @@
+<document>
+<token id="1"> ﻿संवाद </token>
+<token id="2"> सहयोगी </token>
+<token id="3"> ब </token>
+<token id="4"> ¨ </token>
+<token id="5"> ठडा </token>
+<token id="6"> बेसहारा </token>
+<token id="7"> मानसिक </token>
+<token id="8"> रोगियों </token>
+<token id="9"> और </token>
+<token id="10"> जरूरतमंद </token>
+<token id="11"> लोगों </token>
+<token id="12"> की </token>
+<token id="13"> सहायता </token>
+<token id="14"> के </token>
+<token id="15"> लिए </token>
+<token id="16"> समाजसेवी </token>
+<token id="17"> द </token>
+<token id="18"> ¨ </token>
+<token id="19"> वद्र </token>
+<token id="20"> बांसल </token>
+<token id="21"> ने </token>
+<token id="22"> सहारा </token>
+<token id="23"> जनसेवा </token>
+<token id="24"> के </token>
+<token id="25"> अध्यक्ष </token>
+<token id="26"> विजय </token>
+<token id="27"> गोयल </token>
+<token id="28"> को </token>
+<token id="29"> 21 </token>
+<token id="30"> हजार </token>
+<token id="31"> रुपये </token>
+<token id="32"> भेंट </token>
+<token id="33"> किए </token>
+<token id="34"> . </token>
+<token id="35"> सहारा </token>
+<token id="36"> जनसेवा </token>
+<token id="37"> की </token>
+<token id="38"> ओर </token>
+<token id="39"> से </token>
+<token id="40"> द </token>
+<token id="41"> ¨ </token>
+<token id="42"> वद्र </token>
+<token id="43"> बांसल </token>
+<token id="44"> का </token>
+<token id="45"> धन्यवाद </token>
+<token id="46"> किया </token>
+<token id="47"> गया </token>
+<token id="48"> . </token>
+<EVENT id="e1" class="OCC" tokens="32,33" AnnConf="High"/>
+<EVENT id="e2" class="OCC" tokens="45,46,47" AnnConf="High"/>
+<TLINK f_id="e1" s_id="e2" class="before" AnnConf="High"/>
+</document>
