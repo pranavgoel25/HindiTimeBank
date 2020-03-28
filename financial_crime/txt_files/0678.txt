@@ -1,177 +1,177 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राठ	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-मोहाल	JJ	TEMP	O	O	O	O
-फरसौलियाना	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैठे	VM	TEMP	O	O	B-MISC	O
-एलआईसी	XC	TEMP	O	O	O	O
-बीमा	NNP	TEMP	O	O	O	O
-एजेंट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मोटरसाइकिल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-डिग्गी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ताला	NN	TEMP	O	O	O	O
-तोडकर	VM	TEMP	B-MISC	O	B-MISC	O
-टप्पेबाजों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-डेढ़	NNP	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भरा	XC	TEMP	O	O	O	O
-बैग	XC	TEMP	O	O	O	O
-पार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सहयोगी
+,
+राठ
+:
+मोहाल
+फरसौलियाना
+में
+दुकान
+पर
+बैठे
+एलआईसी
+बीमा
+एजेंट
+की
+मोटरसाइकिल
+की
+डिग्गी
+का
+ताला
+तोडकर
+टप्पेबाजों
+ने
+डेढ़
+लाख
+रुपये
+से
+भरा
+बैग
+पार
+कर
+दिया
+.
 
-मोटरसाइकिल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-देखकर	VM	TEMP	O	O	O	O
-एजेंट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कोतवाली	NN	TEMP	O	O	O	O
-पहुंचकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-टप्पेबाजों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-लिखित	JJ	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मोटरसाइकिल
+में
+बैग
+न
+देखकर
+एजेंट
+ने
+कोतवाली
+पहुंचकर
+टप्पेबाजों
+के
+खिलाफ
+लिखित
+तहरीर
+दी
+है
+.
 
-सरीला	JJ	TEMP	O	O	O	O
-कस्बा	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-भगवती	JJ	TEMP	O	O	O	O
-साहू	NN	TEMP	O	O	O	O
-एलआईसी	XC	TEMP	O	O	O	O
-बीमा	NNP	TEMP	O	O	O	O
-एजेंट	NN	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+सरीला
+कस्बा
+निवासी
+भगवती
+साहू
+एलआईसी
+बीमा
+एजेंट
+हैं
+.
 
-वह	PRP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-एलआईसी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-किस्तें	NN	TEMP	B-MISC	O	O	O
-जमा	NN	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-राठ	NN	TEMP	O	O	B-MISC	OCC
-आए	VM	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वह
+सोमवार
+को
+एलआईसी
+की
+किस्तें
+जमा
+करने
+के
+लिए
+राठ
+आए
+थे
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-गल्ला	JJ	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-कृषि	XC	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-14	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाले	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-तकरीबन	NN	TEMP	O	O	O	O
-डेढ़	NNP	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखकर	VM	TEMP	O	O	B-MISC	OCC
-मोटरसाइकिल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-डिग्गी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रख	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+गल्ला
+मंडी
+कृषि
+विकास
+शाखा
+से
+14
+हजार
+रुपये
+निकाले
+और
+तकरीबन
+डेढ़
+लाख
+रुपये
+बैग
+में
+रखकर
+मोटरसाइकिल
+की
+डिग्गी
+में
+रख
+लिए
+.
 
-जब	PRP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-फरसौलियाना	NN	TEMP	O	O	O	O
-मोहाल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बातचीत	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+वह
+फरसौलियाना
+मोहाल
+की
+एक
+दुकान
+पर
+बातचीत
+कर
+रहे
+थे
+.
 
-तभी	PRP	TEMP	O	O	O	O
-टप्पेबाजों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-पार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तभी
+टप्पेबाजों
+ने
+उनका
+बैग
+पार
+कर
+दिया
+.
 
-जब	PRP	TEMP	O	O	O	O
-भवगती	VM	TEMP	O	O	O	O
-साहू	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नजर	NN	TEMP	O	O	O	O
-मोटरसाइकिल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-डिग्गी	NN	TEMP	O	O	B-MISC	OCC
-पर	PSP	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-होश	NN	TEMP	B-MISC	O	B-MISC	OCC
-उड	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+भवगती
+साहू
+की
+नजर
+मोटरसाइकिल
+की
+डिग्गी
+पर
+गई
+तो
+उनके
+होश
+उड
+गए
+.
 
-देखा	VM	TEMP	B-MISC	O	B-MISC	O
-कि	CC	TEMP	O	O	O	O
-डिग्गी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ताला	NN	TEMP	B-MISC	O	O	O
-टूटा	VM	TEMP	I-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-पार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देखा
+कि
+डिग्गी
+का
+ताला
+टूटा
+था
+और
+बैग
+पार
+हो
+गया
+.
 
-हो	VM	TEMP	O	O	O	O
-हल्ला	NN	TEMP	O	O	B-MISC	O
-होते	VM	TEMP	O	O	I-MISC	O
-ही	RP	TEMP	O	O	O	O
-भीड	NN	TEMP	B-MISC	O	B-MISC	O
-जमा	JJ	TEMP	I-MISC	O	I-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-चल	VM	TEMP	I-MISC	O	I-MISC	O
-सका	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हो
+हल्ला
+होते
+ही
+भीड
+जमा
+हो
+गई
+लेकिन
+बैग
+का
+पता
+नहीं
+चल
+सका
+.

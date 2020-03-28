@@ -1,149 +1,149 @@
-﻿कटिहार	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿कटिहार
+.
 
-प्रखंड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-उत्तरी	JJ	TEMP	O	O	O	O
-अमदाबाद	JJ	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पश्चिम	JJ	TEMP	O	O	O	O
-टोला	XC	TEMP	O	O	O	O
-वार्ड	NN	TEMP	O	O	O	O
-नं	VM	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-रोशन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-प्रखंड	XC	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	B-MISC	O
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-इंदिरा	XC	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-सहायक	JJ	TEMP	O	O	O	O
-अतहर	NN	TEMP	O	O	O	O
-तौहीद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-इंदिरा	XC	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-किस्त	NN	TEMP	B-MISC	O	O	O
-दिलाने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अवैध	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-वसूली	NN	TEMP	B-MISC	O	O	OCC
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रखंड
+के
+उत्तरी
+अमदाबाद
+पंचायत
+के
+पश्चिम
+टोला
+वार्ड
+नं
+12
+निवासी
+रोशन
+ने
+प्रखंड
+विकास
+पदाधिकारी
+को
+आवेदन
+देकर
+इंदिरा
+आवास
+सहायक
+अतहर
+तौहीद
+पर
+इंदिरा
+आवास
+की
+दूसरी
+किस्त
+दिलाने
+के
+नाम
+पर
+अवैध
+राशि
+वसूली
+का
+आरोप
+लगाया
+है
+.
 
-लाभुक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लाभुक
+ने
+मामले
+की
+जांच
+कर
+कार्रवाई
+की
+मांग
+की
+है
+.
 
-आवेदिका	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-इंदिरा	XC	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रथम	QO	TEMP	O	O	O	O
-किस्त	NN	TEMP	O	O	O	O
-मिलने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	I-MISC	O	O	O
-बाद	NST	TEMP	I-MISC	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-किश्त	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-सहायक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रूपये	NN	TEMP	O	O	B-MISC	OCC
-लिए	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आवेदिका
+ने
+अपने
+आवेदन
+में
+कहा
+है
+कि
+इंदिरा
+आवास
+की
+प्रथम
+किस्त
+मिलने
+के
+बाद
+दूसरी
+किश्त
+के
+लिए
+आवास
+सहायक
+ने
+उससे
+चार
+हजार
+रूपये
+लिए
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-किश्त	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+दूसरी
+किश्त
+की
+राशि
+नहीं
+मिली
+.
 
-बीडीओ	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इंदिरा	XC	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उगाही	NN	TEMP	O	O	O	DES
-करने	VM	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कडी	QF	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीडीओ
+ने
+इस
+संबंध
+में
+बताया
+कि
+इंदिरा
+आवास
+के
+नाम
+पर
+उगाही
+करने
+वालों
+पर
+कडी
+कार्रवाई
+की
+जाएगी
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-इंदिरा	XC	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-सहायक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-स्पष्टीकरण	NN	TEMP	O	O	O	O
-पूछा	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+महिला
+के
+आवेदन
+पर
+उक्त
+इंदिरा
+आवास
+सहायक
+से
+स्पष्टीकरण
+पूछा
+जाएगा
+.
 
-जांच	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-दोषी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-पाए	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-विभागीय	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जांच
+में
+दोषी
+पाए
+जाने
+पर
+विभागीय
+कार्रवाई
+की
+जाएगी
+.

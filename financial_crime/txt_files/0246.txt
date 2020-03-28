@@ -1,304 +1,304 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हिसार	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-राष्ट्रीय	JJ	TEMP	O	O	O	O
-खाद्य	NN	TEMP	O	O	O	O
-सुरक्षा	XC	TEMP	O	O	O	O
-अधिनियम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-अंत्योदय	NN	TEMP	O	O	O	O
-अन्न	JJ	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पीएच	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-प्रायोरिटी	NN	TEMP	O	O	O	O
-हाउसहोल्ड्स	XC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-धारकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सार्वजनिक	JJ	TEMP	O	O	O	O
-वितरण	NN	TEMP	O	O	O	O
-प्रणाली	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-किलो	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बाजरा	NN	TEMP	O	O	O	O
-आवंटित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+हिसार
+:
+राष्ट्रीय
+खाद्य
+सुरक्षा
+अधिनियम
+के
+तहत
+अंत्योदय
+अन्न
+योजना
+व
+पीएच
+(
+प्रायोरिटी
+हाउसहोल्ड्स
+)
+कार्ड
+धारकों
+को
+सार्वजनिक
+वितरण
+प्रणाली
+के
+माध्यम
+से
+एक
+रुपये
+किलो
+की
+दर
+से
+बाजरा
+आवंटित
+किया
+जाएगा
+.
 
-प्रदेश	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नवंबर	NNP	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-456	QC	TEMP	O	O	O	O
-मीट्रिक	JJ	TEMP	O	O	O	O
-टन	NN	TEMP	O	O	O	O
-बाजरे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एलोकेशन	NN	TEMP	B-MISC	O	O	O
-जारी	JJ	TEMP	I-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रदेश
+सरकार
+ने
+नवंबर
+माह
+के
+लिए
+456
+मीट्रिक
+टन
+बाजरे
+की
+एलोकेशन
+जारी
+की
+है
+.
 
-उपायुक्त	JJ	TEMP	O	O	O	O
-निखिल	JJ	TEMP	O	O	O	O
-गजराज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-प्रदेश	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्देशानुसार	NN	TEMP	O	O	O	O
-राष्ट्रीय	JJ	TEMP	O	O	O	O
-खाद्य	NN	TEMP	O	O	O	O
-सुरक्षा	XC	TEMP	O	O	O	O
-अधिनियम	NN	TEMP	O	O	O	O
-2013	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-अंत्योदय	NN	TEMP	O	O	O	O
-अन्न	JJ	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	O	O
-परिवारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्रति	RP:?	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-किलोग्राम	NN	TEMP	O	O	O	O
-बाजरा	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-किलोग्राम	NN	TEMP	O	O	O	O
-गेहूं	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-प्राथमिक	JJ	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-बीपीएल	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-प्राथमिक	JJ	TEMP	O	O	O	O
-परिवारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्रति	RP:?	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-आधा	QF	TEMP	O	O	O	O
-किलोग्राम	NN	TEMP	O	O	O	O
-बाजरा	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-4.5	QC	TEMP	O	O	O	O
-किलोग्राम	NN	TEMP	O	O	O	O
-गेहूं	NN	TEMP	O	O	O	O
-वितरित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उपायुक्त
+निखिल
+गजराज
+ने
+बताया
+कि
+प्रदेश
+सरकार
+के
+निर्देशानुसार
+राष्ट्रीय
+खाद्य
+सुरक्षा
+अधिनियम
+2013
+के
+तहत
+अंत्योदय
+अन्न
+योजना
+में
+शामिल
+परिवारों
+को
+प्रति
+कार्ड
+5
+किलोग्राम
+बाजरा
+व
+30
+किलोग्राम
+गेहूं
+और
+प्राथमिक
+(
+बीपीएल
+)
+व
+अन्य
+प्राथमिक
+परिवारों
+को
+प्रति
+सदस्य
+आधा
+किलोग्राम
+बाजरा
+व
+4.5
+किलोग्राम
+गेहूं
+वितरित
+किया
+जाएगा
+.
 
-बाजरा	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-किलोग्राम	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-गेहूं	NN	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-किलोग्राम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रदान	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाजरा
+एक
+रुपये
+प्रति
+किलोग्राम
+व
+गेहूं
+2
+रुपये
+प्रति
+किलोग्राम
+की
+दर
+से
+प्रदान
+की
+जाएगी
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-राशन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-वितरण	NN	TEMP	B-MISC	O	O	O
-खाद्यापूर्ति	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	O	O	O	O
-राशन	XC	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-धारकों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विवरण	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-खाद्य	JJ	TEMP	O	O	O	O
-सुरक्षा	XC	TEMP	O	O	O	O
-अनिनियम	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नियमों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुरूप	PSP:?	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	B-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+राशन
+का
+वितरण
+खाद्यापूर्ति
+विभाग
+से
+प्राप्त
+राशन
+कार्ड
+धारकों
+के
+विवरण
+और
+खाद्य
+सुरक्षा
+अनिनियम
+के
+नियमों
+के
+अनुरूप
+किया
+जाएगा
+.
 
-गजराज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-नवंबर	NNP	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-हिसार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अंत्योदय	NN	TEMP	O	O	O	O
-अन्न	JJ	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-गुलाबी	NN	TEMP	O	O	O	O
-कार्ड	XC	TEMP	O	O	O	O
-धारक	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बीपीएल	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-पीला	JJ	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-धारक	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-प्राथमिक	JJ	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-खाकी	JJ	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-धारक	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-परिवारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-1548.57	QC	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-क्वटल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हांसी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-1123.03	QC	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-क्वटल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-उकलाना	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-334.64	QC	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-क्वटल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-आदमपुर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-517.06	QC	TEMP	O	O	O	O
-विक्टल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नारनौंद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-406.73	QC	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-क्वटल	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-बरवाला	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-629.94	QC	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-क्वटल	NN	TEMP	O	O	O	O
-बाजरा	NN	TEMP	O	O	O	O
-वितरित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गजराज
+ने
+बताया
+कि
+नवंबर
+माह
+के
+दौरान
+हिसार
+में
+अंत्योदय
+अन्न
+योजना
+(
+गुलाबी
+कार्ड
+धारक
+)
+,
+बीपीएल
+(
+पीला
+कार्ड
+धारक
+)
+और
+अन्य
+प्राथमिक
+(
+खाकी
+कार्ड
+धारक
+)
+परिवारों
+के
+लिए
+1548.57
+¨
+क्वटल
+,
+हांसी
+में
+1123.03
+¨
+क्वटल
+,
+उकलाना
+में
+334.64
+¨
+क्वटल
+,
+आदमपुर
+में
+517.06
+विक्टल
+,
+नारनौंद
+में
+406.73
+¨
+क्वटल
+तथा
+बरवाला
+में
+629.94
+¨
+क्वटल
+बाजरा
+वितरित
+किया
+जाएगा
+.
 
-उपायुक्त	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-खाद्यापूर्ति	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अनाज	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-उठान	NN	TEMP	B-MISC	O	O	O
-करवाकर	VM	TEMP	I-MISC	O	O	O
-पात्र	NN	TEMP	O	O	O	O
-परिवारों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इसका	PRP	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-वितरण	NN	TEMP	B-MISC	O	O	O
-सुनिश्चित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उपायुक्त
+ने
+खाद्यापूर्ति
+विभाग
+को
+निर्देश
+दिए
+हैं
+कि
+अनाज
+का
+जल्द
+से
+जल्द
+उठान
+करवाकर
+पात्र
+परिवारों
+में
+इसका
+जल्द
+वितरण
+सुनिश्चित
+किया
+जाए
+.
 
-अनाज	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-वितरण	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-पूर्व	NST	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-गुणवत्ता	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अनाज
+का
+वितरण
+करने
+से
+पूर्व
+इसकी
+गुणवत्ता
+की
+भी
+पूरी
+जांच
+की
+जाए
+.
 
-वितरण	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूर्व	NST	TEMP	O	O	O	O
-संबंधित	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मुनादी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-करवाई	VM	TEMP	B-MISC	O	B-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-ताकि	CC	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-संबंधित	JJ	TEMP	O	O	O	O
-परिवारों	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-बाजरे	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-गेहूं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वितरण	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	O	O	B-MISC	OCC
-पहुंच	VM	TEMP	B-MISC	O	I-MISC	O
-सके	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वितरण
+से
+पूर्व
+संबंधित
+क्षेत्र
+में
+मुनादी
+भी
+करवाई
+जाए
+ताकि
+सभी
+संबंधित
+परिवारों
+तक
+बाजरे
+व
+गेहूं
+के
+वितरण
+की
+सूचना
+पहुंच
+सके
+.

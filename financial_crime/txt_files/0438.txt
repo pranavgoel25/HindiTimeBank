@@ -1,360 +1,360 @@
 
-कैमूर	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+कैमूर
+.
 
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-मोहनियां	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-होटल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रुके	VM	TEMP	O	O	B-MISC	O
-दो	VAUX	TEMP	O	O	I-MISC	O
-इंट्री	XC	TEMP	O	O	O	O
-माफिया	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गिरफ्तार	VM	TEMP	B-MISC	O	B-MISC	OCC
-किया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सोमवार
+को
+मोहनियां
+पुलिस
+ने
+एक
+होटल
+में
+रुके
+दो
+इंट्री
+माफिया
+को
+गिरफ्तार
+किया
+है
+.
 
-इनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-नौ	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इनके
+पास
+से
+एक
+लाख
+नौ
+हजार
+रुपये
+भी
+पुलिस
+बरामद
+किया
+है
+.
 
-डीएसपी	XC	TEMP	O	O	O	O
-मनोज	XC	TEMP	O	O	O	O
-राम	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नेतृत्व	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-होटल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-की	VM	TEMP	O	O	B-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-छापेमारी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सफलता	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीएसपी
+मनोज
+राम
+के
+नेतृत्व
+में
+एक
+होटल
+में
+सोमवार
+को
+की
+गई
+छापेमारी
+में
+पुलिस
+को
+सफलता
+मिली
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-गया	VAUX	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-डोभी	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-पवन	XC	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-उपाध्याय	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-जगन	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+बताया
+जाता
+है
+कि
+दो
+लोगों
+गया
+जिले
+के
+डोभी
+निवासी
+पवन
+कुमार
+उपाध्याय
+व
+जगन
+कुमार
+यादव
+का
+नाम
+शामिल
+है
+.
 
-इनका	PRP	TEMP	O	O	O	O
-कारोबार	NN	TEMP	O	O	O	OCC
-यूपी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-झारखंड	NNP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-फैला	VM	TEMP	O	O	B-MISC	OCC
-हुआ	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इनका
+कारोबार
+यूपी
+,
+बिहार
+और
+झारखंड
+तक
+फैला
+हुआ
+है
+.
 
-इनके	PRP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आधा	JJ	TEMP	O	O	O	O
-दर्जन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	O	O	B-MISC	OCC
-हैं	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इनके
+विरुद्ध
+विभिन्न
+थाने
+में
+आधा
+दर्जन
+से
+अधिक
+मामले
+दर्ज
+हैं
+.
 
-इनके	PRP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-हिरासत	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-लेकर	VM	TEMP	I-MISC	O	I-MISC	O
-पुलिस	NN	TEMP	O	O	O	O
-पूछताछ	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इनके
+तीन
+अन्य
+को
+भी
+हिरासत
+में
+लेकर
+पुलिस
+पूछताछ
+कर
+रही
+है
+.
 
-गिरफ्तार	XC	TEMP	O	O	O	O
-इंट्री	NNP	TEMP	O	O	O	O
-माफियाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-स्कार्पियो	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-नौ	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-नकद	JJ	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-बरामद	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गिरफ्तार
+इंट्री
+माफियाओं
+के
+पास
+से
+एक
+स्कार्पियो
+,
+एक
+लाख
+नौ
+हजार
+रुपये
+नकद
+व
+पांच
+मोबाइल
+बरामद
+हुआ
+है
+.
 
-डीएसपी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-गुप्त	JJ	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-होटल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-इंट्री	XC	TEMP	O	O	O	O
-माफिया	NNP	TEMP	O	O	B-MISC	O
-ठहरे	VM	TEMP	O	O	I-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीएसपी
+ने
+बताया
+कि
+उन्हें
+गुप्त
+सूचना
+मिली
+कि
+नगर
+के
+एक
+बडे
+होटल
+में
+कुछ
+इंट्री
+माफिया
+ठहरे
+हुए
+हैं
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-तत्काल	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-इंट्री	NN	TEMP	O	O	O	O
-माफियाओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दबोच	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+तत्काल
+कार्रवाई
+करते
+हुए
+इंट्री
+माफियाओं
+को
+दबोच
+लिया
+.
 
-इंट्री	XC	TEMP	O	O	O	O
-माफियाओं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-तर्क	NN	TEMP	B-MISC	O	B-MISC	OCC
-था	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-गत	JJ	TEMP	O	B	O	O
-19	QC	TEMP	O	I	O	O
-सितंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-बालू	NN	TEMP	B-MISC	O	O	O
-लदा	VM	TEMP	I-MISC	O	O	OCC
-ट्रक	NN	TEMP	O	O	O	O
-पकडा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इंट्री
+माफियाओं
+का
+तर्क
+था
+कि
+गत
+19
+सितंबर
+को
+बालू
+लदा
+ट्रक
+पकडा
+गया
+था
+.
 
-जिसे	PRP	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-छुडाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-आए	VM	TEMP	B-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसे
+वे
+छुडाने
+आए
+थे
+.
 
-ज्ञात	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बीते	JJ	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	B	O	O
-21	QC	TEMP	O	B	O	O
-जुलाई	NNP	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	O	O	O
-कैमूर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एसपी	NN	TEMP	O	O	O	O
-हरप्रीत	JJ	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जीटी	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कैमूर	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-पांच	XC	TEMP	O	O	O	O
-इंट्री	NNP	TEMP	O	O	O	O
-माफियाओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दबोचा	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ज्ञात
+हो
+कि
+बीते
+वर्ष
+21
+जुलाई
+की
+रात
+कैमूर
+की
+एसपी
+हरप्रीत
+कौर
+के
+निर्देश
+पर
+जीटी
+रोड
+पर
+कैमूर
+पुलिस
+ने
+बडी
+कार्रवाई
+करते
+हुए
+पांच
+इंट्री
+माफियाओं
+को
+दबोचा
+था
+.
 
-जांच	NN	TEMP	B-MISC	O	B-MISC	O
-में	PSP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-खुर्माबाद	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-सरोज	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पूरा	JJ	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-इंट्री	XC	TEMP	O	O	O	O
-कारोबार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-संलिप्त	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जांच
+में
+पता
+चला
+कि
+खुर्माबाद
+निवासी
+सरोज
+कुमार
+गुप्ता
+का
+पूरा
+परिवार
+इंट्री
+कारोबार
+में
+संलिप्त
+है
+.
 
-सरोज	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-भाई	NN	TEMP	O	O	O	O
-मनोज	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-चंदन	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-माता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-अकाउंट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उसमें	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-जमा	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सरोज
+कुमार
+उसके
+भाई
+मनोज
+व
+चंदन
+तथा
+माता
+के
+बैंक
+अकाउंट
+की
+जांच
+की
+गई
+तो
+उसमें
+एक
+करोड
+रुपए
+जमा
+थे
+.
 
-इसका	PRP	TEMP	O	O	O	O
-होटल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-आड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इंट्री	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बडा	JJ	TEMP	O	O	O	O
-खेल	NN	TEMP	O	O	O	O
-चल	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसका
+होटल
+की
+आड
+में
+इंट्री
+का
+बडा
+खेल
+चल
+रहा
+था
+.
 
-पकडे	VM	TEMP	B-MISC	O	B-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-इंट्री	NN	TEMP	O	O	O	O
-माफियाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मनी	XC	TEMP	O	O	O	O
-लॉन्ड्रिंग	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पकडे
+गए
+इंट्री
+माफियाओं
+के
+विरुद्ध
+पुलिस
+ने
+मनी
+लॉन्ड्रिंग
+का
+मामला
+भी
+दर्ज
+कराया
+था
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-जीटी	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सक्रिय	JJ	TEMP	O	O	O	O
-इंट्री	NN	TEMP	O	O	O	O
-माफियाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-जारी	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+लगातार
+जीटी
+रोड
+पर
+सक्रिय
+इंट्री
+माफियाओं
+के
+खिलाफ
+पुलिस
+की
+कार्रवाई
+जारी
+रही
+.
 
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-गिरफ्तार	NN	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-इंट्री	NN	TEMP	O	O	O	O
-माफियाओं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गिरफ्तारी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-धंधे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	O	O
-कारोबारियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पसीने	NN	TEMP	O	O	O	O
-छूटने	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
+सोमवार
+को
+गिरफ्तार
+दो
+बडे
+इंट्री
+माफियाओं
+की
+गिरफ्तारी
+से
+एक
+बार
+फिर
+इस
+धंधे
+में
+शामिल
+कारोबारियों
+के
+पसीने
+छूटने
+लगे
+हैं

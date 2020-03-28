@@ -1,142 +1,142 @@
-﻿गजरौला	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-पिपलौती	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मझरा	NN	TEMP	O	O	O	O
-श्यामपुरी	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-ग्रामीणों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-प्रधानमंत्री	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लाभ	NN	TEMP	B-MISC	O	O	O
-दिलाए	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿गजरौला
+:
+ग्राम
+पिपलौती
+के
+मझरा
+श्यामपुरी
+निवासी
+ग्रामीणों
+ने
+प्रधानमंत्री
+से
+आवास
+योजना
+का
+लाभ
+दिलाए
+जाने
+की
+मांग
+की
+है
+.
 
-ग्राम	XC	TEMP	O	O	O	O
-सचिव	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आवास	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिलाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-एवज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रकम	NN	TEMP	B-MISC	O	B-MISC	O
-मांगने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मढ़ा	XC	TEMP	B-MISC	O	O	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ग्राम
+सचिव
+पर
+आवास
+दिलाने
+की
+एवज
+में
+रकम
+मांगने
+का
+आरोप
+भी
+मढ़ा
+है
+.
 
-हसनपुर	NNP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ग्रामीणों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-प्रधानमंत्री	JJ	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लाभ	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिलाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हसनपुर
+क्षेत्र
+के
+ग्रामीणों
+ने
+प्रधानमंत्री
+आवास
+योजना
+का
+लाभ
+दिलाने
+की
+मांग
+की
+है
+.
 
-उनका	PRP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बीडीओ	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-डीपीआरओ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-मौखिक	JJ	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-रजिस्टर्ड	JJ	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-आवास	NN	TEMP	B-MISC	O	B-MISC	O
-दिलाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-वंचित	JJ	TEMP	B-MISC	O	B-STAT	O
-हैं	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उनका
+कहना
+है
+कि
+कई
+बार
+ग्राम
+प्रधान
+,
+बीडीओ
+व
+डीपीआरओ
+से
+वह
+मौखिक
+व
+रजिस्टर्ड
+पत्र
+के
+द्वारा
+आवास
+दिलाने
+की
+मांग
+कर
+चुके
+हैं
+,
+लेकिन
+अभी
+तक
+वह
+आवास
+योजना
+वंचित
+हैं
+.
 
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पूर्व	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-आवंटन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ग्राम	XC	TEMP	O	O	O	O
-सचिव	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-तो	RP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-रकम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आरोप
+लगाया
+कि
+पूर्व
+में
+आवास
+आवंटन
+को
+ग्राम
+सचिव
+से
+बात
+की
+तो
+उसने
+रकम
+की
+मांग
+की
+.
 
-ग्रामीण	JJ	TEMP	O	O	O	O
-प्रेमपाल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-समरपाल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नन्हें	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दयाचंद	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-हेतु	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-व	CC	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-सुनवाई	JJ	TEMP	O	O	O	O
-पोर्टल	NN	TEMP	O	O	O	O
-एप	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-डीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-की	VM	TEMP	O	O	I-MISC	-1
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ग्रामीण
+प्रेमपाल
+,
+समरपाल
+,
+नन्हें
+,
+दयाचंद
+ने
+आवास
+हेतु
+मांग
+व
+शिकायत
+सुनवाई
+पोर्टल
+एप
+के
+माध्यम
+से
+डीएम
+से
+की
+है
+.

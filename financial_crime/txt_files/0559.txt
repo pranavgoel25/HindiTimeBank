@@ -1,361 +1,361 @@
 
-(	SYM	TEMP	O	O	O	O
-भोजपुर	XC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-प्रखंड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कमरियांव	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ठग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इंदिरा	XC	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-किस्त	NN	TEMP	B-MISC	O	O	O
-तथा	CC	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-इंदिरा	XC	TEMP	O	O	O	O
-आवास	NN	TEMP	B-MISC	O	O	O
-दिलाने	VM	TEMP	I-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-1900	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-चूना	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाकर	VM	TEMP	I-MISC	O	I-MISC	O
-चंपत	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+(
+भोजपुर
+)
+:
+प्रखंड
+के
+कमरियांव
+गांव
+में
+एक
+ठग
+ने
+इंदिरा
+आवास
+की
+दूसरी
+किस्त
+तथा
+नया
+इंदिरा
+आवास
+दिलाने
+के
+नाम
+पर
+एक
+व्यक्ति
+से
+1900
+रुपये
+का
+चूना
+लगाकर
+चंपत
+हो
+गया
+.
 
-ठगी	NN	TEMP	O	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-शिकार	NN	TEMP	O	O	B-MISC	O
-हुए	VM	TEMP	O	O	I-MISC	O
-राजेन्द्र	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बीडीओ	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-आशय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लिखित	JJ	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-देते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	O
-की	PSP	TEMP	O	O	O	O
-गुहार	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ठगी
+का
+शिकार
+हुए
+राजेन्द्र
+यादव
+ने
+बीडीओ
+को
+उक्त
+आशय
+की
+लिखित
+सूचना
+देते
+हुए
+जांच
+और
+कार्रवाई
+की
+गुहार
+लगाई
+है
+.
 
-कमरियांव	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-राजेन्द्र	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-गत	JJ	TEMP	O	B	O	O
-बुधवार	NN	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बिहिया	NNP	TEMP	O	O	O	O
-ब्लॉक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-स्टॉफ	NN	TEMP	O	O	O	O
-बता	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-उनके	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-पहुंचा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+कमरियांव
+निवासी
+राजेन्द्र
+यादव
+ने
+बताया
+कि
+गत
+बुधवार
+को
+एक
+व्यक्ति
+जो
+खुद
+को
+बिहिया
+ब्लॉक
+का
+स्टॉफ
+बता
+रहा
+था
+उनके
+घर
+पहुंचा
+.
 
-उसके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-इंदिरा	XC	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लाभार्थियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-लिस्ट	NN	TEMP	O	O	B-MISC	O
-थी	VM	TEMP	O	O	I-MISC	DECL
-.	SYM	TEMP	O	O	O	O
+उसके
+पास
+इंदिरा
+आवास
+के
+लाभार्थियों
+की
+पूरी
+लिस्ट
+थी
+.
 
-सूची	NN	TEMP	B-MISC	O	B-MISC	O
-दिखाते	VM	TEMP	I-MISC	O	I-MISC	OCC
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-उसने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-मेरे	PRP	TEMP	O	O	O	O
-पिता	NN	TEMP	O	O	O	O
-महेंद्र	XC	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-इंदिरा	XC	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-उसकी	PRP	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-किस्त	NN	TEMP	B-MISC	O	O	O
-निकालना	VM	TEMP	I-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-करोगे	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-तुम्हारा	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-पास	NST	TEMP	B-MISC	O	B-MISC	O
-करा	VM	TEMP	I-MISC	O	I-MISC	OCC
-दूंगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सूची
+दिखाते
+हुए
+उसने
+कहा
+कि
+मेरे
+पिता
+महेंद्र
+प्रसाद
+के
+नाम
+जो
+इंदिरा
+आवास
+पास
+है
+उसकी
+दूसरी
+किस्त
+निकालना
+है
+तथा
+पैसा
+खर्च
+करोगे
+तो
+तुम्हारा
+भी
+आवास
+पास
+करा
+दूंगा
+.
 
-दोनों	JJ	TEMP	O	O	O	O
-मिलाकर	VM	TEMP	O	O	O	O
-6000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+दोनों
+मिलाकर
+6000
+रुपये
+दो
+.
 
-ठग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-तुम्हारे	PRP	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-दूसरे	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	B-MISC	O
-काटकर	VM	TEMP	O	O	I-MISC	O
-दूसरे	PRP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-इंदिरा	XC	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ठग
+ने
+आगे
+कहा
+कि
+तुम्हारे
+पंचायत
+में
+पैसा
+खर्च
+करने
+पर
+दूसरे
+का
+नाम
+काटकर
+दूसरे
+को
+इंदिरा
+आवास
+दे
+दिया
+गया
+है
+.
 
-राजेन्द्र	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-इतना	QF	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कही	VM	TEMP	I-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-जो	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-वही	PRP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-समझ	VM	TEMP	O	O	B-MISC	OCC
-लिया	VAUX	TEMP	O	O	I-MISC	O
-जाएगा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+राजेन्द्र
+यादव
+ने
+बताया
+कि
+जब
+उसने
+इतना
+पैसा
+अभी
+नहीं
+होने
+की
+बात
+कही
+तो
+उसने
+कहा
+जो
+है
+वही
+दो
+बाद
+में
+समझ
+लिया
+जाएगा
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-राजेंद्र	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-जोडतोड	NN	TEMP	O	O	B-MISC	O
-कर	VM	TEMP	O	O	I-MISC	O
-1900	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-जुगाड	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-ठग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+राजेंद्र
+ने
+किसी
+तरह
+जोडतोड
+कर
+1900
+रुपये
+का
+सिक्का
+जुगाड
+कर
+ठग
+को
+दे
+दिया
+.
 
-जिसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-ठग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गमछे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-समेट	NN	TEMP	B-MISC	O	B-MISC	IAC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-चलते	VM	TEMP	B-MISC	O	B-MISC	OCC
-बना	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसके
+बाद
+ठग
+ने
+रुपये
+को
+गमछे
+में
+समेट
+कर
+चलते
+बना
+.
 
-जब	PRP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-ठग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-व्यवहार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-शक	NN	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-ब्लॉक	JJ	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-कहीं	PRP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+उसे
+ठग
+के
+व्यवहार
+पर
+शक
+हुआ
+तो
+गुरुवार
+को
+उसने
+ब्लॉक
+कार्यालय
+में
+उसकी
+काफी
+तलाश
+की
+पर
+उसका
+कहीं
+पता
+नहीं
+चला
+.
 
-सूत्रों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भरोसा	NN	TEMP	O	O	B-MISC	OCC
-करें	VM	TEMP	O	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-प्रखंड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इंदिरा	NN	TEMP	O	O	O	O
-बनाने	VM	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लाभार्थियों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जम	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-आर्थिक	JJ	TEMP	O	O	O	O
-शोषण	NN	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-जा	VAUX	TEMP	O	O	I-MISC	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सूत्रों
+पर
+भरोसा
+करें
+तो
+प्रखंड
+में
+इंदिरा
+बनाने
+के
+नाम
+पर
+लाभार्थियों
+का
+जम
+कर
+आर्थिक
+शोषण
+किया
+जा
+रहा
+है
+.
 
-प्रखंड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-क्या	WQ	TEMP	O	O	O	O
-अमीर	JJ	TEMP	O	O	O	O
-क्या	WQ	TEMP	O	O	O	O
-गरीब	NN	TEMP	O	O	O	O
-शायद	RB	TEMP	O	O	O	O
-हीं	RP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-जिसका	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-मिट्टी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रखंड
+में
+क्या
+अमीर
+क्या
+गरीब
+शायद
+हीं
+कोई
+है
+जिसका
+घर
+अभी
+तक
+मिट्टी
+का
+बच
+गया
+है
+.
 
-लगभग	RB	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-भले	JJ	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-कमरा	NN	TEMP	O	O	O	O
-हीं	RP	TEMP	O	O	O	O
-सही	JJ	TEMP	O	O	O	O
-पक्का	NN	TEMP	B-MISC	O	O	O
-बना	VM	TEMP	I-MISC	O	B-MISC	OCC
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लगभग
+सभी
+लोग
+भले
+एक
+या
+दो
+कमरा
+हीं
+सही
+पक्का
+बना
+चुके
+हैं
+.
 
-अब	PRP	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-यदि	CC	TEMP	O	O	O	O
-लाभार्थियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लिस्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-तो	CC	TEMP	O	O	O	O
-ठगी	NN	TEMP	O	O	B-MISC	DES
-करने	VM	TEMP	O	O	I-MISC	O
-वाले	PSP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	OCC
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-पक्का	NN	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-होनें	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इंदिरा	XC	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लिस्ट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	B-MISC	O	O	O
-हटा	VM	TEMP	I-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-धौस	NN	TEMP	O	O	B-MISC	O
-दिखाकर	VM	TEMP	B-MISC	O	I-MISC	O
-रुपया	NN	TEMP	B-MISC	O	O	O
-ऐंठ	VM	TEMP	I-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+उनका
+नाम
+यदि
+लाभार्थियों
+की
+लिस्ट
+में
+है
+तो
+ठगी
+करने
+वाले
+उसके
+पास
+पहुंच
+कर
+पक्का
+घर
+होनें
+की
+स्थिति
+में
+इंदिरा
+आवास
+की
+लिस्ट
+से
+नाम
+हटा
+देने
+का
+धौस
+दिखाकर
+रुपया
+ऐंठ
+रहे
+हैं
+.

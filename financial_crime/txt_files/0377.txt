@@ -1,198 +1,198 @@
-﻿कैमूर	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿कैमूर
+.
 
-देश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अति	TEMP	INTF	TEMP	O	O	O	O
-प्राचीन	JJ	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-शक्ति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विख्यात	JJ	TEMP	O	O	O	O
-भगवानपुर	NN	TEMP	O	O	O	O
-प्रखंड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पवरा	JJ	TEMP	O	O	O	O
-पहाडी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-माता	XC	TEMP	O	O	O	O
-मुंडेश्वरी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-धाम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कोने-कोने	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-शारदीय	JJ	TEMP	O	O	O	O
-नवरात्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आए	VM	TEMP	O	O	B-MISC	OCC
-श्रद्धालुओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-श्रद्धा	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दान	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देश
+के
+अति
+प्राचीन
+व
+शक्ति
+के
+रूप
+में
+विख्यात
+भगवानपुर
+प्रखंड
+के
+पवरा
+पहाडी
+पर
+स्थित
+माता
+मुंडेश्वरी
+के
+धाम
+में
+देश
+के
+कोने-कोने
+से
+शारदीय
+नवरात्र
+में
+आए
+श्रद्धालुओं
+ने
+अपनी
+श्रद्धा
+से
+दान
+किया
+.
 
-जिसकी	PRP	TEMP	O	O	O	O
-गिनती	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसकी
+गिनती
+हुई
+.
 
-जिसमें	PRP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-मिलाकर	VM	TEMP	O	O	B-MISC	OCC
-753850	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-मिला	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जिसमें
+नोट
+व
+सिक्का
+मिलाकर
+753850
+रुपए
+मिला
+.
 
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-माता	XC	TEMP	O	O	O	O
-मुंडेश्वरी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-धाम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-श्रद्धालुओं	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-दान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-मिल	VM	TEMP	B-MISC	O	B-MISC	OCC
-सकती	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लोगों
+ने
+बताया
+कि
+माता
+मुंडेश्वरी
+के
+धाम
+में
+अभी
+और
+श्रद्धालुओं
+द्वारा
+दान
+की
+राशि
+मिल
+सकती
+थी
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-नवरात्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-भीड	NN	TEMP	B-MISC	O	O	O
-होने	VM	TEMP	I-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-मुंडेश्वरी	JJ	TEMP	O	O	O	O
-प्रतिमा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समीप	NST	TEMP	O	O	O	O
-ड्यूटी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	O	O
-पुलिसकर्मी	NN	TEMP	O	O	O	O
-श्रद्धालुओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दर्शन	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-धक्का	NN	TEMP	B-MISC	O	B-MISC	O
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-बाहर	NST	TEMP	B-MISC	O	O	O
-निकाल	VM	TEMP	I-MISC	O	B-MISC	OCC
-देते	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+नवरात्र
+के
+समय
+अधिक
+भीड
+होने
+पर
+मां
+मुंडेश्वरी
+प्रतिमा
+के
+समीप
+ड्यूटी
+पर
+तैनात
+पुलिसकर्मी
+श्रद्धालुओं
+को
+मां
+का
+दर्शन
+करने
+से
+पहले
+ही
+धक्का
+देकर
+बाहर
+निकाल
+देते
+थे
+.
 
-जिससे	PRP	TEMP	O	O	O	O
-श्रद्धालु	XC	TEMP	O	O	O	O
-दान	NN	TEMP	O	O	O	O
-पेटी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-दान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-नही	NEG	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-पाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिससे
+श्रद्धालु
+दान
+पेटी
+में
+अपनी
+दान
+की
+राशि
+नही
+दे
+पाते
+थे
+.
 
-स्थानीय	JJ	TEMP	O	O	O	O
-श्रद्धालुओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-धार्मिक	JJ	TEMP	O	O	O	O
-न्यास	NN	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सचिव	XC	TEMP	O	O	O	O
-अशोक	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अगले	JJ	TEMP	O	O	O	O
-नवरात्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विशेष	JJ	TEMP	O	O	O	O
-विधान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-मुंडन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समीप	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अलग	JJ	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-काउंटर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-व्यवस्था	NN	TEMP	B-MISC	O	B-MISC	OCC
-करें	VM	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-मां	XC	TEMP	O	O	O	O
-मुंडेश्वरी	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रतिमा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समीप	NST	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-प्रशासन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिकृत	JJ	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-तैनात	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+स्थानीय
+श्रद्धालुओं
+ने
+धार्मिक
+न्यास
+समिति
+के
+सचिव
+अशोक
+¨
+सह
+से
+मांग
+किया
+है
+कि
+अगले
+नवरात्र
+में
+विशेष
+विधान
+के
+लिए
+मुंडन
+के
+समीप
+एक
+अलग
+से
+काउंटर
+की
+व्यवस्था
+करें
+तथा
+मां
+मुंडेश्वरी
+की
+प्रतिमा
+के
+समीप
+पुलिस
+प्रशासन
+के
+अलावा
+समिति
+से
+अधिकृत
+एक
+व्यक्ति
+को
+वहां
+तैनात
+किया
+जाए
+.
 
-ताकि	CC	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दर्शन	NN	TEMP	O	O	B-MISC	OCC
-करने	VM	TEMP	O	O	I-MISC	O
-दूर-दूर	NST	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आए	VM	TEMP	O	O	B-MISC	OCC
-श्रद्धालु	NN	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-इच्छानुसार	NN	TEMP	O	O	O	O
-दान	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-सकें	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ताकि
+मां
+का
+दर्शन
+करने
+दूर-दूर
+के
+आए
+श्रद्धालु
+अपनी
+इच्छानुसार
+दान
+कर
+सकें
+.

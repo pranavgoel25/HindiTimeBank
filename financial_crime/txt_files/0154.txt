@@ -1,225 +1,225 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
+﻿संवाद
+सूत्र
 
-मलवां	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-फतेहपुर	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-चित्रकूट	NN	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हत्या	NN	TEMP	O	O	O	O
+मलवां
+(
+फतेहपुर
+)
+:
+चित्रकूट
+जिले
+से
+हत्या
 
-डकैती	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-गोलीकांड	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-घटनाओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अंजाम	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-वर्ष	NN	TEMP	O	O	O	O
-2008	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फरार	NN	TEMP	O	O	B-STAT	OCC
-चल	VM	TEMP	O	O	I-STAT	O
-रहे	VAUX	TEMP	O	O	I-STAT	O
-शातिर	NN	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-हजार	XC	TEMP	O	O	O	O
-इनामी	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मलवां	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-क्राइम	JJ	TEMP	O	O	O	O
-ब्रांच	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-संयुक्त	JJ	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कैंची	NN	TEMP	O	O	O	O
-मोड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-धर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दबोचा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डकैती
+व
+गोलीकांड
+की
+घटनाओं
+को
+अंजाम
+देकर
+वर्ष
+2008
+से
+फरार
+चल
+रहे
+शातिर
+पांच
+हजार
+इनामी
+को
+मलवां
+व
+क्राइम
+ब्रांच
+की
+संयुक्त
+टीम
+ने
+कैंची
+मोड
+से
+धर
+दबोचा
+.
 
-इस	DEM	TEMP	O	O	O	O
-कामयाबी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-चित्रकूट	NN	TEMP	O	O	O	O
-एसपी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इनाम	NN	TEMP	O	O	O	O
-घोषित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+कामयाबी
+के
+लिए
+चित्रकूट
+एसपी
+ने
+पुलिस
+टीम
+को
+पांच
+हजार
+रुपये
+का
+इनाम
+घोषित
+किया
+.
 
-हत्थे	NN	TEMP	O	O	O	O
-चढ़े	JJ	TEMP	O	O	O	O
-शातिर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-315	QC	TEMP	O	O	O	O
-बोर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-तमंचा	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-जदा	JJ	TEMP	O	O	O	O
-कारतूस	NN	TEMP	O	O	O	O
-बरामद	VM	TEMP	B-MISC	O	B-MISC	OCC
-किए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हत्थे
+चढ़े
+शातिर
+के
+पास
+से
+315
+बोर
+का
+तमंचा
+व
+दो
+¨
+जदा
+कारतूस
+बरामद
+किए
+गए
+हैं
+.
 
-मलवां	NN	TEMP	O	O	O	O
-एसओ	XC	TEMP	O	O	O	O
-अनूप	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सर्विलांस	NN	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मुखबिर	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	O	OCC
-मिली	VM	TEMP	I-MISC	O	B-MISC	O
-कि	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बदमाश	NN	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-अंजाम	NN	TEMP	B-MISC	O	B-MISC	OCC
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-फिराक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कैंची	NN	TEMP	O	O	O	O
-मोड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-खडा	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मलवां
+एसओ
+अनूप
+¨
+सह
+व
+सर्विलांस
+प्रभारी
+राजेश
+¨
+सह
+को
+मुखबिर
+द्वारा
+सूचना
+मिली
+कि
+एक
+बदमाश
+किसी
+घटना
+को
+अंजाम
+देने
+की
+फिराक
+में
+कैंची
+मोड
+के
+पास
+खडा
+हुआ
+है
+.
 
-जिस	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-देर	JJ	TEMP	O	B	O	O
-रात	NN	TEMP	O	I	O	O
-कैंची	NN	TEMP	O	O	O	O
-मोड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दबिश	NN	TEMP	B-MISC	O	B-MISC	O
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-संदिग्ध	JJ	TEMP	O	O	O	O
-खडे	JJ	TEMP	O	O	O	O
-धनुष	NN	TEMP	O	O	O	O
-जोगी	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-छितानी	JJ	TEMP	O	O	O	O
--गढ़ा	XC	TEMP	O	O	O	O
-थाना	XC	TEMP	O	O	O	O
-किशनपुर	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-धर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दबोचा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिस
+पर
+पुलिस
+टीम
+ने
+सोमवार
+को
+देर
+रात
+कैंची
+मोड
+में
+दबिश
+देकर
+संदिग्ध
+खडे
+धनुष
+जोगी
+पुत्र
+छितानी
+-गढ़ा
+थाना
+किशनपुर
+को
+धर
+दबोचा
+.
 
-एसओ	XC	TEMP	O	O	O	O
-अनूप	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-हत्थे	NN	TEMP	O	O	O	O
-चढ़े	JJ	TEMP	O	O	O	O
-शातिर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चित्रकूट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-गिरोह	NN	TEMP	O	O	O	O
-बना	VM	TEMP	O	O	B-MISC	OCC
-रखा	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-चित्रकूट	NN	TEMP	O	O	O	O
-जिले	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मारकुंडी	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-2008	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हत्या	NN	TEMP	O	O	O	O
+एसओ
+अनूप
+¨
+सह
+ने
+बताया
+कि
+हत्थे
+चढ़े
+शातिर
+ने
+चित्रकूट
+में
+एक
+गिरोह
+बना
+रखा
+है
+और
+उसने
+चित्रकूट
+जिले
+के
+मारकुंडी
+थाना
+क्षेत्र
+में
+वर्ष
+2008
+में
+हत्या
 
-गोलीकांड	NN	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-जबकि	CC	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-2010	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-डकैती	NN	TEMP	O	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-डाली	VM	TEMP	B-MISC	O	B-MISC	OCC
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-वर्षों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-चल	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
+गोलीकांड
+किया
+था
+जबकि
+वर्ष
+2010
+में
+डकैती
+भी
+डाली
+थी
+और
+करीब
+दस
+वर्षों
+से
+फरार
+चल
+रहा
+था
 
-जिसके	PRP	TEMP	O	O	O	O
-पकडे	VM	TEMP	O	O	B-MISC	OCC
-जाने	VAUX	TEMP	O	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-एसपी	XC	TEMP	O	O	O	O
-चित्रकूट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इनाम	NN	TEMP	O	O	O	OCC
-देने	VM	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसके
+पकडे
+जाने
+पर
+एसपी
+चित्रकूट
+ने
+पुलिस
+टीम
+को
+पांच
+हजार
+रुपये
+का
+इनाम
+देने
+की
+घोषणा
+की
+है
+.

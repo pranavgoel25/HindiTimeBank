@@ -1,103 +1,103 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कासगंज	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रूपे	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-वरदान	NN	TEMP	O	O	O	O
-साबित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+कासगंज
+:
+किसानों
+के
+लिए
+रूपे
+कार्ड
+वरदान
+साबित
+होगा
+.
 
-इस	DEM	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिये	PSP	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-पूरे	JJ	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	B-MISC	O	O	O
-निकाल	VM	TEMP	I-MISC	O	B-MISC	OCC
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+कार्ड
+के
+जरिये
+व्यापारी
+और
+किसान
+पूरे
+देश
+में
+किसी
+भी
+एटीएम
+से
+रुपये
+निकाल
+सकते
+हैं
+.
 
-यह	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-सहकारी	JJ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-प्रबंधक	JJ	TEMP	O	O	O	O
-निपेंद्र	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कही	VM	TEMP	O	O	B-MISC	REP
-.	SYM	TEMP	O	O	O	O
+यह
+बात
+जिला
+सहकारी
+बैंक
+के
+शाखा
+प्रबंधक
+निपेंद्र
+सिंह
+ने
+कही
+.
 
-वे	PRP	TEMP	O	O	O	O
-क्षेत्रीय	JJ	TEMP	O	O	O	O
-सहकारी	JJ	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-परिसर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आयोजित	JJ	TEMP	O	O	O	O
-रूपे	NN	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-वितरण	XC	TEMP	O	O	O	O
-शिविर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-व्यापारियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-संबोधित	JJ	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वे
+क्षेत्रीय
+सहकारी
+समिति
+परिसर
+में
+आयोजित
+रूपे
+किसान
+कार्ड
+वितरण
+शिविर
+में
+किसान
+और
+व्यापारियों
+को
+संबोधित
+कर
+रहे
+थे
+.
 
-इस	DEM	TEMP	O	O	O	O
-अवसर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सहकारी	JJ	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सचिव	XC	TEMP	O	O	O	O
-मुहम्मद	XC	TEMP	O	O	O	O
-हाशिम	XC	TEMP	O	O	O	O
-अंसारी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जयपाल	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-व्यापार	NN	TEMP	O	O	O	O
-मंडल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-अध्यक्ष	JJ	TEMP	O	O	O	O
-रामकुमार	XC	TEMP	O	O	O	O
-साहू	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-महामंत्री	XC	TEMP	O	O	O	O
-राशिद	XC	TEMP	O	O	O	O
-अंसारी	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	OCC
-रहे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इस
+अवसर
+पर
+सहकारी
+समिति
+के
+सचिव
+मुहम्मद
+हाशिम
+अंसारी
+,
+जयपाल
+सिंह
+,
+व्यापार
+मंडल
+के
+नगर
+अध्यक्ष
+रामकुमार
+साहू
+,
+महामंत्री
+राशिद
+अंसारी
+आदि
+किसान
+मौजूद
+रहे
+.

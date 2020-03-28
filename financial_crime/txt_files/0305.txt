@@ -1,688 +1,688 @@
-﻿बक्सर	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿बक्सर
+.
 
-महानायक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	B-MISC	O
-बैठना	VM	TEMP	B-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-बातचीत	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-अवसर	NN	TEMP	O	O	B-MISC	O
-मिलना	VM	TEMP	O	O	I-MISC	O
-ही	RP	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-जीतने	VM	TEMP	O	O	B-MISC	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	B-MISC	OCC
-नही	NEG	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+महानायक
+के
+सामने
+बैठना
+और
+उनसे
+बातचीत
+करने
+का
+अवसर
+मिलना
+ही
+बडी
+से
+बडी
+राशि
+जीतने
+से
+कम
+नही
+.
 
-बक्सर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सोहनीपट्टी	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-भास्कर	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उन	PRP	TEMP	O	O	O	O
-सौभाग्यशाली	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	B-MISC	OCC
-होने	VM	TEMP	O	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-मौका	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिन्होंने	PRP	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-केवल	RP	TEMP	O	O	O	O
-कौन	WQ	TEMP	O	O	O	O
-बनेगा	VM	TEMP	O	O	O	OCC
-करोडपति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हॉट	XC	TEMP	O	O	O	O
-सीट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अमिताभ	JJ	TEMP	O	O	O	O
-बच्चन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रूबरू	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-मौका	NN	TEMP	B-MISC	O	O	O
-मिला	VM	TEMP	I-MISC	O	B-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-बल्कि	CC	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-रकम	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जीतने	VM	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-सफल	JJ	TEMP	B-MISC	O	B-STAT	OCC
-रहे	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+बक्सर
+के
+सोहनीपट्टी
+निवासी
+भास्कर
+पांडेय
+को
+उन
+सौभाग्यशाली
+लोगों
+में
+शामिल
+होने
+का
+मौका
+मिला
+,
+जिन्होंने
+न
+केवल
+कौन
+बनेगा
+करोडपति
+के
+हॉट
+सीट
+पर
+अमिताभ
+बच्चन
+से
+रूबरू
+होने
+का
+मौका
+मिला
+,
+बल्कि
+बडी
+रकम
+भी
+जीतने
+में
+सफल
+रहे
+.
 
-भास्कर	VM	TEMP	O	O	O	O
-बुधवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-प्रसारित	JJ	TEMP	O	O	O	O
-केबीसी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-37	QC	TEMP	O	O	O	O
-वें	PRP	TEMP	O	O	O	O
-एपीसोड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हॉट	XC	TEMP	O	O	O	O
-सीट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंचने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-तन्मयता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-खेलते	VM	TEMP	O	O	B-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-12.50	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	B-MISC	O	O	O
-नाम	NN	TEMP	I-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भास्कर
+बुधवार
+को
+प्रसारित
+केबीसी
+के
+37
+वें
+एपीसोड
+में
+हॉट
+सीट
+पर
+पहुंचने
+के
+बाद
+काफी
+तन्मयता
+के
+साथ
+खेलते
+हुए
+12.50
+लाख
+की
+राशि
+अपने
+नाम
+कर
+ली
+.
 
-भाष्कर	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
-सोहनीपट्टी	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-अवकाश	NN	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-अधिकारी	JJ	TEMP	O	O	O	O
-श्यामलाल	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+भाष्कर
+पांडेय
+सोहनीपट्टी
+निवासी
+अवकाश
+प्राप्त
+बैंक
+अधिकारी
+श्यामलाल
+पांडेय
+के
+पुत्र
+हैं
+.
 
-बक्सर	XC	TEMP	O	O	O	O
-सेंट्रल	XC	TEMP	O	O	O	O
-एकेडमी	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-एमपी	NN	TEMP	O	O	O	O
-उच्च	JJ	TEMP	O	O	O	O
-विद्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इनकी	PRP	TEMP	O	O	O	O
-प्रारंभिक	JJ	TEMP	O	O	O	O
-शिक्षा	NN	TEMP	O	O	B-MISC	O
-हुई	VM	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बक्सर
+सेंट्रल
+एकेडमी
+और
+एमपी
+उच्च
+विद्यालय
+में
+इनकी
+प्रारंभिक
+शिक्षा
+हुई
+.
 
-इस	DEM	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-पुणे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्टॉक	JJ	TEMP	O	O	O	O
-मार्केट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जुडे	VM	TEMP	O	O	B-MISC	OCC
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+समय
+वे
+पुणे
+में
+स्टॉक
+मार्केट
+से
+जुडे
+हैं
+.
 
-भास्कर	VM	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-सवालों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जवाब	NN	TEMP	B-MISC	O	B-MISC	OCC
-देते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-12.50	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-जीत	VM	TEMP	B-MISC	O	B-MISC	OCC
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भास्कर
+12
+सवालों
+का
+जवाब
+देते
+हुए
+12.50
+लाख
+की
+राशि
+जीत
+चुके
+थे
+.
 
-25	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-तेरहवां	PRP	TEMP	O	O	O	O
-प्रश्न	NN	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	B-MISC	OCC
-था	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-किस	WQ	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कैलेंडर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विक्रम	JJ	TEMP	O	O	O	O
-संवत	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इस्तेमाल	NN	TEMP	B-MISC	O	B-MISC	OCC
-होता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+25
+लाख
+के
+लिए
+तेरहवां
+प्रश्न
+उनके
+सामने
+था
+कि
+किस
+देश
+के
+कैलेंडर
+में
+विक्रम
+संवत
+का
+इस्तेमाल
+होता
+है
+.
 
-यहां	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-लाइफलाइन	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-थी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यहां
+पर
+उनके
+पास
+कोई
+लाइफलाइन
+नहीं
+थी
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-बार-बार	RB	TEMP	O	O	O	O
-सही	JJ	TEMP	O	O	O	O
-जवाब	NN	TEMP	O	O	O	O
-नेपाल	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विकल्प	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जा	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-श्योर	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	O
-रहने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-गेम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-छोडने	VM	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-फैसला	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+,
+वह
+बार-बार
+सही
+जवाब
+नेपाल
+के
+विकल्प
+पर
+जा
+रहे
+थे
+,
+लेकिन
+श्योर
+नहीं
+रहने
+के
+कारण
+उन्होंने
+गेम
+को
+बीच
+में
+छोडने
+का
+फैसला
+लिया
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-महानायक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-आपने	PRP	TEMP	O	O	O	O
-जिस	DEM	TEMP	O	O	O	O
-उत्तर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गेस	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-वही	PRP	TEMP	O	O	O	O
-सही	JJ	TEMP	B-MISC	O	B-STAT	O
-है	VM	TEMP	I-MISC	O	I-STAT	O
-तो	CC	TEMP	O	O	O	O
-भास्कर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-दर्शकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-अफसोस	NN	TEMP	B-MISC	O	B-MISC	OCC
-जताया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+,
+जब
+बाद
+में
+महानायक
+ने
+उन्हें
+बताया
+कि
+आपने
+जिस
+उत्तर
+को
+गेस
+किया
+वही
+सही
+है
+तो
+भास्कर
+के
+साथ
+दर्शकों
+ने
+भी
+अफसोस
+जताया
+.
 
-भाष्कर	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भाई	XC	TEMP	O	O	O	O
-आदिनाथ	XC	TEMP	O	O	O	O
-इंटरनेशनल	NNP	TEMP	O	O	O	O
-स्कूल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संचालक	JJ	TEMP	O	O	O	O
-प्रत्युष	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-भैया	NN	TEMP	O	O	O	O
-शुरू	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-पढ़ने	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-होनहार	NN	TEMP	B-MISC	O	B-STAT	OCC
-थे	VM	TEMP	I-MISC	O	I-STAT	O
-और	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-यूपीएससी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्री	XC	TEMP	O	O	O	O
-परीक्षा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उत्तीर्ण	JJ	TEMP	B-MISC	O	B-MISC	O
-हुए	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-नही	NEG	TEMP	B-MISC	O	B-MISC	OCC
-जा	VM	TEMP	I-MISC	O	I-MISC	O
-पाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भाष्कर
+पांडेय
+के
+भाई
+आदिनाथ
+इंटरनेशनल
+स्कूल
+के
+संचालक
+प्रत्युष
+पांडेय
+ने
+बताया
+कि
+भैया
+शुरू
+से
+ही
+पढ़ने
+में
+काफी
+होनहार
+थे
+और
+दो
+बार
+यूपीएससी
+की
+प्री
+परीक्षा
+में
+उत्तीर्ण
+हुए
+पर
+आगे
+तक
+नही
+जा
+पाए
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-भैया	NN	TEMP	O	O	O	O
-स्टॉक	JJ	TEMP	O	O	O	O
-मार्केट	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	OCC
-करते	VM	TEMP	O	O	B-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-फर्म	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सीनियर	JJ	TEMP	O	O	O	O
-मैनेजर	NN	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+भैया
+स्टॉक
+मार्केट
+का
+काम
+करते
+हैं
+और
+उनकी
+पत्नी
+एक
+फर्म
+में
+सीनियर
+मैनेजर
+हैं
+.
 
-भास्कर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-जोडीदार	NN	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बनाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भास्कर
+ने
+अपना
+जोडीदार
+अपनी
+पत्नी
+को
+ही
+बनाया
+था
+.
 
-भास्कर	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-हॉट	XC	TEMP	O	O	O	O
-सीट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-महानायक	JJ	TEMP	O	O	O	O
-अमिताभ	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	B-MISC	O
-पहुंचते	VM	TEMP	O	O	I-MISC	O
-ही	RP	TEMP	O	O	O	O
-ऐसा	DEM	TEMP	O	O	O	O
-आभास	NN	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-जैसे	PRP	TEMP	O	O	O	O
-जीवन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बडा	JJ	TEMP	O	O	O	O
-सपना	NN	TEMP	O	O	O	O
-पूरा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भास्कर
+पांडेय
+ने
+फोन
+पर
+बताया
+कि
+हॉट
+सीट
+पर
+महानायक
+अमिताभ
+के
+सामने
+पहुंचते
+ही
+ऐसा
+आभास
+हुआ
+कि
+जैसे
+जीवन
+का
+एक
+बडा
+सपना
+पूरा
+हो
+गया
+.
 
-फास्टेस्ट	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-फगर	NNP	TEMP	O	O	O	O
-फ	PSP	TEMP	O	O	O	O
-‌	QC	TEMP	O	O	O	O
-र्स्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अवधि	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बढ़ते	JJ	TEMP	O	O	O	O
-क्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सजाना	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-5.22	QC	TEMP	O	O	O	O
-सेकंड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इसका	PRP	TEMP	O	O	O	O
-जवाब	NN	TEMP	B-MISC	O	O	O
-देने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-महानायक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-हॉट	XC	TEMP	O	O	O	O
-सीट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-आमंत्रित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-लगा	VM	TEMP	O	O	O	OCC
-जैसे	RP	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-जीवन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-खुशी	NN	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-मिल	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फास्टेस्ट
+¨
+फगर
+फ
+‌
+र्स्ट
+में
+समय
+की
+अवधि
+को
+बढ़ते
+क्रम
+में
+सजाना
+था
+और
+5.22
+सेकंड
+में
+इसका
+जवाब
+देने
+के
+बाद
+जब
+महानायक
+ने
+उन्हें
+हॉट
+सीट
+पर
+आने
+के
+लिए
+आमंत्रित
+किया
+तो
+उन्हें
+लगा
+जैसे
+कि
+जीवन
+की
+सबसे
+बडी
+खुशी
+उन्हें
+मिल
+गई
+.
 
-जोडीदार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-अस्मिता	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-रखा	VM	TEMP	O	O	B-MISC	OCC
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जोडीदार
+के
+रूप
+में
+उन्होंने
+अपनी
+पत्नी
+अस्मिता
+को
+ही
+रखा
+था
+.
 
-जो	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-पढ़ी	XC	TEMP	O	O	O	O
-लिखी	VM	TEMP	O	O	O	OCC
-महिला	NN	TEMP	O	O	B-MISC	O
-होने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-तेज	JJ	TEMP	O	O	O	OCC
-तर्रार	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-बेहद	TEMP	INTF	TEMP	O	O	O	O
-हंसमुख	JJ	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+जो
+एक
+पढ़ी
+लिखी
+महिला
+होने
+के
+साथ
+काफी
+तेज
+तर्रार
+और
+बेहद
+हंसमुख
+महिला
+हैं
+.
 
-जिनके	PRP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-विशेषता	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चर्चा	NN	TEMP	O	O	O	O
-महानायक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-शो	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+जिनके
+इस
+विशेषता
+की
+चर्चा
+महानायक
+ने
+खुद
+शो
+के
+दौरान
+की
+.
 
-केबीसी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भास्कर	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सवालों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सफर	NN	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+केबीसी
+में
+भास्कर
+पांडेय
+के
+सवालों
+का
+सफर
+.
 
-एक	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-पहला	QO	TEMP	O	O	O	O
-प्रश्न	NN	TEMP	O	O	O	O
-मुहावरे	JJ	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	O	O
-बची	VM	TEMP	I-MISC	O	B-MISC	O
-तो	CC	TEMP	O	O	O	O
-..	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	O	O
-पूरी	JJ	TEMP	B-MISC	O	B-MISC	O
-करनी	VM	TEMP	I-MISC	O	I-MISC	OCC
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+हजार
+रुपये
+के
+लिए
+पहला
+प्रश्न
+मुहावरे
+जान
+बची
+तो
+..
+की
+लाइन
+पूरी
+करनी
+थी
+.
 
-दूसरा	QO	TEMP	O	O	O	O
-प्रश्न	NN	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सुरक्षा	XC	TEMP	O	O	O	O
-फीचर	XC	TEMP	O	O	O	O
-एयर	XC	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-था	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+दूसरा
+प्रश्न
+कार
+में
+सुरक्षा
+फीचर
+एयर
+बैग
+के
+बारे
+में
+था
+.
 
-दस	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	OCC
-प्रश्न	NN	TEMP	B-MISC	O	B-MISC	O
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-छठ	QC	TEMP	O	O	O	O
-पर्व	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कौन	WQ	TEMP	O	O	O	O
-सी	RP	TEMP	O	O	O	O
-मिठाई	NN	TEMP	O	O	B-MISC	OCC
-बनती	VM	TEMP	B-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-ठेकुआ	NN	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	O
-जो	PRP	TEMP	O	O	O	O
-कि	RP	TEMP	O	O	O	O
-सही	JJ	TEMP	O	O	B-MISC	O
-जवाब	NN	TEMP	O	O	I-MISC	O
-था	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दस
+हजार
+के
+लिए
+उनके
+सामने
+प्रश्न
+आया
+कि
+छठ
+पर्व
+पर
+कौन
+सी
+मिठाई
+बनती
+है
+तो
+उन्होंने
+ठेकुआ
+कहा
+जो
+कि
+सही
+जवाब
+था
+.
 
-सातवें	QO	TEMP	O	O	O	O
-प्रश्न	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-फंसे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जब	PRP	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-पूछा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-इनमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कौन	WQ	TEMP	O	O	O	O
-रण्जी	NN	TEMP	O	O	O	O
-ट्रॉफी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-झारखंड	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रतिनिधित्व	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सातवें
+प्रश्न
+पर
+वे
+फंसे
+जब
+उनसे
+पूछा
+गया
+कि
+इनमें
+से
+कौन
+रण्जी
+ट्रॉफी
+में
+झारखंड
+का
+प्रतिनिधित्व
+कर
+चुका
+है
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-ऑडिएंस	XC	TEMP	O	O	O	O
-पोल	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-तेजस्वी	JJ	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-बता	VM	TEMP	O	O	O	O
-80	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जीत	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+ऑडिएंस
+पोल
+की
+मदद
+से
+उन्होंने
+तेजस्वी
+यादव
+बता
+80
+हजार
+रुपये
+जीत
+लिए
+.
 
-इसी	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-6	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सवाल	NN	TEMP	O	O	O	O
-फ्रेंच	JJ	TEMP	O	O	O	O
-ओपन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विजेता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संबंधित	JJ	TEMP	O	O	B-STAT	O
-था	VM	TEMP	O	O	I-STAT	O
-और	CC	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-जोडीदार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	B-MISC	O	B-MISC	OCC
-ली	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-सही	JJ	TEMP	O	O	O	O
-जवाब	NN	TEMP	B-MISC	O	O	O
-देकर	VM	TEMP	I-MISC	O	O	O
-पति	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+तरह
+6
+लाख
+40
+हजार
+रुपये
+का
+सवाल
+फ्रेंच
+ओपन
+के
+विजेता
+से
+संबंधित
+था
+और
+यहां
+उन्होंने
+जोडीदार
+के
+रूप
+में
+अपनी
+पत्नी
+की
+मदद
+ली
+और
+उन्होंने
+सही
+जवाब
+देकर
+पति
+की
+मदद
+की
+.
 
-12.50	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	OCC
-सवाल	NN	TEMP	B-MISC	O	B-MISC	O
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-कौन	WQ	TEMP	O	O	O	O
-सी	RP	TEMP	O	O	O	O
-विरासत	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-ट्रेड	XC	TEMP	O	O	O	O
-मार्क	NN	TEMP	O	O	O	O
-मिला	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+12.50
+लाख
+रुपये
+के
+लिए
+उनके
+सामने
+सवाल
+आया
+कि
+कौन
+सी
+विरासत
+को
+अभी
+ट्रेड
+मार्क
+मिला
+है
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-ताज	JJ	TEMP	O	O	O	O
-महल	NN	TEMP	O	O	O	O
-होटल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सही	JJ	TEMP	O	O	O	O
-जवाब	NN	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-बिना	NEG	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+उन्होंने
+ताज
+महल
+होटल
+के
+रूप
+में
+सही
+जवाब
+उन्होंने
+बिना
+किसी
+सहायता
+के
+दे
+दिया
+.
 
-अगला	JJ	TEMP	O	O	O	O
-प्रश्न	NN	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-था	VM	TEMP	O	O	B-STAT	O
-,	SYM	TEMP	O	O	O	O
-जिसमें	PRP	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-पूछा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कैलेंडर	NN	TEMP	O	O	O	O
-बिक्रम	JJ	TEMP	O	O	O	O
-संवत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आधारित	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+अगला
+प्रश्न
+25
+लाख
+था
+,
+जिसमें
+उनसे
+पूछा
+गया
+कि
+किसी
+देश
+का
+कैलेंडर
+बिक्रम
+संवत
+पर
+आधारित
+है
+.
 
-इसका	PRP	TEMP	O	O	O	O
-उत्तर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-श्योर	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-रहने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-वहीं	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गेम	NN	TEMP	O	O	B-MISC	O
-छोड	VM	TEMP	B-MISC	O	I-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसका
+उत्तर
+में
+पूरी
+तरह
+से
+श्योर
+नहीं
+रहने
+के
+कारण
+उन्होंने
+वहीं
+पर
+गेम
+छोड
+दिया
+.

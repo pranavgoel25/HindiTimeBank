@@ -1,95 +1,95 @@
-﻿दिलदारनगर	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-गाजीपुर	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-स्थानीय	JJ	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मंगलवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चलाये	VM	TEMP	O	O	B-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-मजिस्ट्रेट	NN	TEMP	O	O	O	O
-चे	PSP	TEMP	O	O	B-MISC	OCC
-¨	XC	TEMP	O	O	I-MISC	O
-कग	XC	TEMP	O	O	I-MISC	O
-अभियान	NN	TEMP	B-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-कुल	QF	TEMP	O	O	O	O
-55	QC	TEMP	O	O	O	O
-यात्रियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हिरासत	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-ले	VM	TEMP	I-MISC	O	I-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-स्थानीय	JJ	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लगे	VM	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-मजिस्ट्रेट	NNP	TEMP	O	O	O	O
-मुगलसराय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कैम्प	NN	TEMP	O	O	O	O
-न्यायालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पेश	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿दिलदारनगर
+(
+गाजीपुर
+)
+:
+स्थानीय
+रेलवे
+स्टेशन
+पर
+मंगलवार
+को
+चलाये
+गए
+मजिस्ट्रेट
+चे
+¨
+कग
+अभियान
+में
+कुल
+55
+यात्रियों
+को
+हिरासत
+में
+ले
+कर
+स्थानीय
+स्टेशन
+पर
+लगे
+रेलवे
+मजिस्ट्रेट
+मुगलसराय
+के
+कैम्प
+न्यायालय
+में
+पेश
+किया
+गया
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-बिना	NEG	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-यात्रा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-ट्रेनों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पायदान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैठ	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-यात्रा	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-कोच	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सफर	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-परिसर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-धूम्रपान	NN	TEMP	O	O	B-STAT	DES
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-50	QC	TEMP	O	O	O	O
-यात्रियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बतौर	JJ	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	O	O	O	O
-वसूला	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+बिना
+टिकट
+यात्रा
+करते
+,
+ट्रेनों
+के
+पायदान
+पर
+बैठ
+कर
+यात्रा
+कर
+रहे
+,
+महिला
+कोच
+में
+सफर
+करते
+और
+स्टेशन
+परिसर
+में
+धूम्रपान
+करने
+वाले
+50
+यात्रियों
+से
+30
+हजार
+रुपये
+बतौर
+जुर्माना
+वसूला
+गया
+.
 
-जुर्माना	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-यात्रियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जेल	NN	TEMP	B-MISC	O	B-MISC	O
-भेज	VM	TEMP	I-MISC	O	I-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जुर्माना
+नहीं
+देने
+पर
+पांच
+यात्रियों
+को
+जेल
+भेज
+दिया
+गया
+.

@@ -1,530 +1,530 @@
-लखनऊ	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-अजय	XC	TEMP	O	O	O	O
-श्रीवास्तव	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+लखनऊ
+(
+अजय
+श्रीवास्तव
+)
+.
 
-सात	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-800	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-खर्च	NN	TEMP	O	O	B-MISC	O
-कर	VM	TEMP	O	O	I-MISC	O
-सीवर	NN	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	O	O
-डाली	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सात
+साल
+पहले
+800
+करोड़
+खर्च
+कर
+सीवर
+लाइन
+डाली
+गई
+थी
+.
 
-अब	PRP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-खर्च	NN	TEMP	O	O	B-MISC	O
-कर	VM	TEMP	O	O	I-MISC	O
-घरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	B-MISC	OCC
-दिए	VM	TEMP	O	O	I-MISC	O
-जा	VAUX	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-जिस	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लापरवाही	NN	TEMP	B-MISC	O	O	O
-बरती	VM	TEMP	I-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-उससे	PRP	TEMP	O	O	O	O
-लखनऊ	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सीवरेज	JJ	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सवाल	NN	TEMP	B-MISC	O	B-MISC	O
-खड़ा	VM	TEMP	I-MISC	O	I-MISC	OCC
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+करीब
+200
+करोड़
+खर्च
+कर
+घरों
+में
+कनेक्शन
+दिए
+जा
+रहे
+हैं
+,
+लेकिन
+जिस
+तरह
+से
+लापरवाही
+बरती
+जा
+रही
+है
+उससे
+लखनऊ
+की
+सीवरेज
+योजना
+पर
+फिर
+से
+सवाल
+खड़ा
+हो
+गया
+है
+.
 
-अगर	CC	TEMP	O	O	O	O
-सुधार	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-सीवर	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नालियों	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सड़कों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बहेगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-स्वच्छता	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दावा	NN	TEMP	O	O	O	O
-कोरा	NN	TEMP	O	O	O	O
-साबित	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-जाएगा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+सुधार
+नहीं
+किया
+गया
+तो
+सीवर
+एक
+बार
+फिर
+से
+नालियों
+व
+सड़कों
+पर
+बहेगा
+और
+स्वच्छता
+का
+दावा
+कोरा
+साबित
+हो
+जाएगा
+.
 
-जल	XC	TEMP	O	O	O	O
-निगम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परियोजना	NN	TEMP	O	O	O	O
-प्रबंधक	JJ	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-अस्थायी	JJ	TEMP	O	O	O	O
-गोमती	JJ	TEMP	O	O	O	O
-प्रदूषण	NN	TEMP	O	O	O	O
-नियंत्रण	NN	TEMP	O	O	O	O
-इकाई	XC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-एसके	RDP	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-आशंका	NN	TEMP	B-MISC	O	B-MISC	O
-जता	VM	TEMP	I-MISC	O	I-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-नालियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सीवर	XC	TEMP	O	O	O	O
-लाइन	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जोड़ना	XC	TEMP	O	O	B-MISC	O
-बंद	JJ	TEMP	O	O	I-MISC	O
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-सीवर	NN	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-प्रश्नचिन्ह	NN	TEMP	B-MISC	O	B-MISC	O
-खड़ा	VM	TEMP	I-MISC	O	I-MISC	OCC
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जल
+निगम
+के
+परियोजना
+प्रबंधक
+(
+अस्थायी
+गोमती
+प्रदूषण
+नियंत्रण
+इकाई
+)
+एसके
+यादव
+ने
+अपनी
+रिपोर्ट
+में
+यह
+आशंका
+जता
+दी
+है
+कि
+नालियों
+को
+सीवर
+लाइन
+से
+जोड़ना
+बंद
+नहीं
+किया
+गया
+तो
+सीवर
+योजना
+पर
+प्रश्नचिन्ह
+खड़ा
+हो
+जाएगा
+.
 
-यह	DEM	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दौलतगंज	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दुबग्गा	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बालागंज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-369	QC	TEMP	O	O	O	O
-किमी	NN	TEMP	O	O	O	O
-लंबी	JJ	TEMP	O	O	O	O
-सीवर	NN	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	OCC
-उठा	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+मामला
+दौलतगंज
+,
+दुबग्गा
+,
+बालागंज
+की
+369
+किमी
+लंबी
+सीवर
+लाइन
+को
+लेकर
+उठा
+है
+.
 
-इन	DEM	TEMP	O	O	O	O
-इलाकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सीवर	XC	TEMP	O	O	O	O
-लाइन	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	B-MISC	OCC
-दिया	VM	TEMP	O	O	I-MISC	O
-जा	VAUX	TEMP	O	O	I-MISC	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+इलाकों
+में
+सीवर
+लाइन
+से
+घरों
+में
+कनेक्शन
+दिया
+जा
+रहा
+है
+.
 
-नगर	NN	TEMP	O	O	O	O
-निगम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जलनिगम	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हरिहरनगर	NNP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-सड़क	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-खोदकर	VM	TEMP	B-MISC	O	O	O
-नालियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सीवर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जोड़ा	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+नगर
+निगम
+ने
+जलनिगम
+रोड
+से
+हरिहरनगर
+तक
+सड़क
+को
+बीच
+से
+खोदकर
+नालियों
+को
+सीवर
+से
+जोड़ा
+है
+.
 
-दरअसल	CC	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-इलाकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सीवर	NN	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	O	O
-पाने	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-शेष	JJ	TEMP	O	O	B-MISC	OCC
-रह	VM	TEMP	O	O	I-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-करीब	RB	TEMP	O	O	O	O
-बीस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	B-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-7682.57	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-मंजूर	JJ	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दरअसल
+इन
+इलाकों
+में
+सीवर
+कनेक्शन
+पाने
+से
+शेष
+रह
+गए
+करीब
+बीस
+हजार
+घरों
+में
+कनेक्शन
+देने
+के
+लिए
+7682.57
+लाख
+की
+योजना
+मंजूर
+की
+गई
+है
+.
 
-अलीगंज	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जानकीपुरम	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कल्याणपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विकासनगर	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रहीमनगर	RDP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-खुर्रमनगर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-महानगर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-निरालानगर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-डालीगंज	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-निशातगंज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जवाहर	XC	TEMP	O	O	O	O
-लाल	XC	TEMP	O	O	O	O
-अर्बन	XC	TEMP	O	O	O	O
-रीन्यूवल	NNP	TEMP	O	O	O	O
-मिशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंतर्गत	PSP:?	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-किलोमीटर	NN	TEMP	O	O	O	O
-सीवर	JJ	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	O	O
-डाली	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अलीगंज
+,
+जानकीपुरम
+,
+कल्याणपुर
+,
+विकासनगर
+,
+रहीमनगर
+,
+खुर्रमनगर
+,
+महानगर
+,
+निरालानगर
+,
+डालीगंज
+,
+निशातगंज
+में
+जवाहर
+लाल
+अर्बन
+रीन्यूवल
+मिशन
+के
+अंतर्गत
+पांच
+सौ
+किलोमीटर
+सीवर
+लाइन
+डाली
+गई
+थी
+.
 
-इन	DEM	TEMP	O	O	O	O
-इलाकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-50500	QC	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सीवर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-13933.27	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	B-MISC	O
-मंजूर	VM	TEMP	O	O	I-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+इलाकों
+में
+50500
+घरों
+में
+सीवर
+का
+कनेक्शन
+करने
+के
+लिए
+13933.27
+लाख
+मंजूर
+हुए
+हैं
+.
 
-इंदिरा	XC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गोमती	JJ	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-फैजाबाद	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जुड़े	XC	TEMP	O	O	O	O
-इलाकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जवाहर	XC	TEMP	O	O	O	O
-लाल	XC	TEMP	O	O	O	O
-अर्बन	XC	TEMP	O	O	O	O
-रीन्यूवल	NNP	TEMP	O	O	O	O
-मिशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंतर्गत	PSP:?	TEMP	O	O	O	O
-350	QC	TEMP	O	O	O	O
-किलोमीटर	NN	TEMP	O	O	O	O
-सीवर	JJ	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	O	O
-डाली	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इंदिरा
+नगर
+,
+गोमती
+नगर
+फैजाबाद
+रोड
+से
+जुड़े
+इलाकों
+में
+भी
+जवाहर
+लाल
+अर्बन
+रीन्यूवल
+मिशन
+के
+अंतर्गत
+350
+किलोमीटर
+सीवर
+लाइन
+डाली
+गई
+थी
+.
 
-यहां	PRP	TEMP	O	O	O	O
-24540	QC	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सीवर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	O	OCC
-होना	VM	TEMP	O	O	B-STAT	O
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+यहां
+24540
+घरों
+में
+सीवर
+का
+कनेक्शन
+होना
+है
+.
 
-जिस	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-7920.50	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मंजूरी	NN	TEMP	B-MISC	O	B-MISC	O
-मिली	VM	TEMP	I-MISC	O	I-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिस
+पर
+7920.50
+लाख
+की
+योजना
+को
+मंजूरी
+मिली
+है
+.
 
-वर्ष	NN	TEMP	O	B	O	O
-2008	QC	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-शुरू	NN	TEMP	O	O	B-STAT	O
-हुई	VM	TEMP	O	O	I-STAT	O
-जवाहर	XC	TEMP	O	O	O	O
-लाल	NNP	TEMP	O	O	O	O
-अर्बन	XC	TEMP	O	O	O	O
-रीन्यूवल	NNP	TEMP	O	O	O	O
-मिशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंतर्गत	PSP:?	TEMP	O	O	O	O
-डाली	VM	TEMP	O	O	B-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-सीवर	NN	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जल	XC	TEMP	O	O	O	O
-निगम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बड़े	NNP	TEMP	O	O	O	O
-पैमाने	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गड़बड़ी	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-थी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वर्ष
+2008
+से
+शुरू
+हुई
+जवाहर
+लाल
+अर्बन
+रीन्यूवल
+मिशन
+के
+अंतर्गत
+डाली
+गई
+सीवर
+लाइन
+में
+जल
+निगम
+ने
+बड़े
+पैमाने
+पर
+गड़बड़ी
+की
+थी
+.
 
-बसपा	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-सपा	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-गड़बड़ियों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पर्दा	XC	TEMP	O	O	B-MISC	OCC
-पड़ता	NNP	TEMP	O	O	I-MISC	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बसपा
+सरकार
+और
+फिर
+सपा
+सरकार
+में
+भी
+इन
+गड़बड़ियों
+पर
+पर्दा
+पड़ता
+रहा
+.
 
-ठेकेदारों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सीवर	XC	TEMP	O	O	O	O
-लाइन	NNP	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-डाल	VM	TEMP	B-MISC	O	B-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-मैनहोल	NN	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-डाली	VM	TEMP	B-MISC	O	B-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-बोरियां	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-हटाईं	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ठेकेदारों
+ने
+सीवर
+लाइन
+तो
+डाल
+दी
+,
+लेकिन
+मैनहोल
+बनाने
+के
+दौरान
+डाली
+गई
+बोरियां
+तक
+नहीं
+हटाईं
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-हनीप्रीत	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खोजने	VM	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पुरस्कार	NN	TEMP	O	O	O	O
-घोषितसीमेंट	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कंकरीट	NN	TEMP	O	O	O	O
-मसाले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सफाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-सीवर	XC	TEMP	O	O	O	O
-लाइन	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पाइप	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुख	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-बंद	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+हनीप्रीत
+को
+खोजने
+वाले
+को
+एक
+लाख
+रुपए
+का
+पुरस्कार
+घोषितसीमेंट
+व
+कंकरीट
+मसाले
+की
+सफाई
+न
+होने
+से
+सीवर
+लाइन
+के
+पाइप
+के
+मुख
+तक
+बंद
+हो
+गए
+.
 
-दूसरा	QO	TEMP	O	O	O	O
-खराब	JJ	TEMP	O	O	O	O
-पहलू	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-रहा	VM	TEMP	O	O	B-MISC	REP
-है	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-जलकल	XC	TEMP	O	O	O	O
-महकमे	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कागजों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सीवर	XC	TEMP	O	O	O	O
-लाइन	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हैंडओवर	NN	TEMP	O	O	B-MISC	OCC
-करके	VM	TEMP	O	O	I-MISC	O
-यह	DEM	TEMP	O	O	O	O
-दावा	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	B-MISC	O	B-MISC	O
-दे	VM	TEMP	I-MISC	O	I-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जबकि	CC	TEMP	O	O	O	O
-आज	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-इलाकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सीवर	JJ	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	O	O
-चालू	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-पाई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दूसरा
+खराब
+पहलू
+यह
+रहा
+है
+कि
+जलकल
+महकमे
+ने
+कागजों
+में
+सीवर
+लाइन
+को
+हैंडओवर
+करके
+यह
+दावा
+कर
+दिया
+कि
+घरों
+में
+कनेक्शन
+दे
+दिए
+गए
+,
+जबकि
+आज
+भी
+कई
+इलाकों
+में
+सीवर
+लाइन
+चालू
+नहीं
+हो
+पाई
+है
+.
 
-सीवर	XC	TEMP	O	O	O	O
-ओपन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-होना	VM	TEMP	O	O	I-MISC	O
-चाहिए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सीवर
+ओपन
+में
+नहीं
+होना
+चाहिए
+.
 
-वह	PRP	TEMP	O	O	O	O
-सीधे	JJ	TEMP	O	O	O	O
-एसटीपी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जाना	VM	TEMP	O	O	B-STAT	OCC
-चाहिए	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+वह
+सीधे
+एसटीपी
+में
+जाना
+चाहिए
+.
 
-ऐसा	PRP	TEMP	O	O	O	O
-इसलिए	PSP	TEMP	O	O	O	O
-क्योंकि	CC	TEMP	O	O	O	O
-नालियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जाने	VM	TEMP	B-MISC	O	B-MISC	O
-से	PSP	TEMP	O	O	O	O
-संक्रमण	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-खतरा	NN	TEMP	B-MISC	O	B-MISC	OCC
-बना	VM	TEMP	I-MISC	O	I-MISC	O
-रहेगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऐसा
+इसलिए
+क्योंकि
+नालियों
+में
+जाने
+से
+संक्रमण
+का
+खतरा
+बना
+रहेगा
+.
 
-खुले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शौच	NN	TEMP	O	O	O	OCC
-मुक्त	JJ	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-मकसद	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-मल	NN	TEMP	O	O	O	O
-खुले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	B-MISC	OCC
-रहे	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खुले
+में
+शौच
+मुक्त
+करने
+का
+मकसद
+ही
+यह
+है
+कि
+मल
+खुले
+में
+न
+रहे
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	B-MISC	O	O	O
-:	SYM	TEMP	O	O	O	O
-बरेली	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चचेरे	JJ	TEMP	O	O	O	O
-ससुर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किया	VM	TEMP	O	O	O	O
-दुष्कर्म	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-पति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तीन	QC	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+बरेली
+में
+चचेरे
+ससुर
+ने
+किया
+दुष्कर्म
+और
+पति
+ने
+दे
+दिया
+तीन

@@ -1,373 +1,373 @@
 
-सुरजीत	JJ	TEMP	O	O	O	O
-पुंढीर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अलीगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-धनीपुर	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अलहदादपुर	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-लटूरी	JJ	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+सुरजीत
+पुंढीर
+,
+अलीगढ़
+:
+धनीपुर
+के
+अलहदादपुर
+निवासी
+लटूरी
+सिंह
+के
+परिवार
+में
+चार
+सदस्य
+हैं
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-कुलदीप	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-हरेंद्र	JJ	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पत्	NN	TEMP	O	O	O	O
-‍	JJ	TEMP	O	O	O	O
-‌	NN	TEMP	O	O	O	O
-नी	VM	TEMP	B-MISC	O	B-MISC	OCC
-नागेंद्रवती	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+दो
+बच्चे
+कुलदीप
+और
+हरेंद्र
+व
+पत्
+‍
+‌
+नी
+नागेंद्रवती
+हैं
+.
 
-पिछले	JJ	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-जनवरी	NN	TEMP	O	B	O	O
-में	PSP	TEMP	O	O	O	O
-इन्होंने	PRP	TEMP	O	O	O	O
-खेती	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-75	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कर्ज	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-खेती	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घाटा	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-पैसा	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-सके	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पिछले
+साल
+जनवरी
+में
+इन्होंने
+खेती
+के
+लिए
+75
+हजार
+रुपये
+बैंक
+से
+कर्ज
+लिया
+था
+,
+लेकिन
+खेती
+में
+घाटा
+हो
+गया
+और
+पैसा
+नहीं
+चुका
+सके
+.
 
-कर्ज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उन	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मानसिक	JJ	TEMP	O	O	O	OCC
-दबाव	NN	TEMP	O	O	O	O
-बढ़ता	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कर्ज
+से
+उन
+पर
+मानसिक
+दबाव
+बढ़ता
+जा
+रहा
+है
+.
 
-अब	PRP	TEMP	O	O	O	O
-योगी	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-माफ	JJ	TEMP	O	O	O	O
-करबडी	NN	TEMP	O	O	O	O
-सौगात	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+योगी
+सरकार
+ने
+उनका
+कर्ज
+माफ
+करबडी
+सौगात
+दी
+है
+.
 
-उन्हें	PRP	TEMP	O	O	O	O
-अच्छे	JJ	TEMP	O	O	O	O
-दिनों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एहसास	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्हें
+अच्छे
+दिनों
+का
+एहसास
+हो
+रहा
+है
+.
 
-जिले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ऐसे	DEM	TEMP	O	O	O	O
-हजारों	QC	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-,	SYM	TEMP	O	O	O	O
-जिनका	PRP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-माफ	JJ	TEMP	O	O	B-MISC	O
-कर	VM	TEMP	O	O	I-MISC	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मुस्कान	NN	TEMP	O	O	O	O
-लौटा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिले
+में
+ऐसे
+हजारों
+लोग
+हैं
+,
+जिनका
+कर्ज
+माफ
+कर
+सरकार
+ने
+मुस्कान
+लौटा
+दी
+है
+.
 
-पहली	QO	TEMP	O	O	O	O
-सूची	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	O	O
-28481	QC	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-27959	QC	TEMP	O	O	O	O
-ऐसे	PRP	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-,	SYM	TEMP	O	O	O	O
-जिनका	PRP	TEMP	O	O	O	O
-दस	XC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-माफ	JJ	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पहली
+सूची
+में
+शामिल
+28481
+किसानों
+में
+से
+27959
+ऐसे
+हैं
+,
+जिनका
+दस
+हजार
+से
+एक
+लाख
+के
+बीच
+में
+कर्ज
+माफ
+हुआ
+है
+.
 
-भाजपा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-विधानसभा	JJ	TEMP	B-MISC	O	O	O
-चुनाव	NN	TEMP	I-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कर्जमाफी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-वादा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भाजपा
+ने
+विधानसभा
+चुनाव
+के
+दौरान
+किसानों
+से
+कर्जमाफी
+का
+वादा
+किया
+था
+.
 
-भाजपा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-योगी	NN	TEMP	O	O	O	O
-आदित्यनाथ	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-वादे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-कैबिनेट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पहली	QO	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बैठक	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	OCC
-माफ	JJ	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-दी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भाजपा
+की
+योगी
+आदित्यनाथ
+सरकार
+ने
+वादे
+के
+अनुसार
+कैबिनेट
+की
+पहली
+ही
+बैठक
+में
+ही
+किसानों
+का
+एक
+लाख
+रुपये
+तक
+का
+कर्ज
+माफ
+करने
+की
+घोषणा
+कर
+दी
+.
 
-अब	PRP	TEMP	O	O	O	O
-इनके	PRP	TEMP	O	O	O	O
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-बांटे	VM	TEMP	O	O	B-MISC	OCC
-जा	VAUX	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+इनके
+प्रमाण
+पत्र
+बांटे
+जा
+रहे
+हैं
+.
 
-जिले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-सवा	XC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	B-MISC	O
-माफ	JJ	TEMP	B-MISC	O	I-MISC	O
-होना	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिले
+में
+करीब
+सवा
+लाख
+किसानों
+का
+कर्ज
+माफ
+होना
+है
+.
 
-पहले	NST	TEMP	O	O	O	O
-चरण	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-28481	QC	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लाभ	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पहले
+चरण
+में
+28481
+को
+लाभ
+मिला
+है
+.
 
-बडे	JJ	TEMP	O	O	O	O
-बकायेदारों	NN	TEMP	O	O	O	O
-ज्यादा	QF	TEMP	O	O	O	O
-फायदा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-कर्जमाफी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-बकायेदारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-फायदा	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बडे
+बकायेदारों
+ज्यादा
+फायदा
+:
+कर्जमाफी
+में
+बडे
+बकायेदारों
+को
+सबसे
+अधिक
+फायदा
+हुआ
+है
+.
 
-जिले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-28	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-ऐसे	PRP	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जिनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-कर्ज	VM	TEMP	O	O	B-MISC	OCC
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिले
+में
+करीब
+28
+हजार
+किसान
+ऐसे
+हैं
+,
+जिनके
+पास
+10
+हजार
+से
+एक
+लाख
+रुपये
+तक
+कर्ज
+था
+.
 
-उनके	PRP	TEMP	O	O	O	O
-चेहरों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खुशी	NN	TEMP	O	O	O	O
-नजर	NN	TEMP	O	O	B-MISC	OCC
-आ	VM	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनके
+चेहरों
+पर
+खुशी
+नजर
+आ
+रही
+है
+.
 
-......	NN	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	OCC
-हुआ	VM	TEMP	B-MISC	O	B-STAT	O
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-कर्ज	NN	TEMP	O	O	O	O
-माफ	JJ	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-44	QC	TEMP	O	B	O	O
-100	QC	TEMP	O	I	O	O
--	SYM	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-54	QC	TEMP	O	B	O	O
-500	QC	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-1000	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-77	QC	TEMP	O	B	O	O
-1000	QC	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-10000	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-347	QC	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-27959	QC	TEMP	O	O	O	O
-........	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अच्छा	JJ	TEMP	O	O	O	O
-फैसला	NN	TEMP	O	O	O	O
-अहलदादपुर	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-राजकुमार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-अच्छा	JJ	TEMP	O	O	O	O
-फैसला	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+......
+इस
+तरह
+हुआ
+है
+कर्ज
+माफ
+रुपये
+,
+किसान
+संख्या
+0
+से
+100
+,
+44
+100
+-
+500
+,
+54
+500
+से
+1000
+,
+77
+1000
+से
+10000
+,
+347
+10
+हजार
+से
+एक
+लाख
+तक
+,
+27959
+........
+सरकार
+का
+अच्छा
+फैसला
+अहलदादपुर
+के
+राजकुमार
+का
+कहना
+है
+कि
+सरकार
+का
+यह
+अच्छा
+फैसला
+है
+.
 
-कर्ज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मानसिक	JJ	TEMP	O	O	O	O
-दबाव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक-एक	JJ	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-सोच	VM	TEMP	B-MISC	O	B-MISC	OCC
-समझकर	VM	TEMP	I-MISC	O	I-MISC	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-पड	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कर्ज
+के
+मानसिक
+दबाव
+के
+चलते
+घर
+में
+एक-एक
+पैसा
+सोच
+समझकर
+खर्च
+करना
+पड
+रहा
+था
+.
 
-अब	PRP	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फीस	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भर	VM	TEMP	O	O	B-MISC	OCC
-सकेंगे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+बच्चों
+की
+फीस
+भी
+समय
+से
+भर
+सकेंगे
+.
 
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-97	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-माफ	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सरकार
+ने
+97
+हजार
+रुपये
+माफ
+किए
+हैं
+.

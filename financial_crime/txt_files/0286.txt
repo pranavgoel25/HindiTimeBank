@@ -1,281 +1,281 @@
-﻿मिलक	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-मुहल्ला	XC	TEMP	O	O	O	O
-रौराखुर्द	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-चोरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निशाना	NN	TEMP	B-MISC	O	B-MISC	OCC
-बनाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿मिलक
+:
+मुहल्ला
+रौराखुर्द
+में
+सोमवार
+की
+रात
+चोरों
+ने
+एक
+घर
+को
+निशाना
+बनाया
+.
 
-चोर	NN	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आंगन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खडी	JJ	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-22	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चोर
+घर
+के
+आंगन
+में
+खडी
+बाइक
+,
+मोबाइल
+और
+22
+हजार
+रुपये
+लेकर
+फरार
+हो
+गए
+.
 
-नगर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	DES
-चोरी	NN	TEMP	B-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-रोष	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+नगर
+में
+हुई
+चोरी
+से
+लोगों
+में
+पुलिस
+के
+प्रति
+रोष
+है
+.
 
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-रात	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गश्त	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-करती	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिस	DEM	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-आए	VM	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-वारदातें	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लोगों
+के
+अनुसार
+पुलिस
+रात
+में
+गश्त
+नहीं
+करती
+है
+,
+जिस
+कारण
+आए
+दिन
+चोरी
+की
+वारदातें
+हो
+रही
+हैं
+.
 
-सोमवार	NNP	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-किसी	PRP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-चोर	NN	TEMP	O	O	O	O
-मुहल्ला	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-रामनाथ	XC	TEMP	O	O	O	O
-माहेश्वरी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दाखिल	JJ	TEMP	B-MISC	O	B-STAT	DECL
-हुए	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सोमवार
+की
+रात
+किसी
+समय
+चोर
+मुहल्ला
+निवासी
+रामनाथ
+माहेश्वरी
+के
+घर
+में
+दाखिल
+हुए
+.
 
-उस	DEM	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-परिजन	NN	TEMP	O	O	O	O
-गहरी	JJ	TEMP	O	O	O	O
-नींद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सो	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उस
+समय
+परिजन
+गहरी
+नींद
+में
+सो
+रहे
+थे
+.
 
-चोर	NN	TEMP	O	O	O	O
-कमरे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घुसे	VM	TEMP	B-MISC	O	B-MISC	O
-और	CC	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	B-STAT	O
-22	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-चार्जिंग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लगे	VM	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-चॉकलेट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-डिब्बे	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-आंगन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खडी	JJ	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चोर
+कमरे
+में
+घुसे
+और
+बैग
+में
+रखे
+22
+हजार
+रुपये
+,
+चार्जिंग
+पर
+लगे
+मोबाइल
+,
+चॉकलेट
+के
+कई
+डिब्बे
+सहित
+आंगन
+में
+खडी
+बाइक
+ले
+गए
+.
 
-चोर	NN	TEMP	O	O	O	O
-आराम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वारदात	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-अंजाम	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-आसानी	RB	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चोर
+आराम
+से
+वारदात
+को
+अंजाम
+देकर
+आसानी
+से
+फरार
+हो
+गए
+.
 
-सुबह	NN	TEMP	B-MISC	O	O	O
-होने	VM	TEMP	I-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-परिजनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	OCC
-चोरी	NN	TEMP	B-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुबह
+होने
+पर
+परिजनों
+को
+घर
+में
+हुई
+चोरी
+का
+पता
+चला
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+परिवार
+ने
+कोतवाली
+में
+चोरों
+के
+खिलाफ
+मुकदमा
+दर्ज
+कराया
+है
+.
 
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-उडाए	VM	TEMP	B-MISC	O	O	OCC
-स्वार	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-एसबीआई	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मैनेजर	NN	TEMP	O	O	O	O
-बता	VM	TEMP	O	O	B-MISC	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पिनकोड	NN	TEMP	O	O	B-MISC	O
-पूछकर	VM	TEMP	B-MISC	O	I-MISC	O
-18	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-एकाउंट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-गायब	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खाते
+से
+18
+हजार
+उडाए
+स्वार
+:
+एसबीआई
+का
+मैनेजर
+बता
+एक
+युवक
+से
+एटीएम
+का
+पिनकोड
+पूछकर
+18
+हजार
+रुपये
+बैंक
+एकाउंट
+से
+गायब
+कर
+लिए
+.
 
-नगर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रईस	XC	TEMP	O	O	O	O
-अहमद	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-बहन	NN	TEMP	O	O	O	O
-शाइन	XC	TEMP	O	O	O	O
-बानो	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एसबीआई	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खाता	VM	TEMP	O	O	B-STAT	O
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+नगर
+के
+रईस
+अहमद
+ने
+पुलिस
+को
+तहरीर
+देकर
+कहा
+कि
+उसकी
+बहन
+शाइन
+बानो
+का
+एसबीआई
+में
+खाता
+है
+.
 
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कॉल	NN	TEMP	B-MISC	O	B-MISC	OCC
-आई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सोमवार
+को
+उसके
+मोबाइल
+पर
+कॉल
+आई
+.
 
-कॉल	NN	TEMP	O	O	B-STAT	O
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-आपने	PRP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-खाता	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कॉल
+करने
+वाले
+ने
+कहा
+कि
+आपने
+अपने
+खाता
+नंबर
+को
+बंद
+करने
+को
+कहा
+था
+.
 
-एसबीआई	XC	TEMP	O	O	O	O
-स्वार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मैनेजर	NN	TEMP	O	O	O	O
-बोल	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-हूं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एसबीआई
+स्वार
+का
+मैनेजर
+बोल
+रहा
+हूं
+.
 
-अपना	PRP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कोड	XC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-बताओ	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+अपना
+एटीएम
+नंबर
+और
+कोड
+नंबर
+बताओ
+.
 
-उसके	PRP	TEMP	O	O	O	O
-फौरन	NN	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-गायब	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+फौरन
+बाद
+खाते
+से
+18
+हजार
+रुपये
+गायब
+हो
+गए
+.

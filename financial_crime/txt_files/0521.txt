@@ -1,600 +1,600 @@
 
-पटना	NNP	TEMP	O	O	O	O
-[	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+पटना
+[
+जेएनएन
+]
+.
 
-बिहार	NNP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-19	QC	TEMP	O	O	O	O
-जिलों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बाढ़	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	OCC
-क्षति	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भरपाई	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-केंद्र	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-7636	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रूपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिहार
+सरकार
+ने
+19
+जिलों
+में
+बाढ़
+से
+हुई
+क्षति
+की
+भरपाई
+के
+लिए
+केंद्र
+सरकार
+से
+7636
+करोड़
+रूपये
+की
+मांग
+की
+है
+.
 
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-मुख्यमंत्री	JJ	TEMP	O	O	O	O
-नीतीश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-हमने	PRP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-क्षतिपूर्ति	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सोमवार
+को
+मुख्यमंत्री
+नीतीश
+कुमार
+ने
+कहा
+कि
+हमने
+पूरी
+क्षतिपूर्ति
+की
+मांग
+नहीं
+की
+है
+.
 
-हमने	PRP	TEMP	O	O	O	O
-उसी	DEM	TEMP	O	O	O	O
-क्षति	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-जो	PRP	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भेजना	VM	TEMP	B-MISC	O	B-MISC	OCC
-आवश्यक	JJ	TEMP	B-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हमने
+उसी
+क्षति
+की
+केंद्र
+सरकार
+से
+मांग
+की
+है
+जो
+केंद्र
+को
+भेजना
+आवश्यक
+है
+.
 
-विगत	JJ	TEMP	O	O	O	O
-26	QC	TEMP	O	O	O	O
-अगस्त	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्रधानमंत्री	NN	TEMP	O	O	O	O
-नरेंद्र	JJ	TEMP	O	O	O	O
-मोदी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सीमांचल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जिलों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बाढ़	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हवाई	JJ	TEMP	O	O	B-MISC	OCC
-सर्वेक्षण	NN	TEMP	B-MISC	O	I-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-नीतीश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-उप	NN	TEMP	O	O	O	O
-मुख्यमंत्री	JJ	TEMP	O	O	O	O
-सुशील	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-मोदी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उपस्थिति	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-बैठक	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विगत
+26
+अगस्त
+को
+प्रधानमंत्री
+नरेंद्र
+मोदी
+ने
+सीमांचल
+के
+जिलों
+में
+बाढ़
+का
+हवाई
+सर्वेक्षण
+करने
+के
+बाद
+मुख्यमंत्री
+नीतीश
+कुमार
+और
+उप
+मुख्यमंत्री
+सुशील
+कुमार
+मोदी
+की
+उपस्थिति
+में
+अधिकारियों
+के
+साथ
+बैठक
+की
+थी
+.
 
-प्रधानमंत्री	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तब	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-राज्य	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-बाढ़	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हुए	VM	TEMP	O	O	B-MISC	OCC
-नुकसान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-विभागवार	JJ	TEMP	O	O	O	O
-ब्योरा	NN	TEMP	O	O	B-MISC	OCC
-भेजे	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रधानमंत्री
+ने
+तब
+कहा
+था
+कि
+राज्य
+सरकार
+बाढ़
+से
+हुए
+नुकसान
+का
+विभागवार
+ब्योरा
+भेजे
+.
 
-उस	DEM	TEMP	O	O	O	O
-ब्योरे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-केंद्रीय	XC	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-प्रभावित	JJ	TEMP	O	O	O	O
-इलाकों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निरीक्षण	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-अपनी	PRP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	B-MISC	O
-देगी	VM	TEMP	O	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+उस
+ब्योरे
+के
+बाद
+केंद्रीय
+टीम
+प्रभावित
+इलाकों
+का
+निरीक्षण
+कर
+अपनी
+रिपोर्ट
+देगी
+.
 
-उक्त	JJ	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बाढ़	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हुए	VM	TEMP	O	O	B-STAT	OCC
-नुकसान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आर्थिक	JJ	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	B-MISC	OCC
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उक्त
+रिपोर्ट
+के
+आधार
+बिहार
+को
+बाढ़
+से
+हुए
+नुकसान
+के
+मद
+में
+आर्थिक
+सहायता
+दी
+जाएगी
+.
 
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-आपदा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मानक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हिसाब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-व्यवहारिक	JJ	TEMP	O	O	O	O
-नजरिया	NN	TEMP	O	O	O	O
-अपनाते	VM	TEMP	O	O	B-STAT	O
-हुए	VAUX	TEMP	O	O	I-STAT	O
-नुकसान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ब्योरा	NN	TEMP	O	O	O	O
-केंद्र	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भेजा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मुख्यमंत्री
+ने
+इस
+संबंध
+में
+कहा
+कि
+आपदा
+के
+मानक
+के
+हिसाब
+से
+पूरी
+तरह
+व्यवहारिक
+नजरिया
+अपनाते
+हुए
+नुकसान
+का
+ब्योरा
+केंद्र
+सरकार
+को
+भेजा
+गया
+है
+.
 
-जिन	DEM	TEMP	O	O	O	O
-चीजों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-सरकार	JJ	TEMP	O	O	O	O
-सहायता	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-सकती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-वही	PRP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	O	OCC
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-सीमा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कर	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिन
+चीजों
+में
+केंद्र
+सरकार
+सहायता
+कर
+सकती
+है
+वही
+मांग
+में
+एक
+सीमा
+में
+कर
+रहे
+.
 
-वैसे	PRP	TEMP	O	O	O	O
-पूर्व	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अनुभव	NN	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-मेंं	PSP	TEMP	O	O	O	O
-अच्छा	JJ	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-रहा	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वैसे
+पूर्व
+का
+अनुभव
+सहायता
+के
+मामले
+मेंं
+अच्छा
+नहीं
+रहा
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-बाढ़	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उत्तर	XC	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भारी	JJ	TEMP	O	O	O	O
-नुकसान	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-हमलोगों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ये	DEM	TEMP	O	O	O	O
-मंशा	NN	TEMP	B-MISC	O	O	O
-कतई	RB	TEMP	I-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-STAT	O
-है	VM	TEMP	I-MISC	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-क्षति	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भरपाई	NN	TEMP	O	O	O	O
-सिर्फ	RB	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	B-MISC	O
-ही	RP	TEMP	O	O	I-MISC	O
-करे	VM	TEMP	B-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+बाढ़
+से
+उत्तर
+बिहार
+में
+भारी
+नुकसान
+हुआ
+है
+लेकिन
+हमलोगों
+की
+ये
+मंशा
+कतई
+नहीं
+है
+कि
+क्षति
+की
+भरपाई
+सिर्फ
+केंद्र
+ही
+करे
+.
 
-सीएम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बाढ़	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रधानमंत्री	NN	TEMP	O	O	O	O
-नरेंद्र	JJ	TEMP	O	O	O	O
-मोदी	NN	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-चिंतित	JJ	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सीएम
+ने
+कहा
+कि
+बिहार
+में
+बाढ़
+से
+प्रधानमंत्री
+नरेंद्र
+मोदी
+खुद
+चिंतित
+हैं
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-9	QC	TEMP	O	O	O	O
-अगस्त	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बाढ़	NN	TEMP	O	O	O	O
-पीड़ित	JJ	TEMP	O	O	O	O
-इलाकों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हवाई	XC	TEMP	O	O	B-MISC	O
-सर्वेक्षण	NN	TEMP	B-MISC	O	I-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-तत्काल	RB	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ऐलान	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+9
+अगस्त
+को
+बाढ़
+पीड़ित
+इलाकों
+का
+हवाई
+सर्वेक्षण
+किया
+था
+और
+तत्काल
+उन्होंने
+500
+करोड़
+रुपये
+का
+ऐलान
+किया
+था
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-शरद	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-अली	JJ	TEMP	O	O	O	O
-अनवर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राज्यसभा	NN	TEMP	O	O	O	O
-सदस्यता	NN	TEMP	O	O	O	O
-खतरे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जानिए	VM	TEMP	O	O	O	O
-वजहप्रभावित	JJ	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-पूर्णिया	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सुपौल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-किशनगंज	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कटिहार	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अररिया	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पूर्वी	JJ	TEMP	O	O	O	O
-चंपारण	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पश्चिम	JJ	TEMP	O	O	O	O
-चंपारण	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मधुबनी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मधेपुरा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सीतमाढ़ी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शिवहर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मुजफ्फरपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गोपालगंज	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सहरसा	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सारण	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-खगड़िया	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सीवान	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-समस्तीपुरइन	NN	TEMP	O	O	O	O
-मुख्य	JJ	TEMP	O	O	O	O
-मदों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-मांगी	VM	TEMP	O	O	B-MISC	O
-गयी	VAUX	TEMP	O	O	I-MISC	O
-सहायता	NN	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+शरद
+यादव
+और
+अली
+अनवर
+की
+राज्यसभा
+सदस्यता
+खतरे
+में
+,
+जानिए
+वजहप्रभावित
+जिले
+पूर्णिया
+,
+सुपौल
+,
+किशनगंज
+,
+कटिहार
+,
+अररिया
+,
+पूर्वी
+चंपारण
+,
+पश्चिम
+चंपारण
+,
+मधुबनी
+,
+मधेपुरा
+,
+सीतमाढ़ी
+,
+शिवहर
+,
+मुजफ्फरपुर
+,
+गोपालगंज
+,
+सहरसा
+,
+सारण
+,
+खगड़िया
+,
+सीवान
+और
+समस्तीपुरइन
+मुख्य
+मदों
+के
+लिए
+मांगी
+गयी
+सहायता
+1
+.
 
-सड़कों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मरम्मत	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-तालाब	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-घाट	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पुल	NN	TEMP	O	O	O	O
-कलवर्ट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
--3403.09	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+सड़कों
+की
+मरम्मत
+,
+तालाब
+,
+घाट
+,
+पुल
+कलवर्ट
+के
+लिए
+-3403.09
+लाख
+2
+.
 
-बाढ़	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मरे	VM	TEMP	O	O	B-STAT	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परिजनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मुआवजे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए-	NN	TEMP	O	O	O	O
-2056.00	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+बाढ़
+में
+मरे
+लोगों
+के
+परिजनों
+को
+मुआवजे
+के
+लिए-
+2056.00
+लाख
+3
+.
 
-बाढ़	NN	TEMP	O	O	O	O
-प्रभावित	JJ	TEMP	O	O	O	O
-इलाकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फंसे	VM	TEMP	B-MISC	O	B-MISC	OCC
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निकालने	VM	TEMP	O	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए-	NN	TEMP	O	O	O	O
-3439.01	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-4	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+बाढ़
+प्रभावित
+इलाकों
+में
+फंसे
+लोगों
+को
+निकालने
+के
+लिए-
+3439.01
+लाख
+4
+.
 
-प्रभावित	JJ	TEMP	O	O	O	O
-इलाकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रिलीफ	XC	TEMP	O	O	O	O
-सेंटर	XC	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
--4905.70	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+प्रभावित
+इलाकों
+में
+रिलीफ
+सेंटर
+मद
+में
+-4905.70
+लाख
+5
+.
 
-कम्युनिटी	JJ	TEMP	O	O	O	O
-किचेन	NN	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में-	NN	TEMP	O	O	O	O
-4057.37	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-6	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+कम्युनिटी
+किचेन
+मद
+में-
+4057.37
+लाख
+6
+.
 
-फूड	NN	TEMP	O	O	O	O
-पैकेट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एयर	XC	TEMP	O	O	O	O
-ड्रापिंग	XC	TEMP	O	O	O	O
-मद	XC	TEMP	O	O	O	O
-में-	NNP	TEMP	O	O	O	O
-2580.00	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-7	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+फूड
+पैकेट
+के
+एयर
+ड्रापिंग
+मद
+में-
+2580.00
+लाख
+7
+.
 
-सेना	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एनडीआरएफ	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-एयरफोर्स	NN	TEMP	O	O	O	O
-प्लेन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मूवमेंट	NN	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में-	NN	TEMP	O	O	O	O
-1500.00	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-8	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+सेना
+,
+एनडीआरएफ
+व
+एयरफोर्स
+प्लेन
+के
+मूवमेंट
+मद
+में-
+1500.00
+लाख
+8
+.
 
-जीआर	RDP	TEMP	O	O	O	O
-वितरण	NN	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-229096.50	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-9	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+जीआर
+वितरण
+मद
+में
+-
+229096.50
+लाख
+9
+.
 
-बाढ़	NN	TEMP	O	O	O	O
-प्रभावित	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-कपड़ा	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-बर्तन	NN	TEMP	O	O	O	O
-वितरण	NN	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में-	NN	TEMP	O	O	O	O
-10962.96	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+बाढ़
+प्रभावित
+लोगों
+के
+बीच
+कपड़ा
+और
+बर्तन
+वितरण
+मद
+में-
+10962.96
+लाख
+10
+.
 
-बाढ़	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ध्वस्त	JJ	TEMP	O	O	B-STAT	O
-हुए	VM	TEMP	O	O	I-STAT	O
-घरों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए-	NN	TEMP	O	O	O	O
-28818.00	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+बाढ़
+में
+ध्वस्त
+हुए
+घरों
+के
+लिए-
+28818.00
+लाख
+11
+.
 
-कृषि	XC	TEMP	O	O	O	O
-इनपुट	NNP	TEMP	O	O	O	O
-सब्सिडी	JJ	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-109134.57	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+कृषि
+इनपुट
+सब्सिडी
+मद
+में
+-
+109134.57
+लाख
+12
+.
 
-जानवरों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कैंप	NN	TEMP	O	O	B-MISC	O
-चलाने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए-	NN	TEMP	O	O	O	O
-23201.00	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-13	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+जानवरों
+के
+कैंप
+चलाने
+के
+लिए-
+23201.00
+लाख
+13
+.
 
-नाव	NN	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-1616.29	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-14	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+नाव
+मद
+में
+-
+1616.29
+लाख
+14
+.
 
-एसएच	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-एमडीआर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मरम्मत	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-पुनर्निर्माण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए-	NN	TEMP	O	O	O	O
-38926.90	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+एसएच
+व
+एमडीआर
+की
+मरम्मत
+और
+पुनर्निर्माण
+के
+लिए-
+38926.90
+लाख
+15
+.
 
-ग्रामीण	JJ	TEMP	O	O	O	O
-सड़कों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुनर्निर्माण	NN	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में-	NN	TEMP	O	O	O	O
-182758.21	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-16	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+ग्रामीण
+सड़कों
+के
+पुनर्निर्माण
+मद
+में-
+182758.21
+लाख
+16
+.
 
-बांधों	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-तटबंध	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-182758.21	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-17	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+बांधों
+और
+तटबंध
+के
+लिए
+-
+182758.21
+लाख
+17
+.
 
-बिजली	NN	TEMP	O	O	O	O
-पोल	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मरम्मत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-1647.00	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+बिजली
+पोल
+की
+मरम्मत
+के
+लिए
+1647.00
+लाख
+18
+.
 
-स्कूल	NN	TEMP	O	O	O	O
-भवनों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मरम्मत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए-	NN	TEMP	O	O	O	O
-3046.00	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-19	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+स्कूल
+भवनों
+की
+मरम्मत
+के
+लिए-
+3046.00
+लाख
+19
+.
 
-स्वास्थ्य	XC	TEMP	O	O	O	O
-केंद्रों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मरम्मत	NN	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में-	NN	TEMP	O	O	O	O
-224.00	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+स्वास्थ्य
+केंद्रों
+की
+मरम्मत
+मद
+में-
+224.00
+लाख
+20
+.
 
-पर्यावरण	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-वन	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए-	NN	TEMP	O	O	O	O
-434.96	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
+पर्यावरण
+व
+वन
+विभाग
+के
+लिए-
+434.96
+लाख

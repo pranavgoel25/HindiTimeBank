@@ -1,240 +1,240 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सांपला	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-हरियाणा	XC	TEMP	O	O	O	O
-रोडवेज	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बतौर	JJ	TEMP	O	O	O	O
-परिचालक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ऑटो	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-किराये	NN	TEMP	O	O	B-MISC	O
-पर	PSP	TEMP	O	O	I-MISC	O
-लेकर	VM	TEMP	O	O	I-MISC	IAC
-अपने	PRP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-आना	VM	TEMP	B-MISC	O	O	O
-महंगा	JJ	TEMP	I-MISC	O	B-MISC	OCC
-पड	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सहयोगी
+,
+सांपला
+:
+हरियाणा
+रोडवेज
+में
+बतौर
+परिचालक
+को
+ऑटो
+को
+किराये
+पर
+लेकर
+अपने
+गांव
+आना
+महंगा
+पड
+गया
+.
 
-ऑटो	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	B-STAT	O
-युवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-बलियाना	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-परिचालक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-काबू	NN	TEMP	O	O	B-MISC	OCC
-करके	VM	TEMP	O	O	I-MISC	O
-हजारो	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	B-MISC	O
-ले	VM	TEMP	I-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऑटो
+में
+सवार
+युवकों
+ने
+गांव
+बलियाना
+के
+पास
+परिचालक
+को
+काबू
+करके
+हजारो
+रुपये
+की
+नकदी
+सहित
+मोबाइल
+फोन
+लूट
+ले
+गए
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-से	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अवगत	JJ	TEMP	O	O	B-MISC	OCC
-करवाया	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+ने
+घटना
+से
+पुलिस
+को
+अवगत
+करवाया
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-छानबीन	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+मामला
+दर्ज
+कर
+छानबीन
+शुरू
+कर
+दी
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-बलियाना	VM	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-सुरेंद्र	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-गुरुग्राम	XC	TEMP	O	O	O	O
-डिपो	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बतौर	JJ	TEMP	O	O	O	O
-परिचालक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+को
+दी
+शिकायत
+में
+गांव
+बलियाना
+निवासी
+सुरेंद्र
+का
+कहना
+है
+कि
+वह
+गुरुग्राम
+डिपो
+में
+बतौर
+परिचालक
+के
+पद
+पर
+तैनात
+है
+.
 
-गुरुग्राम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सवारियां	NN	TEMP	O	O	B-MISC	O
-लेकर	VM	TEMP	O	O	I-MISC	O
-बस	RP	TEMP	O	O	O	O
-रोहतक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-निकली	VM	TEMP	B-MISC	O	B-MISC	OCC
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गुरुग्राम
+से
+सवारियां
+लेकर
+बस
+रोहतक
+के
+लिए
+निकली
+थी
+.
 
-देर	JJ	TEMP	O	O	O	O
-सायं	NN	TEMP	O	O	O	O
-रोहतक	XC	TEMP	O	O	O	O
-डिपो	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बस	RP	TEMP	O	O	O	O
-खडी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-वह	PRP	TEMP	O	O	O	O
-हुक्का	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-तंबाकू	NN	TEMP	B-MISC	O	B-MISC	O
-लेने	VM	TEMP	I-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-गया	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देर
+सायं
+रोहतक
+डिपो
+में
+बस
+खडी
+करके
+वह
+हुक्का
+का
+तंबाकू
+लेने
+के
+लिए
+गया
+हुआ
+था
+.
 
-वहां	PRP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-किराए	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आटो	NN	TEMP	O	O	B-MISC	O
-लेकर	VM	TEMP	O	O	I-MISC	O
-अपने	PRP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-बलियाना	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-चल	VM	TEMP	B-MISC	O	B-MISC	OCC
-पडा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहां
+दुकान
+बंद
+मिलने
+पर
+वह
+किराए
+पर
+आटो
+लेकर
+अपने
+गांव
+बलियाना
+के
+लिए
+चल
+पडा
+.
 
-परिचालक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बलियाना	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-सुनसान	JJ	TEMP	O	O	O	O
-जगह	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आटो	VM	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	B-STAT	DES
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-आटो	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उतार	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-पकड	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	B-MISC	OCC
-छीन	VM	TEMP	O	O	I-MISC	O
-लिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परिचालक
+का
+कहना
+है
+कि
+बलियाना
+के
+पास
+सुनसान
+जगह
+पर
+आटो
+में
+सवार
+लोगों
+ने
+उसे
+आटो
+से
+उतार
+लिया
+तथा
+दो
+लोगों
+ने
+उसे
+पकड
+लिया
+तो
+एक
+अन्य
+व्यक्ति
+ने
+उससे
+बैग
+छीन
+लिया
+.
 
-आरोपी	JJ	TEMP	O	O	O	O
-लूट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-अंजाम	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-मौके	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फरार	NN	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आरोपी
+लूट
+की
+घटना
+को
+अंजाम
+देकर
+मौके
+से
+फरार
+हो
+गए
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-साढे	QF	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-टिकटें	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-था	VM	TEMP	O	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+पीडित
+का
+कहना
+है
+कि
+बैग
+में
+करीब
+साढे
+पांच
+हजार
+की
+नकदी
+सहित
+टिकटें
+व
+मोबाइल
+फोन
+भी
+था
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-परिचालक	XC	TEMP	O	O	O	O
-सुरेंद्र	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ब्यान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-छानबीन	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+परिचालक
+सुरेंद्र
+के
+ब्यान
+पर
+मामला
+दर्ज
+कर
+छानबीन
+शुरू
+कर
+दी
+है
+.

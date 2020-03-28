@@ -1,372 +1,372 @@
-संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शुक्लागंज	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-शुक्लागंज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सेंट्रल	XC	TEMP	O	O	O	O
-बैंक	XC	TEMP	O	O	O	O
-शाखा	XC	TEMP	O	O	O	O
-जालसाजों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निशाने	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+संवाद
+सहयोगी
+,
+शुक्लागंज
+:
+शुक्लागंज
+की
+सेंट्रल
+बैंक
+शाखा
+जालसाजों
+के
+निशाने
+पर
+है
+.
 
-एक	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-जाली	NN	TEMP	O	O	O	O
-चेकों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-उडाए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	B-MISC	OCC
-आ	VM	TEMP	O	O	I-MISC	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+के
+बाद
+एक
+जाली
+चेकों
+के
+जरिए
+बैंक
+के
+खातों
+से
+रुपये
+उडाए
+जाने
+का
+मामला
+सामने
+आ
+रहा
+है
+.
 
-बीते	VM	TEMP	O	B	O	O
-10	QC	TEMP	O	I	O	O
-दिनों	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-खातेदारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-73.75	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-निकल	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीते
+10
+दिनों
+में
+इस
+बैंक
+के
+चार
+खातेदारों
+के
+खातों
+से
+73.75
+लाख
+रुपए
+निकल
+गए
+हैं
+.
 
-इससे	PRP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सनसनी	NN	TEMP	B-MISC	O	B-MISC	O
-मची	VM	TEMP	I-MISC	O	I-MISC	OCC
-हुई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+क्षेत्र
+में
+सनसनी
+मची
+हुई
+है
+.
 
-बैंक	NN	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-स्टाफ	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	B-MISC	OCC
-होने	VM	TEMP	O	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-शक	NN	TEMP	B-MISC	O	O	O
-जता	VM	TEMP	I-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+अधिकारी
+इसमें
+स्टाफ
+के
+किसी
+व्यक्ति
+के
+शामिल
+होने
+का
+शक
+जता
+रहे
+हैं
+.
 
-अधिकारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लेनदेन	NN	TEMP	B-MISC	O	O	O
-रोक	VM	TEMP	I-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अधिकारियों
+ने
+शाखा
+के
+बडे
+खातों
+में
+लेनदेन
+रोक
+दिया
+है
+.
 
-नगर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सेंट्रल	XC	TEMP	O	O	O	O
-बैंक	XC	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाता	NN	TEMP	O	O	O	O
-धारक	JJ	TEMP	O	O	O	O
-श्यामलाल	XC	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-बंबुरिहा	XC	TEMP	O	O	O	O
-अचलगंज	NNP	TEMP	O	O	O	O
-मोड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जालसाजों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-7.60	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-पार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+की
+सेंट्रल
+बैंक
+शाखा
+के
+खाता
+धारक
+श्यामलाल
+निवासी
+बंबुरिहा
+अचलगंज
+मोड
+के
+खाते
+से
+जालसाजों
+ने
+7.60
+लाख
+रुपये
+पार
+कर
+दिए
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	I-MISC	O
-हुई	VM	TEMP	B-MISC	O	I-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+जानकारी
+बैंक
+में
+खातों
+की
+जांच
+में
+हुई
+है
+.
 
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बीती	NN	TEMP	O	O	O	O
-9	QC	TEMP	O	B	O	O
-अगस्त	NN	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जाली	NN	TEMP	O	O	O	O
-चेक	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पता
+चला
+कि
+बीती
+9
+अगस्त
+को
+उनके
+खाते
+से
+किसी
+ने
+जाली
+चेक
+के
+जरिए
+रुपये
+निकाल
+लिए
+हैं
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	O	O
-बैंक	JJ	TEMP	O	O	O	O
-मैनेजर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	I-MISC	-1
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+इसकी
+जानकारी
+बैंक
+मैनेजर
+को
+दी
+.
 
-मैनेजर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-पडताल	NN	TEMP	O	O	B-MISC	OCC
-करवाई	VM	TEMP	B-MISC	O	I-MISC	O
-तो	CC	TEMP	I-MISC	O	O	O
-मामला	NN	TEMP	O	O	O	O
-सही	JJ	TEMP	O	O	B-MISC	O
-निकला	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मैनेजर
+ने
+जब
+इसकी
+पडताल
+करवाई
+तो
+मामला
+सही
+निकला
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+ने
+थाने
+में
+इसकी
+शिकायत
+की
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-महेश	JJ	TEMP	O	O	O	O
-मार्ग	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-योगेश	XC	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-सुनीता	VM	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संयुक्त	JJ	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-7.65	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गडरियन	XC	TEMP	O	O	O	O
-पीपरखेडा	XC	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-इसी	DEM	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खातेदार	JJ	TEMP	O	O	O	O
-रूपलाल	XC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-19.50	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-अहमद	JJ	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-इरफान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जाली	NN	TEMP	O	O	O	O
-चेकों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-39	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-उडाए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+पूर्व
+शुक्रवार
+को
+नगर
+के
+महेश
+मार्ग
+निवासी
+योगेश
+गुप्ता
+व
+उनकी
+पत्नी
+सुनीता
+गुप्ता
+के
+संयुक्त
+खाते
+से
+7.65
+लाख
+,
+गडरियन
+पीपरखेडा
+निवासी
+इसी
+बैंक
+के
+खातेदार
+रूपलाल
+के
+खाते
+से
+तीन
+बार
+में
+19.50
+लाख
+और
+अहमद
+नगर
+निवासी
+इरफान
+के
+खाते
+से
+पांच
+बार
+में
+जाली
+चेकों
+के
+जरिए
+39
+लाख
+रुपए
+उडाए
+जा
+चुके
+हैं
+.
 
-लगातार	RB	TEMP	O	O	O	OCC
-हो	VM	TEMP	O	O	B-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-घटनाओं	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बैंक	JJ	TEMP	O	O	O	O
-मैनेजर	NN	TEMP	O	O	O	OCC
-भी	RP	TEMP	O	O	O	O
-सकते	VAUX	TEMP	O	O	I-MISC	O
-में	PSP	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	DECL
-.	SYM	TEMP	O	O	O	O
+लगातार
+हो
+रही
+घटनाओं
+से
+बैंक
+मैनेजर
+भी
+सकते
+में
+है
+.
 
-बैंक	NN	TEMP	O	O	O	O
-मैनेजर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-खाता	VM	TEMP	O	O	O	O
-धारक	XC	TEMP	O	O	O	O
-श्यामलाल	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+मैनेजर
+ने
+खाता
+धारक
+श्यामलाल
+को
+इसकी
+सूचना
+दे
+दी
+है
+.
 
-उन्हें	PRP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-बुलाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्हें
+सोमवार
+को
+बैंक
+बुलाया
+गया
+है
+.
 
-बडे	JJ	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-निकासी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लगी	VM	TEMP	O	O	B-MISC	OCC
-रोक	XC	TEMP	O	O	O	O
-सेंट्रल	XC	TEMP	O	O	O	O
-बैंक	XC	TEMP	O	O	O	O
-शाखा	XC	TEMP	O	O	O	O
-शुक्लागंज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मैनेजर	NN	TEMP	O	O	O	O
-एके	XC	TEMP	O	O	O	O
-पोरवाल	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-जालसाज	NN	TEMP	O	O	O	O
-गिरोह	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कहीं	PRP	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-कहीं	PRP	TEMP	O	O	O	O
-सेंट्रल	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+बडे
+खातों
+से
+पैसा
+निकासी
+पर
+लगी
+रोक
+सेंट्रल
+बैंक
+शाखा
+शुक्लागंज
+के
+मैनेजर
+एके
+पोरवाल
+ने
+बताया
+कि
+इस
+जालसाज
+गिरोह
+में
+कहीं
+न
+कहीं
+सेंट्रल
+बैंक
+का
+कोई
+कर्मचारी
+शामिल
+है
+.
 
-जिसे	PRP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-स्टेटस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	B-MISC	OCC
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसे
+इस
+शाखा
+के
+खातों
+व
+उनके
+स्टेटस
+की
+पूरी
+जानकारी
+है
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-एहतियात	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-निकासी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रोक	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बताया
+कि
+एहतियात
+के
+तौर
+पर
+बडे
+खातों
+से
+पैसा
+निकासी
+पर
+पूरी
+तरह
+से
+रोक
+लगा
+दी
+गई
+है
+.
 
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-उच्चाधिकारियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामले
+की
+जानकारी
+बैंक
+के
+उच्चाधिकारियों
+को
+दे
+दी
+गई
+है
+.

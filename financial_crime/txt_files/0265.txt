@@ -1,347 +1,347 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-इलाहाबाद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तमाम	JJ	TEMP	O	O	O	O
-सडकों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-हालत	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-भले	RP	TEMP	O	O	O	O
-ऐसी	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-कि	CC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चलने	VM	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	B-MISC	O
-मुश्किलें	NN	TEMP	B-MISC	O	I-MISC	O
-होती	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+इलाहाबाद
+:
+शहर
+की
+तमाम
+सडकों
+की
+हालत
+अभी
+भले
+ऐसी
+है
+कि
+लोगों
+को
+चलने
+में
+बडी
+मुश्किलें
+होती
+हैं
+.
 
-किंतु	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-सडकों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चौडीकरण	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-सुदृढ़ीकरण	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-होगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किंतु
+,
+जल्द
+ही
+इसमें
+से
+कई
+सडकों
+के
+चौडीकरण
+और
+सुदृढ़ीकरण
+का
+कार्य
+शुरू
+होगा
+.
 
-कुंभ	NN	TEMP	B-MISC	O	O	O
-मेला	NN	TEMP	I-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-मद्देनजर	NN	TEMP	O	O	O	O
-इलाहाबाद	JJ	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-प्राधिकरण	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-लोक	XC	TEMP	O	O	O	O
-निर्माण	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-कार्यो	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्वीकृति	NN	TEMP	O	O	O	OCC
-(	SYM	TEMP	O	O	O	O
-प्रस्तावित	JJ	TEMP	O	O	O	O
-लागत	NN	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-83.50	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-शासन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-निकाय	JJ	TEMP	B-MISC	O	O	OCC
-चुनाव	NN	TEMP	I-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-आचार	XC	TEMP	O	O	O	O
-संहिता	NN	TEMP	O	O	O	O
-लागू	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	B-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुंभ
+मेला
+के
+मद्देनजर
+इलाहाबाद
+विकास
+प्राधिकरण
+और
+लोक
+निर्माण
+विभाग
+के
+कई
+कार्यो
+की
+स्वीकृति
+(
+प्रस्तावित
+लागत
+करीब
+83.50
+करोड
+)
+शासन
+ने
+निकाय
+चुनाव
+की
+आचार
+संहिता
+लागू
+होने
+के
+पहले
+कर
+दी
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-17	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	O	OCC
-भी	RP	TEMP	O	O	O	O
-कर	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+से
+17
+करोड
+रुपये
+जारी
+भी
+कर
+दिया
+गया
+है
+.
 
-प्राधिकरण	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लीडर	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विवेकानंद	JJ	TEMP	O	O	O	O
-मार्ग	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नूरुल्ला	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-साउथ	XC	TEMP	O	O	O	O
-मलाका	NNP	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-डॉट	XC	TEMP	O	O	O	O
-पुल	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पुरानी	JJ	TEMP	O	O	O	O
-जीटी	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-क्रास्थवेट	XC	TEMP	O	O	O	O
-इंटर	XC	TEMP	O	O	O	O
-कालेज	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रामबाग	XC	TEMP	O	O	O	O
-तिराहा	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अलोपीबाग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फ्लाईओवर	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नवाब	NN	TEMP	O	O	O	O
-यूसुफ	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जानसेनगंज	NN	TEMP	O	O	O	O
-चौराहा	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सिविल	XC	TEMP	O	O	O	O
-लाइंस	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तुलसी	NN	TEMP	O	O	O	O
-चौराहा	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-महात्मा	XC	TEMP	O	O	O	O
-गांधी	NNP	TEMP	O	O	O	O
-मार्ग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-तुलसी	JJ	TEMP	O	O	O	O
-चौराहा	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सीएमपी	JJ	TEMP	O	O	O	O
-डॉट	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पुल	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-मार्गो	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चौडीकरण	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सुंदरीकरण	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-विद्युतीकरण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	B-MISC	O	O	O
-बनाया	VM	TEMP	I-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्राधिकरण
+ने
+लीडर
+रोड
+,
+विवेकानंद
+मार्ग
+,
+नूरुल्ला
+रोड
+,
+साउथ
+मलाका
+रेलवे
+डॉट
+पुल
+से
+पुरानी
+जीटी
+रोड
+पर
+क्रास्थवेट
+इंटर
+कालेज
+तक
+,
+रामबाग
+तिराहा
+से
+अलोपीबाग
+में
+फ्लाईओवर
+तक
+,
+नवाब
+यूसुफ
+रोड
+,
+जानसेनगंज
+चौराहा
+से
+सिविल
+लाइंस
+में
+तुलसी
+चौराहा
+,
+महात्मा
+गांधी
+मार्ग
+पर
+तुलसी
+चौराहा
+से
+सीएमपी
+डॉट
+का
+पुल
+समेत
+कई
+मार्गो
+के
+चौडीकरण
+,
+सुंदरीकरण
+और
+विद्युतीकरण
+के
+लिए
+प्रस्ताव
+बनाया
+था
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-उन	DEM	TEMP	O	O	O	O
-कार्यो	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-टेंडर	NN	TEMP	B-MISC	O	O	O
-भी	RP	TEMP	O	O	O	O
-निकाले	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिनके	PRP	TEMP	O	O	O	O
-कार्य	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ज्यादा	QF	TEMP	O	O	O	O
-समय	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगेगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+से
+11
+उन
+कार्यो
+के
+टेंडर
+भी
+निकाले
+जा
+चुके
+हैं
+,
+जिनके
+कार्य
+में
+ज्यादा
+समय
+लगेगा
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	O	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-सका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+,
+अभी
+तक
+कार्य
+शुरू
+नहीं
+हो
+सका
+है
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-शासन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-कार्यो	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-34	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्वीकृति	NN	TEMP	O	O	O	OCC
-26	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-प्रदान	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-17	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	I-MISC	O
-कर	VM	TEMP	B-MISC	O	I-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+शासन
+ने
+इसमें
+से
+10
+कार्यो
+के
+लिए
+करीब
+34
+करोड
+रुपये
+की
+स्वीकृति
+26
+अक्टूबर
+को
+प्रदान
+करते
+हुए
+17
+करोड
+रुपये
+जारी
+भी
+कर
+दिया
+.
 
-जबकि	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पूर्व	NST	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-कार्यो	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-प्रस्तावित	JJ	TEMP	O	O	O	O
-लागत	NN	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-58.35	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सापेक्ष	NN	TEMP	O	O	O	O
-26.41	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्वीकृति	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+एक
+दिन
+पूर्व
+25
+कार्यो
+के
+लिए
+प्रस्तावित
+लागत
+करीब
+58.35
+करोड
+के
+सापेक्ष
+26.41
+करोड
+रुपये
+की
+स्वीकृति
+मिली
+थी
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-इलाहाबाद-कौशांबी	JJ	TEMP	O	O	O	O
-मार्ग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-डायवर्जन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लोनिवि	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कुल	QF	TEMP	O	O	O	O
-23.11	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-स्वीकृति	NN	TEMP	B-MISC	O	B-MISC	OCC
-प्रदान	NN	TEMP	I-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+,
+इलाहाबाद-कौशांबी
+मार्ग
+के
+डायवर्जन
+के
+लिए
+लोनिवि
+को
+कुल
+23.11
+करोड
+रुपये
+स्वीकृति
+प्रदान
+की
+गई
+है
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-1650	QC	TEMP	O	O	O	O
-मीटर	NN	TEMP	O	O	O	O
-सडक	JJ	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-2.65	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-होना	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+1650
+मीटर
+सडक
+निर्माण
+पर
+2.65
+करोड
+रुपये
+खर्च
+होना
+है
+.
 
-जबकि	CC	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-अधिग्रहण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-20.46	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+जमीन
+अधिग्रहण
+के
+लिए
+किसानों
+को
+20.46
+करोड
+रुपये
+दिए
+जाएंगे
+.
 
-निर्माण	NN	TEMP	O	O	O	OCC
-खंड	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अधिशासी	XC	TEMP	O	O	O	O
-अभियंता	NNP	TEMP	O	O	O	O
-एके	XC	TEMP	O	O	O	O
-द्विवेदी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-बम्हरौली	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सिविल	XC	TEMP	O	O	O	O
-इंक्लेव	NNP	TEMP	O	O	O	O
-बनने	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-रोड	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-डायवर्जन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाना	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+निर्माण
+खंड
+एक
+के
+अधिशासी
+अभियंता
+एके
+द्विवेदी
+ने
+बताया
+कि
+बम्हरौली
+में
+सिविल
+इंक्लेव
+बनने
+के
+लिए
+इस
+रोड
+का
+डायवर्जन
+किया
+जाना
+है
+.
 
-जमीन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अधिग्रहण	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जमीन
+का
+अधिग्रहण
+हो
+गया
+है
+.
 
-चुनाव	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-टेंडर	NN	TEMP	B-MISC	O	O	O
-निकाला	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चुनाव
+के
+बाद
+टेंडर
+निकाला
+जाएगा
+.

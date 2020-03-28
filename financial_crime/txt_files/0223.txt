@@ -1,255 +1,255 @@
-﻿अलीगढ़	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सहूलियतों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	B-STAT	OCC
-गई	VAUX	TEMP	O	O	I-STAT	O
-तकनीकि	CC	TEMP	O	O	O	O
-सुविधाएं	NN	TEMP	O	O	O	O
-शातिरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जेब	NN	TEMP	B-MISC	O	B-MISC	O
-भरने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-साधन	NN	TEMP	B-MISC	O	B-MISC	O
-बन	VM	TEMP	I-MISC	O	I-MISC	OCC
-चुकी	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿अलीगढ़
+:
+सहूलियतों
+के
+लिए
+दी
+गई
+तकनीकि
+सुविधाएं
+शातिरों
+की
+जेब
+भरने
+का
+साधन
+बन
+चुकी
+हैं
+.
 
-आमजन	NN	TEMP	O	O	O	O
-इनसे	PRP	TEMP	O	O	O	O
-बचना	VM	TEMP	O	O	B-MISC	O
-भी	RP	TEMP	O	O	O	O
-चाहें	NN	TEMP	O	O	O	OCC
-तो	RP	TEMP	O	O	O	O
-ये	DEM	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-बहाने	JJ	TEMP	O	O	O	O
-शिकार	NN	TEMP	B-MISC	O	O	O
-बना	VM	TEMP	I-MISC	O	B-MISC	OCC
-ही	RP	TEMP	I-MISC	O	I-MISC	O
-लेते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आमजन
+इनसे
+बचना
+भी
+चाहें
+तो
+ये
+लोग
+किसी
+न
+किसी
+बहाने
+शिकार
+बना
+ही
+लेते
+हैं
+.
 
-अब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कोड	NN	TEMP	B-MISC	O	O	O
-पता	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-उसी	DEM	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रकम	NN	TEMP	B-MISC	O	B-MISC	O
-निकालने	VM	TEMP	I-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-सामने	NST	TEMP	B-MISC	O	B-MISC	OCC
-आए	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-ताजा	JJ	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-अलग	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+अब
+तक
+एक
+एटीएम
+का
+कोड
+पता
+कर
+उसी
+खाते
+से
+रकम
+निकालने
+के
+मामले
+सामने
+आए
+हैं
+,
+ताजा
+मामला
+कुछ
+अलग
+है
+.
 
-पीएनबी	NN	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कोड	NN	TEMP	B-MISC	O	B-MISC	OCC
-लेकर	VM	TEMP	I-MISC	O	I-MISC	O
-शातिरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एसबीआइ	NN	TEMP	O	O	O	O
-खाते	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-रकम	NN	TEMP	B-MISC	O	O	O
-निकाल	VM	TEMP	I-MISC	O	B-MISC	OCC
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीएनबी
+एटीएम
+का
+कोड
+लेकर
+शातिरों
+ने
+एसबीआइ
+खाते
+से
+भी
+रकम
+निकाल
+ली
+.
 
-कुल	QF	TEMP	O	O	O	O
-1.20	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुल
+1.20
+लाख
+रुपये
+निकाले
+गए
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-छात्र	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+छात्र
+ने
+अज्ञात
+लोगों
+के
+विरुद्ध
+मुकदमा
+दर्ज
+कराया
+है
+.
 
-सिविल	XC	TEMP	O	O	O	O
-लाइंस	NNP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जीवनगढ़	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गली-	NN	TEMP	O	O	O	O
-16	QC	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-मो	VM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+सिविल
+लाइंस
+क्षेत्र
+के
+जीवनगढ़
+में
+गली-
+16
+निवासी
+मो
+.
 
-फरीद	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बेटा	NN	TEMP	O	O	O	O
-कासिम	JJ	TEMP	O	O	O	O
-बीकॉम	NN	TEMP	O	O	O	O
-छात्र	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+फरीद
+का
+बेटा
+कासिम
+बीकॉम
+छात्र
+है
+.
 
-कासिम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मानें	NN	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-30	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-पिता	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दिखाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-हॉस्पिटल	NN	TEMP	O	O	B-MISC	O
-आया	VM	TEMP	B-MISC	O	I-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कासिम
+की
+मानें
+तो
+30
+अक्टूबर
+को
+वह
+पिता
+को
+दिखाने
+हॉस्पिटल
+आया
+था
+.
 
-तभी	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-फोन	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बैंक	JJ	TEMP	O	O	O	O
-अफसर	NN	TEMP	O	O	O	O
-बता	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तभी
+एक
+व्यक्ति
+का
+फोन
+आया
+,
+जो
+खुद
+को
+बैंक
+अफसर
+बता
+रहा
+था
+.
 
-कहने	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-ब्लॉक	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कहने
+लगा
+कि
+एटीएम
+कार्ड
+ब्लॉक
+हो
+चुका
+है
+.
 
-आधार	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-कोड	NN	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आधार
+नंबर
+और
+एटीएम
+कोड
+ले
+लिया
+.
 
-कुछ	QF	TEMP	O	B	O	O
-देर	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-मैसेज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पीएनबी	JJ	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-19999	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-एसबीआइ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+देर
+बाद
+मैसेज
+के
+माध्यम
+पता
+चला
+कि
+पीएनबी
+खाते
+से
+19999
+और
+एसबीआइ
+से
+एक
+लाख
+रुपये
+निकाल
+लिए
+गए
+.
 
-छात्र	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-शातिर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अगले	JJ	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-फोन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+छात्र
+का
+कहना
+है
+कि
+उस
+शातिर
+ने
+अगले
+दिन
+भी
+फोन
+किया
+.
 
-पूछने	VM	TEMP	B-MISC	O	B-MISC	O
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-कोई	PRP	TEMP	O	O	O	O
-एफआइआर	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पूछने
+लगा
+कोई
+एफआइआर
+कराई
+है
+.
 
-दो	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-और	CC	TEMP	O	O	O	O
-फोन	NN	TEMP	B-MISC	O	B-MISC	OCC
-आए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दो
+दिन
+और
+फोन
+आए
+.
 
-छात्र	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-आधार	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-दोनों	JJ	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लिंक	VM	TEMP	O	O	B-MISC	OCC
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+छात्र
+ने
+बताया
+आधार
+नंबर
+दोनों
+खातों
+से
+लिंक
+था
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-बताए	VM	TEMP	O	O	B-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-मोबाइल	JJ	TEMP	O	O	O	O
-नंबरों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ट्रेस	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+बताए
+गए
+मोबाइल
+नंबरों
+को
+ट्रेस
+कर
+रही
+है
+.
 
--------	NN	TEMP	O	O	O	O
+-------

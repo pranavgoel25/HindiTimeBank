@@ -1,305 +1,305 @@
 
-कैमूर	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रोपनी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-यूरिया	NNP	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-बढ़ी	NN	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कैमूर
+:
+जिले
+में
+धान
+की
+रोपनी
+के
+बाद
+यूरिया
+खाद
+की
+मांग
+बढ़ी
+है
+.
 
-खाद	NN	TEMP	O	O	O	O
-बेचने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-दुकानदार	NN	TEMP	O	O	O	O
-330	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-बेच	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खाद
+बेचने
+वाले
+दुकानदार
+330
+रुपये
+में
+खाद
+बेच
+रहे
+.
 
-अधिक	QF	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बेचने	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-जिलाधिकारी	JJ	TEMP	O	O	B-MISC	O
-भडके	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अधिक
+मूल्य
+पर
+खाद
+की
+बेचने
+की
+जानकारी
+मिलने
+पर
+जिलाधिकारी
+भडके
+.
 
-डीएम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-निर्धारित	JJ	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-खाद	NN	TEMP	O	O	O	O
-बेचने	VM	TEMP	O	O	B-STAT	OCC
-वाले	PSP	TEMP	O	O	I-STAT	O
-दुकानदारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-पडताल	NN	TEMP	I-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	B-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीएम
+ने
+निर्धारित
+मूल्य
+से
+अधिक
+पैसा
+लेकर
+खाद
+बेचने
+वाले
+दुकानदारों
+के
+यहां
+जांच
+पडताल
+कर
+कार्रवाई
+किए
+जाने
+का
+निर्देश
+दिया
+.
 
-डीएम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	O	OCC
-के	PSP	TEMP	O	O	O	O
-अनुरूप	PSP:?	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-आपूर्ति	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-सतर्क	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+डीएम
+ने
+जिले
+के
+किसानों
+को
+उनकी
+मांग
+के
+अनुरूप
+खाद
+की
+आपूर्ति
+कराने
+के
+लिए
+के
+पूरी
+तरह
+सतर्क
+है
+.
 
-डीएम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-सहकारिता	XC	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-रामगढ़	NN	TEMP	O	O	O	O
-व्यापार	JJ	TEMP	O	O	O	O
-मंडल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गोदाम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखी	VM	TEMP	B-MISC	O	B-MISC	O
-यूरिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-खाद	NN	TEMP	O	O	O	O
-प्रक्रिया	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पूरा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीएम
+ने
+जिला
+सहकारिता
+पदाधिकारी
+को
+निर्देश
+दिया
+की
+रामगढ़
+व्यापार
+मंडल
+के
+गोदाम
+में
+रखी
+यूरिया
+खाद
+प्रक्रिया
+को
+पूरा
+करने
+का
+निर्देश
+दिया
+.
 
-ताकि	CC	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	O	OCC
-की	PSP	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उपलब्धता	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सके	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ताकि
+किसानों
+को
+उनकी
+मांग
+की
+खाद
+की
+उपलब्धता
+कराई
+जा
+सके
+.
 
-दुकानदार	JJ	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-298	QC	TEMP	O	O	O	O
-निर्धारित	JJ	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यूरिया	XC	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बेचेंगे	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+दुकानदार
+किसानों
+को
+298
+निर्धारित
+मूल्य
+में
+यूरिया
+खाद
+को
+बेचेंगे
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-दुकानदारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-निर्धारित	JJ	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-यानी	CC	TEMP	O	O	O	O
-330	QC	TEMP	O	O	O	O
-रूपया	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-जा	VAUX	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+दुकानदारों
+के
+द्वारा
+निर्धारित
+मूल्य
+से
+अधिक
+यानी
+330
+रूपया
+में
+खाद
+की
+बिक्री
+की
+जा
+रही
+है
+.
 
-अधिक	QF	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-डीएम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मिली	VM	TEMP	O	O	B-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-डीएम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गंभीरता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेते	VM	TEMP	O	O	B-STAT	O
-हुए	VAUX	TEMP	O	O	I-STAT	O
-जिला	JJ	TEMP	O	O	O	O
-स्तरीय	JJ	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-प्रखंड	NN	TEMP	O	O	O	O
-स्तरीय	JJ	TEMP	O	O	O	O
-पदधिकारियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-छापेमारी	NN	TEMP	B-MISC	O	O	OCC
-अभियान	NN	TEMP	B-MISC	O	B-MISC	O
-चलाने	VM	TEMP	B-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अधिक
+मूल्य
+पर
+खाद
+की
+बिक्री
+किए
+जाने
+की
+शिकायत
+डीएम
+को
+मिली
+,
+डीएम
+ने
+इस
+मामले
+को
+गंभीरता
+से
+लेते
+हुए
+जिला
+स्तरीय
+पदाधिकारी
+के
+साथ
+प्रखंड
+स्तरीय
+पदधिकारियों
+को
+छापेमारी
+अभियान
+चलाने
+का
+निर्देश
+दिया
+है
+.
 
-डीएम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-बेचने	VM	TEMP	O	O	B-STAT	OCC
-वाले	PSP	TEMP	O	O	I-STAT	O
-दुकानदारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-प्राथमिकी	JJ	TEMP	B-MISC	O	O	O
-दर्ज	NN	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-कडी	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीएम
+ने
+कहा
+कि
+अधिक
+मूल्य
+पर
+खाद
+बेचने
+वाले
+दुकानदारों
+के
+खिलाफ
+प्राथमिकी
+दर्ज
+करने
+के
+साथ
+कडी
+कार्रवाई
+की
+जाएगी
+.
 
-जिला	JJ	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नजर	NN	TEMP	B-MISC	O	B-MISC	O
-रखने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-कृषि	XC	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-डीसीएलआर	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकानों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	O	O	O	OCC
-जिलाधिकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-दिया	VM	TEMP	O	O	B-STAT	-1
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जिला
+स्तर
+पर
+खाद
+की
+बिक्री
+पर
+नजर
+रखने
+को
+जिला
+कृषि
+पदाधिकारी
+के
+अलावा
+डीसीएलआर
+भी
+खाद
+की
+दुकानों
+की
+जांच
+करने
+का
+निर्देश
+जिलाधिकारी
+के
+द्वारा
+दिया
+है
+.
 
-.	SYM	TEMP	O	O	O	O
+.
 
-जिलाधिकारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहां	WQ	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-मे	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	O	OCC
-के	PSP	TEMP	O	O	O	O
-अनुरूप	PSP:?	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जिलाधिकारी
+ने
+कहां
+कि
+जिले
+मे
+किसानों
+की
+मांग
+के
+अनुरूप
+खाद
+उपलब्ध
+है
+.
 
-खाद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कालाबाजारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-दुकानदार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लाइसेंस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रद्द	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-कडी	NN	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खाद
+की
+कालाबाजारी
+करने
+की
+शिकायत
+मिलने
+पर
+दुकानदार
+के
+लाइसेंस
+को
+रद्द
+करने
+के
+साथ
+उसके
+विरुद्ध
+कडी
+कार्रवाई
+की
+जाएगी
+.

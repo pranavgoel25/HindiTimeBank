@@ -1,255 +1,255 @@
 
-[	SYM	TEMP	O	O	O	O
-स्थानीय	JJ	TEMP	O	O	O	O
-संपादकीय	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-उत्तराखंड	NN	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
+[
+स्थानीय
+संपादकीय
+:
+उत्तराखंड
+]
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अलीगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-क्वार्सी	NN	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अति	TEMP	INTF	TEMP	O	O	O	O
-व्यस्त	JJ	TEMP	O	O	O	O
-केला	NN	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-चौराहे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-दहाडे	NN	TEMP	O	O	O	O
-लूट	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-वारदात	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+अलीगढ़
+:
+क्वार्सी
+क्षेत्र
+के
+अति
+व्यस्त
+केला
+नगर
+चौराहे
+के
+पास
+गुरुवार
+को
+दिन
+दहाडे
+लूट
+की
+वारदात
+हुई
+.
 
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-बदमाश	NN	TEMP	O	O	O	O
-मदर	XC	TEMP	O	O	O	O
-डेयरी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सुपरवाइजर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-तमंचे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बट	JJ	TEMP	O	O	O	O
-हमला	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-नोटों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाइक
+सवार
+बदमाश
+मदर
+डेयरी
+के
+सुपरवाइजर
+के
+सिर
+पर
+तमंचे
+की
+बट
+हमला
+कर
+नोटों
+का
+बैग
+ले
+गए
+.
 
-बैग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-थे	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+बैग
+में
+15
+हजार
+रुपये
+थे
+.
 
-लूट	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-पर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हडकंप	NN	TEMP	B-MISC	O	B-MISC	OCC
-मच	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लूट
+की
+सूचना
+पर
+पुलिस
+में
+हडकंप
+मच
+गया
+.
 
-सासनीगेट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पला	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-बिहारी	JJ	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-संजीव	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-महेश	XC	TEMP	O	O	O	O
-चंद्र	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-मदर	XC	TEMP	O	O	O	O
-डेयरी	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सुपरवाइजर	JJ	TEMP	O	O	B-STAT	DECL
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सासनीगेट
+के
+पला
+रोड
+स्थित
+बिहारी
+नगर
+निवासी
+संजीव
+शर्मा
+पुत्र
+महेश
+चंद्र
+शर्मा
+मदर
+डेयरी
+में
+सुपरवाइजर
+हैं
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-जीवनगढ़	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-डिस्ट्रीव्यूटर	XC	TEMP	O	O	O	O
-सलीम	XC	TEMP	O	O	O	O
-खान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-गले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-टंगे	VM	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-मे	PSP	TEMP	O	O	O	O
-रखकर	VM	TEMP	B-MISC	O	O	OCC
-स्कूटी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वापस	JJ	TEMP	O	O	O	OCC
-डेयरी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रवाना	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+जीवनगढ़
+में
+डिस्ट्रीव्यूटर
+सलीम
+खान
+से
+15
+हजार
+रुपये
+लिए
+और
+गले
+में
+टंगे
+बैग
+मे
+रखकर
+स्कूटी
+से
+वापस
+डेयरी
+के
+लिए
+रवाना
+हुए
+.
 
-जीवनगढ़	NNP	TEMP	O	O	O	O
-पुलिया	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-केलानगर	XC	TEMP	O	O	O	O
-चौराहे	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-पीछे	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आए	VM	TEMP	B-MISC	O	B-MISC	OCC
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-स्कूटी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रोककर	VM	TEMP	B-MISC	O	O	O
-गले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-टंगे	VM	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-छीनने	VM	TEMP	B-MISC	O	B-MISC	O
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जीवनगढ़
+पुलिया
+व
+केलानगर
+चौराहे
+के
+पास
+पीछे
+से
+आए
+बाइक
+सवार
+दो
+बदमाशों
+ने
+स्कूटी
+को
+रोककर
+गले
+में
+टंगे
+बैग
+को
+छीनने
+का
+प्रयास
+किया
+.
 
-संजीव	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-विरोध	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बदमाश	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सिर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तमंचे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बट	NN	TEMP	O	O	B-MISC	OCC
-मार	VM	TEMP	B-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिससे	PRP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-लहूलुहान	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संजीव
+शर्मा
+ने
+बदमाशों
+का
+विरोध
+किया
+तो
+एक
+बदमाश
+ने
+सिर
+में
+तमंचे
+की
+बट
+मार
+दी
+,
+जिससे
+वह
+लहूलुहान
+हो
+गए
+.
 
-फिर	RB	TEMP	O	O	O	O
-बदमाश	JJ	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-छीनकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-भाग	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिर
+बदमाश
+बैग
+को
+छीनकर
+भाग
+गए
+.
 
-संजीव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रुपयों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-कीमती	JJ	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-था	VM	TEMP	B-MISC	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+संजीव
+के
+अनुसार
+बैग
+में
+रुपयों
+के
+अलावा
+एक
+कीमती
+मोबाइल
+फोन
+भी
+था
+.
 
-सूचना	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-यूपी	NN	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-इलाका	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-ली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सूचना
+पर
+यूपी
+100
+व
+इलाका
+पुलिस
+मौके
+पर
+पहुंच
+गई
+और
+घटना
+की
+जानकारी
+ली
+.
 
-घायल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दीन	JJ	TEMP	O	O	O	O
-दयाल	NN	TEMP	O	O	O	O
-चिकित्सालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उपचार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घायल
+का
+दीन
+दयाल
+चिकित्सालय
+में
+उपचार
+कराया
+गया
+.
 
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामले
+में
+पीडित
+ने
+थाने
+में
+तहरीर
+दी
+है
+.
 
-इंस्पेक्टर	XC	TEMP	O	O	O	O
-क्वार्सी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
+इंस्पेक्टर
+क्वार्सी
+ने
+बताया
+कि
+बदमाशों
+की
+तलाश
+की
+जा
+रही
+है

@@ -1,279 +1,279 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-अलीगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-रोटरी	JJ	TEMP	O	O	O	O
-क्लब	XC	TEMP	O	O	O	O
-अलीगढ़	NNP	TEMP	O	O	O	O
-लॉक	XC	TEMP	O	O	O	O
-सिटी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-इंटरनेशनल	XC	TEMP	O	O	O	O
-चेयरमैन	NNP	TEMP	O	O	O	O
-रोटेरियन	NN	TEMP	O	O	O	O
-चोकालिंगम	XC	TEMP	O	O	O	O
-भास्कर	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-क्लब	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-मात्र	JJ	TEMP	O	O	O	O
-उद्देश्य	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंतिम	JJ	TEMP	O	O	O	O
-छोर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बैठे	VM	TEMP	O	O	B-MISC	O
-व्यक्ति	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-क्लब	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+अलीगढ़
+:
+रोटरी
+क्लब
+अलीगढ़
+लॉक
+सिटी
+के
+इंटरनेशनल
+चेयरमैन
+रोटेरियन
+चोकालिंगम
+भास्कर
+ने
+कहा
+कि
+क्लब
+का
+एक
+मात्र
+उद्देश्य
+है
+कि
+समाज
+के
+अंतिम
+छोर
+में
+बैठे
+व्यक्ति
+तक
+क्लब
+की
+मदद
+पहुंचे
+.
 
-तब	PRP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-सेवा	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-उद्देश्य	NN	TEMP	O	O	O	O
-सार्थक	JJ	TEMP	O	O	B-MISC	OCC
-होगा	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तब
+ही
+समाज
+सेवा
+का
+उद्देश्य
+सार्थक
+होगा
+.
 
-चेयरमैन	NN	TEMP	O	O	O	O
-भास्कर	VM	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विजडम	NN	TEMP	O	O	O	O
-पब्लिक	JJ	TEMP	O	O	O	O
-स्कूल	NN	TEMP	O	O	O	O
-सीनियर	JJ	TEMP	O	O	O	O
-विंग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-क्लब	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आयोजित	JJ	TEMP	O	O	O	O
-फाउंडेशन	NN	TEMP	B-MISC	O	O	O
-समारोह	NN	TEMP	I-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-बतौर	TEMP	INTF	TEMP	O	O	O	O
-मुख्य	JJ	TEMP	O	O	O	O
-अतिथि	NN	TEMP	O	O	O	O
-बोल	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चेयरमैन
+भास्कर
+शहर
+के
+विजडम
+पब्लिक
+स्कूल
+सीनियर
+विंग
+में
+क्लब
+की
+ओर
+से
+आयोजित
+फाउंडेशन
+समारोह
+में
+बतौर
+मुख्य
+अतिथि
+बोल
+रहे
+थे
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-पोलियो	XC	TEMP	O	O	O	O
-उन्मूलन	NNP	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+पोलियो
+उन्मूलन
 
-साक्षरता	NN	TEMP	O	O	O	O
-मिशन	XC	TEMP	O	O	O	O
+साक्षरता
+मिशन
 
-स्वच्छता	JJ	TEMP	O	O	O	O
-मिशन	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-क्लब	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-प्रोजेक्ट	NN	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
+स्वच्छता
+मिशन
+आदि
+क्लब
+के
+बडे
+प्रोजेक्ट
+हैं
 
-जिन	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-क्लब	PRP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिन
+पर
+लगातार
+क्लब
+कार्य
+कर
+रहा
+है
+.
 
-फाउंडेशन	XC	TEMP	O	O	O	O
-शिविर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-21	QC	TEMP	O	O	O	O
-जिलों	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-रोटरी	JJ	TEMP	O	O	O	O
-क्लब	NN	TEMP	O	O	O	O
--3110	QC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सहयोग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-90	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-सवा	XC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-डॉलर	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-इंटरनेशन	XC	TEMP	O	O	O	O
-फाउंडेशन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फाउंडेशन
+शिविर
+में
+21
+जिलों
+(
+रोटरी
+क्लब
+-3110
+)
+के
+सहयोग
+से
+करीब
+90
+लाख
+रुपये
+(
+सवा
+लाख
+डॉलर
+)
+इंटरनेशन
+फाउंडेशन
+में
+दिया
+गया
+.
 
-विशिष्ट	JJ	TEMP	O	O	O	O
-अतिथि	NN	TEMP	O	O	O	O
-नेपाल	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आए	VM	TEMP	O	O	B-MISC	OCC
-पूर्व	JJ	TEMP	O	O	O	O
-मंडलाध्यक्ष	NN	TEMP	O	O	O	O
-वासुदेव	XC	TEMP	O	O	O	O
-गोलियान	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जन	XC	TEMP	O	O	O	O
-सेवा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-हॉस्पिटल	NN	TEMP	B-MISC	O	O	O
-खोलने	VM	TEMP	I-MISC	O	O	O
+विशिष्ट
+अतिथि
+नेपाल
+से
+आए
+पूर्व
+मंडलाध्यक्ष
+वासुदेव
+गोलियान
+ने
+जन
+सेवा
+के
+लिए
+हॉस्पिटल
+खोलने
 
-लैब	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्थापना	NN	TEMP	B-MISC	O	O	O
-आदि	RP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ग्रांट	NN	TEMP	B-MISC	O	B-MISC	O
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-तौर-तरीकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अवगत	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लैब
+की
+स्थापना
+आदि
+के
+लिए
+ग्रांट
+लेने
+के
+तौर-तरीकों
+से
+अवगत
+कराया
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सहयोग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-प्रोजेक्ट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-करें	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+सरकार
+के
+सहयोग
+से
+बडे
+प्रोजेक्ट
+पर
+भी
+कार्य
+करें
+.
 
-इंटरनेशनल	XC	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-सहयोग	NN	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-होगा	VM	TEMP	O	O	B-MISC	OCC
-वह	PRP	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इंटरनेशनल
+टीम
+द्वारा
+जो
+सहयोग
+जिले
+के
+लिए
+होगा
+वह
+दिया
+जाएगा
+.
 
-डिस्ट्रिक्ट	XC	TEMP	O	O	O	O
-गवर्नर	XC	TEMP	O	O	O	O
-रोटेरियन	NN	TEMP	O	O	O	O
-विनय	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-अस्थाना	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अतिथियों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-स्वागत	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डिस्ट्रिक्ट
+गवर्नर
+रोटेरियन
+विनय
+कुमार
+अस्थाना
+ने
+अतिथियों
+का
+स्वागत
+किया
+.
 
-विजडम	NN	TEMP	O	O	O	O
-पब्लिक	JJ	TEMP	O	O	O	O
-स्कूल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-छात्राओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-स्वागत	NN	TEMP	O	O	O	O
-गान	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मीनल	NN	TEMP	O	O	O	O
-महेश्वरी	JJ	TEMP	O	O	O	O
-ट्रस्ट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बालिकाओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-बचाओ	VM	TEMP	O	O	O	O
+विजडम
+पब्लिक
+स्कूल
+की
+छात्राओं
+ने
+स्वागत
+गान
+व
+मीनल
+महेश्वरी
+ट्रस्ट
+की
+बालिकाओं
+ने
+बेटी
+बचाओ
 
-बेटी	NN	TEMP	O	O	O	O
-पढ़ाओ	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मनमोहक	JJ	TEMP	O	O	O	O
-नाटक	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रस्तुति	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बेटी
+पढ़ाओ
+पर
+मनमोहक
+नाटक
+की
+प्रस्तुति
+दी
+.
 
-कार्यक्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-संयोजक	JJ	TEMP	O	O	O	O
-मुकेश	XC	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
+कार्यक्रम
+में
+संयोजक
+मुकेश
+अग्रवाल
 
-अरुण	XC	TEMP	O	O	O	O
-जैन	XC	TEMP	O	O	O	O
+अरुण
+जैन
 
-विनीत	JJ	TEMP	O	O	O	O
-शर्मा	NN	TEMP	O	O	O	O
+विनीत
+शर्मा
 
-प्रेरणा	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
+प्रेरणा
+पांडेय
 
-अनूप	XC	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
+अनूप
+गुप्ता
 
-संजीव	XC	TEMP	O	O	O	O
-समीर	XC	TEMP	O	O	O	O
+संजीव
+समीर
 
-राजीव	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
+राजीव
+शर्मा
 
-चेतन	XC	TEMP	O	O	O	O
-प्रकाश	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
+चेतन
+प्रकाश
+पांडेय
 
-चंद्रेश	XC	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
+चंद्रेश
+अग्रवाल
 
-प्रहलाद	XC	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
+प्रहलाद
+अग्रवाल
 
-प्रमोद	XC	TEMP	O	O	O	O
-भारद्वाज	NNP	TEMP	O	O	O	O
-सचिन	NN	TEMP	O	O	O	O
-गर्ग	NN	TEMP	O	O	O	O
+प्रमोद
+भारद्वाज
+सचिन
+गर्ग
 
-प्रहलाद	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	OCC
-रहे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+प्रहलाद
+आदि
+मौजूद
+रहे
+.

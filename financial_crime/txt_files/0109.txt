@@ -1,208 +1,208 @@
-﻿राज्य	XC	TEMP	O	O	O	O
-ब्यूरो	NNP	TEMP	O	O	O	O
+﻿राज्य
+ब्यूरो
 
-जम्मू	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-महबूबा	JJ	TEMP	O	O	O	O
-मुफ्ती	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रविवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सांबा	NNP	TEMP	O	O	O	O
-दौरे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-कार्यो	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मंजूर	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जम्मू
+:
+मुख्यमंत्री
+महबूबा
+मुफ्ती
+ने
+रविवार
+को
+सांबा
+दौरे
+के
+दौरान
+विकास
+कार्यो
+के
+लिए
+कई
+करोड
+रुपये
+मंजूर
+किए
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-समस्याओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सुन	VM	TEMP	B-MISC	O	B-MISC	O
-उनके	PRP	TEMP	O	O	O	O
-समाधान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-आश्वासन	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+लोगों
+की
+समस्याओं
+को
+सुन
+उनके
+समाधान
+का
+भी
+आश्वासन
+दिया
+.
 
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लाइब्रेरी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अपग्रेड	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मुख्यमंत्री
+ने
+बार
+की
+लाइब्रेरी
+को
+अपग्रेड
+करने
+के
+लिए
+दस
+लाख
+रुपये
+देने
+की
+घोषणा
+की
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कस्बे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सभागार	NN	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-संभावना	NN	TEMP	O	O	B-MISC	O
-तलाशने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कस्बे
+में
+सभागार
+बनाने
+की
+संभावना
+तलाशने
+के
+लिए
+भी
+अधिकारियों
+को
+निर्देश
+दिए
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-सांबा	NNP	TEMP	O	O	O	O
-किले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बनी	VM	TEMP	O	O	B-MISC	OCC
-जिला	JJ	TEMP	O	O	O	O
-लाइब्रेरी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अपग्रेड	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+सांबा
+किले
+में
+बनी
+जिला
+लाइब्रेरी
+को
+अपग्रेड
+करने
+के
+लिए
+20
+लाख
+रुपये
+जारी
+किए
+.
 
-हायर	NN	TEMP	O	O	O	O
-सेकेंडरी	XC	TEMP	O	O	O	O
-स्कूल	XC	TEMP	O	O	O	O
-सांबा	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अतिरिक्त	JJ	TEMP	O	O	O	O
-कमरों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मंजूर	JJ	TEMP	B-MISC	O	O	OCC
-किए	VM	TEMP	I-MISC	O	O	O
+हायर
+सेकेंडरी
+स्कूल
+सांबा
+में
+अतिरिक्त
+कमरों
+के
+निर्माण
+के
+लिए
+उन्होंने
+50
+लाख
+रुपये
+मंजूर
+किए
 
-जबकि	CC	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिजली	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ट्रांसफार्मर	NN	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करवाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+जिले
+में
+बिजली
+के
+ट्रांसफार्मर
+उपलब्ध
+करवाने
+के
+लिए
+25
+लाख
+रुपये
+जारी
+किए
+.
 
-जिला	JJ	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-सांबा	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक्स-रे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सुविधा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिला
+अस्पताल
+सांबा
+में
+एक्स-रे
+की
+सुविधा
+के
+लिए
+मुख्यमंत्री
+ने
+15
+लाख
+रुपये
+देने
+की
+घोषणा
+की
+.
 
-इस्माइलपुर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आइटीआइ	NN	TEMP	O	O	O	O
-कॉलेज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-कीम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिजली	NN	TEMP	O	O	O	O
-वितरण	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सुधार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस्माइलपुर
+में
+आइटीआइ
+कॉलेज
+के
+निर्माण
+के
+लिए
+उन्होंने
+20
+लाख
+रुपये
+देने
+और
+कीम
+में
+बिजली
+वितरण
+में
+सुधार
+के
+लिए
+40
+लाख
+रुपये
+जारी
+किए
+.
 
-पखडी	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिजली	NN	TEMP	O	O	O	O
-सप्लाई	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बहाली	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-नड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रिसिविंग	XC	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पखडी
+क्षेत्र
+में
+बिजली
+सप्लाई
+की
+बहाली
+के
+लिए
+25
+लाख
+रुपये
+और
+नड
+में
+रिसिविंग
+स्टेशन
+बनाने
+के
+लिए
+50
+लाख
+रुपये
+देने
+की
+घोषणा
+की
+.

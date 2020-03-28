@@ -1,543 +1,543 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राहों	NN	TEMP	O	O	O	O
-बलाचौर	JJ	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-राहों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-केन्द्र	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भलाई	NN	TEMP	O	O	O	O
-स्कीमों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गुमराह	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-क्योंकि	CC	TEMP	O	O	O	O
-समाजसेवी	JJ	TEMP	O	O	O	O
-संस्थाओं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आम	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सही	JJ	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सहयोगी
+,
+राहों
+बलाचौर
+के
+बाद
+अब
+राहों
+में
+भी
+लोगों
+को
+केन्द्र
+सरकार
+की
+भलाई
+स्कीमों
+के
+नाम
+पर
+गुमराह
+किया
+जा
+रहा
+है
+,
+क्योंकि
+समाजसेवी
+संस्थाओं
+की
+ओर
+से
+आम
+लोगों
+को
+सही
+जानकारी
+नहीं
+दी
+जा
+रही
+है
+.
 
-आलम	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-बेटियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-फार्म	NN	TEMP	O	O	O	O
-भर	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-दो-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आ	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-उम्मीद	NN	TEMP	B-MISC	O	B-STAT	O
-पाले	VM	TEMP	I-MISC	O	I-STAT	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-होड	NN	TEMP	O	O	O	O
-सी	RP	TEMP	O	O	O	O
-लगी	VM	TEMP	O	O	B-MISC	OCC
-हुई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आलम
+यह
+है
+कि
+बेटियों
+के
+फार्म
+भर
+कर
+दो-दो
+लाख
+रुपये
+खाते
+में
+आ
+जाने
+की
+उम्मीद
+पाले
+लोगों
+को
+होड
+सी
+लगी
+हुई
+है
+.
 
-दरअसल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राहों	NN	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-फार्म	XC	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-बचाओ	VM	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-पढ़ाओ	VM	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-भरवाए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिसमें	PRP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-कार्ड	XC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-खाता	VM	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-ब्रांच	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-आईएफएसई	XC	TEMP	O	O	O	O
-कोड	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-माता-पिता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-फार्म	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भरकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-तथा	CC	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-फोटो	NN	TEMP	O	O	O	O
-कापियां	NN	TEMP	O	O	O	O
-फार्म	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-जोडकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-पते	VAUX	TEMP	I-MISC	O	I-MISC	O
-(	SYM	TEMP	O	O	O	O
-भारत	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-बाल	XC	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-मंत्रालय	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शास्त्री	XC	TEMP	O	O	O	O
-भवन	NNP	TEMP	O	O	O	O
-दिल्ली-	NN	TEMP	O	O	O	O
-110001	QC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रजिस्ट्री	NN	TEMP	B-MISC	O	B-MISC	OCC
-करवाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	O	O	B-MISC	OCC
-जाता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दरअसल
+,
+राहों
+क्षेत्र
+में
+एक
+फार्म
+बेटी
+बचाओ
+बेटी
+पढ़ाओ
+योजना
+के
+तहत
+भरवाए
+जा
+रहे
+हैं
+,
+जिसमें
+बेटी
+का
+नाम
+,
+आधार
+कार्ड
+नंबर
+,
+बेटी
+का
+बैंक
+खाता
+नंबर
+,
+बैंक
+व
+ब्रांच
+का
+नाम
+,
+आईएफएसई
+कोड
+,
+माता-पिता
+के
+आधार
+कार्ड
+का
+नंबर
+आदि
+फार्म
+में
+भरकर
+तथा
+उनकी
+फोटो
+कापियां
+फार्म
+के
+साथ
+जोडकर
+दिए
+गए
+पते
+(
+भारत
+सरकार
+,
+महिला
+एवं
+बाल
+विकास
+मंत्रालय
+,
+शास्त्री
+भवन
+दिल्ली-
+110001
+)
+पर
+रजिस्ट्री
+करवाने
+के
+लिए
+कहा
+जाता
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-केंद्र	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-डालने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कही	VM	TEMP	I-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+बेटी
+के
+खाते
+में
+दो
+लाख
+रुपये
+केंद्र
+सरकार
+की
+ओर
+से
+डालने
+की
+बात
+कही
+जा
+रही
+है
+.
 
-हैरानी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-MISC	O
-कि	CC	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-फार्मों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पार्षदों	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-सेवी	JJ	TEMP	O	O	O	O
-संस्थाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सदस्यों	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-अलग-अलग	JJ	TEMP	O	O	O	O
-कैंप	NN	TEMP	O	O	B-MISC	O
-लगाकर	VM	TEMP	O	O	I-MISC	O
-फार्म	NN	TEMP	O	O	O	O
-भरा	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हैरानी
+की
+बात
+तो
+यह
+है
+कि
+इन
+फार्मों
+को
+पार्षदों
+तथा
+समाज
+सेवी
+संस्थाओं
+के
+सदस्यों
+द्वारा
+अलग-अलग
+कैंप
+लगाकर
+फार्म
+भरा
+जा
+रहा
+है
+.
 
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लालच	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भोलीभाली	NN	TEMP	O	O	O	O
-जनता	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फार्म	NN	TEMP	B-MISC	O	B-MISC	O
-भरवाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-होड	NN	TEMP	O	O	O	O
-सी	RP	TEMP	O	O	O	O
-लगी	VM	TEMP	O	O	B-MISC	OCC
-हुई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दो
+लाख
+के
+लालच
+में
+भोलीभाली
+जनता
+में
+फार्म
+भरवाने
+की
+होड
+सी
+लगी
+हुई
+है
+.
 
-यही	PRP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-समूह	NN	TEMP	O	O	O	O
-पार्षद	NN	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-फार्मों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अटेस्ट	NN	TEMP	O	O	O	OCC
-भी	RP	TEMP	O	O	O	O
-कर	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यही
+नहीं
+समूह
+पार्षद
+इन
+फार्मों
+को
+अटेस्ट
+भी
+कर
+रहे
+हैं
+.
 
-आलम	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-फार्म	NN	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-बुक	JJ	TEMP	O	O	O	O
-स्टोरों	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-फोटो	XC	TEMP	O	O	O	O
-स्टेट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकानों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मिल	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिससे	PRP	TEMP	O	O	O	O
-दुकानदारों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चांदी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आलम
+यह
+है
+कि
+यह
+फार्म
+शहर
+के
+सभी
+बुक
+स्टोरों
+व
+फोटो
+स्टेट
+की
+दुकानों
+से
+दस
+रुपये
+में
+मिल
+रहे
+हैं
+,
+जिससे
+दुकानदारों
+की
+चांदी
+हो
+रही
+है
+.
 
-गौर	NN	TEMP	O	O	O	OCC
-हो	VM	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-केंद्र	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-बाल	XC	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-मंत्रालय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कन्या	NN	TEMP	O	O	O	O
-भ्रूण	JJ	TEMP	O	O	O	O
-हत्या	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रोकने	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-लग	VM	TEMP	O	O	O	O
-अनुपात	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बराबर	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-बेटियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पढ़ाने	VM	TEMP	O	O	B-MISC	OCC
-तथा	CC	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-आत्म	NN	TEMP	O	O	O	O
-निर्भर	JJ	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-बचाओ-बेटी	NN	TEMP	O	O	O	O
-पढ़ाओ	VM	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शुरुआत	NN	TEMP	O	O	O	O
-22	QC	TEMP	O	B	O	O
-जनवरी	NNP	TEMP	O	I	O	O
-2015	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-पानीपत	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-हरियाणा	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रधानमंत्री	NN	TEMP	O	O	O	O
-नरेंद्र	JJ	TEMP	O	O	O	O
-मोदी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शुरुआत	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	B-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गौर
+हो
+कि
+केंद्र
+सरकार
+के
+महिला
+एवं
+बाल
+विकास
+मंत्रालय
+की
+ओर
+से
+कन्या
+भ्रूण
+हत्या
+को
+रोकने
+,
+¨
+लग
+अनुपात
+को
+बराबर
+करने
+,
+बेटियों
+को
+पढ़ाने
+तथा
+उन्हें
+आत्म
+निर्भर
+बनाने
+के
+लिए
+बेटी
+बचाओ-बेटी
+पढ़ाओ
+योजना
+की
+शुरुआत
+22
+जनवरी
+2015
+को
+पानीपत
+(
+हरियाणा
+)
+में
+प्रधानमंत्री
+नरेंद्र
+मोदी
+ने
+शुरुआत
+की
+थी
+.
 
-इस	DEM	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	O
-गलत	JJ	TEMP	O	O	O	O
-ढंग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पेश	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आने	VM	TEMP	O	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-कह	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-गुमराह	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उत्तर	XC	TEMP	O	O	O	O
-प्रदेश	NNP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-निजी	JJ	TEMP	O	O	O	O
-स्वार्थ	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गुमराह	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-खेल	NN	TEMP	O	O	O	O
-राहों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आज	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-चल	VM	TEMP	O	O	B-MISC	OCC
-रहा	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+योजना
+को
+लोगों
+के
+सामने
+गलत
+ढंग
+से
+पेश
+करने
+और
+दो
+लाख
+की
+राशि
+बेटी
+के
+खाते
+में
+आने
+का
+कह
+कर
+गुमराह
+करने
+के
+मामले
+में
+उत्तर
+प्रदेश
+पुलिस
+द्वारा
+मामले
+भी
+दर्ज
+किए
+जा
+चुके
+हैं
+,
+लेकिन
+अपने
+निजी
+स्वार्थ
+के
+लिए
+लोगों
+को
+गुमराह
+करने
+का
+खेल
+राहों
+में
+आज
+भी
+चल
+रहा
+है
+.
 
-बहरहाल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दैनिक	JJ	TEMP	O	O	O	O
-जागरण	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-प्रमुखता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रकाशित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-बचाओ	VM	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-पढ़ाओ	VM	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संबंधित	JJ	TEMP	O	O	O	O
-विभागों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बहरहाल
+,
+दैनिक
+जागरण
+ने
+उक्त
+मामले
+में
+पहले
+भी
+प्रमुखता
+से
+प्रकाशित
+किया
+था
+,
+जिसके
+बाद
+बेटी
+बचाओ
+बेटी
+पढ़ाओ
+योजना
+से
+संबंधित
+विभागों
+को
+नोटिस
+जारी
+की
+गई
+थी
+.
 
-लोग	NN	TEMP	O	O	O	O
-गुमराह	NN	TEMP	B-MISC	O	O	OCC
-न	NEG	TEMP	I-MISC	O	B-MISC	O
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-अगर	CC	TEMP	O	O	O	O
-राहों	NN	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-फार्म	NN	TEMP	O	O	O	O
-भरे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-कौंसिल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अवगत	JJ	TEMP	O	O	B-MISC	O
-करवाया	VM	TEMP	O	O	I-MISC	OCC
-जाएगा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लोग
+गुमराह
+न
+हो
+अगर
+राहों
+क्षेत्र
+में
+इस
+तरह
+के
+फार्म
+भरे
+जा
+रहे
+हैं
+,
+तो
+नगर
+कौंसिल
+को
+अवगत
+करवाया
+जाएगा
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जागरूक	JJ	TEMP	B-MISC	O	B-STAT	O
-रहने	VM	TEMP	I-MISC	O	I-STAT	O
-की	PSP	TEMP	O	O	O	O
-अपील	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-गुमराह	NN	TEMP	O	O	B-MISC	O
-होकर	VM	TEMP	O	O	I-MISC	O
-किसी	PRP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बातों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	B-MISC	OCC
-आएं	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+लोगों
+से
+जागरूक
+रहने
+की
+अपील
+करते
+हुए
+कहा
+कि
+गुमराह
+होकर
+किसी
+की
+भी
+बातों
+में
+न
+आएं
+.
 
-इस	DEM	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-मिलने	VM	TEMP	O	O	O	O
-वाला	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इस
+योजना
+के
+तहत
+किसी
+को
+भी
+कुछ
+मिलने
+वाला
+नहीं
+है
+.
 
-(	SYM	TEMP	O	O	O	O
-सोनाली	NNP	TEMP	O	O	O	O
-गिरी	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-डीसी	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-बहकावे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	B-MISC	O
-भरें	VM	TEMP	O	O	I-MISC	O
-फार्म	XC	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-बचाओ	VM	TEMP	B-MISC	O	O	O
-,	SYM	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-पढ़ाओ	VM	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-योजना	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	DECL
-है	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+(
+सोनाली
+गिरी
+,
+डीसी
+)
+बहकावे
+में
+न
+भरें
+फार्म
+बेटी
+बचाओ
+,
+बेटी
+पढ़ाओ
+योजना
+में
+दो
+लाख
+रुपये
+देने
+की
+कोई
+योजना
+नहीं
+है
+.
 
-वे	PRP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपील	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बातों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आकर	VM	TEMP	B-MISC	O	B-MISC	O
-फार्म	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-भरें	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वे
+लोगों
+से
+अपील
+करते
+हैं
+कि
+किसी
+की
+बातों
+में
+आकर
+फार्म
+न
+भरें
+.

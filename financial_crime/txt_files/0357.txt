@@ -1,352 +1,352 @@
-﻿गोपालगंज	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿गोपालगंज
+.
 
-खुले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	B-MISC	O	O	O
-शौच	NN	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-आदत	NN	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-भारी	JJ	TEMP	B-MISC	O	O	O
-पडने	VM	TEMP	I-MISC	O	B-MISC	OCC
-वाली	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खुले
+में
+शौच
+करने
+की
+आदत
+अब
+भारी
+पडने
+वाली
+है
+.
 
-खुले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शौच	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-पकडे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-251	QC	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	O	O
-भरना	VM	TEMP	I-MISC	O	B-MISC	OCC
-पडेगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खुले
+में
+शौच
+करते
+पकडे
+जाने
+पर
+251
+का
+जुर्माना
+भरना
+पडेगा
+.
 
-इसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-खुले	JJ	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शौच	NN	TEMP	O	O	B-STAT	OCC
-करने	VM	TEMP	O	O	I-STAT	O
-वालों	PSP	TEMP	O	O	I-STAT	O
-को	PSP	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-योजनाओं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लाभ	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-मिलेगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+साथ
+ही
+खुले
+में
+शौच
+करने
+वालों
+को
+सरकारी
+योजनाओं
+का
+भी
+लाभ
+नहीं
+मिलेगा
+.
 
-मंगलवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-प्रखंड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बैरिया	JJ	TEMP	O	O	O	O
-दुर्ग	NN	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बैरिया	NN	TEMP	O	O	O	O
-ठकुरायी	JJ	TEMP	O	O	O	O
-वार्ड	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्वच्छ	JJ	TEMP	O	O	O	O
-भारत	XC	TEMP	O	O	O	O
-मिशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-शौचालय	NN	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	O
-लगे	VAUX	TEMP	O	O	I-MISC	O
-चौपाल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-निर्णय	NN	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंगलवार
+को
+प्रखंड
+के
+बैरिया
+दुर्ग
+पंचायत
+के
+बैरिया
+ठकुरायी
+वार्ड
+नंबर
+एक
+में
+स्वच्छ
+भारत
+मिशन
+के
+तहत
+शौचालय
+निर्माण
+को
+लेकर
+लगे
+चौपाल
+में
+यह
+निर्णय
+लिया
+गया
+.
 
-मुखिया	NN	TEMP	O	O	O	O
-रंजीता	NNP	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अध्यक्षता	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगे	VM	TEMP	O	O	O	O
-ग्रामीणों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चौपाल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-संबोधित	JJ	TEMP	O	O	B-MISC	OCC
-करते	VM	TEMP	O	O	I-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-बीडीओ	XC	TEMP	O	O	O	O
-संदीप	XC	TEMP	O	O	O	O
-सौरभ	XC	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-बैरिया	JJ	TEMP	O	O	O	O
-दुर्ग	NN	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खुले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शौच	NN	TEMP	O	O	O	OCC
-मुक्त	JJ	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	O
-का	PSP	TEMP	O	O	O	O
-लक्ष्य	NN	TEMP	O	O	O	O
-निर्धारित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मुखिया
+रंजीता
+देवी
+की
+अध्यक्षता
+में
+लगे
+ग्रामीणों
+की
+चौपाल
+को
+संबोधित
+करते
+हुए
+बीडीओ
+संदीप
+सौरभ
+ने
+कहा
+कि
+बैरिया
+दुर्ग
+पंचायत
+को
+खुले
+में
+शौच
+मुक्त
+बनाने
+का
+लक्ष्य
+निर्धारित
+किया
+गया
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-वार्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-उन	DEM	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शौचालय	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-जिन	DEM	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-शौचालय	NN	TEMP	O	O	B-MISC	O
-नहीं	NEG	TEMP	O	O	I-MISC	DECL
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+पंचायत
+के
+सभी
+वार्ड
+के
+उन
+सभी
+घरों
+में
+शौचालय
+का
+निर्माण
+कराया
+जाएगा
+जिन
+घरों
+में
+अभी
+तक
+शौचालय
+नहीं
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खुले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शौच	NN	TEMP	O	O	O	OCC
-मुक्त	JJ	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-प्रत्येक	QF	TEMP	O	O	O	O
-नागरिक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भागीदारी	NN	TEMP	O	O	O	O
-आवश्यक	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+इस
+पंचायत
+को
+खुले
+में
+शौच
+मुक्त
+बनाने
+के
+लिए
+प्रत्येक
+नागरिक
+की
+भागीदारी
+आवश्यक
+है
+.
 
-तभी	PRP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-सफल	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-पाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तभी
+यह
+योजना
+सफल
+हो
+पाएगी
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-शौचालय	NN	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+सरकार
+शौचालय
+बनाने
+के
+लिए
+सहायता
+राशि
+दे
+रही
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शौचालय	NN	TEMP	O	O	O	OCC
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	O
-बनाएंगे	VM	TEMP	I-MISC	O	I-MISC	O
-उन्हें	PRP	TEMP	O	O	O	O
-चिन्हित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+भी
+जो
+लोग
+अपने
+घर
+में
+शौचालय
+नहीं
+बनाएंगे
+उन्हें
+चिन्हित
+किया
+जाएगा
+.
 
-इसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-खुले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शौच	NN	TEMP	O	O	B-MISC	OCC
-करने	VM	TEMP	O	O	I-MISC	O
-वालों	PSP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-251	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+साथ
+ही
+खुले
+में
+शौच
+करने
+वालों
+पर
+251
+रुपया
+जुर्माना
+लगाया
+जाएगा
+.
 
-जुर्माना	NN	TEMP	B-MISC	O	O	O
-लगाने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-खुले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शौच	NN	TEMP	O	O	B-STAT	OCC
-करने	VM	TEMP	O	O	I-STAT	O
-वालों	PSP	TEMP	O	O	I-STAT	O
-को	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिलने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-योजनाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लाभ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वंचित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होना	VM	TEMP	I-MISC	O	I-MISC	O
-पडेगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जुर्माना
+लगाने
+के
+साथ
+ही
+खुले
+में
+शौच
+करने
+वालों
+को
+सरकार
+से
+मिलने
+वाली
+सभी
+योजनाओं
+के
+लाभ
+से
+वंचित
+होना
+पडेगा
+.
 
-चौपाल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शौचालय	XC	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	O	OCC
-में	PSP	TEMP	O	O	O	O
-आ	VM	TEMP	O	O	B-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-समस्या	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ग्रामीणों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बीडीओ	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अवगत	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चौपाल
+में
+शौचालय
+निर्माण
+में
+आ
+रही
+समस्या
+से
+ग्रामीणों
+ने
+बीडीओ
+को
+अवगत
+कराया
+.
 
-चौपाल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-महिलाओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शौचालय	NN	TEMP	O	O	O	OCC
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	O
-बनवा	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चौपाल
+में
+मौजूद
+कुछ
+महिलाओं
+ने
+बताया
+कि
+जमीन
+उपलब्ध
+नहीं
+होने
+से
+वे
+अपने
+घर
+में
+शौचालय
+नहीं
+बनवा
+पर
+रही
+हैं
+.
 
-महिलाओं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-समस्या	NN	TEMP	O	O	O	O
-सुन	VM	TEMP	B-MISC	O	B-MISC	O
-बीडीओ	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आश्वासन	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-जिन	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शौचालय	NN	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-जमीन	NN	TEMP	B-MISC	O	O	OCC
-नहीं	NEG	TEMP	I-MISC	O	B-STAT	O
-है	VM	TEMP	I-MISC	O	I-STAT	O
-,	SYM	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करा	VM	TEMP	I-MISC	O	I-MISC	O
-शौचालय	NN	TEMP	O	O	O	O
-बनाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+महिलाओं
+की
+समस्या
+सुन
+बीडीओ
+ने
+आश्वासन
+दिया
+कि
+जिन
+के
+घरों
+में
+शौचालय
+बनाने
+के
+लिए
+जमीन
+नहीं
+है
+,
+उनके
+लिए
+सरकारी
+जमीन
+उपलब्ध
+करा
+शौचालय
+बनाया
+जाएगा
+.
 
-चौपाल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अखिलेश्वर	JJ	TEMP	O	O	O	O
-बैठा	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पंचायत	XC	TEMP	O	O	O	O
-सचिव	XC	TEMP	O	O	O	O
-वर्मा	NNP	TEMP	O	O	O	O
-भगत	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-घुघुली	JJ	TEMP	O	O	O	O
-साह	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गिरीश	XC	TEMP	O	O	O	O
-राय	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विरेंद्र	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रभुनाथ	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रामसखी	NNP	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ग्रामीण	JJ	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	DEC
-रहे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+चौपाल
+में
+अखिलेश्वर
+बैठा
+,
+पंचायत
+सचिव
+वर्मा
+भगत
+,
+घुघुली
+साह
+,
+गिरीश
+राय
+,
+विरेंद्र
+¨
+सह
+,
+प्रभुनाथ
+¨
+सह
+,
+रामसखी
+देवी
+सहित
+काफी
+संख्या
+में
+ग्रामीण
+मौजूद
+रहे
+.

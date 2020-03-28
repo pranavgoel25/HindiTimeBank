@@ -1,176 +1,176 @@
 
-अलीगढ़	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-नशीले	JJ	TEMP	O	O	O	O
-पदार्थ	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तस्करी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-कैद	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जुर्माने	VM	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सजा	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अलीगढ़
+:
+नशीले
+पदार्थ
+की
+तस्करी
+में
+चार
+लोगों
+को
+दस
+साल
+कैद
+व
+चार
+लाख
+रुपये
+जुर्माने
+की
+सजा
+हुई
+है
+.
 
-शासकीय	JJ	TEMP	O	O	O	O
-अधिवक्ता	NN	TEMP	O	O	O	O
-गवेंद्र	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-गजेंद्र	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-फरवरी-	NN	TEMP	O	O	O	O
-16	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-तत्कालीन	JJ	TEMP	O	O	O	O
-क्वार्सी	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-रविंद्र	XC	TEMP	O	O	O	O
-बहादुर	NNP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-गश्त	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-थे	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+शासकीय
+अधिवक्ता
+गवेंद्र
+सिंह
+व
+गजेंद्र
+सिंह
+यादव
+के
+मुताबिक
+छह
+फरवरी-
+16
+की
+रात
+तत्कालीन
+क्वार्सी
+थाना
+प्रभारी
+रविंद्र
+बहादुर
+टीम
+के
+साथ
+गश्त
+पर
+थे
+.
 
-रामघाट	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-संदिग्ध	JJ	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देखकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-रुक	VM	TEMP	B-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रामघाट
+रोड
+पर
+चार
+संदिग्ध
+युवकों
+को
+देखकर
+रुक
+गए
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देख	VM	TEMP	O	O	B-MISC	OCC
-घबराए	JJ	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-भागने	VM	TEMP	O	O	B-MISC	OCC
-लगे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+को
+देख
+घबराए
+युवक
+भागने
+लगे
+.
 
-पीछा	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-चारों	QC	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दबोच	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीछा
+कर
+चारों
+को
+दबोच
+लिया
+.
 
-इन्होंने	PRP	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-मोनू	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-जगदीश	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नीरज	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-अनिल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गोपाल	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-शिवनारायण	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-फूल	NN	TEMP	O	O	O	O
-चंद्र	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-बेगमबाग	NN	TEMP	O	O	O	O
-बताया	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन्होंने
+अपना
+नाम
+मोनू
+पुत्र
+जगदीश
+,
+नीरज
+शर्मा
+पुत्र
+अनिल
+,
+गोपाल
+शर्मा
+पुत्र
+शिवनारायण
+,
+फूल
+चंद्र
+निवासी
+बेगमबाग
+बताया
+.
 
-इनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-किला	NN	TEMP	O	O	O	O
-750	QC	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-चरस	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-आठ	QC	TEMP	O	O	O	O
-किलो	NN	TEMP	O	O	O	O
-365	QC	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-गांजा	NN	TEMP	O	O	O	O
-बरामद	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इनके
+पास
+से
+25
+किला
+750
+ग्राम
+चरस
+व
+आठ
+किलो
+365
+ग्राम
+गांजा
+बरामद
+हुआ
+.
 
-पूछताछ	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-ये	DEM	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नशीला	JJ	TEMP	O	O	O	O
-पदार्थ	NN	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-बेचने	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पूछताछ
+में
+बताया
+कि
+ये
+लोग
+ट्रेन
+से
+नशीला
+पदार्थ
+दिल्ली
+बेचने
+जा
+रहे
+थे
+.
 
-चारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दाखिल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चारों
+के
+विरुद्ध
+आरोप
+पत्र
+कोर्ट
+में
+दाखिल
+कर
+दिया
+.
 
-मुकदमे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सुनवाई	NN	TEMP	O	O	O	O
-एडीजे-	XC	TEMP	O	O	O	O
-सात	XC	TEMP	O	O	O	O
-अजय	XC	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-त्रिपाठी	NNP	TEMP	O	O	O	O
-द्वितीय	QO	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	OCC
-में	PSP	TEMP	O	O	O	O
-शुरू	NN	TEMP	O	O	B-MISC	OCC
-हुई	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मुकदमे
+की
+सुनवाई
+एडीजे-
+सात
+अजय
+कुमार
+त्रिपाठी
+द्वितीय
+की
+कोर्ट
+में
+शुरू
+हुई
+.
 
-बुधवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-फैसला	NN	TEMP	B-MISC	O	B-MISC	O
-सुनाया	VM	TEMP	I-MISC	O	I-MISC	OCC
+बुधवार
+को
+कोर्ट
+ने
+फैसला
+सुनाया

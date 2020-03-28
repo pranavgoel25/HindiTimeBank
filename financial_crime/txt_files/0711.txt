@@ -1,184 +1,184 @@
 
-वैशाली	JJ	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+वैशाली
+.
 
-दो	QC	TEMP	O	O	O	O
-दोस्तों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-दोस्त	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-व्यापार	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-13	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ठगी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दो
+दोस्तों
+ने
+अपने
+ही
+एक
+दोस्त
+से
+धोखाधडी
+कर
+व्यापार
+करने
+के
+नाम
+पर
+13
+लाख
+रुपए
+की
+ठगी
+कर
+ली
+.
 
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-गंगाब्रिज	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कर्णपुरा	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रामविलास	XC	TEMP	O	O	O	O
-राय	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दोस्त	NN	TEMP	O	O	O	O
-गंगाब्रिज	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-मोहब्बतपुर	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विपिन	XC	TEMP	O	O	O	O
-बिहारी	XC	TEMP	O	O	O	O
-पटेल	NNP	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-बिदुपुर	XC	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चकलतीफ	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मनोज	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-खाद-बीज	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-दवा	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-व्यापार	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-साढ़े	NNP	TEMP	O	O	O	O
-छह-साढ़े	NNP	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-वर्षों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लिया	VM	TEMP	O	O	B-MISC	OCC
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जानकारी
+के
+अनुसार
+गंगाब्रिज
+थाना
+क्षेत्र
+के
+कर्णपुरा
+गांव
+के
+रामविलास
+राय
+के
+दोस्त
+गंगाब्रिज
+थाना
+क्षेत्र
+के
+ही
+मोहब्बतपुर
+गांव
+के
+विपिन
+बिहारी
+पटेल
+एवं
+बिदुपुर
+थाना
+क्षेत्र
+के
+चकलतीफ
+गांव
+के
+मनोज
+कुमार
+¨
+सह
+ने
+खाद-बीज
+एवं
+दवा
+का
+व्यापार
+करने
+के
+लिए
+साढ़े
+छह-साढ़े
+छह
+लाख
+रुपए
+का
+कर्ज
+दो
+वर्षों
+के
+लिए
+लिया
+था
+.
 
-इस	DEM	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बाबत	NN	TEMP	O	O	O	O
-विपिन	XC	TEMP	O	O	O	O
-बिहारी	NNP	TEMP	O	O	O	O
-पटेल	NNP	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-मनोज	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अलग-अलग	JJ	TEMP	O	O	O	O
-नन-ज्यूडिशियल	XC	TEMP	O	O	O	O
-स्टांप	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	B-MISC	OCC
-ली	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-राशि	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दो-दो	XC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-लाभांश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-अभिलेख	NN	TEMP	B-MISC	O	O	O
-बना	VM	TEMP	I-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+कर्ज
+की
+बाबत
+विपिन
+बिहारी
+पटेल
+एवं
+मनोज
+कुमार
+¨
+सह
+ने
+अलग-अलग
+नन-ज्यूडिशियल
+स्टांप
+पर
+कर्ज
+ली
+गई
+राशि
+को
+दो-दो
+लाख
+रुपए
+लाभांश
+के
+साथ
+दो
+वर्ष
+के
+बाद
+वापस
+करने
+का
+अभिलेख
+बना
+दिया
+था
+.
 
-इस	DEM	TEMP	O	O	O	O
-समय-सीमा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-समाप्ति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वापसी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-रामविलास	XC	TEMP	O	O	O	O
-राय	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दोस्तों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	OCC
-से	PSP	TEMP	I-MISC	O	I-MISC	O
-मारने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	O	O	B-MISC	OCC
-दी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+समय-सीमा
+की
+समाप्ति
+के
+पैसे
+की
+वापसी
+की
+मांग
+करने
+के
+बाद
+रामविलास
+राय
+के
+दोस्तों
+ने
+उसे
+जान
+से
+मारने
+की
+धमकी
+दी
+.
 
-इस	DEM	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-रामविलास	XC	TEMP	O	O	O	O
-राय	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-गंगाब्रिज	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विपिन	XC	TEMP	O	O	O	O
-बिहारी	XC	TEMP	O	O	O	O
-पटेल	NNP	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-मनोज	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्राथमिकी	NN	TEMP	B-MISC	O	O	O
-दर्ज	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+घटना
+को
+लेकर
+रामविलास
+राय
+ने
+गंगाब्रिज
+थाना
+में
+विपिन
+बिहारी
+पटेल
+एवं
+मनोज
+कुमार
+¨
+सह
+के
+विरुद्ध
+धोखाधडी
+की
+प्राथमिकी
+दर्ज
+कराई
+है
+.

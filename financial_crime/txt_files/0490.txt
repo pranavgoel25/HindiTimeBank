@@ -1,497 +1,497 @@
 
-भागलपुर	NNP	TEMP	O	O	O	O
-[	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+भागलपुर
+[
+जेएनएन
+]
+.
 
-13	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-घोटाला	VM	TEMP	O	O	B-MISC	OCC
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एसआइटी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-चौंकाने	VM	TEMP	O	O	O	O
-वाला	PSP	TEMP	O	O	O	O
-खुलासा	NN	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+13
+सौ
+करोड़
+रुपये
+सरकारी
+राशि
+घोटाला
+मामले
+में
+एसआइटी
+ने
+एक
+और
+चौंकाने
+वाला
+खुलासा
+किया
+था
+.
 
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-संबंधित	JJ	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-मोटी	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-खाते	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-अनुरोध	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-भेजा	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जांच
+के
+दौरान
+इस
+बात
+का
+पता
+चला
+कि
+बैंक
+को
+संबंधित
+विभाग
+द्वारा
+मोटी
+राशि
+सरकारी
+खाते
+में
+जमा
+करने
+पर
+अनुरोध
+पत्र
+भेजा
+जाता
+था
+.
 
-मगर	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-प्रशासन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-कर्मियों	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-सृजन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जुड़े	JJ	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दबा	VM	TEMP	B-MISC	O	B-MISC	OCC
-देते	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-बदले	JJ	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-तैयार	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मगर
+बैंक
+,
+जिला
+प्रशासन
+के
+कुछ
+कर्मियों
+समेत
+सृजन
+से
+जुड़े
+कुछ
+लोग
+उक्त
+पत्र
+को
+दबा
+देते
+थे
+और
+उसके
+बदले
+फर्जी
+पत्र
+तैयार
+करते
+थे
+.
 
-जिसमें	PRP	TEMP	O	O	O	O
-आवंटन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-सृजन	NN	TEMP	O	O	O	O
-संस्था	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-अनुरोध	NN	TEMP	B-MISC	O	B-MISC	OCC
-होता	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसमें
+आवंटन
+की
+राशि
+सृजन
+संस्था
+के
+खाते
+में
+जमा
+करने
+का
+अनुरोध
+होता
+था
+.
 
-मगर	CC	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-खुलासा	NN	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-ये	DEM	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मगर
+जांच
+के
+दौरान
+इस
+बात
+का
+खुलासा
+हुआ
+है
+कि
+ये
+पत्र
+किसी
+भी
+विभाग
+द्वारा
+जारी
+नहीं
+किए
+गए
+थे
+.
 
-भू-अर्जन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-120	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	B-MISC	O
-हो	VM	TEMP	O	O	I-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-सृजन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ट्रांसफरविभाग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सृजन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-संबंधी	JJ	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-मिलने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-एसआइटी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-छानबीन	NN	TEMP	O	O	O	O
-तेज	JJ	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-दी	VAUX	TEMP	O	O	I-MISC	O
-थी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भू-अर्जन
+के
+120
+करोड़
+हो
+गए
+थे
+सृजन
+के
+खाते
+में
+ट्रांसफरविभाग
+में
+सृजन
+के
+खाते
+में
+जमा
+करने
+संबंधी
+पत्र
+के
+नहीं
+मिलने
+के
+बाद
+एसआइटी
+ने
+अपनी
+छानबीन
+तेज
+कर
+दी
+थी
+.
 
-भू-अर्जन	NN	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-विभागों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दर्जनों	NN	TEMP	O	O	O	O
-ऐसे	DEM	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जिनमें	PRP	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-सृजन	NN	TEMP	O	O	O	OCC
-संस्था	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-अनुरोध	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भू-अर्जन
+कार्यालय
+समेत
+अन्य
+विभागों
+के
+दर्जनों
+ऐसे
+पत्र
+हैं
+,
+जिनमें
+सरकारी
+राशि
+सृजन
+संस्था
+के
+खाते
+में
+जमा
+करने
+का
+अनुरोध
+किया
+गया
+था
+.
 
-जिलाधिकारी	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-विभागीय	JJ	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिलाधिकारी
+द्वारा
+विभागीय
+जांच
+कराई
+गई
+थी
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जांच	NN	TEMP	O	O	B-MISC	OCC
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पाया	VM	TEMP	O	O	B-MISC	OCC
-कि	CC	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हुए	VM	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+भी
+जांच
+टीम
+ने
+पाया
+कि
+जो
+भी
+इस
+तरह
+के
+पत्र
+जारी
+हुए
+थे
+.
 
-वे	PRP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वे
+किसी
+भी
+विभाग
+से
+जारी
+नहीं
+किए
+गए
+थे
+.
 
-विभागीय	JJ	TEMP	O	O	O	O
-जांच	NN	TEMP	O	O	O	OCC
-में	PSP	TEMP	O	O	O	O
-ऐसे	DEM	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विभागीय
+जांच
+में
+ऐसे
+पत्र
+को
+फर्जी
+बताया
+गया
+है
+.
 
-एसआइटी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-पत्रों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-जिस	DEM	TEMP	O	O	O	O
-विभागीय	JJ	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करोड़ों	NN	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-सृजन	NN	TEMP	O	O	O	O
-संस्था	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एसआइटी
+कर
+रही
+थी
+पत्रों
+की
+जांच
+जिस
+विभागीय
+पत्र
+से
+करोड़ों
+रुपये
+की
+राशि
+सृजन
+संस्था
+के
+खाते
+में
+जमा
+कर
+दी
+गई
+थी
+.
 
-उस	DEM	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	O	O	B-MISC	OCC
-एसआइटी	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कर	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उस
+पत्र
+की
+जांच
+एसआइटी
+अपने
+स्तर
+से
+कर
+रही
+थी
+.
 
-वे	PRP	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-तत्कालीन	JJ	TEMP	O	O	O	O
-भू-अर्जन	NN	TEMP	O	O	O	O
-पदाधिकारी	JJ	TEMP	O	O	O	O
-राजीव	XC	TEMP	O	O	O	O
-रंजन	NNP	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लिखे	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वे
+पत्र
+तत्कालीन
+भू-अर्जन
+पदाधिकारी
+राजीव
+रंजन
+सिंह
+के
+समय
+बैंक
+को
+लिखे
+गए
+थे
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-एसआइटी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-रिकार्ड	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+एसआइटी
+को
+भी
+इस
+संबंध
+में
+कोई
+भी
+रिकार्ड
+विभाग
+में
+नहीं
+मिला
+.
 
-मगर	CC	TEMP	O	O	O	O
-एसआइटी	NN	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-किन	CC	TEMP	O	O	O	O
-किन	WQ	TEMP	O	O	O	O
-कर्मियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मिलीभगत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुहर	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कागजात	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इस्तेमाल	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मगर
+एसआइटी
+इस
+बात
+की
+जांच
+कर
+रही
+थी
+कि
+यहां
+के
+किन
+किन
+कर्मियों
+की
+मिलीभगत
+से
+विभाग
+के
+मुहर
+और
+कागजात
+का
+इस्तेमाल
+हुआ
+था
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-घोटाला	NN	TEMP	O	O	O	OCC
-उजागर	JJ	TEMP	B-MISC	O	B-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-तत्कालीन	JJ	TEMP	O	O	O	O
-भू-अर्जन	NN	TEMP	O	O	O	O
-पदाधिकारी	JJ	TEMP	O	O	O	O
-राजीव	XC	TEMP	O	O	O	O
-रंजन	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-फरार	NN	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+यहां
+इस
+विभाग
+का
+घोटाला
+उजागर
+होने
+के
+बाद
+तत्कालीन
+भू-अर्जन
+पदाधिकारी
+राजीव
+रंजन
+सिंह
+फरार
+हैं
+.
 
-अब	PRP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-सीबीआइ	NN	TEMP	O	O	B-MISC	ASP
-कर	VM	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+इस
+मामले
+की
+जांच
+सीबीआइ
+कर
+रही
+है
+.
 
-सीबीआइ	NN	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-लगाएगी	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-कहां	WQ	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-परिस्थिति	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-निर्गत	JJ	TEMP	O	O	B-STAT	DECL
-हुए	VM	TEMP	O	O	I-STAT	O
-हैं	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सीबीआइ
+इस
+बात
+का
+पता
+लगाएगी
+कि
+पत्र
+कहां
+से
+किसी
+परिस्थिति
+में
+निर्गत
+हुए
+हैं
+.
 
-360	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हुआ	VM	TEMP	O	O	B-MISC	OCC
-था	VAUX	TEMP	O	O	I-MISC	O
-गबन	NN	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-भू-अर्जन	NN	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-360	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गबन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-तिलकामांझी	NN	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+360
+करोड़
+का
+हुआ
+था
+गबन
+जिला
+भू-अर्जन
+कार्यालय
+ने
+करीब
+360
+करोड़
+रुपये
+के
+सरकारी
+राशि
+के
+गबन
+का
+मामला
+तिलकामांझी
+थाने
+में
+दर्ज
+कराया
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-आरोपित	JJ	TEMP	O	O	O	O
-गिरफ्तार	NN	TEMP	B-MISC	O	O	O
-होकर	VM	TEMP	I-MISC	O	O	O
-जेल	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	I-MISC	O	O	O
-हैं	VM	TEMP	I-MISC	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+में
+कई
+आरोपित
+गिरफ्तार
+होकर
+जेल
+में
+हैं
+.
 
-इन	DEM	TEMP	O	O	O	O
-सारी	QF	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सृजन	NN	TEMP	O	O	O	O
-संस्था	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हस्तांतरण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-अनुरोध	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इस्तेमाल	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+सारी
+राशि
+के
+सृजन
+संस्था
+में
+हस्तांतरण
+के
+लिए
+अनुरोध
+पत्र
+का
+इस्तेमाल
+किया
+गया
+था
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विभागीय	JJ	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-हस्ताक्षर	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+इस
+पत्र
+में
+विभागीय
+अधिकारियों
+का
+ही
+हस्ताक्षर
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-जिम्मेवारी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-बच	VM	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+कारण
+वे
+अपनी
+जिम्मेवारी
+से
+नहीं
+बच
+सकते
+.
 
-सीबीआइ	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	O	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-खुलासा	NN	TEMP	O	O	B-MISC	OCC
-होगा	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-ये	DEM	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-किसके	WQ	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लिखे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सीबीआइ
+की
+जांच
+में
+इस
+बात
+का
+खुलासा
+होगा
+कि
+ये
+पत्र
+किसके
+द्वारा
+बैंक
+को
+लिखे
+जाते
+रहे
+हैं
+.

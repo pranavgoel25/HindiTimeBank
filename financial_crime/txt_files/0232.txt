@@ -1,201 +1,201 @@
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नवांशहर	NN	TEMP	O	O	O	O
-सिटी	XC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-विदेश	NN	TEMP	B-MISC	O	O	O
-भेजने	VM	TEMP	I-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ठगी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाददाता
+,
+नवांशहर
+सिटी
+पुलिस
+ने
+विदेश
+भेजने
+के
+नाम
+पर
+ठगी
+करने
+के
+आरोप
+में
+दो
+लोगों
+को
+खिलाफ
+मामला
+दर्ज
+किया
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-बघोरां	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-करनैल	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-जानकार	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-अराइया	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-गुरमेल	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-बघौरां	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-मक्खन	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-बेटों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-विदेश	NN	TEMP	B-MISC	O	O	O
-भेजने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-हरियाणा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कैथल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शीनद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-देवीदत्त	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-कुलाम	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रह	VM	TEMP	O	O	B-STAT	OCC
-रहा	VAUX	TEMP	O	O	I-STAT	O
-है	VAUX	TEMP	O	O	I-STAT	O
-)	SYM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-कैथल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	O	O
-वाला	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	DES
-वाले	PSP	TEMP	O	O	I-STAT	O
-दिनेश	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-16	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-80	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+के
+अनुसार
+गांव
+बघोरां
+के
+रहने
+वाले
+करनैल
+¨
+सह
+ने
+पुलिस
+को
+दी
+शिकायत
+में
+कहा
+है
+कि
+उन्होंने
+व
+उनका
+एक
+जानकार
+गांव
+अराइया
+निवासी
+गुरमेल
+¨
+सह
+व
+गांव
+बघौरां
+निवासी
+मक्खन
+¨
+सह
+ने
+अपने
+बेटों
+को
+विदेश
+भेजने
+के
+लिए
+हरियाणा
+के
+कैथल
+के
+शीनद
+के
+रहने
+वाले
+देवीदत्त
+शर्मा
+(
+जो
+अब
+कुलाम
+रोड
+पर
+रह
+रहा
+है
+)
+के
+अलावा
+कैथल
+के
+ही
+रहने
+वाला
+रहने
+वाले
+दिनेश
+शर्मा
+को
+16
+लाख
+80
+रुपये
+दिए
+थे
+.
 
-देवी	XC	TEMP	O	O	O	O
-दत्त	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नवांशहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-रह	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देवी
+दत्त
+शर्मा
+काफी
+समय
+से
+नवांशहर
+में
+ही
+रह
+रहे
+थे
+.
 
-यहीं	PRP	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-जान	VM	TEMP	B-MISC	O	B-MISC	O
-पहचान	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-दिनेश	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-मुलाकात	NN	TEMP	B-MISC	O	B-MISC	OCC
-करवा	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यहीं
+उनकी
+इसके
+साथ
+जान
+पहचान
+हो
+गई
+तथा
+उन्होंने
+दिनेश
+शर्मा
+के
+साथ
+मुलाकात
+करवा
+दी
+.
 
-इन	DEM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-बेटों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मारिशस	NN	TEMP	O	O	O	O
-भेजा	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाना	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-मगर	CC	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-भेजा	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+लोगों
+की
+ओर
+से
+उनके
+बेटों
+को
+मारिशस
+भेजा
+जाना
+था
+,
+मगर
+नहीं
+भेजा
+गया
+.
 
-वे	PRP	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मांगते	VM	TEMP	B-MISC	O	B-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-देते	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वे
+उनसे
+अपने
+रुपये
+मांगते
+हैं
+तो
+उन्हें
+रुपये
+भी
+नहीं
+देते
+,
+इसके
+चलते
+वे
+पुलिस
+के
+पास
+पहुंचे
+हैं
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+आरोपियों
+के
+खिलाफ
+मामला
+दर्ज
+करके
+जांच
+शुरू
+कर
+दी
+है
+.

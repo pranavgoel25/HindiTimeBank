@@ -1,524 +1,524 @@
-﻿पटना	NNP	TEMP	O	O	O	O
-[	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿पटना
+[
+जेएनएन
+]
+.
 
-बिहार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वैशाली	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बीपीएल	JJ	TEMP	O	O	O	O
-कार्डधारी	NN	TEMP	O	O	O	O
-बुजुर्ग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-इन्कम	XC	TEMP	O	O	O	O
-टैक्स	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-कडोर	NN	TEMP	O	O	O	O
-37	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लेन	XC	TEMP	B-MISC	O	O	O
-देन	NNP	TEMP	I-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	O	O
-मिलने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बुजुर्ग	NN	TEMP	O	O	O	O
-हैरान	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-कभी	PRP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मुंह	NN	TEMP	B-MISC	O	O	O
-तक	RP	TEMP	I-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-देखा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिहार
+के
+वैशाली
+में
+एक
+बीपीएल
+कार्डधारी
+बुजुर्ग
+को
+इन्कम
+टैक्स
+ने
+3
+कडोर
+37
+लाख
+के
+लेन
+देन
+के
+मामले
+में
+नोटिस
+जारी
+किया
+है
+,
+नोटिस
+मिलने
+के
+बाद
+बुजुर्ग
+हैरान
+है
+कि
+उसने
+कभी
+किसी
+बैंक
+का
+मुंह
+तक
+नहीं
+देखा
+.
 
-ऐसे	PRP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-करोड़ों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	O	O
-आखिर	RB	TEMP	O	O	O	O
-आया	VM	TEMP	B-MISC	O	O	OCC
-कैसे	WQ	TEMP	O	O	O	O
-?	SYM	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-70	QC	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बुजुर्ग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इनकम	DEM	TEMP	O	O	O	O
-टैक्स	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	B-MISC	O
-आ	VM	TEMP	B-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऐसे
+में
+करोड़ों
+का
+नोटिस
+आखिर
+आया
+कैसे
+?
+बिहार
+के
+इस
+70
+साल
+के
+बुजुर्ग
+को
+3
+करोड़
+का
+इनकम
+टैक्स
+का
+नोटिस
+आ
+गया
+है
+.
 
-नोटबंदी	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-37	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लेन-देन	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नोटबंदी
+के
+बाद
+उनके
+खाते
+में
+3
+करोड़
+37
+लाख
+का
+लेन-देन
+हुआ
+है
+.
 
-बीपीएलधारी	JJ	TEMP	O	O	O	O
-बुजुर्ग	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-खाता	NN	TEMP	O	O	O	O
-खोला	VM	TEMP	B-MISC	O	B-MISC	OCC
-ही	RP	TEMP	I-MISC	O	I-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	DECL
-है	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीपीएलधारी
+बुजुर्ग
+का
+कहना
+है
+कि
+बैंक
+में
+कोई
+खाता
+खोला
+ही
+नहीं
+है
+.
 
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बुजुर्ग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-इनकार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+ने
+बुजुर्ग
+के
+खाते
+की
+जानकारी
+देने
+से
+इनकार
+कर
+दिया
+है
+.
 
-आरटीआइ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-खाते	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सम्बन्ध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	O
-मांगने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-हम	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आरटीआई	NN	TEMP	O	O	O	O
-लागू	JJ	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-होता	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-हम	PRP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-देंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आरटीआइ
+से
+खाते
+के
+सम्बन्ध
+में
+जानकारी
+मांगने
+पर
+बैंक
+ने
+किसान
+को
+कहा
+कि
+हम
+पर
+आरटीआई
+लागू
+नहीं
+होता
+है
+,
+हम
+जानकारी
+नहीं
+देंगे
+.
 
-बिहार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वैशाली	XC	TEMP	O	O	O	O
-जिले	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गोरौल	JJ	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	DESC
-वाले	PSP	TEMP	O	O	I-STAT	O
-विश्वनाथ	XC	TEMP	O	O	O	O
-चौरसिया	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-बीते	VM	TEMP	O	O	O	OCC
-दिनों	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-इन्कम	XC	TEMP	O	O	O	O
-टैक्स	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	B-MISC	OCC
-आया	VM	TEMP	B-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिहार
+के
+वैशाली
+जिले
+के
+गोरौल
+थाने
+के
+रहने
+वाले
+विश्वनाथ
+चौरसिया
+के
+घर
+बीते
+दिनों
+यह
+इन्कम
+टैक्स
+का
+नोटिस
+आया
+है
+.
 
-नोटिस	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विश्वनाथ	XC	TEMP	O	O	O	O
-चौरसिया	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक्सिस	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-खाते	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करोड़ों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लेन	XC	TEMP	B-MISC	O	O	O
-देन	NNP	TEMP	I-MISC	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-जबाब	NN	TEMP	B-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-रिटर्न	NN	TEMP	O	O	O	O
-दाखिल	JJ	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नोटिस
+में
+विश्वनाथ
+चौरसिया
+के
+एक्सिस
+बैंक
+खाते
+से
+करोड़ों
+के
+लेन
+देन
+को
+लेकर
+जबाब
+देने
+को
+कहा
+गया
+है
+,
+साथ
+ही
+रिटर्न
+दाखिल
+करने
+को
+कहा
+गया
+है
+.
 
-70	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बीपीएल	NN	TEMP	O	O	O	O
-कार्डधारी	JJ	TEMP	O	O	O	O
-बुजुर्ग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इनकम	XC	TEMP	O	O	O	O
-टैक्स	XC	TEMP	O	O	O	O
-डिपार्टमेंट	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पूछा	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-किन	WQ	TEMP	O	O	O	O
-श्रोतों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आपने	PRP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-खाते	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-37	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लेन	NN	TEMP	B-MISC	O	B-MISC	OCC
-देन	VM	TEMP	I-MISC	O	I-MISC	OCC
-किया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+70
+साल
+के
+इस
+बीपीएल
+कार्डधारी
+बुजुर्ग
+से
+इनकम
+टैक्स
+डिपार्टमेंट
+ने
+पूछा
+है
+कि
+किन
+श्रोतों
+से
+आपने
+बैंक
+खाते
+में
+0
+3
+करोड़
+37
+लाख
+की
+राशि
+का
+लेन
+देन
+किया
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-पूरे	JJ	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विश्वनाथ	XC	TEMP	O	O	O	O
-चौरसिया	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-रिटर्न	NN	TEMP	O	O	B-MISC	O
-भरने	VM	TEMP	B-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-आया	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-देख	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-हमको	PRP	TEMP	O	O	O	O
-घबरारहट	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+पूरे
+मामले
+में
+विश्वनाथ
+चौरसिया
+का
+कहना
+है
+कि
+नोटिस
+के
+बाद
+जब
+रिटर्न
+भरने
+के
+लिए
+आया
+तो
+देख
+के
+हमको
+घबरारहट
+हुई
+.
 
-उनका	PRP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-बीपीएल	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सम्बंधित	JJ	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-,	SYM	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जगह	RDP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बिजनेस	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-स्रोत	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+उनका
+कहना
+है
+कि
+वे
+बीपीएल
+से
+सम्बंधित
+हैं
+,
+न
+उनके
+पास
+,
+जगह
+है
+,
+न
+जमीन
+और
+न
+ही
+बिजनेस
+का
+कोई
+स्रोत
+है
+.
 
-फिर	RB	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-रिटर्न	NN	TEMP	B-MISC	O	B-MISC	O
-भरने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-कहां	WQ	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आ	VM	TEMP	O	O	B-MISC	OCC
-गई	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिर
+भी
+रिटर्न
+भरने
+की
+बात
+कहां
+से
+आ
+गई
+.
 
-चौरसिया	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-हम	PRP	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-कभी	PRP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	OCC
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	O
-गए	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-देखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	O	O
-कि	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-कहां	WQ	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-?	SYM	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-हमने	PRP	TEMP	O	O	O	O
-सिग्नेचर	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चौरसिया
+ने
+कहा
+कि
+हम
+तो
+कभी
+बैंक
+नहीं
+गए
+और
+देखा
+भी
+नहीं
+कि
+बैंक
+कहां
+है
+?
+न
+हमने
+सिग्नेचर
+किया
+.
 
-फिर	RB	TEMP	O	O	O	O
-दुबारा	JJ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-स्टाफ	XC	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-आ	VM	TEMP	B-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-हमने	PRP	TEMP	O	O	O	O
-आरटीआइ	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंतर्गत	PSP:?	TEMP	O	O	O	O
-जवाब	NN	TEMP	B-MISC	O	B-MISC	O
-मांगा	VM	TEMP	I-MISC	O	I-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-हम	PRP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-और	CC	TEMP	O	O	O	O
-हम	PRP	TEMP	O	O	O	O
-आरटीआइ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+फिर
+दुबारा
+बैंक
+से
+भी
+स्टाफ
+नोटिस
+लेकर
+आ
+गया
+तो
+फिर
+हमने
+आरटीआइ
+के
+अंतर्गत
+जवाब
+मांगा
+तो
+कहा
+कि
+हम
+बैंक
+है
+और
+हम
+आरटीआइ
+से
+बाहर
+हैं
+.
 
-एेसा	NN	TEMP	O	O	O	O
-कहकर	VM	TEMP	O	O	O	O
-हमें	PRP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एेसा
+कहकर
+हमें
+कोई
+जानकारी
+नहीं
+दी
+गई
+.
 
-उसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-हमने	PRP	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ऊपर	NST	TEMP	O	O	O	O
-केस	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+बाद
+हमने
+कोर्ट
+में
+बैंक
+के
+ऊपर
+केस
+किया
+है
+.
 
-उसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-विश्वनाथ	XC	TEMP	O	O	O	O
-चौरसिया	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-इनकम	DEM	TEMP	O	O	O	O
-टैक्स	NN	TEMP	O	O	O	O
-आफिस	NN	TEMP	O	O	O	O
-पहुंच	VM	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-ली	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-हाजीपुर	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-एक्सिस	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाता	NN	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-913020006867107	QC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-जिसमें	PRP	TEMP	O	O	O	O
-बीते	VM	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-सालों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-करोड़ों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लेन-देन	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+बाद
+विश्वनाथ
+चौरसिया
+ने
+जब
+इनकम
+टैक्स
+आफिस
+पहुंच
+जानकारी
+ली
+तो
+उन्हें
+बताया
+गया
+कि
+हाजीपुर
+स्थित
+एक्सिस
+बैंक
+के
+खाता
+संख्या
+913020006867107
+उनके
+नाम
+पर
+है
+जिसमें
+बीते
+2
+सालों
+में
+करोड़ों
+का
+लेन-देन
+हुआ
+है
+.
 
-हैरत	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	B-STAT	O
-यह	PRP	TEMP	O	O	I-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-विश्वनाथ	XC	TEMP	O	O	O	O
-चौरसिया	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खाते	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सम्बन्ध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	OCC
-से	PSP	TEMP	O	O	O	O
-मना	NEG	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हैरत
+की
+बात
+यह
+है
+कि
+बैंक
+ने
+विश्वनाथ
+चौरसिया
+को
+खाते
+के
+सम्बन्ध
+में
+जानकारी
+देने
+से
+मना
+कर
+दिया
+.
 
-हैरान	JJ	TEMP	O	O	O	O
-परेशान	JJ	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बुजुर्ग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कानूनी	JJ	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	O
-खाते	VM	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-मांगी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हैरान
+परेशान
+इस
+बुजुर्ग
+ने
+बैंक
+को
+कानूनी
+नोटिस
+भेज
+खाते
+की
+जानकारी
+मांगी
+है
+.
 
-ये	DEM	TEMP	O	O	O	O
-पहला	QO	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	DEC
-नहीं	NEG	TEMP	O	O	O	O
-जहां	PRP	TEMP	O	O	O	O
-हाजीपुर	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक्सिस	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लेन-देन	NN	TEMP	O	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	B-MISC	OCC
-सामने	NST	TEMP	B-MISC	O	I-MISC	O
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ये
+पहला
+मामला
+नहीं
+जहां
+हाजीपुर
+के
+एक्सिस
+बैंक
+में
+फर्जी
+खातों
+में
+लेन-देन
+का
+मामला
+सामने
+आया
+है
+.
 
-नोटबंदी	NN	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लेन-देन	NN	TEMP	O	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	B-MISC	O
-सामने	NST	TEMP	B-MISC	O	I-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चुप्पी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-साधे	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नोटबंदी
+के
+दौरान
+कई
+फर्जी
+खातों
+में
+लेन-देन
+का
+मामला
+सामने
+आया
+था
+लेकिन
+बैंक
+लगातार
+इस
+मामले
+में
+चुप्पी
+साधे
+रहा
+.

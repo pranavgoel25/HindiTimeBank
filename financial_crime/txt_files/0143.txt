@@ -1,218 +1,218 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
+﻿संवाद
+सूत्र
 
-गोरौल	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-गोरौल	JJ	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चैनपुर	NNP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	DESC
-वाले	PSP	TEMP	O	O	I-STAT	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फर्जीवाडा	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-स्टेट	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गोरौल
+:
+गोरौल
+थाना
+क्षेत्र
+के
+चैनपुर
+गांव
+के
+रहने
+वाले
+एक
+व्यक्ति
+के
+खाते
+से
+तीन
+बार
+में
+फर्जीवाडा
+कर
+स्टेट
+बैंक
+के
+एटीएम
+से
+50
+हजार
+रुपये
+की
+निकासी
+कर
+ली
+गई
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गोरौल	JJ	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्राथमिकी	JJ	TEMP	B-MISC	O	O	O
-दर्ज	NN	TEMP	I-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+गोरौल
+थाने
+में
+प्राथमिकी
+दर्ज
+कराई
+गई
+है
+.
 
-निकासी	NN	TEMP	O	O	B-STAT	O
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-का	PSP	TEMP	O	O	O	O
-पता	JJ	TEMP	O	O	O	OCC
-नेट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निकाला	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-कोलकाता	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-MISC	OCC
-वाला	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+निकासी
+करने
+वाले
+का
+पता
+नेट
+के
+माध्यम
+से
+निकाला
+गया
+तो
+पता
+चला
+कि
+वह
+कोलकाता
+का
+रहने
+वाला
+है
+.
 
-प्राथमिकी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चैनपुर	XC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-रंधीर	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-9903617687	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-मैनेजर	NN	TEMP	O	O	O	O
-बताकर	VM	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-आपका	PRP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-अनजाने	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लॉक	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्राथमिकी
+में
+चैनपुर
+गांव
+निवासी
+रंधीर
+¨
+सह
+ने
+कहा
+है
+कि
+मोबाइल
+नंबर
+9903617687
+से
+एक
+व्यक्ति
+ने
+अपने
+को
+बैंक
+मैनेजर
+बताकर
+कहा
+कि
+आपका
+एटीएम
+अनजाने
+में
+लॉक
+हो
+गया
+है
+.
 
-उसे	PRP	TEMP	O	O	O	O
-चालू	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिये	PSP	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-डिजिट	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-4	QC	TEMP	O	O	O	O
-डिजिट	NN	TEMP	O	O	O	O
-वाला	PSP	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	B-MISC	O
-बताएं	VM	TEMP	B-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+उसे
+चालू
+करने
+के
+लिये
+अपना
+12
+डिजिट
+एवं
+4
+डिजिट
+वाला
+नंबर
+बताएं
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-वैसा	PRP	TEMP	O	O	B-MISC	O
-ही	RP	TEMP	O	O	I-MISC	O
-किया	VM	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+वैसा
+ही
+किया
+.
 
-उसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-तब	PRP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-बोला	VM	TEMP	B-MISC	O	B-MISC	OCC
-कि	CC	TEMP	O	O	O	O
-आपका	PRP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-लक	NN	TEMP	B-MISC	O	O	O
-करते	VM	TEMP	I-MISC	O	O	O
-समय	NN	TEMP	O	O	O	O
-उंगली	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निशान	NN	TEMP	O	O	B-MISC	O
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	OCC
-लिया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
+उसके
+बाद
+तब
+फिर
+बोला
+कि
+आपका
+आधार
+¨
+लक
+करते
+समय
+उंगली
+का
+निशान
+नहीं
+लिया
+गया
+था
 
-आधार	NN	TEMP	O	O	O	O
-नम्बर	NN	TEMP	O	O	O	OCC
-भी	RP	TEMP	O	O	O	O
-चाहिए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आधार
+नम्बर
+भी
+चाहिए
+.
 
-रंधीर	JJ	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-मांगने	VM	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रंधीर
+का
+कहना
+है
+कि
+मांगने
+पर
+आधार
+नंबर
+भी
+दे
+दिया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-घंटे	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	O	O
-का	PSP	TEMP	O	O	O	O
-मैसेज	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+एक
+घंटे
+बाद
+मोबाइल
+पर
+तीन
+बार
+पैसे
+की
+निकासी
+का
+मैसेज
+आया
+.
 
-मैसेज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-एसबीआई	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-खाता	NN	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गयी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मैसेज
+के
+बाद
+जब
+एसबीआई
+का
+अपना
+खाता
+जांच
+किया
+तो
+पता
+चला
+कि
+दो
+बार
+20
+हजार
+एवं
+एक
+बार
+10
+हजार
+की
+निकासी
+की
+गयी
+है
+.

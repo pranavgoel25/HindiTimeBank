@@ -1,279 +1,279 @@
 
-देवरिया	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-बघौचघाट	JJ	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-जालसाज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जनपद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-35	QC	TEMP	O	O	O	O
-बेरोजगारों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-विदेश	NN	TEMP	B-MISC	O	O	O
-भेजने	VM	TEMP	I-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-65	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-65	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-वसूल	NN	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-बीजा	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	B-MISC	O
-देने	VM	TEMP	B-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-फरार	NN	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देवरिया
+:
+बघौचघाट
+के
+एक
+गांव
+निवासी
+जालसाज
+ने
+जनपद
+के
+35
+बेरोजगारों
+से
+विदेश
+भेजने
+के
+नाम
+पर
+65
+-
+65
+हजार
+वसूल
+लिया
+और
+फर्जी
+बीजा
+व
+टिकट
+देने
+के
+बाद
+फरार
+हो
+गया
+.
 
-अब	PRP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पासपोर्ट	NN	TEMP	O	O	O	O
-मांगने	VM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जालसाज	NN	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	O
-से	PSP	TEMP	I-MISC	O	I-MISC	O
-मारने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+पैसा
+व
+पासपोर्ट
+मांगने
+पर
+जालसाज
+उन्हें
+जान
+से
+मारने
+की
+धमकी
+दे
+रहा
+है
+.
 
-बुधवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-बेरोजगारों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-अधीक्षक	JJ	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मुलाकात	NN	TEMP	O	O	O	OCC
-की	PSP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-न्याय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गुहार	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुधवार
+को
+बेरोजगारों
+ने
+पुलिस
+अधीक्षक
+से
+मुलाकात
+की
+और
+न्याय
+की
+गुहार
+लगाई
+.
 
-एसपी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बघौचघाट	JJ	TEMP	O	O	O	O
-थानाध्यक्ष	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एसपी
+ने
+बघौचघाट
+थानाध्यक्ष
+को
+कार्रवाई
+करने
+का
+निर्देश
+दिया
+है
+.
 
-बघौचघाट	JJ	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-जालसाज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जनपद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-गांवों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बेरोजगारों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मुलाकात	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बघौचघाट
+थाना
+क्षेत्र
+के
+एक
+गांव
+निवासी
+जालसाज
+से
+जनपद
+के
+विभिन्न
+गांवों
+के
+बेरोजगारों
+से
+मुलाकात
+हुई
+.
 
-बेरोजगारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-विदेश	NN	TEMP	B-MISC	O	O	O
-भिजवा	VM	TEMP	I-MISC	O	B-MISC	O
-देगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-65	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-65	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लिया	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+बेरोजगारों
+को
+वह
+बताया
+कि
+विदेश
+भिजवा
+देगा
+और
+उनसे
+65
+-
+65
+हजार
+रुपये
+लिया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-बीजा	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	B-MISC	OCC
-दे	VM	TEMP	B-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+उन्हें
+दिल्ली
+लेकर
+गया
+और
+बीजा
+व
+टिकट
+दे
+दिया
+.
 
-जब	PRP	TEMP	O	O	O	O
-बेरोजगार	JJ	TEMP	O	O	O	O
-एयरपोर्ट	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बीजा	NN	TEMP	O	O	O	O
-दिखाए	VM	TEMP	B-MISC	O	B-MISC	O
-तो	CC	TEMP	O	O	O	O
-जांच	NN	TEMP	O	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-निकला	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+बेरोजगार
+एयरपोर्ट
+पहुंचे
+और
+टिकट
+व
+बीजा
+दिखाए
+तो
+जांच
+में
+वह
+फर्जी
+निकला
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बेरोजगारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-होश	NN	TEMP	B-MISC	O	B-MISC	OCC
-उड	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+बेरोजगारों
+के
+होश
+उड
+गए
+.
 
-बेरोजगार	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-आ	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-जालसाज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पासपोर्ट	NN	TEMP	O	O	O	O
-मांगने	VM	TEMP	O	O	B-MISC	OCC
-लगे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बेरोजगार
+अपने
+घर
+आ
+गए
+और
+जालसाज
+से
+अपना
+पैसा
+व
+पासपोर्ट
+मांगने
+लगे
+.
 
-अब	PRP	TEMP	O	O	O	O
-जालसाज	NN	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	O
-से	PSP	TEMP	I-MISC	O	I-MISC	O
-मारने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+जालसाज
+उन्हें
+जान
+से
+मारने
+की
+धमकी
+दे
+रहा
+है
+और
+घर
+से
+फरार
+हो
+गया
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बेरोजगार	JJ	TEMP	O	O	O	O
-जावेद	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-साबिर	JJ	TEMP	O	O	O	O
-हुसैन	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-खुर्शेंद	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अमित	JJ	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मुंसफ	NN	TEMP	O	O	O	O
-अंसारी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सद्दाम	JJ	TEMP	O	O	O	O
-हुसैन	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हरेराम	XC	TEMP	O	O	O	O
-भगत	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-समीर	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विनोद	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राजीव	XC	TEMP	O	O	O	O
-मिश्र	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हरिकेश	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मुन्ना	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हंसनाथ	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मुकेश	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-धर्मपाल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-लालजी	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-आदित्य	JJ	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हरिलाल	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अवधेश	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मारकंडेय	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हरिशंकर	RDP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अबरार	XC	TEMP	O	O	O	O
-अंसारी	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-दर्जन	NN	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-अधीक्षक	JJ	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-आपबीती	NN	TEMP	O	O	B-MISC	O
-बताई	VM	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+में
+बेरोजगार
+जावेद
+,
+साबिर
+हुसैन
+,
+खुर्शेंद
+,
+अमित
+कुमार
+,
+मुंसफ
+अंसारी
+,
+सद्दाम
+हुसैन
+,
+विकास
+कुमार
+,
+हरेराम
+भगत
+,
+समीर
+,
+विनोद
+¨
+सह
+,
+राजीव
+मिश्र
+,
+हरिकेश
+¨
+सह
+,
+मुन्ना
+,
+हंसनाथ
+,
+मुकेश
+¨
+सह
+,
+धर्मपाल
+,
+लालजी
+,
+आदित्य
+यादव
+,
+हरिलाल
+यादव
+,
+अवधेश
+,
+मारकंडेय
+¨
+सह
+,
+हरिशंकर
+,
+अबरार
+अंसारी
+समेत
+तीन
+दर्जन
+युवक
+पुलिस
+अधीक्षक
+कार्यालय
+पहुंचे
+और
+आपबीती
+बताई
+.

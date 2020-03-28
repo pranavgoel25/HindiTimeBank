@@ -1,205 +1,205 @@
 
-सीतापुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-ऋण	XC	TEMP	O	O	O	O
-मोचन	XC	TEMP	O	O	O	O
-कार्यक्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-डीएम	NN	TEMP	O	O	B-MISC	O
-डॉ	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सीतापुर
+:
+ऋण
+मोचन
+कार्यक्रम
+में
+डीएम
+डॉ
+.
 
-सारिका	XC	TEMP	O	O	O	O
-मोहन	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-संबोधित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-राज्य	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कृषि	XC	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-आय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दृष्टि	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-प्रमुख	JJ	TEMP	O	O	O	O
-राज्यों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उप्र	NN	TEMP	O	O	O	O
-13	QC	TEMP	O	O	O	O
-वें	PRP	TEMP	O	O	O	O
-स्थान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+सारिका
+मोहन
+ने
+किसानों
+को
+संबोधित
+करते
+हुए
+कहा
+कि
+राज्य
+के
+कृषि
+क्षेत्र
+का
+किसानों
+की
+आय
+की
+दृष्टि
+से
+18
+प्रमुख
+राज्यों
+में
+से
+उप्र
+13
+वें
+स्थान
+पर
+है
+.
 
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मासिक	JJ	TEMP	O	O	O	O
-औसत	JJ	TEMP	O	O	O	O
-आय	NN	TEMP	O	O	O	O
-6,426	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सापेक्ष	JJ	TEMP	O	O	O	O
-प्रदेश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मासिक	JJ	TEMP	O	O	O	O
-औसत	JJ	TEMP	O	O	O	O
-आय	NN	TEMP	O	O	O	O
-4,923	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+कहा
+कि
+देश
+के
+किसानों
+की
+मासिक
+औसत
+आय
+6,426
+रुपये
+के
+सापेक्ष
+प्रदेश
+के
+किसानों
+की
+मासिक
+औसत
+आय
+4,923
+रुपये
+प्रति
+माह
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-सापेक्ष	JJ	TEMP	O	O	O	O
-आय	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-व्यय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तुलनात्मक	JJ	TEMP	O	O	O	O
-दृष्टि	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रदेश	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रति	RP:?	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-आय	NN	TEMP	O	O	O	O
-6,230	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जबकि	CC	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-औसत	JJ	TEMP	O	O	O	O
-मासिक	JJ	TEMP	O	O	O	O
-आय	NN	TEMP	O	O	O	O
-4,923	QC	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-अर्थात	CC	TEMP	O	O	O	O
-प्रत्येक	QF	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-1,307	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-घाटा	VM	TEMP	B-MISC	O	O	O
-सहन	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-जीविकोपार्जन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ऋण	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-निर्भर	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इसके
+सापेक्ष
+आय
+एवं
+व्यय
+के
+तुलनात्मक
+दृष्टि
+से
+प्रदेश
+में
+प्रति
+व्यक्ति
+आय
+6,230
+रुपये
+प्रति
+माह
+है
+,
+जबकि
+किसान
+की
+औसत
+मासिक
+आय
+4,923
+है
+अर्थात
+प्रत्येक
+किसान
+1,307
+रुपये
+हर
+माह
+घाटा
+सहन
+कर
+रहा
+है
+और
+अपने
+जीविकोपार्जन
+के
+लिए
+ऋण
+पर
+निर्भर
+है
+.
 
-डीएम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-लघु	JJ	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-सीमांत	JJ	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-आर्थिक	JJ	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सुधार	NN	TEMP	B-MISC	O	B-MISC	OCC
-लाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-²ष्टि	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-कृषि	XC	TEMP	O	O	O	O
-उत्पादकता	NN	TEMP	O	O	O	O
-बढ़ाने	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जोर	NN	TEMP	O	O	B-MISC	OCC
-दे	VM	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीएम
+ने
+कहा
+कि
+लघु
+एवं
+सीमांत
+किसानों
+की
+आर्थिक
+स्थिति
+में
+सुधार
+लाने
+की
+²ष्टि
+से
+सरकार
+कृषि
+उत्पादकता
+बढ़ाने
+पर
+जोर
+दे
+रही
+है
+.
 
-फसल	NN	TEMP	O	O	O	O
-कटाई	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-हानियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	B-MISC	OCC
-करने	VM	TEMP	O	O	I-MISC	O
-व	CC	TEMP	O	O	O	O
-कृषि	XC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-खाद्य	JJ	TEMP	O	O	O	O
-प्रसंस्करण	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्रोत्साहन	NN	TEMP	B-MISC	O	O	O
-देने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-राहत	NN	TEMP	B-MISC	O	B-MISC	OCC
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-कठिनाइयों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दूर	NST	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फसल
+कटाई
+की
+हानियों
+को
+कम
+करने
+व
+कृषि
+व
+खाद्य
+प्रसंस्करण
+को
+प्रोत्साहन
+देने
+के
+साथ
+ही
+किसानों
+को
+समय
+से
+राहत
+देने
+के
+लिए
+सरकार
+कई
+कठिनाइयों
+को
+दूर
+कर
+रही
+है
+.
 
-जिसके	PRP	TEMP	O	O	O	O
-क्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-राज्य	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-लघु	JJ	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-सीमांत	JJ	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	O	O
-फसली	NN	TEMP	O	O	O	O
-ऋण	NN	TEMP	O	O	O	O
-माफ	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसके
+क्रम
+में
+राज्य
+सरकार
+लघु
+एवं
+सीमांत
+किसानों
+पर
+बकाया
+फसली
+ऋण
+माफ
+कर
+रही
+है
+.

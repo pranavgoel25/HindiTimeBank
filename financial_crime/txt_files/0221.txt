@@ -1,282 +1,282 @@
-‍	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बक्	JJ	TEMP	O	O	O	O
-‍	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रह	VM	TEMP	O	O	B-MISC	OCC
-गया	VAUX	TEMP	O	O	I-MISC	O
-पा	VAUX	TEMP	O	O	I-MISC	O
-कर	VAUX	TEMP	O	O	I-MISC	O
-अजीब	JJ	TEMP	O	O	O	O
-नोटनोटबंदी	NN	TEMP	O	O	O	O
-यानि	CC	TEMP	O	O	O	O
-डिमॉनिटाइजेशन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-पूरा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+‍
+का
+बक्
+‍
+का
+रह
+गया
+पा
+कर
+अजीब
+नोटनोटबंदी
+यानि
+डिमॉनिटाइजेशन
+का
+एक
+साल
+पूरा
+होने
+जा
+रहा
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-ठीक	RB	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जामिया	JJ	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-इलाके	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शादाब	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-शख्	QC	TEMP	O	O	O	O
-‍	NN	TEMP	O	O	O	O
-स	PSP	TEMP	O	O	O	O
-जोर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-झटका	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+ठीक
+एक
+दिन
+पहले
+दिल्ली
+के
+जामिया
+नगर
+इलाके
+में
+शादाब
+चौधरी
+नाम
+के
+एक
+शख्
+‍
+स
+जोर
+का
+झटका
+लगा
+है
+.
 
-शादाब	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाले	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-हाथ	NN	TEMP	O	O	O	O
-2000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-अजीबो	TEMP	INTF	TEMP	O	O	O	O
-गरीब	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-लगा	VM	TEMP	O	O	O	O
-जिसे	PRP	TEMP	O	O	O	O
-देख	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-उनके	PRP	TEMP	O	O	O	O
-होश	NN	TEMP	B-MISC	O	B-MISC	O
-ही	RP	TEMP	I-MISC	O	I-MISC	O
-उड़	VM	TEMP	I-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-क्	XC	TEMP	O	O	O	O
-‍	XC	TEMP	O	O	O	O
-योंकि	NNP	TEMP	O	O	O	O
-मशीन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निकला	VM	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-सिर्फ	RB	TEMP	O	O	O	O
-आधा	JJ	TEMP	O	O	O	O
-था	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बाकी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधे	QF	TEMP	O	O	O	O
-हिस्	NN	TEMP	O	O	O	O
-‍	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जगह	NN	TEMP	O	O	O	O
-सफेद	JJ	TEMP	O	O	O	O
-कागज	NN	TEMP	O	O	B-MISC	O
-लगा	VM	TEMP	O	O	I-MISC	OCC
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शादाब
+ने
+एक
+एटीएम
+से
+10
+हजार
+रुपये
+निकाले
+तो
+उनके
+हाथ
+2000
+रुपये
+का
+नोट
+अजीबो
+गरीब
+नोट
+लगा
+जिसे
+देख
+कर
+उनके
+होश
+ही
+उड़
+गए
+,
+क्
+‍
+योंकि
+मशीन
+से
+निकला
+नोट
+सिर्फ
+आधा
+था
+,
+बाकी
+के
+आधे
+हिस्
+‍
+से
+की
+जगह
+सफेद
+कागज
+लगा
+था
+.
 
-यह	DEM	TEMP	O	O	O	O
-सब	PRP	TEMP	O	O	O	O
-देखकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-शादाब	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-होश	NN	TEMP	B-MISC	O	B-MISC	OCC
-उड़	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+सब
+देखकर
+शादाब
+को
+होश
+उड़
+गए
+.
 
-बौखलाये	VM	TEMP	O	O	O	O
-शादाब	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगे	VM	TEMP	O	O	B-MISC	OCC
-सीसीटीवी	JJ	TEMP	O	O	O	O
-कैमरा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	B-MISC	OCC
-करके	VM	TEMP	O	O	I-MISC	O
-ये	DEM	TEMP	O	O	O	O
-रिकॉर्ड	NN	TEMP	B-MISC	O	B-MISC	O
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-फेक	VM	TEMP	O	O	B-STAT	O
-है	VAUX	TEMP	O	O	I-STAT	O
-,	SYM	TEMP	O	O	O	O
-पर	XC	TEMP	O	O	O	O
-उन्	XC	TEMP	O	O	O	O
-‍	NNP	TEMP	O	O	O	O
-हें	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-पता	JJ	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-कैमरा	NN	TEMP	O	O	B-MISC	OCC
-चालू	VM	TEMP	B-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-या	CC	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+बौखलाये
+शादाब
+ने
+एटीएम
+में
+लगे
+सीसीटीवी
+कैमरा
+की
+ओर
+नोट
+करके
+ये
+रिकॉर्ड
+कराने
+का
+प्रयास
+किया
+कि
+नोट
+फेक
+है
+,
+पर
+उन्
+‍
+हें
+नहीं
+पता
+कि
+कैमरा
+चालू
+था
+या
+नहीं
+.
 
-उन्	XC	TEMP	O	O	O	O
-‍	XC	TEMP	O	O	O	O
-होंने	XC	TEMP	O	O	O	O
-कस्टमर	XC	TEMP	O	O	O	O
-केयर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-सब	QF	TEMP	O	O	O	O
-जगह	NN	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ऐसा	PRP	TEMP	O	O	O	O
-अनोखा	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	B-MISC	O	B-MISC	O
-निकलने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	B-MISC	O
-भी	RP	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करा	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्
+‍
+होंने
+कस्टमर
+केयर
+से
+लेकर
+बैंक
+और
+पुलिस
+तक
+सब
+जगह
+एटीएम
+से
+ऐसा
+अनोखा
+नोट
+निकलने
+की
+शिकायत
+भी
+दर्ज
+करा
+दी
+है
+.
 
-फिलहाल	RB	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-कार्यवाही	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिलहाल
+कोई
+कार्यवाही
+नहीं
+हुई
+है
+.
 
-पहले	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मिले	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-फेक	NN	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-हालाकि	CC	TEMP	O	O	O	O
-हाल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ऐसे	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-सामने	NST	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-आये	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-फौरन	NN	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-नये	JJ	TEMP	O	O	O	O
-नोटों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आने	VM	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-तब	PRP	TEMP	O	O	O	O
-फेक	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-जाली	NN	TEMP	O	O	O	O
-नोटों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-सुनने	VM	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	I-MISC	O	O	O
-आये	VM	TEMP	I-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पहले
+भी
+मिले
+थे
+फेक
+नोट
+हालाकि
+हाल
+के
+कुछ
+समय
+में
+ऐसे
+मामले
+सामने
+नहीं
+आये
+हैं
+पर
+नोटबंदी
+के
+फौरन
+बाद
+जब
+नये
+नोटों
+के
+आने
+की
+घोषणा
+हुई
+थी
+तब
+फेक
+और
+जाली
+नोटों
+के
+कई
+मामले
+सुनने
+में
+आये
+थे
+.
 
-इसी	DEM	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-फरवरी	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दिल्	XC	TEMP	O	O	O	O
-‍	XC	TEMP	O	O	O	O
-ली	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-इलाके	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चिल्ड्रेन	XC	TEMP	O	O	O	O
-बैंक	XC	TEMP	O	O	O	O
-ऑफ	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-प्रिंट	NN	TEMP	O	O	B-MISC	OCC
-किए	VM	TEMP	O	O	I-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-नकली	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	B-MISC	O	B-MISC	O
-निकलने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-ममला	NN	TEMP	O	O	O	O
-सामना	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+साल
+फरवरी
+में
+दिल्
+‍
+ली
+के
+ही
+एक
+इलाके
+में
+एटीएम
+से
+चिल्ड्रेन
+बैंक
+ऑफ
+इंडिया
+प्रिंट
+किए
+हुए
+नकली
+नोट
+निकलने
+का
+ममला
+सामना
+आया
+था
+.
 
-इसी	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-2000	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चूरन	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-निकलने	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-किस्	PRP	TEMP	O	O	O	O
-‍	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सुनाई	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिये	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+तरह
+2000
+और
+500
+के
+चूरन
+वाले
+नोट
+निकलने
+के
+भी
+किस्
+‍
+से
+सुनाई
+दिये
+थे
+.

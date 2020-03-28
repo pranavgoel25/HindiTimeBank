@@ -1,356 +1,356 @@
-﻿सासाराम	NN	TEMP	O	O	O	O
-[	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿सासाराम
+[
+जेएनएन
+]
+.
 
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-नो	PSP	TEMP	O	O	O	O
-इंट्री	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घुस	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-फिर	RB	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-दूसरे	QO	TEMP	O	O	O	O
-चौक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मांगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-थमा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ट्रक
+चालक
+नो
+इंट्री
+में
+घुस
+गया
+और
+उसके
+बाद
+पुलिस
+ने
+पहले
+चौक
+पर
+200
+रुपये
+देने
+को
+कहा
+फिर
+जब
+दूसरे
+चौक
+पर
+पुलिस
+ने
+500
+रुपये
+मांगे
+तो
+ट्रक
+चालक
+ने
+50
+रुपये
+थमा
+दिए
+.
 
-जिसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-गुस्से	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लाठियां	NN	TEMP	B-MISC	O	O	O
-बरसानी	JJ	TEMP	I-MISC	O	O	O
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसके
+बाद
+गुस्से
+में
+पुलिस
+वाले
+ने
+ट्रक
+चालक
+पर
+लाठियां
+बरसानी
+शुरू
+कर
+दी
+.
 
-लाठी	JJ	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हाथ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगने	VM	TEMP	B-MISC	O	O	O
-से	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-दर्द	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-छटपटाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-नीचे	NST	TEMP	B-MISC	O	B-MISC	O
-गिर	VM	TEMP	I-MISC	O	I-MISC	OCC
-पड़ा	XC	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लाठी
+ट्रक
+चालक
+के
+हाथ
+में
+लगने
+से
+वह
+दर्द
+से
+छटपटाने
+लगा
+और
+नीचे
+गिर
+पड़ा
+.
 
-उसे	PRP	TEMP	O	O	O	O
-देखते	VM	TEMP	B-MISC	O	B-MISC	OCC
-ही	RP	TEMP	O	O	O	O
-आसपास	NST	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-दौड़कर	NNP	TEMP	B-MISC	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-नारेबाजी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-लगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुराने	JJ	TEMP	O	O	O	O
-जीटी	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जाम	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसे
+देखते
+ही
+आसपास
+के
+ट्रक
+चालक
+दौड़कर
+पहुंचे
+और
+पुलिस
+की
+इस
+कार्रवाई
+के
+खिलाफ
+नारेबाजी
+करने
+लगे
+और
+शहर
+के
+पुराने
+जीटी
+रोड
+को
+जाम
+कर
+दिया
+.
 
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
+जानकारी
+के
+मुताबिक
 
-बुधवार	NN	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	B	O	O
-करीब	RB	TEMP	O	O	O	O
-आठ	QC	TEMP	O	O	O	O
-बजे	VM	TEMP	O	O	B-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-जिला	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-अरुण	XC	TEMP	O	O	O	O
-पटना	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	B-MISC	O
-लेकर	VM	TEMP	O	O	I-MISC	O
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रवेश	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुधवार
+की
+सुबह
+करीब
+आठ
+बजे
+गया
+जिला
+निवासी
+ट्रक
+चालक
+अरुण
+पटना
+की
+ओर
+से
+ट्रक
+लेकर
+शहर
+में
+प्रवेश
+कर
+गया
+.
 
-शहर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पोस्टऑफिस	NN	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	O	DES
-पुलिस	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नो-इंट्री	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मांगे	VM	TEMP	B-MISC	O	B-MISC	OCC
+शहर
+के
+पोस्टऑफिस
+चौक
+पर
+तैनात
+पुलिस
+वाले
+ने
+शहर
+में
+नो-इंट्री
+के
+नाम
+200
+रुपये
+मांगे
 
-जो	PRP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जो
+उसने
+दे
+दिया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-सीधे	JJ	TEMP	O	O	O	O
-गांधी	XC	TEMP	O	O	O	O
-स्मारक	XC	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-पहुंचा	VM	TEMP	B-MISC	O	O	O
+इसके
+बाद
+वह
+ट्रक
+लेकर
+सीधे
+गांधी
+स्मारक
+चौक
+पहुंचा
 
-जहां	PRP	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नो-इंट्री	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जहां
+तैनात
+पुलिस
+कर्मी
+ने
+नो-इंट्री
+के
+नाम
+पर
+फिर
+उससे
+500
+रुपये
+की
+मांग
+की
+.
 
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-अरुण	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-गांधी	NNP	TEMP	O	O	O	O
-स्मारक	XC	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पेशकश	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ट्रक
+चालक
+अरुण
+ने
+बताया
+कि
+उसने
+गांधी
+स्मारक
+चौक
+पर
+तैनात
+पुलिस
+कर्मी
+को
+50
+रुपये
+की
+पेशकश
+की
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-कर्मी	XC	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-देखते	VM	TEMP	B-MISC	O	B-MISC	O
-ही	RP	TEMP	O	O	O	O
-आग-बबूला	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-लाठी	JJ	TEMP	B-MISC	O	O	O
-बरसाना	NN	TEMP	I-MISC	O	O	O
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+कर्मी
+50
+रुपये
+का
+नोट
+देखते
+ही
+आग-बबूला
+हो
+गया
+और
+लाठी
+बरसाना
+शुरू
+कर
+दिया
+.
 
-चालक	NN	TEMP	O	O	O	O
-अरुण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हाथ	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लाठी	NN	TEMP	B-MISC	O	B-MISC	O
-लगने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-असहनीय	JJ	TEMP	O	O	B-MISC	OCC
-पीड़ा	NN	TEMP	B-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	OCC
-लगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चालक
+अरुण
+के
+हाथ
+पर
+लाठी
+लगने
+से
+उसे
+असहनीय
+पीड़ा
+होने
+लगी
+.
 
-वह	PRP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उतर	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-वहीं	PRP	TEMP	O	O	O	O
-सड़क	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैठ	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वह
+ट्रक
+से
+उतर
+कर
+वहीं
+सड़क
+पर
+बैठ
+गया
+.
 
-सड़क	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैठा	VM	TEMP	B-MISC	O	B-MISC	DES
-देख	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-आसपास	NST	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गये	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सड़क
+पर
+बैठा
+देख
+कर
+आसपास
+के
+लोग
+भी
+जमा
+हो
+गये
+.
 
-वहां	PRP	TEMP	O	O	O	O
-आसपास	NST	TEMP	O	O	O	O
-खड़े	JJ	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-अरुण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पक्ष	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खड़े	JJ	TEMP	B-MISC	O	B-MISC	O
-होकर	VM	TEMP	I-MISC	O	I-MISC	O
-पुलिसिया	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरोध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नारेबाजी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-लगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहां
+आसपास
+खड़े
+ट्रक
+चालक
+भी
+मौके
+पर
+पहुंचे
+और
+ट्रक
+चालक
+अरुण
+के
+पक्ष
+में
+खड़े
+होकर
+पुलिसिया
+कार्रवाई
+के
+विरोध
+में
+नारेबाजी
+करने
+लगे
+.
 
-देखते	VM	TEMP	B-MISC	O	O	O
-ही	RP	TEMP	I-MISC	O	O	O
-देखते	VM	TEMP	I-MISC	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-चालकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुराने	JJ	TEMP	O	O	O	O
-जीटी	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जाम	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देखते
+ही
+देखते
+ट्रक
+चालकों
+ने
+पुराने
+जीटी
+रोड
+को
+जाम
+कर
+दिया
+.
 
-सड़क	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जाम	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-स्कूल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-बसें	NN	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-स्कूल	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-पहुंच	VM	TEMP	I-MISC	O	I-MISC	O
-सकीं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सड़क
+पर
+जाम
+लगने
+से
+स्कूल
+की
+कई
+बसें
+समय
+से
+स्कूल
+नहीं
+पहुंच
+सकीं
+.
 
-बसों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बसों
+को
+वापस
+कर
+दिया
+गया
+.
 
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	B	O	O
-डेढ़	NNP	TEMP	O	I	O	O
-घंटे	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंची	VM	TEMP	B-MISC	O	B-STAT	OCC
-.	SYM	TEMP	O	O	O	O
+घटना
+के
+करीब
+डेढ़
+घंटे
+बाद
+पुलिस
+मौके
+पर
+पहुंची
+.

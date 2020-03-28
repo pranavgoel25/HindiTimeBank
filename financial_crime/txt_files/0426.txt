@@ -1,148 +1,148 @@
 
-कैमूर	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+कैमूर
+.
 
-बिहार	NNP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कैबिनेट	NN	TEMP	O	O	O	O
-मंत्री	XC	TEMP	O	O	O	O
-बृज	XC	TEMP	O	O	O	O
-किशोर	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-बद	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भगवानपुर	NN	TEMP	O	O	O	O
-चतुर्भुजी	JJ	TEMP	O	O	O	O
-चौक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-कुएं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मरम्मती	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-शेड	JJ	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ग्यारह	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	O	O	B-MISC	O
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिहार
+सरकार
+के
+कैबिनेट
+मंत्री
+बृज
+किशोर
+¨
+बद
+ने
+भगवानपुर
+चतुर्भुजी
+चौक
+के
+पास
+स्थित
+कुएं
+की
+मरम्मती
+व
+शेड
+निर्माण
+के
+लिए
+अपने
+मद
+से
+ग्यारह
+लाख
+रुपये
+देने
+की
+घोषणा
+की
+.
 
-भगवानपुर	NNP	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आमजनों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिलने	VM	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-क्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-घोषणा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+भगवानपुर
+बाजार
+में
+आमजनों
+से
+मिलने
+के
+क्रम
+में
+उन्होंने
+यह
+घोषणा
+की
+.
 
-मंत्री	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-खुशी	NN	TEMP	O	O	B-MISC	OCC
-बढ़	NNP	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंत्री
+द्वारा
+रुपये
+देने
+की
+घोषणा
+के
+बाद
+बाजार
+के
+लोगों
+में
+काफी
+खुशी
+बढ़
+गई
+.
 
-खुशी	NN	TEMP	O	O	O	O
-जाहिर	JJ	TEMP	O	O	O	O
-करने	VM	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-राजकुमार	NN	TEMP	O	O	O	O
-चौबे	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राधे	XC	TEMP	O	O	O	O
-पासवान	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दिनकर	VM	TEMP	O	O	O	O
-पांडेय	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मधु	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राजनाथ	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मनोज	XC	TEMP	O	O	O	O
-कश्यप	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-लाला	NN	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गुड्डू	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सुनील	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
-सहित	JJ	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-व्यवसायी	NN	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	B-STAT	DECL
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+खुशी
+जाहिर
+करने
+वालों
+में
+राजकुमार
+चौबे
+,
+राधे
+पासवान
+,
+दिनकर
+पांडेय
+,
+मधु
+¨
+सह
+,
+राजनाथ
+,
+मनोज
+कश्यप
+,
+लाला
+अग्रवाल
+,
+गुड्डू
+पांडेय
+,
+सुनील
+कुमार
+अग्रवाल
+सहित
+कई
+व्यवसायी
+शामिल
+हैं
+.
 
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	B-STAT	DES
-गई	VAUX	TEMP	O	O	I-STAT	O
-राशि	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कुएं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ढ़लाई	XC	TEMP	O	O	O	O
-मरम्मती	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-शेड	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-आसपास	NST	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-सुविधा	NN	TEMP	O	O	O	O
-बढ़	NN	TEMP	O	O	B-MISC	O
-मिलेगी	VM	TEMP	O	O	I-MISC	O
-व	CC	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सुंदरता	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बढ़	NNP	TEMP	B-MISC	O	B-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
+लोगों
+ने
+बताया
+कि
+मंत्री
+द्वारा
+दी
+गई
+राशि
+से
+कुएं
+की
+ढ़लाई
+मरम्मती
+व
+शेड
+का
+निर्माण
+हो
+जाने
+से
+आसपास
+के
+लोगों
+को
+काफी
+सुविधा
+बढ़
+मिलेगी
+व
+चौक
+की
+सुंदरता
+भी
+बढ़
+जाएगी

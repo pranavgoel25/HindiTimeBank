@@ -1,256 +1,256 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-औरैया	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-बकाएदारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तिलक	NN	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विशेष	JJ	TEMP	O	O	O	O
-चे	XC	TEMP	B-MISC	O	B-MISC	OCC
-¨	XC	TEMP	I-MISC	O	I-MISC	O
-कग	XC	TEMP	I-MISC	O	I-MISC	O
-अभियान	NN	TEMP	I-MISC	O	I-MISC	O
-चलाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+औरैया
+:
+50
+हजार
+से
+अधिक
+बडे
+बकाएदारों
+के
+खिलाफ
+शुक्रवार
+को
+तिलक
+नगर
+में
+विशेष
+चे
+¨
+कग
+अभियान
+चलाया
+गया
+.
 
-अभियान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दूसरे	QO	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	B-MISC	O	B-MISC	O
-काटने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-बकाया	VM	TEMP	B-MISC	O	O	O
-वसूली	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभियान
+के
+दूसरे
+दिन
+बडी
+संख्या
+में
+कनेक्शन
+काटने
+के
+साथ
+बकाया
+वसूली
+की
+गई
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगे	VM	TEMP	O	O	O	O
-पुराने	JJ	TEMP	O	O	B-MISC	OCC
-मीटर	NN	TEMP	O	O	I-MISC	O
-हटाकर	VM	TEMP	O	O	I-MISC	O
-नए	JJ	TEMP	O	O	B-MISC	O
-लगाए	VM	TEMP	O	O	I-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+उपभोक्ताओं
+के
+घरों
+में
+लगे
+पुराने
+मीटर
+हटाकर
+नए
+लगाए
+गए
+.
 
-कुछ	QF	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-टेम्पर्ड	JJ	TEMP	O	O	B-MISC	OCC
-मीटर	NN	TEMP	O	O	I-MISC	O
-पाए	VM	TEMP	B-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+उपभोक्ताओं
+के
+यहां
+टेम्पर्ड
+मीटर
+पाए
+गए
+.
 
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जांच
+के
+बाद
+उनके
+खिलाफ
+कार्रवाई
+की
+जाएगी
+.
 
-गुरुवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-अधीक्षण	XC	TEMP	O	O	O	O
-अभियंता	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मौजूदगी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विशेष	JJ	TEMP	O	O	O	O
-चे	XC	TEMP	B-MISC	O	B-MISC	OCC
-¨	XC	TEMP	I-MISC	O	I-MISC	O
-कग	XC	TEMP	I-MISC	O	I-MISC	O
-अभियान	NN	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-शुरुआत	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	B-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गुरुवार
+को
+अधीक्षण
+अभियंता
+की
+मौजूदगी
+में
+विशेष
+चे
+¨
+कग
+अभियान
+की
+शुरुआत
+की
+गई
+थी
+.
 
-यह	PRP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-दिवसीय	JJ	TEMP	O	O	O	O
-अभियान	NN	TEMP	O	O	O	O
-27	QC	TEMP	O	O	O	O
-अगस्त	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-रहेगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+चार
+दिवसीय
+अभियान
+27
+अगस्त
+तक
+जारी
+रहेगा
+.
 
-अभियान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दूसरे	QO	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-तिलक	NN	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-मोहल्ले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चे	XC	TEMP	B-MISC	O	B-MISC	OCC
-¨	NNP	TEMP	I-MISC	O	I-MISC	O
-कग	NN	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभियान
+के
+दूसरे
+दिन
+तिलक
+नगर
+मोहल्ले
+में
+चे
+¨
+कग
+की
+गई
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-75	QC	TEMP	O	O	O	O
-बकाएदारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	O	O
-काट	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+75
+बकाएदारों
+के
+कनेक्शन
+काट
+दिए
+गए
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-सात	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	O	O
-राजस्व	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वसूली	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+सात
+लाख
+रुपये
+बकाया
+राजस्व
+की
+वसूली
+की
+गई
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	OCC
-में	PSP	TEMP	O	O	O	O
-लगे	VAUX	TEMP	O	O	O	O
-101	QC	TEMP	O	O	O	O
-पुराने	JJ	TEMP	O	O	B-MISC	O
-मीटर	NN	TEMP	O	O	I-MISC	O
-हटाकर	VM	TEMP	B-MISC	O	I-MISC	O
-उनकी	PRP	TEMP	O	O	O	O
-जगह	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नए	JJ	TEMP	O	O	B-MISC	OCC
-मीटर	NN	TEMP	O	O	I-MISC	O
-लगाए	VM	TEMP	O	O	I-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+उपभोक्ताओं
+के
+घरों
+में
+लगे
+101
+पुराने
+मीटर
+हटाकर
+उनकी
+जगह
+पर
+नए
+मीटर
+लगाए
+गए
+.
 
-चार	QC	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-मीटर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-छेडछाड	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-प्रकाश	NN	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	I-MISC	O
-आया	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चार
+उपभोक्ताओं
+के
+यहां
+मीटर
+से
+छेडछाड
+का
+मामला
+प्रकाश
+में
+आया
+.
 
-मीटर	RDP	TEMP	O	O	O	O
-टेम्पर्ड	NN	TEMP	O	O	B-MISC	O
-पाए	VM	TEMP	B-MISC	O	I-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-सील	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-टेस्ट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मीटर
+टेम्पर्ड
+पाए
+जाने
+पर
+उन्हें
+सील
+कर
+टेस्ट
+के
+लिए
+भेज
+दिया
+गया
+है
+.
 
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-यदि	CC	TEMP	O	O	O	O
-विद्युत	XC	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	O	O
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-सामने	NST	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-कडी	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जांच
+में
+यदि
+विद्युत
+चोरी
+का
+मामला
+सामने
+आया
+तो
+इन
+उपभोक्ताओं
+के
+खिलाफ
+कडी
+कार्रवाई
+की
+जाएगी
+.
 
-अभियान	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-अधीक्षण	XC	TEMP	O	O	O	O
-अभियंता	NNP	TEMP	O	O	O	O
-अजय	XC	TEMP	O	O	O	O
-कपूर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अधिशासी	XC	TEMP	O	O	O	O
-अभियंता	NNP	TEMP	O	O	O	O
-पीराम	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एसडीओ	XC	TEMP	O	O	O	O
-जितेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-राजपूत	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अजीतमल	JJ	TEMP	O	O	O	O
-एसडीओ	XC	TEMP	O	O	O	O
-वीके	XC	TEMP	O	O	O	O
-शुक्ल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जेई	XC	TEMP	O	O	O	O
-शशिकांत	XC	TEMP	O	O	O	O
-मौर्या	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-अजीतमल	JJ	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-औरैया	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-अवर	XC	TEMP	O	O	O	O
-अभियंता	NNP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	O
-रहे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+अभियान
+के
+दौरान
+अधीक्षण
+अभियंता
+अजय
+कपूर
+,
+अधिशासी
+अभियंता
+पीराम
+,
+एसडीओ
+जितेंद्र
+कुमार
+राजपूत
+,
+अजीतमल
+एसडीओ
+वीके
+शुक्ल
+,
+जेई
+शशिकांत
+मौर्या
+सहित
+अजीतमल
+व
+औरैया
+के
+सभी
+अवर
+अभियंता
+मौजूद
+रहे
+.

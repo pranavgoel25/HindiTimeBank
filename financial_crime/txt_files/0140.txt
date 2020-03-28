@@ -1,95 +1,95 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-जमशेदपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-आरपीएफ	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-प्रभारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नेतृत्व	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-टाटानगर	JJ	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रेल	XC	TEMP	O	O	O	O
-अधिनियम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-अभियान	NN	TEMP	B-MISC	O	O	OCC
-चलाया	VM	TEMP	I-MISC	O	B-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
+जमशेदपुर
+:
+आरपीएफ
+थाना
+प्रभारी
+के
+नेतृत्व
+में
+टाटानगर
+स्टेशन
+में
+रेल
+अधिनियम
+के
+तहत
+गुरुवार
+को
+अभियान
+चलाया
+गया
 
-जिसमें	PRP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-अधिनियम	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-उल्लंघन	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गिरफ्तार	VM	TEMP	B-MISC	O	B-MISC	OCC
-किए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसमें
+20
+लोग
+रेलवे
+अधिनियम
+का
+उल्लंघन
+करते
+हुए
+गिरफ्तार
+किए
+गए
+.
 
-उनसे	PRP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	O	O	B-MISC	OCC
-वसूला	VAUX	TEMP	B-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनसे
+करीब
+चार
+हजार
+रुपये
+जुर्माना
+वसूला
+गया
+.
 
-जीएम	NN	TEMP	O	O	O	O
-19	QC	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गुजरेंगे	VM	TEMP	O	O	O	OCC
-टाटानगर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+जीएम
+19
+को
+गुजरेंगे
+टाटानगर
+से
+जागरण
+संवाददाता
 
-जमशेदपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-जीएम	XC	TEMP	O	O	O	O
-एसएन	XC	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
-19	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-टाटानगर	JJ	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-स्पेशल	JJ	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-गुजरेंगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जमशेदपुर
+:
+जीएम
+एसएन
+अग्रवाल
+19
+नवंबर
+को
+टाटानगर
+स्टेशन
+से
+अपनी
+स्पेशल
+ट्रेन
+से
+गुजरेंगे
+.
 
-वे	PRP	TEMP	O	O	O	O
-झाडसुगडा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-होने	VM	TEMP	O	O	B-STAT	DES
-वाले	PSP	TEMP	O	O	I-STAT	O
-कार्यक्रम	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिरकत	NN	TEMP	B-MISC	O	B-MISC	OCC
-करेंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वे
+झाडसुगडा
+में
+होने
+वाले
+कार्यक्रम
+में
+शिरकत
+करेंगे
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-20	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-पुन	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-लौट	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+20
+नवंबर
+को
+पुन
+:
+लौट
+जाएंगे
+.

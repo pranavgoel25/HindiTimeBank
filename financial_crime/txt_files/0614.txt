@@ -1,357 +1,357 @@
 
-अमरोहा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-शिक्षामित्रों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आंगनबाडी	JJ	TEMP	O	O	O	O
-कार्यकर्ताओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मानदेय	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अमरोहा
+:
+शिक्षामित्रों
+की
+तरह
+से
+आंगनबाडी
+कार्यकर्ताओं
+ने
+भी
+सरकार
+से
+कम
+से
+कम
+18
+हजार
+रुपये
+मानदेय
+किए
+जाने
+की
+मांग
+की
+है
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दिये	VM	TEMP	O	O	O	O
-जानी	VAUX	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-सुविधाएं	NN	TEMP	B-MISC	O	O	OCC
-दिए	VM	TEMP	I-MISC	O	B-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+सरकारी
+कर्मचारी
+को
+दिये
+जानी
+वाली
+सभी
+सुविधाएं
+दिए
+जाने
+की
+मांग
+की
+है
+.
 
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आक्रोशित	JJ	TEMP	O	O	O	O
-आंगनबाडी	NN	TEMP	O	O	O	O
-कार्यकर्ताओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-संबोधित	JJ	TEMP	O	O	O	O
-ज्ञापन	NN	TEMP	O	O	O	O
-डिप्टी	XC	TEMP	O	O	O	O
-कलेक्टर	XC	TEMP	O	O	O	O
-अशोक	XC	TEMP	O	O	O	O
-मौर्य	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सौंपा	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+बाद
+में
+आक्रोशित
+आंगनबाडी
+कार्यकर्ताओं
+ने
+मुख्यमंत्री
+को
+संबोधित
+ज्ञापन
+डिप्टी
+कलेक्टर
+अशोक
+मौर्य
+को
+सौंपा
+.
 
-पूर्व	NST	TEMP	O	O	O	O
-घोषित	JJ	TEMP	O	O	O	O
-योगी	NN	TEMP	O	O	O	O
-सरकार	JJ	TEMP	O	O	O	O
-वादा	NN	TEMP	B-MISC	O	O	O
-निभाओ	VM	TEMP	I-MISC	O	O	O
-कार्यक्रम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंतर्गत	PSP:?	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-आंगनबाडी	JJ	TEMP	O	O	O	O
-कार्यकर्ता	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-सहायिका	NN	TEMP	O	O	O	O
-वेलफेयर	XC	TEMP	O	O	O	O
-एसोसिएशन	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बैनर	NN	TEMP	O	O	O	O
-तले	NN	TEMP	O	O	O	O
-आंगनबाडी	JJ	TEMP	O	O	O	O
-कार्यकर्ताओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-मुख्यालय	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-धरना	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पूर्व
+घोषित
+योगी
+सरकार
+वादा
+निभाओ
+कार्यक्रम
+के
+अंतर्गत
+सोमवार
+को
+आंगनबाडी
+कार्यकर्ता
+एवं
+सहायिका
+वेलफेयर
+एसोसिएशन
+के
+बैनर
+तले
+आंगनबाडी
+कार्यकर्ताओं
+ने
+जिला
+मुख्यालय
+पर
+धरना
+दिया
+.
 
-वक्ताओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-मुख्यमंत्री	JJ	TEMP	O	O	O	O
-योगी	NN	TEMP	O	O	O	O
-आदित्यनाथ	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-जिम्मेदार	JJ	TEMP	O	O	O	O
-पदों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैठे	VM	TEMP	O	O	B-STAT	O
-मंत्रियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-विधानसभा	JJ	TEMP	O	O	O	O
-चुनाव	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-आंगनबाडी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांगें	NN	TEMP	O	O	O	O
-पूरी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-वादा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वक्ताओं
+ने
+कहा
+मुख्यमंत्री
+योगी
+आदित्यनाथ
+एवं
+जिम्मेदार
+पदों
+पर
+बैठे
+मंत्रियों
+ने
+विधानसभा
+चुनाव
+से
+पूर्व
+आंगनबाडी
+की
+मांगें
+पूरी
+करने
+का
+वादा
+किया
+था
+.
 
-आंगनबाडी	JJ	TEMP	O	O	O	O
-कार्यकर्ताओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-घोषित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-घोषित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-तक	RP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मानदेय	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिये	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आंगनबाडी
+कार्यकर्ताओं
+को
+सरकारी
+कर्मचारी
+घोषित
+किया
+जाए
+और
+सरकारी
+कर्मचारी
+घोषित
+किए
+जाने
+तक
+कम
+से
+कम
+18
+हजार
+रुपये
+मानदेय
+दिये
+जाने
+की
+मांग
+की
+.
 
-इसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-पंचायतों	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-एनजीओ	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हस्तक्षेप	NN	TEMP	B-MISC	O	O	O
-रोकने	VM	TEMP	I-MISC	O	O	O
-,	SYM	TEMP	O	O	O	O
-रिक्त	JJ	TEMP	O	O	O	O
-पदों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अविलंब	JJ	TEMP	O	O	O	O
-भर्ती	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-आंगनबाडी	JJ	TEMP	O	O	O	O
-कार्यकर्ताओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मुख्य	JJ	TEMP	O	O	O	O
-सेविका	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पदों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पदोन्नत	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+साथ
+ही
+पंचायतों
+एवं
+एनजीओ
+के
+हस्तक्षेप
+रोकने
+,
+रिक्त
+पदों
+पर
+अविलंब
+भर्ती
+करने
+,
+आंगनबाडी
+कार्यकर्ताओं
+को
+मुख्य
+सेविका
+के
+पदों
+पर
+पदोन्नत
+किया
+जाए
+.
 
-सहायिकाओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-आंगनबाडी	JJ	TEMP	O	O	O	O
-कार्यकर्ता	NN	TEMP	B-MISC	O	O	O
-बनाया	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सहायिकाओं
+को
+भी
+आंगनबाडी
+कार्यकर्ता
+बनाया
+जाए
+.
 
-परिषदीय	JJ	TEMP	O	O	O	O
-स्कूलों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-गर्मी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सर्दियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-छुट्टी	NN	TEMP	O	O	O	O
-घोषित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परिषदीय
+स्कूलों
+की
+तरह
+से
+गर्मी
+व
+सर्दियों
+की
+छुट्टी
+घोषित
+किए
+जाने
+की
+मांग
+की
+.
 
-वक्ताओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चेताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-यदि	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-मांगों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गंभीरता	NN	TEMP	O	O	O	O
-पूर्वक	RB	TEMP	O	O	O	O
-विचार	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-उनकी	PRP	TEMP	O	O	O	O
-समस्याओं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निराकरण	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-27	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-लखनऊ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आयोजित	JJ	TEMP	O	O	O	O
-योगी	NN	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-वादा	NN	TEMP	O	O	O	O
-निभाओ	VM	TEMP	O	O	O	O
-रैली	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रदेश	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-वादा	NN	TEMP	O	O	O	O
-याद	NN	TEMP	O	O	B-MISC	OCC
-दिलाएंगे	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वक्ताओं
+ने
+चेताया
+कि
+यदि
+सरकार
+ने
+उनकी
+मांगों
+पर
+गंभीरता
+पूर्वक
+विचार
+करते
+हुए
+उनकी
+समस्याओं
+का
+निराकरण
+नहीं
+किया
+तो
+वह
+27
+अक्टूबर
+को
+लखनऊ
+में
+आयोजित
+योगी
+सरकार
+वादा
+निभाओ
+रैली
+के
+माध्यम
+से
+प्रदेश
+सरकार
+को
+उसका
+वादा
+याद
+दिलाएंगे
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-9	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-11	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-ट्रेड	XC	TEMP	O	O	O	O
-यूनियनों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-संयुक्त	JJ	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संसद	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-घेराव	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+9
+,
+10
+व
+11
+नवंबर
+को
+सभी
+ट्रेड
+यूनियनों
+का
+संयुक्त
+रूप
+से
+संसद
+का
+घेराव
+किया
+जाएगा
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-जिलाध्यक्ष	JJ	TEMP	O	O	O	O
-सत्यबाला	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सचिव	XC	TEMP	O	O	O	O
-माया	XC	TEMP	O	O	O	O
-चौहान	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-भाकियू	XC	TEMP	O	O	O	O
-भानू	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रांतीय	JJ	TEMP	O	O	O	O
-महासचिव	NN	TEMP	O	O	O	O
-चौ	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+जिलाध्यक्ष
+सत्यबाला
+चौधरी
+,
+सचिव
+माया
+चौहान
+,
+भाकियू
+भानू
+के
+प्रांतीय
+महासचिव
+चौ
+.
 
-दिवाकर	VM	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-हरकिशोर	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-प्रमुख	JJ	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-विचार	NN	TEMP	O	O	O	O
-व्यक्त	JJ	TEMP	O	O	B-MISC	OCC
-किए	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिवाकर
+¨
+सह
+व
+हरकिशोर
+¨
+सह
+ने
+प्रमुख
+रूप
+से
+विचार
+व्यक्त
+किए
+.
 
-जबकि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-आशा	NN	TEMP	O	O	O	O
-रानी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कल्पना	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-चंपा	XC	TEMP	O	O	O	O
-रानी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शहाना	XC	TEMP	O	O	O	O
-बी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कौशल्या	NN	TEMP	O	O	O	O
-गौतम	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सुनीता	NN	TEMP	O	O	O	O
-जैकब	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शारदा	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-माया	XC	TEMP	O	O	O	O
-चौहान	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जेबा	XC	TEMP	O	O	O	O
-खान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-फरजाना	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सुषमा	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शीतल	NN	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-जिलेभर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आयीं	VM	TEMP	O	O	B-MISC	OCC
-आंगनबाडी	JJ	TEMP	O	O	O	O
-कार्यकर्ता	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सहायिकाएं	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	B-MISC	O	B-STAT	O
-रहीं	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+इस
+दौरान
+आशा
+रानी
+,
+कल्पना
+शर्मा
+,
+चंपा
+रानी
+,
+शहाना
+बी
+,
+कौशल्या
+गौतम
+,
+सुनीता
+जैकब
+,
+शारदा
+,
+माया
+चौहान
+,
+जेबा
+खान
+,
+फरजाना
+,
+सुषमा
+,
+शीतल
+यादव
+समेत
+जिलेभर
+से
+आयीं
+आंगनबाडी
+कार्यकर्ता
+व
+सहायिकाएं
+मौजूद
+रहीं
+.

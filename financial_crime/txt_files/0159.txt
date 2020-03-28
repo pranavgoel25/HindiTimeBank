@@ -1,258 +1,258 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-ब्यूरो	VM	TEMP	O	O	O	O
+﻿जागरण
+ब्यूरो
 
-नई	JJ	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+नई
+दिल्ली
+.
 
-आतंकियों	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-नक्सलियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-मुठभेड़	NNP	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-मारे	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-अ	SYM	TEMP	O	O	O	O
-‌	NN	TEMP	O	O	O	O
-र्द्धसैनिक	JJ	TEMP	O	O	O	O
-बलों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वीर	JJ	TEMP	O	O	O	O
-जवानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-दिल	NN	TEMP	O	O	O	O
-खोलकर	VM	TEMP	O	O	O	O
-सहायता	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आतंकियों
+और
+नक्सलियों
+के
+साथ
+मुठभेड़
+में
+मारे
+गए
+अ
+‌
+र्द्धसैनिक
+बलों
+के
+वीर
+जवानों
+के
+परिवार
+को
+लोग
+दिल
+खोलकर
+सहायता
+कर
+रहे
+हैं
+.
 
-छह	QC	TEMP	O	B	O	O
-महीने	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-शहीद	NN	TEMP	O	O	O	O
-जवानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-26	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	B-MISC	OCC
-दे	VM	TEMP	B-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+छह
+महीने
+में
+शहीद
+जवानों
+के
+परिवार
+के
+लिए
+लगभग
+26
+करोड़
+रुपये
+की
+सहायता
+दे
+चुके
+हैं
+.
 
-गृहमंत्रालय	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अ	SYM	TEMP	O	O	O	O
-‌	QC	TEMP	O	O	O	O
-र्द्धसैनिक	JJ	TEMP	O	O	O	O
-बलों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शहीद	XC	TEMP	O	O	O	O
-जवानों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सुविधा	NN	TEMP	O	O	O	O
-आम	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मुहैया	JJ	TEMP	B-MISC	O	B-MISC	O
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वीर	XC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पोर्टल	JJ	TEMP	O	O	O	O
-शुरु	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गृहमंत्रालय
+ने
+अ
+‌
+र्द्धसैनिक
+बलों
+के
+शहीद
+जवानों
+की
+सहायता
+की
+सुविधा
+आम
+लोगों
+को
+मुहैया
+कराने
+के
+लिए
+'
+भारत
+के
+वीर
+'
+नाम
+से
+पोर्टल
+शुरु
+किया
+था
+.
 
-गृहमंत्रालय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-वरिष्ठ	JJ	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वीर	XC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-पोर्टल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-बड़ी	JJ	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-योगदान	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गृहमंत्रालय
+के
+एक
+वरिष्ठ
+अधिकारी
+ने
+कहा
+कि
+'
+भारत
+के
+वीर
+'
+पोर्टल
+में
+लोग
+बड़ी
+संख्या
+में
+योगदान
+कर
+रहे
+हैं
+.
 
-इनमें	PRP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-सीधे	JJ	TEMP	O	O	O	O
-शहीद	XC	TEMP	O	O	O	O
-जवान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-देते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इनमें
+कुछ
+लोग
+सीधे
+शहीद
+जवान
+के
+परिवार
+के
+खाते
+में
+सहायता
+राशि
+दे
+देते
+हैं
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वीर	JJ	TEMP	O	O	O	O
-फंड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	O
-का	PSP	TEMP	O	O	O	O
-विकल्प	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+उन्हें
+भारत
+के
+वीर
+फंड
+में
+भी
+सहायता
+राशि
+देने
+का
+विकल्प
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अप्रैल	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-कुल	QF	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-पोर्टल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-82	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-888	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-सिलसिला	NN	TEMP	B-MISC	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-STAT	DECL
-है	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+अप्रैल
+से
+अभी
+तक
+कुल
+इस
+पोर्टल
+के
+माध्यम
+से
+लोगों
+ने
+25
+करोड़
+82
+लाख
+18
+हजार
+888
+रुपये
+की
+सहायता
+कर
+चुके
+हैं
+और
+अभी
+यह
+सिलसिला
+जारी
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-फंड	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हजारों	QC	TEMP	O	O	O	O
-शहीद	XC	TEMP	O	O	O	O
-जवान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अच्छी	JJ	TEMP	O	O	O	O
-पढ़ाई	XC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-पा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+फंड
+की
+सहायता
+से
+हजारों
+शहीद
+जवान
+के
+बच्चों
+को
+अच्छी
+पढ़ाई
+की
+उपलब्ध
+हो
+पा
+रही
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-फंड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-केवल	RP	TEMP	O	O	O	O
-अ	SYM	TEMP	O	O	O	O
-‌	NN	TEMP	O	O	O	O
-र्द्धसैनिक	JJ	TEMP	O	O	O	O
-बल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शहीद	XC	TEMP	O	O	O	O
-जवानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-मुहैया	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+फंड
+से
+केवल
+अ
+‌
+र्द्धसैनिक
+बल
+के
+शहीद
+जवानों
+को
+सहायता
+मुहैया
+कराई
+जाती
+है
+.
 
-जिनमें	PRP	TEMP	O	O	O	O
-बीएसएफ	NN	TEMP	O	O	O	O
+जिनमें
+बीएसएफ
 
-सीआरपीएफ	NN	TEMP	O	O	O	O
+सीआरपीएफ
 
-सीआइएसएफ	XC	TEMP	O	O	O	O
+सीआइएसएफ
 
-आइटीबीपी	NN	TEMP	O	O	O	O
+आइटीबीपी
 
-असम	XC	TEMP	O	O	O	O
-राइफल्स	NNP	TEMP	O	O	O	O
+असम
+राइफल्स
 
-एनएसजी	NNP	TEMP	O	O	O	O
+एनएसजी
 
-एसएसबी	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-एनडीआरएफ	NN	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+एसएसबी
+और
+एनडीआरएफ
+शामिल
+है
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	B-MISC	O	O	OCC
-:	SYM	TEMP	O	O	O	O
-लश्कर	VM	TEMP	O	O	B-MISC	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-क्या	WQ	TEMP	O	O	O	O
-अमेरिका	NNP	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-ढिलाई	NN	TEMP	O	O	O	O
-!	SYM	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+लश्कर
+को
+लेकर
+क्या
+अमेरिका
+कर
+रहा
+है
+ढिलाई
+!

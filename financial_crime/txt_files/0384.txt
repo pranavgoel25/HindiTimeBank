@@ -1,266 +1,266 @@
-﻿जासं	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-लुधियाना	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-बेअंत	XC	TEMP	O	O	O	O
-पुरा	NNP	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बेटा	NN	TEMP	B-MISC	O	B-MISC	OCC
-बनाकर	VM	TEMP	I-MISC	O	I-MISC	O
-उसके	PRP	TEMP	O	O	O	O
-अंकल	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लाखों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-डाली	VAX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जासं
+,
+लुधियाना
+:
+बेअंत
+पुरा
+निवासी
+व्यक्ति
+को
+बेटा
+बनाकर
+उसके
+अंकल
+ने
+लाखों
+की
+धोखाधडी
+कर
+डाली
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करवाई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+ने
+पुलिस
+के
+पास
+शिकायत
+दर्ज
+करवाई
+.
 
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-जमालपुर	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुनीत	JJ	TEMP	O	O	O	O
-शर्मा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सेक्टर	NN	TEMP	O	O	O	O
-32	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अर्बन	XC	TEMP	O	O	O	O
-इस्टेट	XC	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-सुरजीत	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जांच
+के
+बाद
+थाना
+जमालपुर
+पुलिस
+ने
+पुनीत
+शर्मा
+की
+शिकायत
+पर
+सेक्टर
+32
+,
+अर्बन
+इस्टेट
+निवासी
+सुरजीत
+सिंह
+के
+खिलाफ
+मामला
+दर्ज
+कर
+दिया
+है
+.
 
-शिकायतकर्ता	NN	TEMP	O	O	O	O
-पुनीत	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-सुरजीत	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-बचपन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जानता	VM	TEMP	O	O	B-STAT	OCC
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+शिकायतकर्ता
+पुनीत
+ने
+बताया
+कि
+सुरजीत
+सिंह
+को
+वह
+बचपन
+से
+जानता
+है
+.
 
-उनका	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-दूसरे	JJ	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-आना-जाना	VM	TEMP	O	O	B-MISC	OCC
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनका
+एक
+दूसरे
+के
+घर
+में
+काफी
+आना-जाना
+था
+.
 
-सुरजीत	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुनीत	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आपना	PRP	TEMP	O	O	O	O
-बेटा	NN	TEMP	B-MISC	O	O	O
-बनाया	VM	TEMP	I-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-सुरजीत	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अंकल	NN	TEMP	O	O	O	O
-कह	VM	TEMP	B-MISC	O	B-MISC	OCC
-बुलाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुरजीत
+सिंह
+ने
+पुनीत
+को
+आपना
+बेटा
+बनाया
+हुआ
+था
+,
+वह
+भी
+सुरजीत
+को
+अंकल
+कह
+बुलाता
+था
+.
 
-एक	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-सुरजीत	JJ	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-प्रापर्टी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बिजनेस	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-चाहे	CC:?	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+दिन
+सुरजीत
+सिंह
+ने
+उससे
+कहा
+कि
+उसका
+प्रापर्टी
+का
+बिजनेस
+है
+,
+वह
+चाहे
+तो
+उसके
+काम
+में
+पैसा
+लगा
+सकता
+है
+.
 
-अगर	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-पचास	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	O	OCC
-,	SYM	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-पांच	XC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-गज	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्लाट	NN	TEMP	O	O	O	OCC
-ले	VM	TEMP	B-MISC	O	B-MISC	O
-देगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+वह
+उसे
+पचास
+लाख
+रुपये
+दे
+,
+तो
+वह
+उसे
+पांच
+सौ
+गज
+का
+प्लाट
+ले
+देगा
+.
 
-पुनीत	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-उसके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-इतनी	QF	TEMP	O	O	O	O
-रकम	NN	TEMP	O	O	O	OCC
-नहीं	NEG	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+पुनीत
+ने
+कहा
+उसके
+पास
+इतनी
+रकम
+नहीं
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सुरजीत	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करवाता	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-पचास	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाएं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-प्लाट	NN	TEMP	O	O	B-MISC	OCC
-ले	VM	TEMP	B-MISC	O	I-MISC	O
-देगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+पर
+सुरजीत
+ने
+कहा
+कि
+वह
+उसके
+पास
+पैसा
+जमा
+करवाता
+रहे
+,
+जब
+पचास
+लाख
+जमा
+हो
+जाएं
+,
+वह
+उसे
+प्लाट
+ले
+देगा
+.
 
-पुनीत	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-पाई-पाई	NN	TEMP	B-MISC	O	O	O
-जोड	VM	TEMP	I-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-सुरजीत	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-51	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुनीत
+ने
+कहा
+कि
+उसने
+पाई-पाई
+जोड
+कर
+सुरजीत
+सिंह
+को
+51
+लाख
+रुपए
+दे
+दिए
+.
 
-जब	PRP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-सुरजीत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्लाट	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-देने	VM	TEMP	I-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कही	VM	TEMP	I-MISC	O	B-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-टाल-मटोल	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+उसने
+सुरजीत
+से
+प्लाट
+लेकर
+देने
+की
+बात
+कही
+,
+तो
+वह
+टाल-मटोल
+करने
+लगा
+.
 
-जब	PRP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	O
-मांगे	VM	TEMP	I-MISC	O	I-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-सुरजीत	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-चेक	NN	TEMP	B-MISC	O	O	O
-काट	VM	TEMP	I-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-दे	VAUX	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+उसने
+अपने
+पैसे
+वापस
+मांगे
+,
+तो
+सुरजीत
+ने
+उसे
+एक
+चेक
+काट
+कर
+दे
+दिया
+.
 
-उसने	PRP	TEMP	O	O	O	O
-चेक	VM	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लगाया	VM	TEMP	O	O	O	OCC
-,	SYM	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-जाली	NN	TEMP	B-MISC	O	O	O
-निकला	VM	TEMP	I-MISC	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+चेक
+बैंक
+ने
+लगाया
+,
+तो
+वह
+जाली
+निकला
+.
 
-उसने	PRP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करवाई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+पुलिस
+में
+शिकायत
+दर्ज
+करवाई
+.

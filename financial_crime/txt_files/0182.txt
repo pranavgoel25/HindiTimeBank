@@ -1,235 +1,235 @@
-﻿हाथरस	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सादाबाद	JJ	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-वन	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-गली	XC	TEMP	O	O	O	O
-राया	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-रिटायर्ड	XC	TEMP	O	O	O	O
-शिक्षक	XC	TEMP	O	O	O	O
-ईश्वरी	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-पडोसी	JJ	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	B-MISC	OCC
-लगाते	VM	TEMP	O	O	I-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-बैंक	NN	TEMP	O	O	O	O
-खाते	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-लेने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-कोतवाली	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿हाथरस
+:
+सादाबाद
+में
+वन
+विभाग
+गली
+राया
+रोड
+निवासी
+रिटायर्ड
+शिक्षक
+ईश्वरी
+¨
+सह
+ने
+अपने
+पडोसी
+युवक
+पर
+धोखाधडी
+का
+आरोप
+लगाते
+हुए
+बैंक
+खाते
+से
+60
+हजार
+500
+रुपये
+निकाल
+लेने
+की
+कोतवाली
+में
+शिकायत
+दी
+है
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-भारतीय	JJ	TEMP	O	O	O	O
-स्टेट	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांट	XC	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-खाता	VM	TEMP	O	O	B-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+ने
+बताया
+कि
+भारतीय
+स्टेट
+बैंक
+की
+मांट
+शाखा
+में
+उनका
+खाता
+है
+.
 
-हाल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-एक्सपायर	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दूसरा	QO	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हाल
+में
+ही
+उनका
+एटीएम
+कार्ड
+एक्सपायर
+हो
+गया
+था
+तो
+बैंक
+ने
+दूसरा
+एटीएम
+कार्ड
+जारी
+किया
+.
 
-वह	PRP	TEMP	O	O	O	O
-एसबीआइ	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांट	XC	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एटीएम	XC	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पिन	NN	TEMP	O	O	B-MISC	OCC
-लेने	VM	TEMP	B-MISC	O	I-MISC	O
-गए	VAUX	TEMP	B-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-कर्मियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पिन	XC	TEMP	O	O	O	O
-ऑनलाइन	XC	TEMP	B-MISC	O	O	O
-निकलवाने	VM	TEMP	I-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-सलाह	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वह
+एसबीआइ
+की
+मांट
+शाखा
+में
+एटीएम
+कार्ड
+का
+पिन
+लेने
+गए
+तो
+बैंक
+कर्मियों
+ने
+पिन
+ऑनलाइन
+निकलवाने
+की
+सलाह
+दी
+.
 
-कार्ड	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिये	PSP:?	TEMP	O	O	O	O
-एसबीआइ	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बेवसाइट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पिन	NN	TEMP	B-MISC	O	O	O
-निकल	VM	TEMP	I-MISC	O	B-MISC	OCC
-आता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कार्ड
+नंबर
+के
+जरिये
+एसबीआइ
+की
+बेवसाइट
+से
+पिन
+निकल
+आता
+है
+.
 
-ईश्वरी	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-पडोसी	JJ	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-दीपक	NN	TEMP	O	O	O	O
-कौशिक	JJ	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-मनोहर	XC	TEMP	O	O	O	O
-लाल	NNP	TEMP	O	O	O	O
-कौशिक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एटीएम	XC	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पिन	NN	TEMP	B-MISC	O	B-MISC	OCC
-निकलवाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ईश्वरी
+¨
+सह
+ने
+अपने
+पडोसी
+युवक
+दीपक
+कौशिक
+पुत्र
+मनोहर
+लाल
+कौशिक
+से
+एटीएम
+कार्ड
+का
+पिन
+निकलवाया
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-दीपक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ईश्वरी	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+दीपक
+ने
+ईश्वरी
+¨
+सह
+के
+साथ
+धोखाधडी
+कर
+दी
+.
 
-कार्ड	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-पिन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सहारे	NN	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-मोबाइल	XC	TEMP	O	O	O	O
-एप	XC	TEMP	O	O	O	O
-पे-टीएम	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मोबी	XC	TEMP	O	O	O	O
-क्विक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सहारे	NN	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-खाते	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-पार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कार्ड
+नंबर
+और
+पिन
+के
+सहारे
+उसने
+मोबाइल
+एप
+पे-टीएम
+व
+मोबी
+क्विक
+के
+सहारे
+उनके
+खाते
+से
+रुपये
+पार
+कर
+दिए
+.
 
-पासबुक	JJ	TEMP	O	O	O	O
-एंट्री	NN	TEMP	B-MISC	O	O	O
-कराते	VM	TEMP	I-MISC	O	B-MISC	OCC
-ही	RP	TEMP	O	O	O	O
-दीपक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पोल	NN	TEMP	B-MISC	O	B-MISC	OCC
-खुल	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पासबुक
+एंट्री
+कराते
+ही
+दीपक
+की
+पोल
+खुल
+गई
+.
 
-ईश्वरी	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बेटे	JJ	TEMP	O	O	O	O
-जयप्रकाश	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-दीपक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पूछा	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-लौटाने	VM	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कही	VM	TEMP	I-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-उन	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-हावी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ईश्वरी
+¨
+सह
+के
+बेटे
+जयप्रकाश
+ने
+जब
+दीपक
+से
+पैसे
+के
+बारे
+में
+पूछा
+और
+पैसा
+लौटाने
+की
+बात
+कही
+तो
+वह
+उन
+पर
+हावी
+हो
+गया
+.
 
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-उनके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+धमकी
+देते
+हुए
+उनके
+साथ
+मारपीट
+की
+.
 
-कोतवाली	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोतवाली
+पुलिस
+मामला
+दर्ज
+कर
+जांच
+कर
+रही
+है
+.

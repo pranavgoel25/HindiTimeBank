@@ -1,129 +1,129 @@
-﻿गोपालगंज	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿गोपालगंज
+.
 
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अमेठी	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ग्रामीण	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-उनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	O	O
-तीस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	B-MISC	O
-छीन	VM	TEMP	B-MISC	O	I-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थाना
+क्षेत्र
+के
+अमेठी
+गांव
+में
+कुछ
+लोगों
+ने
+एक
+ग्रामीण
+को
+मारपीट
+कर
+उनके
+पास
+मौजूद
+तीस
+हजार
+रुपया
+छीन
+लिया
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अमेठी	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-मोहम्मद	JJ	TEMP	O	O	O	O
-मजीद	NN	TEMP	O	O	O	O
-साह	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खाना	NN	TEMP	O	O	O	O
-खा	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बताया
+जाता
+है
+कि
+अमेठी
+गांव
+निवासी
+मोहम्मद
+मजीद
+साह
+अपने
+घर
+में
+खाना
+खा
+रहे
+थे
+.
 
-तभी	PRP	TEMP	O	O	O	O
-पडोस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-आपसी	PRP	TEMP	O	O	O	O
-विवाद	NN	TEMP	O	O	B-MISC	OCC
-को	PSP	TEMP	O	O	I-MISC	O
-लेकर	VM	TEMP	O	O	I-MISC	O
-उन्हें	PRP	TEMP	O	O	O	O
-गाली	NN	TEMP	B-MISC	O	B-MISC	OCC
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-लगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तभी
+पडोस
+के
+लोग
+वहां
+पहुंच
+कर
+आपसी
+विवाद
+को
+लेकर
+उन्हें
+गाली
+देने
+लगे
+.
 
-गाली	NN	TEMP	B-MISC	O	O	O
-देने	VM	TEMP	I-MISC	O	O	OCC
-से	PSP	TEMP	O	O	O	O
-मना	NEG	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उन	DEM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मजीद	NN	TEMP	O	O	O	O
-साह	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घुस	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-अटैची	NN	TEMP	B-MISC	O	O	O
-तोड	VM	TEMP	I-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-उसमें	PRP	TEMP	O	O	O	O
-रखा	VM	TEMP	O	O	B-MISC	OCC
-गया	VAUX	TEMP	O	O	I-MISC	O
-तीस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गाली
+देने
+से
+मना
+करने
+पर
+उन
+लोगों
+ने
+मजीद
+साह
+को
+मारपीट
+कर
+घायल
+करने
+के
+बाद
+घर
+में
+घुस
+कर
+अटैची
+तोड
+कर
+उसमें
+रखा
+गया
+तीस
+हजार
+रुपया
+निकाल
+लिया
+.
 
-इस	DEM	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-ग्रामीण	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सबरुन	XC	TEMP	O	O	O	O
-नेशा	NN	TEMP	O	O	O	O
+इस
+घटना
+को
+लेकर
+ग्रामीण
+ने
+सबरुन
+नेशा
 
-जूही	JJ	TEMP	O	O	O	O
-नेशा	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-प्राथमिकी	NN	TEMP	B-MISC	O	O	O
-दर्ज	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जूही
+नेशा
+सहित
+तीन
+लोगों
+के
+खिलाफ
+प्राथमिकी
+दर्ज
+कराई
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-पडताल	NN	TEMP	I-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+मामले
+की
+जांच
+पडताल
+कर
+रही
+है
+.

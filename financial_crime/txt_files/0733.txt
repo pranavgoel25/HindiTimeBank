@@ -1,96 +1,96 @@
 
-कटरामेंदनीगंज	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रतापगढ़	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-प्रतापगढ़	NN	TEMP	O	O	O	O
-सिटी	VM	TEMP	O	O	O	O
-कस्बे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मलियाना	NN	TEMP	O	O	O	O
-टोला	XC	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-अब्बास	XC	TEMP	O	O	O	O
-अली	NNP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-शमशाद	XC	TEMP	O	O	O	O
-अली	NNP	TEMP	O	O	O	O
-इंदिरा	XC	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-मिला	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कटरामेंदनीगंज
+,
+प्रतापगढ़
+:
+प्रतापगढ़
+सिटी
+कस्बे
+के
+मलियाना
+टोला
+निवासी
+अब्बास
+अली
+पुत्र
+शमशाद
+अली
+इंदिरा
+आवास
+मिला
+है
+.
 
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगी	VM	TEMP	O	O	B-STAT	OCC
-लोहे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खिडकी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सिर्फ	RB	TEMP	O	O	O	O
-सरिया	NN	TEMP	O	O	B-MISC	OCC
-लगी	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घर
+में
+लगी
+लोहे
+की
+खिडकी
+में
+में
+सिर्फ
+सरिया
+लगी
+है
+.
 
-शुक्रवार	NN	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-चोर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-खिडकी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हाथ	NN	TEMP	B-MISC	O	B-MISC	O
-डालकर	VM	TEMP	I-MISC	O	I-MISC	O
-दरवाजे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कुंडी	NN	TEMP	O	O	O	O
-खोल	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखा	VM	TEMP	O	O	O	OCC
-जेवर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-चुरा	VM	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शुक्रवार
+की
+रात
+चोर
+ने
+खिडकी
+में
+हाथ
+डालकर
+दरवाजे
+की
+कुंडी
+खोल
+लिया
+और
+घर
+में
+रखा
+जेवर
+,
+15
+हजार
+रुपये
+,
+एक
+मोबाइल
+चुरा
+ले
+गए
+.
 
-रात	NN	TEMP	O	B	O	O
-लगभग	RB	TEMP	O	B	O	O
-तीन	QC	TEMP	O	I	O	O
-बजे	RP:?	TEMP	O	I	O	O
-अब्बास	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नींद	NN	TEMP	B-MISC	O	O	OCC
-खुली	VM	TEMP	I-MISC	O	B-MISC	O
-तो	CC	TEMP	O	O	O	O
-आलमारी	NN	TEMP	O	O	O	O
-खुली	VM	TEMP	O	O	O	O
-देख	VM	TEMP	B-MISC	O	B-MISC	OCC
-वह	PRP	TEMP	O	O	O	O
-सन्न	JJ	TEMP	O	O	B-MISC	OCC
-रह	VM	TEMP	B-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रात
+लगभग
+तीन
+बजे
+अब्बास
+की
+नींद
+खुली
+तो
+आलमारी
+खुली
+देख
+वह
+सन्न
+रह
+गया
+.
 
-सुबह	RDP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-चौकी	NN	TEMP	O	O	O	O
-पहुंचकर	VM	TEMP	O	O	B-MISC	O
-अब्बास	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लिखित	JJ	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुबह
+पुलिस
+चौकी
+पहुंचकर
+अब्बास
+ने
+लिखित
+सूचना
+दी
+.

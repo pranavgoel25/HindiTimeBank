@@ -1,157 +1,157 @@
-﻿गोरखपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भाटपार	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-दुकान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	B-MISC	O
-निकालने	VM	TEMP	B-MISC	O	I-MISC	OCC
-व	CC	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	O
-से	PSP	TEMP	I-MISC	O	I-MISC	O
-मारने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लगाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿गोरखपुर
+:
+कोतवाली
+क्षेत्र
+के
+भाटपार
+निवासी
+ने
+थाने
+में
+तहरीर
+देकर
+दुकान
+से
+पैसा
+निकालने
+व
+जान
+से
+मारने
+की
+धमकी
+देने
+का
+का
+आरोप
+एक
+व्यक्ति
+पर
+लगाया
+है
+.
 
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भाटपार	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-आशुतोष	XC	TEMP	O	O	O	O
-तिवारी	NNP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-चंद्रधर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दिए	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-तहरीर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बगल	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-थी	VM	TEMP	O	O	B-STAT	O
-जिसे	PRP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-बैनामा	NN	TEMP	B-MISC	O	B-MISC	O
-करा	VM	TEMP	I-MISC	O	I-MISC	O
-लिए	PSP	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-खारिज	JJ	TEMP	O	O	O	O
-दाखिल	JJ	TEMP	B-MISC	O	O	O
-भी	RP	TEMP	I-MISC	O	O	O
-हो	VM	TEMP	I-MISC	O	B-MISC	-1
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+क्षेत्र
+के
+भाटपार
+निवासी
+आशुतोष
+तिवारी
+पुत्र
+चंद्रधर
+ने
+दिए
+गए
+तहरीर
+में
+आरोप
+लगाया
+है
+कि
+गांव
+के
+बगल
+में
+एक
+जमीन
+थी
+जिसे
+वह
+बैनामा
+करा
+लिए
+है
+और
+खारिज
+दाखिल
+भी
+हो
+गई
+है
+.
 
-मंगलवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-मै	PRP	TEMP	O	O	O	O
-बडहलगंज	JJ	TEMP	O	O	O	O
-कस्बे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाइपास	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	B-STAT	DESC
-अपने	PRP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैठा	VM	TEMP	O	O	B-MISC	OCC
-था	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-मोटरसाइकिल	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आए	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-पूछने	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगे	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-तुम्हारा	PRP	TEMP	O	O	O	O
-लडका	NN	TEMP	O	O	O	O
-कहां	WQ	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-?	SYM	TEMP	O	O	O	O
-पूछने	VM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-जानना	VM	TEMP	B-MISC	O	B-MISC	OCC
-चाहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-असलहा	JJ	TEMP	O	O	B-MISC	OCC
-लहराते	VM	TEMP	B-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-दुकान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पचपन	XC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	O
-से	PSP	TEMP	I-MISC	O	I-MISC	O
-मारने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गये	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंगलवार
+को
+मै
+बडहलगंज
+कस्बे
+के
+बाइपास
+पर
+स्थित
+अपने
+दुकान
+पर
+बैठा
+था
+कि
+तीन
+लोग
+मोटरसाइकिल
+से
+आए
+और
+पूछने
+लगे
+कि
+तुम्हारा
+लडका
+कहां
+है
+?
+पूछने
+का
+कारण
+जानना
+चाहा
+तो
+वे
+लोग
+असलहा
+लहराते
+हुए
+दुकान
+से
+पचपन
+सौ
+रुपये
+निकाल
+लिए
+और
+जान
+से
+मारने
+की
+धमकी
+देते
+हुए
+फरार
+हो
+गये
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कोतवाल	NN	TEMP	O	O	O	O
-गोपाल	XC	TEMP	O	O	O	O
-त्रिपाठी	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-आपसी	PRP	TEMP	O	O	O	O
-विवाद	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+कोतवाल
+गोपाल
+त्रिपाठी
+का
+कहना
+है
+कि
+मामला
+आपसी
+विवाद
+का
+है
+.
 
-तहरीर	NN	TEMP	B-MISC	O	O	OCC
-मिली	VM	TEMP	I-MISC	O	B-STAT	O
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-जांचकर	VM	TEMP	B-MISC	O	I-STAT	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तहरीर
+मिली
+है
+जांचकर
+कार्रवाई
+की
+जाएगी
+.

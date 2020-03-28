@@ -1,282 +1,282 @@
-संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-फिरोजपुर	RB	TEMP	O	O	O	O
-ग्रीन	XC	TEMP	O	O	O	O
-वेंचर्ज	XC	TEMP	O	O	O	O
-लिमिटेड	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	B-STAT	DES
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जान	NN	TEMP	O	O	O	OCC
-पहचान	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हथियार	NN	TEMP	O	O	B-MISC	O
-बनाकर	VM	TEMP	O	O	I-MISC	O
-उसके	PRP	TEMP	O	O	O	O
-लाखों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगवाकर	VM	TEMP	O	O	B-STAT	DES
-हडपने	VM	TEMP	O	O	I-STAT	DES
-वाले	PSP	TEMP	O	O	O	O
-नौसरबाज	XC	TEMP	O	O	O	O
-दंपती	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नामजद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सूत्र
+,
+फिरोजपुर
+ग्रीन
+वेंचर्ज
+लिमिटेड
+कंपनी
+में
+काम
+करने
+वाले
+एक
+व्यक्ति
+की
+जान
+पहचान
+को
+हथियार
+बनाकर
+उसके
+लाखों
+रुपये
+कंपनी
+में
+लगवाकर
+हडपने
+वाले
+नौसरबाज
+दंपती
+को
+नामजद
+किया
+गया
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-साथी	NN	TEMP	O	O	O	O
-श्री	XC	TEMP	O	O	O	O
-मुक्तसर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-MISC	OCC
-वाला	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+काम
+में
+उसका
+एक
+अन्य
+साथी
+श्री
+मुक्तसर
+का
+रहने
+वाला
+है
+.
 
-फिरोजपुर	NNP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-श्रीरामशरणम्	XC	TEMP	O	O	O	O
-आश्रम	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निकट	NST	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	DES
-वाले	PSP	TEMP	O	O	I-STAT	O
-दीपक	XC	TEMP	O	O	O	O
-नंदा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जुलाई	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एसएसपी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	B	O	O
-तीन	QC	TEMP	O	I	O	O
-माह	NN	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-जिन	DEM	TEMP	O	O	O	O
-दंपती	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नामजद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-पहचान	NN	TEMP	O	O	O	O
-मंगतराम	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-जीत	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	VM	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मनजीत	JJ	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-चंगाली	JJ	TEMP	O	O	O	O
-जदीद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-गुरदर्शन	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-निवासी	NNP	TEMP	O	O	O	O
-श्री	XC	TEMP	O	O	O	O
-मुक्तसर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-की	VM	TEMP	O	O	B-MISC	-1
-गई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिरोजपुर
+शहर
+के
+श्रीरामशरणम्
+आश्रम
+के
+निकट
+रहने
+वाले
+दीपक
+नंदा
+ने
+जुलाई
+में
+एसएसपी
+को
+शिकायत
+दी
+थी
+कि
+पुलिस
+की
+करीब
+तीन
+माह
+की
+जांच
+में
+जिन
+दंपती
+को
+नामजद
+किया
+गया
+,
+उनकी
+पहचान
+मंगतराम
+पुत्र
+जीत
+¨
+सह
+व
+मनजीत
+कौर
+निवासी
+चंगाली
+जदीद
+के
+अलावा
+गुरदर्शन
+¨
+सह
+निवासी
+श्री
+मुक्तसर
+के
+रूप
+में
+की
+गई
+है
+.
 
-उक्त	JJ	TEMP	O	O	O	O
-नौसरबाज	XC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गिरफ्त	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+उक्त
+नौसरबाज
+पुलिस
+की
+गिरफ्त
+से
+अभी
+बाहर
+हैं
+.
 
-जान-पहचान	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बनाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-हथियार	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-सिटी	XC	TEMP	O	O	O	O
-फिरोजपुर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिकायतकर्ता	NN	TEMP	O	O	O	O
-दीपक	XC	TEMP	O	O	O	O
-नंदा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-14	QC	TEMP	O	B	O	O
-जुलाई	NNP	TEMP	O	I	O	O
-2017	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-एसएसपी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	O	O	B-MISC	OCC
-करवाई	VM	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-ग्रीन	XC	TEMP	O	O	O	O
-वेंचर्ज	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	B-MISC	OCC
-करता	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जान-पहचान
+को
+बनाया
+हथियार
+थाना
+सिटी
+फिरोजपुर
+में
+दर्ज
+मामले
+में
+शिकायतकर्ता
+दीपक
+नंदा
+ने
+14
+जुलाई
+2017
+को
+एसएसपी
+के
+पास
+शिकायत
+दर्ज
+करवाई
+की
+वह
+ग्रीन
+वेंचर्ज
+कंपनी
+में
+काम
+करता
+है
+.
 
-उसकी	PRP	TEMP	O	O	O	O
-जान	NN	TEMP	O	O	O	O
-पहचान	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-चंगाली	JJ	TEMP	O	O	O	O
-जदीद	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-मंगतराम	XC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+उसकी
+जान
+पहचान
+गांव
+चंगाली
+जदीद
+निवासी
+मंगतराम
+के
+साथ
+है
+.
 
-इसी	DEM	TEMP	O	O	O	O
-जान-पहचान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-फायदा	NN	TEMP	B-MISC	O	B-MISC	OCC
-उठाते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-मंगत	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	VM	TEMP	O	O	B-MISC	O
-व	CC	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-मंजीत	JJ	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगवा	VM	TEMP	O	O	B-MISC	OCC
-लिए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+जान-पहचान
+का
+फायदा
+उठाते
+हुए
+मंगत
+¨
+सह
+व
+उसकी
+पत्नी
+मंजीत
+कौर
+ने
+25
+लाख
+रुपये
+अपनी
+कंपनी
+में
+लगवा
+लिए
+.
 
-एक	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-नकदी	JJ	TEMP	O	O	O	O
-वापसी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-मंगत	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-चेक	VM	TEMP	O	O	B-MISC	OCC
-दिया	VAUX	TEMP	O	O	I-MISC	O
-उसे	PRP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-बैंक	JJ	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-कहकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-चेक	NN	TEMP	O	O	O	O
-लौटा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	DECL
-हैं	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+साल
+बाद
+नकदी
+वापसी
+के
+लिए
+मंगत
+ने
+जो
+चेक
+दिया
+उसे
+बैंक
+में
+लगाया
+गया
+तो
+बैंक
+अधिकारियों
+ने
+यह
+कहकर
+चेक
+लौटा
+दिया
+कि
+खाते
+में
+पैसे
+ही
+नहीं
+हैं
+.
 
-ऐसा	PRP	TEMP	O	O	O	O
-करके	VM	TEMP	O	O	O	O
-मंगत	JJ	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-साथी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-मिलकर	VM	TEMP	O	O	B-MISC	OCC
-उसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+ऐसा
+करके
+मंगत
+व
+उनकी
+पत्नी
+ने
+अपने
+एक
+अन्य
+साथी
+के
+साथ
+मिलकर
+उसके
+साथ
+धोखाधडी
+की
+.
 
-जांचकर्ता	NN	TEMP	O	O	O	O
-जसपाल	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सही	JJ	TEMP	B-MISC	O	B-MISC	OCC
-पाया	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-नामजद	JJ	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-काबू	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-लिया	VAUX	TEMP	O	O	I-MISC	O
-जाएगा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जांचकर्ता
+जसपाल
+¨
+सह
+ने
+बताया
+कि
+पुलिस
+की
+जांच
+में
+मामले
+को
+सही
+पाया
+और
+नामजद
+आरोपियों
+को
+जल्द
+ही
+काबू
+कर
+लिया
+जाएगा
+.

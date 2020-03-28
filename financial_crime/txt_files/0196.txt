@@ -1,305 +1,305 @@
-﻿पटना	NNP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿पटना
+.
 
-मौर्या	XC	TEMP	O	O	O	O
-लोक	XC	TEMP	O	O	O	O
-परिसर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-दुकानें	NN	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-किराए	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बंदोबस्त	JJ	TEMP	O	O	B-STAT	DECL
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+मौर्या
+लोक
+परिसर
+में
+कई
+दुकानें
+200
+रुपये
+किराए
+पर
+बंदोबस्त
+हैं
+.
 
-बंदोबस्ती	NN	TEMP	O	O	O	O
-लेने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-किराए	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	B-MISC	IAC
-देकर	VM	TEMP	B-MISC	O	I-MISC	O
-मुनाफा	NN	TEMP	O	O	B-MISC	OCC
-कमा	VM	TEMP	B-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बंदोबस्ती
+लेने
+वाले
+किराए
+पर
+दुकान
+देकर
+मुनाफा
+कमा
+रहे
+हैं
+.
 
-पटना	NNP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-निगम	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ध्यान	NN	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-खामियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	B-MISC	O
-गया	VAUX	TEMP	B-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पटना
+नगर
+निगम
+का
+ध्यान
+इस
+खामियों
+की
+तरफ
+गया
+है
+.
 
-मंगलवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-होने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-पटना	VM	TEMP	O	O	O	O
-नगर	JJ	TEMP	O	O	O	O
-निगम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्थायी	JJ	TEMP	O	O	O	O
-सशक्त	JJ	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बैठक	NN	TEMP	B-MISC	O	B-MISC	O
-में	PSP	TEMP	O	O	O	O
-मौर्यालोक	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-दुकानों	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-कियोस्क	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-किराए	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बढ़ोतरी	JJ	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-फैसला	NN	TEMP	B-MISC	O	B-MISC	OCC
-होगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंगलवार
+को
+होने
+वाली
+पटना
+नगर
+निगम
+की
+स्थायी
+सशक्त
+समिति
+की
+बैठक
+में
+मौर्यालोक
+स्थित
+दुकानों
+एवं
+कियोस्क
+के
+किराए
+में
+बढ़ोतरी
+पर
+फैसला
+होगा
+.
 
-परिसर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-वाहन	XC	TEMP	O	O	O	O
-पार्किंग	XC	TEMP	O	O	O	O
-स्थल	NN	TEMP	O	O	O	O
-चिह्नित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परिसर
+में
+वाहन
+पार्किंग
+स्थल
+चिह्नित
+होगा
+.
 
-वाहन	NN	TEMP	B-MISC	O	O	O
-लगाने	VM	TEMP	I-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पार्किंग	XC	TEMP	O	O	O	O
-शुल्क	NN	TEMP	O	O	O	O
-देना	VM	TEMP	B-MISC	O	B-MISC	OCC
-पडेगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वाहन
+लगाने
+पर
+पार्किंग
+शुल्क
+देना
+पडेगा
+.
 
-यहां	PRP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-वाहन	XC	TEMP	O	O	O	O
-पार्किंग	NN	TEMP	O	O	O	O
-कर	VM	TEMP	O	O	O	O
-आसपास	NST	TEMP	O	O	O	O
-खरीदारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-चले	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यहां
+लोग
+वाहन
+पार्किंग
+कर
+आसपास
+खरीदारी
+करने
+चले
+जाते
+हैं
+.
 
-मौर्यालोक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दुकानदारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-वाहन	NN	TEMP	B-MISC	O	B-MISC	O
-रखने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-छूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलेगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मौर्यालोक
+के
+दुकानदारों
+के
+लिए
+वाहन
+रखने
+की
+छूट
+मिलेगी
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-मामूली	JJ	TEMP	O	O	O	O
-शुल्क	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-तय	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+मामूली
+शुल्क
+भी
+तय
+होंगे
+.
 
-जहां-तहां	JJ	TEMP	O	O	O	O
-वाहनों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खडे	JJ	TEMP	B-MISC	O	O	O
-रहने	VM	TEMP	I-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-मौर्या	XC	TEMP	O	O	O	O
-लोक	XC	TEMP	O	O	O	O
-परिसर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-भयावह	JJ	TEMP	B-MISC	O	O	O
-बनी	VM	TEMP	I-MISC	O	B-MISC	OCC
-रहती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जहां-तहां
+वाहनों
+के
+खडे
+रहने
+के
+कारण
+मौर्या
+लोक
+परिसर
+की
+स्थिति
+भयावह
+बनी
+रहती
+है
+.
 
-स्थायी	JJ	TEMP	O	O	O	O
-सशक्त	JJ	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बैठक	NN	TEMP	B-MISC	O	B-MISC	O
-में	PSP	TEMP	O	O	O	O
-सफाई	NN	TEMP	O	O	O	O
-मुख्य	JJ	TEMP	O	O	O	O
-मुद्दा	NN	TEMP	O	O	O	O
-होगा	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+स्थायी
+सशक्त
+समिति
+की
+बैठक
+में
+सफाई
+मुख्य
+मुद्दा
+होगा
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-इंदौर	NN	TEMP	O	O	O	O
-मॉडल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चर्चा	NN	TEMP	B-MISC	O	B-MISC	OCC
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+इंदौर
+मॉडल
+पर
+चर्चा
+होगी
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सफाई	NN	TEMP	O	O	O	O
-व्यवस्था	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सुधार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ठोस	XC	TEMP	O	O	O	O
-निर्णय	NN	TEMP	B-MISC	O	O	O
-लिए	PSP	TEMP	I-MISC	O	O	O
-जा	VM	TEMP	I-MISC	O	B-MISC	OCC
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+शहर
+की
+सफाई
+व्यवस्था
+में
+सुधार
+के
+लिए
+ठोस
+निर्णय
+लिए
+जा
+सकते
+हैं
+.
 
-बैठक	NN	TEMP	B-MISC	O	O	O
-महापौर	XC	TEMP	O	O	O	O
-सीता	NNP	TEMP	O	O	O	O
-साहू	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अध्यक्षता	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-होगी	VM	TEMP	B-MISC	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैठक
+महापौर
+सीता
+साहू
+की
+अध्यक्षता
+में
+होगी
+.
 
-बिहार	NNP	TEMP	O	O	O	O
-चैंबर	NN	TEMP	O	O	O	O
-ऑफ	PSP	TEMP	O	O	O	O
-कॉमर्स	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-किए	VM	TEMP	O	O	B-STAT	OCC
-जा	VAUX	TEMP	O	O	I-STAT	O
-रहे	VAUX	TEMP	O	O	I-STAT	O
-सौंदर्यीकरण	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अनापत्ति	JJ	TEMP	O	O	O	O
-प्रमाणपत्र	NN	TEMP	O	O	O	O
-निर्गत	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-फैसला	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिहार
+चैंबर
+ऑफ
+कॉमर्स
+द्वारा
+किए
+जा
+रहे
+सौंदर्यीकरण
+का
+अनापत्ति
+प्रमाणपत्र
+निर्गत
+करने
+का
+फैसला
+लिया
+जाएगा
+.
 
-अपने	PRP	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सडक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-भाग	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-आसपास	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सौंदर्यीकरण	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	B-MISC	O	O	O
-दिया	VM	TEMP	I-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अपने
+कार्यालय
+की
+सडक
+के
+आगे
+वाले
+भाग
+एवं
+आसपास
+में
+सौंदर्यीकरण
+का
+कार्य
+करने
+का
+प्रस्ताव
+दिया
+है
+.
 
-कंकडबाग	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-वार्ड	NN	TEMP	O	O	O	O
-44	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-योगीपुर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रोफेसर	XC	TEMP	O	O	O	O
-कॉलोनी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-पार्क	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-स्वामी	XC	TEMP	O	O	O	O
-विवेकानंद	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	B-MISC	O
-पर	PSP	TEMP	O	O	I-MISC	O
-करने	VM	TEMP	O	O	I-MISC	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विमर्श	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कंकडबाग
+स्थित
+वार्ड
+44
+में
+योगीपुर
+से
+प्रोफेसर
+कॉलोनी
+के
+बीच
+स्थित
+पार्क
+का
+नाम
+स्वामी
+विवेकानंद
+के
+नाम
+पर
+करने
+संबंध
+में
+विमर्श
+होगा
+.
 
-विधायक	JJ	TEMP	O	O	O	O
-अरुण	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-सिन्हा	NN	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-पार्क	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नामकरण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लंबे	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रयासरत	NN	TEMP	O	O	B-STAT	OCC
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+विधायक
+अरुण
+कुमार
+सिन्हा
+इस
+पार्क
+के
+नामकरण
+के
+लिए
+लंबे
+समय
+से
+प्रयासरत
+हैं
+.
 
-नाला	XC	TEMP	O	O	O	O
-सफाई	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-क्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दम	NN	TEMP	B-MISC	O	B-MISC	O
-घुटने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-मृत	JJ	TEMP	O	O	O	O
-मजदूर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पत्	NN	TEMP	O	O	O	O
-‍	XC	TEMP	O	O	O	O
-‌	XC	TEMP	O	O	O	O
-नी	XC	TEMP	O	O	O	O
-गुडिया	NNP	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-अनुग्रह	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फैसला	NN	TEMP	B-MISC	O	B-MISC	OCC
-होगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नाला
+सफाई
+के
+क्रम
+में
+दम
+घुटने
+से
+मृत
+मजदूर
+की
+पत्
+‍
+‌
+नी
+गुडिया
+देवी
+को
+दस
+लाख
+रुपये
+अनुग्रह
+राशि
+भुगतान
+करने
+के
+संबंध
+में
+फैसला
+होगा
+.

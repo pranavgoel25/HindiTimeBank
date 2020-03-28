@@ -1,317 +1,317 @@
-﻿हाजीपुर	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿हाजीपुर
+.
 
-नगर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जढ़ुआ	XC	TEMP	O	O	O	O
-बाजार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-व्यवसायी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दरभंगा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमीन	NN	TEMP	B-MISC	O	B-MISC	O
-दिलाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-35	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-ठग	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+थाना
+क्षेत्र
+के
+जढ़ुआ
+बाजार
+के
+पास
+व्यवसायी
+को
+दरभंगा
+में
+जमीन
+दिलाने
+के
+नाम
+पर
+दस
+लाख
+35
+हजार
+रुपये
+ठग
+लिए
+गए
+.
 
-मिली	VM	TEMP	O	O	B-STAT	OCC
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जढ़ुआ	JJ	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-अमित	XC	TEMP	O	O	O	O
-वस्त्रालय	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संचालक	JJ	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-दरभंगा	XC	TEMP	O	O	O	O
-जिला	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सधबाडा	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कलीगांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शैलेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-झा	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सीतामढ़ी	NN	TEMP	O	O	O	O
-जिला	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नानपुर	NNP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खरका	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शशि	XC	TEMP	O	O	O	O
-भूषण	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-राकेश	XC	TEMP	O	O	O	O
-रौशन	NN	TEMP	O	O	O	O
-आकर	VM	TEMP	B-MISC	O	O	O
-दरभंगा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमीन	NN	TEMP	B-MISC	O	B-MISC	O
-दिलाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बातचीत	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मिली
+जानकारी
+के
+अनुसार
+नगर
+थाना
+क्षेत्र
+के
+जढ़ुआ
+बाजार
+स्थित
+अमित
+वस्त्रालय
+के
+संचालक
+राजेश
+कुमार
+के
+पास
+दरभंगा
+जिला
+के
+¨
+सधबाडा
+थाना
+क्षेत्र
+के
+कलीगांव
+के
+शैलेंद्र
+कुमार
+झा
+,
+सीतामढ़ी
+जिला
+के
+नानपुर
+थाना
+क्षेत्र
+के
+खरका
+गांव
+के
+शशि
+भूषण
+तथा
+राकेश
+रौशन
+आकर
+दरभंगा
+में
+जमीन
+दिलाने
+की
+बातचीत
+की
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-इनलोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दरभंगा	XC	TEMP	O	O	O	O
-जिला	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सधवाडा	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बिठौली	NN	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-टुकडा	NN	TEMP	B-MISC	O	B-MISC	O
-दिखाया	VM	TEMP	I-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+इनलोगों
+ने
+राजेश
+कुमार
+को
+दरभंगा
+जिला
+के
+¨
+सधवाडा
+थाना
+क्षेत्र
+के
+बिठौली
+चौक
+के
+पास
+एक
+जमीन
+का
+टुकडा
+दिखाया
+.
 
-उक्त	JJ	TEMP	O	O	O	O
-टुकडा	NN	TEMP	O	O	O	O
-राजेश	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पसंद	NN	TEMP	B-MISC	O	B-MISC	OCC
-आ	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उक्त
+टुकडा
+राजेश
+को
+पसंद
+आ
+गया
+.
 
-इस	DEM	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कीमत	NN	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तय	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+जमीन
+की
+कीमत
+18
+लाख
+रुपये
+तय
+हुई
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शशि	XC	TEMP	O	O	O	O
-भूषण	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आरटीजीएस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-किस्तों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-6	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-चेक	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-डेढ़	NNP	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-नगद	NN	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-85	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-सहित	JJ	TEMP	O	O	O	O
-कुल	QF	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-35	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+राजेश
+कुमार
+ने
+शशि
+भूषण
+को
+आरटीजीएस
+के
+माध्यम
+से
+दो
+किस्तों
+में
+6
+लाख
+,
+चेक
+के
+माध्यम
+से
+डेढ़
+लाख
+रुपये
+तथा
+नगद
+दो
+लाख
+85
+हजार
+सहित
+कुल
+दस
+लाख
+35
+हजार
+रुपये
+का
+भुगतान
+कर
+दिया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-रजिस्ट्री	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+भी
+जमीन
+रजिस्ट्री
+नहीं
+की
+गई
+.
 
-बार-बार	QC	TEMP	O	O	O	O
-तरह-तरह	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बहाना	NN	TEMP	B-MISC	O	O	OCC
-बना	VM	TEMP	I-MISC	O	B-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-रजिस्ट्री	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-तिथि	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-आगे	NST	TEMP	B-MISC	O	O	O
-बढ़ाया	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बार-बार
+तरह-तरह
+का
+बहाना
+बना
+कर
+रजिस्ट्री
+की
+तिथि
+को
+आगे
+बढ़ाया
+जाने
+लगा
+.
 
-तब	PRP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-शंका	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-लगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तब
+उसे
+शंका
+होने
+लगी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-स्वयं	PRP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-भूखंड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मालिक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिला	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+राजेश
+कुमार
+स्वयं
+इस
+भूखंड
+के
+मालिक
+से
+मिला
+.
 
-उक्त	JJ	TEMP	O	O	O	O
-भ-खंड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मालिक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-साफ	JJ	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-भूखंड	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-बातचीत	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-किए	VM	TEMP	O	O	I-MISC	O
-जाने	VAUX	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	REP
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उक्त
+भ-खंड
+के
+मालिक
+ने
+जब
+साफ
+तौर
+पर
+इस
+भूखंड
+की
+बिक्री
+की
+किसी
+से
+कोई
+बातचीत
+नहीं
+किए
+जाने
+की
+जानकारी
+दी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	B-MISC	OCC
-कराई	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+राजेश
+कुमार
+ने
+पंचायत
+कराई
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ली	VM	TEMP	O	O	B-STAT	O
-गई	VAUX	TEMP	O	O	I-STAT	O
-राशि	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लौटाने	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इंकार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-गाली-गलौज	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-भगा	VAUX	TEMP	B-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+इन
+लोगों
+ने
+ली
+गई
+राशि
+को
+लौटाने
+से
+इंकार
+कर
+दिया
+तथा
+उसके
+साथ
+गाली-गलौज
+कर
+भगा
+दिया
+.
 
-इस	DEM	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-हाजीपुर	XC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्राथमिकी	NN	TEMP	B-MISC	O	O	O
-दर्ज	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+घटना
+को
+लेकर
+हाजीपुर
+नगर
+थाना
+में
+राजेश
+कुमार
+ने
+धोखाधडी
+की
+प्राथमिकी
+दर्ज
+कराई
+है
+.
 
-प्राथमिकी	JJ	TEMP	O	O	O	O
-शैलेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-झा	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शशि	XC	TEMP	O	O	O	O
-भूषण	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-राकेश	XC	TEMP	O	O	O	O
-रौशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्राथमिकी
+शैलेंद्र
+कुमार
+झा
+,
+शशि
+भूषण
+तथा
+राकेश
+रौशन
+के
+विरुद्ध
+दर्ज
+कराई
+है
+.

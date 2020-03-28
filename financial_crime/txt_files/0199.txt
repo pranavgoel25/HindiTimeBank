@@ -1,262 +1,262 @@
-﻿अलीगढ़	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-भारतीय	JJ	TEMP	O	O	O	O
-रिजर्व	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-साफ	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-छोटा	JJ	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-चलन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-मगर	CC	TEMP	O	O	O	O
-दुकानदारों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-चलन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿अलीगढ़
+:
+भारतीय
+रिजर्व
+बैंक
+साफ
+कर
+चुका
+है
+कि
+एक
+रुपये
+का
+छोटा
+सिक्का
+चलन
+में
+है
+मगर
+दुकानदारों
+ने
+इसे
+खुद
+ही
+चलन
+से
+बाहर
+कर
+दिया
+है
+.
 
-गुरुवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-हाथरस	XC	TEMP	O	O	O	O
-अड्डा	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-लेने	VM	TEMP	B-MISC	O	B-MISC	OCC
-से	PSP	TEMP	O	O	O	O
-इन्कार	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-केमिस्ट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-महंगा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-पडा	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गुरुवार
+को
+हाथरस
+अड्डा
+पर
+सिक्का
+लेने
+से
+इन्कार
+करने
+केमिस्ट
+को
+महंगा
+पडा
+गया
+.
 
-ग्राहक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सासनी	XC	TEMP	O	O	O	O
-गेट	NNP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-तत्काल	JJ	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ग्राहक
+की
+शिकायत
+पर
+सासनी
+गेट
+पुलिस
+तत्काल
+दुकान
+पर
+पहुंच
+गई
+.
 
-केमिस्ट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-माफी	NN	TEMP	B-MISC	O	B-MISC	OCC
-मांगते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-सिक्का	NN	TEMP	O	O	O	O
-गल्ले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रख	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+केमिस्ट
+ने
+माफी
+मांगते
+हुए
+सिक्का
+गल्ले
+में
+रख
+लिया
+.
 
-बैंक	NN	TEMP	O	O	O	O
-कॉलोनी	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-शुभम	XC	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-फर्म	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कंपनी	XC	TEMP	O	O	O	O
-सेक्रेट्री	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जॉब	NN	TEMP	O	O	B-MISC	OCC
-करते	VM	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+कॉलोनी
+निवासी
+शुभम
+दिल्ली
+की
+एक
+फर्म
+में
+कंपनी
+सेक्रेट्री
+की
+जॉब
+करते
+हैं
+.
 
-गुरुवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-हाथरस	NN	TEMP	O	O	O	O
-अड्डा	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-मेडिकल	XC	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बैंडेड	JJ	TEMP	O	O	B-MISC	O
-लेने	VM	TEMP	B-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गुरुवार
+को
+वह
+हाथरस
+अड्डा
+स्थित
+मेडिकल
+स्टोर
+से
+बैंडेड
+लेने
+गए
+.
 
-दो	QC	TEMP	O	O	O	O
-बैंडेंड	NN	TEMP	O	O	O	O
-लेने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-छोटे	JJ	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	O	O
-स्वरूप	NN	TEMP	O	O	O	OCC
-देने	VM	TEMP	B-MISC	O	B-MISC	O
-लगे	VAUX	TEMP	I-MISC	O	I-MISC	O
+दो
+बैंडेंड
+लेने
+के
+बाद
+एक
+रुपये
+के
+दो
+छोटे
+सिक्के
+व
+दो
+बडे
+सिक्के
+भुगतान
+स्वरूप
+देने
+लगे
 
-मगर	CC	TEMP	O	O	O	O
-केमिस्ट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-छोटे	JJ	TEMP	O	O	O	O
-सिक्कों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चलन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-बताकर	VM	TEMP	B-MISC	O	B-MISC	O
-लेने	VM	TEMP	I-MISC	O	I-MISC	OCC
-से	PSP	TEMP	O	O	O	O
-इन्कार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मगर
+केमिस्ट
+ने
+छोटे
+सिक्कों
+को
+चलन
+से
+बाहर
+बताकर
+लेने
+से
+इन्कार
+कर
+दिया
+.
 
-शुभम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-समझाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-केमिस्ट	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-माना	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शुभम
+के
+काफी
+समझाने
+पर
+भी
+केमिस्ट
+नहीं
+माना
+.
 
-शुभम	NN	TEMP	O	O	O	O
-सीधे	JJ	TEMP	O	O	O	O
-सासनी	XC	TEMP	O	O	O	O
-गेट	NNP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-पहुंचे	VAUX	TEMP	B-MISC	O	B-MISC	O
-और	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-केमिस्ट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-एफआइआर	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-.	SYM	TEMP	O	O	O	O
+शुभम
+सीधे
+सासनी
+गेट
+थाना
+पहुंचे
+और
+पुलिस
+से
+केमिस्ट
+के
+खिलाफ
+एफआइआर
+दर्ज
+करने
+को
+कहा
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-तुरंत	RB	TEMP	O	O	O	O
-हरकत	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	I-MISC	O	O	O
-आ	VM	TEMP	I-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+भी
+तुरंत
+हरकत
+में
+आ
+गई
+.
 
-हालांकि	CC	TEMP	O	O	O	O
+हालांकि
 
-शुभम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
+शुभम
+की
+रिपोर्ट
+तो
+दर्ज
+नहीं
+की
 
-मगर	CC	TEMP	O	O	O	O
-केमिस्ट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हिरासत	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-लेकर	VM	TEMP	I-MISC	O	I-MISC	O
-थाने	VM	TEMP	O	O	O	O
-लाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लैपर्ड	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जवानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मगर
+केमिस्ट
+को
+हिरासत
+में
+लेकर
+थाने
+लाने
+के
+लिए
+लैपर्ड
+के
+जवानों
+को
+मौके
+पर
+भेज
+दिया
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देखते	VM	TEMP	B-MISC	O	O	OCC
-ही	RP	TEMP	O	O	O	O
-दुकानदार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सिंट्टी-पिंट्टी	NN	TEMP	B-MISC	O	O	O
-गुम	VM	TEMP	I-MISC	O	B-MISC	OCC
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
+पुलिस
+को
+देखते
+ही
+दुकानदार
+की
+सिंट्टी-पिंट्टी
+गुम
+हो
+गई
 
-उसने	PRP	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-तुरंत	RB	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+सिक्के
+तुरंत
+ले
+लिए
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	OCC
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-पूछा	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-वीडियो	NN	TEMP	B-MISC	O	B-MISC	O
-बनानी	VM	TEMP	I-MISC	O	I-MISC	O
-शुरू	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+सिक्का
+न
+लेने
+का
+कारण
+उससे
+पूछा
+और
+वीडियो
+बनानी
+शुरू
+कर
+दिया
+.
 
-इससे	PRP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-माफी	NN	TEMP	B-MISC	O	O	O
-मांगने	VM	TEMP	I-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+वह
+माफी
+मांगने
+लगा
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-चेतावनी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-छोड	VAUX	TEMP	B-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+उसे
+चेतावनी
+देकर
+छोड
+दिया
+.

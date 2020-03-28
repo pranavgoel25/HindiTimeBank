@@ -1,335 +1,335 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अलीगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-हादसे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घायल	JJ	TEMP	O	O	O	O
-शिक्षिका	XC	TEMP	O	O	O	O
-बिंदु	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दर्द	NN	TEMP	O	O	O	O
-भरी	VM	TEMP	O	O	O	O
-खबर	NN	TEMP	O	O	O	O
-दैनिक	JJ	TEMP	O	O	O	O
-जागरण	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रकाशित	JJ	TEMP	B-MISC	O	B-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूरा	JJ	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	B-MISC	O
-आ	VM	TEMP	O	O	I-MISC	OCC
-गया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+अलीगढ़
+:
+हादसे
+में
+घायल
+शिक्षिका
+बिंदु
+शर्मा
+की
+दर्द
+भरी
+खबर
+दैनिक
+जागरण
+में
+प्रकाशित
+होने
+के
+बाद
+से
+पूरा
+शहर
+मदद
+को
+आगे
+आ
+गया
+है
+.
 
-हर	QF	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-कह	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-शिक्षिका	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तकलीफ	NN	TEMP	O	O	B-MISC	O
-नहीं	NEG	TEMP	O	O	I-MISC	OCC
-होने	VM	TEMP	O	O	I-MISC	O
-देंगे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हर
+कोई
+कह
+रहा
+है
+कि
+शिक्षिका
+को
+किसी
+भी
+तरह
+की
+तकलीफ
+नहीं
+होने
+देंगे
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	O	O
-बिंदु	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-जिस	DEM	TEMP	O	O	O	O
-विद्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पढ़ाती	XC	TEMP	O	O	B-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शिक्षक	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-की	VM	TEMP	O	O	B-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+सबसे
+बडी
+मदद
+बिंदु
+शर्मा
+जिस
+विद्यालय
+में
+पढ़ाती
+हैं
+,
+वहां
+के
+शिक्षक
+व
+बच्चों
+ने
+की
+है
+.
 
-वह	PRP	TEMP	O	O	O	O
-थ्री	XC	TEMP	O	O	O	O
-डाट्स	XC	TEMP	O	O	O	O
-सेवामार्ग	NN	TEMP	O	O	O	O
-पब्लिक	JJ	TEMP	O	O	O	O
-स्कूल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिक्षिका	NN	TEMP	O	O	B-STAT	OCC
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+वह
+थ्री
+डाट्स
+सेवामार्ग
+पब्लिक
+स्कूल
+में
+शिक्षिका
+हैं
+.
 
-वहां	PRP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बिंदु	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-3.40	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहां
+की
+पूरी
+टीम
+ने
+बिंदु
+शर्मा
+को
+3.40
+लाख
+रुपये
+की
+मदद
+की
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-बिंदु	NN	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बहन	NN	TEMP	O	O	O	O
-श्वेता	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सौंपी	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+यह
+राशि
+बिंदु
+शर्मा
+की
+बहन
+श्वेता
+शर्मा
+को
+सौंपी
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-वादा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मदद	NN	TEMP	B-MISC	O	B-MISC	OCC
-करेंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+वादा
+किया
+कि
+वह
+आगे
+भी
+मदद
+करेंगे
+.
 
-प्रधानाचार्य	JJ	TEMP	O	O	O	O
-अजय	NN	TEMP	O	O	O	O
-आई	VM	TEMP	O	O	O	O
-चंद	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-हम	PRP	TEMP	O	O	O	O
-सब	QF	TEMP	O	O	O	O
-बिंदु	NN	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+प्रधानाचार्य
+अजय
+आई
+चंद
+ने
+कहा
+कि
+हम
+सब
+बिंदु
+शर्मा
+के
+साथ
+हैं
+.
 
-स्कूल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शिक्षक	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-सब	QF	TEMP	O	O	O	O
-मिलकर	VM	TEMP	O	O	B-MISC	O
-मदद	NN	TEMP	B-MISC	O	B-MISC	OCC
-करेंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+स्कूल
+के
+शिक्षक
+व
+बच्चे
+सब
+मिलकर
+मदद
+करेंगे
+.
 
-सामाजिक	JJ	TEMP	O	O	O	O
-संस्थाएं	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-आईं	VM	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-बजरंग	JJ	TEMP	O	O	O	O
-दल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-महानगर	NNP	TEMP	O	O	O	O
-संयोजक	JJ	TEMP	O	O	O	O
-सौरभ	XC	TEMP	O	O	O	O
-पंडित	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-साथियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-50,000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सामाजिक
+संस्थाएं
+भी
+आईं
+आगे
+बजरंग
+दल
+के
+सह
+महानगर
+संयोजक
+सौरभ
+पंडित
+ने
+अपने
+साथियों
+की
+मदद
+से
+50,000
+रुपये
+की
+मदद
+की
+.
 
-राशि	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दीपक	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-उर्फ	XC	TEMP	O	O	O	O
-अन्नू	XC	TEMP	O	O	O	O
-आजाद	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नरेंद्र	XC	TEMP	O	O	O	O
-पचौरी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-वीरेंद्र	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मनोज	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अचल	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+राशि
+में
+दीपक
+शर्मा
+उर्फ
+अन्नू
+आजाद
+,
+नरेंद्र
+पचौरी
+,
+वीरेंद्र
+शर्मा
+,
+मनोज
+शर्मा
+व
+अचल
+शर्मा
+ने
+मदद
+की
+.
 
-सौरभ	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-कोल	NNP	TEMP	O	O	O	O
-विधायक	JJ	TEMP	O	O	O	O
-अनिल	XC	TEMP	O	O	O	O
-पाराशर	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-वरुण	XC	TEMP	O	O	O	O
-ट्रामा	XC	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-डायरेक्टर	XC	TEMP	O	O	O	O
-संजय	XC	TEMP	O	O	O	O
-भार्गव	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	O
-बिंदु	NN	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+सौरभ
+ने
+यह
+राशि
+कोल
+विधायक
+अनिल
+पाराशर
+व
+वरुण
+ट्रामा
+सेंटर
+के
+डायरेक्टर
+संजय
+भार्गव
+के
+सामने
+बिंदु
+शर्मा
+को
+दी
+.
 
-इन्होंने	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-परमार्थ	JJ	TEMP	O	O	O	O
-सेवा	NN	TEMP	O	O	O	O
-संस्थान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बिंदु	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-11000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन्होंने
+भी
+की
+मदद
+:
+परमार्थ
+सेवा
+संस्थान
+की
+टीम
+ने
+बिंदु
+शर्मा
+को
+11000
+रुपये
+की
+मदद
+की
+.
 
-संस्थान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अध्यक्ष	JJ	TEMP	O	O	O	O
-विकल	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-गौड	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रौनक	NN	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बिंदु	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भाई	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-सौंपी	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+संस्थान
+के
+अध्यक्ष
+विकल
+कुमार
+गौड
+,
+रौनक
+गुप्ता
+ने
+बिंदु
+के
+भाई
+को
+यह
+राशि
+सौंपी
+.
 
-दिलीप	XC	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रकाश	XC	TEMP	O	O	O	O
-उपाध्याय	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रविकांत	JJ	TEMP	O	O	O	O
-गोस्वामी	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सीए	XC	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-स्वयंभू	JJ	TEMP	O	O	O	O
-सिद्धार्थ	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	DECL
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+दिलीप
+अग्रवाल
+,
+प्रकाश
+उपाध्याय
+,
+रविकांत
+गोस्वामी
+,
+सीए
+विकास
+अग्रवाल
+व
+स्वयंभू
+सिद्धार्थ
+मौजूद
+थे
+.
 
-छात्र	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-आए	VM	TEMP	B-MISC	O	B-MISC	OCC
-आगे	NST	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-श्री	XC	TEMP	O	O	O	O
-वाष्र्णेय	XC	TEMP	O	O	O	O
-महाविद्यालय	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-छात्रों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-निखिल	XC	TEMP	O	O	O	O
-माहेश्वरी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नेतृत्व	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-धन	NN	TEMP	O	O	O	O
-संग्रह	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+छात्र
+भी
+आए
+आगे
+:
+श्री
+वाष्र्णेय
+महाविद्यालय
+में
+छात्रों
+ने
+निखिल
+माहेश्वरी
+के
+नेतृत्व
+में
+धन
+संग्रह
+किया
+.
 
-रामावतार	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अन्नू	XC	TEMP	O	O	O	O
-राणा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अमित	XC	TEMP	O	O	O	O
-गोस्वामी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-आशीष	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विशाल	JJ	TEMP	O	O	O	O
-जैन	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अंकुर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गोपाल	XC	TEMP	O	O	O	O
-सर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-क्षितिज	XC	TEMP	O	O	O	O
-माहेश्वरी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मनोज	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	B-MISC	O	B-STAT	DECL
-थे	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+रामावतार
+शर्मा
+,
+अन्नू
+राणा
+,
+अमित
+गोस्वामी
+,
+आशीष
+शर्मा
+,
+विशाल
+जैन
+,
+अंकुर
+,
+गोपाल
+सर
+,
+क्षितिज
+माहेश्वरी
+,
+मनोज
+यादव
+मौजूद
+थे
+.

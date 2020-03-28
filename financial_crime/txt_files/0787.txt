@@ -1,303 +1,303 @@
 
-सिवान	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+सिवान
+.
 
-दरौंदा	NN	TEMP	O	O	O	O
-प्रखंड	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-पंचायतों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मनरेगा	VM	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	O	O
-बिना	NEG	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	O	O
-कराए	VM	TEMP	I-MISC	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-प्रकाश	NN	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	I-MISC	O
-आया	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दरौंदा
+प्रखंड
+की
+दो
+पंचायतों
+में
+मनरेगा
+में
+बिना
+काम
+कराए
+रुपये
+निकासी
+करने
+का
+मामला
+प्रकाश
+में
+आया
+है
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-पांडेयपुर	NNP	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-कोडारी	JJ	TEMP	O	O	O	O
-कलॉ	XC	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+पांडेयपुर
+एवं
+कोडारी
+कलॉ
+पंचायत
+शामिल
+है
+.
 
-इन	DEM	TEMP	O	O	O	O
-पंचायतों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मनरेगा	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चयनित	JJ	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिना	NEG	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	O	O
-हुए	VM	TEMP	I-MISC	O	B-MISC	OCC
-बि	CC	TEMP	O	O	O	O
-¨	NN	TEMP	B-MISC	O	B-MISC	OCC
-लग	VM	TEMP	I-MISC	O	I-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-राशि	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+पंचायतों
+में
+मनरेगा
+से
+चयनित
+योजना
+में
+बिना
+काम
+हुए
+बि
+¨
+लग
+कर
+राशि
+की
+निकासी
+कर
+ली
+गई
+हैं
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मुखिया	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-हस्ताक्षर	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	O
-सामने	NST	TEMP	I-MISC	O	I-MISC	OCC
-आ	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+में
+मुखिया
+का
+फर्जी
+हस्ताक्षर
+करने
+की
+भी
+बात
+सामने
+आ
+रही
+है
+.
 
-मिली	VM	TEMP	O	O	B-STAT	OCC
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-कोडारी	NN	TEMP	O	O	O	O
-कलॉ	XC	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भूंसी	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रामजी	NNP	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रामचंद्र	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-पीसीसी	NN	TEMP	O	O	O	O
-सडक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराना	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-गत	JJ	TEMP	O	O	O	O
-29	QC	TEMP	O	O	O	O
-जून	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बि	VM	TEMP	B-MISC	O	B-MISC	OCC
-¨	NN	TEMP	B-MISC	O	B-MISC	O
-लग	VM	TEMP	I-MISC	O	I-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-पांच	QC	TEMP	O	O	O	O
-अगस्त	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-26	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-249	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मिली
+जानकारी
+के
+अनुसार
+कोडारी
+कलॉ
+पंचायत
+के
+भूंसी
+गांव
+में
+रामजी
+यादव
+के
+घर
+से
+रामचंद्र
+यादव
+के
+घर
+तक
+पीसीसी
+सडक
+का
+निर्माण
+कराना
+था
+,
+जो
+नहीं
+हुई
+है
+लेकिन
+गत
+29
+जून
+को
+बि
+¨
+लग
+कर
+पांच
+अगस्त
+को
+चार
+लाख
+26
+हजार
+249
+रुपये
+की
+निकासी
+कर
+ली
+गई
+है
+.
 
-इसी	DEM	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-मोहानी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-शत्रुघ्न	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-पीसीसी	XC	TEMP	O	O	O	O
-सडक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराना	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-बिना	NEG	TEMP	O	O	O	O
-पीसीसी	NN	TEMP	B-MISC	O	O	O
-कराए	VM	TEMP	I-MISC	O	O	O
-29	QC	TEMP	O	B	O	O
-जून	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-बि	VM	TEMP	B-MISC	O	B-MISC	OCC
-¨	NN	TEMP	B-MISC	O	I-MISC	O
-लग	VM	TEMP	I-MISC	O	I-MISC	OCC
-करा	VM	TEMP	I-MISC	O	B-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-पांच	QC	TEMP	O	O	O	O
-अगस्त	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-29	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-522	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+पंचायत
+में
+तीन
+मोहानी
+से
+शत्रुघ्न
+यादव
+के
+घर
+तक
+पीसीसी
+सडक
+का
+निर्माण
+कराना
+था
+लेकिन
+बिना
+पीसीसी
+कराए
+29
+जून
+को
+बि
+¨
+लग
+करा
+कर
+पांच
+अगस्त
+को
+चार
+लाख
+29
+हजार
+522
+रुपये
+की
+निकासी
+कर
+ली
+गई
+है
+.
 
-आखिर	RB	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-निकासी	NN	TEMP	O	O	B-MISC	O
-कैसे	WQ	TEMP	O	O	I-MISC	O
-हुई	VM	TEMP	O	O	I-MISC	-1
-.	SYM	TEMP	O	O	O	O
+आखिर
+यह
+निकासी
+कैसे
+हुई
+.
 
-कौन	RDP	TEMP	O	O	B-STAT	O
-थे	VM	TEMP	O	O	I-STAT	O
-काम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-किसकी	WQ	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-निर्गत	JJ	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कौन
+थे
+काम
+की
+जांच
+करने
+,
+किसकी
+रिपोर्ट
+पर
+राशि
+निर्गत
+की
+गई
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-जरूरत	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+जांच
+की
+जरूरत
+है
+.
 
-क्योंकि	CC	TEMP	O	O	O	O
-मुखिया	NN	TEMP	O	O	O	O
-राज	XC	TEMP	O	O	O	O
-मोहन	XC	TEMP	O	O	O	O
-साह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	B-MISC	OCC
-हुई	VM	TEMP	B-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-मेरे	PRP	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-हस्ताक्षर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रयोग	NN	TEMP	O	O	B-MISC	O
-कर	VM	TEMP	O	O	I-MISC	O
-राशि	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+क्योंकि
+मुखिया
+राज
+मोहन
+साह
+से
+जब
+बात
+हुई
+तो
+उन्होंने
+कहा
+कि
+मेरे
+फर्जी
+हस्ताक्षर
+का
+प्रयोग
+कर
+राशि
+की
+निकासी
+की
+गई
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-डीआरडीए	NN	TEMP	O	O	O	O
-निदेशक	JJ	TEMP	O	O	O	O
-रामानुज	XC	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-दरौंदा	NN	TEMP	O	O	O	O
-प्रखंड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-हडकंप	NN	TEMP	B-MISC	O	B-MISC	OCC
-मच	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+की
+जांच
+के
+लिए
+डीआरडीए
+निदेशक
+रामानुज
+गुरुवार
+को
+जब
+दरौंदा
+प्रखंड
+में
+पहुंचे
+तो
+हडकंप
+मच
+गया
+.
 
-डीडीसी	NN	TEMP	O	O	O	O
-राजकुमार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गंभीरता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीडीसी
+राजकुमार
+ने
+कहा
+कि
+इस
+मामले
+की
+गंभीरता
+से
+जांच
+की
+जाएगी
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कठोर	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-होगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+शामिल
+लोगों
+पर
+कठोर
+कार्रवाई
+होगी
+.
 
-बता	VM	TEMP	O	O	B-MISC	REP
-दें	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ग्रामीणों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सीएम	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-लिखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बता
+दें
+कि
+इसकी
+जांच
+के
+लिए
+ग्रामीणों
+ने
+सीएम
+सहित
+जिले
+के
+अधिकारियों
+को
+पत्र
+लिखा
+था
+.

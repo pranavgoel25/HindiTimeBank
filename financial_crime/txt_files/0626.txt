@@ -1,141 +1,141 @@
 
-युवक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिला	VM	TEMP	O	O	B-MISC	OCC
-चोरी	NN	TEMP	O	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-हाथरस	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-नवीपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शिव	XC	TEMP	O	O	O	O
-कॉलोनी	NNP	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-लाला	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-सोहनलाल	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-बाइक	JJ	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+युवक
+से
+मिला
+चोरी
+का
+मोबाइल
+हाथरस
+:
+नवीपुर
+,
+शिव
+कॉलोनी
+निवासी
+लाला
+पुत्र
+सोहनलाल
+की
+कुछ
+दिन
+पहले
+बाइक
+चोरी
+हुई
+थी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-निकल	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+साथ
+ही
+मोबाइल
+व
+कुछ
+रुपये
+भी
+निकल
+गए
+थे
+.
 
-लाला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-बगीची	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सोने	NN	TEMP	O	O	B-MISC	OCC
-आता	VM	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लाला
+के
+अनुसार
+एक
+युवक
+बगीची
+में
+सोने
+आता
+था
+.
 
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-दूसरे	PRP	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घटना
+के
+बाद
+वह
+दूसरे
+दिन
+से
+नहीं
+आया
+.
 
-शक	NN	TEMP	B-MISC	O	B-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	O	O	O	OCC
-की	PSP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-चामड	XC	TEMP	O	O	O	O
-गेट	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मिल	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शक
+होने
+पर
+लोगों
+ने
+युवक
+की
+तलाश
+की
+,
+जो
+कि
+सोमवार
+को
+चामड
+गेट
+पर
+मिल
+गया
+.
 
-लाला	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	B-MISC	O
-बरामद	VM	TEMP	B-MISC	O	I-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सुपुर्द	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-दिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लाला
+व
+अन्य
+लोगों
+ने
+उससे
+मोबाइल
+बरामद
+कर
+लिया
+तथा
+उसे
+पुलिस
+के
+सुपुर्द
+कर
+दिया
+.
 
-उससे	PRP	TEMP	O	O	O	O
-तमंचा	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उससे
+तमंचा
+भी
+बरामद
+किया
+गया
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूछताछ	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+युवक
+से
+पूछताछ
+कर
+रही
+है
+.
 
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	B-MISC	O
-बेची	VM	TEMP	O	O	I-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जानकारी
+के
+अनुसार
+युवक
+ने
+बाइक
+बेची
+है
+.
 
-माल	NN	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जेल	NN	TEMP	B-MISC	O	O	O
-भेजा	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+माल
+बरामद
+करने
+के
+बाद
+आरोपी
+को
+जेल
+भेजा
+जाएगा
+.

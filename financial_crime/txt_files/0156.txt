@@ -1,409 +1,409 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-महोबा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-निकाय	XC	TEMP	O	O	O	O
-चुनाव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नामांकन	NN	TEMP	O	O	O	O
-प्रक्रिया	NN	TEMP	O	O	O	O
-पूरी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-उम्मीदवारों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सारा	QF	TEMP	O	O	O	O
-ध्यान	NN	TEMP	O	O	O	O
-मतदाताओं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	PSP	TEMP	O	O	O	O
-मुड	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+महोबा
+:
+निकाय
+चुनाव
+में
+नामांकन
+प्रक्रिया
+पूरी
+होने
+के
+बाद
+अब
+उम्मीदवारों
+का
+सारा
+ध्यान
+मतदाताओं
+की
+ओर
+मुड
+गया
+है
+.
 
-वोट	NN	TEMP	O	O	O	O
-कैसे	WQ	TEMP	O	O	O	O
-खींचा	VM	TEMP	B-MISC	O	O	O
-जाए	VAUX	TEMP	I-MISC	O	O	O
+वोट
+कैसे
+खींचा
+जाए
 
-रूठे	JJ	TEMP	O	O	O	O
-मतदाताओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मनाने	VM	TEMP	O	O	O	O
+रूठे
+मतदाताओं
+को
+मनाने
 
-ठेकेदारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-जोडने	VM	TEMP	B-MISC	O	O	O
-आदि	RP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	IAC
-दांव	NN	TEMP	O	O	O	O
-पेच	NN	TEMP	O	O	O	O
-आजमाए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ठेकेदारों
+को
+अपने
+साथ
+जोडने
+आदि
+को
+लेकर
+दांव
+पेच
+आजमाए
+जा
+रहे
+हैं
+.
 
-जिला	JJ	TEMP	O	O	O	O
-निर्वाचन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नजर	NN	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-सारी	QF	TEMP	O	O	O	O
-गतिविधियों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-बनी	VM	TEMP	O	O	B-MISC	OCC
-हुई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिला
+निर्वाचन
+की
+भी
+नजर
+इन
+सारी
+गतिविधियों
+पर
+लगातार
+बनी
+हुई
+है
+.
 
-मतों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बदले	NN	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-लेनदेन	NN	TEMP	B-MISC	O	B-MISC	O
-न	NEG	TEMP	I-MISC	O	I-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-पाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-उडनदस्तों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-गठन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मतों
+के
+बदले
+कोई
+लेनदेन
+न
+होने
+पाए
+इसके
+लिए
+उडनदस्तों
+का
+गठन
+किया
+जा
+चुका
+है
+.
 
-जिला	JJ	TEMP	O	O	O	O
-निर्वाचन	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-साफ	JJ	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-रास्ते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-यदि	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-मिली	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-साक्ष्य	NN	TEMP	O	O	B-MISC	OCC
-मांगे	VM	TEMP	B-MISC	O	I-MISC	O
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिला
+निर्वाचन
+अधिकारी
+ने
+साफ
+निर्देश
+दिए
+हैं
+कि
+रास्ते
+में
+जांच
+के
+दौरान
+यदि
+दो
+लाख
+से
+अधिक
+धनराशि
+किसी
+के
+पास
+मिली
+तो
+उसके
+साक्ष्य
+मांगे
+जाएंगे
+.
 
-ऐसा	PRP	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-जब्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऐसा
+न
+होने
+पर
+धनराशि
+जब्त
+हो
+जाएगा
+.
 
-मतदान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तारीख	NN	TEMP	O	O	O	O
-जैसे-जैसे	JJ	TEMP	O	O	O	O
-नजदीक	NN	TEMP	B-MISC	O	O	O
-आती	VM	TEMP	I-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-जिला	JJ	TEMP	O	O	O	O
-प्रशासन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-बढ़	NN	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मतदान
+की
+तारीख
+जैसे-जैसे
+नजदीक
+आती
+जा
+रही
+है
+जिला
+प्रशासन
+का
+काम
+और
+बढ़
+गया
+है
+.
 
-आचार	XC	TEMP	O	O	O	O
-संहिता	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पालन	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-चुनाव	NN	TEMP	O	O	O	O
-आयोग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्देशानुसार	NN	TEMP	O	O	O	O
-निकाय	JJ	TEMP	O	O	O	O
-चुनाव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उडन	JJ	TEMP	O	O	O	O
-दस्ता	NN	TEMP	O	O	O	O
-टीमों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-गठन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आचार
+संहिता
+का
+पालन
+कराने
+के
+लिए
+चुनाव
+आयोग
+के
+निर्देशानुसार
+निकाय
+चुनाव
+में
+उडन
+दस्ता
+टीमों
+का
+गठन
+किया
+गया
+है
+.
 
-सभी	QF	TEMP	O	O	O	O
-निकाय	NN	TEMP	O	O	O	O
-चुनाव	NN	TEMP	O	O	O	O
-क्षेत्रों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-अलग-अलग	JJ	TEMP	O	O	O	O
-टीमों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-जिम्मेदारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-सौंपी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सभी
+निकाय
+चुनाव
+क्षेत्रों
+के
+लिए
+अलग-अलग
+टीमों
+को
+इसकी
+जिम्मेदारी
+सौंपी
+गई
+है
+.
 
-आयोग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-साफ	JJ	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	O
-जारी	JJ	TEMP	I-MISC	O	I-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-मिले	VM	TEMP	B-MISC	O	I-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-करें	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आयोग
+ने
+साफ
+निर्देश
+जारी
+किया
+है
+कि
+दो
+लाख
+रुपये
+से
+अधिक
+की
+धनराशि
+कोई
+ले
+जाता
+मिले
+तो
+उसकी
+जांच
+करें
+.
 
-धनराशि	NN	TEMP	O	O	O	O
-कहां	WQ	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लाए	VM	TEMP	B-MISC	O	B-MISC	OCC
-कहां	WQ	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-करेंगे	VM	TEMP	I-MISC	O	I-MISC	O
-इसका	PRP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-साक्ष्य	NN	TEMP	O	O	B-MISC	OCC
-देना	VM	TEMP	B-MISC	O	I-MISC	O
-होगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+धनराशि
+कहां
+से
+लाए
+कहां
+खर्च
+करेंगे
+इसका
+उसे
+साक्ष्य
+देना
+होगा
+.
 
-साक्ष्य	NN	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	O
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-जब्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साक्ष्य
+न
+मिलने
+पर
+धनराशि
+जब्त
+कर
+ली
+जाएगी
+.
 
-गठित	JJ	TEMP	O	O	O	O
-टीमें	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-पालिका	XC	TEMP	O	O	O	O
+गठित
+टीमें
+और
+अधिकारी
+दो
+नगर
+पालिका
 
-तीन	QC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-पंचायतों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-टीमें	NN	TEMP	O	O	O	O
-तैयार	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तीन
+नगर
+पंचायतों
+के
+लिए
+पांच
+टीमें
+तैयार
+की
+गई
+हैं
+.
 
-नगर	NN	TEMP	O	O	O	O
-पालिका	XC	TEMP	O	O	O	O
-महोबा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कार्यकारी	JJ	TEMP	O	O	O	O
-मजिस्ट्रेट	NN	TEMP	O	O	O	O
-असिस्टेंट	JJ	TEMP	O	O	O	O
-कमिश्नर	NN	TEMP	O	O	O	O
-वाणिज्यकर	VM	TEMP	O	O	B-MISC	O
-व	CC	TEMP	O	O	O	O
-वाणिज्यकर	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-अमित	JJ	TEMP	O	O	O	O
-कुमार	NN	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	PSP	TEMP	O	O	O	O
-नियुक्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+पालिका
+महोबा
+के
+लिए
+कार्यकारी
+मजिस्ट्रेट
+असिस्टेंट
+कमिश्नर
+वाणिज्यकर
+व
+वाणिज्यकर
+अधिकारी
+अमित
+कुमार
+¨
+सह
+नियुक्त
+किए
+गए
+हैं
+.
 
-नगर	NN	TEMP	O	O	O	O
-पालिका	NN	TEMP	O	O	O	O
-चरखारी	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-वाणिज्यकर	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-महोबा	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-नाथूराम	XC	TEMP	O	O	O	O
-मिश्र	NNP	TEMP	O	O	O	O
+नगर
+पालिका
+चरखारी
+क्षेत्र
+के
+लिए
+वाणिज्यकर
+अधिकारी
+महोबा
+तथा
+नाथूराम
+मिश्र
 
-तथा	CC	TEMP	O	O	O	O
-क्षेत्राधिकारी	JJ	TEMP	O	O	O	O
-महोबा	NN	TEMP	O	O	O	O
-जगदेव	XC	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	VM	TEMP	O	O	B-MISC	O
-रहेंगे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तथा
+क्षेत्राधिकारी
+महोबा
+जगदेव
+¨
+सह
+रहेंगे
+.
 
-नगर	NN	TEMP	O	O	O	O
-पंचायत	XC	TEMP	O	O	O	O
-खरेला	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-सतीश	XC	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-श्रीवास्तव	NNP	TEMP	O	O	O	O
-उप	PSP	TEMP	O	O	O	O
-प्रभागीय	JJ	TEMP	O	O	O	O
-वन	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-बनाए	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+पंचायत
+खरेला
+के
+लिए
+सतीश
+कुमार
+श्रीवास्तव
+उप
+प्रभागीय
+वन
+अधिकारी
+बनाए
+गए
+हैं
+.
 
-कुलपहाड	NN	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-पंचायत	XC	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-समाज	XC	TEMP	O	O	O	O
-कल्याण	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-यशपाल	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बनाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुलपहाड
+नगर
+पंचायत
+क्षेत्र
+के
+लिए
+समाज
+कल्याण
+अधिकारी
+यशपाल
+¨
+सह
+को
+बनाया
+गया
+है
+.
 
-नगर	NN	TEMP	O	O	O	O
-पंचायत	XC	TEMP	O	O	O	O
-कबरई	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-नियुक्त	JJ	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खंड	XC	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-अधिकारी	JJ	TEMP	O	O	O	O
-पनवाडी	NN	TEMP	O	O	O	O
-प्रद्युम्न	XC	TEMP	O	O	O	O
-द्विवेदी	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कार्यकारी	JJ	TEMP	O	O	O	O
-मजिस्ट्रेट	NN	TEMP	O	O	O	O
-बनाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+पंचायत
+कबरई
+के
+लिए
+नियुक्त
+टीम
+में
+खंड
+विकास
+अधिकारी
+पनवाडी
+प्रद्युम्न
+द्विवेदी
+को
+कार्यकारी
+मजिस्ट्रेट
+बनाया
+गया
+है
+.
 
-वीडियो	XC	TEMP	O	O	O	O
-ग्राफी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-होगी	VM	TEMP	O	O	O	O
-उडन	XC	TEMP	O	O	O	O
-दस्ता	NN	TEMP	O	O	O	O
-टीमों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-उप	JJ	TEMP	O	O	O	O
-निरीक्षक	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-वीडियो	XC	TEMP	O	O	O	O
-ग्राफर	NNP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-तैनात	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वीडियो
+ग्राफी
+भी
+होगी
+उडन
+दस्ता
+टीमों
+में
+एक
+उप
+निरीक्षक
+तथा
+दो
+पुलिस
+कर्मी
+एवं
+एक
+वीडियो
+ग्राफर
+भी
+तैनात
+किया
+गया
+है
+.
 
-उडन	XC	TEMP	O	O	O	O
-दस्ता	NN	TEMP	O	O	O	O
-टीमें	NN	TEMP	O	O	O	O
-अपने-अपने	JJ	TEMP	O	O	O	O
-निकाय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अन्तर्गत	PSP	TEMP	O	O	O	O
-समय-समय	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-निरीक्षण	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-करेंगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उडन
+दस्ता
+टीमें
+अपने-अपने
+निकाय
+के
+अन्तर्गत
+समय-समय
+पर
+निरीक्षण
+का
+कार्य
+करेंगी
+.
 
-निरीक्षण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-वीडियो	XC	TEMP	B-MISC	O	O	O
-ग्राफी	NN	TEMP	I-MISC	O	O	O
-भी	RP	TEMP	I-MISC	O	O	O
-होगी	VM	TEMP	I-MISC	O	I-MISC	-1
-.	SYM	TEMP	O	O	O	O
+निरीक्षण
+के
+समय
+वीडियो
+ग्राफी
+भी
+होगी
+.

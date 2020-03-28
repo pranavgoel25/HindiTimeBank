@@ -1,172 +1,172 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बरौनी	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-बेगूसराय	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-असामाजिक	JJ	TEMP	O	O	O	O
-तत्वों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बछवाडा	XC	TEMP	O	O	O	O
-थानाक्षेत्र	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दरगाहपुर	XC	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-गोपाल	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-डिक्की	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-57	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाल	VM	TEMP	O	O	B-MISC	OCC
-लिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सूत्र
+,
+बरौनी
+(
+बेगूसराय
+)
+:
+असामाजिक
+तत्वों
+ने
+बछवाडा
+थानाक्षेत्र
+के
+दरगाहपुर
+निवासी
+गोपाल
+कुमार
+की
+बाइक
+की
+डिक्की
+से
+57
+हजार
+रुपये
+निकाल
+लिया
+.
 
-घटना	NN	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फुलवरिया	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	B-MISC	O
-दिया	VM	TEMP	I-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घटना
+के
+संबंध
+में
+फुलवरिया
+थाना
+में
+आवेदन
+दिया
+गया
+है
+.
 
-थानाध्यक्ष	JJ	TEMP	O	O	O	O
-विवेक	XC	TEMP	O	O	O	O
-भारती	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-चल	VM	TEMP	I-MISC	O	B-MISC	ASP
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थानाध्यक्ष
+विवेक
+भारती
+ने
+बताया
+कि
+मामले
+की
+जांच
+चल
+रही
+है
+.
 
-रेलयात्रियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-काटा	VM	TEMP	O	O	O	O
-बवाल	NN	TEMP	O	O	O	O
-संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बरौनी	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-बेगूसराय	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-संध्या	NN	TEMP	O	O	O	O
-12569	QC	TEMP	O	O	O	O
-अप	NN	TEMP	O	O	O	O
-जयनगर	XC	TEMP	O	O	O	O
-आनन्द	XC	TEMP	O	O	O	O
-विहार	NN	TEMP	O	O	O	O
-गरीब	JJ	TEMP	O	O	O	O
-रथ	XC	TEMP	O	O	O	O
-एक्सप्रेस	NNP	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-सिकंदराबाद	JJ	TEMP	O	O	O	O
-रक्सौल	NN	TEMP	O	O	O	O
-एक्सप्रेस	XC	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-अनिश्चित	JJ	TEMP	O	O	O	O
-विलम्ब	NN	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-यात्री	NN	TEMP	O	O	O	O
-आक्रोशित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रेलयात्रियों
+ने
+काटा
+बवाल
+संवाद
+सूत्र
+,
+बरौनी
+(
+बेगूसराय
+)
+:
+शुक्रवार
+की
+संध्या
+12569
+अप
+जयनगर
+आनन्द
+विहार
+गरीब
+रथ
+एक्सप्रेस
+ट्रेन
+एवं
+सिकंदराबाद
+रक्सौल
+एक्सप्रेस
+ट्रेन
+अनिश्चित
+विलम्ब
+रहने
+का
+कारण
+यात्री
+आक्रोशित
+हो
+गए
+.
 
-आक्रोशित	JJ	TEMP	O	O	O	O
-यात्रियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बरौनी	JJ	TEMP	O	O	O	O
-जंक्शन	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-एएसएम	XC	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	O
-जमकर	VM	TEMP	O	O	O	O
-हंगामा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आक्रोशित
+यात्रियों
+ने
+बरौनी
+जंक्शन
+स्थित
+एएसएम
+कार्यालय
+के
+सामने
+जमकर
+हंगामा
+किया
+.
 
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आरपीएफ	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-समझाने	VM	TEMP	O	O	B-MISC	OCC
-पर	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-शांत	JJ	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाद
+में
+आरपीएफ
+द्वारा
+काफी
+समझाने
+पर
+मामला
+शांत
+हुआ
+.
 
-गौरतलब	NN	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-दरभंगा-जयनगर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	PSP	TEMP	O	O	O	O
-बाढ़	NN	TEMP	B-MISC	O	B-MISC	OCC
-आ	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-फिलहाल	RB	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	B	O	O
-दिनों	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बरौनी	JJ	TEMP	O	O	O	O
-जंक्शन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-गन्तव्य	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रवाना	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गौरतलब
+हो
+कि
+दरभंगा-जयनगर
+की
+ओर
+बाढ़
+आ
+जाने
+के
+कारण
+फिलहाल
+कुछ
+दिनों
+से
+उक्त
+ट्रेन
+को
+बरौनी
+जंक्शन
+से
+ही
+गन्तव्य
+के
+लिए
+रवाना
+हो
+रही
+है
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-गरीब	JJ	TEMP	O	O	O	O
-रथ	XC	TEMP	O	O	O	O
-एक्सप्रेस	NNP	TEMP	O	O	O	O
-वा	PSP	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-शग	XC	TEMP	O	O	O	O
-पिट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-विलम्ब	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+गरीब
+रथ
+एक्सप्रेस
+वा
+¨
+शग
+पिट
+में
+रहने
+के
+कारण
+विलम्ब
+हो
+गई
+.

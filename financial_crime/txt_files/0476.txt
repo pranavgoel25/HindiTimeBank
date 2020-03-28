@@ -1,330 +1,330 @@
 
-नई	JJ	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+नई
+दिल्ली
+(
+जेएनएन
+)
+.
 
-मोबाइल	JJ	TEMP	O	O	O	O
-वॉलेट	NN	TEMP	O	O	O	O
-कंपनी	XC	TEMP	O	O	O	O
-पेटीएम	XC	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-Paytm	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-यूजर्स	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कैशबैक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रुप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बड़ा	XC	TEMP	O	O	O	O
-तोहफा	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-योजना	NN	TEMP	B-MISC	O	O	O
-बना	VM	TEMP	I-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मोबाइल
+वॉलेट
+कंपनी
+पेटीएम
+(
+Paytm
+)
+यूजर्स
+को
+कैशबैक
+के
+रुप
+में
+बड़ा
+तोहफा
+देने
+की
+योजना
+बना
+रही
+है
+.
 
-दरअसल	CC	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-4	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बड़ी	JJ	TEMP	O	O	O	O
-सेल	NN	TEMP	B-MISC	O	O	OCC
-लाने	VM	TEMP	I-MISC	O	B-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिसमें	PRP	TEMP	O	O	O	O
-वो	PRP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-यूजर्स	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-501	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-बतौर	JJ	TEMP	O	O	B-MISC	O
-कैशबैक	NN	TEMP	B-MISC	O	I-MISC	O
-देगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दरअसल
+कंपनी
+4
+दिन
+की
+एक
+बड़ी
+सेल
+लाने
+जा
+रही
+है
+,
+जिसमें
+वो
+अपने
+यूजर्स
+को
+501
+करोड़
+रुपए
+बतौर
+कैशबैक
+देगी
+.
 
-यह	XC	TEMP	O	O	O	O
-बड़ी	XC	TEMP	O	O	O	O
-सेल	NN	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-सितंबर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-23	QC	TEMP	O	O	O	O
-सितंबर	NNP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-चलेगी	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कैशबैक	NN	TEMP	B-MISC	O	O	OCC
-दिया	VM	TEMP	I-MISC	O	B-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+बड़ी
+सेल
+20
+सितंबर
+से
+लेकर
+23
+सितंबर
+तक
+चलेगी
+और
+इसमें
+100
+फीसद
+तक
+का
+कैशबैक
+दिया
+जा
+सकता
+है
+.
 
-क्या	WQ	TEMP	O	O	O	O
-क्या	WQ	TEMP	O	O	O	O
-ऑफर	NN	TEMP	O	O	O	O
-देगी	VM	TEMP	O	O	O	OCC
-कंपनी	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-मेरा	PRP	TEMP	O	O	O	O
-कैशबैक	NN	TEMP	O	O	O	O
-सेल	XC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ग्राहकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ब्रांडेड	JJ	TEMP	O	O	O	O
-प्रोडक्ट्स	NN	TEMP	O	O	O	O
-जैसे	CC	TEMP	O	O	O	O
-गिफ्ट	XC	TEMP	O	O	O	O
-आइटम्स	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एप्लाइंसेज	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कपड़ों	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-फैशन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-डिस्काउंट	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-ऑफर्स	NN	TEMP	O	O	O	O
-पेश	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+क्या
+क्या
+ऑफर
+देगी
+कंपनी
+:
+'
+मेरा
+कैशबैक
+सेल
+'
+में
+ग्राहकों
+को
+ब्रांडेड
+प्रोडक्ट्स
+जैसे
+गिफ्ट
+आइटम्स
+,
+एप्लाइंसेज
+,
+कपड़ों
+सहित
+मोबाइल
+और
+फैशन
+पर
+डिस्काउंट
+और
+अन्य
+ऑफर्स
+पेश
+किए
+जाएंगे
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-प्रोडक्ट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-होम	XC	TEMP	O	O	O	O
-डिलिवरी	NNP	TEMP	O	O	B-MISC	O
-करेगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+कंपनी
+इन
+प्रोडक्ट
+की
+कम
+से
+कम
+समय
+में
+होम
+डिलिवरी
+करेगी
+.
 
-पेटीएम	NN	TEMP	O	O	O	O
-मॉल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जारी	JJ	TEMP	O	O	O	O
-रिलीज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-रोज	NN	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-खरीददारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-कैशबैक	NN	TEMP	B-MISC	O	B-MISC	OCC
-देगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पेटीएम
+मॉल
+की
+तरफ
+से
+जारी
+रिलीज
+के
+मुताबिक
+,
+कंपनी
+हर
+रोज
+25
+फोन
+खरीददारों
+को
+100
+फीसद
+कैशबैक
+देगी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-हर	QF	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-200	QC	TEMP	O	O	O	O
-ग्राहकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-पेटीएम	XC	TEMP	O	O	O	O
-गोल्ड	XC	TEMP	O	O	O	O
-जीतने	VM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मौका	NN	TEMP	B-MISC	O	O	OCC
-भी	RP	TEMP	O	O	O	O
-मिलेगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+कंपनी
+हर
+दिन
+200
+ग्राहकों
+को
+100
+ग्राम
+पेटीएम
+गोल्ड
+जीतने
+का
+मौका
+भी
+मिलेगा
+.
 
-कंपनी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-80	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ज्यादा	QF	TEMP	O	O	O	O
-रिटेलर्स	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सेल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तैयारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कंपनी
+के
+मुताबिक
+,
+80
+फीसद
+से
+ज्यादा
+रिटेलर्स
+ने
+सेल
+की
+तैयारी
+कर
+ली
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-बड़े	JJ	TEMP	O	O	O	O
-ब्रांड्स	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-व्यापारियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-पार्टनरशिप	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+तहत
+कई
+बड़े
+ब्रांड्स
+और
+व्यापारियों
+के
+साथ
+पार्टनरशिप
+की
+गई
+है
+.
 
-कंपनी	NNP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-ऑनलाइन-टू-ऑफलाइन	XC	TEMP	O	O	O	O
-मॉडल	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-O	NN	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-O	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बड़ा	XC	TEMP	O	O	O	O
-दांव	NN	TEMP	B-MISC	O	O	OCC
-लगाने	VM	TEMP	I-MISC	O	B-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-क्योंकि	CC	TEMP	O	O	O	O
-बिक्री	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ऑर्डर	NN	TEMP	O	O	O	O
-निकटतम	JJ	TEMP	O	O	O	O
-ब्रैंड-अधिकृत	JJ	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बड़े	JJ	TEMP	O	O	O	O
-रिटेल	NN	TEMP	O	O	O	O
-चेन	NN	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-छोटे	JJ	TEMP	O	O	O	O
-दुकानदारों	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-कस्टमर्स	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-भेजे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कंपनी
+अपने
+ऑनलाइन-टू-ऑफलाइन
+मॉडल
+(
+O
+2
+O
+)
+पर
+बड़ा
+दांव
+लगाने
+जा
+रही
+है
+क्योंकि
+बिक्री
+के
+ऑर्डर
+निकटतम
+ब्रैंड-अधिकृत
+स्टोर
+,
+बड़े
+रिटेल
+चेन
+या
+छोटे
+दुकानदारों
+द्वारा
+कस्टमर्स
+के
+पास
+भेजे
+जाएंगे
+.
 
-इससे	PRP	TEMP	O	O	O	O
-पेटीएम	NN	TEMP	O	O	O	O
-मॉल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पार्टनर	NN	TEMP	O	O	O	O
-रिटेलर्स	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	O	O	B-MISC	OCC
-बढ़ेगी	VM	TEMP	O	O	I-MISC	O
-क्योंकि	CC	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-चौबीसों	QC	TEMP	O	O	O	O
-घंटे	NN	TEMP	O	O	O	O
-ऑर्डर	NN	TEMP	O	O	B-MISC	O
-मिलेंगे	VM	TEMP	O	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इससे
+पेटीएम
+मॉल
+के
+पार्टनर
+रिटेलर्स
+की
+बिक्री
+बढ़ेगी
+क्योंकि
+उन्हें
+चौबीसों
+घंटे
+ऑर्डर
+मिलेंगे
+.
 
-कितना	QF	TEMP	O	O	O	O
-कैशबैक	NN	TEMP	B-MISC	O	O	O
-मिलेगा	VM	TEMP	I-MISC	O	O	O
-:	SYM	TEMP	O	O	O	O
-बता	VM	TEMP	O	O	B-MISC	REP
-दें	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पेटीएम	NN	TEMP	O	O	O	O
-मॉल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सेल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्मार्टफोन्स	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-15,000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कैशबैक	NN	TEMP	O	O	B-MISC	OCC
-मिलेगा	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कितना
+कैशबैक
+मिलेगा
+:
+बता
+दें
+कि
+पेटीएम
+मॉल
+की
+सेल
+में
+स्मार्टफोन्स
+पर
+15,000
+रुपये
+तक
+का
+कैशबैक
+मिलेगा
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-लैपटॉप	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-कैशबैक	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एलईडी	XC	TEMP	O	O	O	O
-टीवी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-फ्रिज	NN	TEMP	O	O	O	O
-जैसे	PSP	TEMP	O	O	O	O
-घरेलू	XC	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-फैशन	NN	TEMP	O	O	O	O
-क्लोदिंग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-70	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जूतों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-लग्जरी	XC	TEMP	O	O	O	O
-घड़ियों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कैशबैक	NN	TEMP	B-MISC	O	O	OCC
-दिया	VM	TEMP	I-MISC	O	B-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+लैपटॉप
+पर
+20
+हजार
+रुपए
+तक
+कैशबैक
+,
+एलईडी
+टीवी
+व
+फ्रिज
+जैसे
+घरेलू
+सामान
+पर
+20
+फीसद
+तक
+,
+फैशन
+क्लोदिंग
+पर
+70
+फीसद
+,
+जूतों
+पर
+60
+फीसद
+और
+लग्जरी
+घड़ियों
+पर
+20
+हजार
+रुपए
+का
+कैशबैक
+दिया
+जाएगा
+.

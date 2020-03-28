@@ -1,287 +1,287 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बटाला	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिक्कों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दुकानदार	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-रेहडी	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-लेने	VM	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तैयार	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-बस	RP	TEMP	O	O	O	O
-यही	DEM	TEMP	O	O	O	O
-जवाब	NN	TEMP	B-MISC	O	B-STAT	DEC
-मिलता	VM	TEMP	I-MISC	O	I-STAT	O
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-चुका	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+बटाला
+:
+दस
+रुपये
+के
+सिक्कों
+को
+दुकानदार
+व
+रेहडी
+वाले
+लेने
+को
+तैयार
+नहीं
+है
+,
+बस
+यही
+जवाब
+मिलता
+है
+कि
+दस
+का
+सिक्का
+बंद
+हो
+चुका
+है
+.
 
-जिसे	PRP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-लेता	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसे
+बैंक
+भी
+नहीं
+लेता
+.
 
-इस	DEM	TEMP	O	O	O	O
-सबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दुकानदार	NN	TEMP	O	O	O	O
-पुराने	JJ	TEMP	O	O	O	O
-बै	QC	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-रग	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	B-STAT	DES
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-अनिल	XC	TEMP	O	O	O	O
-महाजन	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-करियाना	NN	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मालिक	JJ	TEMP	O	O	O	O
-अशोक	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-शदा	NN	TEMP	O	O	O	O
-फुल्लां	VM	TEMP	O	O	O	O
-वाला	VAUX	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-डेयरी	JJ	TEMP	O	O	O	O
-मालिक	NN	TEMP	O	O	O	O
-बंटी	XC	TEMP	O	O	O	O
-अरोडा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कपडा	NN	TEMP	O	O	O	O
-व्यापारी	JJ	TEMP	O	O	O	O
-अशोक	XC	TEMP	O	O	O	O
-अरोडा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कपडा	NN	TEMP	O	O	O	O
-व्यापारी	JJ	TEMP	O	O	O	O
-जोगिन्द्र	XC	TEMP	O	O	O	O
-पाल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-न्यूज	XC	TEMP	O	O	O	O
-पेपर	XC	TEMP	O	O	O	O
-एजेंट	XC	TEMP	O	O	O	O
-बिल्ला	NN	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-न्यूज	XC	TEMP	O	O	O	O
-पेपर	XC	TEMP	O	O	O	O
-एजेंट	XC	TEMP	O	O	O	O
-हैपी	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-न्यूज	XC	TEMP	O	O	O	O
-पेपर	XC	TEMP	O	O	O	O
-एजेंट	XC	TEMP	O	O	O	O
-बिट्टू	XC	TEMP	O	O	O	O
-डोगरा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-चाय	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	B-STAT	O
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	O	O
-नरेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बटाला	JJ	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-मंच	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अध्यक्ष	NN	TEMP	O	O	O	O
-निखिल	XC	TEMP	O	O	O	O
-कालिया	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शिव	XC	TEMP	O	O	O	O
-सेना	NN	TEMP	O	O	O	O
-हिंदोस्तान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रदेश	NN	TEMP	O	O	O	O
-संगठन	NN	TEMP	O	O	O	O
-मंत्री	XC	TEMP	O	O	O	O
-राजा	XC	TEMP	O	O	O	O
-वालिया	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-आजकल	NN	TEMP	O	O	O	O
-कहीं	PRP	TEMP	O	O	O	O
-जाओ	VM	TEMP	B-MISC	O	O	O
-बस	RP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अफवाह	NN	TEMP	O	O	O	O
-सुनने	VM	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मिलती	VM	TEMP	O	O	B-MISC	REP
-है	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-जिससे	PRP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-परेशान	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+सबंध
+में
+दुकानदार
+पुराने
+बै
+¨
+रग
+का
+काम
+करने
+वाले
+अनिल
+महाजन
+,
+करियाना
+स्टोर
+के
+मालिक
+अशोक
+कुमार
+,
+¨
+शदा
+फुल्लां
+वाला
+,
+डेयरी
+मालिक
+बंटी
+अरोडा
+,
+कपडा
+व्यापारी
+अशोक
+अरोडा
+,
+कपडा
+व्यापारी
+जोगिन्द्र
+पाल
+,
+न्यूज
+पेपर
+एजेंट
+बिल्ला
+चौधरी
+,
+न्यूज
+पेपर
+एजेंट
+हैपी
+शर्मा
+,
+न्यूज
+पेपर
+एजेंट
+बिट्टू
+डोगरा
+,
+चाय
+का
+काम
+करने
+वाले
+नरेश
+कुमार
+,
+बटाला
+विकास
+मंच
+के
+अध्यक्ष
+निखिल
+कालिया
+,
+शिव
+सेना
+हिंदोस्तान
+के
+प्रदेश
+संगठन
+मंत्री
+राजा
+वालिया
+ने
+कहा
+कि
+आजकल
+कहीं
+जाओ
+बस
+एक
+अफवाह
+सुनने
+को
+मिलती
+है
+कि
+दस
+रुपये
+का
+सिक्का
+बंद
+हो
+गया
+है
+जिससे
+सभी
+लोग
+परेशान
+हो
+रहे
+हैं
+.
 
-गौरतलब	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-छोटा	JJ	TEMP	O	O	O	O
-बडा	JJ	TEMP	O	O	O	O
-कारोबारी	NN	TEMP	O	O	B-MISC	O
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	OCC
-ले	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-बस	RP	TEMP	O	O	O	O
-अफवाह	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-कि	CC	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VM	TEMP	I-MISC	O	I-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-जिसके	PRP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-आम	JJ	TEMP	O	O	O	O
-जनता	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बेचैनी	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+गौरतलब
+है
+कि
+दस
+के
+सिक्के
+को
+कोई
+भी
+छोटा
+बडा
+कारोबारी
+नहीं
+ले
+रहा
+बस
+अफवाह
+है
+कि
+दस
+का
+सिक्का
+तो
+बैंक
+में
+भी
+नहीं
+लिया
+जाता
+जिसके
+चलते
+आम
+जनता
+में
+बेचैनी
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-उपायुक्त	JJ	TEMP	O	O	O	O
-अमित	JJ	TEMP	O	O	O	O
-अग्रवाल	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अफवाह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बचाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-यदि	CC	TEMP	O	O	O	O
-केंद्र	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-आरबीआई	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खजानची	NN	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-लेने	VM	TEMP	O	O	B-MISC	OCC
-से	PSP	TEMP	O	O	O	O
-क्यों	WQ	TEMP	O	O	O	O
-इंकार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-इसलिए	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नजर	NN	TEMP	B-MISC	O	O	OCC
-रखी	VM	TEMP	I-MISC	O	B-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-कौन	WQ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-कर्मी	XC	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-लेने	VM	TEMP	O	O	B-MISC	OCC
-से	PSP	TEMP	O	O	O	O
-इंकार	NN	TEMP	B-MISC	O	B-MISC	OCC
-करता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+लोगों
+ने
+जिला
+उपायुक्त
+अमित
+अग्रवाल
+से
+मांग
+की
+है
+कि
+लोगों
+को
+अफवाह
+से
+बचाया
+जाए
+और
+बैंक
+अधिकारियों
+से
+कहा
+जाए
+कि
+यदि
+केंद्र
+सरकार
+ने
+,
+आरबीआई
+ने
+दस
+रुपये
+का
+सिक्का
+बंद
+नहीं
+किया
+तो
+बैंक
+के
+खजानची
+सिक्का
+लेने
+से
+क्यों
+इंकार
+कर
+रहे
+हैं
+इसलिए
+इस
+पर
+नजर
+रखी
+जाए
+कि
+कौन
+बैंक
+कर्मी
+दस
+का
+सिक्का
+लेने
+से
+इंकार
+करता
+है
+.
 
-लोगों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-है	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सरकार	JJ	TEMP	O	O	O	O
-नजर	NN	TEMP	B-MISC	O	O	O
-रखे	VM	TEMP	I-MISC	O	O	O
-ताकि	CC	TEMP	O	O	O	O
-दहशत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बचा	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सके	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लोगों
+की
+मांग
+है
+कि
+बैंकों
+पर
+सरकार
+नजर
+रखे
+ताकि
+दहशत
+से
+बचा
+जा
+सके
+.

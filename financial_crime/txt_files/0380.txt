@@ -1,205 +1,205 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बहादुरगढ़	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-आर्य	JJ	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सुख-शाति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-पूजा-पाठ	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बाबा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-49	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-ठग	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+बहादुरगढ़
+:
+आर्य
+नगर
+में
+एक
+महिला
+से
+घर
+में
+सुख-शाति
+के
+लिए
+पूजा-पाठ
+कराने
+के
+नाम
+पर
+एक
+बाबा
+ने
+49
+हजार
+रुपये
+ठग
+लिए
+.
 
-महिला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परिजनों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बाबा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+महिला
+के
+परिजनों
+ने
+बाबा
+के
+खिलाफ
+पुलिस
+में
+शिकायत
+दे
+दी
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-केस	NN	TEMP	O	O	O	O
-दर्ज	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाच	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+केस
+दर्ज
+कर
+जाच
+शुरू
+कर
+दी
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आर्य	JJ	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	B-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-जानकार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिये	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बाबा	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संपर्क	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+को
+दी
+शिकायत
+में
+आर्य
+नगर
+निवासी
+एक
+व्यक्ति
+ने
+कहा
+है
+कि
+कुछ
+दिन
+पहले
+उसकी
+पत्नी
+का
+किसी
+जानकार
+के
+जरिये
+एक
+बाबा
+से
+संपर्क
+हुआ
+था
+.
 
-बाबा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सुख-शाति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-पूजा-पाठ	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कही	VM	TEMP	I-MISC	O	B-MISC	OCC
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाबा
+ने
+उसकी
+पत्नी
+को
+घर
+में
+सुख-शाति
+के
+लिए
+पूजा-पाठ
+कराने
+की
+बात
+कही
+थी
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-एवज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बाबा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-49	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-माग	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	I-MISC	O	O	O
-और	CC	TEMP	O	O	O	O
-बोला	VM	TEMP	B-MISC	O	B-MISC	OCC
-खर्चा	NN	TEMP	B-MISC	O	O	O
-निकालने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बचेंगे	VM	TEMP	B-MISC	O	B-MISC	O
-वह	PRP	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-देगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+एवज
+में
+बाबा
+ने
+49
+हजार
+रुपये
+की
+माग
+की
+और
+बोला
+खर्चा
+निकालने
+के
+बाद
+जो
+रुपये
+बचेंगे
+वह
+वापस
+कर
+देगा
+.
 
-उसकी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-बाबा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-झासे	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	I-MISC	O	O	O
-आ	VM	TEMP	I-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-बाबा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-राशि	NN	TEMP	B-MISC	O	O	O
-डलवा	VM	TEMP	I-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसकी
+पत्नी
+बाबा
+के
+झासे
+में
+आ
+गई
+और
+बाबा
+के
+खाते
+में
+यह
+राशि
+डलवा
+दी
+.
 
-जब	PRP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-वापस	JJ	TEMP	O	O	O	OCC
-रुपये	NN	TEMP	O	O	O	O
-मागे	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+उसे
+वापस
+रुपये
+मागे
+गए
+तो
+उसने
+नहीं
+दिए
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बाबा	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-संपर्क	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+बाबा
+से
+कोई
+संपर्क
+नहीं
+हुआ
+.
 
-सेक्टर-	NN	TEMP	O	O	O	O
-9	QC	TEMP	O	O	O	O
-चौकी	NN	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-दलबीर	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-केस	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-जाच	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सेक्टर-
+9
+चौकी
+प्रभारी
+दलबीर
+सिंह
+ने
+कहा
+कि
+केस
+दर्ज
+कर
+जाच
+की
+जा
+रही
+है
+.
 
-जल्द	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-आरोपी	JJ	TEMP	O	O	O	O
-बाबा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-काबू	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जल्द
+से
+जल्द
+आरोपी
+बाबा
+को
+काबू
+कर
+लिया
+जाएगा
+.

@@ -1,280 +1,280 @@
 
-हाथरस	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सादाबाद	JJ	TEMP	O	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तसींगा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-नीति	XC	TEMP	O	O	O	O
-निवास	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मां-बेटी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बेहोश	JJ	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-पूरा	JJ	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-साफ	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हाथरस
+:
+सादाबाद
+कोतवाली
+क्षेत्र
+में
+तसींगा
+के
+गांव
+नीति
+निवास
+में
+गुरुवार
+की
+रात
+बदमाशों
+ने
+मां-बेटी
+को
+बेहोश
+कर
+पूरा
+घर
+साफ
+कर
+दिया
+.
 
-बदमाश	JJ	TEMP	O	O	O	O
-लाखों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-माल	NN	TEMP	O	O	O	OCC
-ले	VM	TEMP	B-MISC	O	B-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-सफल	JJ	TEMP	O	O	B-STAT	OCC
-रहे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+बदमाश
+लाखों
+का
+माल
+ले
+जाने
+में
+सफल
+रहे
+.
 
-गृह	XC	TEMP	O	O	O	O
-स्वामी	XC	TEMP	O	O	O	O
-नोहरे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सोया	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गृह
+स्वामी
+नोहरे
+पर
+सोया
+हुआ
+था
+.
 
-इसका	PRP	TEMP	O	O	O	O
-फायदा	NN	TEMP	O	O	B-MISC	O
-उठाकर	VM	TEMP	O	O	I-MISC	O
-बदमाश	JJ	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	IAC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसका
+फायदा
+उठाकर
+बदमाश
+चोरी
+कर
+फरार
+हो
+गए
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-ली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+में
+पुलिस
+ने
+तहरीर
+नहीं
+ली
+.
 
-राजवीर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-हुकुम	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	O	O	B-MISC	REP
-है	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-अक्सर	RB	TEMP	O	O	O	O
-नोहरे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-सोता	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+राजवीर
+¨
+सह
+पुत्र
+हुकुम
+¨
+सह
+ने
+तहरीर
+में
+बताया
+है
+कि
+वह
+अक्सर
+नोहरे
+पर
+ही
+सोता
+है
+.
 
-24	QC	TEMP	O	B	O	O
-अगस्त	NN	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-भी	RP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-नोहरे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-सो	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+24
+अगस्त
+की
+रात
+भी
+वह
+नोहरे
+पर
+ही
+सो
+रहा
+था
+.
 
-घर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-शीला	JJ	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बेटी	JJ	TEMP	O	O	O	O
-दीपिका	NN	TEMP	O	O	O	O
-सो	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घर
+पर
+पत्नी
+शीला
+व
+बेटी
+दीपिका
+सो
+रही
+थी
+.
 
-मध्यरात्रि	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बदमाश	JJ	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घुस	VM	TEMP	B-MISC	O	B-MISC	OCC
-आए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मध्यरात्रि
+को
+बदमाश
+घर
+में
+घुस
+आए
+.
 
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नशीला	JJ	TEMP	O	O	O	O
-पदार्थ	NN	TEMP	O	O	O	O
-सुंघाकर	VM	TEMP	O	O	B-MISC	O
-मां-बेटी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बेहोश	JJ	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-दिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बदमाशों
+ने
+नशीला
+पदार्थ
+सुंघाकर
+मां-बेटी
+को
+बेहोश
+कर
+दिया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-माल	NN	TEMP	O	O	O	O
-साफ	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+बदमाशों
+ने
+घर
+से
+माल
+साफ
+कर
+दिया
+.
 
-बदमाश	NN	TEMP	O	O	O	O
-ढाई	QF	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-डेढ़	NNP	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-सोने	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-किलो	NN	TEMP	O	O	O	O
-700	QC	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-चांदी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आभूषण	NN	TEMP	O	O	O	O
-चुरा	VM	TEMP	B-MISC	O	B-MISC	O
-ले	VM	TEMP	I-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बदमाश
+ढाई
+लाख
+रुपये
+के
+अलावा
+करीब
+डेढ़
+सौ
+ग्राम
+सोने
+के
+और
+एक
+किलो
+700
+ग्राम
+चांदी
+के
+आभूषण
+चुरा
+ले
+गए
+.
 
-सुबह	NN	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-मां-बेटी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-होश	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-साफ	JJ	TEMP	O	O	O	O
-देख	VM	TEMP	O	O	B-MISC	OCC
-उनके	PRP	TEMP	O	O	O	O
-होश	NN	TEMP	B-MISC	O	B-MISC	OCC
-उड	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुबह
+जब
+मां-बेटी
+को
+होश
+आया
+तो
+घर
+साफ
+देख
+उनके
+होश
+उड
+गए
+.
 
-आनन-फानन	NN	TEMP	O	O	O	O
-राजवीर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-सारा	QF	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-अस्त-व्यस्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-पडा	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आनन-फानन
+राजवीर
+¨
+सह
+घर
+पहुंचे
+तो
+सारा
+घर
+अस्त-व्यस्त
+पडा
+था
+.
 
-घर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हाल	NN	TEMP	O	O	O	OCC
-देख	VM	TEMP	B-MISC	O	B-MISC	O
-मां	VAUX	TEMP	I-MISC	O	I-MISC	O
-बेटी	NN	TEMP	O	O	O	O
-फफक-फफक	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रो	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थीं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घर
+का
+हाल
+देख
+मां
+बेटी
+फफक-फफक
+कर
+रो
+रही
+थीं
+.
 
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तमाम	JJ	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-राजवीर	XC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-जुट	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गांव
+के
+तमाम
+लोग
+राजवीर
+के
+घर
+जुट
+गए
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-शीला	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-दीपिका	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बेहोश	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	O	O
-बातचीत	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-सुन	VM	TEMP	O	O	B-MISC	OCC
-लिया	VAUX	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+भी
+पता
+चला
+कि
+शीला
+व
+दीपिका
+को
+बेहोश
+करने
+से
+पहले
+बदमाशों
+के
+बीच
+हुई
+बातचीत
+को
+उन्होंने
+सुन
+लिया
+था
+.
 
-आवाज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-पहचान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दायरे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+आवाज
+से
+कुछ
+लोग
+पहचान
+के
+दायरे
+में
+हैं
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	B-STAT	O
-गई	VAUX	TEMP	O	O	I-STAT	O
-तहरीर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-असर	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+में
+दी
+गई
+तहरीर
+का
+पुलिस
+पर
+कोई
+असर
+नहीं
+है
+.

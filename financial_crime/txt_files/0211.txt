@@ -1,680 +1,680 @@
-﻿नई	JJ	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿नई
+दिल्ली
+(
+जेएनएन
+)
+.
 
-केंद्र	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	B-STAT	O
-गए	VM	TEMP	O	O	I-STAT	OCC
-नोटबंदी	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-फैसले	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जहां	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-विपक्ष	NN	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-विरोध	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-वहीं	PRP	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-वित्त	JJ	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-फायदे	NN	TEMP	O	O	O	O
-गिना	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+केंद्र
+सरकार
+की
+ओर
+से
+लिए
+गए
+नोटबंदी
+के
+फैसले
+का
+जहां
+एक
+ओर
+विपक्ष
+लगातार
+विरोध
+कर
+रहा
+है
+वहीं
+दूसरी
+तरफ
+वित्त
+मंत्री
+इसके
+फायदे
+गिना
+रहे
+हैं
+.
 
-बीते	VM	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-ऐसे	DEM	TEMP	O	O	O	O
-सेक्टर्स	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-असर	NN	TEMP	B-MISC	O	B-MISC	OCC
-डाला	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-जो	PRP	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-सीधा	JJ	TEMP	O	O	O	O
-आम	JJ	TEMP	O	O	O	O
-आदमी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सरोकार	NN	TEMP	O	O	B-MISC	OCC
-रखते	VM	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीते
+एक
+साल
+के
+दौरान
+नोटबंदी
+ने
+कुछ
+ऐसे
+सेक्टर्स
+पर
+असर
+डाला
+है
+जो
+कि
+सीधा
+आम
+आदमी
+से
+सरोकार
+रखते
+हैं
+.
 
-हम	PRP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-खबर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बीते	VM	TEMP	O	O	B-MISC	O
-एक	QC	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आंकड़ों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-समझाने	VM	TEMP	O	O	B-MISC	O
-की	PSP	TEMP	O	O	O	O
-कोशिश	NN	TEMP	B-MISC	O	B-MISC	OCC
-करेंगे	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-गोल्ड	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शेयर	XC	TEMP	O	O	O	O
-मार्केट	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जीडीपी	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-महंगाई	NN	TEMP	O	O	O	O
-किस	WQ	TEMP	O	O	O	O
-हद	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	B-MISC	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रभावित	JJ	TEMP	O	O	B-MISC	OCC
-रही	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हम
+अपनी
+इस
+खबर
+में
+बीते
+एक
+साल
+के
+आंकड़ों
+के
+जरिए
+समझाने
+की
+कोशिश
+करेंगे
+कि
+गोल्ड
+,
+शेयर
+मार्केट
+,
+रुपया
+,
+जीडीपी
+और
+महंगाई
+किस
+हद
+तक
+नोटबंदी
+से
+प्रभावित
+रही
+है
+.
 
-शेयर	XC	TEMP	O	O	O	O
-बाजार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किया	VM	TEMP	O	O	O	O
-बेहतर	JJ	TEMP	O	O	O	O
-प्रदर्शन	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-बीते	VM	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-यानी	CC	TEMP	O	O	O	O
-नवंबर	NNP	TEMP	O	B	O	O
-2016	QC	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-नवंबर	NNP	TEMP	O	B	O	O
-2017	QC	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-सेंसेक्स	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-21	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रिटर्न	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शेयर
+बाजार
+ने
+किया
+बेहतर
+प्रदर्शन
+:
+बीते
+एक
+साल
+के
+दौरान
+यानी
+नवंबर
+2016
+से
+लेकर
+नवंबर
+2017
+तक
+सेंसेक्स
+ने
+करीब
+21
+फीसद
+का
+रिटर्न
+दिया
+है
+.
 
-अगर	CC	TEMP	O	O	O	O
-निफ्टी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-करें	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-10	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-तेज	JJ	TEMP	O	O	O	O
-गिरावट	NN	TEMP	O	O	O	O
-देखने	VM	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	I-MISC	O	O	O
-मिली	VM	TEMP	I-MISC	O	B-MISC	OCC
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+निफ्टी
+की
+बात
+करें
+तो
+इसमें
+10
+नवंबर
+को
+तेज
+गिरावट
+देखने
+को
+मिली
+थी
+.
 
-21	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-थोड़ा	NNP	TEMP	O	O	O	O
-उछाल	NN	TEMP	B-MISC	O	O	OCC
-जरूर	RB	TEMP	I-MISC	O	O	O
-आया	VM	TEMP	I-MISC	O	B-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-गिरावट	NN	TEMP	O	O	B-MISC	OCC
-देखने	VM	TEMP	B-MISC	O	I-MISC	O
-को	PSP	TEMP	I-MISC	O	O	O
-मिली	VM	TEMP	I-MISC	O	B-MISC	REP
-जो	PRP	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-26	QC	TEMP	O	B	O	O
-दिसंबर	NNP	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-रही	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+21
+नवंबर
+को
+इसमें
+थोड़ा
+उछाल
+जरूर
+आया
+,
+लेकिन
+इसमें
+फिर
+गिरावट
+देखने
+को
+मिली
+जो
+कि
+26
+दिसंबर
+तक
+जारी
+रही
+.
 
-26	QC	TEMP	O	B	O	O
-दिसंबर	NNP	TEMP	O	I	O	O
-2016	QC	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निफ्टी	NN	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-बढ़	NN	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+26
+दिसंबर
+2016
+के
+बाद
+से
+निफ्टी
+लगातार
+बढ़
+रहा
+है
+.
 
-निफ्टी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बीते	VM	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-21.23	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रिटर्न	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+निफ्टी
+ने
+बीते
+एक
+साल
+के
+दौरान
+करीब
+21.23
+फीसद
+का
+रिटर्न
+दिया
+है
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-सेंसेक्स	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हाल	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-ऐसा	PRP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+सेंसेक्स
+का
+हाल
+भी
+कुछ
+ऐसा
+ही
+रहा
+है
+.
 
-सेंसेक्स	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-गिरावट	NN	TEMP	O	O	O	O
-देखने	VM	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	I-MISC	O	O	O
-मिली	VM	TEMP	I-MISC	O	B-MISC	OCC
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सेंसेक्स
+में
+10
+नवंबर
+को
+गिरावट
+देखने
+को
+मिली
+थी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-21	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-गिरावट	NN	TEMP	O	O	B-MISC	OCC
-देखने	VM	TEMP	B-MISC	O	I-MISC	O
-को	PSP	TEMP	I-MISC	O	O	O
-मिली	VM	TEMP	I-MISC	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+इसमें
+21
+नवंबर
+को
+इसमें
+फिर
+गिरावट
+देखने
+को
+मिली
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-26	QC	TEMP	O	B	O	O
-दिसंबर	NNP	TEMP	O	I	O	O
-2016	QC	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-तेजी	RB	TEMP	O	O	B-MISC	OCC
-जारी	JJ	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+26
+दिसंबर
+2016
+से
+इसमें
+लगातार
+तेजी
+जारी
+है
+.
 
-सेंसेक्स	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बीते	VM	TEMP	O	O	B-MISC	OCC
-एक	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-21.11	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रिटर्न	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सेंसेक्स
+ने
+भी
+बीते
+एक
+साल
+के
+दौरान
+21.11
+फीसद
+का
+रिटर्न
+दिया
+है
+.
 
-कैसा	WQ	TEMP	O	O	O	O
-रहा	VM	TEMP	O	O	O	O
-आईपीओ	NN	TEMP	O	O	O	O
-बाजार	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हाल	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-बीते	VM	TEMP	O	O	O	O
-5	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-2017	QC	TEMP	O	O	O	O
-आईपीओ	NN	TEMP	O	O	O	O
-मार्केट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिहाज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-बेहतर	JJ	TEMP	O	O	B-STAT	O
-रहा	VM	TEMP	O	O	I-STAT	DECL
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+कैसा
+रहा
+आईपीओ
+बाजार
+का
+हाल
+:
+अगर
+बीते
+5
+साल
+की
+बात
+की
+जाए
+तो
+साल
+2017
+आईपीओ
+मार्केट
+के
+लिहाज
+से
+काफी
+बेहतर
+रहा
+है
+.
 
-साल	NN	TEMP	O	B	O	O
-2017	QC	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-कुल	QF	TEMP	O	O	O	O
-35	QC	TEMP	O	O	O	O
-आईपीओ	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिसके	PRP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-70,714.41	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-जुटाई	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुकी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साल
+2017
+में
+अब
+तक
+कुल
+35
+आईपीओ
+जारी
+किए
+जा
+चुके
+हैं
+,
+जिसके
+जरिए
+70,714.41
+करोड़
+रुपए
+की
+धनराशि
+जुटाई
+जा
+चुकी
+है
+.
 
-आपको	PRP	TEMP	O	O	O	O
-बता	VM	TEMP	O	O	B-MISC	OCC
-दें	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-2016	QC	TEMP	O	B	O	O
-में	PSP	TEMP	O	O	O	O
-27	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-साल	NN	TEMP	O	B	O	O
-2015	QC	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-21	QC	TEMP	O	O	O	O
-आईपीओ	NN	TEMP	O	O	O	O
-लॉन्च	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आपको
+बता
+दें
+कि
+साल
+2016
+में
+27
+और
+साल
+2015
+में
+21
+आईपीओ
+लॉन्च
+हुए
+थे
+.
 
-फीकी	JJ	TEMP	O	O	B-STAT	O
-हुई	VM	TEMP	O	O	I-STAT	O
-सोने	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चमक	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-बीते	VM	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	B-MISC	O	O	O
-का	PSP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-बड़ा	XC	TEMP	O	O	O	O
-असर	NN	TEMP	O	O	O	O
-गोल्ड	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-देखने	VM	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	I-MISC	O	I-MISC	O
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फीकी
+हुई
+सोने
+की
+चमक
+:
+अगर
+बीते
+एक
+साल
+की
+बात
+की
+जाए
+तो
+नोटबंदी
+का
+सबसे
+बड़ा
+असर
+गोल्ड
+पर
+देखने
+को
+मिला
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-असर	NN	TEMP	O	O	O	O
-दशहरे	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-धनतेरस	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-दिवाली	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-की	VM	TEMP	O	O	B-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-खरीदारी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दिखा	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+यह
+असर
+दशहरे
+,
+धनतेरस
+और
+दिवाली
+के
+मौके
+पर
+की
+गई
+खरीदारी
+में
+दिखा
+.
 
-बीते	RDP	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-मुकाबले	JJ	TEMP	O	O	O	O
-सोने	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीदारी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गिरावट	NN	TEMP	O	O	O	O
-देखने	VM	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	I-MISC	O	I-MISC	O
-मिली	VM	TEMP	I-MISC	O	I-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीते
+साल
+के
+मुकाबले
+सोने
+की
+खरीदारी
+में
+30
+फीसद
+तक
+की
+गिरावट
+देखने
+को
+मिली
+है
+.
 
-अगर	CC	TEMP	O	O	O	O
-प्रदर्शन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-बीते	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-1.50	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कमी	NN	TEMP	B-MISC	O	B-MISC	OCC
-आई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+प्रदर्शन
+की
+बात
+की
+जाए
+तो
+बीते
+एक
+साल
+के
+दौरान
+इसमें
+इसमें
+1.50
+फीसद
+की
+कमी
+आई
+है
+.
 
-चांदी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-हुई	VM	TEMP	B-MISC	O	B-MISC	-1
-कमजोर	JJ	TEMP	I-MISC	O	I-MISC	O
-:	SYM	TEMP	O	O	O	O
-वहीं	PRP	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-सिल्वर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-सिल्वर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-असर	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चांदी
+भी
+हुई
+कमजोर
+:
+वहीं
+अगर
+सिल्वर
+की
+बात
+की
+जाए
+तो
+सिल्वर
+पर
+भी
+नोटबंदी
+का
+असर
+हुआ
+है
+.
 
-बीते	RDP	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-सिल्वर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रदर्शन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-9.38	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गिरावट	NN	TEMP	B-MISC	O	B-MISC	OCC
-आई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीते
+एक
+साल
+के
+दौरान
+सिल्वर
+के
+प्रदर्शन
+में
+9.38
+फीसद
+की
+गिरावट
+आई
+है
+.
 
-धनतेरस	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-दिवाली	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चांदी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-खरीदारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कम	QF	TEMP	I-MISC	O	I-MISC	O
-रही	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+धनतेरस
+और
+दिवाली
+के
+मौके
+पर
+चांदी
+की
+भी
+खरीदारी
+कम
+रही
+है
+.
 
-बढ़ी	NN	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धमक	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सकारात्मक	JJ	TEMP	O	O	O	O
-असर	NN	TEMP	O	O	O	O
-देखने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	I-MISC	O	I-MISC	O
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बढ़ी
+रुपए
+की
+धमक
+:
+रुपए
+पर
+नोटबंदी
+का
+सकारात्मक
+असर
+देखने
+के
+मिला
+है
+.
 
-बीते	RDP	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-2.52	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-मजबूत	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीते
+एक
+साल
+के
+दौरान
+रुपया
+2.52
+फीसद
+मजबूत
+हुआ
+है
+.
 
-यह	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अच्छा	JJ	TEMP	O	O	O	O
-संकेत	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+यह
+एक
+अच्छा
+संकेत
+है
+.
 
-फिलहाल	RB	TEMP	O	O	O	O
-रुपया	XC	TEMP	O	O	O	O
-डॉलर	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुकाबले	JJ	TEMP	O	O	O	O
-65.09	QC	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कारोबार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिलहाल
+रुपया
+डॉलर
+के
+मुकाबले
+65.09
+पर
+कारोबार
+कर
+रहा
+है
+.
 
-मजबूत	JJ	TEMP	B-MISC	O	B-MISC	O
-होता	VM	TEMP	I-MISC	O	I-MISC	O
-रुपया	NN	TEMP	O	O	O	O
-आम	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-फायदे	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सौदा	NN	TEMP	O	O	O	O
-साबित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मजबूत
+होता
+रुपया
+आम
+लोगों
+के
+लिए
+फायदे
+का
+सौदा
+साबित
+होता
+है
+.
 
-महंगाई	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कैसा	WQ	TEMP	O	O	O	O
-रहा	VM	TEMP	O	O	O	O
-असर	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	B-MISC	O	O	O
-का	PSP	TEMP	O	O	O	O
-असर	NN	TEMP	O	O	O	O
-महंगाई	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-देखने	VM	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	I-MISC	O	I-MISC	O
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+महंगाई
+पर
+कैसा
+रहा
+असर
+:
+नोटबंदी
+का
+असर
+महंगाई
+पर
+भी
+देखने
+को
+मिला
+है
+.
 
-अगर	CC	TEMP	O	O	O	O
-सीपीआई	NN	TEMP	O	O	O	O
-इन्फ्लेशन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-उतार-चढ़ाव	NN	TEMP	O	O	B-MISC	OCC
-देखने	VM	TEMP	B-MISC	O	I-MISC	O
-को	PSP	TEMP	I-MISC	O	I-MISC	O
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+सीपीआई
+इन्फ्लेशन
+की
+बात
+की
+जाए
+तो
+इसमें
+काफी
+उतार-चढ़ाव
+देखने
+को
+मिला
+है
+.
 
-नवंबर	NNP	TEMP	O	B	O	O
-2016	QC	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-सीपीआई	JJ	TEMP	O	O	O	O
-इन्फ्लेशन	NN	TEMP	O	O	O	O
-3.63	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-थी	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+नवंबर
+2016
+के
+दौरान
+सीपीआई
+इन्फ्लेशन
+3.63
+फीसद
+थी
+.
 
-जून	NNP	TEMP	O	B	O	O
-2017	QC	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-बड़ी	JJ	TEMP	O	O	O	O
-गिरावट	NN	TEMP	B-MISC	O	B-MISC	OCC
-आई	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-1.54	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जून
+2017
+में
+इसमें
+बड़ी
+गिरावट
+आई
+और
+यह
+1.54
+फीसद
+पर
+पहुंच
+गई
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-तेजी	RB	TEMP	B-MISC	O	B-MISC	OCC
-आ	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+इसके
+बाद
+इसमें
+फिर
+तेजी
+आ
+गई
+.
 
-सितंबर	NNP	TEMP	O	B	O	O
-2017	QC	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-3.28	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सितंबर
+2017
+तक
+यह
+3.28
+फीसद
+पर
+पहुंच
+गई
+.
 
-जीडीपी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कैसा	WQ	TEMP	O	O	O	O
-रहा	VM	TEMP	O	O	O	O
-असर	NN	TEMP	O	O	O	OCC
-:	SYM	TEMP	O	O	O	O
-वहीं	PRP	TEMP	O	O	O	O
-बीते	VM	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जीडीपी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-असर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिखा	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जीडीपी
+पर
+कैसा
+रहा
+असर
+:
+वहीं
+बीते
+एक
+साल
+के
+दौरान
+देश
+की
+जीडीपी
+पर
+भी
+असर
+दिखा
+है
+.
 
-चालू	NN	TEMP	O	B	O	O
-वित्त	JJ	TEMP	O	I	O	O
-वर्ष	NN	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-पहली	QO	TEMP	O	O	O	O
-तिमाही	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जीडीपी	NN	TEMP	O	O	O	O
-5.7	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-बीते	VM	TEMP	O	O	O	O
-तीन	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-निचले	JJ	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चालू
+वित्त
+वर्ष
+की
+पहली
+तिमाही
+में
+देश
+की
+जीडीपी
+5.7
+फीसद
+के
+साथ
+बीते
+तीन
+साल
+के
+निचले
+स्तर
+पर
+पहुंच
+गई
+.

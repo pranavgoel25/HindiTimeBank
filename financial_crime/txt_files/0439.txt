@@ -1,264 +1,264 @@
 
-खोदावंदपुर	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-बेगूसराय	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-खोदावंदपुर	NNP	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-यूको	NN	TEMP	O	O	O	O
-बैक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बगल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-संचालित	JJ	TEMP	O	O	O	O
-एटीजेड	NN	TEMP	O	O	O	O
-कैश	WQ	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-दहाडे	NN	TEMP	O	O	O	OCC
-घुसकर	VM	TEMP	O	O	B-MISC	O
-दो	VAUX	TEMP	O	O	I-MISC	O
-सशत्र	JJ	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-मारपीट	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-हथियार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कैश	XC	TEMP	O	O	O	O
-काउंटर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-27	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-925	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लूट	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खोदावंदपुर
+(
+बेगूसराय
+)
+:
+खोदावंदपुर
+बाजार
+स्थित
+यूको
+बैक
+के
+बगल
+में
+संचालित
+एटीजेड
+कैश
+कार्ड
+के
+कार्यालय
+में
+दिन
+दहाडे
+घुसकर
+दो
+सशत्र
+बदमाशों
+ने
+कार्यालय
+कर्मी
+के
+साथ
+मारपीट
+कर
+हथियार
+के
+बल
+पर
+कैश
+काउंटर
+से
+एक
+लाख
+27
+हजार
+925
+-
+रुपये
+लूट
+कर
+फरार
+हो
+गए
+.
 
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाबत	PSP:?	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कमीशन	NN	TEMP	O	O	O	O
-एजेंट	XC	TEMP	O	O	O	O
-सुनील	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-खोदावंदपुर	XC	TEMP	O	O	O	O
-यूको	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बगल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-किराए	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एटीजेड	NN	TEMP	O	O	O	O
-कैश	XC	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-टग	NN	TEMP	O	O	O	O
-लिमिटेड	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-फ्रेंचाइजी	JJ	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+घटना
+के
+बाबत
+कंपनी
+के
+कमीशन
+एजेंट
+सुनील
+कुमार
+ने
+पुलिस
+को
+बताया
+कि
+खोदावंदपुर
+यूको
+बैंक
+के
+बगल
+में
+किराए
+पर
+एटीजेड
+कैश
+कार्ड
+से
+¨
+टग
+लिमिटेड
+कंपनी
+का
+फ्रेंचाइजी
+कार्यालय
+है
+.
 
-जहां	PRP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-बतौर	JJ	TEMP	O	O	O	O
-कमीशन	NN	TEMP	O	O	O	O
-एजेंट	NN	TEMP	O	O	O	O
-कार्यरत	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जहां
+वह
+बतौर
+कमीशन
+एजेंट
+कार्यरत
+है
+.
 
-कंपनी	JJ	TEMP	O	O	O	O
-महिलाओं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-समूह	NN	TEMP	O	O	O	O
-गठित	JJ	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-पैसे	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लेन	NN	TEMP	B-MISC	O	B-MISC	OCC
-देन	VM	TEMP	I-MISC	O	I-MISC	O
-करती	VM	TEMP	B-MISC	O	I-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कंपनी
+महिलाओं
+का
+समूह
+गठित
+कर
+पैसे
+का
+लेन
+देन
+करती
+है
+.
 
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-दिन	NN	TEMP	O	B	O	O
-के	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-12	QC	TEMP	O	B	O	O
-बजे	VM	TEMP	O	I	O	O
-वह	PRP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-था	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+सोमवार
+को
+दिन
+के
+करीब
+12
+बजे
+वह
+अपने
+कार्यालय
+में
+था
+.
 
-तभी	PRP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-सशस्त्र	JJ	TEMP	O	O	O	O
-अपराधी	NN	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घुस	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-शस्त्र	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भय	NN	TEMP	B-MISC	O	B-MISC	O
-दिखाकर	VM	TEMP	I-MISC	O	I-MISC	O
-कैश	XC	TEMP	O	O	O	O
-काउंटर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ग्राहकों	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-जमा	JJ	TEMP	O	O	B-STAT	OCC
-कराए	VM	TEMP	O	O	I-STAT	O
-गए	VAUX	TEMP	O	O	I-STAT	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-27	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-925	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-नकद	JJ	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	O
-फरार	NN	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तभी
+दो
+अज्ञात
+सशस्त्र
+अपराधी
+कार्यालय
+में
+घुस
+गए
+और
+मारपीट
+करते
+हुए
+शस्त्र
+का
+भय
+दिखाकर
+कैश
+काउंटर
+से
+ग्राहकों
+द्वारा
+जमा
+कराए
+गए
+एक
+लाख
+27
+हजार
+925
+रुपये
+नकद
+लेकर
+फरार
+हो
+गए
+.
 
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जाते-जाते	VM	TEMP	O	O	B-MISC	OCC
-कार्यालय	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-शटर	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-गिरा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बदमाशों
+ने
+जाते-जाते
+कार्यालय
+का
+शटर
+भी
+गिरा
+दिया
+.
 
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मेघौल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-ग्राहक	NN	TEMP	O	O	O	O
-बनारसी	VM	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शांति	NN	TEMP	O	O	O	O
-देवी	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रियंका	JJ	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-सुदामा	XC	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	O
-थीं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+मौके
+पर
+मेघौल
+के
+चार
+ग्राहक
+बनारसी
+देवी
+,
+शांति
+देवी
+,
+प्रियंका
+देवी
+और
+सुदामा
+देवी
+मौजूद
+थीं
+.
 
-जिन्होंने	PRP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-देखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जिन्होंने
+घटना
+को
+देखा
+.
 
-सूचना	NN	TEMP	B-MISC	O	B-MISC	O
-पाकर	VM	TEMP	I-MISC	O	I-MISC	O
-थानाध्यक्ष	NN	TEMP	O	O	O	O
-रुबिकांत	JJ	TEMP	O	O	O	O
-कच्छप	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-बल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-घटनास्थल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मुयायना	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सूचना
+पाकर
+थानाध्यक्ष
+रुबिकांत
+कच्छप
+पुलिस
+बल
+के
+पहुंच
+कर
+घटनास्थल
+का
+मुयायना
+किया
+.
 
-बैंककर्मियों	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूछताछ	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंककर्मियों
+एवं
+लोगों
+से
+पूछताछ
+की
+.
 
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-पुष्टि	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थानाध्यक्ष	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाबत	PSP:?	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-पक्ष	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	O	O
-प्राप्त	JJ	TEMP	I-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घटना
+की
+पुष्टि
+करते
+हुए
+थानाध्यक्ष
+ने
+बताया
+कि
+घटना
+के
+बाबत
+पीडित
+पक्ष
+द्वारा
+आवेदन
+प्राप्त
+हुआ
+है
+.
 
-बदमाशों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खोज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-छापेमारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-हूं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बदमाशों
+की
+खोज
+में
+छापेमारी
+कर
+रही
+हूं
+.
 
-थाना	RDP	TEMP	O	O	O	O
-पहुंचकर	VM	TEMP	O	O	B-MISC	O
-आवश्यक	JJ	TEMP	O	O	O	OCC
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	O
-करुंगी	VM	TEMP	I-MISC	O	I-MISC	OCC
+थाना
+पहुंचकर
+आवश्यक
+कार्रवाई
+करुंगी

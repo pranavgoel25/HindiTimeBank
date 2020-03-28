@@ -1,370 +1,370 @@
-﻿कानपुर	JJ	TEMP	O	O	O	O
-देहात	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿कानपुर
+देहात
+(
+जेएनएन
+)
+.
 
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-दैनिक	JJ	TEMP	O	O	O	O
-जागरण	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-वर्ष	NN	TEMP	O	I	O	O
-नोटबंदी	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जन्में	NN	TEMP	O	O	O	O
-खजांची	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हालात	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खबर	NN	TEMP	O	O	O	O
-प्रकाशित	JJ	TEMP	B-MISC	O	B-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सोमवार
+को
+'
+दैनिक
+जागरण
+'
+ने
+पिछले
+वर्ष
+नोटबंदी
+की
+लाइन
+में
+जन्में
+खजांची
+के
+हालात
+पर
+खबर
+प्रकाशित
+की
+थी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-अखिलेश	JJ	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-खजांची	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-आर्थिक	JJ	TEMP	O	O	O	O
-मदद	NN	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+पूर्व
+मुख्यमंत्री
+अखिलेश
+यादव
+ने
+खजांची
+की
+10
+हजार
+रुपये
+की
+आर्थिक
+मदद
+की
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-संदेश	NN	TEMP	B-MISC	O	B-MISC	OCC
-भेजा	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-खजांची	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिलने	VM	TEMP	O	O	O	O
-झींझक	NN	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-आएंगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+यह
+भी
+संदेश
+भेजा
+कि
+वे
+खजांची
+से
+मिलने
+झींझक
+जल्द
+ही
+आएंगे
+.
 
-खजांची	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-सर्वेशा	NN	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-बैंक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कतार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगी	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसी	PRP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-उनको	PRP	TEMP	O	O	O	O
-प्रसव	XC	TEMP	O	O	O	O
-पीड़ा	NNP	TEMP	O	O	O	O
-शुरू	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जन्म	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खजांची
+की
+मां
+सर्वेशा
+पिछले
+साल
+बैंक
+की
+कतार
+में
+लगी
+हुई
+थी
+और
+उसी
+बीच
+उनको
+प्रसव
+पीड़ा
+शुरू
+हो
+गई
+और
+उन्होंने
+एक
+बच्चे
+को
+जन्म
+दिया
+.
 
-उस	DEM	TEMP	O	O	O	O
-वक्त	NN	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-खजांच	NN	TEMP	O	O	O	O
-रखा	VM	TEMP	O	O	B-MISC	OCC
-गया	VAUX	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उस
+वक्त
+इस
+बच्चे
+का
+नाम
+खजांच
+रखा
+गया
+था
+.
 
-उस	DEM	TEMP	O	O	O	O
-वक्त	NN	TEMP	O	O	O	O
-तत्कालीन	JJ	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-अखिलेश	JJ	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-परवरिश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-चेक	NN	TEMP	O	O	O	O
-सर्वेशा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लखनऊ	NN	TEMP	O	O	O	O
-बुलाकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	B-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उस
+वक्त
+तत्कालीन
+मुख्यमंत्री
+अखिलेश
+यादव
+ने
+बच्चे
+की
+परवरिश
+के
+लिए
+दो
+लाख
+रुपये
+का
+चेक
+सर्वेशा
+को
+लखनऊ
+बुलाकर
+दिया
+था
+.
 
-नोटबंदी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जन्मे	XC	TEMP	O	O	O	O
-‘	XC	TEMP	O	O	O	O
-ख़ज़ांची	NNP	TEMP	O	O	O	O
-’	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-जानतीं	VM	TEMP	I-MISC	O	I-MISC	O
-कालाधन	XC	TEMP	O	O	O	O
-क्या	WQ	TEMP	O	O	O	O
-होता	VM	TEMP	O	O	B-STAT	OCC
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+नोटबंदी
+की
+लाइन
+में
+जन्मे
+‘
+ख़ज़ांची
+’
+की
+मां
+नहीं
+जानतीं
+कालाधन
+क्या
+होता
+है
+.
 
-हम	PRP	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	B-MISC	O	O	O
-का	PSP	TEMP	O	O	O	O
-जश्न	NN	TEMP	O	O	O	OCC
-नहीं	NEG	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ख़ज़ांची	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जन्मदिन	NN	TEMP	O	O	O	O
-ज़रूर	NNP	TEMP	B-MISC	O	B-MISC	O
-मनायेंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हम
+नोटबंदी
+का
+जश्न
+नहीं
+पर
+ख़ज़ांची
+का
+जन्मदिन
+ज़रूर
+मनायेंगे
+.
 
-pic	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+pic
+.
 
-twitter	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+twitter
+.
 
-com	NN	TEMP	O	O	O	O
-/	SYM	TEMP	O	O	O	O
-cXH	NN	TEMP	O	O	O	O
-667	QC	TEMP	O	O	O	O
-Tzwiआठ	XC	TEMP	O	O	O	O
-नवंबर	NNP	TEMP	O	B	O	O
-2016	QC	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-8	QC	TEMP	O	B	O	O
-बजे	RP:?	TEMP	O	I	O	O
-राष्ट्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-संबोधन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रधानमंत्री	NN	TEMP	O	O	O	O
-नरेंद्र	JJ	TEMP	O	O	O	O
-मोदी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+com
+/
+cXH
+667
+Tzwiआठ
+नवंबर
+2016
+की
+रात
+8
+बजे
+राष्ट्र
+के
+नाम
+संबोधन
+में
+प्रधानमंत्री
+नरेंद्र
+मोदी
+ने
+नोटबंदी
+की
+घोषणा
+की
+थी
+.
 
-इस	DEM	TEMP	O	O	O	O
-संदर्भ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बदलने	VM	TEMP	B-MISC	O	B-MISC	O
-को	PSP	TEMP	I-MISC	O	O	O
-जोगीडेरा	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-सर्वेशा	NN	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-स्वर्गीय	JJ	TEMP	O	O	O	O
-जसमेर	XC	TEMP	O	O	O	O
-नाथ	NNP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-दिसंबर	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-झींझक	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-पंजाब	XC	TEMP	O	O	O	O
-नेशनल	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	B-MISC	O
-गई	VAUX	TEMP	B-MISC	O	I-MISC	O
-थीं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संदर्भ
+में
+बैंक
+से
+रुपये
+बदलने
+को
+जोगीडेरा
+निवासी
+सर्वेशा
+पत्नी
+स्वर्गीय
+जसमेर
+नाथ
+दो
+दिसंबर
+को
+झींझक
+स्थित
+पंजाब
+नेशनल
+बैंक
+की
+शाखा
+गई
+थीं
+.
 
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	O
-लगी	VM	TEMP	O	O	O	O
-लंबी	JJ	TEMP	O	O	O	O
-कतार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-खड़ी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गईं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+के
+सामने
+लगी
+लंबी
+कतार
+में
+वह
+भी
+खड़ी
+हो
+गईं
+.
 
-खड़े-खड़े	NNP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-प्रसव	NN	TEMP	B-MISC	O	O	O
-पीड़ा	VM	TEMP	I-MISC	O	B-MISC	OCC
-हुई	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जन्म	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खड़े-खड़े
+ही
+प्रसव
+पीड़ा
+हुई
+और
+बच्चे
+को
+जन्म
+दिया
+था
+.
 
-उसका	PRP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	B-MISC	OCC
-रखा	VM	TEMP	O	O	I-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-खजांची	NN	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसका
+नाम
+रखा
+गया
+खजांची
+.
 
-यह	DEM	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	B-MISC	O	O	O
-:	SYM	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जन्म	NN	TEMP	O	O	B-MISC	OCC
-लेने	VM	TEMP	B-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-रईस	NN	TEMP	O	O	B-MISC	O
-हुई	VM	TEMP	O	O	I-MISC	O
-खजांची	NN	TEMP	O	O	O	O
-नाथ	XC	TEMP	O	O	O	O
-एंड	XC	TEMP	O	O	O	O
-फैमिली	NNP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-बदहालअखिलेश	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बुधवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-झींझक	NN	TEMP	O	O	O	O
-नगरपालिका	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निवर्तमान	JJ	TEMP	O	O	O	O
-चेयरमैन	NN	TEMP	O	O	O	O
-राजकुमार	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-ली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+नोटबंदी
+के
+दौर
+में
+जन्म
+लेने
+के
+बाद
+रईस
+हुई
+खजांची
+नाथ
+एंड
+फैमिली
+अब
+बदहालअखिलेश
+यादव
+ने
+बुधवार
+को
+झींझक
+नगरपालिका
+के
+निवर्तमान
+चेयरमैन
+राजकुमार
+यादव
+से
+जानकारी
+ली
+.
 
-उनके	PRP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मौजूदा	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-ननिहाल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रह	VM	TEMP	O	O	B-STAT	O
-रहे	VAUX	TEMP	O	O	I-STAT	O
-खजांची	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-सर्वेशा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-नकद	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-भिजवाई	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+उनके
+माध्यम
+से
+मौजूदा
+समय
+ननिहाल
+में
+रह
+रहे
+खजांची
+की
+मां
+सर्वेशा
+को
+10
+हजार
+रुपये
+नकद
+राशि
+भिजवाई
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-जल्दी	RB	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-खजांची	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिलने	VM	TEMP	B-MISC	O	B-MISC	OCC
-आने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-संदेश	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-भेजा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+जल्दी
+ही
+खजांची
+के
+परिवार
+से
+मिलने
+आने
+का
+संदेश
+भी
+भेजा
+.
 
-राजकुमार	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-की	PSP	TEMP	O	O	O	O
-सपा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-राष्ट्रीय	JJ	TEMP	O	O	O	O
-अध्यक्ष	NN	TEMP	O	O	O	O
-खजांची	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिलने	VM	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उत्सुक	JJ	TEMP	O	O	B-STAT	DECL
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+राजकुमार
+यादव
+ने
+बताया
+की
+सपा
+के
+राष्ट्रीय
+अध्यक्ष
+खजांची
+से
+मिलने
+को
+उत्सुक
+हैं
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	B-MISC	O	O	O
-:	SYM	TEMP	O	O	O	O
-स्कूल	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चंद	NN	TEMP	O	O	O	OCC
-कदम	NN	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-सात	QC	TEMP	O	O	O	O
-वर्षीय	JJ	TEMP	O	O	O	O
-बच्ची	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कुचला	VM	TEMP	B-MISC	O	O	O
+यह
+भी
+पढ़ें
+:
+स्कूल
+से
+चंद
+कदम
+पहले
+सात
+वर्षीय
+बच्ची
+को
+कार
+ने
+कुचला
 
-मौत	NN	TEMP	O	O	O	O
+मौत

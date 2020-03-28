@@ -1,190 +1,190 @@
 
-अलीगढ़	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-ए	SYM	TEMP	O	O	O	O
-ग्रेड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अलीगढ़	NN	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-पार्को	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुर्दशा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-परामर्शदात्री	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-संजय	XC	TEMP	O	O	O	O
-पंडित	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उत्तर	XC	TEMP	O	O	O	O
-मध्य	JJ	TEMP	O	O	O	O
-रेलवे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जीएम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-लिखकर	VM	TEMP	O	O	B-MISC	O
-शिकायत	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	DECL
-.	SYM	TEMP	O	O	O	O
+अलीगढ़
+:
+ए
+ग्रेड
+के
+अलीगढ़
+रेलवे
+स्टेशन
+के
+दो
+पार्को
+की
+दुर्दशा
+को
+लेकर
+रेलवे
+परामर्शदात्री
+के
+सदस्य
+संजय
+पंडित
+ने
+उत्तर
+मध्य
+रेलवे
+के
+जीएम
+को
+पत्र
+लिखकर
+शिकायत
+की
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-पार्क	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सुंदरीकरण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-बहाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-व	CC	TEMP	O	O	O	O
-पार्क	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुर्दशा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+पार्क
+में
+सुंदरीकरण
+के
+नाम
+पर
+पैसा
+बहाने
+व
+पार्क
+की
+दुर्दशा
+के
+बारे
+में
+बताया
+है
+.
 
-अलीगढ़	NNP	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-पार्क	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-कॉलोनी	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-पार्क	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दोनों	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-दुर्दशा	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आंसू	NN	TEMP	B-MISC	O	O	O
-बहा	VM	TEMP	I-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अलीगढ़
+स्टेशन
+के
+कोर्ट
+के
+बाहर
+स्थित
+रेलवे
+पार्क
+व
+रेलवे
+कॉलोनी
+स्थित
+पार्क
+,
+दोनों
+ही
+अपनी
+दुर्दशा
+पर
+आंसू
+बहा
+रहे
+हैं
+.
 
-दोनों	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-पार्को	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-फुब्बारे	JJ	TEMP	O	O	O	O
-वर्षो	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-चल	VM	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दोनों
+ही
+पार्को
+के
+फुब्बारे
+वर्षो
+से
+नहीं
+चल
+रहे
+.
 
-पार्को	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सफाई	NN	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-कभी-कभी	NN	TEMP	B-MISC	O	B-MISC	O
-होती	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-गंदगी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पार्क	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-छोड	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पार्को
+की
+सफाई
+तो
+कभी-कभी
+होती
+है
+लेकिन
+इस
+गंदगी
+को
+पार्क
+में
+ही
+छोड
+दिया
+जाता
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-गंदगी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दुर्गध	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उठती	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+गंदगी
+से
+दुर्गध
+भी
+उठती
+है
+.
 
-आवारा	JJ	TEMP	O	O	O	O
-जानवर	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-विचरण	NN	TEMP	O	O	B-MISC	OCC
-करते	VM	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आवारा
+जानवर
+भी
+विचरण
+करते
+हैं
+.
 
-इनके	PRP	TEMP	O	O	O	O
-रोकने	VM	TEMP	B-MISC	O	B-MISC	O
-व	CC	TEMP	O	O	O	O
-पार्को	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सुरक्षा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-इंतजाम	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इनके
+रोकने
+व
+पार्को
+की
+सुरक्षा
+के
+कोई
+इंतजाम
+नहीं
+है
+.
 
-जबकि	CC	TEMP	O	O	O	O
-पार्को	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सुंदरीकरण	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मेंटेनेंस	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-लाखों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-करता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+पार्को
+के
+सुंदरीकरण
+,
+मेंटेनेंस
+पर
+रेलवे
+लाखों
+रुपये
+खर्च
+करता
+है
+.
 
-रेलवे	XC	TEMP	O	O	O	O
-परामर्शदात्री	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-संजय	XC	TEMP	O	O	O	O
-पंडित	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सांसद	JJ	TEMP	O	O	O	O
-सतीश	XC	TEMP	O	O	O	O
-गौतम	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उत्तर	XC	TEMP	O	O	O	O
-मध्य	XC	TEMP	O	O	O	O
-रेलवे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-महाप्रबंधक	JJ	TEMP	O	O	O	O
-एमसी	XC	TEMP	O	O	O	O
-चौहान	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लिखित	JJ	TEMP	O	O	O	O
-शिकायती	JJ	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-भेजकर	VM	TEMP	O	O	B-MISC	OCC
-दुर्दशा	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अंवगत	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रेलवे
+परामर्शदात्री
+के
+सदस्य
+संजय
+पंडित
+ने
+सांसद
+सतीश
+गौतम
+के
+माध्यम
+से
+उत्तर
+मध्य
+रेलवे
+के
+महाप्रबंधक
+एमसी
+चौहान
+को
+लिखित
+शिकायती
+पत्र
+भेजकर
+दुर्दशा
+से
+अंवगत
+कराया
+है
+.

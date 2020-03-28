@@ -1,156 +1,156 @@
 
-जहानाबाद	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+जहानाबाद
+.
 
-बिजली	NN	TEMP	O	O	O	O
-पॉवर	NN	TEMP	O	O	O	O
-सब	QF	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-शकुराबाद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-बकाएदारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-शिविर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आयोजन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिजली
+पॉवर
+सब
+स्टेशन
+शकुराबाद
+में
+गुरुवार
+को
+बकाएदारों
+के
+लिए
+शिविर
+का
+आयोजन
+किया
+गया
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-35	QC	TEMP	O	O	O	O
-बकाएदारों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-92954	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वसूली	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+35
+बकाएदारों
+से
+92954
+रुपये
+की
+वसूली
+की
+गई
+.
 
-कनीय	JJ	TEMP	O	O	O	O
-अभियंता	NN	TEMP	O	O	O	O
-निकहत	JJ	TEMP	O	O	O	O
-प्रवीण	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-एपीएल	NN	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	O	O
-धारियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-3250	QC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बीपीएल	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-2750	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	O
-कराकर	VM	TEMP	I-MISC	O	I-MISC	O
-कनेक्शन	NN	TEMP	O	O	B-MISC	OCC
-चालू	VM	TEMP	O	O	I-MISC	O
-रखा	VAUX	TEMP	O	O	I-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कनीय
+अभियंता
+निकहत
+प्रवीण
+ने
+बताया
+कि
+एपीएल
+कनेक्शन
+धारियों
+से
+3250
+व
+बीपीएल
+से
+2750
+रुपये
+जमा
+कराकर
+कनेक्शन
+चालू
+रखा
+गया
+है
+.
 
-एक	QC	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-राशि	NN	TEMP	B-MISC	O	O	O
-जमा	JJ	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	B-MISC	O
-चालू	JJ	TEMP	O	O	I-MISC	O
-रहेगा	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+साथ
+राशि
+जमा
+करने
+पर
+कनेक्शन
+चालू
+रहेगा
+.
 
-इसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-इंस्टॉलमेंट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	B-MISC	O	O	O
-जमा	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+साथ
+ही
+इंस्टॉलमेंट
+पर
+राशि
+जमा
+कराई
+जाएगी
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-सूद	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-माफ	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+सूद
+भी
+माफ
+कर
+दिया
+जाएगा
+.
 
-यह	DEM	TEMP	O	O	O	O
-सुविधा	NN	TEMP	O	O	O	O
-5000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बकाएदारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	B-MISC	OCC
-जा	VAUX	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+सुविधा
+5000
+रुपये
+से
+अधिक
+के
+बकाएदारों
+को
+दी
+जा
+रही
+है
+.
 
-जिन	DEM	TEMP	O	O	O	O
-बकाएदारों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	B-MISC	O
-कटा	VM	TEMP	O	O	I-MISC	OCC
-हुआ	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-उनका	PRP	TEMP	O	O	O	O
-राशि	NN	TEMP	B-MISC	O	O	O
-जमा	NN	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चालू	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिन
+बकाएदारों
+का
+कनेक्शन
+कटा
+हुआ
+है
+उनका
+राशि
+जमा
+करने
+के
+बाद
+कनेक्शन
+को
+चालू
+कर
+दिया
+जाएगा
+.
 
-राशि	NN	TEMP	B-MISC	O	O	O
-जमा	JJ	TEMP	I-MISC	O	B-STAT	DES
-करने	VM	TEMP	I-MISC	O	I-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	B-MISC	O
-जोडने	VM	TEMP	O	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+राशि
+जमा
+करने
+वाले
+उपभोक्ताओं
+का
+कनेक्शन
+जोडने
+का
+निर्देश
+दिया
+गया
+.
 
-शिविर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विरेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अविनाश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-साजिद	XC	TEMP	O	O	O	O
-कमाल	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	B-STAT	O
-थे	VM	TEMP	O	O	I-STAT	DECL
+शिविर
+में
+विरेंद्र
+कुमार
+,
+अविनाश
+कुमार
+,
+साजिद
+कमाल
+सहित
+कई
+लोग
+थे

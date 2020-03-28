@@ -1,408 +1,408 @@
 
-सीतापुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-संस्कार	NN	TEMP	O	O	O	O
-परोसने	VM	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-गुरुजी	NNP	TEMP	O	O	O	O
-भ्रष्टाचार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जंजीर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जकडे	VM	TEMP	O	O	B-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सीतापुर
+:
+बच्चों
+को
+संस्कार
+परोसने
+वाले
+गुरुजी
+भ्रष्टाचार
+की
+जंजीर
+में
+जकडे
+हुए
+हैं
+.
 
-विद्यालय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बाउंड्रीवाल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-आई	VM	TEMP	O	O	B-STAT	O
-लगभग	RB	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-शिक्षक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नींव	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-खोदवाई	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विद्यालय
+की
+बाउंड्रीवाल
+के
+लिए
+आई
+लगभग
+दो
+लाख
+रुपये
+की
+धनराशि
+तो
+शिक्षक
+ने
+निकाल
+ली
+,
+लेकिन
+निर्माण
+के
+नाम
+पर
+नींव
+तक
+नहीं
+खोदवाई
+.
 
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-साक्ष्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जिम्मेदार	JJ	TEMP	O	O	O	O
-भ्रष्टाचार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-परतें	NN	TEMP	B-MISC	O	B-MISC	O
-उधेडने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-हिचक	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विभाग
+के
+पास
+साक्ष्य
+होने
+के
+बाद
+भी
+जिम्मेदार
+भ्रष्टाचार
+की
+परतें
+उधेडने
+से
+हिचक
+रहे
+हैं
+.
 
-यही	DEM	TEMP	O	O	O	O
-शिक्षक	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-विद्यालय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बाउंड्रीवाल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-हडप	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यही
+शिक्षक
+एक
+और
+विद्यालय
+की
+बाउंड्रीवाल
+की
+धनराशि
+हडप
+गए
+थे
+.
 
-प्रधान	JJ	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आइजीआरएस	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-मामूली	JJ	TEMP	O	O	O	O
-रकम	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लौटा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-हजम	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रधान
+पुत्र
+ने
+आइजीआरएस
+में
+इसकी
+शिकायत
+की
+तो
+मामूली
+रकम
+विभाग
+को
+लौटा
+दी
+,
+लेकिन
+एक
+लाख
+रुपये
+हजम
+कर
+चुके
+हैं
+.
 
-प्रकरण	NN	TEMP	O	O	O	O
-बिसवां	NN	TEMP	O	O	O	O
-ब्लॉक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-उच्च	JJ	TEMP	O	O	O	O
-प्राथमिक	JJ	TEMP	O	O	O	O
-विद्यालय	XC	TEMP	O	O	O	O
-स्योढ़ा	XC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-इंचार्ज	NN	TEMP	O	O	O	O
-प्रधानाध्यापक	JJ	TEMP	O	O	O	O
-मनोज	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-वर्मा	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जुडा	VM	TEMP	O	O	B-STAT	OCC
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+प्रकरण
+बिसवां
+ब्लॉक
+के
+उच्च
+प्राथमिक
+विद्यालय
+स्योढ़ा
+के
+इंचार्ज
+प्रधानाध्यापक
+मनोज
+कुमार
+वर्मा
+से
+जुडा
+है
+.
 
-बिसवां	NN	TEMP	O	O	O	O
-ब्लॉक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्राथमिक	JJ	TEMP	O	O	O	O
-विद्यालय	NN	TEMP	O	O	O	O
-गोधनीं	JJ	TEMP	O	O	O	O
-सरैंया	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-424	QC	TEMP	O	O	O	O
-मीटर	NN	TEMP	O	O	O	O
-चहारदीवारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-75	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-520	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-भेजे	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिसवां
+ब्लॉक
+के
+प्राथमिक
+विद्यालय
+गोधनीं
+सरैंया
+में
+424
+मीटर
+चहारदीवारी
+के
+निर्माण
+के
+लिए
+विभाग
+ने
+चार
+लाख
+75
+हजार
+520
+रुपये
+भेजे
+थे
+.
 
-इस	DEM	TEMP	O	O	O	O
-विद्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-244	QC	TEMP	O	O	O	O
-मीटर	NN	TEMP	O	O	O	O
-बाउंड्रीवाल	NN	TEMP	O	O	B-MISC	O
-बनने	VM	TEMP	O	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-विद्यालय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-99	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-900	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-डंप	VM	TEMP	B-MISC	O	B-MISC	OCC
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+विद्यालय
+में
+244
+मीटर
+बाउंड्रीवाल
+बनने
+से
+विद्यालय
+के
+खाते
+में
+एक
+लाख
+99
+हजार
+900
+रुपये
+की
+धनराशि
+डंप
+थी
+.
 
-तत्कालीन	JJ	TEMP	O	O	O	O
-बीएसए	NN	TEMP	O	O	O	O
-राकेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-श्रीवास्तव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-16	QC	TEMP	O	B	O	O
-जुलाई	NNP	TEMP	O	I	O	O
-2012	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-माध्यमिक	JJ	TEMP	O	O	O	O
-विद्यालय	XC	TEMP	O	O	O	O
-स्योढ़ा	XC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बाउंड्रीवाल	NN	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्थानांतरित	JJ	TEMP	B-MISC	O	B-MISC	O
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-इलाहाबाद	NN	TEMP	O	O	O	O
-यूपी	JJ	TEMP	O	O	O	O
-ग्रामीण	JJ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-जहांगीराबाद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-लिखा	VM	TEMP	O	O	B-MISC	OCC
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तत्कालीन
+बीएसए
+राकेश
+कुमार
+श्रीवास्तव
+ने
+16
+जुलाई
+2012
+को
+पूर्व
+माध्यमिक
+विद्यालय
+स्योढ़ा
+में
+बाउंड्रीवाल
+निर्माण
+के
+लिए
+खाते
+में
+स्थानांतरित
+कराने
+के
+लिए
+इलाहाबाद
+यूपी
+ग्रामीण
+बैंक
+जहांगीराबाद
+के
+प्रबंधक
+को
+पत्र
+लिखा
+था
+.
 
-बीएसए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-स्योढ़ा	XC	TEMP	O	O	O	O
-विद्यालय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीएसए
+के
+पत्र
+के
+आधार
+पर
+स्योढ़ा
+विद्यालय
+के
+खाते
+में
+यह
+धनराशि
+भेज
+दी
+गई
+थी
+.
 
-विद्यालय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-इंचार्ज	NN	TEMP	O	O	O	O
-प्रधानाध्यापक	JJ	TEMP	O	O	O	O
-मनोज	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-वर्मा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-खाता	VM	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-9090	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-आहरित	JJ	TEMP	O	O	O	OCC
-तो	RP	TEMP	O	O	O	O
-कर	VM	TEMP	B-MISC	O	B-MISC	-1
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-बाउंड्रीवाल	NN	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नींव	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-खोदवाई	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विद्यालय
+के
+इंचार्ज
+प्रधानाध्यापक
+मनोज
+कुमार
+वर्मा
+ने
+खाता
+संख्या
+9090
+से
+यह
+धनराशि
+आहरित
+तो
+कर
+ली
+,
+लेकिन
+बाउंड्रीवाल
+निर्माण
+के
+नाम
+पर
+नींव
+तक
+नहीं
+खोदवाई
+.
 
-प्राथमिक	JJ	TEMP	O	O	O	O
-विद्यालय	XC	TEMP	O	O	O	O
-पकरिया	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रधानाध्यापक	JJ	TEMP	O	O	B-STAT	OCC
-रहते	VM	TEMP	O	O	I-STAT	O
-हुए	VAUX	TEMP	O	O	I-STAT	O
-मनोज	XC	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-वर्मा	NNP	TEMP	O	O	O	O
-बाउंड्रीवाल	NN	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-आई	VM	TEMP	O	O	B-STAT	DES
-धनराशि	NN	TEMP	O	O	O	O
-डकार	NN	TEMP	O	O	B-MISC	OCC
-चुके	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्राथमिक
+विद्यालय
+पकरिया
+में
+प्रधानाध्यापक
+रहते
+हुए
+मनोज
+कुमार
+वर्मा
+बाउंड्रीवाल
+निर्माण
+के
+लिए
+आई
+धनराशि
+डकार
+चुके
+हैं
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	OCC
-पकरिया	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-रोहित	JJ	TEMP	O	O	O	O
-मिश्र	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आइजीआरएस	NN	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	I-MISC	O
-की	VM	TEMP	O	O	I-MISC	OCC
-थी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+की
+शिकायत
+पकरिया
+के
+प्रधान
+पुत्र
+रोहित
+मिश्र
+ने
+आइजीआरएस
+में
+की
+थी
+.
 
-विभागीय	JJ	TEMP	B-MISC	O	O	O
-पडताल	NN	TEMP	I-MISC	O	O	O
-होने	VM	TEMP	I-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मनोज	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-डीडी	NN	TEMP	B-MISC	O	O	O
-बनवाकर	VM	TEMP	I-MISC	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लौटा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-घपला	NN	TEMP	O	O	O	O
-बरकरार	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+विभागीय
+पडताल
+होने
+पर
+मनोज
+कुमार
+ने
+कुछ
+धनराशि
+की
+डीडी
+बनवाकर
+विभाग
+को
+लौटा
+दी
+थी
+,
+लेकिन
+एक
+लाख
+रुपये
+से
+अधिक
+की
+धनराशि
+का
+अब
+भी
+घपला
+बरकरार
+है
+.
 
-हैरानी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-MISC	O
-कि	CC	TEMP	O	O	O	O
-बाउंड्रीवाल	NN	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-रकम	NN	TEMP	B-MISC	O	O	O
-निकालने	VM	TEMP	I-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-अफसरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	B-MISC	OCC
-में	PSP	TEMP	O	O	I-MISC	O
-होने	VM	TEMP	B-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-चुप्पी	JJ	TEMP	O	O	B-MISC	O
-साधे	VM	TEMP	O	O	I-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हैरानी
+की
+बात
+तो
+यह
+है
+कि
+बाउंड्रीवाल
+निर्माण
+नहीं
+होने
+तथा
+सरकारी
+रकम
+निकालने
+का
+मामला
+अफसरों
+की
+जानकारी
+में
+होने
+के
+बाद
+भी
+वह
+चुप्पी
+साधे
+हुए
+हैं
+.
 
-वर्जन	NN	TEMP	O	O	O	O
-मामला	JJ	TEMP	O	O	O	O
-संज्ञान	NN	TEMP	B-MISC	O	B-MISC	O
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वर्जन
+मामला
+संज्ञान
+में
+आया
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-बाबत	NN	TEMP	O	O	O	O
-शिक्षक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	O	O
-भेजी	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+बाबत
+शिक्षक
+को
+नोटिस
+भेजी
+गई
+है
+.
 
-प्रकरण	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराकर	VM	TEMP	I-MISC	O	I-MISC	O
-दोषी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-पाए	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-शिक्षक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-कडी	NN	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रकरण
+की
+जांच
+कराकर
+दोषी
+पाए
+जाने
+पर
+शिक्षक
+के
+विरुद्ध
+कडी
+कार्रवाई
+की
+जाएगी
+.
 
--	SYM	TEMP	O	O	O	O
-अजय	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बीएसए	NN	TEMP	O	O	O	O
+-
+अजय
+कुमार
+,
+बीएसए

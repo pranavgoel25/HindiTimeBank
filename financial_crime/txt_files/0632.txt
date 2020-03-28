@@ -1,110 +1,110 @@
 
-पुरकाजी	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-हुसैनपुर	XC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-मेमचंद	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-सिमरू	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-दोपहर	NN	TEMP	O	B	O	O
-में	PSP	TEMP	O	O	O	O
-कस्बे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कोआपरेटिव	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-26	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाले	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+पुरकाजी
+:
+हुसैनपुर
+गांव
+निवासी
+मेमचंद
+(
+60
+)
+पुत्र
+सिमरू
+ने
+सोमवार
+को
+दोपहर
+में
+कस्बे
+के
+कोआपरेटिव
+बैंक
+के
+अपने
+खाते
+से
+26
+रुपये
+निकाले
+.
 
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आठ	QC	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-बाकी	QF	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दिए	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+बैंक
+ने
+दो
+हजार
+के
+आठ
+नोट
+तथा
+बाकी
+सौ
+व
+50
+रुपये
+के
+दिए
+.
 
-बुजुर्ग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकालकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-उनकी	PRP	TEMP	O	O	O	O
-गिनती	NN	TEMP	O	O	B-MISC	OCC
-शुरू	NN	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुजुर्ग
+ने
+5
+हजार
+रुपये
+निकालकर
+उनकी
+गिनती
+शुरू
+की
+.
 
-शाखा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बैठे	VM	TEMP	O	O	B-STAT	DESC
-तीन	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-बुजुर्ग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-थैले	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-21	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नगदी	NN	TEMP	O	O	O	O
-निकालकर	VM	TEMP	B-MISC	O	B-MISC	O
-भाग	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शाखा
+में
+पहले
+से
+बैठे
+तीन
+युवक
+बुजुर्ग
+के
+थैले
+से
+21
+हजार
+रुपये
+की
+नगदी
+निकालकर
+भाग
+गए
+.
 
-बुजुर्ग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शोर	NN	TEMP	B-MISC	O	B-MISC	OCC
-मचाया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-भीड	NN	TEMP	O	O	O	O
-एकत्र	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुजुर्ग
+ने
+शोर
+मचाया
+तो
+भीड
+एकत्र
+हो
+गई
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सीसीटीवी	JJ	TEMP	O	O	O	O
-फुटेज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फोटो	NN	TEMP	O	O	O	O
-देखकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-युवकों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+सीसीटीवी
+फुटेज
+में
+फोटो
+देखकर
+युवकों
+की
+तलाश
+की
+.
 
-बुजुर्ग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुजुर्ग
+ने
+तहरीर
+दी
+है
+.

@@ -1,216 +1,216 @@
 
-गोरखपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-खोराबार	NN	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कुसम्हीं	PRP	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-चौराहे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बुधवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	B-MISC	O	O	O
-निकालने	VM	TEMP	I-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बहाने	PSP:?	TEMP	O	O	O	O
-जालसाज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चंद्रशेखर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गोरखपुर
+:
+खोराबार
+क्षेत्र
+में
+कुसम्हीं
+बाजार
+चौराहे
+पर
+बुधवार
+को
+एटीएम
+से
+रुपये
+निकालने
+में
+मदद
+करने
+के
+बहाने
+जालसाज
+ने
+चंद्रशेखर
+के
+खाते
+से
+20
+हजार
+रुपये
+निकाल
+लिए
+.
 
-कुछ	QF	TEMP	O	B	O	O
-देर	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मैसेज	NN	TEMP	B-MISC	O	B-MISC	OCC
-आने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+देर
+बाद
+मोबाइल
+फोन
+पर
+मैसेज
+आने
+पर
+उन्हें
+इसकी
+जानकारी
+हुई
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-खोराबार	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+उन्होंने
+खोराबार
+पुलिस
+को
+तहरीर
+दी
+है
+.
 
-कुसम्हीं	RDP	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिली	VM	TEMP	O	O	O	OCC
-खबर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-सुकरौली	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कुशीनगर	NNP	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-अक्षयबर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-चंद्रशेखर	NN	TEMP	O	O	O	O
-गुप्त	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पत्	VM	TEMP	B-MISC	O	B-MISC	O
-‍	VAUX	TEMP	I-MISC	O	I-MISC	O
-‌	NN	TEMP	O	O	O	O
-नी	PSP	TEMP	O	O	O	O
-रागिनी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-शाम	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ससुराल	NN	TEMP	O	O	O	O
-गुलरिहा	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुसम्हीं
+बाजार
+संवाददाता
+से
+मिली
+खबर
+के
+अनुसार
+सुकरौली
+,
+कुशीनगर
+निवासी
+अक्षयबर
+के
+पुत्र
+चंद्रशेखर
+गुप्त
+,
+पत्
+‍
+‌
+नी
+रागिनी
+के
+साथ
+शाम
+को
+बाइक
+से
+ससुराल
+गुलरिहा
+जा
+रहे
+थे
+.
 
-कुसम्हीं	RDP	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-चौराहे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-स्टेट	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	B-MISC	O	O	O
-निकालने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रुके	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+कुसम्हीं
+बाजार
+चौराहे
+पर
+स्टेट
+बैंक
+के
+एटीएम
+से
+रुपये
+निकालने
+के
+लिए
+रुके
+.
 
-एटीएम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	DEC
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+एटीएम
+में
+दो
+युवक
+पहले
+से
+मौजूद
+थे
+.
 
-मदद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बहाने	PSP:?	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-पासवर्ड	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पूछ	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मदद
+के
+बहाने
+उन्होंने
+उनका
+एटीएम
+कार्ड
+ले
+लिया
+और
+उनका
+पासवर्ड
+भी
+पूछ
+लिया
+.
 
-कुछ	QF	TEMP	O	O	O	O
-देर	NN	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकालने	VM	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-उपक्रम	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रकम	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-कहते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-एटीएम	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+देर
+रुपये
+निकालने
+का
+उपक्रम
+करने
+के
+बाद
+उन्होंने
+एटीएम
+में
+रकम
+न
+होने
+की
+बात
+कहते
+हुए
+एटीएम
+कार्ड
+उन्हें
+वापस
+कर
+दिया
+.
 
-कार्ड	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-वह	PRP	TEMP	O	O	O	O
-चले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कार्ड
+लेकर
+वह
+चले
+गए
+.
 
-अभी	PRP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-दूर	NST	TEMP	O	O	O	O
-गए	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खाते	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाले	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-आई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभी
+कुछ
+ही
+दूर
+गए
+थे
+कि
+उनके
+मोबाइल
+पर
+खाते
+से
+20
+हजार
+रुपये
+निकाले
+जाने
+की
+सूचना
+आई
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	O	O	O	OCC
-में	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-आए	VM	TEMP	B-MISC	O	B-MISC	OCC
-लेकिन	CC	TEMP	O	O	O	O
-तब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-दोनों	NN	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-गायब	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
+इसके
+बाद
+युवकों
+की
+तलाश
+में
+वह
+एटीएम
+तक
+आए
+लेकिन
+तब
+तक
+दोनों
+वहां
+से
+गायब
+हो
+चुके
+थे

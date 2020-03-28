@@ -1,287 +1,287 @@
 
-नई	JJ	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+नई
+दिल्ली
+(
+जेएनएन
+)
+.
 
-200	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-देर	NN	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-केंद्रीय	XC	TEMP	O	O	O	O
-वित्त	JJ	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उन	DEM	TEMP	O	O	O	O
-अफवाहों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-विराम	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जिनमें	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-2000	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+200
+रुपए
+का
+नया
+नोट
+जारी
+किए
+जाने
+के
+कुछ
+देर
+बाद
+ही
+केंद्रीय
+वित्त
+मंत्री
+ने
+उन
+अफवाहों
+को
+विराम
+दे
+दिया
+जिनमें
+कहा
+जा
+रहा
+था
+कि
+2000
+रुपए
+के
+नोट
+को
+बंद
+किया
+जा
+सकता
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बोलते	VM	TEMP	O	O	B-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-वित्त	JJ	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-2000	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-प्रतिबंध	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-विचार	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-फिलहाल	RB	TEMP	O	O	O	O
-ऐसी	PRP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+इस
+पर
+बोलते
+हुए
+वित्त
+मंत्री
+ने
+कहा
+कि
+सरकार
+2000
+रुपए
+के
+नोट
+पर
+प्रतिबंध
+लगाने
+पर
+विचार
+नहीं
+कर
+रही
+है
+और
+न
+ही
+फिलहाल
+ऐसी
+कोई
+योजना
+है
+.
 
-अरुण	XC	TEMP	O	O	O	O
-जेटली	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-कैबिनेट	XC	TEMP	O	O	O	O
-ब्रीफिंग	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कही	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+अरुण
+जेटली
+ने
+यह
+बात
+एक
+कैबिनेट
+ब्रीफिंग
+में
+कही
+.
 
-यहां	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वित्त	JJ	TEMP	O	O	O	O
-मंत्रालय	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-2000	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-प्रतिबंध	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चर्चा	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यहां
+पर
+उन्होंने
+कहा
+कि
+वित्त
+मंत्रालय
+ने
+2000
+रुपए
+के
+नोट
+पर
+प्रतिबंध
+लगाने
+के
+लिए
+सरकार
+से
+किसी
+भी
+तरह
+की
+चर्चा
+नहीं
+की
+है
+.
 
-आपको	PRP	TEMP	O	O	O	O
-बता	VM	TEMP	O	O	B-MISC	O
-दें	VAUX	TEMP	O	O	I-MISC	O
-यह	DEM	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-8	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-)	SYM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बीते	VM	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आपको
+बता
+दें
+यह
+नोट
+नोटबंदी
+(
+8
+नवंबर
+)
+के
+बाद
+बीते
+साल
+नवंबर
+को
+जारी
+किया
+गया
+था
+.
 
-क्या	WQ	TEMP	O	O	O	O
-बोले	VM	TEMP	O	O	O	OCC
-वित्त	JJ	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बैठक	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-कैबिनेट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सार्वजनिक	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एकीकरण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रूपरेखा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मंजूरी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	I-MISC	-1
-.	SYM	TEMP	O	O	O	O
+क्या
+बोले
+वित्त
+मंत्री
+:
+इस
+बैठक
+में
+कैबिनेट
+ने
+सार्वजनिक
+क्षेत्र
+के
+बैंकों
+के
+एकीकरण
+के
+लिए
+रूपरेखा
+को
+मंजूरी
+भी
+दी
+.
 
-मीडिया	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-वित्त	JJ	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-हमारा	PRP	TEMP	O	O	O	O
-उद्देश्य	NN	TEMP	O	O	O	O
-मजबूत	JJ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-और	CC	TEMP	O	O	O	O
-समेकन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अनुभव	NN	TEMP	O	O	O	O
-सकारात्मक	JJ	TEMP	O	O	B-MISC	O
-रहा	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मीडिया
+से
+बात
+करते
+हुए
+वित्त
+मंत्री
+ने
+कहा
+कि
+हमारा
+उद्देश्य
+मजबूत
+बैंक
+बनाने
+का
+है
+और
+समेकन
+का
+अनुभव
+सकारात्मक
+रहा
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	O	O	B-MISC	REP
-,	SYM	TEMP	O	O	O	O
-“	XC	TEMP	O	O	O	O
-केंद्र	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रोजगार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिहाज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ओबीसी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भीतर	NST	TEMP	O	O	O	O
-सब	QF	TEMP	O	O	O	O
-कैटेगराइजेशन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+,
+“
+केंद्र
+सरकार
+में
+रोजगार
+के
+लिहाज
+से
+ओबीसी
+के
+भीतर
+सब
+कैटेगराइजेशन
+किया
+जाएगा
+.
 
-”	NNP	TEMP	O	O	O	O
-इससे	PRP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आरबीआई	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मंजूरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-छोटे	JJ	TEMP	O	O	O	O
-मूल्यवर्ग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोटों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अनुपस्थिति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	OCC
-बढ़	NNP	TEMP	O	O	O	O
-रही	VAUX	TEMP	O	O	O	O
-समस्याओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-करेगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+”
+इससे
+पहले
+सरकार
+ने
+आरबीआई
+को
+200
+रुपए
+का
+नया
+नोट
+जारी
+करने
+की
+मंजूरी
+दे
+दी
+,
+जो
+कि
+बाजार
+में
+छोटे
+मूल्यवर्ग
+के
+नोटों
+की
+अनुपस्थिति
+के
+कारण
+बढ़
+रही
+समस्याओं
+को
+कम
+करने
+का
+प्रयास
+करेगा
+.
 
-वित्त	JJ	TEMP	O	O	O	O
-मंत्रालय	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-निर्देश	NN	TEMP	O	O	B-MISC	O
-एक	QC	TEMP	O	O	O	O
-अधिसूचना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-दिया	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वित्त
+मंत्रालय
+ने
+यह
+निर्देश
+एक
+अधिसूचना
+के
+जरिए
+दिया
+है
+.
 
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आ	VM	TEMP	B-MISC	O	B-MISC	OCC
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जानकारी
+के
+मुताबिक
+200
+रुपए
+का
+नया
+नोट
+जल्द
+ही
+बाजार
+में
+आ
+सकता
+है
+.

@@ -1,156 +1,156 @@
-﻿रांची	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-राज्य	XC	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-प्राधिकृत	JJ	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अस्पताल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सडकों	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बिजली	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-शिक्षा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आधारभूत	JJ	TEMP	O	O	O	O
-संरचनाओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दुरुस्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-3415.93	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-योजनाओं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अनुशंसा	NN	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	B-MISC	O
-से	PSP	TEMP	O	O	I-MISC	O
-की	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿रांची
+:
+राज्य
+योजना
+प्राधिकृत
+समिति
+ने
+अस्पताल
+,
+सडकों
+,
+बिजली
+और
+शिक्षा
+के
+क्षेत्र
+में
+आधारभूत
+संरचनाओं
+को
+दुरुस्त
+करने
+के
+लिए
+3415.93
+करोड
+रुपये
+की
+योजनाओं
+की
+अनुशंसा
+मुख्यमंत्री
+से
+की
+है
+.
 
-विकास	NN	TEMP	O	O	O	O
-आयुक्त	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अध्यक्षता	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गठित	JJ	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दुमका	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हजारीबाग	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पलामू	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मेडिकल	XC	TEMP	O	O	O	O
-कॉलेज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अधीन	JJ	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-शैय्या	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भवन	NN	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	O	O
-हेतु	PSP	TEMP	O	O	O	O
-1475	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रशासनिक	JJ	TEMP	O	O	O	O
-स्वीकृति	NN	TEMP	B-MISC	O	B-MISC	OCC
-प्रदान	NN	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विकास
+आयुक्त
+की
+अध्यक्षता
+में
+गठित
+समिति
+ने
+दुमका
+,
+हजारीबाग
+व
+पलामू
+में
+मेडिकल
+कॉलेज
+के
+अधीन
+500
+शैय्या
+वाले
+अस्पताल
+के
+भवन
+निर्माण
+हेतु
+1475
+करोड
+रुपये
+की
+प्रशासनिक
+स्वीकृति
+प्रदान
+की
+गई
+.
 
-इन	DEM	TEMP	O	O	O	O
-योजनाओं	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-डीवीसी	NN	TEMP	O	O	O	O
-कमांड	XC	TEMP	O	O	O	O
-एरिया	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-संचरण	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कुल	QF	TEMP	O	O	O	O
-14	QC	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-परियोजनाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-1192.91	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रक्षा	XC	TEMP	O	O	O	O
-शक्ति	NN	TEMP	O	O	O	O
-विश्वविद्यालय	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-खूंटी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्थापना	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-206.54	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एमजीएम	XC	TEMP	O	O	O	O
-मेडिकल	XC	TEMP	O	O	O	O
-कॉलेज	XC	TEMP	O	O	O	O
-जमशेदपुर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-शैय्या	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भवन	NN	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-429.29	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-लघु	JJ	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-कुटीर	XC	TEMP	O	O	O	O
-उद्यम	XC	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रबंधकीय	JJ	TEMP	O	O	O	O
-अनुदान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-17.54	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-राजमागरें	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अवस्थित	JJ	TEMP	O	O	O	O
-अस्पतालों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ट्रॉमा	XC	TEMP	O	O	O	O
-केयर	XC	TEMP	O	O	O	O
-सुविधाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-4.57	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्वीकृति	NN	TEMP	B-MISC	O	B-MISC	OCC
-प्रदान	NN	TEMP	I-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+योजनाओं
+में
+डीवीसी
+कमांड
+एरिया
+में
+संचरण
+की
+कुल
+14
+नई
+परियोजनाओं
+के
+लिए
+1192.91
+करोड
+,
+रक्षा
+शक्ति
+विश्वविद्यालय
+,
+खूंटी
+की
+स्थापना
+के
+लिए
+206.54
+करोड
+,
+एमजीएम
+मेडिकल
+कॉलेज
+जमशेदपुर
+में
+500
+शैय्या
+वाले
+अस्पताल
+के
+भवन
+निर्माण
+के
+लिए
+429.29
+करोड
+रुपये
+,
+मुख्यमंत्री
+लघु
+एवं
+कुटीर
+उद्यम
+विकास
+बोर्ड
+के
+प्रबंधकीय
+अनुदान
+के
+लिए
+17.54
+करोड
+और
+राजमागरें
+पर
+अवस्थित
+अस्पतालों
+में
+ट्रॉमा
+केयर
+सुविधाओं
+के
+लिए
+4.57
+करोड
+की
+स्वीकृति
+प्रदान
+की
+गई
+है
+.

@@ -1,293 +1,293 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कुरुक्षेत्र	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-मत्स्य	NN	TEMP	O	O	O	O
-अधिकारी	JJ	TEMP	O	O	O	O
-ईश्वर	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-प्रदेश	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अनुसूचित	JJ	TEMP	O	O	O	O
-जाति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परिवारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मछली	NN	TEMP	O	O	O	O
-पालन	NN	TEMP	O	O	O	O
-व्यवसाय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जोडने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-पंचायती	XC	TEMP	O	O	O	O
-तालाब	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सुधार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-प्रति	RP:?	TEMP	O	O	O	O
-हेक्टेयर	NN	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-अनुदान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दे	VM	TEMP	O	O	B-MISC	OCC
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+कुरुक्षेत्र
+:
+जिला
+मत्स्य
+अधिकारी
+ईश्वर
+¨
+सह
+ने
+बताया
+कि
+प्रदेश
+सरकार
+की
+ओर
+से
+अनुसूचित
+जाति
+के
+परिवारों
+को
+मछली
+पालन
+व्यवसाय
+से
+जोडने
+के
+लिए
+पंचायती
+तालाब
+के
+सुधार
+के
+लिए
+प्रति
+हेक्टेयर
+2
+लाख
+रुपये
+अनुदान
+के
+रूप
+में
+दे
+रही
+है
+.
 
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जारी	JJ	TEMP	O	O	O	O
-प्रेस	XC	TEMP	O	O	O	O
-विज्ञप्ति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-मत्स्य	NN	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अनुसूचित	JJ	TEMP	O	O	O	O
-जाति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-युवाओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-स्वरोजगार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जोडने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-मछली	NN	TEMP	O	O	O	O
-पालन	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अच्छा	JJ	TEMP	O	O	O	O
-व्यवसाय	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+विभाग
+की
+ओर
+से
+जारी
+प्रेस
+विज्ञप्ति
+के
+अनुसार
+जिला
+मत्स्य
+अधिकारी
+ने
+बताया
+कि
+अनुसूचित
+जाति
+के
+युवाओं
+को
+स्वरोजगार
+से
+जोडने
+के
+लिए
+मछली
+पालन
+एक
+अच्छा
+व्यवसाय
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-प्रशिक्षण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-1100	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-भत्ता	NN	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+लिए
+सरकार
+द्वारा
+10
+दिन
+के
+प्रशिक्षण
+के
+लिए
+1100
+रुपये
+भत्ता
+दिया
+जा
+रहा
+हैं
+.
 
-अनुसूचित	JJ	TEMP	O	O	O	O
-जाति	NN	TEMP	O	O	O	O
-वर्ग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निजी	JJ	TEMP	O	O	O	O
-तालाब	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पंचायती	XC	TEMP	O	O	O	O
-तालाब	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मछली	NN	TEMP	O	O	O	O
-पालन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-पट्टे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लेनी	VM	TEMP	O	O	B-MISC	OCC
-वाली	VAUX	TEMP	O	O	I-MISC	O
-जमीन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-हेक्टेयर	XC	TEMP	O	O	O	O
-अनुदान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दिया	VM	TEMP	O	O	B-MISC	OCC
-जाता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अनुसूचित
+जाति
+वर्ग
+के
+लोगों
+को
+निजी
+तालाब
+व
+पंचायती
+तालाब
+में
+मछली
+पालन
+के
+लिए
+पट्टे
+पर
+लेनी
+वाली
+जमीन
+के
+लिए
+50
+हजार
+रुपये
+से
+2
+लाख
+रुपये
+प्रति
+हेक्टेयर
+अनुदान
+के
+रूप
+में
+दिया
+जाता
+है
+.
 
-जाल	NN	TEMP	O	O	O	O
-खरीदने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-9	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अनुदान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मछली	NN	TEMP	O	O	O	O
-पकडने	VM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ठेका	NN	TEMP	B-MISC	O	B-MISC	O
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-ठेका	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-प्रतिशत	NN	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-अनुदान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दिए	VM	TEMP	O	O	B-MISC	OCC
-जा	VAUX	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जाल
+खरीदने
+के
+लिए
+9
+हजार
+रुपये
+का
+अनुदान
+,
+मछली
+पकडने
+का
+ठेका
+लेने
+पर
+ठेका
+राशि
+का
+25
+प्रतिशत
+अधिक
+से
+अधिक
+2
+लाख
+रुपये
+अनुदान
+के
+रूप
+में
+दिए
+जा
+रहे
+है
+.
 
-मछली	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-थोक	QF	TEMP	O	O	O	O
-बिक्री	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-परचून	NN	TEMP	O	O	O	O
-बिक्री	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रतिमाह	NN	TEMP	O	O	O	O
-अनुदान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मछली
+की
+थोक
+बिक्री
+के
+लिए
+5
+हजार
+रुपये
+व
+परचून
+बिक्री
+के
+लिए
+3
+हजार
+रुपये
+प्रतिमाह
+अनुदान
+के
+रूप
+में
+दिए
+जाते
+हैं
+.
 
-सरकार	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-लघु	JJ	TEMP	O	O	O	O
-मध्यम	XC	TEMP	O	O	O	O
-साइज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रंगीन	JJ	TEMP	O	O	O	O
-मछली	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बैकयार्ड	NN	TEMP	O	O	O	O
-हैचरी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-इकाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-वर्ग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परिवारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-प्रतिशत	NN	TEMP	O	O	O	O
-अनुदान	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-खाद	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-खुराक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-प्रतिशत	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-90	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-80	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अधिकतम	JJ	TEMP	O	O	O	O
-अनुदान	NN	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सरकार
+द्वारा
+लघु
+मध्यम
+साइज
+की
+रंगीन
+मछली
+की
+बैकयार्ड
+हैचरी
+की
+इकाई
+लगाने
+पर
+इस
+वर्ग
+के
+परिवारों
+को
+50
+प्रतिशत
+अनुदान
+तथा
+खाद
+व
+खुराक
+पर
+60
+प्रतिशत
+की
+दर
+से
+90
+हजार
+से
+लेकर
+1
+लाख
+80
+हजार
+तक
+का
+अधिकतम
+अनुदान
+दिया
+जा
+रहा
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लाभ	NN	TEMP	B-MISC	O	O	O
-प्राप्त	JJ	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लाभार्थी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-चुनाव	NN	TEMP	O	O	O	O
-निर्धारित	JJ	TEMP	O	O	O	O
-कमेटी	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-किया	VM	TEMP	B-MISC	O	B-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-अनुदान	NN	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-आओ-पहले	VM	TEMP	B-MISC	O	B-MISC	O
-पाओ	VAUX	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+सरकार
+की
+इस
+योजना
+का
+लाभ
+प्राप्त
+करने
+के
+लिए
+लाभार्थी
+का
+चुनाव
+निर्धारित
+कमेटी
+द्वारा
+किया
+जाएगा
+तथा
+अनुदान
+पहले
+आओ-पहले
+पाओ
+के
+आधार
+पर
+जानकारी
+दी
+है
+.

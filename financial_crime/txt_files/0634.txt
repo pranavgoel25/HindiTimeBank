@@ -1,169 +1,169 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हाजीपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सदर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रामाशीष	XC	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-ओवरब्रिज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निकट	NST	TEMP	O	O	O	O
-रविवार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एलजी	XC	TEMP	O	O	O	O
-सर्विस	XC	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रहे	VM	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+हाजीपुर
+:
+सदर
+थाना
+क्षेत्र
+के
+रामाशीष
+चौक
+ओवरब्रिज
+के
+निकट
+रविवार
+की
+रात
+बदमाशों
+ने
+एलजी
+सर्विस
+सेंटर
+के
+एक
+कर्मचारी
+का
+मोबाइल
+तथा
+पास
+में
+रहे
+रुपये
+छीन
+लिए
+.
 
-विरोध	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-गंभीर	JJ	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जख्मी	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विरोध
+करने
+पर
+उसे
+मारपीट
+कर
+गंभीर
+रूप
+से
+जख्मी
+कर
+दिया
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सदर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-लिखित	JJ	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+कर्मचारी
+ने
+सदर
+थाना
+में
+इस
+घटना
+की
+लिखित
+शिकायत
+की
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मिली	VM	TEMP	O	O	B-STAT	OCC
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-सदर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शुभई	NN	TEMP	O	O	O	O
-द्वार	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-रघुवंश	XC	TEMP	O	O	O	O
-राय	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-रोहित	JJ	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंजानपीर	NN	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-एलजी	XC	TEMP	O	O	O	O
-सर्विस	XC	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	B-MISC	OCC
-करता	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+मिली
+जानकारी
+के
+अनुसार
+सदर
+थाना
+क्षेत्र
+के
+शुभई
+द्वार
+गांव
+निवासी
+रघुवंश
+राय
+का
+पुत्र
+रोहित
+कुमार
+नगर
+थाना
+क्षेत्र
+के
+अंजानपीर
+चौक
+के
+पास
+स्थित
+एलजी
+सर्विस
+सेंटर
+में
+काम
+करता
+है
+.
 
-रविवार	NN	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-वह	PRP	TEMP	O	O	O	O
-पैदल	JJ	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-जाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-गाडी	NN	TEMP	O	O	B-MISC	O
-पकडने	VM	TEMP	B-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रामाशीष	XC	TEMP	O	O	B-MISC	O
-चौक	NNP	TEMP	O	O	I-MISC	O
-आ	VM	TEMP	B-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रविवार
+की
+रात
+वह
+पैदल
+ही
+घर
+जाने
+के
+लिए
+गाडी
+पकडने
+के
+लिए
+रामाशीष
+चौक
+आ
+रहा
+था
+.
 
-इसी	DEM	TEMP	O	O	O	O
-क्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रामाशीष	XC	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-ओवरब्रिज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निकट	NST	TEMP	O	O	O	O
-जैसे	PRP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-पहुंचा	VM	TEMP	B-MISC	O	B-MISC	OCC
-कि	CC	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घात	NN	TEMP	O	O	B-STAT	O
-लगाए	VM	TEMP	O	O	I-STAT	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-मारपीट	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-उसका	PRP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-पर्स	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	B-STAT	DESC
-गए	VAUX	TEMP	O	O	I-STAT	O
-600	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-आराम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	OCC
-निकले	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+क्रम
+में
+रामाशीष
+चौक
+ओवरब्रिज
+के
+निकट
+जैसे
+ही
+वह
+पहुंचा
+कि
+पहले
+से
+घात
+लगाए
+बदमाशों
+ने
+उसके
+साथ
+मारपीट
+कर
+उसका
+मोबाइल
+एवं
+पर्स
+में
+रखे
+गए
+600
+सौ
+रुपए
+छीन
+लिए
+और
+आराम
+से
+भाग
+निकले
+.

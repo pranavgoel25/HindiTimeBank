@@ -1,491 +1,491 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कैथल	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-तीन	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पीआर	XC	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-1750	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-बिक	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+कैथल
+:
+तीन
+दिन
+पहले
+तक
+मंडी
+में
+पीआर
+धान
+1750
+रुपये
+तक
+बिक
+रही
+थी
+.
 
-अचानक	RB	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दाम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गिरावट	NN	TEMP	B-MISC	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अचानक
+ही
+धान
+के
+दाम
+में
+200
+रुपये
+तक
+की
+गिरावट
+दर्ज
+की
+जा
+रही
+है
+.
 
-पीआर	XC	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दामों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आई	VM	TEMP	O	O	O	O
-गिरावट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-परेशान	JJ	TEMP	O	O	B-STAT	DECL
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+पीआर
+धान
+के
+दामों
+में
+आई
+गिरावट
+से
+किसान
+परेशान
+हैं
+.
 
-किसानों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-खेतों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खडी	VM	TEMP	B-MISC	O	B-MISC	OCC
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-अच्छे	JJ	TEMP	O	O	O	O
-दामों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खबरें	NN	TEMP	O	O	O	O
-देखकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-खुशी	NN	TEMP	B-MISC	O	B-MISC	O
-हो	VM	TEMP	I-MISC	O	I-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-सोचा	VM	TEMP	O	O	B-MISC	REP
-था	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-इस	PRP	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-शायद	RB	TEMP	O	O	O	O
-मुनाफा	NN	TEMP	B-MISC	O	B-MISC	O
-मिल	VM	TEMP	I-MISC	O	I-MISC	OCC
-ही	RP	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किसानों
+का
+कहना
+है
+कि
+जब
+उनकी
+धान
+खेतों
+में
+खडी
+थी
+तो
+अच्छे
+दामों
+की
+खबरें
+देखकर
+खुशी
+हो
+रही
+थी
+और
+सोचा
+था
+कि
+इस
+बार
+तो
+शायद
+मुनाफा
+मिल
+ही
+जाएगा
+.
 
-जब	PRP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समर्थन	NN	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-बिक	VM	TEMP	I-MISC	O	I-MISC	O
-पाई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+वह
+अपनी
+धान
+की
+फसल
+को
+लेकर
+मंडी
+पहुंचे
+तो
+उनकी
+धान
+सरकार
+के
+समर्थन
+मूल्य
+भी
+पर
+भी
+नहीं
+बिक
+पाई
+.
 
-मंडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पैर	NN	TEMP	O	O	O	O
-रखने	VM	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जगह	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-ऐसे	PRP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मजबूरी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उनको	PRP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-औने	VM	TEMP	O	O	B-MISC	OCC
-पौने	VAUX	TEMP	O	O	I-MISC	O
-दामों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बेचना	VM	TEMP	B-MISC	O	B-MISC	OCC
-पडा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंडी
+में
+पैर
+रखने
+को
+जगह
+नहीं
+है
+,
+ऐसे
+में
+मजबूरी
+में
+उनको
+अपनी
+धान
+की
+फसल
+को
+औने
+पौने
+दामों
+में
+बेचना
+पडा
+.
 
-मंडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पीआर	XC	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-आवक	NN	TEMP	O	O	O	O
-बढ़	NN	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दामों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गिरावट	NN	TEMP	B-MISC	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंडी
+में
+पीआर
+धान
+की
+आवक
+बढ़
+जाने
+से
+भी
+दामों
+में
+गिरावट
+दर्ज
+की
+जा
+रही
+है
+.
 
-बॉक्स	XC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-चंदाना	VM	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-नरेश	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-1450	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खरीदी	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जबकि	CC	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-समर्थन	NN	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-1590	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+बॉक्स
+गांव
+चंदाना
+निवासी
+नरेश
+शर्मा
+ने
+बताया
+कि
+उनकी
+धान
+1450
+रुपये
+में
+खरीदी
+गई
+,
+जबकि
+सरकारी
+समर्थन
+मूल्य
+1590
+रुपये
+है
+.
 
-नरेश	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-मिलकर	VM	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लूटने	VM	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	I-MISC	O
-लगे	VM	TEMP	B-MISC	O	I-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नरेश
+शर्मा
+का
+कहना
+है
+कि
+सरकार
+और
+व्यापारी
+मिलकर
+किसानों
+को
+लूटने
+में
+लगे
+हैं
+.
 
-अचानक	RB	TEMP	O	O	O	O
-दामों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-300	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कमी	NN	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-धोखा	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अचानक
+दामों
+में
+300
+रुपये
+तक
+की
+कमी
+किसानों
+के
+साथ
+धोखा
+है
+.
 
-बॉक्स	XC	TEMP	O	O	O	O
-जय	XC	TEMP	O	O	O	O
-भगवान	NN	TEMP	O	O	O	O
-शेरू	XC	TEMP	O	O	O	O
-खेडी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-पीआर	XC	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-मेन	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जाने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-सडक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पडी	VM	TEMP	O	O	B-MISC	OCC
-हुई	VAUX	TEMP	O	O	I-MISC	O
-थी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बॉक्स
+जय
+भगवान
+शेरू
+खेडी
+ने
+बताया
+कि
+उनकी
+पीआर
+धान
+की
+फसल
+बाहर
+मेन
+रोड
+की
+करीब
+मंडी
+को
+जाने
+वाली
+सडक
+पर
+पडी
+हुई
+थी
+.
 
-किसी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-खरीदार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-समर्थन	NN	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भाव	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किसी
+भी
+खरीदार
+ने
+उनकी
+फसल
+का
+समर्थन
+मूल्य
+का
+भाव
+नहीं
+लगाया
+.
 
-मजबूरी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उनको	PRP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-1520	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बेचनी	VM	TEMP	B-MISC	O	B-MISC	OCC
-पडी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मजबूरी
+में
+उनको
+अपनी
+धान
+1520
+रुपये
+में
+बेचनी
+पडी
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-खेती	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-घाटा	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सौदा	NN	TEMP	O	O	O	O
-साबित	JJ	TEMP	O	O	B-MISC	OCC
-हुई	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+खेती
+एक
+बार
+फिर
+उनके
+लिए
+घाटा
+का
+सौदा
+साबित
+हुई
+.
 
-बॉक्स	XC	TEMP	O	O	O	O
-मुल्तान	XC	TEMP	O	O	O	O
-कठवाड	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-पीआर	XC	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-1500	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भाव	NN	TEMP	O	O	B-MISC	O
-बिकी	VM	TEMP	B-MISC	O	I-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बॉक्स
+मुल्तान
+कठवाड
+ने
+बताया
+कि
+उनकी
+पीआर
+धान
+की
+फसल
+1500
+रुपये
+के
+भाव
+बिकी
+है
+.
 
-मंडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-मिट्टी	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	I-MISC	O	O	O
-मिल	VM	TEMP	I-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-भाव	NN	TEMP	B-MISC	O	O	OCC
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	O
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंडी
+में
+किसानों
+की
+फसल
+मिट्टी
+में
+मिल
+रही
+है
+और
+व्यापारी
+भाव
+नहीं
+लगा
+रहे
+हैं
+.
 
-छोटे	RDP	TEMP	O	O	O	O
-जमींदार	NN	TEMP	B-MISC	O	O	O
-होने	VM	TEMP	I-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-अच्छे	JJ	TEMP	O	O	O	O
-भाव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-इंतजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-रोक	VM	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+छोटे
+जमींदार
+होने
+के
+कारण
+वह
+अच्छे
+भाव
+के
+इंतजार
+में
+फसल
+को
+घर
+पर
+भी
+नहीं
+रोक
+सकते
+हैं
+.
 
-सरकार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-समर्थन	NN	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खरीद	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-गारंटी	NN	TEMP	O	O	B-MISC	OCC
-तो	RP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देनी	VM	TEMP	B-MISC	O	B-MISC	OCC
-चाहिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सरकार
+को
+कम
+से
+कम
+समर्थन
+मूल्य
+पर
+खरीद
+करने
+की
+गारंटी
+तो
+किसानों
+को
+देनी
+चाहिए
+.
 
-बॉक्स	NN	TEMP	O	O	O	O
-उठान	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जाम	NN	TEMP	O	O	O	O
-जैसे	RP	TEMP	O	O	O	O
-हालात	NN	TEMP	O	O	O	O
-मंडी	XC	TEMP	O	O	O	O
-एसोसिएशन	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-सुरेश	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-अनाज	NN	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उठान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गति	NN	TEMP	O	O	B-MISC	OCC
-धीमी	JJ	TEMP	B-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-जाम	NN	TEMP	O	O	O	O
-जैसे	CC	TEMP	O	O	O	O
-हालात	NN	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बने	VM	TEMP	O	O	B-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बॉक्स
+उठान
+नहीं
+होने
+से
+मंडी
+में
+जाम
+जैसे
+हालात
+मंडी
+एसोसिएशन
+के
+प्रधान
+सुरेश
+चौधरी
+ने
+बताया
+कि
+नई
+अनाज
+मंडी
+में
+उठान
+की
+गति
+धीमी
+होने
+से
+जाम
+जैसे
+हालात
+मंडी
+में
+बने
+हुए
+हैं
+.
 
-अभी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-सात	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-कट्टे	NN	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पडे	VM	TEMP	O	O	B-MISC	OCC
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभी
+भी
+करीब
+सात
+लाख
+कट्टे
+मंडी
+में
+पडे
+हैं
+.
 
-रोजाना	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-कट्टों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-उठान	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-एजेंसियों	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रोजाना
+एक
+लाख
+कट्टों
+का
+उठान
+भी
+एजेंसियों
+द्वारा
+नहीं
+किया
+जा
+रहा
+है
+.
 
-उठान	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	B-MISC	O	B-MISC	O
-डालने	VM	TEMP	I-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-जगह	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-मिल	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उठान
+नहीं
+होने
+से
+किसानों
+को
+धान
+डालने
+के
+लिए
+जगह
+नहीं
+मिल
+रही
+है
+.
 
-मंडी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-सडकों	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कच्ची	JJ	TEMP	O	O	O	O
-जगहों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	B-MISC	O
-पडा	VM	TEMP	O	O	I-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंडी
+के
+बाहर
+सडकों
+और
+कच्ची
+जगहों
+पर
+किसानों
+का
+धान
+पडा
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-कट्टों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-उठान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-ताकि	CC	TEMP	O	O	O	O
-आढ़ती	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-राहत	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिल	VM	TEMP	I-MISC	O	I-MISC	O
-सके	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+जल्द
+से
+जल्द
+कट्टों
+के
+उठान
+की
+मांग
+की
+है
+,
+ताकि
+आढ़ती
+और
+किसान
+को
+राहत
+मिल
+सके
+.

@@ -1,355 +1,355 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
+﻿संवाद
+सूत्र
 
-बिदुपुर	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-पटना	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आई	VM	TEMP	O	O	O	O
-निगरानी	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बिदुपुर	XC	TEMP	O	O	O	O
-थाने	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पदस्थापित	JJ	TEMP	O	O	O	O
-एएसआई	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मायाराम	XC	TEMP	O	O	O	O
-हाट	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समीप	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-घूस	VM	TEMP	B-MISC	O	B-MISC	IAC
-लेते	VAUX	TEMP	I-MISC	O	I-MISC	O
-गिरफ्तार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिदुपुर
+:
+पटना
+से
+आई
+निगरानी
+विभाग
+की
+टीम
+ने
+बिदुपुर
+थाने
+में
+पदस्थापित
+एएसआई
+को
+मायाराम
+हाट
+के
+समीप
+से
+दस
+हजार
+रुपये
+घूस
+लेते
+गिरफ्तार
+कर
+लिया
+.
 
-निगरानी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-गिरफ्तार	NN	TEMP	O	O	O	O
-एएसआई	XC	TEMP	O	O	O	O
-रामसुंदर	XC	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-पटना	NN	TEMP	O	O	B-MISC	OCC
-लेकर	VM	TEMP	B-MISC	O	I-MISC	O
-चली	VAUX	TEMP	B-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+निगरानी
+की
+टीम
+गिरफ्तार
+एएसआई
+रामसुंदर
+प्रसाद
+को
+अपने
+साथ
+पटना
+लेकर
+चली
+गई
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-निगरानी	NN	TEMP	O	O	O	O
-डीएसपी	XC	TEMP	O	O	O	O
-महाराजा	XC	TEMP	O	O	O	O
-कनिष्क	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-चकसिकंद	NN	TEMP	O	O	O	O
-कैलाचक	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भूमि	NN	TEMP	O	O	O	O
-विवाद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	O
-मारपीट	NN	TEMP	B-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	B-MISC	O	B-MISC	O
-पहुंचाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-एएसआई	XC	TEMP	O	O	O	O
-दिनेश	XC	TEMP	O	O	O	O
-प्रसाद	XC	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बीस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+निगरानी
+डीएसपी
+महाराजा
+कनिष्क
+कुमार
+ने
+बताया
+कि
+चकसिकंद
+कैलाचक
+गांव
+में
+भूमि
+विवाद
+में
+हुई
+मारपीट
+के
+मामले
+में
+मदद
+पहुंचाने
+के
+लिए
+एएसआई
+दिनेश
+प्रसाद
+गुप्ता
+से
+बीस
+हजार
+रुपये
+की
+मांग
+कर
+रहा
+था
+.
 
-दिनेश	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बीते	VM	TEMP	O	O	O	O
-14	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-निगरानी	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-की	VM	TEMP	B-MISC	O	I-MISC	-1
-.	SYM	TEMP	O	O	O	O
+दिनेश
+ने
+बीते
+14
+नवंबर
+को
+इसकी
+शिकायत
+निगरानी
+विभाग
+से
+की
+.
 
-उसी	DEM	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सत्यापन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-सही	JJ	TEMP	O	O	B-MISC	OCC
-पाए	VM	TEMP	B-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-गठन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसी
+दिन
+शिकायत
+का
+सत्यापन
+किया
+गया
+और
+सही
+पाए
+जाने
+पर
+टीम
+का
+गठन
+किया
+गया
+.
 
-बुधवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-एएसआई	XC	TEMP	O	O	O	O
-रामसुंदर	XC	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-मायाराम	XC	TEMP	O	O	O	O
-हाट	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समीप	NST	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-घूस	NN	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-तभी	PRP	TEMP	O	O	O	O
-निगरानी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-गिरफ्तार	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुधवार
+को
+एएसआई
+रामसुंदर
+प्रसाद
+मायाराम
+हाट
+के
+समीप
+उससे
+ने
+दस
+हजार
+रुपये
+घूस
+ले
+रहा
+था
+तभी
+निगरानी
+की
+टीम
+ने
+उसे
+गिरफ्तार
+कर
+लिया
+.
 
-गिरफ्तारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-निगरानी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गिरफ्तारी
+के
+बाद
+निगरानी
+की
+टीम
+उसे
+अपने
+साथ
+ले
+गई
+.
 
-निगरानी	NN	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-निरीक्षक	JJ	TEMP	O	O	O	O
-सुधीर	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
+निगरानी
+टीम
+में
+पुलिस
+निरीक्षक
+सुधीर
+कुमार
 
-मेहदी	XC	TEMP	O	O	O	O
-हसन	NNP	TEMP	O	O	O	O
+मेहदी
+हसन
 
-सहायक	JJ	TEMP	O	O	O	O
-अवर	XC	TEMP	O	O	O	O
-निरीक्षक	NN	TEMP	O	O	O	O
-इंद्रजीत	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
+सहायक
+अवर
+निरीक्षक
+इंद्रजीत
+¨
+सह
 
-राघव	XC	TEMP	O	O	O	O
-मिश्रा	NNP	TEMP	O	O	O	O
+राघव
+मिश्रा
 
-श्रवण	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-हवलदार	JJ	TEMP	O	O	O	O
-शमीम	XC	TEMP	O	O	O	O
-अहमद	NNP	TEMP	O	O	O	O
-उपस्थित	JJ	TEMP	O	O	B-STAT	DEC
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+श्रवण
+कुमार
+एवं
+हवलदार
+शमीम
+अहमद
+उपस्थित
+थे
+.
 
-मालूम	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बिदुपुर	XC	TEMP	O	O	O	O
-थाना	XC	TEMP	O	O	O	O
-कांड	XC	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-296	QC	TEMP	O	O	O	O
-/	SYM	TEMP	O	O	O	O
-17	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दिनेश	XC	TEMP	O	O	O	O
-प्रसाद	XC	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-साकेत	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-महज	RB	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-डिसमिल	JJ	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-परोड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-सचिन	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
+मालूम
+हो
+कि
+बिदुपुर
+थाना
+कांड
+संख्या
+296
+/
+17
+में
+दिनेश
+प्रसाद
+गुप्ता
+के
+पुत्र
+साकेत
+कुमार
+ने
+महज
+दो
+डिसमिल
+जमीन
+के
+लिए
+हुई
+मारपीट
+को
+लेकर
+परोड
+के
+ही
+सचिन
+कुमार
 
-सन्नी	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
+सन्नी
+कुमार
 
-अनिता	XC	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कृष्ण	XC	TEMP	O	O	O	O
-नाथ	NNP	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-प्राथमिकी	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अनिता
+देवी
+व
+कृष्ण
+नाथ
+गुप्ता
+के
+विरुद्ध
+प्राथमिकी
+दर्ज
+कराई
+थी
+.
 
-केस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आईओ	NN	TEMP	O	O	O	O
-एएसआई	XC	TEMP	O	O	O	O
-रामसुंदर	XC	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-केस	XC	TEMP	O	O	O	O
-डायरी	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-बीस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+केस
+के
+आईओ
+एएसआई
+रामसुंदर
+प्रसाद
+ने
+केस
+डायरी
+में
+मदद
+करने
+को
+लेकर
+बीस
+हजार
+रुपये
+की
+मांग
+कर
+रहे
+थे
+.
 
-अबतक	JJ	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-पदाधिकारी	JJ	TEMP	O	O	B-MISC	OCC
-चढ़	NN	TEMP	B-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-निगरानी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हत्थे	NN	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-पांच	QC	TEMP	O	I	O	O
-वर्षों	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-बिदुपुर	XC	TEMP	O	O	O	O
-थाना	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-पदाधिकारी	JJ	TEMP	O	O	O	O
-निगरानी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हत्थे	NN	TEMP	B-MISC	O	O	OCC
-चढ़	NN	TEMP	I-MISC	O	B-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अबतक
+तीन
+पुलिस
+पदाधिकारी
+चढ़
+चुके
+हैं
+निगरानी
+के
+हत्थे
+पिछले
+पांच
+वर्षों
+के
+दौरान
+बिदुपुर
+थाना
+के
+तीन
+पुलिस
+पदाधिकारी
+निगरानी
+के
+हत्थे
+चढ़
+चुके
+हैं
+.
 
-रिश्वत	NN	TEMP	B-MISC	O	B-MISC	O
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एसआई	XC	TEMP	O	O	O	O
-पीके	XC	TEMP	O	O	O	O
-मेहता	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-डीके	XC	TEMP	O	O	O	O
-मिश्रा	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-निगरानी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-रंगेहाथ	NN	TEMP	O	O	B-MISC	OCC
-गिरफ्तार	VM	TEMP	B-MISC	O	I-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुकी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रिश्वत
+लेने
+के
+मामले
+में
+एसआई
+पीके
+मेहता
+व
+डीके
+मिश्रा
+को
+भी
+निगरानी
+की
+टीम
+रंगेहाथ
+गिरफ्तार
+कर
+चुकी
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-बाल	XC	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-परियोजना	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-पर्यवेक्षिका	NN	TEMP	O	O	O	O
+इसके
+अलावा
+बाल
+विकास
+परियोजना
+की
+एक
+महिला
+पर्यवेक्षिका
 
-अस्पताल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
+अस्पताल
+के
+स्वास्थ्य
+प्रबंधक
 
-एक	QC	TEMP	O	O	O	O
-राजस्व	XC	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-दलाल	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-निगरानी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हत्थे	NN	TEMP	B-MISC	O	O	OCC
-चढ़	NN	TEMP	I-MISC	O	B-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+राजस्व
+कर्मचारी
+व
+एक
+दलाल
+भी
+निगरानी
+के
+हत्थे
+चढ़
+चुके
+हैं
+.

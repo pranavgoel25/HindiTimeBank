@@ -1,239 +1,239 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-उरई	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-पालिका	NN	TEMP	O	O	O	O
-अध्यक्ष	JJ	TEMP	O	O	O	O
-पद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रत्याशी	NN	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-जबकि	CC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-अध्यक्ष	JJ	TEMP	O	O	O	O
-पद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रत्याशी	JJ	TEMP	O	O	O	O
-चुनाव	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-डेढ़	NNP	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-सकेंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उरई
+:
+नगर
+पालिका
+अध्यक्ष
+पद
+के
+प्रत्याशी
+छह
+लाख
+जबकि
+नगर
+पंचायत
+अध्यक्ष
+पद
+के
+प्रत्याशी
+चुनाव
+के
+लिए
+डेढ़
+लाख
+रुपये
+खर्च
+कर
+सकेंगे
+.
 
-चुनाव	NN	TEMP	O	O	O	O
-आयोग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-व्यय	NN	TEMP	O	O	O	O
-सीमा	NN	TEMP	O	O	O	O
-निर्धारित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-निर्वाचन	JJ	TEMP	O	O	O	O
-व्यय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुवीक्षण	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चुनाव
+आयोग
+ने
+उनके
+लिए
+व्यय
+सीमा
+निर्धारित
+करते
+हुए
+निर्वाचन
+व्यय
+के
+अनुवीक्षण
+का
+आदेश
+दिया
+है
+.
 
-जिला	JJ	TEMP	O	O	O	O
-निर्वाचन	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-डा	VM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+जिला
+निर्वाचन
+अधिकारी
+डा
+.
 
-मन्नान	NN	TEMP	O	O	O	O
-अख्तर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-पालिका	XC	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-पद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रत्याशियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चुनावी	JJ	TEMP	O	O	O	O
-व्यय	NN	TEMP	O	O	O	O
-सीमा	NN	TEMP	O	O	O	O
-डेढ़	NNP	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जबकि	CC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-पद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रत्याशियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-व्यय	NN	TEMP	O	O	O	O
-अनुमन्य	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मन्नान
+अख्तर
+ने
+बताया
+कि
+नगर
+पालिका
+सदस्य
+पद
+के
+प्रत्याशियों
+की
+चुनावी
+व्यय
+सीमा
+डेढ़
+लाख
+रुपये
+जबकि
+नगर
+पंचायत
+के
+सदस्य
+पद
+के
+प्रत्याशियों
+के
+लिए
+30
+हजार
+रुपये
+का
+व्यय
+अनुमन्य
+किया
+गया
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-ऐसा	PRP	TEMP	O	O	O	O
-पाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-प्रत्याशी	NN	TEMP	O	O	O	O
-इससे	PRP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-तत्संबंधी	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+अगर
+ऐसा
+पाया
+गया
+कि
+कोई
+प्रत्याशी
+इससे
+अधिक
+खर्च
+कर
+रहा
+है
+तो
+उसके
+खिलाफ
+तत्संबंधी
+कार्रवाई
+की
+जाएगी
+.
 
-उम्मीदवारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-राष्ट्रीयकृत	JJ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खाता	NN	TEMP	B-MISC	O	O	O
-खुलवाने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-निर्वाचन	JJ	TEMP	O	O	O	O
-व्यय	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लेखा-जोखा	JJ	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-वरिष्ठ	JJ	TEMP	O	O	O	O
-कोषाधिकारी	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समक्ष	JJ	TEMP	O	O	O	O
-प्रस्तुत	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-होगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उम्मीदवारों
+को
+राष्ट्रीयकृत
+बैंक
+में
+खाता
+खुलवाने
+के
+साथ
+ही
+निर्वाचन
+व्यय
+का
+लेखा-जोखा
+टीम
+(
+कार्यालय
+वरिष्ठ
+कोषाधिकारी
+)
+के
+समक्ष
+प्रस्तुत
+करना
+होगा
+.
 
-कंट्रोल	JJ	TEMP	O	O	O	O
-रूम	NN	TEMP	O	O	O	O
-खुला	VM	TEMP	B-MISC	O	B-MISC	O
+कंट्रोल
+रूम
+खुला
 
-दे	VM	TEMP	O	O	I-MISC	O
-सकते	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-सूचना	NN	TEMP	O	O	O	O
-उरई	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-जनपद	JJ	TEMP	O	O	O	O
-मुख्यालय	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-निर्वाचन	JJ	TEMP	O	O	O	O
-व्यय	NN	TEMP	O	O	O	O
-लेखा	VM	TEMP	O	O	O	O
-अनुवीक्षण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-नियंत्रण	NN	TEMP	O	O	O	O
-कक्ष	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बनाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
+दे
+सकते
+हैं
+सूचना
+उरई
+:
+जनपद
+मुख्यालय
+पर
+निर्वाचन
+व्यय
+लेखा
+अनुवीक्षण
+के
+लिए
+नियंत्रण
+कक्ष
+भी
+बनाया
+गया
+है
 
-जो	PRP	TEMP	O	O	O	O
-24	QC	TEMP	O	O	O	O
-घंटे	NN	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	O	O
-करेगा	VM	TEMP	I-MISC	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+जो
+24
+घंटे
+काम
+करेगा
+.
 
-इसका	PRP	TEMP	O	O	O	O
-दूरभाष	JJ	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-5162	QC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-252504	QC	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+इसका
+दूरभाष
+नंबर
+(
+0
+5162
+)
+252504
+है
+.
 
-जिला	JJ	TEMP	O	O	O	O
-निर्वाचन	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-यदि	CC	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उम्मीदवार	NN	TEMP	O	O	O	O
+जिला
+निर्वाचन
+अधिकारी
+ने
+बताया
+कि
+यदि
+किसी
+भी
+उम्मीदवार
 
-प्राधिकृत	JJ	TEMP	O	O	O	O
-एजेंट	NN	TEMP	O	O	O	O
+प्राधिकृत
+एजेंट
 
-किसी	PRP	TEMP	O	O	O	O
-राजनीतिक	JJ	TEMP	O	O	O	O
-दल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निर्वाचन	JJ	TEMP	O	O	O	O
-व्यय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-अथवा	CC	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करानी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
+किसी
+राजनीतिक
+दल
+के
+पदाधिकारी
+या
+किसी
+अन्य
+व्यक्ति
+को
+निर्वाचन
+व्यय
+के
+संबंध
+में
+जानकारी
+अथवा
+शिकायत
+दर्ज
+करानी
+है
 
-तो	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-कंट्रोल	JJ	TEMP	O	O	O	O
-रूम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करा	VM	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तो
+वह
+कंट्रोल
+रूम
+में
+शिकायत
+दर्ज
+करा
+सकता
+है
+.

@@ -1,420 +1,420 @@
-﻿पटना	NNP	TEMP	O	O	O	O
-[	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿पटना
+[
+जेएनएन
+]
+.
 
-ई-पेमेंट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बढ़ावा	NN	TEMP	B-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-केंद्र	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-गैस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ऑनलाइन	XC	TEMP	O	O	O	O
-बुकिंग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-छूट	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
+ई-पेमेंट
+को
+बढ़ावा
+देने
+के
+लिए
+केंद्र
+सरकार
+ने
+नोटबंदी
+के
+दौरान
+गैस
+की
+ऑनलाइन
+बुकिंग
+पर
+छूट
+दी
+थी
 
-ऐसा	PRP	TEMP	O	O	O	O
-करने	VM	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गैस	XC	TEMP	O	O	O	O
-सिलेंडर	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-डिस्काउंट	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलेगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऐसा
+करने
+वालों
+को
+गैस
+सिलेंडर
+पर
+5
+रुपए
+तक
+का
+डिस्काउंट
+मिलेगा
+.
 
-यह	DEM	TEMP	O	O	O	O
-लाभ	NN	TEMP	O	O	O	O
-वही	DEM	TEMP	O	O	O	O
-उपभोक्ता	NN	TEMP	B-MISC	O	O	OCC
-उठा	VM	TEMP	I-MISC	O	B-MISC	O
-पाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
+यह
+लाभ
+वही
+उपभोक्ता
+उठा
+पाएंगे
 
-जो	PRP	TEMP	O	O	O	O
-ऑनलाइन	XC	TEMP	O	O	O	O
-गैस	NN	TEMP	O	O	O	O
-बुक	JJ	TEMP	B-MISC	O	B-MISC	O
-कराएंगे	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-पेमेंट	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उसी	DEM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-करेंगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जो
+ऑनलाइन
+गैस
+बुक
+कराएंगे
+और
+उसका
+पेमेंट
+भी
+उसी
+के
+जरिए
+करेंगे
+.
 
-खास	JJ	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-कि	CC	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-डिस्काउंट	NN	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-केवल	RP	TEMP	O	O	O	O
-सब्सिडी	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-सिलेंडर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मिलेगा	VM	TEMP	B-MISC	O	B-MISC	OCC
+खास
+बात
+यह
+है
+कि
+यह
+डिस्काउंट
+न
+केवल
+सब्सिडी
+वाले
+सिलेंडर
+पर
+मिलेगा
 
-बल्कि	CC	TEMP	O	O	O	O
-बगैर	PSP:?	TEMP	O	O	O	O
-सब्सिडी	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-सिलेंडर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-मान्य	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बल्कि
+बगैर
+सब्सिडी
+वाले
+सिलेंडर
+पर
+भी
+यह
+मान्य
+होगा
+.
 
-बगैर	PSP:?	TEMP	O	O	O	O
-सब्सिडी	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-सिलेंडर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दाम	NN	TEMP	O	O	O	O
-एक	XC	TEMP	O	O	O	O
-नवंबर	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-93	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-बढ़े	JJ	TEMP	B-MISC	O	B-STAT	DECL
-हैं	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+बगैर
+सब्सिडी
+वाले
+सिलेंडर
+के
+दाम
+एक
+नवंबर
+को
+93
+रुपए
+बढ़े
+हैं
+.
 
-यानी	CC	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-742	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हो	VM	TEMP	O	O	B-MISC	OCC
-गया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यानी
+अब
+यह
+742
+रुपए
+का
+हो
+गया
+है
+.
 
-आपको	PRP	TEMP	O	O	O	O
-इसका	PRP	TEMP	O	O	O	O
-ऑनलाइन	XC	TEMP	B-MISC	O	B-MISC	O
-पेमेंट	NN	TEMP	I-MISC	O	I-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-छूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलेगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आपको
+इसका
+ऑनलाइन
+पेमेंट
+करने
+पर
+पांच
+रुपए
+की
+छूट
+मिलेगी
+.
 
-यानी	CC	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-सिलेंडर	NN	TEMP	O	O	O	O
-737	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पड़ेगा	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+यानी
+यह
+सिलेंडर
+737
+रुपए
+का
+पड़ेगा
+.
 
-तेल	NN	TEMP	O	O	O	O
-मंत्रालय	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बाबत	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-बयान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-इंडियन	XC	TEMP	O	O	O	O
-ऑयल	NN	TEMP	O	O	O	O
+तेल
+मंत्रालय
+ने
+इस
+बाबत
+अपने
+बयान
+में
+कहा
+था
+कि
+इंडियन
+ऑयल
 
-भारत	XC	TEMP	O	O	O	O
-पेट्रोलियम	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-हिंदुस्तान	NN	TEMP	O	O	O	O
-पेट्रोलियम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-छूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-देगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भारत
+पेट्रोलियम
+और
+हिंदुस्तान
+पेट्रोलियम
+ने
+अपने
+उपभोक्ताओं
+को
+छूट
+देगी
+.
 
-वे	PRP	TEMP	O	O	O	O
-ऑनलाइन	XC	TEMP	O	O	O	O
-बुकिंग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वक्त	NN	TEMP	O	O	O	O
-नेट	JJ	TEMP	O	O	O	O
-बैंकिंग	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-क्रेडिट	JJ	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-सरीखे	JJ	TEMP	O	O	O	O
-विकल्पों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-पेमेंट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वे
+ऑनलाइन
+बुकिंग
+के
+वक्त
+नेट
+बैंकिंग
+और
+क्रेडिट
+कार्ड
+सरीखे
+विकल्पों
+के
+जरिए
+पेमेंट
+कर
+सकते
+हैं
+.
 
-मिले	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-डिस्काउंट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रकम	NN	TEMP	O	O	O	O
-उपभोक्ता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बिल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-दिखाई	VM	TEMP	B-MISC	O	B-MISC	OCC
-देगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मिले
+हुए
+डिस्काउंट
+की
+रकम
+उपभोक्ता
+के
+बिल
+के
+साथ
+दिखाई
+देगी
+.
 
-कैशलेस	NNP	TEMP	O	O	O	O
-पेमेंट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बढ़ावा	NN	TEMP	B-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-डिस्काउंटपिछले	JJ	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-नवंबर	NNP	TEMP	O	B	O	O
-में	PSP	TEMP	O	O	O	O
-नरेंद्र	JJ	TEMP	O	O	O	O
-मोदी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कैशलेस
+पेमेंट
+को
+बढ़ावा
+देने
+के
+लिए
+डिस्काउंटपिछले
+साल
+नवंबर
+में
+नरेंद्र
+मोदी
+की
+सरकार
+ने
+नोटबंदी
+की
+थी
+.
 
-उसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-कैशलेस	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-डिजिटल	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बढ़ावा	NN	TEMP	B-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-कदम	NN	TEMP	B-MISC	O	B-MISC	OCC
-उठा	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+बाद
+से
+ही
+कैशलेस
+और
+डिजिटल
+इंडिया
+को
+बढ़ावा
+देने
+के
+लिए
+सरकार
+कदम
+उठा
+रही
+है
+.
 
-इसी	DEM	TEMP	O	O	O	O
-क्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गैस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ऑनलाइन	XC	TEMP	O	O	O	O
-पेमेंट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-डिस्काउंट	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+क्रम
+में
+गैस
+के
+ऑनलाइन
+पेमेंट
+पर
+डिस्काउंट
+मिलता
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-इंटरनेट	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-होने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-गैस	XC	TEMP	O	O	O	O
-बुकिंग	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-पेमेंट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बढ़ावा	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलेगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+इंटरनेट
+और
+फोन
+से
+होने
+वाली
+गैस
+बुकिंग
+और
+पेमेंट
+को
+बढ़ावा
+मिलेगा
+.
 
-ऐप	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-होती	VM	TEMP	B-MISC	O	B-STAT	O
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-बुकिंगएंड्रॉयड	NN	TEMP	I-MISC	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गूगल	JJ	TEMP	O	O	O	OCC
-प्ले	NN	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-प्ले	JJ	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-एलपीजी	JJ	TEMP	O	O	O	O
-कंपनियों	NN	TEMP	O	O	O	O
-इंडेन	NNP	TEMP	O	O	O	O
+ऐप
+के
+जरिए
+भी
+होती
+है
+बुकिंगएंड्रॉयड
+मोबाइल
+फोन
+पर
+गूगल
+प्ले
+या
+प्ले
+स्टोर
+के
+जरिए
+एलपीजी
+कंपनियों
+इंडेन
 
-एचपी	XC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-गैस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ऐप	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-डाउनलोड	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एचपी
+और
+भारत
+गैस
+के
+ऐप
+को
+डाउनलोड
+किया
+जा
+सकता
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-गैस	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-उपभोक्ता	NN	TEMP	O	O	O	O
-होना	VM	TEMP	O	O	B-STAT	OCC
-जरूरी	JJ	TEMP	O	O	I-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
+इसके
+लिए
+गैस
+कंपनी
+का
+उपभोक्ता
+होना
+जरूरी
+है
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उपभोक्ता	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-ई-मेल	NN	TEMP	O	O	O	O
-आईडी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-आवश्यक	JJ	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+उपभोक्ता
+का
+अपना
+ई-मेल
+आईडी
+भी
+आवश्यक
+है
+.
 
-ऐप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ये	DEM	TEMP	O	O	O	O
-सुविधाएं	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मिलेंगी-	JJ	TEMP	O	O	O	O
-सिलेंडर	NN	TEMP	O	O	O	O
-बुकिंग	NN	TEMP	O	O	O	O
-हिस्ट्री-	NN	TEMP	O	O	O	O
-मैकेनिक	JJ	TEMP	O	O	O	O
-सर्विस-	NN	TEMP	O	O	O	O
-गैस	XC	TEMP	O	O	O	O
-सिलेंडर	NNP	TEMP	O	O	O	O
-डिलीवरी	NN	TEMP	O	O	O	O
-टाइम-	JJ	TEMP	O	O	O	O
-लोकेट	NN	TEMP	O	O	O	O
-डिस्ट्रीब्यूटर्स-	JJ	TEMP	O	O	O	O
-चेंज	NN	TEMP	O	O	O	O
-डिस्ट्रीब्यूटर्सपेट्रोल-डीजल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मिलता	VM	TEMP	B-MISC	O	B-STAT	O
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-कैशबैककैशलेस	XC	TEMP	I-MISC	O	O	O
-भुगतान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-फायदा	NN	TEMP	O	O	O	O
-आपको	PRP	TEMP	O	O	O	O
-पेट्रोल	JJ	TEMP	O	O	O	O
-पंप	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मिलेगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+ऐप
+से
+ये
+सुविधाएं
+भी
+मिलेंगी-
+सिलेंडर
+बुकिंग
+हिस्ट्री-
+मैकेनिक
+सर्विस-
+गैस
+सिलेंडर
+डिलीवरी
+टाइम-
+लोकेट
+डिस्ट्रीब्यूटर्स-
+चेंज
+डिस्ट्रीब्यूटर्सपेट्रोल-डीजल
+पर
+मिलता
+है
+कैशबैककैशलेस
+भुगतान
+का
+फायदा
+आपको
+पेट्रोल
+पंप
+पर
+भी
+मिलेगा
+.
 
-पेट्रोल-डीजल	NN	TEMP	B-MISC	O	O	O
-डलवाने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-डेबिट	NN	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-क्रेडिट	JJ	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पेमेंट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आपको	PRP	TEMP	O	O	O	O
-कैशबैक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ऑफर	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलेगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पेट्रोल-डीजल
+डलवाने
+के
+दौरान
+डेबिट
+या
+क्रेडिट
+कार्ड
+से
+पेमेंट
+पर
+आपको
+कैशबैक
+का
+ऑफर
+मिलेगा
+.
 
-तेल	NN	TEMP	O	O	O	O
-कंपनियां	NN	TEMP	O	O	O	O
-पेट्रोल-डीजल	NN	TEMP	O	O	O	O
-बुकिंग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-कैशलेस	NN	TEMP	O	O	O	O
-पेमेंट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-0.75	QC	TEMP	O	O	O	O
-फीसदी	NN	TEMP	O	O	O	O
-छूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तेल
+कंपनियां
+पेट्रोल-डीजल
+बुकिंग
+के
+दौरान
+कैशलेस
+पेमेंट
+पर
+0.75
+फीसदी
+छूट
+दे
+रही
+हैं
+.
 
-यह	DEM	TEMP	O	O	O	O
-कैशलेस	NN	TEMP	O	O	O	O
-लेनदेन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बढ़ावा	NN	TEMP	B-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	B-MISC	O
-किया	VM	TEMP	B-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+कैशलेस
+लेनदेन
+को
+बढ़ावा
+देने
+के
+लिए
+ही
+किया
+गया
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-नियम	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-शर्तें	NN	TEMP	O	O	O	O
-लागू	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-हैं	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+लिए
+कोई
+नियम
+व
+शर्तें
+लागू
+नहीं
+हैं
+.

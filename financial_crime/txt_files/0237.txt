@@ -1,231 +1,231 @@
-﻿गोरखपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-जंगल	NN	TEMP	O	O	O	O
-कौडिया	XC	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-विरोध	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-पिटाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿गोरखपुर
+:
+जंगल
+कौडिया
+रेलवे
+स्टेशन
+पर
+शुक्रवार
+की
+रात
+बदमाशों
+ने
+युवक
+से
+रुपये
+व
+मोबाइल
+छीन
+लिए
+और
+विरोध
+करने
+पर
+पिटाई
+कर
+दी
+.
 
-मोहरीपुर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	DES
-वाली	PSP	TEMP	O	O	I-STAT	O
-बहन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-आया	VM	TEMP	O	O	B-MISC	O
-युवक	NN	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	B-MISC	O	B-MISC	O
-पकडकर	VM	TEMP	I-MISC	O	I-MISC	O
-घर	NN	TEMP	O	O	O	O
-लौट	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मोहरीपुर
+में
+रहने
+वाली
+बहन
+के
+यहां
+आया
+युवक
+ट्रेन
+पकडकर
+घर
+लौट
+रहा
+था
+.
 
-जीआरपी	JJ	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-छानबीन	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जीआरपी
+मामले
+की
+छानबीन
+कर
+रही
+है
+.
 
-कैम्पियरगंज	NN	TEMP	O	O	O	O
-थानाक्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोदीगंज	XC	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-आर्यन	NNP	TEMP	O	O	O	O
-खान	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-26	QC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-मोहरीपुर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-बहन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-आया	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कैम्पियरगंज
+थानाक्षेत्र
+के
+मोदीगंज
+निवासी
+आर्यन
+खान
+(
+26
+)
+मोहरीपुर
+में
+अपने
+बहन
+के
+यहां
+आया
+था
+.
 
-शुक्रवार	JJ	TEMP	O	B	O	O
-रात	NN	TEMP	O	I	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-लौट	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शुक्रवार
+रात
+ट्रेन
+से
+घर
+लौट
+रहा
+था
+.
 
-रात	NN	TEMP	O	B	O	O
-करीब	RB	TEMP	O	B	O	O
-11	QC	TEMP	O	I	O	O
-बजे	RP:?	TEMP	O	I	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-जंगल	NN	TEMP	O	O	O	O
-कौडिया	XC	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	B-MISC	O
-पहुंची	VM	TEMP	B-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+रात
+करीब
+11
+बजे
+ट्रेन
+जंगल
+कौडिया
+रेलवे
+स्टेशन
+पहुंची
+.
 
-ट्रेन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बैठे	VM	TEMP	B-MISC	O	B-STAT	DESC
-तीन	QC	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कैम्पियरगंज	NN	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	B-MISC	O	B-MISC	O
-आने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-कह	VM	TEMP	B-MISC	O	B-MISC	OCC
-शोर	NN	TEMP	B-MISC	O	O	O
-मचाना	VM	TEMP	I-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ट्रेन
+में
+बैठे
+तीन
+युवकों
+ने
+कैम्पियरगंज
+स्टेशन
+आने
+की
+बात
+कह
+शोर
+मचाना
+शुरू
+कर
+दिया
+.
 
-उनकी	PRP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-विश्वास	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-आर्यन	XC	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नीचे	NST	TEMP	O	O	B-MISC	O
-उतर	VM	TEMP	B-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनकी
+बात
+पर
+विश्वास
+कर
+आर्यन
+ट्रेन
+से
+नीचे
+उतर
+गया
+.
 
-उसके	PRP	TEMP	O	O	O	O
-पीछे	NST	TEMP	O	O	O	O
-तीनों	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उतर	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+पीछे
+तीनों
+युवक
+भी
+उतर
+गए
+.
 
-आरोप	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आर्यन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-घेर	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आरोप
+है
+कि
+इन
+लोगों
+ने
+आर्यन
+को
+घेर
+लिया
+.
 
-तलाशी	NN	TEMP	B-MISC	O	O	O
-लेकर	VM	TEMP	I-MISC	O	O	O
-जेब	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	B-STAT	DESC
-तीन	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तलाशी
+लेकर
+जेब
+में
+रखे
+तीन
+हजार
+रुपये
+व
+मोबाइल
+निकाल
+लिए
+.
 
-विरोध	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-पिटाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विरोध
+करने
+पर
+उसकी
+पिटाई
+कर
+दी
+.
 
-----	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-महीने	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-तीसरी	QO	TEMP	O	O	O	O
-लूट	NN	TEMP	O	O	O	OCC
-नौतनवां	NN	TEMP	O	O	O	O
-रूट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गोरखपुर-कैंपियरगंज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-एक	QC	TEMP	O	I	O	O
-महीने	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-तीसरी	QO	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-STAT	OCC
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+----
+एक
+महीने
+में
+यह
+तीसरी
+लूट
+नौतनवां
+रूट
+पर
+गोरखपुर-कैंपियरगंज
+के
+बीच
+पिछले
+एक
+महीने
+में
+यह
+तीसरी
+घटना
+है
+.
 
-चार	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-लकडी	NN	TEMP	O	O	O	O
-व्यवसायी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ट्रेन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नीचे	NST	TEMP	O	O	O	O
-गिरा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चार
+दिन
+पहले
+लकडी
+व्यवसायी
+से
+तीन
+बदमाशों
+ने
+20
+हजार
+रुपये
+लूट
+कर
+ट्रेन
+से
+नीचे
+गिरा
+दिया
+था
+.
 
-एक	QC	TEMP	O	B	O	O
-महीने	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-मानीराम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फैजाबाद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-व्यवसायी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लूट	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+महीने
+पहले
+मानीराम
+में
+फैजाबाद
+के
+व्यवसायी
+से
+रुपये
+लूट
+लिए
+थे
+.

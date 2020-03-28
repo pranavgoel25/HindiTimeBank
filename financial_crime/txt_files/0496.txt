@@ -1,215 +1,215 @@
 
-मुजफ्फरपुर	NNP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+मुजफ्फरपुर
+.
 
-फर्जीवाडा	NN	TEMP	O	O	B-MISC	O
-कर	VM	TEMP	O	O	I-MISC	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-उडा	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फर्जीवाडा
+कर
+एटीएम
+से
+40
+हजार
+रुपये
+उडा
+लिए
+गए
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कटरा	XC	TEMP	O	O	O	O
-सिंगवारी	NNP	TEMP	O	O	O	O
-इलाके	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जावेद	XC	TEMP	O	O	O	O
-इकबाल	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्राथमिकी	JJ	TEMP	B-MISC	O	O	O
-दर्ज	NN	TEMP	I-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+कटरा
+सिंगवारी
+इलाके
+के
+जावेद
+इकबाल
+ने
+नगर
+थाने
+में
+प्राथमिकी
+दर्ज
+कराई
+है
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-जावेद	JJ	TEMP	O	O	O	O
-मोतीझील	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-एसबीआइ	NN	TEMP	O	O	O	O
-कीएटीएम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकासी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गए	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+बताया
+गया
+है
+कि
+जावेद
+मोतीझील
+स्थित
+एसबीआइ
+कीएटीएम
+में
+रुपये
+निकासी
+को
+गए
+.
 
-कार्ड	NN	TEMP	O	O	O	O
-डालकर	VM	TEMP	O	O	O	O
-पिन	XC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-डाला	VM	TEMP	B-MISC	O	B-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-निकले	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कार्ड
+डालकर
+पिन
+नंबर
+डाला
+,
+लेकिन
+रुपये
+नहीं
+निकले
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नो	QC	TEMP	O	O	O	O
-बटन	NN	TEMP	O	O	O	O
-दबा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+वहां
+मौजूद
+एक
+युवक
+ने
+नो
+बटन
+दबा
+दिया
+.
 
-इसी	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-डाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+दौरान
+एक
+युवक
+ने
+दो
+नंबर
+डाल
+दिया
+.
 
-कुछ	QF	TEMP	O	B	O	O
-समय	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मैसेज	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अशरफ	XC	TEMP	O	O	O	O
-अली	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-ट्रांसफर	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-लिया	VAUX	TEMP	O	O	I-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+समय
+बाद
+पीडित
+के
+मोबाइल
+पर
+मैसेज
+आया
+तो
+पता
+चला
+कि
+अशरफ
+अली
+के
+खाते
+में
+40
+हजार
+रुपये
+ट्रांसफर
+कर
+लिया
+गया
+है
+.
 
-शिकायत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सीसी	JJ	TEMP	O	O	O	O
-कैमरे	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-फुटेज	NN	TEMP	O	O	O	O
-खंगाला	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+शिकायत
+के
+बाद
+पुलिस
+ने
+सीसी
+कैमरे
+का
+फुटेज
+खंगाला
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-आरोपित	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गिरफ्तारी	NN	TEMP	O	O	O	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-चल	VM	TEMP	O	O	B-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+का
+कहना
+है
+कि
+आरोपित
+की
+गिरफ्तारी
+को
+लेकर
+कार्रवाई
+चल
+रही
+है
+.
 
-बता	VM	TEMP	O	O	B-MISC	REP
-दें	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-दिनों	NN	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फर्जीवाडा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-घटनाएं	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बता
+दें
+कि
+इन
+दिनों
+लगातार
+एटीएम
+से
+फर्जीवाडा
+की
+घटनाएं
+हो
+रही
+हैं
+.
 
-एक	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पूर्व	NST	TEMP	O	O	O	O
-काजीमोहम्मदपुर	NNP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खबडा	JJ	TEMP	O	O	O	O
-पीएनबी	NN	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-32	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-साइबर	JJ	TEMP	O	O	O	O
-अपराधियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उडा	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+दिन
+पूर्व
+काजीमोहम्मदपुर
+थाना
+क्षेत्र
+के
+खबडा
+पीएनबी
+शाखा
+के
+प्रबंधक
+के
+खाते
+से
+भी
+एक
+लाख
+32
+हजार
+रुपये
+साइबर
+अपराधियों
+ने
+उडा
+लिए
+थे
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-गुत्थी	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-सुलझ	VM	TEMP	I-MISC	O	I-MISC	O
-पाई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+,
+अब
+तक
+उसकी
+गुत्थी
+नहीं
+सुलझ
+पाई
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-साइबर	JJ	TEMP	O	O	O	O
-एक्सपर्ट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संपर्क	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-चल	VM	TEMP	I-MISC	O	B-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+का
+कहना
+है
+कि
+साइबर
+एक्सपर्ट
+से
+संपर्क
+कर
+कार्रवाई
+चल
+रही
+है
+.

@@ -1,147 +1,147 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कानपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मसाला	NN	TEMP	O	O	B-MISC	O
-थूकना	VM	TEMP	B-MISC	O	I-MISC	O
-एक	QC	TEMP	O	O	O	O
-मुवक्किल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-पड	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+कानपुर
+:
+कोर्ट
+में
+मसाला
+थूकना
+एक
+मुवक्किल
+को
+भारी
+पड
+गया
+.
 
-अपर	XC	TEMP	O	O	O	O
-सत्र	XC	TEMP	O	O	O	O
-न्यायाधीश	NNP	TEMP	O	O	O	O
-प्रथम	QO	TEMP	O	O	O	O
-रजत	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-जैन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-परिसर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मसाला	NN	TEMP	O	O	O	O
-थूकने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-मुवक्किल	NN	TEMP	O	O	O	O
-राजेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-शुक्ल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	B-MISC	O	B-MISC	OCC
-ठोंका	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अपर
+सत्र
+न्यायाधीश
+प्रथम
+रजत
+सिंह
+जैन
+ने
+परिसर
+में
+मसाला
+थूकने
+वाले
+मुवक्किल
+राजेंद्र
+कुमार
+शुक्ल
+पर
+दो
+सौ
+रुपये
+का
+जुर्माना
+ठोंका
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	O	O
-वकीलों	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-वादकारियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हलचल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मच	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+वहां
+मौजूद
+वकीलों
+और
+वादकारियों
+में
+हलचल
+मच
+गई
+.
 
-न्यायालय	NN	TEMP	O	O	O	O
-परिसर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-न्यायिक	JJ	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बीते	VM	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-सफाई	NN	TEMP	O	O	O	O
-पखवाडा	NN	TEMP	O	O	B-MISC	OCC
-मनाया	VM	TEMP	B-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+न्यायालय
+परिसर
+में
+न्यायिक
+अधिकारियों
+ने
+बीते
+माह
+सफाई
+पखवाडा
+मनाया
+था
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-न्यायिक	JJ	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-परिसर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-स्थानों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-छापा	NN	TEMP	B-MISC	O	B-MISC	O
-मारकर	VM	TEMP	I-MISC	O	I-MISC	OCC
-गंदगी	NN	TEMP	O	O	O	O
-करने	VM	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+न्यायिक
+अधिकारी
+लगातार
+परिसर
+के
+विभिन्न
+स्थानों
+पर
+छापा
+मारकर
+गंदगी
+करने
+वालों
+पर
+जुर्माना
+लगा
+रहे
+हैं
+.
 
-इसी	DEM	TEMP	O	O	O	O
-क्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-अपर	PRP	TEMP	O	O	O	O
-सत्र	NN	TEMP	O	O	O	O
-न्यायाधीश	NN	TEMP	O	O	O	O
-प्रथम	QO	TEMP	O	O	O	O
-न्यायालय	XC	TEMP	O	O	O	O
-कक्ष	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पैरवी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आए	VM	TEMP	O	O	B-MISC	OCC
-मुवक्किल	NN	TEMP	O	O	O	O
-राजेंद्र	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मसाला	NN	TEMP	O	O	B-MISC	O
-थूक	VM	TEMP	B-MISC	O	I-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+क्रम
+में
+शुक्रवार
+को
+अपर
+सत्र
+न्यायाधीश
+प्रथम
+न्यायालय
+कक्ष
+के
+बाहर
+एक
+अन्य
+कोर्ट
+में
+पैरवी
+पर
+आए
+मुवक्किल
+राजेंद्र
+ने
+मसाला
+थूक
+दिया
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-न्यायालय	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-गंदगी	NN	TEMP	B-MISC	O	B-MISC	O
-फैलाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-डांटा	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-माफी	NN	TEMP	B-MISC	O	O	O
-मांगी	VM	TEMP	I-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सार्वजनिक	JJ	TEMP	O	O	O	O
-स्थल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गंदा	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-संकल्प	NN	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+पर
+न्यायालय
+ने
+उसे
+गंदगी
+फैलाने
+के
+लिए
+डांटा
+तो
+उसने
+माफी
+मांगी
+और
+आगे
+से
+सार्वजनिक
+स्थल
+को
+गंदा
+न
+करने
+का
+संकल्प
+लिया
+.

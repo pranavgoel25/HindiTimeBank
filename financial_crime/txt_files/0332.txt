@@ -1,527 +1,527 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-ब्यूरो	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+ब्यूरो
+,
+नई
+दिल्ली
+.
 
-नए	JJ	TEMP	O	O	O	O
-राजमार्गो	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-धन	NN	TEMP	B-MISC	O	B-MISC	O
-जुटाने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मौजूदा	JJ	TEMP	O	O	O	O
-राजमार्ग	NN	TEMP	O	O	O	O
-परियोजनाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मौद्रीकरण	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्कीम	NN	TEMP	O	O	O	O
-प्रारंभ	NN	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	DECL
-.	SYM	TEMP	O	O	O	O
+नए
+राजमार्गो
+के
+लिए
+धन
+जुटाने
+को
+सरकार
+ने
+मौजूदा
+राजमार्ग
+परियोजनाओं
+के
+मौद्रीकरण
+की
+स्कीम
+प्रारंभ
+की
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-पेशेवर	JJ	TEMP	O	O	O	O
-फंड	NN	TEMP	O	O	O	O
-कंपनियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-चुकी	VAUX	TEMP	O	O	I-MISC	O
-परियोजनाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ठेके	NN	TEMP	B-MISC	O	B-MISC	O
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-उनसे	PRP	TEMP	O	O	O	O
-एकमुश्त	JJ	TEMP	O	O	O	O
-अग्रिम	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-वसूली	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+तहत
+पेशेवर
+फंड
+कंपनियों
+को
+पूरी
+हो
+चुकी
+परियोजनाओं
+के
+ठेके
+देकर
+उनसे
+एकमुश्त
+अग्रिम
+राशि
+वसूली
+जाएगी
+.
 
-इस	DEM	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-उपयोग	NN	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-परियोजनाओं	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-किया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+राशि
+का
+उपयोग
+नई
+परियोजनाओं
+में
+किया
+जाएगा
+.
 
-इसे	PRP	TEMP	O	O	O	O
-टोल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ऑपरेट	XC	TEMP	O	O	O	O
-एंड	XC	TEMP	O	O	O	O
-ट्रांसफर	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-टीओटी	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-मॉडल	NN	TEMP	O	O	O	O
-नाम	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसे
+टोल
+,
+ऑपरेट
+एंड
+ट्रांसफर
+(
+टीओटी
+)
+मॉडल
+नाम
+दिया
+गया
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-चालू	NN	TEMP	O	O	O	O
-वित्त	JJ	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	B	O	O
-2017	QC	TEMP	O	I	O	O
--	SYM	TEMP	O	O	O	O
-18	QC	TEMP	O	B	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-75	QC	TEMP	O	O	O	O
-परियोजनाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ठेके	NN	TEMP	B-MISC	O	O	O
-दिए	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+तहत
+चालू
+वित्त
+वर्ष
+2017
+-
+18
+के
+दौरान
+लगभग
+75
+परियोजनाओं
+के
+ठेके
+दिए
+जाएंगे
+.
 
-इससे	PRP	TEMP	O	O	O	O
-सवा	XC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-उम्मीद	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इससे
+सवा
+लाख
+करोड़
+रुपये
+की
+राशि
+प्राप्त
+होने
+की
+उम्मीद
+है
+.
 
-अभी	PRP	TEMP	O	O	O	O
-राजमार्ग	XC	TEMP	O	O	O	O
-परियोजनाओं	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-टोल	XC	TEMP	O	O	O	O
-वसूली	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अधिकार	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-सड़क	NN	TEMP	O	O	O	O
-बनाने	VM	TEMP	O	O	O	OCC
-वाली	PSP	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-रहता	VM	TEMP	O	O	B-STAT	O
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+अभी
+राजमार्ग
+परियोजनाओं
+में
+टोल
+वसूली
+का
+अधिकार
+भी
+सड़क
+बनाने
+वाली
+कंपनी
+के
+ही
+पास
+रहता
+है
+.
 
-जैसे-जैसे	JJ	TEMP	O	O	O	O
-टोल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वसूली	NN	TEMP	B-MISC	O	B-MISC	OCC
-होती	VM	TEMP	I-MISC	O	I-MISC	O
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-भारतीय	JJ	TEMP	O	O	O	O
-राष्ट्रीय	JJ	TEMP	O	O	O	O
-राजमार्ग	NN	TEMP	O	O	O	O
-प्राधिकरण	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-एनएचएआइ	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-हिस्सा	NN	TEMP	O	O	B-MISC	OCC
-मिलता	VM	TEMP	B-MISC	O	I-MISC	O
-रहता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जैसे-जैसे
+टोल
+की
+वसूली
+होती
+जाती
+है
+,
+भारतीय
+राष्ट्रीय
+राजमार्ग
+प्राधिकरण
+(
+एनएचएआइ
+)
+को
+उसका
+हिस्सा
+मिलता
+रहता
+है
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-प्रक्रिया	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्राधिकरण	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कभी	RB	TEMP	O	O	O	O
-इतनी	QF	TEMP	O	O	O	O
-एकमुश्त	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-होती	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-जिससे	PRP	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-परियोजनाओं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शुरुआत	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सके	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+इस
+प्रक्रिया
+में
+प्राधिकरण
+को
+कभी
+इतनी
+एकमुश्त
+राशि
+प्राप्त
+नहीं
+होती
+कि
+जिससे
+नई
+परियोजनाओं
+की
+शुरुआत
+की
+जा
+सके
+.
 
-एनएचएआइ	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-परियोजनाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-बजट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ-साथ	NST	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-जाने	VM	TEMP	O	O	B-STAT	DES
-वाले	PSP	TEMP	O	O	I-STAT	O
-ऋणों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-निर्भर	JJ	TEMP	B-MISC	O	B-MISC	O
-रहना	VM	TEMP	I-MISC	O	I-MISC	O
-पड़ता	XC	TEMP	I-MISC	O	I-MISC	O
-है	NNP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एनएचएआइ
+को
+नई
+परियोजनाओं
+के
+लिए
+बजट
+के
+साथ-साथ
+बाजार
+से
+लिए
+जाने
+वाले
+ऋणों
+पर
+निर्भर
+रहना
+पड़ता
+है
+.
 
-बजट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-सीमित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होती	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जबकि	CC	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ब्याज	XC	TEMP	O	O	O	O
-अदायगी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-परियोजनाओं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लागत	NN	TEMP	O	O	O	OCC
-बढ़	NNP	TEMP	B-MISC	O	B-MISC	O
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बजट
+की
+राशि
+सीमित
+होती
+है
+,
+जबकि
+कर्ज
+पर
+ब्याज
+अदायगी
+के
+कारण
+परियोजनाओं
+की
+लागत
+बढ़
+जाती
+है
+.
 
-टीओटी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-सारी	QF	TEMP	O	O	O	O
-समस्याओं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-समाधान	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-उम्मीद	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+टीओटी
+से
+इन
+सारी
+समस्याओं
+का
+समाधान
+होने
+की
+उम्मीद
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-एनएचएआइ	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एकमुश्त	JJ	TEMP	O	O	O	O
-बड़ी	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	B-MISC	O	O	O
-होगी	VM	TEMP	I-MISC	O	O	O
-ही	RP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ब्याज	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-अदा	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-पड़ेगा	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+इससे
+एनएचएआइ
+को
+एकमुश्त
+बड़ी
+राशि
+तो
+प्राप्त
+होगी
+ही
+,
+ब्याज
+भी
+अदा
+नहीं
+करना
+पड़ेगा
+.
 
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-सड़क	NN	TEMP	O	O	O	O
-परियोजनाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मौद्रीकरण	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-मॉनेटाइजेशन	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-संज्ञा	NN	TEMP	O	O	B-MISC	OCC
-दी	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सरकार
+ने
+इसे
+सड़क
+परियोजनाओं
+के
+मौद्रीकरण
+(
+मॉनेटाइजेशन
+)
+की
+संज्ञा
+दी
+है
+.
 
-केंद्रीय	XC	TEMP	O	O	O	O
-सड़क	NNP	TEMP	O	O	O	O
-परिवहन	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-राजमार्ग	XC	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-नितिन	XC	TEMP	O	O	O	O
-गडकरी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-वर्ष	NN	TEMP	O	I	O	O
-ही	RP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-चर्चा	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+केंद्रीय
+सड़क
+परिवहन
+एवं
+राजमार्ग
+मंत्री
+नितिन
+गडकरी
+ने
+पिछले
+वर्ष
+ही
+इसकी
+चर्चा
+की
+थी
+.
 
-जबकि	CC	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-दिनों	NN	TEMP	O	I	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-टीओटी	NN	TEMP	O	O	O	O
-मॉडल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	B	O	O
-2017	QC	TEMP	O	I	O	O
--	SYM	TEMP	O	O	O	O
-18	QC	TEMP	O	B	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-सवा	QF	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अग्रिम	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-जुटाने	VM	TEMP	B-MISC	O	B-MISC	O
-का	PSP	TEMP	O	O	O	O
-लक्ष्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-रखा	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+पिछले
+दिनों
+उन्होंने
+कहा
+था
+कि
+टीओटी
+मॉडल
+के
+तहत
+सरकार
+ने
+वर्ष
+2017
+-
+18
+के
+दौरान
+सवा
+लाख
+करोड़
+रुपये
+की
+अग्रिम
+राशि
+जुटाने
+का
+लक्ष्य
+रखा
+है
+.
 
-स्कीम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-एनएचएआइ	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-हाल	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आंध्र	XC	TEMP	O	O	O	O
-प्रदेश	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-गुजरात	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-प्रोजेक्टों	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-कुल	QF	TEMP	O	O	O	O
-नौ	QC	TEMP	O	O	O	O
-परियोजनाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-टीओटी	NN	TEMP	O	O	O	O
-टेंडर	NN	TEMP	O	O	O	O
-आमंत्रित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+स्कीम
+के
+तहत
+एनएचएआइ
+ने
+हाल
+ही
+में
+आंध्र
+प्रदेश
+की
+छह
+तथा
+गुजरात
+के
+तीन
+प्रोजेक्टों
+समेत
+कुल
+नौ
+परियोजनाओं
+के
+लिए
+टीओटी
+टेंडर
+आमंत्रित
+किए
+हैं
+.
 
-कुल	QF	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-681	QC	TEMP	O	O	O	O
-किलोमीटर	NN	TEMP	O	O	O	O
-लंबाई	NN	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-राजमार्ग	XC	TEMP	O	O	O	O
-परियोजनाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मौद्रीकरण	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एनएचएआइ	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-6,258	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अग्रिम	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुल
+लगभग
+681
+किलोमीटर
+लंबाई
+वाली
+इन
+राजमार्ग
+परियोजनाओं
+के
+मौद्रीकरण
+से
+एनएचएआइ
+को
+6,258
+करोड़
+रुपये
+की
+अग्रिम
+राशि
+प्राप्त
+होगी
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-पेंशन	XC	TEMP	O	O	O	O
-फंडों	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-पीई	XC	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-प्राइवेट	XC	TEMP	O	O	O	O
-इक्विटी	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-फर्मो	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बोली	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-अधिकार	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+पेंशन
+फंडों
+तथा
+पीई
+(
+प्राइवेट
+इक्विटी
+)
+फर्मो
+को
+बोली
+लगाने
+का
+अधिकार
+है
+.
 
-कांट्रैक्ट	NN	TEMP	O	O	O	O
-जीतने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-फर्म	NN	TEMP	O	O	O	O
-एनएचएआइ	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अरब	XC	TEMP	O	O	O	O
-डालर	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अग्रिम	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-अदा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करेगी	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-बदले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पेशेवर	JJ	TEMP	O	O	O	O
-कंपनियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-30	QC	TEMP	O	B	O	O
-वर्ष	NN	TEMP	O	I	O	O
-(	SYM	TEMP	O	O	O	O
-कंसेशन	XC	TEMP	O	O	O	O
-पीरियड	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-टोल	JJ	TEMP	O	O	O	O
-वसूलने	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ-साथ	NST	TEMP	O	O	O	O
-सड़क	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रखरखाव	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-जिम्मेदारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-सौंपेगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कांट्रैक्ट
+जीतने
+वाली
+फर्म
+एनएचएआइ
+को
+एक
+अरब
+डालर
+की
+अग्रिम
+राशि
+अदा
+करेगी
+और
+बदले
+में
+पेशेवर
+कंपनियों
+को
+30
+वर्ष
+(
+कंसेशन
+पीरियड
+)
+तक
+टोल
+वसूलने
+के
+साथ-साथ
+सड़क
+का
+रखरखाव
+करने
+की
+जिम्मेदारी
+सौंपेगी
+.
 
-टेंडर	NN	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-जनवरी	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खुलेगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+टेंडर
+10
+जनवरी
+को
+खुलेगा
+.
 
-एनएचएआइ	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इरादा	NN	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-चल	VM	TEMP	O	O	B-MISC	OCC
-कर	VAUX	TEMP	O	O	I-MISC	O
-कंसेशन	NN	TEMP	O	O	O	O
-अवधि	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-घटाकर	VM	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	B-MISC	O
-करने	VM	TEMP	O	O	I-MISC	O
-अथवा	CC	TEMP	O	O	O	O
-अग्रिम	JJ	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अरब	XC	TEMP	O	O	O	O
-डॉलर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-,	SYM	TEMP	O	O	O	O
-ताकि	CC	TEMP	O	O	O	O
-भारतीय	JJ	TEMP	O	O	O	O
-कंपनियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-टीओटी	NN	TEMP	O	O	O	O
-स्कीम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	OCC
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-मौका	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिल	VM	TEMP	I-MISC	O	I-MISC	O
-सके	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एनएचएआइ
+का
+इरादा
+आगे
+चल
+कर
+कंसेशन
+अवधि
+को
+घटाकर
+20
+वर्ष
+करने
+अथवा
+अग्रिम
+भुगतान
+राशि
+को
+एक
+अरब
+डॉलर
+से
+कम
+करने
+का
+है
+,
+ताकि
+भारतीय
+कंपनियों
+को
+भी
+टीओटी
+स्कीम
+में
+भाग
+लेने
+का
+मौका
+मिल
+सके
+.
 
-अभी	PRP	TEMP	O	O	O	O
-30	QC	TEMP	O	B	O	O
-वर्ष	NN	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-कंसेशन	NN	TEMP	O	O	O	O
-अवधि	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अरब	XC	TEMP	O	O	O	O
-डॉलर	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अग्रिम	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शर्त	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-भारतीय	JJ	TEMP	O	O	O	O
-कंपनियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-स्कीम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	O
-लेना	VM	TEMP	I-MISC	O	I-MISC	O
-मुश्किल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभी
+30
+वर्ष
+की
+कंसेशन
+अवधि
+और
+एक
+अरब
+डॉलर
+की
+अग्रिम
+राशि
+की
+शर्त
+के
+कारण
+भारतीय
+कंपनियों
+के
+लिए
+स्कीम
+में
+भाग
+लेना
+मुश्किल
+हो
+रहा
+है
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-चीन	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निपटने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-बना	VM	TEMP	B-MISC	O	O	O
-रहा	VAUX	TEMP	I-MISC	O	O	O
-ये	PRP	TEMP	O	O	O	O
-खास	JJ	TEMP	O	O	O	O
-रणनीति	NN	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+चीन
+से
+निपटने
+के
+लिए
+भारत
+बना
+रहा
+ये
+खास
+रणनीति

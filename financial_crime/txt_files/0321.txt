@@ -1,190 +1,190 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-महोबा	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-कुलपहाड	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सवारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-दस-दस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-परिचालक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लेने	VM	TEMP	B-MISC	O	B-MISC	O
-से	PSP	TEMP	O	O	O	O
-इन्कार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-सवारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बस	NN	TEMP	O	O	B-MISC	OCC
-रुकवा	VM	TEMP	B-MISC	O	I-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-नीचे	NST	TEMP	O	O	O	O
-उतार	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿संवाद
+सहयोगी
+(
+महोबा
+)
+कुलपहाड
+:
+सवारी
+ने
+टिकट
+के
+लिए
+दस-दस
+के
+सिक्के
+दिए
+तो
+परिचालक
+ने
+लेने
+से
+इन्कार
+कर
+दिया
+और
+सवारी
+को
+बस
+रुकवा
+कर
+नीचे
+उतार
+दिया
+.
 
-सवारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सवारी
+ने
+इस
+मामले
+में
+100
+नंबर
+को
+सूचना
+दे
+दी
+.
 
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-समझौता	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-शांत	JJ	TEMP	B-MISC	O	B-MISC	O
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-सका	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाद
+में
+मामले
+में
+समझौता
+हुआ
+और
+मामला
+शांत
+हो
+सका
+.
 
-महोबा	NN	TEMP	O	O	O	O
-डिपो	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बस	NN	TEMP	O	O	O	O
-कुलपहाड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-महोबा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	PSP	TEMP	O	O	O	O
-आ	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+महोबा
+डिपो
+की
+बस
+कुलपहाड
+से
+महोबा
+की
+ओर
+आ
+रही
+थी
+.
 
-पंकज	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-रामेश्वर	XC	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-पनवाडी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-महोबा	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-परिचालक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मांगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+पंकज
+पुत्र
+रामेश्वर
+निवासी
+पनवाडी
+ने
+महोबा
+तक
+का
+टिकट
+परिचालक
+से
+मांगा
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-दस-दस	JJ	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+दस-दस
+रुपये
+के
+सिक्के
+टिकट
+के
+लिए
+देने
+लगा
+.
 
-सिक्के	NN	TEMP	O	O	O	O
-देख	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-परिचालक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लेने	VM	TEMP	B-MISC	O	B-MISC	OCC
-से	PSP	TEMP	O	O	O	O
-मना	NEG	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-सवारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-रास्ते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उतारने	VM	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सिक्के
+देख
+कर
+परिचालक
+ने
+लेने
+से
+मना
+कर
+दिया
+और
+सवारी
+को
+बीच
+रास्ते
+में
+उतारने
+की
+धमकी
+दी
+.
 
-सवारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कागज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-हवाला	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सवारी
+ने
+कागज
+के
+रुपये
+न
+होने
+का
+हवाला
+दिया
+.
 
-परिचालक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	O
-सुनीं	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परिचालक
+ने
+एक
+नहीं
+सुनीं
+.
 
-इस	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-विवाद	NN	TEMP	B-MISC	O	B-MISC	OCC
-बढ़	NNP	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+बात
+को
+लेकर
+विवाद
+बढ़
+गया
+.
 
-इतने	QF	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सवारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-डायल	NN	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इतने
+में
+सवारी
+ने
+डायल
+100
+को
+सूचना
+दे
+दी
+.
 
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-मामला	NN	TEMP	O	O	O	O
-शांत	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाद
+में
+100
+नंबर
+टीम
+ने
+पहुंच
+कर
+मामला
+शांत
+कराया
+.
 
-सवारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बस	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	B-STAT	DES
-कर	VM	TEMP	O	O	I-STAT	O
-बस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रवाना	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सवारी
+को
+बस
+में
+सवार
+कर
+बस
+को
+रवाना
+किया
+गया
+.

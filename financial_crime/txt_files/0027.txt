@@ -25,7 +25,7 @@
 तोहफा,NN,TEMP,O,O
 दिया,VM,TEMP,B-MISC,OCC
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 सरकार,NN,TEMP,O,O
 ने,PSP,TEMP,O,O
@@ -53,7 +53,7 @@
 बढ़ोत्तरी,NN,TEMP,B-MISC,OCC
 की,VM,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 यह,DEM,TEMP,O,O
 पेंशन,NN,TEMP,O,O
@@ -63,7 +63,7 @@
 बढ़ी,NN,TEMP,B-STAT,DES
 हुई,VM,TEMP,I-STAT,O
 मिलेगी,VM,TEMP,B-MISC,OCC
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 मुख्यमंत्री,JJ,TEMP,O,O
 मनोहर,XC,TEMP,O,O
@@ -86,7 +86,7 @@
 हो,VM,TEMP,I-MISC,O
 चुके,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 प्रदेश,NN,TEMP,O,O
 में,PSP,TEMP,O,O
@@ -107,7 +107,7 @@
 रुपये,NN,TEMP,O,O
 महीना,NN,TEMP,O,O
 मिलेगा,VM,TEMP,B-MISC,OCC
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 उपायुक्त,JJ,TEMP,O,O
 गौरी,XC,TEMP,O,O
@@ -129,7 +129,7 @@
 बढ़,NN,TEMP,B-STAT,DEC
 कर,VM,TEMP,I-STAT,O
 मिलेगी,VM,TEMP,B-MISC,OCC
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 उन्होंने,PRP,TEMP,O,O
 बताया,VM,TEMP,B-MISC,REP
@@ -156,7 +156,7 @@
 दिया,VAUX,TEMP,I-MISC,O
 गया,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 निराश्रित,JJ,TEMP,O,O
 बच्चों,NN,TEMP,O,O
@@ -174,7 +174,7 @@
 रूप,NN,TEMP,O,O
 में,PSP,TEMP,O,O
 मिलेंगे,VM,TEMP,B-MISC,OCC
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 स्कूल,NN,TEMP,B-STAT,
 न,NEG,TEMP,I-STAT,O
@@ -194,7 +194,7 @@
 प्रदान,NN,TEMP,B-MISC,OCC
 किए,VM,TEMP,I-MISC,O
 जाएंगे,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 इन,DEM,TEMP,O,O
 सभी,QF,TEMP,O,O
@@ -212,7 +212,7 @@
 दे,VM,TEMP,B-MISC,OCC
 दिया,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 सरकार,NN,TEMP,O,O
 इन,DEM,TEMP,O,O
@@ -236,7 +236,7 @@
 डाल,VM,TEMP,B-MISC,OCC
 रही,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 सिस्टम,NNP,TEMP,O,O
 में,PSP,TEMP,O,O
@@ -270,4 +270,4 @@
 प्राप्त,JJ,TEMP,I-MISC,O
 कर,VM,TEMP,I-MISC,O
 सके,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O

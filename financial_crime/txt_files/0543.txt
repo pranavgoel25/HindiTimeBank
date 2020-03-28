@@ -1,239 +1,239 @@
 
-रोहतास	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+रोहतास
+.
 
-सार्वजनिक	JJ	TEMP	O	O	O	O
-स्थल	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पॉकेटमारों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अछूता	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-रह	VM	TEMP	O	O	I-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सार्वजनिक
+स्थल
+ही
+नहीं
+अब
+स्वास्थ्य
+केंद्र
+भी
+पॉकेटमारों
+से
+अछूता
+नहीं
+रह
+गया
+है
+.
 
-कई	QF	TEMP	O	O	O	O
-हफ्ते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पाएचसी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हो	VM	TEMP	O	O	B-STAT	O
-रही	VAUX	TEMP	O	O	I-STAT	O
-पॉकेटमारी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-से	PSP	TEMP	O	O	O	O
-मरीज	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-परिजन	NN	TEMP	O	O	O	O
-परेशान	JJ	TEMP	O	O	B-STAT	DECL
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+कई
+हफ्ते
+से
+पाएचसी
+में
+हो
+रही
+पॉकेटमारी
+की
+घटना
+से
+मरीज
+व
+उसने
+परिजन
+परेशान
+हैं
+.
 
-शनिवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-काट	VM	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	B-MISC	O	O	O
-उडा	VM	TEMP	I-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-परिसर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अफरातफरी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मच	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शनिवार
+को
+एक
+महिला
+का
+बैग
+काट
+20
+हजार
+रुपया
+उडा
+लिए
+जाने
+के
+बाद
+अस्पताल
+परिसर
+में
+अफरातफरी
+मच
+गई
+.
 
-अस्पताल	NN	TEMP	O	O	O	O
-प्रबंधन	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बुलाकर	VM	TEMP	B-MISC	O	O	O
-तलाशी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-अभियान	NN	TEMP	I-MISC	O	I-MISC	O
-चलाया	VM	TEMP	B-MISC	O	B-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-पॉकेटमार	JJ	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लाभ	NN	TEMP	O	O	O	O
-उठाकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अस्पताल
+प्रबंधन
+द्वारा
+पुलिस
+को
+बुलाकर
+तलाशी
+अभियान
+चलाया
+गया
+,
+लेकिन
+पॉकेटमार
+मौके
+का
+लाभ
+उठाकर
+फरार
+हो
+चुका
+था
+.
 
-पिछले	JJ	TEMP	O	B	O	O
-बुधवार	NN	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पॉकेटमारों	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-दिनारा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अकोढ़ा	XC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-संध्या	NN	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-फुल्ली	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गीता	NN	TEMP	O	O	O	O
-कुंअर	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आठ	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-पॉकेटमारों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उडा	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पिछले
+बुधवार
+को
+भी
+पॉकेटमारों
+द्वारा
+दिनारा
+के
+अकोढ़ा
+की
+संध्या
+देवी
+के
+15
+सौ
+रुपये
+,
+फुल्ली
+की
+गीता
+कुंअर
+के
+आठ
+सौ
+रुपये
+सहित
+चार
+लोगों
+के
+पैसे
+पॉकेटमारों
+ने
+उडा
+लिया
+था
+.
 
-अस्पताल	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जुडे	VM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पीएचसी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अक्सर	RB	TEMP	O	O	O	O
-भीडभाड	NN	TEMP	O	O	B-MISC	OCC
-होने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-पॉकेटमारों	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-मौका	NN	TEMP	B-MISC	O	B-MISC	O
-मिलते	VM	TEMP	I-MISC	O	I-MISC	OCC
-ही	RP	TEMP	I-MISC	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पॉकेटमारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अस्पताल
+से
+जुडे
+लोगों
+का
+कहना
+है
+कि
+पीएचसी
+में
+अक्सर
+भीडभाड
+होने
+के
+चलते
+पॉकेटमारों
+द्वारा
+मौका
+मिलते
+ही
+किसी
+न
+किसी
+की
+पॉकेटमारी
+कर
+ली
+जाती
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चिकित्सक	NN	TEMP	O	O	B-MISC	O
-डॉ	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+चिकित्सक
+डॉ
+.
 
-संग्राम	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बरसात	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वजह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पीएचसी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-कमरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जलजमाव	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-ओपीडी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-डाटा	XC	TEMP	O	O	O	O
-ऑपरेटर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एकाउंटेट	NNP	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-कार्य	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-हाल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चलता	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संग्राम
+¨
+सह
+का
+कहना
+है
+कि
+बरसात
+की
+वजह
+से
+पीएचसी
+के
+अन्य
+कमरों
+में
+जलजमाव
+हो
+जाने
+से
+ओपीडी
+के
+अलावा
+डाटा
+ऑपरेटर
+,
+एकाउंटेट
+सहित
+स्वास्थ्य
+केंद्र
+का
+अन्य
+कार्य
+एक
+ही
+हाल
+में
+चलता
+है
+.
 
-जिसके	PRP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-मरीजों	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-अटेडेंट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-भीड	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसके
+चलते
+मरीजों
+व
+उनके
+अटेडेंट
+की
+काफी
+भीड
+हो
+जाती
+है
+.
 
-भीड	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-फायदा	NN	TEMP	O	O	O	O
-पॉकेटमारों	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-उठाया	VM	TEMP	O	O	B-MISC	OCC
-जाता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भीड
+का
+फायदा
+पॉकेटमारों
+द्वारा
+उठाया
+जाता
+है
+.
 
-पीएचसी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अतिरिक्त	JJ	TEMP	O	O	O	O
-सुरक्षा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-थानाध्यक्ष	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीएचसी
+में
+अतिरिक्त
+सुरक्षा
+के
+लिए
+थानाध्यक्ष
+को
+सूचित
+किया
+गया
+है
+.

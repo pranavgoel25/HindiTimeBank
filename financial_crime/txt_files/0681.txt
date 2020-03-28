@@ -1,159 +1,159 @@
 
-सीसीटीवी	JJ	TEMP	O	O	O	O
-खराब	JJ	TEMP	B-MISC	O	B-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-नाराज	XC	TEMP	O	O	O	O
-हसनपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-भारतीय	JJ	TEMP	O	O	O	O
-स्टेट	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगे	VM	TEMP	O	O	O	O
-सीसीटीवी	JJ	TEMP	O	O	O	O
-कैमरे	NN	TEMP	O	O	B-MISC	OCC
-खराब	JJ	TEMP	B-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लुटेरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फुटेज	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-मिल	VM	TEMP	O	O	I-MISC	O
-सकी	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सीसीटीवी
+खराब
+होने
+से
+पुलिस
+नाराज
+हसनपुर
+:
+भारतीय
+स्टेट
+बैंक
+में
+लगे
+सीसीटीवी
+कैमरे
+खराब
+होने
+से
+पुलिस
+को
+लुटेरों
+की
+फुटेज
+नहीं
+मिल
+सकी
+है
+.
 
-सेवानिवृत	JJ	TEMP	O	O	O	O
-नलकूप	NN	TEMP	O	O	O	O
-ऑपरेटर	XC	TEMP	O	O	O	O
-पुरुषोत्तम	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लूट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-एसबीआइ	XC	TEMP	O	O	O	O
-हसनपुर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निकाली	VM	TEMP	O	O	B-MISC	OCC
-थी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सेवानिवृत
+नलकूप
+ऑपरेटर
+पुरुषोत्तम
+ने
+लूट
+से
+पहले
+60
+हजार
+की
+नकदी
+एसबीआइ
+हसनपुर
+से
+अपने
+खाते
+से
+निकाली
+थी
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-संभावना	NN	TEMP	O	O	B-MISC	OCC
-है	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-लुटेरे	JJ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पीछे	NST	TEMP	O	O	B-MISC	OCC
-लगे	VM	TEMP	O	O	I-MISC	O
-होंगे	VAUX	TEMP	O	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मौका	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-थैला	NN	TEMP	O	O	O	O
-छीनकर	VM	TEMP	B-MISC	O	O	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	OCC
-निकले	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+को
+संभावना
+है
+कि
+लुटेरे
+बैंक
+से
+ही
+उसके
+पीछे
+लगे
+होंगे
+और
+मौका
+मिलने
+पर
+थैला
+छीनकर
+भाग
+निकले
+.
 
-सीओ	XC	TEMP	O	O	O	O
-मोनिका	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-इंस्पेक्टर	XC	TEMP	O	O	O	O
-एसके	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-पहुंचकर	VM	TEMP	B-MISC	O	B-MISC	O
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-खुलने	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फुटेज	NN	TEMP	O	O	O	O
-चेक	VM	TEMP	O	O	B-MISC	O
-करनी	VM	TEMP	B-MISC	O	I-MISC	OCC
-चाही	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-सीसीटीवी	JJ	TEMP	O	O	O	O
-कैमरे	NN	TEMP	O	O	O	O
-खराब	JJ	TEMP	B-MISC	O	B-STAT	O
-हैं	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सीओ
+मोनिका
+यादव
+व
+इंस्पेक्टर
+एसके
+¨
+सह
+ने
+बैंक
+पहुंचकर
+सोमवार
+को
+बैंक
+खुलने
+के
+समय
+से
+घटना
+के
+समय
+तक
+की
+फुटेज
+चेक
+करनी
+चाही
+तो
+पता
+चला
+कि
+कुछ
+सीसीटीवी
+कैमरे
+खराब
+हैं
+.
 
-सीसीटीवी	JJ	TEMP	O	O	O	O
-कैमरे	NN	TEMP	O	O	O	OCC
-खराब	JJ	TEMP	B-MISC	O	B-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नाराजगी	NN	TEMP	O	O	O	O
-प्रकट	JJ	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-जल्द	NN	TEMP	O	O	O	O
-चालू	NN	TEMP	B-MISC	O	B-MISC	O
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-.	SYM	TEMP	O	O	O	O
+सीसीटीवी
+कैमरे
+खराब
+होने
+पर
+अधिकारियों
+ने
+नाराजगी
+प्रकट
+कर
+जल्द
+चालू
+कराने
+को
+कहा
+.
 
-शाखा	NN	TEMP	O	O	O	O
-प्रबंधक	JJ	TEMP	O	O	O	O
-धर्म	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	O
-शाखा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-7	QC	TEMP	O	O	O	O
-सीसीटीवी	JJ	TEMP	O	O	O	O
-कैमरे	NN	TEMP	O	O	B-MISC	OCC
-लगे	VM	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिनमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-4	QC	TEMP	O	O	O	O
-खराब	JJ	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+शाखा
+प्रबंधक
+धर्म
+¨
+सह
+ने
+बताया
+शाखा
+में
+7
+सीसीटीवी
+कैमरे
+लगे
+हैं
+,
+जिनमें
+से
+4
+खराब
+हैं
+.
 
-तीन	QC	TEMP	O	O	O	O
-सही	JJ	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	O	O
-कर	VM	TEMP	I-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तीन
+सही
+काम
+कर
+रहे
+हैं
+.

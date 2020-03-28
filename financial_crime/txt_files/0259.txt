@@ -1,205 +1,205 @@
-﻿बोकारो	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सिटी	XC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-सेक्टर-	VM	TEMP	O	O	O	O
-4	QC	TEMP	O	O	O	O
-जी	RP	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-श्री	XC	TEMP	O	O	O	O
-रास	XC	TEMP	O	O	O	O
-बिहारी	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-साइबर	JJ	TEMP	O	O	O	O
-अपराधियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्राथमिकी	JJ	TEMP	O	O	O	O
-दर्ज	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	DECL
-.	SYM	TEMP	O	O	O	O
+﻿बोकारो
+:
+सिटी
+पुलिस
+सेक्टर-
+4
+जी
+निवासी
+श्री
+रास
+बिहारी
+की
+शिकायत
+पर
+अज्ञात
+साइबर
+अपराधियों
+के
+खिलाफ
+धोखाधडी
+के
+आरोप
+की
+प्राथमिकी
+दर्ज
+की
+है
+.
 
-दर्ज	JJ	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिकायतकर्ता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अकाउंट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-साइबर	JJ	TEMP	O	O	O	O
-अपराधियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तीस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दर्ज
+रिपोर्ट
+में
+शिकायतकर्ता
+ने
+बताया
+है
+कि
+अकाउंट
+से
+साइबर
+अपराधियों
+ने
+तीन
+बार
+में
+तीस
+हजार
+रुपये
+की
+निकासी
+कर
+ली
+.
 
-----------	JJ	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दुष्कर्म	NN	TEMP	B-MISC	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-बोकारो	VM	TEMP	O	O	I-MISC	O
-:	SYM	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-सेक्टर	XC	TEMP	O	O	O	O
-बारह	XC	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अजीत	JJ	TEMP	O	O	O	O
-बाउरी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हराधन	NN	TEMP	O	O	O	O
-बाउरी	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घुसकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-दुष्कर्म	NN	TEMP	B-MISC	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्राथमिकी	JJ	TEMP	B-MISC	O	O	O
-दर्ज	NN	TEMP	I-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	DECL
-.	SYM	TEMP	O	O	O	O
+----------
+महिला
+से
+दुष्कर्म
+का
+प्रयास
+बोकारो
+:
+महिला
+थाने
+की
+पुलिस
+सेक्टर
+बारह
+निवासी
+एक
+महिला
+की
+शिकायत
+पर
+अजीत
+बाउरी
+,
+हराधन
+बाउरी
+समेत
+अन्य
+के
+खिलाफ
+घर
+में
+घुसकर
+दुष्कर्म
+का
+प्रयास
+करने
+के
+आरोप
+की
+प्राथमिकी
+दर्ज
+की
+है
+.
 
-महिला	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पति	NN	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-करते	VM	TEMP	O	O	B-MISC	OCC
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+महिला
+ने
+बताया
+है
+कि
+उसके
+पति
+बाहर
+काम
+करते
+हैं
+.
 
-आरोपी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-दरवाजा	NN	TEMP	O	O	O	O
-खटखटाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-जैसे	PRP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-दरवाजा	NN	TEMP	O	O	O	O
-खोला	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-जबरन	NN	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घुसकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-दुष्कर्म	NN	TEMP	B-MISC	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आरोपी
+ने
+उसका
+दरवाजा
+खटखटाया
+और
+जैसे
+ही
+उसने
+दरवाजा
+खोला
+तो
+वह
+जबरन
+घर
+में
+घुसकर
+दुष्कर्म
+का
+प्रयास
+किया
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-जुट	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+मामले
+की
+जांच
+में
+जुट
+गई
+है
+.
 
-------------	NN	TEMP	O	O	O	O
-साई	QF	TEMP	O	O	O	O
-मंदिर	NN	TEMP	O	O	O	O
-गौशाला	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-गाय	JJ	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-बोकारो	VM	TEMP	O	O	I-MISC	O
-:	SYM	TEMP	O	O	O	O
-सेक्टर	NN	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-साईं	JJ	TEMP	O	O	O	O
-मंदिर	NN	TEMP	O	O	O	O
-सेक्टर	NN	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-बी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संस्थापक	NN	TEMP	O	O	O	O
-प्रबंधक	JJ	TEMP	O	O	O	O
-सेक्टर	XC	TEMP	O	O	O	O
-तीन	XC	TEMP	O	O	O	O
-ए	SYM	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-राकेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-प्राथमिकी	JJ	TEMP	B-MISC	O	O	O
-दर्ज	NN	TEMP	I-MISC	O	B-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	DECL
-.	SYM	TEMP	O	O	O	O
+------------
+साई
+मंदिर
+गौशाला
+से
+गाय
+चोरी
+बोकारो
+:
+सेक्टर
+छह
+पुलिस
+साईं
+मंदिर
+सेक्टर
+छह
+बी
+के
+संस्थापक
+प्रबंधक
+सेक्टर
+तीन
+ए
+निवासी
+राकेश
+कुमार
+की
+शिकायत
+पर
+अज्ञात
+चोरों
+के
+खिलाफ
+प्राथमिकी
+दर्ज
+की
+है
+.
 
-दर्ज	JJ	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिकायतकर्ता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-मंदिर	NN	TEMP	O	O	O	O
-परिसर	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-गौशाला	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-गाय	NN	TEMP	O	O	O	O
-चुरा	VM	TEMP	B-MISC	O	B-MISC	OCC
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दर्ज
+रिपोर्ट
+में
+शिकायतकर्ता
+ने
+बताया
+है
+कि
+उनके
+मंदिर
+परिसर
+स्थित
+गौशाला
+से
+चोरों
+ने
+एक
+गाय
+चुरा
+ली
+.

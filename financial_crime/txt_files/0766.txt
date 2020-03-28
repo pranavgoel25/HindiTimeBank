@@ -1,564 +1,564 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अलीगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-एडीए	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-अलीगढ़	NN	TEMP	O	O	O	O
-विकास	SYM	TEMP	O	O	O	O
-प्राधिकरण	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-भले	RP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-धन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अभाव	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रोना	NN	TEMP	O	O	O	O
-रोकर	VM	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सुनियोजित	JJ	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दूरी	NN	TEMP	B-MISC	O	O	O
-बना	VM	TEMP	I-MISC	O	B-MISC	OCC
-लेता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अफसर	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-जिम्मेदार	JJ	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+अलीगढ़
+:
+एडीए
+(
+अलीगढ़
+विकास
+प्राधिकरण
+)
+भले
+ही
+धन
+के
+अभाव
+का
+रोना
+रोकर
+शहर
+के
+सुनियोजित
+विकास
+से
+दूरी
+बना
+लेता
+है
+तो
+लेकिन
+पूरी
+तरह
+से
+इसके
+लिए
+विभाग
+के
+अफसर
+ही
+जिम्मेदार
+हैं
+.
 
-करोडो	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-फाइलों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दफन	NN	TEMP	B-MISC	O	B-MISC	O
-पडे	VM	TEMP	I-MISC	O	I-MISC	OCC
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+करोडो
+रुपये
+फाइलों
+में
+दफन
+पडे
+हुए
+हैं
+.
 
-हाल	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-MISC	O
-कि	CC	TEMP	O	O	O	O
-पांच	XC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-भवनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	O	OCC
-जारी	JJ	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-विभाग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पीछे	NST	TEMP	B-MISC	O	O	O
-मुडकर	VM	TEMP	I-MISC	O	B-MISC	O
-ही	RP	TEMP	O	O	I-MISC	O
-नहीं	NEG	TEMP	O	O	I-MISC	OCC
-देखा	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हाल
+यह
+है
+कि
+पांच
+हजार
+से
+अधिक
+भवनों
+को
+नोटिस
+जारी
+कर
+विभाग
+ने
+पीछे
+मुडकर
+ही
+नहीं
+देखा
+है
+.
 
-150	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-कॉलोनियों	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अवैध	JJ	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+150
+के
+करीब
+कॉलोनियों
+भी
+पूरी
+तरह
+से
+अवैध
+हैं
+.
 
-अगर	CC	TEMP	O	O	O	O
-इनसे	PRP	TEMP	O	O	O	O
-वसूली	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-कार्यो	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-एकत्रित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+इनसे
+वसूली
+की
+जाए
+तो
+विकास
+कार्यो
+के
+एक
+हजार
+करोड
+रुपये
+एकत्रित
+किए
+जा
+सकते
+हैं
+.
 
-152	QC	TEMP	O	O	O	O
-कॉलोनियों	NN	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	O	O
-अवैध	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चारों	QC	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दर्जनों	NN	TEMP	O	O	B-MISC	O
-कॉलोनियां	NN	TEMP	O	O	I-MISC	O
-बनी	VM	TEMP	O	O	I-MISC	OCC
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+152
+कॉलोनियों
+हैं
+अवैध
+:
+शहर
+के
+चारों
+तरफ
+से
+दर्जनों
+कॉलोनियां
+बनी
+हैं
+.
 
-अधिकांश	JJ	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-भवन	NN	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-कर	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-इनमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिकांश	JJ	TEMP	O	O	O	O
-कॉलोनियां	NN	TEMP	O	O	O	O
-अवैध	JJ	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+अधिकांश
+लोग
+भवन
+निर्माण
+भी
+कर
+रहे
+हैं
+लेकिन
+इनमें
+से
+अधिकांश
+कॉलोनियां
+अवैध
+हैं
+.
 
-जुलाई	NNP	TEMP	O	B	O	O
-महीने	NN	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-प्राधिकरण	NN	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-154	QC	TEMP	O	O	O	O
-कॉलोनियों	NN	TEMP	O	O	O	O
-अवैध	JJ	TEMP	O	O	O	O
-चिन्हित	JJ	TEMP	O	O	B-MISC	O
-की	VM	TEMP	O	O	I-MISC	OCC
-गई	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जुलाई
+महीने
+तक
+प्राधिकरण
+क्षेत्र
+में
+154
+कॉलोनियों
+अवैध
+चिन्हित
+की
+गई
+हैं
+.
 
-इनमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-101	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इनमें
+से
+101
+के
+नोटिस
+जारी
+हो
+चुके
+हैं
+.
 
-जबकि	CC	TEMP	O	O	O	O
-51	QC	TEMP	O	O	O	O
-कॉलोनियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-अफसरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मुडकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-देखा	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+51
+कॉलोनियों
+की
+तरफ
+तो
+अफसरों
+ने
+मुडकर
+भी
+नहीं
+देखा
+.
 
-5265	QC	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-कोई	PRP	TEMP	O	O	O	O
-अता-पता	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-कॉलोनियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भवन	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-अवैध	JJ	TEMP	O	O	B-MISC	OCC
-बने	VM	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+5265
+का
+नहीं
+है
+कोई
+अता-पता
+:
+कॉलोनियों
+के
+साथ
+ही
+बडी
+संख्या
+में
+भवन
+भी
+अवैध
+बने
+हैं
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-व्यवसायिक	JJ	TEMP	O	O	O	O
-भवनों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-आवासीय	JJ	TEMP	O	O	O	O
-मकान	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	B-STAT	DECL
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+व्यवसायिक
+भवनों
+के
+साथ
+ही
+आवासीय
+मकान
+भी
+शामिल
+हैं
+.
 
-पिछले	JJ	TEMP	O	B	O	O
-महीने	NN	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-5265	QC	TEMP	O	O	O	O
-अवैध	JJ	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-चिह्नित	JJ	TEMP	O	O	B-MISC	OCC
-किए	VM	TEMP	O	O	I-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पिछले
+महीने
+तक
+5265
+अवैध
+निर्माण
+चिह्नित
+किए
+गए
+हैं
+.
 
-इन	DEM	TEMP	O	O	O	O
-सबके	PRP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+सबके
+खिलाफ
+नोटिस
+जारी
+हो
+चुके
+हैं
+.
 
-जबकि	CC	TEMP	O	O	O	O
-2022	QC	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-ऐसे	PRP	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जिनके	PRP	TEMP	O	O	O	O
-ध्वस्तीकरण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-हो	VM	TEMP	B-MISC	O	I-MISC	-1
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+2022
+आवास
+तो
+ऐसे
+हैं
+,
+जिनके
+ध्वस्तीकरण
+के
+आदेश
+भी
+हो
+चुके
+हैं
+.
 
-अन्य	JJ	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-शमन	NN	TEMP	O	O	O	O
-शुल्क	NN	TEMP	O	O	O	O
-भरा	VM	TEMP	O	O	B-MISC	OCC
-जाना	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अन्य
+का
+शमन
+शुल्क
+भरा
+जाना
+है
+.
 
-पिछले	JJ	TEMP	O	B	O	O
-महीने	NN	TEMP	O	I	O	O
-महज	RB	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-ध्वस्त	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-एडीए	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-जुलाई	XC	TEMP	O	O	O	O
-महीने	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कुल	QF	TEMP	O	O	O	O
-59	QC	TEMP	O	O	O	O
-अवैध	JJ	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-चिह्नित	JJ	TEMP	O	O	B-MISC	OCC
-किए	VM	TEMP	O	O	I-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पिछले
+महीने
+महज
+तीन
+ध्वस्त
+:
+एडीए
+द्वारा
+जुलाई
+महीने
+में
+कुल
+59
+अवैध
+निर्माण
+चिह्नित
+किए
+गए
+हैं
+.
 
-इनमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-महज	RB	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-ऐसे	PRP	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जिनके	PRP	TEMP	O	O	O	O
-शमन	NN	TEMP	O	O	O	O
-शुल्क	NN	TEMP	O	O	B-MISC	O
-जमा	VM	TEMP	O	O	I-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इनमें
+से
+महज
+तीन
+ऐसे
+हैं
+,
+जिनके
+शमन
+शुल्क
+जमा
+हुए
+हैं
+.
 
-जबकि	CC	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-अवैध	JJ	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ध्वस्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+तीन
+अवैध
+निर्माण
+को
+ध्वस्त
+किया
+गया
+है
+.
 
-अधिकांश	JJ	TEMP	O	O	O	O
-नोटिसों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अफसरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सांठगांठ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दबा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अधिकांश
+नोटिसों
+को
+अफसरों
+की
+सांठगांठ
+से
+दबा
+दिया
+गया
+है
+.
 
-एक	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-आमदनी	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-मौजूदा	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एडीए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सालना	NN	TEMP	O	O	O	O
-कमाई	NN	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	-1
-.	SYM	TEMP	O	O	O	O
+एक
+हजार
+करोड
+तक
+आमदनी
+:
+मौजूदा
+समय
+में
+एडीए
+की
+सालना
+कमाई
+40
+से
+50
+करोड
+तक
+हैं
+.
 
-इसी	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-विकास	NN	TEMP	B-MISC	O	B-MISC	OCC
-होता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+से
+शहर
+का
+विकास
+होता
+है
+.
 
-अगर	CC	TEMP	O	O	O	O
-पुरानी	JJ	TEMP	O	O	O	O
-अवैध	JJ	TEMP	O	O	O	O
-कॉलोनियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वसूली	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-आय	XC	TEMP	O	O	B-MISC	OCC
-बढ़	NNP	TEMP	O	O	I-MISC	O
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+पुरानी
+अवैध
+कॉलोनियों
+से
+वसूली
+शुरू
+की
+जाए
+तो
+एक
+हजार
+करोड
+रुपये
+तक
+आय
+बढ़
+जाएगी
+.
 
-इससे	PRP	TEMP	O	O	O	O
-अलीगढ़	NN	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-प्राधिकरण	NN	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-मालदार	JJ	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-बन	VM	TEMP	O	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+अलीगढ़
+विकास
+प्राधिकरण
+सबसे
+मालदार
+विभाग
+बन
+जाएगा
+.
 
-सांठ-गांठ	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-खेल	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-प्राधिकरण	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अफसरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सांठ-गांठ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-पूरा	JJ	TEMP	O	O	O	O
-खेल	NN	TEMP	O	O	B-MISC	O
-चलता	VM	TEMP	O	O	I-MISC	DECL
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सांठ-गांठ
+का
+खेल
+:
+प्राधिकरण
+में
+अफसरों
+की
+सांठ-गांठ
+से
+यह
+पूरा
+खेल
+चलता
+है
+.
 
-नोटिस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-जिस	DEM	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वसूली	NN	TEMP	B-MISC	O	B-MISC	OCC
-होती	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-उसी	DEM	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फाइल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दबा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नोटिस
+के
+बाद
+जिस
+निर्माण
+से
+वसूली
+होती
+है
+,
+उसी
+की
+फाइल
+को
+दबा
+दिया
+जाता
+है
+.
 
-बाबू	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	OCC
-इसमें	PRP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हिस्सा	NN	TEMP	O	O	B-MISC	OCC
-होता	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाबू
+से
+लेकर
+इसमें
+सबसे
+बडे
+अधिकारी
+तक
+का
+हिस्सा
+होता
+है
+.
 
-इसी	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	O	O	O
-सालों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दर्जनों	NN	TEMP	O	O	O	O
-फाइलें	NN	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-एडीए	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-गायब	JJ	TEMP	O	O	B-MISC	OCC
-तक	RP	TEMP	O	O	I-MISC	O
-हो	VM	TEMP	O	O	I-MISC	-1
-गई	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+के
+चलते
+पिछले
+सालों
+में
+दर्जनों
+फाइलें
+तो
+एडीए
+से
+गायब
+तक
+हो
+गई
+हैं
+.
 
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-नियम	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-अवैध	JJ	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एडीए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-नोटिस	NN	TEMP	B-MISC	O	O	O
-जारी	JJ	TEMP	I-MISC	O	B-MISC	OCC
-करता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+है
+नियम
+:
+अवैध
+निर्माण
+पर
+एडीए
+की
+तरफ
+से
+सबसे
+पहले
+नोटिस
+जारी
+करता
+है
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-भवन	XC	TEMP	O	O	O	O
-स्वामी	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तत्काल	RB	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	IAC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-साक्ष्य	NN	TEMP	O	O	O	O
-प्रस्तुत	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	O	O	B-MISC	OCC
-दिए	VM	TEMP	B-MISC	O	I-MISC	O
-जाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+भवन
+स्वामी
+को
+तत्काल
+काम
+बंद
+कर
+साक्ष्य
+प्रस्तुत
+करने
+के
+निर्देश
+दिए
+जाते
+हैं
+.
 
-अगर	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-सप्ताह	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-अंदर	NST	TEMP	O	O	O	O
-साक्ष्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-देता	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उपाध्यक्ष	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मकान	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तत्काल	JJ	TEMP	O	O	O	O
-सीलिंग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-जा	VAUX	TEMP	O	O	I-MISC	O
-सकती	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+वह
+एक
+सप्ताह
+के
+अंदर
+साक्ष्य
+नहीं
+देता
+तो
+उपाध्यक्ष
+की
+तरफ
+से
+मकान
+को
+तत्काल
+सीलिंग
+की
+कार्रवाई
+की
+जा
+सकती
+है
+.
 
-काफी	QF	TEMP	O	O	O	O
-पुराने	JJ	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+काफी
+पुराने
+मामले
+में
+हैं
+.
 
-एडीए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-जारी	JJ	TEMP	I-MISC	O	I-MISC	O
-हैं	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एडीए
+की
+तरफ
+से
+लगातार
+कार्रवाई
+जारी
+हैं
+.
 
-अवैध	JJ	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-अभियान	NN	TEMP	B-MISC	O	O	O
-चलाया	VM	TEMP	I-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अवैध
+निर्माण
+के
+खिलाफ
+जल्द
+ही
+अभियान
+चलाया
+है
+.
 
-अफसरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मिलीभगत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अफसरों
+की
+मिलीभगत
+के
+संबंध
+में
+जांच
+होगी
+.
 
--	SYM	TEMP	O	O	O	O
-निशा	NN	TEMP	O	O	O	O
-गोयल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-उपाध्यक्ष	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अलीगढ़	NN	TEMP	O	O	O	O
-विकास	SYM	TEMP	O	O	O	O
-प्राधिकरण	NN	TEMP	O	O	O	O
+-
+निशा
+गोयल
+,
+उपाध्यक्ष
+,
+अलीगढ़
+विकास
+प्राधिकरण

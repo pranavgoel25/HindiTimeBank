@@ -19,7 +19,7 @@
 जारी,JJ,TEMP,B-MISC,OCC
 कर,VM,TEMP,I-MISC,O
 दिया,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 इसके,PRP,TEMP,O,O
 तहत,JJ,TEMP,O,O
@@ -35,7 +35,7 @@
 राशि,NN,TEMP,O,O
 अतिरिक्त,JJ,TEMP,O,O
 मिलेगी,VM,TEMP,B-MISC,OCC
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 केंद्र,XC,TEMP,O,O
 सरकार,NNP,TEMP,O,O
@@ -59,7 +59,7 @@
 निर्धारित,JJ,TEMP,B-MISC,OCC
 किया,VM,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 इसपर,PRP,TEMP,O,O
 राज्य,NN,TEMP,O,O
@@ -88,7 +88,7 @@
 1740,QC,TEMP,O,O
 रुपये,NN,TEMP,O,O
 मिलेंगे,VM,TEMP,B-MISC,OCC
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 इधर,XC,TEMP,O,O
 ",",SYM,TEMP,O,O
@@ -113,7 +113,7 @@
 ने,PSP,TEMP,O,O
 दी,VM,TEMP,I-MISC,-1
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 इसी,DEM,TEMP,O,O
 राशि,NN,TEMP,O,O
@@ -145,4 +145,4 @@
 क्रय,NN,TEMP,O,O
 किए,VM,TEMP,B-MISC,OCC
 जाएंगे,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O

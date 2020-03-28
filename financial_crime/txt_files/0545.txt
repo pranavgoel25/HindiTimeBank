@@ -1,214 +1,214 @@
 
-अलीगढ़	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-खैर	XC	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नयावांस	NN	TEMP	O	O	O	O
-पुल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-बोलेरो	VM	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-बदमाश	JJ	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-62	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	B-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अलीगढ़
+:
+खैर
+कोतवाली
+क्षेत्र
+में
+नयावांस
+पुल
+के
+पास
+बोलेरो
+सवार
+बदमाश
+ट्रक
+चालक
+से
+62
+हजार
+रुपये
+लूट
+ले
+गए
+.
 
-वारदात	NN	TEMP	O	O	O	O
-शनिवार	JJ	TEMP	O	B	O	O
-रात	NN	TEMP	O	B	O	O
-करीब	RB	TEMP	O	B	O	O
-नौ	QC	TEMP	O	I	O	O
-बजे	NN	TEMP	O	I	B-MISC	O
-की	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वारदात
+शनिवार
+रात
+करीब
+नौ
+बजे
+की
+है
+.
 
-चालक	NN	TEMP	O	O	O	O
-हाथरस	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-फतेहगढ़ी	NN	TEMP	O	O	O	O
-आ	VM	TEMP	O	O	B-MISC	OCC
-रहा	VAUX	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चालक
+हाथरस
+से
+अपने
+गांव
+फतेहगढ़ी
+आ
+रहा
+था
+.
 
-गांव	XC	TEMP	O	O	O	O
-फतहगढ़ी	XC	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-भूरा	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-कुंवरपाल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आरजे	NN	TEMP	O	O	O	O
-7	QC	TEMP	O	O	O	O
-जी	RP	TEMP	O	O	O	O
-4717	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+गांव
+फतहगढ़ी
+निवासी
+भूरा
+सिंह
+पुत्र
+कुंवरपाल
+का
+खुद
+का
+आरजे
+7
+जी
+4717
+नंबर
+ट्रक
+है
+.
 
-चलाते	VM	TEMP	B-MISC	O	B-MISC	O
-भी	RP	TEMP	O	O	O	O
-वही	PRP	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+चलाते
+भी
+वही
+हैं
+.
 
-शनिवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-लखनऊ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्लाईबुड	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-हाथरस	NN	TEMP	O	O	B-MISC	O
-लाए	VM	TEMP	O	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+शनिवार
+को
+लखनऊ
+से
+प्लाईबुड
+लेकर
+हाथरस
+लाए
+.
 
-वहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-माल	NN	TEMP	O	O	O	OCC
-खाली	JJ	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-गांव	NN	TEMP	O	O	O	O
-आ	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहां
+से
+माल
+खाली
+कर
+गांव
+आ
+रहे
+थे
+.
 
-रात	NN	TEMP	O	B	O	O
-करीब	RB	TEMP	O	B	O	O
-नौ	QC	TEMP	O	I	O	O
-बजे	RP:?	TEMP	O	I	O	O
-नयावांस	NN	TEMP	O	O	O	O
-पुल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-पीछे	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आई	NN	TEMP	O	O	O	O
-बोलेरो	VM	TEMP	O	O	O	O
-सवारों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ओवरटेक	JJ	TEMP	B-MISC	O	B-MISC	O
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-ट्रक	NN	TEMP	O	O	B-MISC	OCC
-रोक	VM	TEMP	O	O	I-MISC	O
-लिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रात
+करीब
+नौ
+बजे
+नयावांस
+पुल
+के
+पास
+पीछे
+से
+आई
+बोलेरो
+सवारों
+ने
+ओवरटेक
+करके
+ट्रक
+रोक
+लिया
+.
 
-चार	QC	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-उतरे	VM	TEMP	O	O	B-MISC	O
-व	CC	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चढ़कर	XC	TEMP	O	O	O	O
-भूरा	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लात-घूंसों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पीटा	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-जेब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-टूल	NN	TEMP	O	O	O	O
-बॉक्स	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	B-STAT	O
-50	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-लूटकर	VM	TEMP	O	O	O	O
-खैर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	PSP	TEMP	O	O	O	O
-भाग	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चार
+लोग
+उतरे
+व
+ट्रक
+पर
+चढ़कर
+भूरा
+सिंह
+को
+लात-घूंसों
+से
+पीटा
+और
+जेब
+से
+12
+हजार
+तथा
+टूल
+बॉक्स
+में
+रखे
+50
+हजार
+रुपये
+व
+मोबाइल
+लूटकर
+खैर
+की
+ओर
+भाग
+गए
+.
 
-चालक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-राहगीर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चालक
+ने
+किसी
+राहगीर
+के
+मोबाइल
+लेकर
+सौ
+नंबर
+पर
+पुलिस
+को
+सूचना
+दी
+.
 
-खबर	NN	TEMP	O	O	B-MISC	O
-मिलते	VM	TEMP	B-MISC	O	I-MISC	O
-ही	RP	TEMP	I-MISC	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-प्रभारी	NN	TEMP	O	O	O	O
-दिनेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-दुबे	JJ	TEMP	O	O	O	O
-मयफोर्स	NN	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+खबर
+मिलते
+ही
+कोतवाली
+प्रभारी
+दिनेश
+कुमार
+दुबे
+मयफोर्स
+मौके
+पर
+पहुंचे
+.
 
-चालक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	O	OCC
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	O
-बदमाशों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-सफलता	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चालक
+से
+घटना
+की
+जानकारी
+लेकर
+बदमाशों
+की
+तलाश
+की
+लेकिन
+कोई
+सफलता
+नहीं
+मिली
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+पीडित
+से
+तहरीर
+ले
+ली
+गई
+है
+.
 
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-रिपोर्ट	NN	TEMP	O	O	B-MISC	OCC
-लिखी	VM	TEMP	O	O	I-MISC	O
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जांच
+करके
+रिपोर्ट
+लिखी
+जाएगी
+.

@@ -1,291 +1,291 @@
 
-पटना	NNP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+पटना
+.
 
-नासिक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मंडियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अचानक	RB	TEMP	O	O	O	O
-आई	QC	TEMP	O	O	O	O
-नरमी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वजह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पटना	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्याज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कीमत	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-नीचे	NST	TEMP	O	O	B-MISC	O
-आ	VM	TEMP	B-MISC	O	I-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नासिक
+की
+मंडियों
+में
+अचानक
+आई
+नरमी
+की
+वजह
+से
+पटना
+में
+प्याज
+की
+कीमत
+और
+नीचे
+आ
+गई
+है
+.
 
-इसका	PRP	TEMP	O	O	O	O
-थोक	JJ	TEMP	O	O	O	O
-भाव	NN	TEMP	O	O	O	O
-19	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-किलो	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घटकर	VM	TEMP	O	O	O	O
-17	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-हो	VM	TEMP	O	O	B-MISC	OCC
-गया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसका
+थोक
+भाव
+19
+रुपये
+प्रति
+किलो
+से
+घटकर
+17
+रुपये
+हो
+गया
+है
+.
 
-शुक्रवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-खुदरा	JJ	TEMP	O	O	O	O
-भाव	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नीचे	NST	TEMP	O	O	B-MISC	O
-आ	VM	TEMP	O	O	I-MISC	OCC
-गया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शुक्रवार
+को
+खुदरा
+भाव
+भी
+नीचे
+आ
+गया
+.
 
-25	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-किलो	WQ	TEMP	O	O	O	O
-बिकने	VM	TEMP	O	O	O	O
-वाला	PSP	TEMP	O	O	O	O
-प्याज	NN	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-22	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-किलो	WQ	TEMP	O	O	B-MISC	O
-बिकने	VM	TEMP	B-MISC	O	I-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+25
+रुपये
+किलो
+बिकने
+वाला
+प्याज
+अब
+22
+रुपये
+किलो
+बिकने
+लगा
+है
+.
 
-नासिक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मंडियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्याज	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भाव	NN	TEMP	O	O	O	O
-औंधे	JJ	TEMP	O	O	O	O
-मुंह	NN	TEMP	O	O	O	O
-गिर	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नासिक
+की
+मंडियों
+में
+प्याज
+का
+भाव
+औंधे
+मुंह
+गिर
+गया
+है
+.
 
-इसका	PRP	TEMP	O	O	O	O
-असर	NN	TEMP	O	O	O	O
-पटना	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-देखने	VM	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	I-MISC	O
-मिल	VM	TEMP	B-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसका
+असर
+पटना
+में
+भी
+देखने
+को
+मिल
+रहा
+है
+.
 
-मीठापुर	XC	TEMP	O	O	O	O
-सब्जी	NN	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-थोक	QF	TEMP	O	O	O	O
-विक्रेता	NN	TEMP	O	O	O	O
-संजय	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-प्याज	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-थोक	QF	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-नीचे	NST	TEMP	O	O	B-MISC	OCC
-आ	VM	TEMP	B-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मीठापुर
+सब्जी
+मंडी
+के
+थोक
+विक्रेता
+संजय
+कुमार
+ने
+शुक्रवार
+को
+बताया
+कि
+प्याज
+का
+थोक
+मूल्य
+दो
+रुपये
+नीचे
+आ
+गया
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-गिरावट	NN	TEMP	O	O	B-MISC	OCC
-आएगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+और
+गिरावट
+आएगी
+.
 
-दरअसल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पितृपक्ष	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वजह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-प्याज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीदारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दरअसल
+,
+पितृपक्ष
+की
+वजह
+से
+लोग
+प्याज
+की
+खरीदारी
+नहीं
+कर
+रहे
+हैं
+.
 
-अब	PRP	TEMP	O	O	O	O
-नवरात्र	NN	TEMP	O	O	O	O
-शुरू	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+नवरात्र
+शुरू
+हो
+जाएगा
+.
 
-आगे	NST	TEMP	O	O	O	O
-दीपावली	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+आगे
+दीपावली
+है
+.
 
-व्रत-त्योहारों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वजह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्याज	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पाबंदी	NN	TEMP	O	O	B-MISC	O
-बनी	VM	TEMP	O	O	I-MISC	OCC
-रहेगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+व्रत-त्योहारों
+की
+वजह
+से
+प्याज
+पर
+पाबंदी
+बनी
+रहेगी
+.
 
-बिक्री	NN	TEMP	O	O	O	O
-ढीली	JJ	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-प्याज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भाव	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-नीचे	NST	TEMP	O	O	B-MISC	O
-आएंगे	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिक्री
+ढीली
+रहने
+पर
+प्याज
+के
+भाव
+और
+नीचे
+आएंगे
+.
 
-इसे	PRP	TEMP	O	O	O	O
-देखते	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-प्याज	NN	TEMP	O	O	O	O
-कारोबारी	JJ	TEMP	O	O	O	O
-आमद	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-बढ़ा	XC	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसे
+देखते
+हुए
+प्याज
+कारोबारी
+आमद
+नहीं
+बढ़ा
+रहे
+हैं
+.
 
-प्याज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नरमी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बावजूद	PSP:?	TEMP	O	O	O	O
-खुदरा	JJ	TEMP	O	O	O	O
-विक्रेता	NN	TEMP	O	O	O	O
-मनमानी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कर	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्याज
+में
+नरमी
+के
+बावजूद
+खुदरा
+विक्रेता
+मनमानी
+भी
+कर
+रहे
+हैं
+.
 
-कई	QF	TEMP	O	O	O	O
-विक्रेता	NN	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-प्याज	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-किलो	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बेच	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कई
+विक्रेता
+अब
+भी
+प्याज
+को
+25
+रुपये
+किलो
+की
+दर
+पर
+ही
+बेच
+रहे
+हैं
+.
 
-खासकर	JJ	TEMP	O	O	O	O
-गली-मोहल्ले	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विक्रेता	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-ऊंची	JJ	TEMP	O	O	O	O
-कीमत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-प्याज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खासकर
+गली-मोहल्ले
+के
+विक्रेता
+अभी
+भी
+ऊंची
+कीमत
+पर
+ही
+प्याज
+की
+बिक्री
+कर
+रहे
+हैं
+.
 
-आलू	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भाव	NN	TEMP	O	O	O	O
-स्थिर	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-आलू	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भाव	NN	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-स्थिर	JJ	TEMP	B-MISC	O	B-MISC	O
-बना	VM	TEMP	I-MISC	O	I-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आलू
+का
+भाव
+स्थिर
+:
+आलू
+का
+भाव
+मंडी
+में
+अभी
+स्थिर
+बना
+हुआ
+है
+.
 
-थोक	QF	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-साढ़े	NNP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-किलो	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जबकि	CC	TEMP	O	O	O	O
-खुदरा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-किलो	WQ	TEMP	O	O	O	O
-बिक	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थोक
+में
+यह
+पांच
+से
+साढ़े
+पांच
+रुपये
+किलो
+है
+,
+जबकि
+खुदरा
+में
+दस
+रुपये
+किलो
+बिक
+रहा
+है
+.
 
-नया	JJ	TEMP	O	O	O	O
-आलू	XC	TEMP	O	O	O	O
-थोक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-26	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-खुदरा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-किलो	WQ	TEMP	O	O	O	O
-बिक	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नया
+आलू
+थोक
+में
+26
+रुपये
+और
+खुदरा
+में
+30
+रुपये
+किलो
+बिक
+रहा
+है
+.

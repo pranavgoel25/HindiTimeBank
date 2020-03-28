@@ -1,158 +1,158 @@
 
-हाथरस	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-बदलकर	VM	TEMP	O	O	B-MISC	O
-शातिर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-36	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-पार	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हाथरस
+:
+एटीएम
+में
+कार्ड
+बदलकर
+शातिर
+ने
+किसान
+के
+36
+हजार
+रुपये
+पार
+कर
+दिए
+.
 
-मोबाइल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मैसेज	NN	TEMP	B-MISC	O	B-MISC	O
-आने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मोबाइल
+पर
+मैसेज
+आने
+पर
+पीडित
+को
+जानकारी
+हुई
+.
 
-किसान	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-सदर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किसान
+ने
+अब
+कोतवाली
+सदर
+में
+शिकायत
+की
+है
+.
 
-रामपाल	NNP	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-दादनपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हाथरस	XC	TEMP	O	O	O	O
-जंक्शन	XC	TEMP	O	O	O	O
-शनिवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-आए	VM	TEMP	O	O	B-MISC	OCC
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रामपाल
+निवासी
+दादनपुर
+,
+हाथरस
+जंक्शन
+शनिवार
+को
+काम
+से
+शहर
+आए
+थे
+.
 
-पंजाब	XC	TEMP	O	O	O	O
-नेशनल	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सादाबाद	JJ	TEMP	O	O	O	O
-गेट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-खाता	VM	TEMP	O	O	B-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पंजाब
+नेशनल
+बैंक
+,
+सादाबाद
+गेट
+में
+उनका
+खाता
+है
+.
 
-सादाबाद	JJ	TEMP	O	O	O	O
-गेट	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ऑफ	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-रुपये	NN	TEMP	B-MISC	O	B-MISC	O
-निकालने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सादाबाद
+गेट
+स्थित
+बैंक
+ऑफ
+इंडिया
+के
+एटीएम
+से
+उन्होंने
+रुपये
+निकालने
+का
+प्रयास
+किया
+.
 
-रुपये	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-निकले	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रुपये
+नहीं
+निकले
+.
 
-पीछे	NST	TEMP	O	O	O	O
-खडे	VM	TEMP	O	O	B-STAT	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आश्वासन	NN	TEMP	O	O	B-MISC	OCC
-दिया	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीछे
+खडे
+युवक
+ने
+मदद
+का
+आश्वासन
+दिया
+.
 
-इसका	PRP	TEMP	O	O	O	O
-लाभ	NN	TEMP	O	O	O	O
-उठाकर	VM	TEMP	O	O	B-MISC	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रामपाल	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	B-MISC	OCC
-बदल	VM	TEMP	B-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-पिन	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसका
+लाभ
+उठाकर
+युवक
+ने
+रामपाल
+का
+कार्ड
+बदल
+लिया
+तथा
+पिन
+भी
+पता
+कर
+लिया
+.
 
-उनके	PRP	TEMP	O	O	O	O
-जाते	VM	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उसी	DEM	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-शातिर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-36	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-पार	NN	TEMP	O	O	B-MISC	OCC
-किए	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनके
+जाते
+ही
+उसी
+एटीएम
+से
+शातिर
+ने
+तीन
+बार
+में
+36
+हजार
+रुपये
+पार
+किए
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-पेट्रोल	JJ	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-खरीदा	VM	TEMP	O	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+कार्ड
+के
+जरिए
+पेट्रोल
+भी
+खरीदा
+.
 
-शिकायत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शिकायत
+के
+बाद
+भी
+पुलिस
+ने
+मामला
+दर्ज
+नहीं
+किया
+है
+.

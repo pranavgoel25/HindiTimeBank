@@ -1,387 +1,387 @@
-﻿नई	JJ	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-पीटीआई	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿नई
+दिल्ली
+(
+पीटीआई
+)
+.
 
-भारी	JJ	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-बोझ	NN	TEMP	O	O	O	O
-तले	JJ	TEMP	O	O	O	O
-दबी	XC	TEMP	O	O	O	O
-एयर	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-फौरी	JJ	TEMP	O	O	O	O
-जरूरतों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-1,500	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दरकार	NN	TEMP	B-MISC	O	O	O
-है	VM	TEMP	I-MISC	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+भारी
+कर्ज
+बोझ
+तले
+दबी
+एयर
+इंडिया
+को
+फौरी
+जरूरतों
+के
+लिए
+फिर
+से
+1,500
+करोड़
+रुपये
+की
+दरकार
+है
+.
 
-निजीकरण	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राह	NN	TEMP	B-MISC	O	O	OCC
-देख	VM	TEMP	I-MISC	O	B-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-इस	DEM	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-विमानन	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-वर्किग	JJ	TEMP	O	O	O	O
-कैपिटल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-1,500	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शॉर्ट	XC	TEMP	O	O	O	O
-टर्म	XC	TEMP	O	O	O	O
-लोन	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	B-MISC	O	O	O
-तैयार	JJ	TEMP	I-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+निजीकरण
+की
+राह
+देख
+रही
+इस
+सरकारी
+विमानन
+कंपनी
+ने
+वर्किग
+कैपिटल
+के
+तौर
+पर
+1,500
+करोड़
+रुपये
+के
+शॉर्ट
+टर्म
+लोन
+का
+प्रस्ताव
+तैयार
+किया
+है
+.
 
-बीते	VM	TEMP	O	B	O	O
-एक	QC	TEMP	O	I	O	O
-माह	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-दूसरा	QO	TEMP	O	O	O	O
-मौका	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-एयर	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अल्पावधि	JJ	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-टेंडर	NN	TEMP	B-MISC	O	B-MISC	OCC
-निकाले	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीते
+एक
+माह
+में
+यह
+दूसरा
+मौका
+है
+,
+जब
+एयर
+इंडिया
+ने
+ने
+अल्पावधि
+कर्ज
+के
+लिए
+टेंडर
+निकाले
+हैं
+.
 
-करदाताओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संचालित	JJ	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-एयरलाइन	NN	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मुश्किलों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जूझ	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+करदाताओं
+के
+पैसे
+से
+संचालित
+यह
+एयरलाइन
+कई
+तरह
+की
+मुश्किलों
+से
+जूझ
+रही
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	O
-घाटा	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कर्ज	XC	TEMP	O	O	O	O
-बोझ	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-विमान	XC	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बढ़ती	XC	TEMP	O	O	O	O
-प्रतिस्पर्धा	NN	TEMP	O	O	O	O
-प्रमुख	JJ	TEMP	O	O	O	O
-चुनौतियां	NN	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इस
+कंपनी
+के
+सामने
+घाटा
+,
+कर्ज
+बोझ
+और
+विमान
+क्षेत्र
+में
+बढ़ती
+प्रतिस्पर्धा
+प्रमुख
+चुनौतियां
+हैं
+.
 
-सरकार	NN	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रणनीतिक	JJ	TEMP	O	O	O	O
-विनिवेश	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तैयारी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जुटी	VM	TEMP	B-MISC	O	B-STAT	OCC
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सरकार
+कंपनी
+के
+रणनीतिक
+विनिवेश
+की
+तैयारी
+में
+जुटी
+है
+.
 
-कुछ	QF	TEMP	O	O	O	O
-देशी-विदेशी	JJ	TEMP	O	O	O	O
-कंपनियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एयर	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खरीदने	VM	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-रुचि	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिखाई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+देशी-विदेशी
+कंपनियों
+ने
+एयर
+इंडिया
+को
+खरीदने
+में
+रुचि
+दिखाई
+है
+.
 
-एयर	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-18	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-जारी	JJ	TEMP	O	O	B-MISC	OCC
-किए	VM	TEMP	O	O	I-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-एक	QC	TEMP	O	O	O	O
-दस्तावेज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-डेढ़	NNP	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शॉर्ट	XC	TEMP	O	O	O	O
-टर्म	XC	TEMP	O	O	O	O
-लोन	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-वित्तीय	JJ	TEMP	O	O	O	O
-संस्थाओं	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	O	O	O	O
-मांगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एयर
+इंडिया
+की
+ओर
+से
+18
+अक्टूबर
+को
+जारी
+किए
+गए
+एक
+दस्तावेज
+के
+मुताबिक
+कंपनी
+को
+डेढ़
+हजार
+करोड़
+रुपये
+के
+शॉर्ट
+टर्म
+लोन
+के
+लिए
+वित्तीय
+संस्थाओं
+से
+प्रस्ताव
+मांगे
+गए
+हैं
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-संस्थाओं	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-बताने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-26	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-जितनी	QF	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-तैयार	JJ	TEMP	B-MISC	O	B-STAT	DECL
-हैं	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+संस्थाओं
+से
+यह
+बताने
+के
+लिए
+भी
+कहा
+गया
+है
+कि
+वे
+26
+अक्टूबर
+तक
+जितनी
+कर्ज
+राशि
+देने
+के
+लिए
+तैयार
+हैं
+.
 
-यह	DEM	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-हिस्सों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चाहिए	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+राशि
+तीन
+हिस्सों
+में
+चाहिए
+.
 
-कंपनी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-समयसीमा	NN	TEMP	O	O	O	O
-27	QC	TEMP	O	O	O	O
-जून	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-2018	QC	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-बताई	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कंपनी
+ने
+इस
+कर्ज
+की
+समयसीमा
+27
+जून
+,
+2018
+तक
+बताई
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-समयसीमा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बढ़ाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-जा	VAUX	TEMP	B-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+समयसीमा
+को
+बढ़ाया
+भी
+जा
+सकता
+है
+.
 
-भारत	NNP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गारंटी	NN	TEMP	O	O	O	O
-27	QC	TEMP	O	O	O	O
-जून	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-2018	QC	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-विनिवेश	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तारीख	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-होगी	VM	TEMP	B-MISC	O	I-MISC	-1
-.	SYM	TEMP	O	O	O	O
+भारत
+सरकार
+की
+गारंटी
+27
+जून
+,
+2018
+या
+फिर
+विनिवेश
+की
+तारीख
+तक
+होगी
+.
 
-विमानन	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-26	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-निविदा	NN	TEMP	O	O	O	O
-सौंपने	VM	TEMP	B-MISC	O	O	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विमानन
+कंपनी
+ने
+बैंकों
+से
+26
+अक्टूबर
+तक
+बैंकों
+से
+अपनी
+निविदा
+सौंपने
+को
+कहा
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-लोन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	B-STAT	DESC
-जाने	VAUX	TEMP	O	O	I-STAT	O
-वाली	PSP	TEMP	O	O	I-STAT	O
-राशि	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-मांगी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+लोन
+में
+दी
+जाने
+वाली
+राशि
+की
+भी
+जानकारी
+मांगी
+है
+.
 
-दस्तावेज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-बैंको	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-स्वीकार्यता	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-मिलने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-एयर	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-कार्यदिवसों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भीतर	NST	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-हासिल	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दस्तावेज
+के
+मुताबिक
+बैंको
+से
+स्वीकार्यता
+पत्र
+मिलने
+के
+बाद
+एयर
+इंडिया
+तीन
+कार्यदिवसों
+के
+भीतर
+कर्ज
+की
+राशि
+हासिल
+कर
+लेगी
+.
 
-बीते	RDP	TEMP	O	B	O	O
-महीने	NN	TEMP	O	I	O	O
-भी	RP	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-3,250	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शॉर्ट	XC	TEMP	O	O	O	O
-लोन	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	B-MISC	O	O	O
-मांगे	VM	TEMP	I-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीते
+महीने
+भी
+कंपनी
+ने
+3,250
+करोड़
+रुपये
+के
+शॉर्ट
+लोन
+के
+लिए
+बैंकों
+से
+प्रस्ताव
+मांगे
+थे
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-चल	VM	TEMP	I-MISC	O	I-MISC	O
-पाया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-एयर	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पर्याप्त	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-मिली	VM	TEMP	B-MISC	O	B-MISC	OCC
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-या	CC	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+यह
+पता
+नहीं
+चल
+पाया
+है
+कि
+उस
+समय
+एयर
+इंडिया
+को
+बैंकों
+की
+ओर
+से
+पर्याप्त
+राशि
+मिली
+थी
+या
+नहीं
+.
 
-कंपनी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ऊपर	NST	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-50,000	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	B-MISC	OCC
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कंपनी
+के
+ऊपर
+पहले
+से
+ही
+50,000
+करोड़
+रुपये
+का
+कर्ज
+है
+.
 
-पिछली	JJ	TEMP	O	O	O	O
-संप्रग	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एयर	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-पुनरुद्धार	NN	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मंजूरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पिछली
+संप्रग
+सरकार
+ने
+एयर
+इंडिया
+के
+लिए
+एक
+पुनरुद्धार
+योजना
+को
+मंजूरी
+दी
+थी
+.

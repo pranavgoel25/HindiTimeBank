@@ -1,51 +1,51 @@
 
-बसंतपुर	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-सिवान	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खेढ़वा	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रुक्मिणी	JJ	TEMP	O	O	O	O
-कुंवर	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-सत्यपाल	XC	TEMP	O	O	O	O
-साह	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पीटकर	JJ	TEMP	O	O	O	O
-मंगलसूत्र	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बसंतपुर
+(
+सिवान
+)
+:
+थाना
+क्षेत्र
+के
+खेढ़वा
+गांव
+में
+रुक्मिणी
+कुंवर
+तथा
+उनके
+पुत्र
+सत्यपाल
+साह
+को
+पीटकर
+मंगलसूत्र
+और
+रुपये
+छीन
+लिए
+गए
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-रंजीत	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-साह	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मनीष	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-लीची	XC	TEMP	O	O	O	O
-देवी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नेहा	XC	TEMP	O	O	O	O
-कुमारी	NNP	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-मंजू	XC	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नामजद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+रंजीत
+कुमार
+साह
+,
+मनीष
+कुमार
+,
+लीची
+देवी
+,
+नेहा
+कुमारी
+तथा
+मंजू
+देवी
+को
+नामजद
+किया
+गया
+है
+.

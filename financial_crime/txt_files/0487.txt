@@ -1,224 +1,224 @@
 
-महोबा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-खेत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-महिला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-आधा	QF	TEMP	O	O	O	O
-दर्जन	NN	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-पडे	VM	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+महोबा
+:
+खेत
+पर
+काम
+कर
+रही
+महिला
+के
+साथ
+आधा
+दर्जन
+लोगों
+ने
+मारपीट
+कर
+दी
+और
+उसके
+पास
+पडे
+रुपए
+भी
+छीन
+लिए
+.
 
-इतना	QF	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पुत्रों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पीटना	VM	TEMP	B-MISC	O	B-MISC	OCC
-चाहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	O
-बचाकर	VM	TEMP	I-MISC	O	I-MISC	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-छिप	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इतना
+ही
+नहीं
+उसके
+पुत्रों
+को
+भी
+पीटना
+चाहा
+लेकिन
+वह
+किसी
+तरह
+अपनी
+जान
+बचाकर
+घर
+में
+छिप
+गए
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-असंतुष्ट	JJ	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-पक्ष	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एसपी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-न्याय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गुहार	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+को
+सूचना
+दी
+गई
+लेकिन
+कार्रवाई
+से
+असंतुष्ट
+पीडित
+पक्ष
+ने
+एसपी
+को
+मामले
+की
+जानकारी
+देकर
+न्याय
+की
+गुहार
+लगाई
+है
+.
 
-जिले	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सुगिरा	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-वर्षीय	JJ	TEMP	O	O	O	O
-शकूरन	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-खेत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-थी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिले
+के
+सुगिरा
+गांव
+की
+निवासी
+50
+वर्षीय
+शकूरन
+अपने
+खेत
+पर
+काम
+कर
+रही
+थी
+.
 
-तभी	PRP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-आधा	QF	TEMP	O	O	O	O
-दर्जन	NN	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-नशे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-धुत	JJ	TEMP	O	O	B-MISC	O
-होकर	VM	TEMP	O	O	I-MISC	OCC
-आए	VAUX	TEMP	O	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-गालियां	NN	TEMP	B-MISC	O	B-MISC	OCC
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-लगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तभी
+गांव
+के
+ही
+आधा
+दर्जन
+लोग
+नशे
+में
+धुत
+होकर
+आए
+और
+गालियां
+देने
+लगे
+.
 
-विरोध	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-हार्वेस्टर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-कटाई	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	B-STAT	O
-रुपए	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विरोध
+किया
+गया
+तो
+इन
+लोगों
+ने
+महिला
+के
+साथ
+मारपीट
+कर
+दी
+और
+हार्वेस्टर
+से
+फसल
+कटाई
+के
+लिए
+रखे
+रुपए
+भी
+छीन
+लिए
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-महज	RB	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+को
+सूचना
+दी
+गई
+तो
+महज
+एक
+आरोपी
+के
+विरुद्ध
+कार्रवाई
+की
+गई
+.
 
-इतना	QF	TEMP	O	O	O	O
-हीं	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पुत्रों	NN	TEMP	O	O	O	O
-बब्बू	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-शहजाद	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इतना
+हीं
+नहीं
+उसके
+पुत्रों
+बब्बू
+व
+शहजाद
+को
+भी
+इन
+लोगों
+ने
+मारपीट
+करने
+का
+प्रयास
+किया
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मंशा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भांपकर	VM	TEMP	B-MISC	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निकल	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+यह
+लोग
+आरोपियों
+की
+मंशा
+को
+भांपकर
+वहां
+से
+निकल
+गए
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-असंतुष्ट	JJ	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शकूरन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एसपी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समक्ष	JJ	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	O
-जाकर	VAUX	TEMP	I-MISC	O	I-MISC	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+कार्रवाई
+से
+असंतुष्ट
+परिवार
+ने
+शकूरन
+को
+एसपी
+के
+समक्ष
+ले
+जाकर
+मामले
+की
+जानकारी
+दी
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-अधीक्षक	JJ	TEMP	O	O	O	O
-अनीस	XC	TEMP	O	O	O	O
-अहमद	NNP	TEMP	O	O	O	O
-अंसारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराकर	VM	TEMP	I-MISC	O	I-MISC	O
-न्याय	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिलाने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-भरोसा	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+अधीक्षक
+अनीस
+अहमद
+अंसारी
+ने
+मामले
+की
+जांच
+कराकर
+न्याय
+दिलाने
+का
+भरोसा
+दिया
+है
+.

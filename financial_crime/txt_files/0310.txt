@@ -1,319 +1,319 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-फर्रुखाबाद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-दबंग	JJ	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बुधवार	NN	TEMP	O	B	O	O
-देर	JJ	TEMP	O	B	O	O
-शाम	NN	TEMP	O	I	O	O
-घर	NN	TEMP	O	O	O	O
-जा	VM	TEMP	O	O	B-STAT	OCC
-रहे	VAUX	TEMP	O	O	I-STAT	O
-मजदूर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पीटकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	O	O
-ढाई	XC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लूट	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+फर्रुखाबाद
+:
+दबंग
+युवकों
+ने
+बुधवार
+देर
+शाम
+घर
+जा
+रहे
+मजदूर
+को
+पीटकर
+घायल
+कर
+दिया
+और
+उसके
+पास
+मौजूद
+ढाई
+हजार
+रुपये
+लूट
+लिए
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+ने
+रिपोर्ट
+दर्ज
+कराने
+के
+लिए
+तहरीर
+दी
+है
+.
 
-थाना	VM	TEMP	O	O	O	O
-मऊदरवाजा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-कुबेरपुर	JJ	TEMP	O	O	O	O
-घाट	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-महावीर	NN	TEMP	O	O	O	O
-देर	NN	TEMP	O	O	O	O
-शाम	NN	TEMP	O	O	O	O
-मजदूरी	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-घर	NN	TEMP	O	O	O	O
-लौट	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थाना
+मऊदरवाजा
+के
+गांव
+कुबेरपुर
+घाट
+निवासी
+महावीर
+देर
+शाम
+मजदूरी
+कर
+घर
+लौट
+रहा
+था
+.
 
-तिलसरा	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-शराब	NN	TEMP	O	O	O	O
-ठेके	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-नगला	JJ	TEMP	O	O	O	O
-डाल	VM	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-रोक	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-मारपीट	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तिलसरा
+रोड
+पर
+शराब
+ठेके
+के
+पास
+ग्राम
+नगला
+डाल
+निवासी
+युवक
+ने
+उसे
+रोक
+लिया
+और
+उसके
+बाद
+मारपीट
+कर
+घायल
+कर
+दिया
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-जेब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ढाई	QF	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+युवक
+ने
+उसकी
+जेब
+से
+ढाई
+हजार
+रुपये
+निकाल
+लिए
+.
 
-उसने	PRP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	O	O
-तहरीर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-मजदूरी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हिसाब	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रुपये	NN	TEMP	O	O	O	O
-लाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+पुलिस
+को
+दी
+तहरीर
+में
+कहा
+कि
+वह
+मजदूरी
+का
+हिसाब
+कर
+रुपये
+लाया
+था
+.
 
-इसी	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-पंखियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मडैया	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-खलील	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	O	O
-तहरीर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-बुधवार	JJ	TEMP	O	B	O	O
-शाम	NN	TEMP	O	I	O	O
-बटाईदार	JJ	TEMP	O	O	O	O
-संतोष	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	B-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+तरह
+की
+दूसरी
+घटना
+में
+गांव
+पंखियों
+की
+मडैया
+निवासी
+खलील
+ने
+पुलिस
+को
+दी
+तहरीर
+में
+कहा
+कि
+वह
+बुधवार
+शाम
+बटाईदार
+संतोष
+को
+रुपये
+देने
+जा
+रहे
+थे
+.
 
-रास्ते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-वीर	JJ	TEMP	O	O	O	O
-सहाय	NN	TEMP	O	O	O	O
-मडैया	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-रोक	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-आठ	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रास्ते
+में
+वीर
+सहाय
+मडैया
+के
+पास
+दो
+युवकों
+ने
+उन्हें
+रोक
+लिया
+और
+मारपीट
+कर
+आठ
+हजार
+रुपये
+छीन
+लिए
+.
 
-ग्रामीण	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-किया	VM	TEMP	B-MISC	O	O	O
-घायल	JJ	TEMP	I-MISC	O	O	O
-फर्रुखाबाद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-मऊदरवाजा	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोहल्ला	XC	TEMP	O	O	O	O
-बीबीगंज	NNP	TEMP	O	O	O	O
-मेहबान	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-चंद्र	NN	TEMP	O	O	O	O
-प्रकाश	XC	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	O	O	O
-अर्रा	JJ	TEMP	O	O	O	O
-पहाडपुर	JJ	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-सब्जी	NN	TEMP	O	O	O	O
-बेचकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-घर	NN	TEMP	O	O	O	O
-लौट	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ग्रामीण
+को
+किया
+घायल
+फर्रुखाबाद
+:
+मऊदरवाजा
+थाना
+क्षेत्र
+के
+मोहल्ला
+बीबीगंज
+मेहबान
+निवासी
+चंद्र
+प्रकाश
+गुरुवार
+सुबह
+अर्रा
+पहाडपुर
+मंडी
+सब्जी
+बेचकर
+घर
+लौट
+रहे
+थे
+.
 
-उसी	DEM	TEMP	O	O	O	O
-वक्त	NN	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-पौत्री	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-हंसिया	NN	TEMP	B-MISC	O	B-MISC	O
-मार	VM	TEMP	I-MISC	O	I-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसी
+वक्त
+उनकी
+पौत्री
+के
+एक
+युवक
+ने
+हंसिया
+मार
+दिया
+.
 
-इसका	PRP	TEMP	O	O	O	O
-उल्हना	NN	TEMP	B-MISC	O	O	O
-देने	VM	TEMP	I-MISC	O	B-MISC	OCC
-वह	PRP	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-गए	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-परिजनों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चंद्र	XC	TEMP	O	O	O	O
-प्रकाश	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पीट	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसका
+उल्हना
+देने
+वह
+आरोपी
+के
+घर
+गए
+तो
+आरोपी
+व
+उसके
+परिजनों
+ने
+चंद्र
+प्रकाश
+को
+पीट
+दिया
+.
 
-मारपीट	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-तीस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-गिर	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मारपीट
+में
+उसके
+तीस
+हजार
+रुपये
+भी
+गिर
+गए
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+मामले
+की
+जांच
+कर
+रही
+है
+.
 
-हमले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दंपती	NN	TEMP	O	O	O	O
-घायल	JJ	TEMP	O	O	O	O
-फर्रुखाबाद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-मऊदरवाजा	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोहल्ला	JJ	TEMP	O	O	O	O
-बीबीगंज	XC	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-राधाकृष्ण	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-सुनीता	VM	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मोहल्ले	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हमले
+में
+दंपती
+घायल
+फर्रुखाबाद
+:
+मऊदरवाजा
+थाना
+क्षेत्र
+के
+मोहल्ला
+बीबीगंज
+निवासी
+राधाकृष्ण
+की
+पत्नी
+सुनीता
+देवी
+ने
+मोहल्ले
+के
+ही
+कुछ
+लोगों
+पर
+मारपीट
+कर
+घायल
+करने
+का
+आरोप
+लगाते
+हुए
+पुलिस
+को
+तहरीर
+दी
+है
+.
 
-विवाद	NN	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	OCC
-हुआ	VAUX	TEMP	B-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विवाद
+बच्चों
+को
+लेकर
+हुआ
+था
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	IAC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-भरोसा	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+मामले
+में
+जांच
+कर
+कार्रवाई
+करने
+का
+भरोसा
+दिया
+है
+.

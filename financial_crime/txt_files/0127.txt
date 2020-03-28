@@ -1,240 +1,240 @@
-﻿जासं	NNP	TEMP	O	O	O	O
+﻿जासं
 
-बल्लभगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-पन्हैडा	JJ	TEMP	O	O	O	O
-कलां	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कुंडी	NN	TEMP	B-MISC	O	B-MISC	OCC
-काट	VM	TEMP	I-MISC	O	I-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-अलमारी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	B-STAT	DESC
-हुए	VAUX	TEMP	O	O	I-STAT	O
-25	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-चुराकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-ले	VAUX	TEMP	B-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बल्लभगढ़
+:
+गांव
+पन्हैडा
+कलां
+में
+एक
+घर
+से
+कुंडी
+काट
+कर
+अलमारी
+में
+रखे
+हुए
+25
+हजार
+रुपये
+कोई
+चुराकर
+ले
+गया
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घुस	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+घर
+में
+घुस
+कर
+चोरी
+करने
+के
+आरोप
+में
+मुकदमा
+दर्ज
+कर
+जांच
+शुरू
+कर
+दी
+है
+.
 
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-सुराग	NN	TEMP	B-MISC	O	O	O
-हाथ	NN	TEMP	I-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभी
+तक
+आरोपियों
+का
+कोई
+सुराग
+हाथ
+नहीं
+लगा
+है
+.
 
-गांव	NN	TEMP	O	O	O	O
-पन्हैडा	JJ	TEMP	O	O	O	O
-कलां	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	DES
-वाले	VAUX	TEMP	O	O	I-STAT	O
-गनेशी	NN	TEMP	O	O	O	O
-लाल	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-छांयसा	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-रोजाना	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरह	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-कमरे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सोए	VM	TEMP	O	O	B-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गांव
+पन्हैडा
+कलां
+के
+रहने
+वाले
+गनेशी
+लाल
+ने
+थाना
+छांयसा
+पुलिस
+को
+बताया
+कि
+वे
+रोजाना
+की
+तरह
+अपने
+परिवार
+के
+साथ
+एक
+कमरे
+में
+सोए
+हुए
+थे
+.
 
-बराबर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कमरे	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ताला	NN	TEMP	B-MISC	O	B-MISC	O
-लगाया	VM	TEMP	I-MISC	O	I-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बराबर
+के
+कमरे
+का
+ताला
+लगाया
+हुआ
+था
+.
 
-16	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ताले	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नीचे	NST	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कुंडी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-काट	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-दरवाजा	NN	TEMP	O	O	O	O
-खोला	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-अंदर	NST	TEMP	O	O	O	O
-घुस	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+16
+नवंबर
+की
+रात
+को
+चोरों
+ने
+ताले
+के
+नीचे
+की
+कुंडी
+को
+काट
+कर
+दरवाजा
+खोला
+और
+अंदर
+घुस
+गए
+.
 
-चोर	NN	TEMP	O	O	O	O
-अलमारी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	B-STAT	DESC
-हुए	VAUX	TEMP	O	O	I-STAT	O
-25	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-चुराकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	B-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चोर
+अलमारी
+में
+रखे
+हुए
+25
+हजार
+रुपये
+चुराकर
+ले
+गए
+.
 
-चोरी	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	O	O	O
-नींद	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उठने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-तब	PRP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-जब	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सफाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चोरी
+के
+बारे
+में
+सुबह
+नींद
+से
+उठने
+के
+बाद
+तब
+पता
+चला
+जब
+घर
+की
+सफाई
+कर
+रहे
+थे
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-चोरी	NN	TEMP	O	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+चोरी
+के
+बारे
+पुलिस
+को
+सूचना
+दी
+.
 
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मौका	NN	TEMP	B-MISC	O	B-MISC	OCC
-मुआयना	VM	TEMP	I-MISC	O	I-MISC	O
-करके	VAUX	TEMP	I-MISC	O	I-MISC	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	O
-का	PSP	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सूचना
+मिलने
+के
+बाद
+पुलिस
+ने
+मौका
+मुआयना
+करके
+चोरी
+का
+मुकदमा
+दर्ज
+कर
+लिया
+.
 
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-क्राइम	JJ	TEMP	O	O	O	O
-ब्रांच	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-फगर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-प्रट	XC	TEMP	O	O	O	O
-एक्सपर्ट	XC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पहुंची	VM	TEMP	B-MISC	O	I-MISC	-1
-.	SYM	TEMP	O	O	O	O
+मौके
+पर
+क्राइम
+ब्रांच
+और
+¨
+फगर
+¨
+प्रट
+एक्सपर्ट
+की
+टीम
+भी
+पहुंची
+.
 
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-अधिकारी	NN	TEMP	O	O	O	O
-हवलदार	JJ	TEMP	O	O	O	O
-नेत्रपाल	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-चोर	NN	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सिर्फ	RB	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-चुराकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	B-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामले
+की
+जांच
+कर
+रहे
+अधिकारी
+हवलदार
+नेत्रपाल
+¨
+सह
+ने
+बताया
+कि
+चोर
+घर
+में
+से
+सिर्फ
+नकदी
+चुराकर
+ले
+गए
+हैं
+.
 
-न	NEG	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कपडे	NN	TEMP	O	O	O	O
-चुराए	VM	TEMP	B-MISC	O	B-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-आभूषण	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+न
+तो
+चोरों
+ने
+कपडे
+चुराए
+हैं
+और
+न
+ही
+आभूषण
+.

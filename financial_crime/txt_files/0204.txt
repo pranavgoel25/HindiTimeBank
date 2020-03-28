@@ -1,423 +1,423 @@
-﻿प्रदीप	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रांची	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-ग्रामीण	JJ	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-स्टेट	XC	TEMP	O	O	O	O
-बैंक	XC	TEMP	O	O	O	O
-आफ	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-धुर्वा	NN	TEMP	O	O	O	O
-शाखा	XC	TEMP	O	O	O	O
-रांची	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एकाउंट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-फ्रीज	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿प्रदीप
+सिंह
+,
+रांची
+:
+ग्रामीण
+विकास
+विभाग
+के
+स्टेट
+बैंक
+आफ
+इंडिया
+,
+धुर्वा
+शाखा
+रांची
+के
+एकाउंट
+को
+फ्रीज
+कर
+दिया
+गया
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-एकाउंट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फिलहाल	RB	TEMP	O	O	O	O
-850	QC	TEMP	O	O	O	O
-करोड	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-जमा	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इस
+बैंक
+एकाउंट
+में
+फिलहाल
+850
+करोड
+रुपए
+जमा
+है
+.
 
-रांची	NNP	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-आशय	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रांची
+कोर्ट
+ने
+इस
+आशय
+का
+आदेश
+दिया
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-ग्रामीण	JJ	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हडकंप	NN	TEMP	B-MISC	O	B-MISC	OCC
-मचा	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+ग्रामीण
+विकास
+विभाग
+में
+हडकंप
+मचा
+है
+.
 
-गौरतलब	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-अति	TEMP	INTF	TEMP	O	O	O	O
-महत्वपूर्ण	JJ	TEMP	O	O	O	O
-विभागों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शुमार	NN	TEMP	O	O	O	O
-ग्रामीण	JJ	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-एकाउंट	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-जिससे	PRP	TEMP	O	O	O	O
-विभागीय	JJ	TEMP	O	O	O	O
-कामकाज	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लेनदेन	NN	TEMP	B-MISC	O	B-MISC	OCC
-होता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गौरतलब
+है
+कि
+अति
+महत्वपूर्ण
+विभागों
+में
+शुमार
+ग्रामीण
+विकास
+विभाग
+का
+एक
+ही
+एकाउंट
+है
+जिससे
+विभागीय
+कामकाज
+का
+लेनदेन
+होता
+है
+.
 
-राज्य	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उप	JJ	TEMP	O	O	O	O
-राजधानी	NN	TEMP	O	O	O	O
-दुमका	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ग्रामीण	JJ	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कामकाज	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-एवज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
-अनिल	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-क्रमश	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-90	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	B-STAT	OCC
-था	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+राज्य
+की
+उप
+राजधानी
+दुमका
+में
+ग्रामीण
+विकास
+विभाग
+का
+कामकाज
+करने
+के
+एवज
+में
+ठेकेदार
+अनिल
+शर्मा
+का
+क्रमश
+:
+90
+लाख
+और
+50
+लाख
+विभाग
+के
+पास
+बकाया
+था
+.
 
-उसने	PRP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-न्यायालय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शरण	NN	TEMP	B-MISC	O	B-MISC	OCC
-ली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+भुगतान
+लेने
+के
+लिए
+न्यायालय
+की
+शरण
+ली
+.
 
-उसकी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ग्रामीण	JJ	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-एकाउंट	XC	TEMP	O	O	O	O
-फ्रीज	NN	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	B-MISC	O	B-MISC	O
-दिया	VM	TEMP	I-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसकी
+शिकायत
+पर
+ग्रामीण
+विकास
+विभाग
+का
+बैंक
+एकाउंट
+फ्रीज
+करने
+का
+आदेश
+दिया
+गया
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-एकाउंट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-हैंडलिंग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रोक	VM	TEMP	B-MISC	O	B-MISC	OCC
-लग	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+बैंक
+एकाउंट
+की
+हैंडलिंग
+पर
+रोक
+लग
+गई
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-विभागीय	JJ	TEMP	O	O	O	O
-कामकाज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खासी	JJ	TEMP	O	O	O	O
-परेशानी	NN	TEMP	O	O	B-MISC	O
-सामने	NST	TEMP	O	O	I-MISC	O
-आएगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+विभागीय
+कामकाज
+में
+खासी
+परेशानी
+सामने
+आएगी
+.
 
-असर	NN	TEMP	O	O	B-MISC	OCC
-पड	VM	TEMP	O	O	I-MISC	O
-सकता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-योजनाओं	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ग्रामीण	JJ	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-ग्रामीण	JJ	TEMP	O	O	O	O
-पथों	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पुलों	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-संसाधन	NN	TEMP	O	O	O	O
-विकसित	JJ	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	O
-किए	VM	TEMP	B-MISC	O	I-MISC	OCC
-जाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+असर
+पड
+सकता
+है
+योजनाओं
+पर
+ग्रामीण
+विकास
+विभाग
+के
+जरिए
+ग्रामीण
+पथों
+,
+पुलों
+समेत
+अन्य
+संसाधन
+विकसित
+करने
+के
+कार्य
+किए
+जाते
+हैं
+.
 
-विभागीय	JJ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-एकाउंट	XC	TEMP	O	O	O	O
-फ्रीज	NN	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-असर	NN	TEMP	O	O	O	OCC
-काम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रगति	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पड	VM	TEMP	O	O	B-MISC	OCC
-सकता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विभागीय
+बैंक
+एकाउंट
+फ्रीज
+रहने
+का
+असर
+काम
+की
+प्रगति
+पर
+पड
+सकता
+है
+.
 
-फिलहाल	RB	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निपटने	VM	TEMP	O	O	B-MISC	O
-की	PSP	TEMP	O	O	O	O
-कवायद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-लगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-लंबा	JJ	TEMP	O	O	O	O
-वक्त	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-एकाउंट	XC	TEMP	O	O	O	O
-फ्रीज	NN	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-परेशानी	NN	TEMP	B-MISC	O	B-MISC	OCC
-खडी	JJ	TEMP	I-MISC	O	I-MISC	O
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-सकती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिलहाल
+इस
+स्थिति
+से
+निपटने
+की
+कवायद
+में
+अधिकारी
+लगे
+हैं
+लेकिन
+लंबा
+वक्त
+तक
+एकाउंट
+फ्रीज
+रहने
+पर
+परेशानी
+खडी
+हो
+सकती
+है
+.
 
-सारा	QF	TEMP	O	O	O	O
-कामकाज	NN	TEMP	O	O	B-MISC	O
-रूक	VM	TEMP	B-MISC	O	I-MISC	OCC
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सारा
+कामकाज
+रूक
+सकता
+है
+.
 
-कानूनी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-राय	NN	TEMP	I-MISC	O	I-MISC	O
-ले	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-सरकार	NN	TEMP	O	O	O	O
-न्यायालय	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-एकाउंट	XC	TEMP	O	O	O	O
-फ्रीज	NN	TEMP	O	O	O	O
-किए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-कानूनी	JJ	TEMP	O	O	O	O
-विशेषज्ञों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राय	NN	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कानूनी
+राय
+ले
+रही
+सरकार
+न्यायालय
+द्वारा
+एकाउंट
+फ्रीज
+किए
+जाने
+के
+बाद
+विभाग
+कानूनी
+विशेषज्ञों
+की
+राय
+ले
+रहा
+है
+.
 
-तैयारी	NN	TEMP	O	O	O	O
-मोडिफिकेशन	XC	TEMP	O	O	O	O
-पीटिशन	XC	TEMP	O	O	O	O
-दायर	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+तैयारी
+मोडिफिकेशन
+पीटिशन
+दायर
+करने
+की
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-एकाउंट	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-संचालन	NN	TEMP	O	O	O	O
-पूर्व	NST	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरह	PSP	TEMP	O	O	O	O
-किया	VM	TEMP	B-MISC	O	B-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकेगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+बैंक
+एकाउंट
+का
+संचालन
+पूर्व
+की
+तरह
+किया
+जा
+सकेगा
+.
 
-मामले	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-राज्य	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-महाधिवक्ता	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-अवगत	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामले
+से
+राज्य
+सरकार
+के
+महाधिवक्ता
+को
+भी
+अवगत
+कराया
+गया
+है
+.
 
-भवन	XC	TEMP	O	O	O	O
-निर्माण	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-परेशान	JJ	TEMP	O	O	O	O
-राज्य	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-महत्वपूर्ण	JJ	TEMP	O	O	O	O
-कार्य	NN	TEMP	O	O	O	O
-विभागों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अंजाम	NN	TEMP	O	O	B-MISC	OCC
-दे	VM	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-ठेकेदारों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-कमोवेश	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-जैसी	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+भवन
+निर्माण
+विभाग
+के
+ठेकेदार
+भी
+परेशान
+राज्य
+के
+विभिन्न
+महत्वपूर्ण
+कार्य
+विभागों
+में
+काम
+को
+अंजाम
+दे
+रहे
+ठेकेदारों
+की
+स्थिति
+कमोवेश
+एक
+जैसी
+है
+.
 
-कामकाज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एवज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-खासी	JJ	TEMP	O	O	O	O
-दिक्कतें	NN	TEMP	B-MISC	O	B-MISC	OCC
-आ	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कामकाज
+के
+एवज
+में
+भुगतान
+में
+उन्हें
+खासी
+दिक्कतें
+आ
+रही
+हैं
+.
 
-भवन	XC	TEMP	O	O	O	O
-निर्माण	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-ठेकेदारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-पा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भवन
+निर्माण
+विभाग
+में
+भी
+ठेकेदारों
+को
+भुगतान
+नहीं
+हो
+पा
+रहा
+है
+.
 
-ईंट	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-चिप्स	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बालू	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रॉयल्टी	NN	TEMP	O	O	O	O
-निर्धारण	NN	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-वजह	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+ईंट
+,
+चिप्स
+,
+बालू
+की
+रॉयल्टी
+निर्धारण
+इसकी
+वजह
+है
+.
 
-भुगतान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ठेकेदारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्रपत्र-ओ	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-पी	XC	TEMP	O	O	O	O
-दाखिल	JJ	TEMP	B-MISC	O	O	O
-करना	VM	TEMP	I-MISC	O	O	O
-अनिवार्य	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+भुगतान
+के
+लिए
+ठेकेदारों
+को
+प्रपत्र-ओ
+एवं
+पी
+दाखिल
+करना
+अनिवार्य
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-नियम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-फिलहाल	RB	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	B-MISC	OCC
-पेंडिंग	NN	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+नियम
+के
+कारण
+फिलहाल
+भुगतान
+पेंडिंग
+है
+.
 
-कामकाज	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-जटिलता	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वजह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रभावित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कामकाज
+भी
+इस
+जटिलता
+की
+वजह
+से
+प्रभावित
+हो
+रहा
+है
+.
 
-ठेकेदारों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-परिस्थिति	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उच्चाधिकारियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अवगत	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ठेकेदारों
+ने
+इस
+परिस्थिति
+से
+उच्चाधिकारियों
+को
+अवगत
+कराया
+है
+.

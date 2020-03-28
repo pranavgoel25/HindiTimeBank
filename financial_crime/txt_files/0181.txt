@@ -1,91 +1,91 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-हाजीपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सुभाष	XC	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निकट	NST	TEMP	O	O	O	O
-खडी	JJ	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-डिक्की	NN	TEMP	O	O	O	O
-तोडकर	VM	TEMP	B-MISC	O	B-MISC	O
-उच्चकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-89	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-नकद	JJ	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-आवश्यक	JJ	TEMP	O	O	O	O
-कागजात	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हाजीपुर
+:
+नगर
+थाना
+क्षेत्र
+के
+सुभाष
+चौक
+के
+निकट
+खडी
+एक
+बाइक
+की
+डिक्की
+तोडकर
+उच्चकों
+ने
+89
+हजार
+रुपये
+नकद
+एवं
+आवश्यक
+कागजात
+की
+चोरी
+कर
+ली
+.
 
-यह	DEM	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-तब	PRP	TEMP	O	O	O	O
-घटी	VM	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-स्थानीय	JJ	TEMP	O	O	O	O
-आरएन	XC	TEMP	O	O	O	O
-कालेज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निकट	NST	TEMP	O	O	O	O
-अवस्थित	JJ	TEMP	O	O	O	O
-सोमेश्वर	XC	TEMP	O	O	O	O
-कॉलोनी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-राणा	XC	TEMP	O	O	O	O
-अरुण	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जीवन	NN	TEMP	O	O	O	O
-प्रमाणपत्र	NN	TEMP	O	O	B-MISC	O
-जमा	VM	TEMP	B-MISC	O	I-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-घर	NN	TEMP	O	O	O	O
-लौटने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-गाडी	NN	TEMP	O	O	O	O
-खडी	JJ	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-मिठाई	NN	TEMP	B-MISC	O	B-MISC	O
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-दुकान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गए	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+घटना
+तब
+घटी
+जब
+स्थानीय
+आरएन
+कालेज
+के
+निकट
+अवस्थित
+सोमेश्वर
+कॉलोनी
+के
+राणा
+अरुण
+कुमार
+¨
+सह
+अपनी
+मां
+का
+जीवन
+प्रमाणपत्र
+जमा
+कर
+घर
+लौटने
+के
+दौरान
+गाडी
+खडी
+कर
+मिठाई
+लेने
+दुकान
+में
+गए
+थे
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-चोर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-प्राथमिकी	NN	TEMP	B-MISC	O	O	O
-दर्ज	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+में
+नगर
+थाना
+में
+अज्ञात
+चोर
+के
+विरुद्ध
+प्राथमिकी
+दर्ज
+कराई
+गई
+है
+.

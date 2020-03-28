@@ -1,331 +1,331 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-औरैया	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-फफूंद	NN	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-नर्सिंग	NN	TEMP	O	O	O	O
-होम	VM	TEMP	O	O	O	O
-संचालक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-कोतवाली	NNP	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	O	O	B-MISC	OCC
-बुजुर्ग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रो	VM	TEMP	B-MISC	O	B-MISC	O
-रोकर	VM	TEMP	I-MISC	O	I-MISC	REP
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-साहब	NN	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-डिस्चार्ज	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-बीस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+औरैया
+:
+शहर
+कोतवाली
+क्षेत्र
+के
+फफूंद
+रोड
+एक
+नर्सिंग
+होम
+संचालक
+की
+शिकायत
+करने
+कोतवाली
+पहुंचे
+बुजुर्ग
+ने
+रो
+रोकर
+कहा
+कि
+साहब
+पुत्री
+को
+डिस्चार्ज
+करने
+के
+लिए
+बीस
+हजार
+मांग
+कर
+रहे
+हैं
+.
 
-बुजुर्ग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-सुनने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-भेजी	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुजुर्ग
+की
+पूरी
+बात
+सुनने
+के
+बाद
+कोतवाली
+से
+पुलिस
+भेजी
+गई
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-नर्सिंग	NN	TEMP	O	O	O	O
-होम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भर्ती	NN	TEMP	O	O	O	O
-बुजुर्ग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-सुपुर्द	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+नर्सिंग
+होम
+में
+भर्ती
+बुजुर्ग
+की
+पुत्री
+को
+उसके
+सुपुर्द
+कराया
+गया
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नर्सिंग	NN	TEMP	O	O	O	O
-होम	VM	TEMP	O	O	O	O
-संचालक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-हिदायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-छोड	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+पर
+नर्सिंग
+होम
+संचालक
+को
+भी
+हिदायत
+देकर
+छोड
+दिया
+गया
+.
 
-कानपुर	NNP	TEMP	O	O	O	O
-देहात	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-मंगलपुर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-नसीरपुर	XC	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-रघुवीर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-मोती	XC	TEMP	O	O	O	O
-लाल	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-कल्पना	NN	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-दो	QC	TEMP	O	I	O	O
-माह	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-बीमार	JJ	TEMP	B-MISC	O	O	O
-चल	VM	TEMP	I-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कानपुर
+देहात
+थाना
+मंगलपुर
+के
+गांव
+नसीरपुर
+निवासी
+रघुवीर
+¨
+सह
+पुत्र
+मोती
+लाल
+की
+पुत्री
+कल्पना
+पिछले
+दो
+माह
+से
+बीमार
+चल
+रही
+थी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-रघुवीर	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-चिकित्सक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दिखाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+चलते
+रघुवीर
+¨
+सह
+ने
+अपनी
+पुत्री
+को
+पास
+में
+ही
+स्थित
+एक
+चिकित्सक
+को
+दिखाया
+था
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-कल्पना	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आराम	NN	TEMP	B-MISC	O	O	OCC
-न	NEG	TEMP	I-MISC	O	B-MISC	O
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-चिकित्सक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	OCC
-की	PSP	TEMP	I-MISC	O	O	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+पुत्री
+कल्पना
+को
+आराम
+न
+मिलने
+पर
+उसने
+चिकित्सक
+से
+बात
+की
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चिकित्सक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-औरैया	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-नर्सिंग	NN	TEMP	O	O	O	O
-होम	NN	TEMP	O	O	O	O
-चलने	VM	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-.	SYM	TEMP	O	O	O	O
+इस
+पर
+चिकित्सक
+ने
+उसे
+औरैया
+के
+एक
+नर्सिंग
+होम
+चलने
+को
+कहा
+.
 
-वह	PRP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-कल्पना	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-चिकित्सक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-औरैया	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वह
+अपनी
+पुत्री
+कल्पना
+को
+लेकर
+चिकित्सक
+के
+साथ
+औरैया
+आया
+.
 
-यहां	PRP	TEMP	O	O	O	O
-फफूंद	NN	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	B-STAT	DES
-एक	QC	TEMP	O	O	O	O
-नर्सिंग	NN	TEMP	O	O	O	O
-होम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भर्ती	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यहां
+फफूंद
+रोड
+पर
+स्थित
+एक
+नर्सिंग
+होम
+में
+उसकी
+पुत्री
+को
+भर्ती
+कराया
+गया
+.
 
-यहां	PRP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-जांच	NN	TEMP	O	O	B-MISC	OCC
-आदि	RP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-मांगे	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-पांच	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिये	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यहां
+उससे
+जांच
+आदि
+के
+लिए
+मांगे
+गए
+पांच
+हजार
+रुपये
+उसने
+दे
+दिये
+.
 
-मंगलवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-डिस्चार्ज	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कहने	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	O	O
-स्टाफ	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-बीस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-मांगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+मंगलवार
+को
+जब
+वह
+अपनी
+पुत्री
+को
+डिस्चार्ज
+करने
+के
+लिए
+कहने
+लगा
+तो
+वहां
+पर
+मौजूद
+स्टाफ
+ने
+उससे
+बीस
+हजार
+रुपये
+और
+मांगे
+.
 
-उसने	PRP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	O
-में	PSP	TEMP	O	O	O	O
-असमर्थता	NN	TEMP	B-MISC	O	B-MISC	OCC
-जताई	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उन	DEM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-दोगे	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-देंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+जब
+देने
+में
+असमर्थता
+जताई
+तो
+उन
+लोगों
+ने
+कहा
+कि
+रुपये
+नहीं
+दोगे
+तो
+पुत्री
+को
+नहीं
+देंगे
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रघुवीर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कोतवाली	NN	TEMP	O	O	O	O
-पहुंचकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+पर
+रघुवीर
+ने
+कोतवाली
+पहुंचकर
+मामले
+की
+तहरीर
+दी
+.
 
-कोतवाली	JJ	TEMP	O	O	O	O
-प्रभारी	NN	TEMP	O	O	O	O
-निरीक्षक	JJ	TEMP	O	O	O	O
-मदन	XC	TEMP	O	O	O	O
-गोपाल	XC	TEMP	O	O	O	O
-गुप्ता	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-.	SYM	TEMP	O	O	O	O
+कोतवाली
+प्रभारी
+निरीक्षक
+मदन
+गोपाल
+गुप्ता
+ने
+पुलिस
+भेज
+कर
+मामले
+की
+जानकारी
+करने
+को
+कहा
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पहुंचने	VM	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रघुवीर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-कल्पना	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-डिस्चार्ज	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+के
+पहुंचने
+पर
+रघुवीर
+की
+पुत्री
+कल्पना
+को
+डिस्चार्ज
+किया
+गया
+.
 
-कोतवाल	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-बुजुर्ग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-दिला	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोतवाल
+ने
+बताया
+कि
+बुजुर्ग
+की
+पुत्री
+उन्हें
+दिला
+दी
+गई
+थी
+.
 
-नर्सिंग	NN	TEMP	O	O	O	O
-होम	XC	TEMP	O	O	O	O
-संचालक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ऐसा	PRP	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-हिदायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नर्सिंग
+होम
+संचालक
+को
+भी
+आगे
+से
+ऐसा
+न
+करने
+की
+हिदायत
+दी
+गई
+है
+.

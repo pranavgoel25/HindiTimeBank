@@ -1,289 +1,288 @@
 
-नई	JJ	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+नई
+दिल्ली
+(
+जेएनएन
+)
+.
 
-पतंजलि	NN	TEMP	O	O	O	O
-आयुर्वेद	NN	TEMP	O	O	O	O
-अगले	JJ	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-वर्षों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ब्रैंड	NN	TEMP	O	O	B-MISC	OCC
-बन	VM	TEMP	O	O	I-MISC	O
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-क्योंकि	CC	TEMP	O	O	O	O
-वो	PRP	TEMP	O	O	O	O
-नए	JJ	TEMP	O	O	O	O
-क्षेत्रों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रवेश	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-नए	JJ	TEMP	O	O	O	O
-इंटीग्रेटेड	XC	TEMP	O	O	O	O
-फूड	XC	TEMP	O	O	O	O
-पार्क	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गठन	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-मैन्युफैक्चरिंग	NN	TEMP	O	O	O	O
-यूनिट	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-योजना	NN	TEMP	B-MISC	O	O	O
-बना	VM	TEMP	I-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पतंजलि
+आयुर्वेद
+अगले
+पांच
+वर्षों
+में
+2
+लाख
+करोड़
+रुपए
+का
+ब्रैंड
+बन
+जाएगी
+क्योंकि
+वो
+नए
+क्षेत्रों
+में
+प्रवेश
+करने
+,
+नए
+इंटीग्रेटेड
+फूड
+पार्क
+के
+गठन
+और
+मैन्युफैक्चरिंग
+यूनिट
+के
+निर्माण
+की
+योजना
+बना
+रहा
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-योग	NN	TEMP	O	O	O	O
-गुरू	XC	TEMP	O	O	O	O
-बाबा	XC	TEMP	O	O	O	O
-रामदेव	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कही	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+बात
+खुद
+योग
+गुरू
+बाबा
+रामदेव
+ने
+कही
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-एफएमसीजी	NNP	TEMP	O	O	O	O
-प्रमुख	JJ	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-अगले	JJ	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-वर्षों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-विनिर्माण	JJ	TEMP	O	O	O	O
-क्षमता	NN	TEMP	O	O	B-MISC	OCC
-होगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+आगे
+कहा
+कि
+एफएमसीजी
+प्रमुख
+के
+पास
+अगले
+दो
+वर्षों
+में
+एक
+लाख
+करोड़
+रुपये
+की
+विनिर्माण
+क्षमता
+होगी
+.
 
-हरिद्वार	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-फर्म	NN	TEMP	O	O	O	O
-अगले	NST	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-सालों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	O	O	O	O
-कारोबार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लक्ष्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-लेकर	VM	TEMP	I-MISC	O	I-MISC	O
-चल	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-क्योंकि	CC	TEMP	O	O	O	O
-वो	PRP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-प्रोडक्ट	XC	TEMP	O	O	O	O
-पोर्टफोलियो	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विस्तार	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हरिद्वार
+स्थित
+फर्म
+अगले
+पांच
+सालों
+में
+एक
+लाख
+करोड़
+के
+बिक्री
+कारोबार
+का
+लक्ष्य
+लेकर
+चल
+रही
+है
+क्योंकि
+वो
+अपने
+प्रोडक्ट
+पोर्टफोलियो
+में
+विस्तार
+कर
+रही
+है
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-पतंजलि	NN	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-तत्काल	JJ	TEMP	O	O	O	O
-विस्तार	NN	TEMP	O	O	O	O
-योजनाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-5000	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-विचार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+पतंजलि
+अपनी
+तत्काल
+विस्तार
+योजनाओं
+के
+लिए
+5000
+करोड़
+रुपये
+के
+लोन
+पर
+भी
+विचार
+कर
+रही
+है
+.
 
-रामदेव	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आईमा	XC	TEMP	O	O	O	O
-इवेंट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-कहा	VM	TEMP	O	O	B-MISC	O
-,	SYM	TEMP	O	O	O	O
-“	NN	TEMP	O	O	O	O
-हम	PRP	TEMP	O	O	O	O
-उन	DEM	TEMP	O	O	O	O
-वर्टिकल	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-क्षेत्रों	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-जिसका	PRP	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-आकार	NN	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ज्यादा	QF	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-और	CC	TEMP	O	O	O	O
-उसमें	PRP	TEMP	O	O	O	O
-पतंजलि	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-हिस्सेदारी	NN	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+रामदेव
+ने
+आईमा
+इवेंट
+के
+दौरान
+कहा
+,
+“
+हम
+उन
+वर्टिकल
+(
+क्षेत्रों
+)
+पर
+काम
+कर
+रहे
+हैं
+जिसका
+बाजार
+आकार
+10
+लाख
+करोड़
+से
+ज्यादा
+का
+है
+और
+उसमें
+पतंजलि
+की
+हिस्सेदारी
+10
+से
+20
+फीसद
+की
+है
+.
 
-अगले	JJ	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-सालों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पतंजलि	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ऊपर	NST	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ब्रैंड	NN	TEMP	B-MISC	O	B-MISC	OCC
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगले
+तीन
+से
+पांच
+सालों
+में
+पतंजलि
+एक
+लाख
+करोड़
+से
+ऊपर
+का
+ब्रैंड
+होगी
+.
 
-”	NN	TEMP	B-MISC	O	O	O
-आपको	PRP	TEMP	I-MISC	O	O	O
-बता	VM	TEMP	O	O	B-MISC	OCC
-दें	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-वित्त	JJ	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	B	O	O
-2016	QC	TEMP	O	I	O	O
--	SYM	TEMP	O	O	O	O
-17	QC	TEMP	O	B	O	O
-में	PSP	TEMP	O	O	O	O
-10,561	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कारोबार	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+”
+आपको
+बता
+दें
+कि
+कंपनी
+ने
+वित्त
+वर्ष
+2016
+-
+17
+में
+10,561
+करोड़
+रुपये
+का
+कारोबार
+किया
+था
+.
 
-कंपनी	NN	TEMP	O	O	O	O
-मौजूदा	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नोएडा	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नागपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-इंदौर	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-आंध्रप्रदेश	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बड़ी	XC	TEMP	O	O	O	O
-बड़ी	XC	TEMP	O	O	O	O
-यूनिट	NN	TEMP	B-MISC	O	B-MISC	O
-लगाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-योजना	NN	TEMP	B-MISC	O	O	O
-बना	VM	TEMP	I-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कंपनी
+मौजूदा
+समय
+में
+नोएडा
+,
+नागपुर
+,
+इंदौर
+और
+आंध्रप्रदेश
+में
+बड़ी
+बड़ी
+यूनिट
+लगाने
+की
+योजना
+बना
+रही
+है
+.
 
-रामदेव	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-2018	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-19	QC	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-पतंजलि	XC	TEMP	O	O	O	O
-एफएमसीजी	NNP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-प्रतिद्वंद्वियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आगे	NST	TEMP	B-MISC	O	B-MISC	O
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-बहुराष्ट्रीय	JJ	TEMP	O	O	O	O
-ब्रांडों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पीछे	NST	TEMP	O	O	O	OCC
-छोड़	NNP	TEMP	O	O	B-MISC	O
-देगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रामदेव
+ने
+कहा
+कि
+साल
+2018
+-
+19
+तक
+पतंजलि
+एफएमसीजी
+क्षेत्र
+में
+कई
+प्रतिद्वंद्वियों
+से
+आगे
+होगी
+और
+देश
+में
+कई
+बहुराष्ट्रीय
+ब्रांडों
+को
+पीछे
+छोड़
+देगी
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	O	O	B-MISC	REP
-,	SYM	TEMP	O	O	O	O
-“	NN	TEMP	O	O	O	O
-अगले	NST	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-वर्षों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हमारे	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उत्पादन	NN	TEMP	O	O	O	O
-क्षमता	NN	TEMP	O	O	B-MISC	OCC
-होगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
-
+उन्होंने
+कहा
+,
+“
+अगले
+दो
+वर्षों
+में
+हमारे
+पास
+1
+लाख
+करोड़
+रुपये
+की
+उत्पादन
+क्षमता
+होगी
+.

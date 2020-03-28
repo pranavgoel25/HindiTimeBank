@@ -1,171 +1,171 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-फर्रुखाबाद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सिगरेट	NN	TEMP	B-MISC	O	O	O
-लाने	VM	TEMP	I-MISC	O	O	O
-से	PSP	TEMP	O	O	O	O
-मना	NEG	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-दबंगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रविवार	NN	TEMP	O	B	O	O
-देर	JJ	TEMP	O	B	O	O
-शाम	NN	TEMP	O	I	O	O
-धारदार	JJ	TEMP	O	O	O	O
-हथियार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हमला	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+फर्रुखाबाद
+:
+सिगरेट
+लाने
+से
+मना
+करने
+पर
+दबंगों
+ने
+युवक
+को
+रविवार
+देर
+शाम
+धारदार
+हथियार
+से
+हमला
+कर
+घायल
+कर
+दिया
+.
 
-उसकी	PRP	TEMP	O	O	O	O
-जेब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-लिए	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसकी
+जेब
+से
+रुपये
+भी
+लूट
+लिए
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-आरोपी	JJ	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+तीन
+आरोपी
+युवकों
+के
+खिलाफ
+मुकदमा
+दर्ज
+कर
+जांच
+शुरू
+कर
+दी
+.
 
-शहर	NN	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोहल्ला	JJ	TEMP	O	O	O	O
-दरीबा	NN	TEMP	O	O	O	O
-पश्चिम	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-कल्लू	NN	TEMP	O	O	O	O
-देर	JJ	TEMP	O	B	O	O
-शाम	NN	TEMP	O	I	O	O
-अपने	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-जा	VAUX	TEMP	O	O	B-MISC	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शहर
+कोतवाली
+के
+मोहल्ला
+दरीबा
+पश्चिम
+निवासी
+कल्लू
+देर
+शाम
+अपने
+घर
+जा
+रहा
+था
+.
 
-मोहल्ला	XC	TEMP	O	O	O	O
-अब्दुल	XC	TEMP	O	O	O	O
-गढ़ी	NNP	TEMP	O	O	O	O
-मजीद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निकट	NST	TEMP	O	O	O	O
-वहीं	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-रुखसार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-जुबैर	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मुल्लाजी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-अब्दुल	JJ	TEMP	O	O	O	O
-मजीद	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बिलाल	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कल्लू	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आवाज	NN	TEMP	O	O	B-MISC	O
-देकर	VM	TEMP	B-MISC	O	I-MISC	O
-पास	NST	TEMP	O	O	O	O
-बुलाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-लाने	VM	TEMP	B-MISC	O	O	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-.	SYM	TEMP	O	O	O	O
+मोहल्ला
+अब्दुल
+गढ़ी
+मजीद
+के
+निकट
+वहीं
+के
+निवासी
+रुखसार
+के
+पुत्र
+जुबैर
+,
+मुल्लाजी
+के
+पुत्र
+अब्दुल
+मजीद
+व
+बिलाल
+ने
+कल्लू
+को
+आवाज
+देकर
+पास
+बुलाया
+और
+उससे
+लाने
+को
+कहा
+.
 
-कल्लू	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मना	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-तीनों	QC	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-गालीगलौज	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-भाजपा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-बनने	VM	TEMP	O	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-तुम्हारे	PRP	TEMP	O	O	O	O
-दिमाग	NN	TEMP	O	O	O	O
-खराब	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कल्लू
+के
+मना
+करने
+पर
+तीनों
+युवकों
+ने
+गालीगलौज
+कर
+कहा
+कि
+भाजपा
+की
+सरकार
+बनने
+के
+तुम्हारे
+दिमाग
+खराब
+हो
+गए
+हैं
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-कल्लू	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-धारदार	JJ	TEMP	O	O	O	O
-हथियार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हमला	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-उसे	PRP	TEMP	O	O	O	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+कल्लू
+के
+सिर
+पर
+धारदार
+हथियार
+से
+हमला
+कर
+उसे
+घायल
+कर
+दिया
+.
 
-जेब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-510	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जेब
+से
+510
+रुपये
+भी
+निकाल
+लिए
+.
 
-कोतवाली	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोतवाली
+पुलिस
+ने
+आरोपियों
+के
+खिलाफ
+मुकदमा
+दर्ज
+कर
+जांच
+शुरू
+कर
+दी
+.

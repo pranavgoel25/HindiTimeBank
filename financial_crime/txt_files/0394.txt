@@ -1,119 +1,119 @@
 
-अलीगढ़	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-बेसवा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निकटवर्ती	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-नयावास	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-भूरा	NN	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-विशाल	JJ	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	O	O	O	O
-दंगल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आयोजन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अलीगढ़
+:
+बेसवा
+के
+निकटवर्ती
+गांव
+नयावास
+में
+शुक्रवार
+को
+ग्राम
+प्रधान
+भूरा
+पहलवान
+द्वारा
+विशाल
+कुश्ती
+दंगल
+का
+आयोजन
+किया
+.
 
-उद्घाटन	NN	TEMP	O	O	O	O
-विधायक	JJ	TEMP	O	O	O	O
-राजवीर	NN	TEMP	O	O	O	O
-दिलेर	JJ	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-नगर	JJ	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-अध्यक्ष	JJ	TEMP	O	O	O	O
-संजय	XC	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-दंगल	NN	TEMP	O	O	O	O
-आयोजक	JJ	TEMP	O	O	O	O
-भूरा	NN	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पहलवानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हाथ	NN	TEMP	B-MISC	O	B-MISC	O
-मिलवाकर	VM	TEMP	I-MISC	O	I-MISC	OCC
-किया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उद्घाटन
+विधायक
+राजवीर
+दिलेर
+व
+नगर
+पंचायत
+अध्यक्ष
+संजय
+अग्रवाल
+व
+दंगल
+आयोजक
+भूरा
+पहलवान
+ने
+पहलवानों
+के
+हाथ
+मिलवाकर
+किया
+.
 
-आखिरी	JJ	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-इक्यावन	XC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-केसरी	XC	TEMP	O	O	O	O
-वरुण	XC	TEMP	O	O	O	O
-पहलवान	XC	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बृज	XC	TEMP	O	O	O	O
-केसरी	NNP	TEMP	O	O	O	O
-देवेंद्र	XC	TEMP	O	O	O	O
-पहलवान	XC	TEMP	O	O	O	O
-मथुरा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मध्य	XC	TEMP	O	O	O	O
-बराबर	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-छूटी	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+आखिरी
+कुश्ती
+एक
+लाख
+इक्यावन
+हजार
+की
+भारत
+केसरी
+वरुण
+पहलवान
+दिल्ली
+व
+बृज
+केसरी
+देवेंद्र
+पहलवान
+मथुरा
+के
+मध्य
+बराबर
+पर
+छूटी
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-मुकेश	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राहुल	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मोरा	XC	TEMP	O	O	O	O
-डेरी	NNP	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-वीरेंद्र	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ओंकार	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-मामा	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नारायन	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-झब्बू	NN	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सीपी	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ज्ञानू	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-आशा	XC	TEMP	O	O	O	O
-राम	NNP	TEMP	O	O	O	O
-पवार	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मुरारी	XC	TEMP	O	O	O	O
-लाल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ओम	XC	TEMP	O	O	O	O
-प्रकाश	XC	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-केहरी	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-थे	VM	TEMP	O	O	B-STAT	DECL
+इस
+दौरान
+मुकेश
+चौधरी
+,
+राहुल
+चौधरी
+,
+मोरा
+डेरी
+वाले
+,
+वीरेंद्र
+सिंह
+,
+ओंकार
+सिंह
+मामा
+,
+नारायन
+सिंह
+,
+झब्बू
+पहलवान
+,
+सीपी
+चौधरी
+,
+ज्ञानू
+शर्मा
+,
+आशा
+राम
+पवार
+,
+मुरारी
+लाल
+,
+ओम
+प्रकाश
+पहलवान
+,
+केहरी
+सिंह
+पहलवान
+आदि
+थे

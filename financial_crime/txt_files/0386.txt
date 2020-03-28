@@ -1,215 +1,215 @@
-﻿सुपौल	NNP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿सुपौल
+.
 
-जिले	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-वर्मी	XC	TEMP	O	O	O	O
-कंपोस्ट	XC	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-मिलने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-अनुदान	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बढ़ोतरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिले
+के
+किसानों
+को
+वर्मी
+कंपोस्ट
+योजना
+के
+तहत
+मिलने
+वाली
+अनुदान
+राशि
+में
+एक
+हजार
+रुपये
+की
+बढ़ोतरी
+की
+गई
+है
+.
 
-जिला	JJ	TEMP	O	O	O	O
-कृषि	XC	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिली	VM	TEMP	O	O	B-STAT	DESC
-जानकारी	NN	TEMP	O	O	O	O
-अनुसार	PSP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-इजाफा	NN	TEMP	O	O	O	O
-वित्तीय	JJ	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	B	O	O
-2017	QC	TEMP	O	I	O	O
--	SYM	TEMP	O	O	O	O
-18	QC	TEMP	O	B	O	O
-में	PSP	TEMP	O	O	O	O
-लागू	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिला
+कृषि
+कार्यालय
+से
+मिली
+जानकारी
+अनुसार
+उक्त
+योजना
+पर
+यह
+इजाफा
+वित्तीय
+वर्ष
+2017
+-
+18
+में
+लागू
+किया
+गया
+है
+.
 
-बीते	JJ	TEMP	O	B	O	O
-वर्ष	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-यूनिट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मिलते	VM	TEMP	O	O	B-MISC	OCC
-थे	VAUX	TEMP	O	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-प्रति	RP:?	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-यूनिट	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आवंटन	NN	TEMP	B-MISC	O	B-MISC	OCC
-होता	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-यूनिट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मिलेंगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+बीते
+वर्ष
+में
+उक्त
+योजना
+के
+तहत
+एक
+यूनिट
+पर
+किसानों
+को
+तीन
+हजार
+रुपये
+मिलते
+थे
+तथा
+प्रति
+किसान
+पांच
+यूनिट
+तक
+का
+आवंटन
+होता
+था
+लेकिन
+अब
+उक्त
+यूनिट
+पर
+किसानों
+को
+चार
+हजार
+रुपये
+मिलेंगे
+.
 
-पूर्व	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रति	RP:?	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-वर्मी	XC	TEMP	O	O	O	O
-कंपोस्ट	XC	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-आवंटित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-अब	PRP	TEMP	O	O	O	O
-इसी	DEM	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पूर्व
+में
+प्रति
+किसान
+को
+वर्मी
+कंपोस्ट
+योजना
+के
+तहत
+15
+हजार
+रुपये
+आवंटित
+किया
+जाता
+था
+अब
+इसी
+योजना
+पर
+किसानों
+को
+20
+हजार
+रुपये
+दिए
+जाएंगे
+.
 
-वर्मी	XC	TEMP	O	O	O	O
-कंपोस्ट	XC	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-सुपौल	XC	TEMP	O	O	O	O
-जिले	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-3177	QC	TEMP	O	O	O	O
-यूनिट	NN	TEMP	O	O	B-MISC	O
-लगाने	VM	TEMP	O	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-लक्ष्य	NN	TEMP	O	O	O	O
-निर्धारित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वर्मी
+कंपोस्ट
+योजना
+के
+तहत
+सुपौल
+जिले
+को
+3177
+यूनिट
+लगाने
+का
+लक्ष्य
+निर्धारित
+किया
+गया
+है
+.
 
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुकूल	PSP	TEMP	O	O	O	O
-कृषि	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-आवंटित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+योजना
+के
+अनुकूल
+कृषि
+विभाग
+को
+राशि
+आवंटित
+कर
+दी
+गई
+है
+.
 
------कोट-----	NN	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-प्रतिशत	NN	TEMP	O	O	O	O
-अनुदान	NN	TEMP	B-MISC	O	O	OCC
-दिए	VM	TEMP	I-MISC	O	B-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-प्राप्त	JJ	TEMP	I-MISC	O	I-MISC	O
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+-----कोट-----
+इस
+योजना
+के
+तहत
+किसानों
+को
+40
+प्रतिशत
+अनुदान
+दिए
+जाने
+का
+निर्देश
+प्राप्त
+हुआ
+है
+.
 
-जिले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रत्येक	QF	TEMP	O	O	O	O
-प्रखंडों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लक्ष्य	NN	TEMP	O	O	O	O
-निर्धारित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिले
+में
+प्रत्येक
+प्रखंडों
+का
+लक्ष्य
+निर्धारित
+किया
+गया
+है
+.
 
-किसान	NN	TEMP	O	O	O	O
-यूनिट	NN	TEMP	B-MISC	O	B-MISC	O
-लगाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किसान
+यूनिट
+लगाने
+के
+लिए
+आवेदन
+कर
+सकते
+हैं
+.
 
-एक	QC	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अधिकतम	JJ	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-यूनिट	NN	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-प्रावधान	NN	TEMP	O	O	B-MISC	DEC
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+किसान
+को
+अधिकतम
+पांच
+यूनिट
+दिए
+जाने
+का
+प्रावधान
+है
+.
 
-प्रवीण	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-झा	NN	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-कृषि	XC	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
+प्रवीण
+कुमार
+झा
+जिला
+कृषि
+पदाधिकारी

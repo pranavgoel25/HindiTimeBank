@@ -1,335 +1,335 @@
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रोहतक	XC	TEMP	O	O	O	O
-वार्ड-	NN	TEMP	O	O	O	O
-17	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जनता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-राहत	NN	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-खबर	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+रोहतक
+वार्ड-
+17
+की
+जनता
+के
+लिए
+राहत
+वाली
+खबर
+है
+.
 
-नगर	NN	TEMP	O	O	O	O
-निगम	JJ	TEMP	O	O	O	O
-प्रशासन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-वार्ड	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-जनता	NN	TEMP	O	O	O	O
-कॉलोनी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कम्युनिटी	JJ	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-हुडा	VM	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	B-MISC	O
-दे	VM	TEMP	B-MISC	O	I-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+निगम
+प्रशासन
+ने
+वार्ड
+स्थित
+जनता
+कॉलोनी
+में
+कम्युनिटी
+सेंटर
+का
+निर्माण
+करने
+के
+लिए
+हुडा
+ने
+जमीन
+दे
+दी
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-महज	RB	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मिली	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+जमीन
+महज
+सौ
+रुपये
+में
+मिली
+है
+.
 
-जमीन	NN	TEMP	B-MISC	O	B-MISC	O
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-दस्तावेज	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मिल	VM	TEMP	B-MISC	O	B-MISC	OCC
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जमीन
+मिलने
+के
+लिए
+दस्तावेज
+भी
+मिल
+चुके
+है
+.
 
-कुछ	QF	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-अंदर	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-निगम	NN	TEMP	O	O	O	O
-अधिकारी	JJ	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	O	O	O	O
-तैयार	JJ	TEMP	O	O	B-MISC	OCC
-करके	VM	TEMP	O	O	I-MISC	O
-कम्युनिटी	JJ	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराएंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+माह
+के
+अंदर
+ही
+निगम
+अधिकारी
+प्रस्ताव
+तैयार
+करके
+कम्युनिटी
+सेंटर
+का
+निर्माण
+कराएंगे
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हिसार	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जलभराव	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भारी	JJ	TEMP	O	O	O	O
-दिक्कत	NN	TEMP	O	O	B-MISC	O
-होती	VM	TEMP	B-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+,
+हिसार
+रोड
+पर
+जलभराव
+की
+भारी
+दिक्कत
+होती
+है
+.
 
-यहां	PRP	TEMP	O	O	O	O
-3.86	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लागत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-डिस्पोजल	NN	TEMP	O	O	O	O
-बनेगा	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+यहां
+3.86
+करोड
+रुपये
+की
+लागत
+से
+नया
+डिस्पोजल
+बनेगा
+.
 
-जिससे	PRP	TEMP	O	O	O	O
-बरसाती	JJ	TEMP	O	O	O	O
-पानी	NN	TEMP	O	O	O	O
-खडे	JJ	TEMP	B-MISC	O	B-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-समस्या	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-राहत	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलेगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिससे
+बरसाती
+पानी
+खडे
+होने
+की
+समस्या
+से
+राहत
+मिलेगी
+.
 
-वार्ड-	NN	TEMP	O	O	O	O
-17	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कम्युनिटी	JJ	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-डिमांड	NN	TEMP	O	O	O	O
-अर्से	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-थी	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+वार्ड-
+17
+में
+कम्युनिटी
+सेंटर
+की
+डिमांड
+अर्से
+से
+थी
+.
 
-इसलिए	CC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-निगम	JJ	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-जमीन	NN	TEMP	B-MISC	O	O	O
-तलाश	VM	TEMP	I-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसलिए
+नगर
+निगम
+अधिकारी
+लगातार
+जमीन
+तलाश
+रहे
+थे
+.
 
-जमीन	NN	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	O
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-कम्युनिटी	JJ	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	OCC
-कार्य	NN	TEMP	O	O	O	O
-अधर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लटका	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जमीन
+न
+मिलने
+के
+कारण
+कम्युनिटी
+सेंटर
+का
+निर्माण
+कार्य
+अधर
+में
+लटका
+हुआ
+था
+.
 
-शुक्रवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-भवन	NNP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-मी	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-टग	NN	TEMP	O	O	O	O
-हॉल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-निगम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-डीटीपी	NN	TEMP	O	O	O	O
-केके	PSP	TEMP	O	O	O	O
-वाष्र्णेय	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शुक्रवार
+को
+विकास
+भवन
+स्थित
+मी
+¨
+टग
+हॉल
+में
+नगर
+निगम
+के
+डीटीपी
+केके
+वाष्र्णेय
+ने
+यह
+जानकारी
+दी
+.
 
-हाउस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बैठक	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-हुडा	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सेक्टर	NN	TEMP	O	O	O	O
-यानि	CC	TEMP	O	O	O	O
-ट्रांसपोर्ट	NN	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-विकसित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हाउस
+की
+बैठक
+शुरू
+होने
+से
+पहले
+उन्होंने
+बताया
+कि
+हुडा
+का
+सेक्टर
+यानि
+ट्रांसपोर्ट
+नगर
+विकसित
+किया
+जा
+रहा
+है
+.
 
-इसी	DEM	TEMP	O	O	O	O
-ट्रांसपोर्ट	XC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-800	QC	TEMP	O	O	O	O
-स्क्वेयर	XC	TEMP	O	O	O	O
-फीट	NN	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	B-MISC	O
-मिल	VM	TEMP	B-MISC	O	I-MISC	O
-चुकी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+ट्रांसपोर्ट
+नगर
+की
+जमीन
+में
+से
+ही
+करीब
+800
+स्क्वेयर
+फीट
+जमीन
+मिल
+चुकी
+है
+.
 
-इसलिए	CC	TEMP	O	O	O	O
-कम्युनिटी	JJ	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राह	NN	TEMP	O	O	O	O
-आसान	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसलिए
+कम्युनिटी
+सेंटर
+के
+निर्माण
+की
+राह
+आसान
+हो
+गई
+.
 
-हिसार	NN	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बनेगा	VM	TEMP	O	O	O	O
-डिस्पोजल	XC	TEMP	O	O	O	O
-हिसार	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-परेशानी	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-जलभराव	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+हिसार
+रोड
+पर
+बनेगा
+डिस्पोजल
+हिसार
+रोड
+पर
+सबसे
+बडी
+परेशानी
+है
+जलभराव
+की
+.
 
-बरसात	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वाहन	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-निकालने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भारी	JJ	TEMP	O	O	O	O
-अडचन	NN	TEMP	O	O	O	O
-खडी	JJ	TEMP	B-MISC	O	B-MISC	O
-होती	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बरसात
+होने
+के
+बाद
+यहां
+से
+वाहन
+तक
+निकालने
+में
+भारी
+अडचन
+खडी
+होती
+है
+.
 
-यही	DEM	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-जनस्वास्थ्य	JJ	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-डिस्पोजल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	O	O	O	O
-तैयार	JJ	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यही
+कारण
+है
+कि
+जनस्वास्थ्य
+विभाग
+ने
+डिस्पोजल
+का
+प्रस्ताव
+तैयार
+किया
+है
+.
 
-बजट	NN	TEMP	B-MISC	O	B-MISC	O
-मिल	VM	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नए	JJ	TEMP	O	O	O	O
-डिस्पोजल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ड्राइंग	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रस्तावित	JJ	TEMP	O	O	O	O
-एस्टीमेट	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-तैयार	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बजट
+मिल
+चुका
+है
+,
+जल्द
+ही
+नए
+डिस्पोजल
+के
+निर्माण
+के
+लिए
+ड्राइंग
+,
+प्रस्तावित
+एस्टीमेट
+आदि
+तैयार
+होंगे
+.
 
-डिस्पोजल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-बरसाती	JJ	TEMP	O	O	O	O
-पानी	NN	TEMP	O	O	O	O
-भरने	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-राहत	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलेगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डिस्पोजल
+का
+निर्माण
+होने
+से
+बरसाती
+पानी
+भरने
+से
+राहत
+मिलेगी
+.
 
-यहां	PRP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-ज्यादा	QF	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-मेंटीनेंस	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कारोबार	NN	TEMP	O	O	B-STAT	OCC
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+यहां
+सबसे
+ज्यादा
+ट्रक
+मेंटीनेंस
+का
+कारोबार
+है
+.
 
-औद्योगिक	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	-1
-.	SYM	TEMP	O	O	O	O
+औद्योगिक
+क्षेत्र
+भी
+है
+.
 
-इन	DEM	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-राहत	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलेगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+सभी
+को
+राहत
+मिलेगी
+.

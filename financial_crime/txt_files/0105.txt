@@ -1,387 +1,387 @@
-कौशांबी	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बिचौलिए	JJ	TEMP	O	O	O	O
-चांदी	NN	TEMP	B-MISC	O	O	O
-काट	VM	TEMP	I-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कौशांबी
+:
+किसानों
+से
+धान
+खरीद
+के
+नाम
+पर
+बिचौलिए
+चांदी
+काट
+रहे
+हैं
+.
 
-चावल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-रिकवरी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उपज	NN	TEMP	O	O	O	O
-क्रय	NN	TEMP	O	O	O	O
-केंद्रों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-खरीदा	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चावल
+की
+कम
+रिकवरी
+के
+नाम
+पर
+किसानों
+की
+उपज
+क्रय
+केंद्रों
+पर
+नहीं
+खरीदा
+जा
+रहा
+है
+.
 
-ऐसे	PRP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिचौलिया	NNP	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-दाम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-चार	XC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	B-MISC	O
-खरीद	VM	TEMP	B-MISC	O	I-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऐसे
+में
+बिचौलिया
+सरकारी
+दाम
+से
+करीब
+चार
+सौ
+रुपये
+कम
+पर
+धान
+खरीद
+रहे
+हैं
+.
 
-जिले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-सहकारी	JJ	TEMP	O	O	O	O
-समितियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-संस्थाओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नामित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिले
+में
+धान
+खरीद
+को
+लेकर
+सहकारी
+समितियों
+के
+साथ
+ही
+अन्य
+संस्थाओं
+को
+नामित
+किया
+गया
+है
+.
 
-इन	DEM	TEMP	O	O	O	O
-केंद्रों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-खरीदा	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+केंद्रों
+से
+किसानों
+का
+धान
+कम
+खरीदा
+जा
+रहा
+.
 
-सरसवां	QO	TEMP	O	O	O	O
-सहकारिता	NN	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-करें	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-अशोक	XC	TEMP	O	O	O	O
-कुशवाहा	NNP	TEMP	O	O	O	O
-बताते	VM	TEMP	B-MISC	O	O	O
-है	VAUX	TEMP	I-MISC	O	O	O
-कि	CC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-बेचने	VM	TEMP	B-MISC	O	B-MISC	OCC
-ही	RP	TEMP	O	O	I-MISC	O
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सरसवां
+सहकारिता
+समिति
+की
+बात
+करें
+तो
+वहां
+के
+प्रभारी
+अशोक
+कुशवाहा
+बताते
+है
+कि
+उनके
+पास
+कोई
+किसान
+धान
+बेचने
+ही
+नहीं
+आया
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-आकंडों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-माने	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सब	QF	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पैदावार	JJ	TEMP	O	O	O	O
-सरसवां	NN	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-खंड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-होती	VM	TEMP	B-MISC	O	B-STAT	DECL
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+आकंडों
+की
+माने
+तो
+जिले
+में
+सब
+से
+अधिक
+धान
+की
+पैदावार
+सरसवां
+विकास
+खंड
+में
+होती
+है
+.
 
-सरसवां	NN	TEMP	O	O	O	O
-विकास	SYM	TEMP	O	O	O	O
-खंड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बरौला	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-जितेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-खेतों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-80	QC	TEMP	O	O	O	O
-क्विंटल	NN	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पैदावार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सरसवां
+विकास
+खंड
+के
+बरौला
+निवासी
+जितेंद्र
+कुमार
+¨
+सह
+ने
+बताया
+कि
+उनके
+खेतों
+में
+80
+क्विंटल
+धान
+की
+पैदावार
+हुई
+.
 
-सरकारी	JJ	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	B-MISC	O
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	OCC
-लिया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सरकारी
+खरीद
+केंद्र
+पर
+उनका
+धान
+नहीं
+लिया
+गया
+.
 
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिचौलिया	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-1100	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-क्विंटल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	B-MISC	OCC
-खरीद	VM	TEMP	B-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाद
+में
+बिचौलिया
+ने
+1100
+रुपये
+प्रति
+क्विंटल
+की
+दर
+से
+धान
+खरीद
+लिया
+.
 
-वह	PRP	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-खतौनी	NN	TEMP	O	O	O	O
+वह
+उनकी
+खतौनी
 
-आधार	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-खाता	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आधार
+कार्ड
+और
+खाता
+नंबर
+भी
+ले
+गया
+.
 
-हफ्ते	NN	TEMP	O	O	O	O
-भर	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिचौलिए	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हफ्ते
+भर
+में
+बिचौलिए
+ने
+धान
+का
+भुगतान
+कर
+दिया
+.
 
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-वीरेंद्र	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-क्विंटल	NN	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-भेजा	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गांव
+के
+ही
+वीरेंद्र
+¨
+सह
+ने
+बताया
+कि
+उन्होंने
+भी
+करीब
+20
+क्विंटल
+धान
+केंद्र
+भेजा
+था
+.
 
-वहां	PRP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-मजबूरन	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	B-MISC	O
-बेचना	VM	TEMP	B-MISC	O	I-MISC	OCC
-पडा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहां
+धान
+नहीं
+लिया
+गया
+तो
+मजबूरन
+गांव
+के
+युवक
+को
+धान
+बेचना
+पडा
+.
 
-बल्ला	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-घनश्याम	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-खेरवा	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-रवींद्र	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	IAC
-खरीद	JJ	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-गए	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बल्ला
+निवासी
+घनश्याम
+व
+खेरवा
+निवासी
+रवींद्र
+¨
+सह
+ने
+बताया
+कि
+वह
+धान
+लेकर
+खरीद
+केंद्र
+गए
+थे
+.
 
-उनका	PRP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-वहीं	PRP	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-बेचने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-ली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनका
+धान
+वहां
+नहीं
+लिया
+गया
+तो
+उन्होंने
+वहीं
+तैनात
+एक
+कर्मचारी
+से
+धान
+बेचने
+के
+बारे
+में
+जानकारी
+ली
+.
 
-जिसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-सरसवां	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कर्मचारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-संपर्क	NN	TEMP	B-MISC	O	B-MISC	OCC
-करा	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसके
+बाद
+सरसवां
+के
+एक
+युवक
+से
+कर्मचारियों
+ने
+ही
+संपर्क
+करा
+दिया
+.
 
-उसने	PRP	TEMP	O	O	O	O
-1200	QC	TEMP	O	O	O	O
-प्रति	RP:?	TEMP	O	O	O	O
-क्विंटल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	B-MISC	OCC
-खरीद	VM	TEMP	B-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+1200
+प्रति
+क्विंटल
+की
+दर
+से
+धान
+खरीद
+लिया
+.
 
-क्या	WQ	TEMP	O	O	O	O
-कहते	VM	TEMP	B-MISC	O	B-STAT	O
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-अधिकारी	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चावल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रिकवरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कम	QF	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-इस	PRP	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-खरीद	VM	TEMP	B-MISC	O	B-MISC	OCC
-कम	QF	TEMP	B-MISC	O	I-MISC	O
-हो	VM	TEMP	I-MISC	O	I-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+क्या
+कहते
+है
+अधिकारी
+:
+-
+धान
+से
+चावल
+की
+रिकवरी
+कम
+होने
+के
+कारण
+इस
+बार
+खरीद
+कम
+हो
+रही
+है
+.
 
-वैसे	PRP	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-चल	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
+वैसे
+जिले
+के
+सभी
+सेंटर
+चल
+रहे
+हैं
 
-जिन	DEM	TEMP	O	O	O	O
-धानों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रिकवरी	NN	TEMP	O	O	O	O
-ठीक	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
+जिन
+धानों
+में
+रिकवरी
+ठीक
+है
 
-उनको	PRP	TEMP	O	O	O	O
-लिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनको
+लिया
+जा
+रहा
+है
+.
 
-रोजाना	NN	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अपडेट	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रोजाना
+धान
+की
+खरीद
+का
+अपडेट
+भी
+लिया
+जा
+रहा
+है
+.
 
-अगर	CC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हेराफेरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करेगा	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पकडा	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+कोई
+धान
+खरीद
+में
+हेराफेरी
+करेगा
+तो
+पकडा
+जाएगा
+.

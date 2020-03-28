@@ -1,373 +1,373 @@
-﻿मुजफ्फरपुर	NNP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿मुजफ्फरपुर
+.
 
-विद्युत	XC	TEMP	O	O	O	O
-वितरण	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अजब	JJ	TEMP	O	O	O	O
-गजब	NN	TEMP	O	O	O	O
-खेल	NN	TEMP	O	O	B-MISC	O
-सामने	NST	TEMP	B-MISC	O	I-MISC	OCC
-आ	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विद्युत
+वितरण
+कंपनी
+का
+अजब
+गजब
+खेल
+सामने
+आ
+रहा
+है
+.
 
-60	QC	TEMP	O	B	O	O
-दिनों	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-अस्थाई	JJ	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	O	O
-लेने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-60	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-भीतर	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-छापा	NN	TEMP	B-MISC	O	B-MISC	O
-मारकर	VM	TEMP	I-MISC	O	I-MISC	O
-बिजली	NN	TEMP	B-MISC	O	O	OCC
-चोरी	NN	TEMP	I-MISC	O	O	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-74	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-छह	QC	TEMP	O	I	O	O
-महीने	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-तगादा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+60
+दिनों
+के
+अस्थाई
+कनेक्शन
+लेने
+के
+बाद
+एक
+व्यक्ति
+के
+यहां
+60
+दिन
+के
+भीतर
+ही
+छापा
+मारकर
+बिजली
+चोरी
+का
+आरोप
+लगाते
+हुए
+74
+हजार
+का
+जुर्माना
+लगा
+दिया
+और
+पिछले
+छह
+महीने
+से
+पैसे
+जमा
+करने
+का
+तगादा
+किया
+जा
+रहा
+.
 
-मुशहरी	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वाल्मीकि	XC	TEMP	O	O	O	O
-ठाकुर	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दैनिक	JJ	TEMP	O	O	O	O
-जागरण	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-दर्द	NN	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+मुशहरी
+गांव
+के
+वाल्मीकि
+ठाकुर
+ने
+दैनिक
+जागरण
+को
+अपना
+दर्द
+बताया
+.
 
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-अप्रैल	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-60	QC	TEMP	O	B	O	O
-दिनों	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-एस्सेल	XC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अस्थाई	JJ	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	B-MISC	O
-लिया	VM	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कहा
+कि
+घर
+बनाने
+के
+दौरान
+20
+अप्रैल
+को
+60
+दिनों
+के
+लिए
+एस्सेल
+से
+अस्थाई
+कनेक्शन
+लिया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-एवज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-6	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-61	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-मीटर	NN	TEMP	O	O	B-MISC	O
-जोड	VM	TEMP	B-MISC	O	I-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+एवज
+में
+6
+हजार
+5
+सौ
+61
+रुपए
+जमा
+करने
+पर
+लाइन
+और
+मीटर
+जोड
+दिया
+गया
+.
 
-फिर	RB	TEMP	O	B	O	O
-60	QC	TEMP	O	I	O	O
-दिन	NN	TEMP	O	I	O	O
-बीतने	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-एस्सेल	XC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-विजिलेंस	NN	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-आ	VM	TEMP	B-MISC	O	B-MISC	OCC
-धमके	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मीटर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-तार	RDP	TEMP	O	O	O	O
-जब्त	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-74	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिर
+60
+दिन
+बीतने
+से
+पहले
+ही
+एस्सेल
+के
+कुछ
+विजिलेंस
+अधिकारी
+आ
+धमके
+और
+मीटर
+,
+तार
+जब्त
+कर
+ले
+गए
+और
+74
+हजार
+जुर्माना
+लगा
+दिया
+.
 
-जल्दी	RB	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-चुकता	VM	TEMP	I-MISC	O	I-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-केस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जल्दी
+पैसे
+नहीं
+चुकता
+करने
+पर
+केस
+की
+धमकी
+दी
+गई
+.
 
-74	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-उपभोक्ता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-फोन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+74
+हजार
+रुपए
+के
+लिए
+उपभोक्ता
+के
+मोबाइल
+लगातार
+फोन
+किया
+जा
+रहा
+है
+.
 
-उब	VAUX	TEMP	B-MISC	O	B-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-उन्होंने	PRP	TEMP	O	O	O	O
-बिजनेस	NN	TEMP	O	O	O	O
-हेड	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उब
+कर
+उन्होंने
+बिजनेस
+हेड
+सहित
+अन्य
+अधिकारियों
+से
+कई
+बार
+शिकायत
+की
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-एस्सेल	XC	TEMP	O	O	O	O
-पीआरओ	XC	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उपभोक्ता	NN	TEMP	O	O	O	O
-विजिलेंस	XC	TEMP	O	O	O	O
-हेड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिलें	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+जब
+एस्सेल
+पीआरओ
+राजेश
+चौधरी
+से
+बात
+की
+गई
+तो
+उन्होंने
+कहा
+कि
+उपभोक्ता
+विजिलेंस
+हेड
+से
+मिलें
+.
 
-समाधान	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	REP
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+समाधान
+हो
+जाने
+की
+जानकारी
+दी
+.
 
-मुरौल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-600	QC	TEMP	O	O	O	O
-आबादी	NN	TEMP	O	O	O	O
-अंधेरे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दशहरा	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-मुरौल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विद्याझांप	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ट्रांसफॉर्मर	NN	TEMP	O	O	O	O
-जल	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मुरौल
+में
+600
+आबादी
+अंधेरे
+में
+दशहरा
+के
+दिन
+मुरौल
+के
+विद्याझांप
+गांव
+में
+ट्रांसफॉर्मर
+जल
+गया
+.
 
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शिकायत
+करने
+के
+बाद
+भी
+अभी
+तक
+नहीं
+लगाया
+गया
+.
 
-उक्त	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-राजीव	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-ट्रांसफॉर्मर	NN	TEMP	O	O	O	O
-जलने	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रोशनी	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उक्त
+गांव
+के
+राजीव
+कुमार
+ने
+बताया
+कि
+ट्रांसफॉर्मर
+जलने
+से
+गांव
+के
+100
+घरों
+में
+रोशनी
+बंद
+है
+.
 
-करीब	RB	TEMP	O	B	O	O
-19	QC	TEMP	O	I	O	O
-दिनों	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-अंधेरे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रह	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+करीब
+19
+दिनों
+से
+इस
+गांव
+के
+छह
+सौ
+लोग
+अंधेरे
+में
+रह
+रहे
+हैं
+.
 
-टोल	NN	TEMP	O	O	O	O
-फ्री	VM	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	B-MISC	IAC
-कर	VM	TEMP	O	O	I-MISC	O
-विभाग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-बावजूद	PSP:?	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-सुनवाई	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+टोल
+फ्री
+नंबर
+पर
+कई
+बार
+फोन
+कर
+विभाग
+को
+जानकारी
+दी
+गई
+,
+बावजूद
+इसके
+कोई
+सुनवाई
+नहीं
+.
 
-इन्होंने	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	OCC
-पंखा	NN	TEMP	O	O	B-MISC	O
-टोली	VM	TEMP	O	O	I-MISC	O
-लीची	VAUX	TEMP	O	O	I-MISC	O
-गाछी	NN	TEMP	O	O	O	O
-मोहल्ला	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-रमण	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-टूटे	VM	TEMP	O	O	O	O
-पोल	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-वर्षो	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बिजली	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सप्लाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-पोल	XC	TEMP	O	O	O	O
-सडक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रख	VM	TEMP	B-MISC	O	B-MISC	OCC
-छोडे	VM	TEMP	B-MISC	O	B-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन्होंने
+भी
+की
+शिकायत
+पंखा
+टोली
+लीची
+गाछी
+मोहल्ला
+निवासी
+रमण
+कुमार
+ने
+टूटे
+पोल
+से
+दो
+वर्षो
+से
+बिजली
+की
+सप्लाई
+होने
+और
+विभाग
+द्वारा
+नया
+पोल
+सडक
+पर
+रख
+छोडे
+जाने
+की
+शिकायत
+की
+.
 
-शेखपुर	NNP	TEMP	O	O	O	O
-अहियापुर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मनीष	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-मधुकर	VM	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	B	O	O
-महीने	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-ट्रांसफॉर्मर	NN	TEMP	O	O	O	O
-जलने	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बैरिया	JJ	TEMP	O	O	O	O
-आयाचीग्राम	NN	TEMP	O	O	O	O
-मोहल्ले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पोल	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शेखपुर
+अहियापुर
+से
+मनीष
+कुमार
+मधुकर
+ने
+तीन
+महीने
+पहले
+ट्रांसफॉर्मर
+जलने
+,
+बैरिया
+आयाचीग्राम
+मोहल्ले
+में
+पोल
+नहीं
+होने
+की
+शिकायत
+की
+.

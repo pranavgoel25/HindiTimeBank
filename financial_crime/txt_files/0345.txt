@@ -1,195 +1,195 @@
-﻿मुरादाबाद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-काशीपुर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किराने	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-देकर	VM	TEMP	B-MISC	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-वसूल	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ला	VAUX	TEMP	B-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-टैम्पो	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-कर्मचारियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पल्सर	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-लूट	VM	TEMP	B-MISC	O	B-MISC	OCC
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿मुरादाबाद
+:
+काशीपुर
+से
+किराने
+का
+सामान
+देकर
+रुपये
+वसूल
+कर
+ला
+रहे
+टैम्पो
+सवार
+कर्मचारियों
+से
+पल्सर
+सवार
+दो
+बदमाशों
+ने
+नकदी
+लूट
+ली
+.
 
-पीडि़त	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंची	VM	TEMP	O	O	B-STAT	DES
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-ली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडि़त
+की
+सूचना
+पर
+पहुंची
+पुलिस
+ने
+मामले
+की
+जानकारी
+ली
+.
 
-अज्ञात	JJ	TEMP	O	O	O	O
-पल्सर	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-बदमाशों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अज्ञात
+पल्सर
+सवार
+बदमाशों
+की
+तहरीर
+पर
+रिपोर्ट
+दर्ज
+कर
+बदमाशों
+की
+तलाश
+शुरू
+की
+गई
+.
 
-भोजपुर	XC	TEMP	O	O	O	O
-थानाक्षेत्र	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लाला	NN	TEMP	O	O	O	O
-हरबंश	NN	TEMP	O	O	O	O
-लाल	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-किराने	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+भोजपुर
+थानाक्षेत्र
+में
+लाला
+हरबंश
+लाल
+की
+किराने
+की
+बडी
+दुकान
+है
+.
 
-रोज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरह	PSP	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	B-STAT	DES
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	O	O
-बंटी	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-संजीव	JJ	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-पहुंचाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-काशीपुर	NN	TEMP	O	O	B-MISC	O
-गए	VM	TEMP	B-MISC	O	I-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रोज
+की
+तरह
+सुबह
+भी
+उनकी
+दुकान
+में
+काम
+करने
+वाले
+बंटी
+और
+संजीव
+सामान
+पहुंचाने
+काशीपुर
+गए
+थे
+.
 
-देर	NN	TEMP	O	O	O	O
-रात	NN	TEMP	O	O	O	O
-दोनों	JJ	TEMP	O	O	O	O
-टैम्पो	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-लौट	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देर
+रात
+दोनों
+टैम्पो
+से
+वापस
+लौट
+रहे
+थे
+.
 
-वे	PRP	TEMP	O	O	O	O
-भगतपुर	XC	TEMP	O	O	O	O
-थानाक्षेत्र	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बुढ़ानपुर	JJ	TEMP	O	O	O	O
-अलीगंज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वे
+भगतपुर
+थानाक्षेत्र
+के
+बुढ़ानपुर
+अलीगंज
+के
+पास
+पहुंचे
+थे
+.
 
-इसी	PRP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-पल्सर	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बदमाश	JJ	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+बीच
+पल्सर
+सवार
+दो
+बदमाश
+मौके
+पर
+पहुंच
+गए
+.
 
-तमंचा	NN	TEMP	O	O	O	O
-दिखाकर	VM	TEMP	B-MISC	O	O	O
-टैम्पो	NN	TEMP	O	O	B-MISC	O
-रुकवाया	VM	TEMP	B-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-अस्सी	XC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लूट	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तमंचा
+दिखाकर
+टैम्पो
+रुकवाया
+और
+अस्सी
+हजार
+रुपये
+लूट
+लिए
+.
 
-विरोध	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बंटी	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-संजीव	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पिटाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विरोध
+करने
+पर
+बदमाशों
+ने
+बंटी
+और
+संजीव
+की
+पिटाई
+कर
+दी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बदमाश	JJ	TEMP	O	O	O	O
-पल्सर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	OCC
-खड़े	JJ	TEMP	I-MISC	O	I-MISC	O
-हुए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+बदमाश
+पल्सर
+से
+ही
+भाग
+खड़े
+हुए
+.
 
-बंटी	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-संजीव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भगतपुर	NNP	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	O	OCC
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बंटी
+और
+संजीव
+ने
+भगतपुर
+थाने
+में
+लूट
+और
+मारपीट
+की
+रिपोर्ट
+दर्ज
+कराई
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पीडि़त	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	O	OCC
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	O	O
-लेकर	VM	TEMP	I-MISC	O	B-MISC	O
-बदमाशों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+पीडि़त
+से
+घटना
+की
+जानकारी
+लेकर
+बदमाशों
+की
+तलाश
+शुरू
+की
+.

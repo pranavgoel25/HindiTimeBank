@@ -1,103 +1,103 @@
 
-गोड्डा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-अगस्त	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-81	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-धनरोपनी	VM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गोड्डा
+:
+जिले
+में
+11
+अगस्त
+तक
+81
+फीसद
+धनरोपनी
+का
+कार्य
+हुआ
+है
+.
 
-जबकि	CC	TEMP	O	O	O	O
-अगस्त	JJ	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-67.9	QC	TEMP	O	O	O	O
-मिमी	NN	TEMP	O	O	O	O
-वर्षा	NN	TEMP	O	O	O	O
-रिकार्ड	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+अगस्त
+माह
+में
+67.9
+मिमी
+वर्षा
+रिकार्ड
+की
+गई
+है
+.
 
-जो	PRP	TEMP	O	O	O	O
-सामान्य	JJ	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-इधर	NST	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-मिलीमीटर	NN	TEMP	O	O	O	O
-वर्षा	NN	TEMP	O	O	O	O
-रिकार्ड	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जो
+सामान्य
+से
+कम
+है
+इधर
+शुक्रवार
+को
+20
+मिलीमीटर
+वर्षा
+रिकार्ड
+की
+गई
+है
+.
 
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-फिलहाल	RB	TEMP	O	O	O	O
-मौसम	XC	TEMP	O	O	O	O
-कृषि	XC	TEMP	O	O	O	O
-कार्य	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुरूप	PSP:?	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-अगर	CC	TEMP	O	O	O	O
-बेहतर	JJ	TEMP	O	O	O	O
-वर्षा	NN	TEMP	B-MISC	O	O	O
-होती	VM	TEMP	I-MISC	O	B-STAT	O
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-तो	CC	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-अगस्त	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-शतप्रतिशत	XC	TEMP	O	O	O	O
-रोपनी	XC	TEMP	O	O	O	O
-कार्य	NN	TEMP	O	O	B-MISC	OCC
-पूरा	JJ	TEMP	B-MISC	O	B-MISC	ASP
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विभाग
+के
+अनुसार
+फिलहाल
+मौसम
+कृषि
+कार्य
+के
+अनुरूप
+है
+अगर
+बेहतर
+वर्षा
+होती
+है
+तो
+20
+अगस्त
+तक
+शतप्रतिशत
+रोपनी
+कार्य
+पूरा
+हो
+जाएगा
+.
 
-पहले	NST	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अपेक्षा	PSP	TEMP	O	O	O	O
-हालात	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-सुधार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पहले
+की
+अपेक्षा
+हालात
+में
+अब
+काफी
+सुधार
+हुआ
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उत्साहित	JJ	TEMP	O	O	B-MISC	O
-हैं	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+किसान
+भी
+उत्साहित
+हैं
+.
 
-विभाग	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-स्थिती	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-नजर	NN	TEMP	B-MISC	O	B-MISC	O
-रखे	VM	TEMP	I-MISC	O	I-MISC	DECL
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विभाग
+भी
+स्थिती
+पर
+लगातार
+नजर
+रखे
+हुए
+है
+.

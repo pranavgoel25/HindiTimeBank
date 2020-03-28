@@ -1,195 +1,195 @@
-﻿लखीसराय	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿लखीसराय
+.
 
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गंगासराय	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-पुरानी	JJ	TEMP	O	O	O	O
-दुर्गा	NN	TEMP	O	O	O	O
-मंदिर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-एनएच	NN	TEMP	O	O	O	O
-80	QC	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-उचक्के	NN	TEMP	O	O	O	O
-गंगासराय	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-आजो	PRP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-गुड्डी	XC	TEMP	O	O	O	O
-कुमारी	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पर्स	NN	TEMP	O	O	O	OCC
-झपट	VM	TEMP	B-MISC	O	B-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-लखीसराय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	PSP	TEMP	O	O	O	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थाना
+क्षेत्र
+के
+गंगासराय
+स्थित
+पुरानी
+दुर्गा
+मंदिर
+के
+सामने
+स्थित
+एनएच
+80
+पर
+बाइक
+सवार
+दो
+उचक्के
+गंगासराय
+निवासी
+आजो
+¨
+सह
+की
+पुत्री
+गुड्डी
+कुमारी
+का
+पर्स
+झपट
+कर
+लखीसराय
+की
+ओर
+फरार
+हो
+गए
+.
 
-पर्स	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-डेढ़	NNP	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-थे	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+पर्स
+में
+डेढ़
+लाख
+रुपये
+थे
+.
 
-प्राप्त	JJ	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-गुड्डी	NN	TEMP	O	O	O	O
-कुमारी	XC	TEMP	O	O	O	O
-एसबीआइ	XC	TEMP	O	O	O	O
-शाखा	XC	TEMP	O	O	O	O
-बडहिया	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-डेढ़	NNP	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्राप्त
+जानकारी
+के
+अनुसार
+गुड्डी
+कुमारी
+एसबीआइ
+शाखा
+बडहिया
+से
+अपने
+खाते
+से
+डेढ़
+लाख
+रुपये
+की
+निकासी
+की
+थी
+.
 
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निकाली	VM	TEMP	O	O	B-MISC	OCC
-गई	VAUX	TEMP	O	O	I-MISC	O
-राशि	NN	TEMP	O	O	O	O
-गिनने	VM	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिया	VM	TEMP	O	O	B-MISC	OCC
-दिया	VAUX	TEMP	B-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+में
+ही
+एक
+युवक
+को
+निकाली
+गई
+राशि
+गिनने
+के
+लिया
+दिया
+था
+.
 
-उसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-ऑटो	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-गंगासराय	NN	TEMP	O	O	O	O
-जा	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+बाद
+राशि
+लेकर
+ऑटो
+से
+अपने
+घर
+गंगासराय
+जा
+रही
+थी
+.
 
-गंगासराय	NN	TEMP	O	O	O	O
-पुरानी	JJ	TEMP	O	O	O	O
-दुर्गा	NN	TEMP	O	O	O	O
-मंदिर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निकट	NST	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-ऑटो	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उतरकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-अपने	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-जा	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बडहिया	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आ	VM	TEMP	O	O	B-STAT	OCC
-रहे	VAUX	TEMP	O	O	I-STAT	O
-दो	QC	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-गुड्डी	NN	TEMP	O	O	O	O
-कुमारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हाथ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पर्स	NN	TEMP	O	O	O	OCC
-झपट	VM	TEMP	B-MISC	O	B-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-लखीसराय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	PSP	TEMP	O	O	O	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गंगासराय
+पुरानी
+दुर्गा
+मंदिर
+के
+निकट
+वह
+ऑटो
+से
+उतरकर
+अपने
+घर
+की
+तरफ
+जा
+रही
+थी
+कि
+बडहिया
+की
+ओर
+से
+आ
+रहे
+दो
+बाइक
+सवार
+गुड्डी
+कुमारी
+के
+हाथ
+से
+पर्स
+झपट
+कर
+लखीसराय
+की
+ओर
+फरार
+हो
+गया
+.
 
-वह	PRP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-शोर	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	I-MISC	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-तेजी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	OCC
-निकला	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वह
+जब
+तक
+शोर
+की
+बाइक
+सवार
+तेजी
+ने
+भाग
+निकला
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	O	O	B-MISC	OCC
-बडहिया	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	B-MISC	DECL
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+घटना
+की
+सूचना
+बडहिया
+थाना
+को
+दी
+है
+.
 
-प्रभारी	JJ	TEMP	O	O	O	O
-थानाध्यक्ष	NN	TEMP	O	O	O	O
-हरिशंकर	VM	TEMP	O	O	O	O
-कश्यप	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-लिखित	JJ	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रभारी
+थानाध्यक्ष
+हरिशंकर
+कश्यप
+ने
+बताया
+कि
+इस
+संबंध
+में
+अभी
+लिखित
+आवेदन
+नहीं
+मिला
+है
+.
 
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामले
+की
+जांच
+की
+जा
+रही
+है
+.

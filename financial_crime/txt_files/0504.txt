@@ -1,249 +1,249 @@
 
-सिद्धार्थनगर	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-डुमरियागंज	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-कोरई	NN	TEMP	O	O	O	O
-भारी	JJ	TEMP	O	O	O	O
-चौराहे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-लौट	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-दो	QC	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-राहगीरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-होमगार्ड	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-सात	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-डरा	NN	TEMP	O	O	B-MISC	OCC
-धमका	VM	TEMP	B-MISC	O	I-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सिद्धार्थनगर
+:
+डुमरियागंज
+थाना
+क्षेत्र
+कोरई
+भारी
+चौराहे
+के
+पास
+घर
+लौट
+रहे
+दो
+बाइक
+सवार
+राहगीरों
+में
+से
+एक
+होमगार्ड
+द्वारा
+सात
+हजार
+रुपये
+डरा
+धमका
+कर
+छीन
+लिए
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+ने
+पुलिस
+को
+तहरीर
+देकर
+कार्रवाई
+की
+मांग
+की
+है
+.
 
-बुधवार	NN	TEMP	O	B	O	O
-सायं	NN	TEMP	O	B	O	O
-सात	QC	TEMP	O	B	O	O
-बजे	RP:?	TEMP	O	I	O	O
-बस्ती	NN	TEMP	O	O	O	O
-जनपद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूधौली	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-महुआर	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-बाबूराम	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-दिनेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-डुमरियागंज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-खरीद	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-बाइक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-लौट	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-कोरई	NN	TEMP	O	O	O	O
-भारी	JJ	TEMP	O	O	O	O
-चौराहे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-वर्दी	NN	TEMP	O	O	B-MISC	O
-पहने	VM	TEMP	O	O	I-MISC	O
-बाइक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-होमगार्ड	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रुकने	VM	TEMP	B-MISC	O	B-MISC	O
-का	PSP	TEMP	O	O	O	O
-इशारा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुधवार
+सायं
+सात
+बजे
+बस्ती
+जनपद
+के
+रूधौली
+थाना
+क्षेत्र
+के
+ग्राम
+महुआर
+निवासी
+बाबूराम
+और
+दिनेश
+कुमार
+डुमरियागंज
+से
+सामान
+खरीद
+कर
+बाइक
+से
+घर
+लौट
+रहे
+थे
+कि
+कोरई
+भारी
+चौराहे
+के
+पास
+उन्हें
+वर्दी
+पहने
+बाइक
+पर
+सवार
+एक
+होमगार्ड
+ने
+रुकने
+का
+इशारा
+किया
+.
 
-बाइक	NN	TEMP	O	O	O	O
-रोकते	VM	TEMP	B-MISC	O	B-MISC	O
-ही	RP	TEMP	O	O	O	O
-कागजात	NN	TEMP	O	O	O	O
-चेक	NN	TEMP	O	O	B-MISC	OCC
-करने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बहाने	PSP:?	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-परेशान	JJ	TEMP	O	O	B-MISC	OCC
-करने	VM	TEMP	O	O	I-MISC	O
-लगा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाइक
+रोकते
+ही
+कागजात
+चेक
+करने
+के
+बहाने
+उन्हें
+परेशान
+करने
+लगा
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बाबूराम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-वर्दी	NN	TEMP	O	O	O	O
-पहने	VM	TEMP	O	O	O	O
-होमगार्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नेम	XC	TEMP	O	O	O	O
-प्लेट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लिखा	VM	TEMP	O	O	B-MISC	O
-नाम	XC	TEMP	O	O	O	O
-पढ़कर	NNP	TEMP	O	O	O	O
-परेशान	JJ	TEMP	B-MISC	O	O	OCC
-न	NEG	TEMP	I-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-जोर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-होमगार्ड	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-आग	NN	TEMP	O	O	B-MISC	OCC
-बबूला	JJ	TEMP	O	O	I-MISC	O
-होकर	VM	TEMP	O	O	I-MISC	O
-पुलिसिया	JJ	TEMP	O	O	O	O
-धौंस	NN	TEMP	O	O	B-MISC	O
-जमाते	VM	TEMP	O	O	I-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-गाली	XC	TEMP	O	O	O	O
-गलौज	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-दोनों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दहशत	NN	TEMP	B-MISC	O	O	O
-पैदा	JJ	TEMP	I-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिनेश	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जेब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बाबूराम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जेब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-धमकाते	VM	TEMP	B-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-भगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+पर
+बाबूराम
+ने
+वर्दी
+पहने
+होमगार्ड
+के
+नेम
+प्लेट
+पर
+लिखा
+नाम
+पढ़कर
+परेशान
+न
+करने
+पर
+जोर
+दिया
+तो
+होमगार्ड
+और
+आग
+बबूला
+होकर
+पुलिसिया
+धौंस
+जमाते
+हुए
+गाली
+गलौज
+करते
+हुए
+दोनों
+में
+दहशत
+पैदा
+कर
+दिनेश
+की
+जेब
+से
+पांच
+हजार
+व
+बाबूराम
+की
+जेब
+से
+दो
+हजार
+रुपये
+निकाल
+कर
+धमकाते
+हुए
+भगा
+दिया
+.
 
-दोनों	NN	TEMP	O	O	O	O
-डरे	VM	TEMP	O	O	O	O
-सहमें	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	B-MISC	O	B-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-चले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दोनों
+डरे
+सहमें
+रात
+होने
+के
+कारण
+घर
+चले
+गए
+.
 
-गुरुवार	NN	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	O	O	O
-नेम	XC	TEMP	O	O	O	O
-प्लेट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लिखे	VM	TEMP	O	O	O	OCC
-नाम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-डुमरियागंज	NN	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-देते	VM	TEMP	I-MISC	O	I-MISC	O
-न्याय	NN	TEMP	O	O	O	O
-संगत	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गुरुवार
+सुबह
+नेम
+प्लेट
+पर
+लिखे
+नाम
+के
+आधार
+पर
+डुमरियागंज
+थाने
+पर
+तहरीर
+देते
+न्याय
+संगत
+कार्रवाई
+की
+मांग
+की
+.
 
-प्रभारी	JJ	TEMP	O	O	O	O
-थानाध्यक्ष	NN	TEMP	O	O	O	O
-अभिषेक	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-STAT	O
-है	VM	TEMP	I-MISC	O	I-STAT	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-मालूम	JJ	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-होमगार्ड	NN	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	OCC
-बल्कि	CC	TEMP	O	O	O	O
-डायल	NN	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+प्रभारी
+थानाध्यक्ष
+अभिषेक
+¨
+सह
+ने
+बताया
+मामले
+की
+जानकारी
+है
+पता
+करने
+पर
+मालूम
+हुआ
+कि
+उक्त
+होमगार्ड
+थाने
+पर
+नहीं
+बल्कि
+डायल
+100
+नंबर
+पर
+तैनात
+है
+.
 
-तहरीर	NN	TEMP	B-MISC	O	O	OCC
-मिली	VM	TEMP	I-MISC	O	B-STAT	O
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-प्रक्रिया	NN	TEMP	I-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तहरीर
+मिली
+है
+प्रक्रिया
+के
+तहत
+कार्रवाई
+की
+जा
+रही
+है
+.

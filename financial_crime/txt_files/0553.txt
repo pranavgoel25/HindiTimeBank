@@ -1,110 +1,110 @@
-चतरा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पिस्तौल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-80	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-लूटेचतरा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिमरिया	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एसबीआइ	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ग्राहक	JJ	TEMP	O	O	O	O
-सेवा	NN	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संचालक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दिनदहाडे	NN	TEMP	O	O	O	O
-लूट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खबर	NN	TEMP	O	O	B-STAT	OCC
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+चतरा
+में
+पिस्तौल
+के
+बल
+पर
+80
+हजार
+लूटेचतरा
+के
+सिमरिया
+में
+एसबीआइ
+के
+ग्राहक
+सेवा
+केंद्र
+के
+संचालक
+से
+दिनदहाडे
+लूट
+की
+खबर
+है
+.
 
-दो	QC	TEMP	O	O	O	O
-अपराधियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-पिस्तौल	NN	TEMP	O	O	B-MISC	O
-दिखाकर	VM	TEMP	O	O	I-MISC	O
-80	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-लूट	NN	TEMP	O	O	B-MISC	OCC
-लिए	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दो
+अपराधियों
+ने
+यहां
+पिस्तौल
+दिखाकर
+80
+हजार
+लूट
+लिए
+.
 
-लूट	XC	TEMP	O	O	O	O
-नावाडीह-रोल	NNP	TEMP	O	O	O	O
-पथ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ललकीमाटी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	B-MISC	O
-हुई	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लूट
+नावाडीह-रोल
+पथ
+में
+ललकीमाटी
+के
+पास
+हुई
+.
 
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-संचालक	NN	TEMP	O	O	O	O
-रितेश	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सिमरिया	NN	TEMP	B-MISC	O	O	OCC
-जा	VM	TEMP	I-MISC	O	B-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जानकारी
+के
+अनुसार
+,
+संचालक
+रितेश
+अपने
+घर
+से
+सिमरिया
+जा
+रहा
+था
+.
 
-रास्ते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-लूटपाट	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-पुलिस	NN	TEMP	O	O	O	O
-लुटेरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धरपकड़	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-छापेमारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रास्ते
+में
+उनसे
+लूटपाट
+हुई
+पुलिस
+लुटेरों
+की
+धरपकड़
+के
+लिए
+छापेमारी
+कर
+रही
+है
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ेंः	XC	TEMP	O	O	O	O
-आबरू	NN	TEMP	O	O	O	O
-बचाने	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-हैवानों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भिड़ी	XC	TEMP	O	O	O	O
-नाबालिग	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-तालाब	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कूदीयह	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ेंः	XC	TEMP	O	O	O	O
-मशीन	NN	TEMP	O	O	O	O
-बेकाम	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-पहुंचने	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूर्व	NST	TEMP	O	O	O	O
-चीन	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	O	O
+यह
+भी
+पढ़ेंः
+आबरू
+बचाने
+के
+लिए
+हैवानों
+से
+भिड़ी
+नाबालिग
+,
+तालाब
+में
+कूदीयह
+भी
+पढ़ेंः
+मशीन
+बेकाम
+,
+भारत
+पहुंचने
+से
+पूर्व
+चीन
+में
+11
+करोड़
+भुगतान

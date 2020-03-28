@@ -1,164 +1,164 @@
-﻿सिवान	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿सिवान
+.
 
-दरौली	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-भृगुनंद	XC	TEMP	O	O	O	O
-राय	NNP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पीछे	NST	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दरवाजे	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घुस	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-गहने	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-नकद	JJ	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नामजद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दरौली
+निवासी
+भृगुनंद
+राय
+द्वारा
+शुक्रवार
+को
+थाने
+में
+आवेदन
+दे
+घर
+में
+पीछे
+के
+दरवाजे
+से
+घुस
+कर
+गहने
+एवं
+नकद
+रुपये
+चोरी
+करने
+के
+मामले
+में
+चार
+लोगों
+को
+नामजद
+किया
+गया
+है
+.
 
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-दरौली	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-भृगुनंद	XC	TEMP	O	O	O	O
-राय	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-बीएसएफ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-स्वैच्छिक	JJ	TEMP	O	O	O	O
-सेवानिवृत्ति	NN	TEMP	B-MISC	O	O	O
-लेने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-झारखंड	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	O	O	B-MISC	OCC
-करते	VM	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जानकारी
+के
+अनुसार
+दरौली
+निवासी
+भृगुनंद
+राय
+के
+पुत्र
+बीएसएफ
+से
+स्वैच्छिक
+सेवानिवृत्ति
+लेने
+के
+बाद
+झारखंड
+में
+नौकरी
+करते
+हैं
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सपरिवार	JJ	TEMP	O	O	B-MISC	O
-रहते	VM	TEMP	O	O	I-MISC	O
-भी	RP	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+वहीं
+पर
+सपरिवार
+रहते
+भी
+हैं
+.
 
-गत	JJ	TEMP	O	B	O	O
-27	QC	TEMP	O	I	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-आकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-मुख्य	JJ	TEMP	O	O	O	O
-गेट	NN	TEMP	O	O	O	O
-खोलकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-अंदर	NST	TEMP	B-MISC	O	O	O
-घुसे	VM	TEMP	I-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-पीछे	NST	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दरवाजा	NN	TEMP	O	O	O	O
-खुला	VM	TEMP	O	O	B-MISC	OCC
-हुआ	VAUX	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-बक्से	NN	TEMP	O	O	B-MISC	O
-टूटे	VM	TEMP	O	O	I-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गत
+27
+अक्टूबर
+को
+जब
+उन्होंने
+घर
+आकर
+मुख्य
+गेट
+खोलकर
+अंदर
+घुसे
+तो
+पीछे
+का
+दरवाजा
+खुला
+हुआ
+था
+और
+घर
+के
+सभी
+बक्से
+टूटे
+हुए
+थे
+.
 
-टूटे	RDP	TEMP	O	O	O	O
-बक्सों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-16	QC	TEMP	O	O	O	O
-थान	NN	TEMP	O	O	O	O
-सोने	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जेवर	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-गायब	JJ	TEMP	O	O	B-STAT	DECL
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+टूटे
+बक्सों
+से
+16
+थान
+सोने
+के
+जेवर
+एवं
+18
+हजार
+रुपये
+गायब
+थे
+.
 
-भृगुनंद	XC	TEMP	O	O	O	O
-राय	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अशोक	JJ	TEMP	O	O	O	O
-राय	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अंगद	NN	TEMP	O	O	O	O
-राय	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बादशाह	NN	TEMP	O	O	O	O
-राय	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-प्रकाश	XC	TEMP	O	O	O	O
-राय	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चोरी	NN	TEMP	O	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-प्राथमिकी	JJ	TEMP	B-MISC	O	O	O
-दर्ज	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भृगुनंद
+राय
+ने
+गांव
+के
+अशोक
+राय
+,
+अंगद
+राय
+,
+बादशाह
+राय
+एवं
+प्रकाश
+राय
+पर
+चोरी
+का
+आरोप
+लगाते
+हुए
+प्राथमिकी
+दर्ज
+कराई
+है
+.
 
-थानाध्यक्ष	JJ	TEMP	O	O	O	O
-शाहिद	XC	TEMP	O	O	O	O
-हुसैन	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्राथमिकी	JJ	TEMP	B-MISC	O	O	O
-दर्ज	NN	TEMP	I-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-छानबीन	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थानाध्यक्ष
+शाहिद
+हुसैन
+ने
+बताया
+कि
+चोरी
+की
+प्राथमिकी
+दर्ज
+कर
+मामले
+की
+छानबीन
+की
+जा
+रही
+है
+.

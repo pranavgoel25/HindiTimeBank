@@ -1,233 +1,233 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हमीरपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-स्थानीय	JJ	TEMP	O	O	O	O
-डिपो	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बस	XC	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सुमेरपुर	JJ	TEMP	O	O	O	O
-कस्बे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बस	NN	TEMP	O	O	B-MISC	O
-रुकवा	VM	TEMP	B-MISC	O	I-MISC	O
-लूटपाट	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+हमीरपुर
+:
+स्थानीय
+डिपो
+के
+बस
+चालक
+ने
+सुमेरपुर
+कस्बे
+में
+दो
+लोगों
+पर
+बस
+रुकवा
+लूटपाट
+करने
+का
+आरोप
+लगाया
+है
+.
 
-उसने	PRP	TEMP	O	O	O	O
-सहायक	JJ	TEMP	O	O	O	O
-क्षेत्रीय	JJ	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्रार्थना	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	B-MISC	O
-देकर	VM	TEMP	B-MISC	O	I-MISC	OCC
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-व	CC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-दिलाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+सहायक
+क्षेत्रीय
+प्रबंधक
+को
+प्रार्थना
+पत्र
+देकर
+मामले
+की
+रिपोर्ट
+दर्ज
+कराने
+व
+रुपये
+वापस
+दिलाने
+के
+साथ
+ही
+कार्रवाई
+की
+मांग
+की
+है
+.
 
-बस	RP	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-हरेंद्र	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-वरिष्ठ	JJ	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-प्रभारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-सहायक	JJ	TEMP	O	O	O	O
-क्षेत्रीय	JJ	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दिए	VM	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-स्थानीय	JJ	TEMP	O	O	O	O
-डिपो	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बस	NN	TEMP	O	O	B-MISC	O
-लेकर	VM	TEMP	B-MISC	O	I-MISC	O
-नौ	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-अतर्रा	JJ	TEMP	O	O	B-MISC	OCC
-गया	VAUX	TEMP	B-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बस
+चालक
+हरेंद्र
+¨
+सह
+ने
+वरिष्ठ
+केंद्र
+प्रभारी
+के
+द्वारा
+सहायक
+क्षेत्रीय
+प्रबंधक
+को
+दिए
+पत्र
+में
+बताया
+कि
+वह
+स्थानीय
+डिपो
+की
+बस
+लेकर
+नौ
+अक्टूबर
+को
+अतर्रा
+गया
+था
+.
 
-उसी	DEM	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-वह	PRP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-वापस	JJ	TEMP	O	O	B-MISC	OCC
-लौट	VM	TEMP	B-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसी
+दिन
+वह
+जब
+वापस
+लौट
+रहा
+था
+.
 
-तभी	PRP	TEMP	O	O	O	O
-सुमेरपुर	NNP	TEMP	O	O	O	O
-बस	RP	TEMP	O	O	O	O
-स्टाप	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-गुलबदन	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-नंद	XC	TEMP	O	O	O	O
-किशोर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-बाइक	JJ	TEMP	O	O	O	O
-बस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	O
-लगा	VM	TEMP	B-MISC	O	O	O
-बस	NN	TEMP	O	O	O	O
-रुकवा	VM	TEMP	B-MISC	O	B-MISC	OCC
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तभी
+सुमेरपुर
+बस
+स्टाप
+के
+पास
+दो
+बाइक
+सवार
+गुलबदन
+¨
+सह
+व
+नंद
+किशोर
+ने
+अपनी
+बाइक
+बस
+के
+सामने
+लगा
+बस
+रुकवा
+ली
+.
 
-बस	RP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रुकते	VM	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-तमंचा	NN	TEMP	B-MISC	O	O	O
-अडा	JJ	TEMP	I-MISC	O	O	O
-जेब	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बीमा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-किस्त	NN	TEMP	B-MISC	O	O	O
-जमा	JJ	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	O	O
-पांच	XC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बस
+के
+रुकते
+ही
+उक्त
+लोगों
+ने
+उसके
+तमंचा
+अडा
+जेब
+में
+बीमा
+की
+किस्त
+जमा
+करने
+को
+रखे
+पांच
+हजार
+रुपये
+निकाल
+लिए
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-जैसे	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	O	O	B-MISC	OCC
-यूपी	NN	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	I-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-भाग	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बताया
+कि
+उसने
+जैसे
+ही
+घटना
+की
+सूचना
+यूपी
+100
+पुलिस
+को
+दी
+तो
+उक्त
+लोगों
+ने
+उसका
+मोबाइल
+भी
+छीन
+लिया
+और
+भाग
+गए
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-उक्त	JJ	TEMP	O	O	O	O
-दोनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पकड	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	O	O
-करा	VM	TEMP	I-MISC	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-दिला	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+मौके
+पर
+पहुंच
+उक्त
+दोनों
+को
+पकड
+लिया
+और
+मोबाइल
+बरामद
+करा
+वापस
+दिला
+दिया
+.
 
-उसने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-पांच	XC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नही	NEG	TEMP	I-MISC	O	I-MISC	O
-दिलाए	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+बताया
+कि
+पुलिस
+ने
+उसे
+पांच
+हजार
+रुपये
+वापस
+नही
+दिलाए
+हैं
+.
 
-न	NEG	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	B-MISC	OCC
-लिखी	VM	TEMP	B-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+न
+ही
+उसकी
+रिपोर्ट
+लिखी
+गई
+है
+.
 
-उसने	PRP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करा	VM	TEMP	I-MISC	O	I-MISC	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+मामले
+की
+रिपोर्ट
+दर्ज
+करा
+कार्रवाई
+की
+मांग
+की
+है
+.

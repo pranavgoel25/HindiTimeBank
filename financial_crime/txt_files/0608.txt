@@ -1,437 +1,437 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हाथरस	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-दाऊजी	NNP	TEMP	O	O	O	O
-मेले	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दंगल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तीसरे	QO	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-भी	RP	TEMP	O	O	O	O
-कुश्तियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धूम	NN	TEMP	O	O	B-MISC	OCC
-रही	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+हाथरस
+:
+दाऊजी
+मेले
+के
+दंगल
+में
+तीसरे
+दिन
+भी
+कुश्तियों
+की
+धूम
+रही
+.
 
-अंतिम	JJ	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	O	O	O	O
-81	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-हरिओम	JJ	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-तिरवाया	VM	TEMP	O	O	B-MISC	O
-व	CC	TEMP	O	O	O	O
-योगेश	XC	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-झज्जर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मध्य	NST	TEMP	O	O	B-MISC	O
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अंतिम
+कुश्ती
+81
+हजार
+रुपये
+की
+हरिओम
+पहलवान
+तिरवाया
+व
+योगेश
+पहलवान
+झज्जर
+के
+मध्य
+हुई
+.
 
-बीस	QC	TEMP	O	O	O	O
-मिनट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-योगेश	XC	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चोटिल	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-जनता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बराबरी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-शोर	NN	TEMP	B-MISC	O	B-MISC	OCC
-मचाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीस
+मिनट
+की
+इस
+कुश्ती
+में
+योगेश
+पहलवान
+के
+चोटिल
+हो
+जाने
+पर
+जनता
+ने
+बराबरी
+का
+शोर
+मचाया
+.
 
-दंगल	NN	TEMP	O	O	O	O
-संरक्षक	JJ	TEMP	O	O	O	O
-आशीष	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-बराबरी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एलान	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दोनों	JJ	TEMP	O	O	O	O
-पहलवानों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सम्मान	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दंगल
+संरक्षक
+आशीष
+शर्मा
+के
+अनुसार
+कुश्ती
+में
+बराबरी
+का
+एलान
+कर
+दोनों
+पहलवानों
+का
+सम्मान
+किया
+गया
+.
 
-51	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	B-MISC	O	O	O
-कालू	JJ	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-अखाडा	NN	TEMP	O	O	O	O
-बद्री	VM	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-रवि	XC	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-रोहतक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बराबरी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-छूटी	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+51
+हजार
+रुपये
+की
+कुश्ती
+कालू
+पहलवान
+अखाडा
+बद्री
+(
+दिल्ली
+)
+व
+रवि
+पहलवान
+रोहतक
+के
+बीच
+भी
+बराबरी
+पर
+ही
+छूटी
+.
 
-दाऊजी	NN	TEMP	O	O	O	O
-मेले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अखिल	JJ	TEMP	O	O	O	O
-भारतीय	JJ	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	O	O	O	O
-दंगल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तीसरे	QO	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-31	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-इनाम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	B-MISC	O	O	O
-रंगा	VM	TEMP	I-MISC	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-अखाडा	NN	TEMP	O	O	O	O
-गोपाल	XC	TEMP	O	O	O	O
-आश्रम	XC	TEMP	O	O	O	O
-मथुरा	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-अमित	JJ	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-रोहतक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+दाऊजी
+मेले
+में
+अखिल
+भारतीय
+कुश्ती
+दंगल
+के
+तीसरे
+दिन
+31
+हजार
+रुपये
+इनाम
+की
+कुश्ती
+रंगा
+पहलवान
+अखाडा
+गोपाल
+आश्रम
+मथुरा
+और
+अमित
+पहलवान
+रोहतक
+के
+बीच
+हुई
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-अमित	JJ	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रंगा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पछाडा	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इसमें
+अमित
+पहलवान
+ने
+रंगा
+को
+पछाडा
+.
 
-इससे	PRP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-छलिया	XC	TEMP	O	O	O	O
-पहलवान	XC	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-भोलू	JJ	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-दनकौर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मध्य	NST	TEMP	O	O	O	O
-51	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-संघ	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पूर्व	NST	TEMP	O	O	O	O
-प्रांतीय	JJ	TEMP	O	O	O	O
-प्रचारक	NN	TEMP	O	O	O	O
-दिनेश	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-हाथ	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलवाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+पहले
+छलिया
+पहलवान
+दिल्ली
+और
+भोलू
+पहलवान
+दनकौर
+के
+मध्य
+51
+सौ
+रुपये
+की
+कुश्ती
+में
+संघ
+के
+पूर्व
+प्रांतीय
+प्रचारक
+दिनेश
+ने
+हाथ
+मिलवाया
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-छलिया	XC	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-विजयश्री	NN	TEMP	O	O	B-MISC	OCC
-हासिल	NN	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+छलिया
+पहलवान
+ने
+विजयश्री
+हासिल
+की
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP	TEMP	O	O	O	O
-51	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	B-MISC	O	O	O
-धीरज	XC	TEMP	O	O	O	O
-पहलवान	XC	TEMP	O	O	O	O
-रेलवे	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-सोनू	XC	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+51
+सौ
+रुपये
+की
+कुश्ती
+धीरज
+पहलवान
+रेलवे
+और
+सोनू
+पहलवान
+के
+बीच
+हुई
+.
 
-इस	DEM	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	B-MISC	O	O	O
-का	PSP	TEMP	O	O	O	O
-हाथ	NN	TEMP	O	O	O	O
-राष्ट्रीय	JJ	TEMP	O	O	O	O
-स्वयं	PRP	TEMP	O	O	O	O
-सेवक	XC	TEMP	O	O	O	O
-संघ	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रमुख	JJ	TEMP	O	O	O	O
-विनोद	XC	TEMP	O	O	O	O
-चौहान	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मिलवाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इस
+कुश्ती
+का
+हाथ
+राष्ट्रीय
+स्वयं
+सेवक
+संघ
+के
+प्रमुख
+विनोद
+चौहान
+ने
+मिलवाया
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-धीरज	XC	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जीत	JJ	TEMP	O	O	B-MISC	O
-हासिल	NN	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+धीरज
+पहलवान
+ने
+जीत
+हासिल
+की
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-कुश्तियां	NN	TEMP	O	O	B-MISC	OCC
-हुई	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+भी
+कई
+अन्य
+कुश्तियां
+हुई
+.
 
-पहलवानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नकद	JJ	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-प्रशस्ति	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-देकर	VM	TEMP	O	O	O	O
-सम्मानित	JJ	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पहलवानों
+को
+नकद
+धनराशि
+व
+प्रशस्ति
+पत्र
+देकर
+सम्मानित
+किया
+गया
+.
 
-कुश्ती	NN	TEMP	O	O	O	O
-दंगल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	O	O	B-MISC	OCC
-मुख्य	JJ	TEMP	O	O	O	O
-अतिथि	NN	TEMP	O	O	O	O
-राष्ट्रीय	JJ	TEMP	O	O	O	O
-स्वयं	PRP	TEMP	O	O	O	O
-सेवक	XC	TEMP	O	O	O	O
-संघ	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पूर्व	NST	TEMP	O	O	O	O
-प्रांतीय	JJ	TEMP	O	O	O	O
-प्रचारक	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पंजाब	XC	TEMP	O	O	O	O
-प्रांत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भाजपा	NN	TEMP	O	O	O	O
-संगठन	NN	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-दिनेश	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-संयोजक	NN	TEMP	O	O	O	O
-हरी	JJ	TEMP	O	O	O	O
-शंकर	XC	TEMP	O	O	O	O
-राना	NNP	TEMP	O	O	O	O
-भूरा	JJ	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-संरक्षक	JJ	TEMP	O	O	O	O
-आशीष	NN	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ब्लाक	NN	TEMP	O	O	O	O
-प्रमुख	JJ	TEMP	O	O	O	O
-अमर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गौरव	XC	TEMP	O	O	O	O
-आर्य	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-संजय	XC	TEMP	O	O	O	O
-सक्सेना	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रामवीर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-भैयाजी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ललित	JJ	TEMP	O	O	O	O
-शर्मा	NN	TEMP	O	O	O	O
-विमल	JJ	TEMP	O	O	O	O
-प्रधान	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ब्रज	XC	TEMP	O	O	O	O
-गौरव	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उपाधि	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सम्मानित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुश्ती
+दंगल
+में
+पहुंचे
+मुख्य
+अतिथि
+राष्ट्रीय
+स्वयं
+सेवक
+संघ
+के
+पूर्व
+प्रांतीय
+प्रचारक
+व
+पंजाब
+प्रांत
+के
+भाजपा
+संगठन
+मंत्री
+दिनेश
+को
+संयोजक
+हरी
+शंकर
+राना
+भूरा
+पहलवान
+व
+संरक्षक
+आशीष
+शर्मा
+,
+ब्लाक
+प्रमुख
+अमर
+¨
+सह
+पांडेय
+,
+गौरव
+आर्य
+,
+संजय
+सक्सेना
+,
+रामवीर
+¨
+सह
+भैयाजी
+,
+ललित
+शर्मा
+विमल
+प्रधान
+ने
+ब्रज
+गौरव
+की
+उपाधि
+से
+सम्मानित
+किया
+.
 
-वही	DEM	TEMP	O	O	O	O
-संघ	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-प्रचारक	NN	TEMP	O	O	O	O
-उमेश	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-स्वागत	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वही
+संघ
+के
+जिला
+प्रचारक
+उमेश
+का
+भी
+स्वागत
+किया
+गया
+.
 
-दैनिक	JJ	TEMP	O	O	O	O
-जागरण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-कृष्ण	XC	TEMP	O	O	O	O
-बिहारी	NNP	TEMP	O	O	O	O
-शर्मा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-पहलवानों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हाथ	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलवाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दैनिक
+जागरण
+के
+जिला
+प्रभारी
+कृष्ण
+बिहारी
+शर्मा
+ने
+भी
+कई
+पहलवानों
+का
+हाथ
+मिलवाया
+.
 
-दंगल	XC	TEMP	O	O	O	O
-कमेटी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-स्वागत	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दंगल
+कमेटी
+ने
+उनका
+भी
+स्वागत
+किया
+.
 
-दंगल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विमल	JJ	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विपुल	JJ	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सघानिया	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विवेक	XC	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अनुज	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-संजय	XC	TEMP	O	O	O	O
-सक्सेना	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अतुल	XC	TEMP	O	O	O	O
-आंधीवाल	NNP	TEMP	O	O	O	O
-एडवोकेट	XC	TEMP	O	O	O	O
-स्पीकर	NNP	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-रेफरी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दायित्व	NN	TEMP	O	O	O	O
-मुकेश	JJ	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-दाऊजी	NN	TEMP	O	O	O	O
-उस्ताद	NN	TEMP	O	O	O	O
-संभाल	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दंगल
+में
+विमल
+प्रधान
+,
+विपुल
+¨
+सघानिया
+,
+विवेक
+गुप्ता
+,
+अनुज
+चौधरी
+,
+संजय
+सक्सेना
+,
+अतुल
+आंधीवाल
+एडवोकेट
+स्पीकर
+तो
+रेफरी
+का
+दायित्व
+मुकेश
+पहलवान
+व
+दाऊजी
+उस्ताद
+संभाल
+रहे
+हैं
+.
 
-इस	DEM	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अनुज	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-सह	QC	TEMP	O	O	O	O
-संयोजक	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मोहन	XC	TEMP	O	O	O	O
-पंडित	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-वासुदेव	XC	TEMP	O	O	O	O
-माहौर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बंशी	NN	TEMP	O	O	O	O
-पंडित	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मनोज	XC	TEMP	O	O	O	O
-आर्य	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राजीव	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कैलाश	XC	TEMP	O	O	O	O
-कूलवाल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कप्तान	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-ठेनुआ	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-धीरज	XC	TEMP	O	O	O	O
-जैन	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मुवीन	NN	TEMP	O	O	O	O
-खांन	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जितेंद्र	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-डा	VM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+इस
+मौके
+पर
+अनुज
+चौधरी
+सह
+संयोजक
+,
+मोहन
+पंडित
+,
+वासुदेव
+माहौर
+,
+बंशी
+पंडित
+,
+मनोज
+आर्य
+,
+राजीव
+चौधरी
+,
+कैलाश
+कूलवाल
+,
+कप्तान
+¨
+सह
+ठेनुआ
+,
+धीरज
+जैन
+,
+मुवीन
+खांन
+,
+जितेंद्र
+शर्मा
+,
+डा
+.
 
-राजेश	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	B-MISC	O	B-STAT	DEC
-थे	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+राजेश
+¨
+सह
+आदि
+मौजूद
+थे
+.

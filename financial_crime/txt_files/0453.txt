@@ -1,375 +1,375 @@
-ओखला	JJ	TEMP	O	O	O	O
-इलाके	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निर्मम	JJ	TEMP	O	O	O	O
-हत्या	NN	TEMP	O	O	O	O
-दिल	NN	TEMP	B-MISC	O	O	O
-दहला	NN	TEMP	I-MISC	O	O	O
-देने	VM	TEMP	I-MISC	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	O	O	B-STAT	OCC
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+ओखला
+इलाके
+में
+छह
+वर्ष
+के
+बच्चे
+की
+निर्मम
+हत्या
+दिल
+दहला
+देने
+वाली
+घटना
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-वारदात	NN	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-दुखद	JJ	TEMP	O	O	O	O
-पहलू	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-MISC	O
-कि	CC	TEMP	O	O	O	O
-हत्या	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-वाला	PSP	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-पड़ोसी	XC	TEMP	B-MISC	O	B-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-मात्र	RB	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+वारदात
+का
+सबसे
+दुखद
+पहलू
+यह
+है
+कि
+हत्या
+करने
+वाला
+उसका
+पड़ोसी
+था
+और
+उसने
+मात्र
+20
+हजार
+रुपये
+के
+लिए
+बच्चे
+की
+जान
+ले
+ली
+.
 
-राजधानी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-पहली	QC	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+राजधानी
+में
+इस
+तरह
+की
+यह
+पहली
+घटना
+नहीं
+है
+.
 
-बच्चों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-अक्सर	RB	TEMP	O	O	O	O
-अपराध	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-घटनाएं	NN	TEMP	O	O	B-MISC	OCC
-होती	VM	TEMP	B-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बच्चों
+के
+साथ
+अक्सर
+अपराध
+की
+घटनाएं
+होती
+हैं
+.
 
-अपहरण	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दुष्कर्म	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-हत्या	NN	TEMP	O	O	O	O
-जैसे	CC	TEMP	O	O	O	O
-जघन्य	JJ	TEMP	O	O	O	O
-अपराध	NN	TEMP	B-MISC	O	O	O
-करने	VM	TEMP	I-MISC	O	O	O
-वाला	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-रिश्तेदार	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पड़ोसी	XC	TEMP	O	O	O	O
-या	XC	TEMP	O	O	O	O
-जान-पहचान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-होता	VM	TEMP	B-MISC	O	B-STAT	OCC
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+अपहरण
+,
+दुष्कर्म
+और
+उनकी
+हत्या
+जैसे
+जघन्य
+अपराध
+करने
+वाला
+कोई
+रिश्तेदार
+,
+पड़ोसी
+या
+जान-पहचान
+का
+व्यक्ति
+होता
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-घटनाएं	NN	TEMP	O	O	B-MISC	O
-गिरते	VM	TEMP	B-MISC	O	I-MISC	O
-सामाजिक	JJ	TEMP	O	O	O	O
-मूल्यों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-इशारा	NN	TEMP	O	O	B-MISC	OCC
-करती	VM	TEMP	B-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+तरह
+की
+घटनाएं
+गिरते
+सामाजिक
+मूल्यों
+की
+ओर
+भी
+इशारा
+करती
+हैं
+.
 
-लोग	NN	TEMP	O	O	O	O
-किस	WQ	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपनों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-विश्वास	NN	TEMP	B-MISC	O	O	OCC
-तोड़	NNP	TEMP	I-MISC	O	B-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लोग
+किस
+तरह
+से
+अपनों
+का
+विश्वास
+तोड़
+रहे
+हैं
+.
 
-आम	JJ	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-विश्वास	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-पाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-रिश्तेदार	NN	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-जान-पहचान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दुश्मन	NN	TEMP	B-MISC	O	B-MISC	OCC
-बन	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आम
+तौर
+पर
+लोग
+यह
+विश्वास
+नहीं
+कर
+पाते
+हैं
+कि
+उनका
+कोई
+रिश्तेदार
+या
+जान-पहचान
+का
+व्यक्ति
+उनके
+बच्चे
+का
+दुश्मन
+बन
+जाएगा
+.
 
-इसलिए	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-अतिरिक्त	JJ	TEMP	O	O	O	O
-सावधानी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-बरतते	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-इसका	PRP	TEMP	O	O	O	O
-खामियाजा	JJ	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भुगतना	VM	TEMP	O	O	B-MISC	OCC
-पड़ता	NNP	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसलिए
+वह
+अतिरिक्त
+सावधानी
+भी
+नहीं
+बरतते
+हैं
+और
+इसका
+खामियाजा
+बच्चों
+को
+भुगतना
+पड़ता
+है
+.
 
-इसलिए	CC	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-जरूरी	JJ	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	O
-किसी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लापरवाही	NN	TEMP	B-MISC	O	O	O
-न	NEG	TEMP	I-MISC	O	B-MISC	OCC
-बरती	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसलिए
+यह
+जरूरी
+है
+कि
+बच्चों
+को
+लेकर
+किसी
+भी
+तरह
+की
+लापरवाही
+न
+बरती
+जाए
+.
 
-कोई	PRP	TEMP	O	O	O	O
-कितना	QF	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नजदीकी	JJ	TEMP	O	O	O	O
-क्यों	WQ	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आंख	NN	TEMP	B-MISC	O	O	O
-मूंदकर	VM	TEMP	I-MISC	O	O	O
-विश्वास	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाना	VAUX	TEMP	I-MISC	O	I-MISC	O
-चाहिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोई
+कितना
+भी
+नजदीकी
+क्यों
+न
+हो
+,
+उस
+पर
+आंख
+मूंदकर
+विश्वास
+नहीं
+किया
+जाना
+चाहिए
+.
 
-बच्चे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-कैसा	WQ	TEMP	O	O	O	O
-व्यवहार	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-,	SYM	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नजर	NN	TEMP	B-MISC	O	O	O
-रखना	VM	TEMP	I-MISC	O	O	O
-जरूरी	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+बच्चे
+के
+साथ
+उसका
+कैसा
+व्यवहार
+है
+,
+इस
+पर
+नजर
+रखना
+जरूरी
+है
+.
 
-यदि	CC	TEMP	O	O	O	O
-आसपास	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-अपराधी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नशेड़ी	JJ	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-संदिग्ध	JJ	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-रह	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-विशेष	JJ	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सतर्क	NN	TEMP	O	O	B-MISC	OCC
-रहना	VM	TEMP	O	O	I-MISC	O
-चाहिए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यदि
+आसपास
+में
+कोई
+अपराधी
+,
+नशेड़ी
+या
+संदिग्ध
+व्यक्ति
+रह
+रहा
+हो
+,
+तो
+विशेष
+रूप
+से
+सतर्क
+रहना
+चाहिए
+.
 
-बच्चे	NN	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निकलकर	VM	TEMP	B-MISC	O	O	OCC
-कहां	WQ	TEMP	O	O	O	O
-खेलते	VM	TEMP	B-MISC	O	B-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	B-MISC	O	O	O
-खेलने	VM	TEMP	I-MISC	O	B-MISC	OCC
-वाले	PSP	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-कौन	WQ	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-,	SYM	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-बातों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-ख्याल	NN	TEMP	B-MISC	O	O	O
-रखना	VM	TEMP	I-MISC	O	B-STAT	OCC
-जरूरी	JJ	TEMP	O	O	I-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+बच्चे
+घर
+से
+निकलकर
+कहां
+खेलते
+हैं
+,
+उनके
+साथ
+खेलने
+वाले
+बच्चे
+कौन
+हैं
+,
+इन
+बातों
+का
+भी
+ख्याल
+रखना
+जरूरी
+है
+.
 
-सुनसान	JJ	TEMP	O	O	O	O
-जगह	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खेलने	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-रोकना	VM	TEMP	B-MISC	O	B-MISC	OCC
-चाहिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुनसान
+जगह
+पर
+बच्चों
+को
+खेलने
+जाने
+से
+रोकना
+चाहिए
+.
 
-बच्चों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सुरक्षा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-पुलिस-प्रशासन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-ठोस	XC	TEMP	O	O	O	O
-कदम	NN	TEMP	B-MISC	O	O	OCC
-उठाने	VM	TEMP	I-MISC	O	O	O
-चाहिए	VAUX	TEMP	I-MISC	O	O	O
-,	SYM	TEMP	O	O	O	O
-क्योंकि	CC	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-अपराधियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आसान	JJ	TEMP	O	O	O	O
-शिकार	NN	TEMP	B-MISC	O	B-MISC	OCC
-होते	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बच्चों
+की
+सुरक्षा
+को
+लेकर
+पुलिस-प्रशासन
+को
+भी
+ठोस
+कदम
+उठाने
+चाहिए
+,
+क्योंकि
+बच्चे
+अपराधियों
+के
+आसान
+शिकार
+होते
+हैं
+.
 
-फिरौती	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अगवा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-घटनाएं	NN	TEMP	O	O	O	O
-अक्सर	RB	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	B-MISC	OCC
-आती	VM	TEMP	B-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-ओखला	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जिस	DEM	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-हत्या	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-उसे	PRP	TEMP	O	O	O	O
-फिरौती	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-अगवा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिरौती
+के
+लिए
+बच्चों
+को
+अगवा
+करने
+की
+घटनाएं
+अक्सर
+सामने
+आती
+हैं
+,
+ओखला
+में
+भी
+जिस
+बच्चे
+की
+हत्या
+की
+गई
+उसे
+फिरौती
+के
+लिए
+ही
+अगवा
+किया
+गया
+था
+.
 
-इसी	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-घटनाएं	NN	TEMP	B-MISC	O	I-MISC	O
-भी	RP	TEMP	O	O	O	O
-आम	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-चुकी	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+तरह
+से
+बच्चों
+की
+चोरी
+की
+घटनाएं
+भी
+आम
+हो
+चुकी
+हैं
+.
 
-इसलिए	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-अपराधों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अंकुश	NN	TEMP	O	O	B-MISC	O
-लगाना	VM	TEMP	B-MISC	O	I-MISC	OCC
-होगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसलिए
+पुलिस
+को
+इन
+अपराधों
+पर
+अंकुश
+लगाना
+होगा
+.
 
-बच्चों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सुरक्षा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जागरूक	JJ	TEMP	B-MISC	O	B-MISC	OCC
-रहने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-जरूरत	NN	TEMP	B-MISC	O	B-STAT	DECL
-है	VM	TEMP	I-MISC	O	I-STAT	O
+बच्चों
+की
+सुरक्षा
+को
+लेकर
+समाज
+को
+भी
+जागरूक
+रहने
+की
+जरूरत
+है

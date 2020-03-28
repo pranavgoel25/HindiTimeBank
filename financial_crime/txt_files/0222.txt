@@ -1,279 +1,279 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-फर्रुखाबाद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ट्रे	NN	TEMP	O	O	O	OCC
-¨	JJ	TEMP	O	O	O	O
-नग	NN	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संचालकों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बिजनेस	NN	TEMP	O	O	O	O
-प्लान	NN	TEMP	O	O	B-MISC	O
-सिखाने	VM	TEMP	O	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-झांसा	NN	TEMP	B-MISC	O	B-MISC	O
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-रुपये	NN	TEMP	O	O	O	O
-ठगने	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-बंधक	JJ	TEMP	B-MISC	O	O	O
-बनाकर	VM	TEMP	I-MISC	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+फर्रुखाबाद
+:
+युवक
+ने
+ट्रे
+¨
+नग
+सेंटर
+के
+संचालकों
+पर
+बिजनेस
+प्लान
+सिखाने
+का
+झांसा
+देकर
+रुपये
+ठगने
+और
+बंधक
+बनाकर
+मोबाइल
+छीन
+लेने
+का
+आरोप
+लगाया
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ट्रे	NN	TEMP	O	O	O	OCC
-¨	JJ	TEMP	O	O	O	O
-नग	NN	TEMP	O	O	O	O
-सेंटर	XC	TEMP	O	O	O	O
-संचालक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+ने
+ट्रे
+¨
+नग
+सेंटर
+संचालक
+के
+खिलाफ
+पुलिस
+को
+तहरीर
+दी
+है
+.
 
-जनपद	NN	TEMP	O	O	O	OCC
-एटा	VM	TEMP	O	O	O	O
-थाना	VAUX	TEMP	O	O	O	O
-रजौर	CC	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-वृंदावन	XC	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-संतोष	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-जाटव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-राहुल	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रार्थनापत्र	NN	TEMP	O	O	B-MISC	IAC
-देकर	VM	TEMP	O	O	I-MISC	O
-आपबीती	NN	TEMP	O	O	B-MISC	OCC
-सुनाई	VM	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जनपद
+एटा
+थाना
+रजौर
+क्षेत्र
+के
+गांव
+वृंदावन
+निवासी
+संतोष
+कुमार
+जाटव
+के
+पुत्र
+राहुल
+कुमार
+ने
+शहर
+कोतवाली
+में
+प्रार्थनापत्र
+देकर
+आपबीती
+सुनाई
+.
 
-राहुल	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-पांचालघाट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-एनजीओ	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-बेरोजगार	JJ	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बिजनेस	XC	TEMP	O	O	O	O
-प्लान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ट्रे	NN	TEMP	B-MISC	O	B-MISC	OCC
-¨	JJ	TEMP	I-MISC	O	I-MISC	O
-नग	NN	TEMP	I-MISC	O	I-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ठगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+राहुल
+कुमार
+ने
+बताया
+कि
+पांचालघाट
+पर
+एक
+एनजीओ
+द्वारा
+बेरोजगार
+युवकों
+को
+बिजनेस
+प्लान
+की
+ट्रे
+¨
+नग
+देने
+के
+नाम
+पर
+ठगा
+जा
+रहा
+है
+.
 
-उसने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+कहा
+कि
+कुछ
+युवकों
+ने
+उसे
+भी
+इसके
+बारे
+में
+बताया
+था
+.
 
-वह	PRP	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गया	VAUX	TEMP	B-MISC	O	B-MISC	O
-तो	CC	TEMP	O	O	O	O
-26	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-10,500	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करा	VM	TEMP	I-MISC	O	I-MISC	O
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वह
+सेंटर
+पर
+गया
+तो
+26
+अक्टूबर
+को
+उससे
+10,500
+रुपये
+जमा
+करा
+लिए
+गए
+.
 
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-विजनेस	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जोडे	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+बाद
+में
+उससे
+कहा
+गया
+कि
+विजनेस
+करने
+के
+लिए
+अपने
+साथ
+कुछ
+युवकों
+को
+जोडे
+.
 
-उन	DEM	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-रुपये	NN	TEMP	B-MISC	O	O	O
-जमा	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-होंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन
+युवकों
+से
+भी
+पहले
+रुपये
+जमा
+कराने
+होंगे
+.
 
-कई	QF	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-रुकने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-विजनेस	NN	TEMP	O	O	O	O
-प्लान	NN	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-समझ	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	I-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कई
+दिन
+रुकने
+के
+बाद
+विजनेस
+प्लान
+उसकी
+समझ
+में
+नहीं
+आया
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-जाने	VM	TEMP	B-MISC	O	B-MISC	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-तो	CC	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-बंधक	JJ	TEMP	B-MISC	O	B-MISC	O
-बना	VM	TEMP	I-MISC	O	I-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+पर
+उसने
+घर
+जाने
+को
+कहा
+तो
+उसे
+बंधक
+बना
+लिया
+गया
+.
 
-कई	QF	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-निकलने	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-धमकाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कई
+दिन
+तक
+बाहर
+नहीं
+निकलने
+दिया
+और
+धमकाया
+गया
+.
 
-घर	NN	TEMP	O	O	O	O
-जाने	VM	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	O	O	O	O
-जिद	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घर
+जाने
+की
+जिद
+करने
+पर
+उसका
+मोबाइल
+छीन
+लिया
+.
 
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	OCC
-से	PSP	TEMP	I-MISC	O	I-MISC	O
-मारने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शिकायत
+करने
+पर
+जान
+से
+मारने
+की
+धमकी
+दी
+गई
+.
 
-एसएसआई	RDP	TEMP	O	O	O	O
-श्रीकांत	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	B-MISC	O
-मिली	VM	TEMP	B-MISC	O	I-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एसएसआई
+श्रीकांत
+यादव
+ने
+बताया
+कि
+शिकायत
+मिली
+है
+.
 
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-करायी	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जांच
+करायी
+जाएगी
+.
 
-विदित	JJ	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-पांचालघाट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-सालों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-गोरखधंधा	NN	TEMP	B-MISC	O	O	O
-चल	VM	TEMP	I-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विदित
+है
+कि
+पांचालघाट
+पर
+कई
+सालों
+से
+यह
+गोरखधंधा
+चल
+रहा
+है
+.
 
-पहले	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दर्जनों	JJ	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-अंकुश	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	OCC
-लग	VM	TEMP	I-MISC	O	I-MISC	O
-पाया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पहले
+भी
+दर्जनों
+युवक
+इसकी
+शिकायत
+कर
+चुके
+हैं
+,
+लेकिन
+अभी
+तक
+अंकुश
+नहीं
+लग
+पाया
+.

@@ -1,371 +1,371 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हाथरस	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-समायोजन	NN	TEMP	O	O	O	O
-रद	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-शिक्षामित्र	NN	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	O
-पाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-संघर्ष	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सहयोगी
+,
+हाथरस
+:
+समायोजन
+रद
+हो
+जाने
+के
+बाद
+शिक्षामित्र
+अपनी
+नौकरी
+वापस
+पाने
+के
+लिए
+संघर्ष
+कर
+रहे
+हैं
+.
 
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-शिक्षामित्रों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मानदेय	NN	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निर्धारित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-मगर	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-इससे	PRP	TEMP	O	O	O	O
-संतुष्ट	JJ	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-हैं	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सरकार
+ने
+अब
+शिक्षामित्रों
+का
+मानदेय
+दस
+हजार
+रुपये
+निर्धारित
+कर
+दिया
+है
+,
+मगर
+वे
+इससे
+संतुष्ट
+नहीं
+हैं
+.
 
-बुधवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-शिक्षामित्रों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-प्रदेश	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-नारेबाजी	NN	TEMP	O	O	B-MISC	OCC
-करते	VM	TEMP	O	O	I-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-बीएसए	JJ	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-पहुंच	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुधवार
+को
+शिक्षामित्रों
+ने
+प्रदेश
+सरकार
+के
+खिलाफ
+नारेबाजी
+करते
+हुए
+बीएसए
+कार्यालय
+पहुंच
+गए
+.
 
-जहां	PRP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-बीएसए	JJ	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ताला	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाकर	VM	TEMP	I-MISC	O	I-MISC	O
-विरोध	NN	TEMP	B-MISC	O	O	O
-प्रदर्शन	NN	TEMP	I-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-कैबिनेट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पारित	JJ	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रतियां	NN	TEMP	O	O	B-MISC	OCC
-जलाईं	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जहां
+उन्होंने
+बीएसए
+कार्यालय
+पर
+ताला
+लगाकर
+विरोध
+प्रदर्शन
+किया
+और
+कैबिनेट
+में
+पारित
+प्रस्ताव
+की
+प्रतियां
+जलाईं
+.
 
-सपा	JJ	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-समायोजन	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-बाद	NST	TEMP	O	O	O	O
-शिक्षामित्रों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-शिक्षकों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समान	PSP:?	TEMP	O	O	O	O
-वेतन	NN	TEMP	O	O	O	OCC
-मिलता	VM	TEMP	B-MISC	O	B-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-रहन-सहन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बदलाव	NN	TEMP	B-MISC	O	B-MISC	OCC
-आ	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सपा
+सरकार
+में
+समायोजन
+हो
+जाने
+बाद
+शिक्षामित्रों
+को
+शिक्षकों
+के
+समान
+वेतन
+मिलता
+था
+,
+जिसके
+बाद
+उनके
+रहन-सहन
+में
+बदलाव
+आ
+गया
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-विगत	JJ	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-सुप्रीम	JJ	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इनका	PRP	TEMP	O	O	O	O
-समायोजन	NN	TEMP	O	O	B-MISC	OCC
-रद	VM	TEMP	B-MISC	O	I-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-टीईटी	NN	TEMP	B-MISC	O	O	O
-पास	NST	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बाध्यता	NN	TEMP	O	O	O	O
-अनिवार्य	JJ	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-दी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+विगत
+माह
+सुप्रीम
+कोर्ट
+ने
+इनका
+समायोजन
+रद
+कर
+टीईटी
+पास
+करने
+की
+बाध्यता
+अनिवार्य
+कर
+दी
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-वक्त	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	O	O	B-MISC	O
-दिए	VM	TEMP	O	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+इसके
+लिए
+दो
+साल
+का
+वक्त
+भी
+देने
+के
+आदेश
+दिए
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-शिक्षामित्र	NN	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-आवाज	NN	TEMP	O	O	O	O
-उठा	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+से
+शिक्षामित्र
+लगातार
+अपनी
+आवाज
+उठा
+रहे
+हैं
+.
 
-प्रदेश	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शिक्षामित्रों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मानदेय	NN	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-दिया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-मगर	CC	TEMP	O	O	O	O
-शिक्षामित्र	NN	TEMP	O	O	O	O
-इससे	PRP	TEMP	O	O	O	O
-संतुष्ट	JJ	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-हैं	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रदेश
+सरकार
+ने
+शिक्षामित्रों
+का
+मानदेय
+अब
+दस
+हजार
+रुपये
+कर
+दिया
+है
+,
+मगर
+शिक्षामित्र
+इससे
+संतुष्ट
+नहीं
+हैं
+.
 
-उनमें	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-उबाल	NN	TEMP	O	O	B-MISC	OCC
-दिख	VM	TEMP	B-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनमें
+एक
+बार
+फिर
+उबाल
+दिख
+रहा
+है
+.
 
-बुधवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-प्रदेश	NN	TEMP	O	O	O	O
-संगठन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आह्वान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-पालिका	XC	TEMP	O	O	O	O
-परिसर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिक्षामित्रों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बैठक	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुधवार
+को
+प्रदेश
+संगठन
+के
+आह्वान
+पर
+नगर
+पालिका
+परिसर
+में
+शिक्षामित्रों
+की
+बैठक
+हुई
+.
 
-प्रदेश	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वादाखिलाफी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरोध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आगामी	JJ	TEMP	O	O	O	O
-रणनीति	NN	TEMP	O	O	O	O
-तैयार	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-राजेंद्र	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-पचहरा	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-ब्रजेश	XC	TEMP	O	O	O	O
-वशिष्ठ	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अध्यक्षता	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बुलाई	VM	TEMP	O	O	B-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-आपातकालीन	JJ	TEMP	O	O	O	O
-बैठक	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-शिक्षामित्रों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जुलूस	NN	TEMP	O	O	B-MISC	OCC
-निकालते	VM	TEMP	O	O	I-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-सरकार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-नारेबाजी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-प्रदर्शन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रदेश
+सरकार
+के
+वादाखिलाफी
+के
+विरोध
+में
+आगामी
+रणनीति
+तैयार
+करने
+के
+लिए
+राजेंद्र
+¨
+सह
+पचहरा
+व
+ब्रजेश
+वशिष्ठ
+की
+अध्यक्षता
+में
+बुलाई
+गई
+आपातकालीन
+बैठक
+के
+बाद
+शिक्षामित्रों
+ने
+जुलूस
+निकालते
+हुए
+सरकार
+के
+खिलाफ
+नारेबाजी
+व
+प्रदर्शन
+किया
+.
 
-फिर	RB	TEMP	O	O	O	O
-बीएसए	JJ	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	O	O	B-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-जहां	PRP	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तालाबंदी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-काली	JJ	TEMP	O	O	O	O
-पंट्टी	NN	TEMP	O	O	O	O
-बांधकर	VM	TEMP	O	O	O	O
-विरोध	NN	TEMP	O	O	O	O
-प्रदर्शन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिर
+बीएसए
+कार्यालय
+पर
+पहुंचे
+,
+जहां
+कार्यालय
+में
+तालाबंदी
+करते
+हुए
+काली
+पंट्टी
+बांधकर
+विरोध
+प्रदर्शन
+किया
+.
 
-तालाबंदी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-अंदर	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बंद	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तालाबंदी
+हो
+जाने
+से
+कर्मचारी
+अंदर
+ही
+बंद
+हो
+गए
+.
 
-कुछ	QF	TEMP	O	B	O	O
-देर	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-शिक्षामित्रों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ताला	NN	TEMP	O	O	O	O
-खोल	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+देर
+बाद
+ही
+शिक्षामित्रों
+ने
+ताला
+खोल
+दिया
+.
 
-उसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बीएसए	JJ	TEMP	O	O	O	O
-रेखा	NN	TEMP	O	O	O	O
-सुमन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ज्ञापन	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+बाद
+बीएसए
+रेखा
+सुमन
+को
+ज्ञापन
+दिया
+.
 
-गुरुवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-शिक्षामित्र	NN	TEMP	O	O	O	O
-नगर	JJ	TEMP	O	O	O	O
-पालिका	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पार्क	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-धरना	XC	TEMP	O	O	O	O
-प्रदर्शन	NN	TEMP	B-MISC	O	O	O
-करके	VM	TEMP	I-MISC	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-आवाज	NN	TEMP	O	O	O	O
-बुलंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-वाले	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गुरुवार
+को
+भी
+शिक्षामित्र
+नगर
+पालिका
+के
+पार्क
+में
+धरना
+प्रदर्शन
+करके
+अपनी
+आवाज
+बुलंद
+करने
+वाले
+हैं
+.
 
-प्रदर्शन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मुख्य	JJ	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हरिओम	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गिरीश	XC	TEMP	O	O	O	O
-सेंगर	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मूलचंद	XC	TEMP	O	O	O	O
-माहौर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रमोद	XC	TEMP	O	O	O	O
-सेंगर	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विनय	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राज	XC	TEMP	O	O	O	O
-कमल	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ललित	JJ	TEMP	O	O	O	O
-बिहारी	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विजय	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विष्णु	XC	TEMP	O	O	O	O
-चौहान	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मूलचंद	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हरवीर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नरेंद्र	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-शामिल	JJ	TEMP	B-MISC	O	B-STAT	DEC
-थे	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+प्रदर्शन
+में
+मुख्य
+रूप
+से
+हरिओम
+चौधरी
+,
+गिरीश
+सेंगर
+,
+मूलचंद
+माहौर
+,
+प्रमोद
+सेंगर
+,
+विनय
+कुमार
+¨
+सह
+,
+राज
+कमल
+शर्मा
+,
+ललित
+बिहारी
+शर्मा
+,
+विजय
+कुमार
+,
+विष्णु
+चौहान
+,
+मूलचंद
+,
+हरवीर
+¨
+सह
+,
+नरेंद्र
+¨
+सह
+आदि
+शामिल
+थे
+.

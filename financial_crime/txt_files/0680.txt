@@ -1,290 +1,290 @@
 
-हसनपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-तीन	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पूर्व	NST	TEMP	O	O	O	O
-हैवतपुर	JJ	TEMP	O	O	O	O
-मार्ग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मोबाइल	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सेल्समैन	XC	TEMP	O	O	O	O
-कपिल	XC	TEMP	O	O	O	O
-सैनी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पचास	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-वारदात	NN	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-छोर	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-तलाश	VM	TEMP	I-MISC	O	I-MISC	O
-सकी	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बेखौफ	JJ	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-सेवानिवृत्त	JJ	TEMP	O	O	O	O
-नलकूप	NN	TEMP	O	O	O	O
-ऑपरेटर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दिनदहाडे	NN	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-लूट	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-खुली	JJ	TEMP	O	O	O	O
-चुनौती	NN	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हसनपुर
+:
+तीन
+दिन
+पूर्व
+हैवतपुर
+मार्ग
+पर
+मोबाइल
+कंपनी
+के
+सेल्समैन
+कपिल
+सैनी
+से
+पचास
+हजार
+से
+अधिक
+की
+लूट
+की
+वारदात
+का
+कोतवाली
+पुलिस
+अभी
+छोर
+भी
+नहीं
+तलाश
+सकी
+थी
+कि
+बेखौफ
+बदमाशों
+ने
+सोमवार
+को
+सेवानिवृत्त
+नलकूप
+ऑपरेटर
+से
+दिनदहाडे
+60
+हजार
+की
+नकदी
+लूट
+कर
+पुलिस
+को
+एक
+और
+खुली
+चुनौती
+दे
+दी
+.
 
-थाना	VM	TEMP	O	O	O	O
-सैदनगली	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-पंडकी	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-पुरुषोत्तम	JJ	TEMP	O	O	O	O
-सेवानिवृत	JJ	TEMP	O	O	O	O
-नलकूप	NN	TEMP	O	O	O	O
-ऑपरेटर	NN	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+थाना
+सैदनगली
+के
+गांव
+पंडकी
+निवासी
+पुरुषोत्तम
+सेवानिवृत
+नलकूप
+ऑपरेटर
+हैं
+.
 
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-गंगा	JJ	TEMP	O	O	O	O
-स्नान	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-यादवती	VM	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-यशपाल	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-हसनपुर	NNP	TEMP	O	O	O	O
-स्टेट	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+सोमवार
+को
+गंगा
+स्नान
+करने
+के
+बाद
+पत्नी
+यादवती
+व
+पुत्र
+यशपाल
+¨
+सह
+के
+साथ
+हसनपुर
+स्टेट
+बैंक
+पहुंचे
+.
 
-यहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-निकालकर	VM	TEMP	O	O	B-MISC	O
-स्पलेंडर	NN	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-लौट	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यहां
+से
+60
+हजार
+की
+नकदी
+निकालकर
+स्पलेंडर
+बाइक
+से
+अपने
+गांव
+लौट
+रहे
+थे
+.
 
-सम्भल	XC	TEMP	O	O	O	O
-हसनपुर	NNP	TEMP	O	O	O	O
-मार्ग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-जगराम	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समीप	NST	TEMP	O	O	O	O
-पीछे	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आए	VM	TEMP	O	O	B-MISC	OCC
-अपाचे	JJ	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-रोका	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भरा	JJ	TEMP	O	O	O	O
-थैला	NN	TEMP	O	O	O	O
-लूटकर	VM	TEMP	B-MISC	O	O	O
-उझारी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-फरार	NN	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सम्भल
+हसनपुर
+मार्ग
+पर
+पूर्व
+मंत्री
+जगराम
+¨
+सह
+वाले
+कार्यालय
+के
+समीप
+पीछे
+से
+आए
+अपाचे
+बाइक
+सवार
+दो
+युवकों
+ने
+उन्हें
+रोका
+और
+नकदी
+से
+भरा
+थैला
+लूटकर
+उझारी
+की
+तरफ
+फरार
+हो
+गए
+.
 
-लूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-शोर	NN	TEMP	B-MISC	O	B-MISC	OCC
-मचाते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-तीनों	QC	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-दूर	NST	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पीछा	NN	TEMP	O	O	B-MISC	OCC
-भी	RP	TEMP	O	O	I-MISC	O
-किया	VM	TEMP	B-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-अपाचे	NN	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रफ्तार	NN	TEMP	O	O	O	O
-तेज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-निकल	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लूट
+के
+बाद
+शोर
+मचाते
+हुए
+तीनों
+ने
+बाइक
+से
+काफी
+दूर
+तक
+बदमाशों
+का
+पीछा
+भी
+किया
+लेकिन
+अपाचे
+बाइक
+की
+रफ्तार
+तेज
+कर
+निकल
+गए
+.
 
-उनके	PRP	TEMP	O	O	O	O
-दिखाई	VM	TEMP	O	O	B-MISC	O
-पडना	VAUX	TEMP	O	O	I-MISC	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-थाना	VAUX	TEMP	I-MISC	O	O	O
-सैदनगली	NN	TEMP	B-MISC	O	B-MISC	O
-पहुंचा	VM	TEMP	I-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+उनके
+दिखाई
+पडना
+बंद
+होने
+पर
+पीडित
+पहले
+रिपोर्ट
+दर्ज
+कराने
+थाना
+सैदनगली
+पहुंचा
+.
 
-सैदनगली	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-हसनपुर	XC	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-बताकर	VM	TEMP	I-MISC	O	I-MISC	O
-कोतवाली	XC	TEMP	O	O	O	O
-हसनपुर	NNP	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सैदनगली
+पुलिस
+ने
+हसनपुर
+कोतवाली
+क्षेत्र
+की
+घटना
+बताकर
+कोतवाली
+हसनपुर
+भेज
+दिया
+.
 
-कोतवाली	NNP	TEMP	O	O	O	O
-पहुंचकर	VM	TEMP	B-MISC	O	B-MISC	O
-उसने	PRP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आपबीती	NN	TEMP	B-MISC	O	B-MISC	OCC
-सुनाई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोतवाली
+पहुंचकर
+उसने
+पुलिस
+को
+आपबीती
+सुनाई
+.
 
-दिनदहाडे़	NNP	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	O	OCC
-से	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हडकंप	NN	TEMP	B-MISC	O	B-MISC	OCC
-मच	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिनदहाडे़
+लूट
+की
+सूचना
+से
+पुलिस
+में
+हडकंप
+मच
+गया
+.
 
-सीओ	XC	TEMP	O	O	O	O
-मोनिका	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-इंस्पेक्टर	XC	TEMP	O	O	O	O
-एसके	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-स्थल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दौरा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सीओ
+मोनिका
+यादव
+व
+इंस्पेक्टर
+एसके
+¨
+सह
+ने
+घटना
+स्थल
+का
+दौरा
+किया
+.
 
-बैंक	NN	TEMP	O	O	O	O
-पहुंचकर	VM	TEMP	O	O	B-MISC	OCC
-सीसीटीवी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फुटेज	NN	TEMP	O	O	O	O
-चेक	NNP	TEMP	O	O	B-MISC	O
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+पहुंचकर
+सीसीटीवी
+की
+फुटेज
+चेक
+की
+.
 
-कोतवाल	NN	TEMP	O	O	O	O
-एसके	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	O
-वारदात	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-खोजबीन	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-जा	VAUX	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोतवाल
+एसके
+¨
+सह
+ने
+बताया
+वारदात
+की
+रिपोर्ट
+दर्ज
+कर
+खोजबीन
+की
+जा
+रही
+है
+.
 
-उधर	PRP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-लूटपाट	NN	TEMP	B-MISC	O	O	OCC
-की	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-वारदात	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-भयभीत	JJ	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उधर
+तीन
+दिन
+में
+लूटपाट
+की
+दो
+बडी
+वारदात
+होने
+से
+लोग
+भयभीत
+हैं
+.

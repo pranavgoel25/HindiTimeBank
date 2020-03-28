@@ -1,292 +1,292 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जमशेदपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सिदगोडा	XC	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-13	QC	TEMP	O	O	O	O
-वर्षीय	JJ	TEMP	O	O	O	O
-दुष्कर्म	NN	TEMP	O	O	O	O
-पीडिता	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अंतरिम	JJ	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-75	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+जमशेदपुर
+:
+सिदगोडा
+क्षेत्र
+की
+एक
+13
+वर्षीय
+दुष्कर्म
+पीडिता
+की
+मां
+को
+अंतरिम
+सहायता
+राशि
+75
+हजार
+रुपये
+उपलब्ध
+कराने
+का
+आदेश
+दिया
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-आदेश	NN	TEMP	O	O	O	O
-जमशेदपुर	NNP	TEMP	O	O	O	O
-व्यवहार	NN	TEMP	O	O	O	O
-न्यायालय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रथम	QO	TEMP	O	O	O	O
-अपर	XC	TEMP	O	O	O	O
-सत्र	XC	TEMP	O	O	O	O
-न्यायाधीश	XC	TEMP	O	O	O	O
-अशोक	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अदालत	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बुधवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-उपायुक्त	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+यह
+आदेश
+जमशेदपुर
+व्यवहार
+न्यायालय
+के
+प्रथम
+अपर
+सत्र
+न्यायाधीश
+अशोक
+कुमार
+की
+अदालत
+ने
+बुधवार
+को
+उपायुक्त
+को
+दिया
+.
 
-अधिवक्ता	NN	TEMP	O	O	O	O
-रंजनधारी	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-पीडिता	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-न्यायालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पोक्सो	XC	TEMP	O	O	O	O
-एक्ट	NN	TEMP	O	O	O	O
-212	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-71	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नियमावली	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-अंतरिम	JJ	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-अर्जी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अधिवक्ता
+रंजनधारी
+सिंह
+ने
+बताया
+कि
+पीडिता
+की
+मां
+की
+ओर
+से
+सोमवार
+को
+न्यायालय
+में
+पोक्सो
+एक्ट
+212
+के
+71
+की
+नियमावली
+के
+तहत
+अंतरिम
+सहायता
+राशि
+देने
+के
+लिए
+अर्जी
+दी
+गई
+थी
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सुनवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-न्यायालय	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-आदेश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+पर
+सुनवाई
+करते
+हुए
+न्यायालय
+ने
+यह
+आदेश
+दिया
+.
 
-पीडिता	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नही	NEG	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडिता
+को
+अब
+तक
+कोई
+मदद
+सरकार
+की
+ओर
+से
+नही
+दी
+गई
+है
+.
 
-तीन	QC	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाप	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-छात्रा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-किया	VM	TEMP	B-MISC	O	B-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-दुष्कर्म	NN	TEMP	I-MISC	O	O	O
-छात्रा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बाप	NN	TEMP	O	O	O	O
-उदय	NN	TEMP	O	O	O	O
-गागराई	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-डरा-धमकाकर	VM	TEMP	B-MISC	O	B-MISC	O
-दुष्कर्म	NN	TEMP	B-MISC	O	B-MISC	OCC
-करता	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तीन
+बच्चों
+के
+बाप
+ने
+छात्रा
+के
+साथ
+किया
+था
+दुष्कर्म
+छात्रा
+के
+साथ
+तीन
+बच्चों
+का
+बाप
+उदय
+गागराई
+ने
+डरा-धमकाकर
+दुष्कर्म
+करता
+था
+.
 
-छात्रा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	O
-हुई	VM	TEMP	I-MISC	O	I-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-माता-पिता	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-हत्या	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-देगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+छात्रा
+को
+आरोपी
+द्वारा
+धमकी
+दी
+जाती
+थी
+कि
+अगर
+किसी
+को
+इस
+बात
+की
+जानकारी
+हुई
+तो
+उसके
+माता-पिता
+की
+वह
+हत्या
+कर
+देगा
+.
 
-आरोपी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सहमी	JJ	TEMP	O	O	O	O
-छात्रा	NN	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-कहे	VM	TEMP	B-MISC	O	O	O
-बिना	NEG	TEMP	I-MISC	O	O	O
-जुल्म	NN	TEMP	B-MISC	O	O	O
-सहती	VM	TEMP	I-MISC	O	B-MISC	OCC
-रहती	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आरोपी
+की
+धमकी
+से
+सहमी
+छात्रा
+किसी
+को
+कुछ
+कहे
+बिना
+जुल्म
+सहती
+रहती
+थी
+.
 
-एक	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पेट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दर्द	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-चिकित्सक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	OCC
-लेकर	VM	TEMP	B-MISC	O	B-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+दिन
+पेट
+में
+दर्द
+हुआ
+तो
+उसकी
+मां
+ने
+उसे
+चिकित्सक
+के
+पास
+लेकर
+गई
+.
 
-चिकित्सक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-छात्रा	NN	TEMP	O	O	O	O
-चार	QC	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-गर्भवती	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+चिकित्सक
+ने
+बताया
+कि
+छात्रा
+चार
+माह
+की
+गर्भवती
+है
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-सितंबर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-2017	QC	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-सिदगोडा	NN	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+शिकायत
+30
+सितंबर
+,
+2017
+को
+सिदगोडा
+थाने
+में
+दर्ज
+कराई
+गई
+थी
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गिरफ्तार	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-जेल	NN	TEMP	B-MISC	O	O	O
-भेज	VM	TEMP	I-MISC	O	B-MISC	OCC
-चुकी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+आरोपी
+को
+गिरफ्तार
+कर
+जेल
+भेज
+चुकी
+है
+.
 
-गर्भवती	JJ	TEMP	O	O	O	O
-छात्रा	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-गर्भपात	NN	TEMP	O	O	O	O
-झारखंड	NNP	TEMP	O	O	O	O
-उच्च	JJ	TEMP	O	O	O	O
-न्यायालय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	B-MISC	O	O	O
-लेकर	VM	TEMP	I-MISC	O	O	O
-16	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-2017	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-रिम्स	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रांची	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कराया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गर्भवती
+छात्रा
+का
+गर्भपात
+झारखंड
+उच्च
+न्यायालय
+से
+आदेश
+लेकर
+16
+अक्टूबर
+2017
+को
+रिम्स
+,
+रांची
+में
+कराया
+गया
+था
+.
 
-पीडि़ता	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-स्कूल	NN	TEMP	O	O	O	O
-जाना	VM	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	B-MISC	O	I-MISC	O
-शुरू	NN	TEMP	I-MISC	O	O	O
-पीडिता	NN	TEMP	O	O	O	O
-भय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-स्कूल	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-जाती	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडि़ता
+ने
+स्कूल
+जाना
+किया
+शुरू
+पीडिता
+भय
+से
+स्कूल
+नहीं
+जाती
+थी
+.
 
-अब	PRP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-स्कूल	NN	TEMP	B-MISC	O	O	O
-जाना	VM	TEMP	I-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+उसने
+स्कूल
+जाना
+शुरू
+कर
+दिया
+है
+.

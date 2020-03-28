@@ -1,191 +1,191 @@
-﻿गोंडा	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सेवा	NN	TEMP	O	O	O	O
-प्रदाता	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-एंबुलेंस	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	O	O
-कर्मियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-तीन	QC	TEMP	O	I	O	O
-माह	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-मानदेय	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿गोंडा
+:
+स्वास्थ्य
+विभाग
+में
+सेवा
+प्रदाता
+व
+एंबुलेंस
+पर
+तैनात
+कर्मियों
+को
+पिछले
+तीन
+माह
+से
+मानदेय
+नहीं
+मिला
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-कर्मियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	O
-आर्थिक	JJ	TEMP	O	O	O	O
-संकट	NN	TEMP	O	O	O	O
-खडा	VM	TEMP	B-MISC	O	B-MISC	OCC
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+कर्मियों
+के
+सामने
+आर्थिक
+संकट
+खडा
+हो
+गया
+है
+.
 
-दीपपर्व	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कर्मियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जेब	NN	TEMP	O	O	O	O
-खाली	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+दीपपर्व
+के
+मौके
+पर
+भी
+कर्मियों
+की
+जेब
+खाली
+है
+.
 
-बावजूद	PSP:?	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-जिम्मेदार	JJ	TEMP	O	O	O	O
-ध्यान	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बावजूद
+इसके
+जिम्मेदार
+ध्यान
+नहीं
+दे
+रहे
+हैं
+.
 
-जिला	JJ	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-टीएंडएम	JJ	TEMP	O	O	O	O
-सेवा	NN	TEMP	O	O	O	O
-प्रदाता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-69	QC	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	B-STAT	DECL
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जिला
+अस्पताल
+में
+टीएंडएम
+सेवा
+प्रदाता
+के
+माध्यम
+से
+69
+कर्मचारी
+तैनात
+हैं
+.
 
-सेवा	XC	TEMP	O	O	O	O
-प्रदाता	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दफ्तर	NN	TEMP	O	O	O	O
-मुंबई	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+सेवा
+प्रदाता
+कंपनी
+का
+दफ्तर
+मुंबई
+में
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-गैर	JJ	TEMP	O	O	O	O
-जिलों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रहते	VM	TEMP	O	O	B-STAT	OCC
-हैं	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इस
+कंपनी
+के
+माध्यम
+से
+गैर
+जिलों
+के
+लोग
+यहां
+पर
+रहते
+हैं
+.
 
-इन	DEM	TEMP	O	O	O	O
-कर्मियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जुलाई	XC	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वेतन	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+कर्मियों
+को
+जुलाई
+माह
+से
+वेतन
+नहीं
+मिला
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	O
-आर्थिक	JJ	TEMP	O	O	O	O
-संकट	NN	TEMP	B-MISC	O	O	O
-उत्पन्न	JJ	TEMP	I-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+उनके
+सामने
+आर्थिक
+संकट
+उत्पन्न
+हो
+गया
+है
+.
 
-जिला	JJ	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-प्रशासन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कर्मियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-समस्याओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लिखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-लेकिन	CC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-ध्यान	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिला
+अस्पताल
+प्रशासन
+ने
+कर्मियों
+की
+समस्याओं
+को
+लेकर
+अधिकारियों
+को
+पत्र
+भी
+लिखा
+लेकिन
+कोई
+ध्यान
+नहीं
+दे
+रहा
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-67	QC	TEMP	O	O	O	O
-एंबुलेंस	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-250	QC	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	B-STAT	DECL
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इसके
+साथ
+ही
+जिले
+की
+67
+एंबुलेंस
+पर
+करीब
+250
+कर्मचारी
+तैनात
+हैं
+.
 
-इन	DEM	TEMP	O	O	O	O
-कर्मियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-पगार	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+कर्मियों
+को
+भी
+तीन
+माह
+से
+पगार
+नहीं
+मिली
+है
+.
 
-अपर	PRP	TEMP	O	O	O	O
-निदेशक	JJ	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-डॉ	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+अपर
+निदेशक
+स्वास्थ्य
+डॉ
+.
 
-सतीश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सतीश
+कुमार
+का
+कहना
+है
+कि
+मामले
+की
+जानकारी
+की
+जा
+रही
+है
+.

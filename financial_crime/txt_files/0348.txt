@@ -1,243 +1,243 @@
-﻿मुरादाबाद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-दहेज	NN	TEMP	O	O	O	O
-रूपी	JJ	TEMP	O	O	O	O
-दानव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	B-MISC	OCC
-जाने	VM	TEMP	O	O	I-MISC	O
-कितने	WQ	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-बरबाद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿मुरादाबाद
+:
+दहेज
+रूपी
+दानव
+ने
+न
+जाने
+कितने
+घर
+बरबाद
+कर
+दिए
+.
 
-कितने	WQ	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-तबाह	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कितने
+परिवार
+तबाह
+कर
+दिए
+.
 
-गुरुवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-सामने	NST	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गुरुवार
+को
+एक
+मामला
+सामने
+आया
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-दहेज	NN	TEMP	O	O	O	O
-लोभी	VM	TEMP	O	O	B-MISC	O
-ससुरालियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+दहेज
+लोभी
+ससुरालियों
+ने
+दो
+लाख
+रुपये
+और
+बाइक
+की
+मांग
+कर
+दी
+.
 
-मांग	NN	TEMP	O	O	O	OCC
-पूरी	JJ	TEMP	B-MISC	O	B-MISC	O
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मांग
+पूरी
+न
+होने
+पर
+युवक
+ने
+दूसरी
+शादी
+कर
+ली
+.
 
-युवती	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आठ	QC	TEMP	O	O	O	O
-ससुरालियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+युवती
+की
+तहरीर
+पर
+आठ
+ससुरालियों
+के
+खिलाफ
+रिपोर्ट
+दर्ज
+की
+गई
+.
 
-मामला	NN	TEMP	O	O	O	O
-छजलैट	XC	TEMP	O	O	O	O
-थानाक्षेत्र	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुस्तापुर	JJ	TEMP	O	O	O	O
-खन्डसाल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+मामला
+छजलैट
+थानाक्षेत्र
+के
+मुस्तापुर
+खन्डसाल
+का
+है
+.
 
-कामिल	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बेटी	JJ	TEMP	O	O	O	O
-उल्फत	NN	TEMP	O	O	O	O
-जहां	PRP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-पाकबडा	JJ	TEMP	O	O	O	O
-थानाक्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समाथल	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-मुहम्मद	JJ	TEMP	O	O	O	O
-रिफाकत	XC	TEMP	O	O	O	O
-हुसैन	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-की	VM	TEMP	B-MISC	O	B-MISC	OCC
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कामिल
+ने
+बेटी
+उल्फत
+जहां
+की
+शादी
+पाकबडा
+थानाक्षेत्र
+के
+समाथल
+निवासी
+मुहम्मद
+रिफाकत
+हुसैन
+से
+की
+थी
+.
 
-शादी	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-सब	PRP	TEMP	O	O	O	O
-ठीक	JJ	TEMP	O	O	B-MISC	OCC
-रहा	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शादी
+के
+कुछ
+दिन
+बाद
+तक
+तो
+सब
+ठीक
+रहा
+.
 
-उसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-रिफाकत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-उल्फत	NN	TEMP	O	O	O	O
-जहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मायके	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-भैंस	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बुलेट	NN	TEMP	O	O	O	O
-मोटर	JJ	TEMP	O	O	O	O
-साइकिल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-लगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+बाद
+रिफाकत
+के
+परिवार
+वाले
+उल्फत
+जहां
+से
+मायके
+से
+दो
+लाख
+रुपये
+,
+एक
+भैंस
+और
+एक
+बुलेट
+मोटर
+साइकिल
+की
+मांग
+करने
+लगे
+.
 
-बात	NN	TEMP	B-MISC	O	O	O
-न	NEG	TEMP	I-MISC	O	B-MISC	O
-मानने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उल्फत	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्रताडित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-लगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बात
+न
+मानने
+पर
+उल्फत
+को
+प्रताडित
+करने
+लगे
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	O	OCC
-पूरी	JJ	TEMP	B-MISC	O	B-MISC	O
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+ने
+पुलिस
+को
+बताया
+कि
+मांग
+पूरी
+न
+होने
+पर
+बेटी
+के
+पति
+ने
+दूसरी
+शादी
+कर
+ली
+.
 
-दूसरा	QO	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-कुंदरकी	NN	TEMP	O	O	O	O
-थानाक्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नूरुल्ला	JJ	TEMP	O	O	O	O
-मुहल्ले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+दूसरा
+मामला
+कुंदरकी
+थानाक्षेत्र
+के
+नूरुल्ला
+मुहल्ले
+की
+है
+.
 
-आसीन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आसीन
+की
+तहरीर
+पर
+रिपोर्ट
+दर्ज
+की
+गई
+.
 
-पीडिता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-आरोपी	JJ	TEMP	O	O	O	O
-करूला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लाल	JJ	TEMP	O	O	O	O
-नगरी	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+पीडिता
+ने
+बताया
+कि
+आरोपी
+करूला
+के
+लाल
+नगरी
+निवासी
+हैं
+.
 
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ससुराल	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-दहेज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नकद	JJ	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मांगते	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शादी
+के
+बाद
+से
+ससुराल
+वाले
+दहेज
+में
+नकद
+रुपये
+मांगते
+थे
+.
 
-मांग	NN	TEMP	O	O	O	OCC
-पूरी	JJ	TEMP	B-MISC	O	B-MISC	O
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-गाली	NN	TEMP	B-MISC	O	O	OCC
-गलौज	NN	TEMP	I-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-प्रताडि़त	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	O
-से	PSP	TEMP	I-MISC	O	I-MISC	O
-मारने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देते	VM	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मांग
+पूरी
+न
+होने
+पर
+गाली
+गलौज
+कर
+प्रताडि़त
+करते
+थे
+और
+जान
+से
+मारने
+की
+धमकी
+देते
+थे
+.

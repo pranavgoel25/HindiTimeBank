@@ -1,257 +1,257 @@
 
-अलीगढ़	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-इगलास	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गाव	NN	TEMP	O	O	O	O
-हीरा	NN	TEMP	O	O	O	O
-नगला	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-करोडोंकी	JJ	TEMP	O	O	O	O
-भूमि	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बैनामा	NN	TEMP	O	O	O	O
-मात्र	RB	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रु	NN	TEMP	B-MISC	O	O	O
-पये	VM	TEMP	I-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-बैनामा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करा	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अलीगढ़
+:
+इगलास
+के
+गाव
+हीरा
+नगला
+निवासी
+एक
+व्यक्ति
+से
+धोखाधडी
+कर
+करोडोंकी
+भूमि
+का
+बैनामा
+मात्र
+25
+हजार
+रु
+पये
+देकर
+बैनामा
+करा
+लिया
+.
 
-बाकी	JJ	TEMP	O	O	O	O
-रु	NN	TEMP	O	O	O	O
-पयों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-दर-दर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ठोकरें	NN	TEMP	B-MISC	O	B-MISC	O
-खा	VM	TEMP	I-MISC	O	I-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाकी
+रु
+पयों
+के
+लिए
+पीडित
+दर-दर
+की
+ठोकरें
+खा
+रहा
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एसएसपी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+में
+एसएसपी
+के
+आदेश
+पर
+चार
+लोगों
+के
+खिलाफ
+धोखाधडी
+की
+रिपोर्ट
+दर्ज
+की
+गई
+है
+.
 
-हीरा	NN	TEMP	O	O	O	O
-नगला	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-रामवीर	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-बाबूलाल	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-मौजा	XC	TEMP	O	O	O	O
-भरतपुर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खाता	VM	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	OCC
-202	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-खसरा	JJ	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-455	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रकवा	NN	TEMP	O	O	O	O
-0.670	QC	TEMP	O	O	O	O
-हेक्टेयर	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-खाता	NN	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-106	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-खसरा	JJ	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-454	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रकवा	NN	TEMP	O	O	O	O
-0.173	QC	TEMP	O	O	O	O
-कुल	QF	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-किता	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-/	SYM	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-भूमि	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+हीरा
+नगला
+निवासी
+रामवीर
+पुत्र
+बाबूलाल
+का
+आरोप
+है
+कि
+उसकी
+मौजा
+भरतपुर
+में
+खाता
+संख्या
+202
+,
+खसरा
+संख्या
+455
+,
+रकवा
+0.670
+हेक्टेयर
+व
+खाता
+संख्या
+106
+,
+खसरा
+संख्या
+454
+,
+रकवा
+0.173
+कुल
+दो
+किता
+का
+1
+/
+2
+भूमि
+है
+.
 
-जो	PRP	TEMP	O	O	O	O
-मथुरा	NNP	TEMP	O	O	O	O
-रोड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सहारे	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जो
+मथुरा
+रोड
+के
+सहारे
+स्थित
+है
+.
 
-उसका	PRP	TEMP	O	O	O	O
-मौसेरा	NN	TEMP	O	O	O	O
-भाई	NN	TEMP	O	O	O	O
-सत्यप्रकाश	XC	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-राधा	XC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-इगलास	NN	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	B-MISC	OCC
-आया	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसका
+मौसेरा
+भाई
+सत्यप्रकाश
+निवासी
+राधा
+नगर
+,
+इगलास
+उसके
+पास
+आया
+.
 
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-तुम्हारी	PRP	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-महंगे	JJ	TEMP	O	O	O	O
-दामों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खरीद	VM	TEMP	B-MISC	O	B-MISC	OCC
-लेगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कहा
+कि
+एक
+व्यक्ति
+तुम्हारी
+जमीन
+महंगे
+दामों
+के
+खरीद
+लेगा
+.
 
-बातों	NN	TEMP	O	O	O	O
-मे	PSP	TEMP	O	O	O	O
-फंसाकर	VM	TEMP	B-MISC	O	B-MISC	O
-एक	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-सत्तर	JJ	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सौदा	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बातों
+मे
+फंसाकर
+एक
+करोड
+सत्तर
+लाख
+में
+जमीन
+का
+सौदा
+कर
+लिया
+.
 
-सात	QC	TEMP	O	B	O	O
-जनवरी	NN	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-कहकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-जमीन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बैनामा	NN	TEMP	B-MISC	O	O	OCC
-करा	VM	TEMP	I-MISC	O	B-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-खाते	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ट्रांसफर	NN	TEMP	B-MISC	O	O	O
-करेंगे	VM	TEMP	I-MISC	O	B-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मात्र	RB	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-डाले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सात
+जनवरी
+को
+यह
+कहकर
+जमीन
+का
+बैनामा
+करा
+लिया
+कि
+पैसा
+खाते
+में
+ट्रांसफर
+करेंगे
+,
+लेकिन
+खाते
+में
+मात्र
+25
+हजार
+रुपये
+ही
+डाले
+गए
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-मौसेरे	JJ	TEMP	O	O	O	O
-भाई	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+मौसेरे
+भाई
+ने
+कोई
+पैसा
+नहीं
+दिया
+.
 
-आज	NN	TEMP	O	O	O	O
-कल	NN	TEMP	O	O	O	O
-कहकर	VM	TEMP	B-MISC	O	B-MISC	O
-टालने	VM	TEMP	B-MISC	O	I-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आज
+कल
+कहकर
+टालने
+लगा
+.
 
-इस	DEM	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-भुखमरी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कगार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+इस
+धोखाधडी
+से
+वह
+भुखमरी
+के
+कगार
+पर
+है
+.
 
-कोतवाल	NN	TEMP	O	O	O	O
-अरविंद	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-राठी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-एसएसपी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सत्यप्रकाश	NN	TEMP	O	O	O	O
-सहित	JJ	TEMP	O	O	O	O
-लेखक	NN	TEMP	O	O	O	O
-संतोष	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-अग्रवाल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गवाह	NN	TEMP	O	O	O	O
-राजीव	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-माती	JJ	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-गौंडा	JJ	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कृष्णमुरारी	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-बसई	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
+कोतवाल
+अरविंद
+कुमार
+राठी
+ने
+बताया
+कि
+एसएसपी
+के
+आदेश
+पर
+सत्यप्रकाश
+सहित
+लेखक
+संतोष
+कुमार
+अग्रवाल
+,
+गवाह
+राजीव
+कुमार
+निवासी
+माती
+थाना
+गौंडा
+व
+कृष्णमुरारी
+निवासी
+बसई
+के
+खिलाफ
+धोखाधडी
+की
+रिपोर्ट
+दर्ज
+की
+गई
+है

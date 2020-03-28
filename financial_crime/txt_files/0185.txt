@@ -1,302 +1,302 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
+﻿संवाद
+सहयोगी
 
-रादौर	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-पालिका	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-कस्बे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वार्ड	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ग्रांट	NN	TEMP	B-MISC	O	B-MISC	O
-मंजूर	JJ	TEMP	I-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रादौर
+:
+नगर
+पालिका
+द्वारा
+कस्बे
+के
+वार्ड
+नंबर
+1
+के
+विकास
+के
+लिए
+लगभग
+1
+करोड
+रुपये
+की
+ग्रांट
+मंजूर
+की
+है
+.
 
-जिसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-वार्ड	XC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-विधायक	JJ	TEMP	O	O	O	O
-श्यामसिंह	XC	TEMP	O	O	O	O
-राणा	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आभार	NN	TEMP	B-MISC	O	B-MISC	OCC
-जताया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसके
+लिए
+वार्ड
+नंबर
+एक
+के
+लोगों
+ने
+विधायक
+श्यामसिंह
+राणा
+का
+आभार
+जताया
+.
 
-लोगों	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-विधायक	JJ	TEMP	O	O	O	O
-श्याम	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-राणा	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्यक्रम	NN	TEMP	B-MISC	O	B-MISC	OCC
-आयोजित	JJ	TEMP	O	O	I-MISC	O
-कराकर	VM	TEMP	B-MISC	O	I-MISC	OCC
-उनका	PRP	TEMP	O	O	O	O
-अभिनंदन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लोगों
+द्वारा
+जल्द
+ही
+विधायक
+श्याम
+¨
+सह
+राणा
+का
+कार्यक्रम
+आयोजित
+कराकर
+उनका
+अभिनंदन
+किया
+जाएगा
+.
 
-नगरपालिका	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एमई	XC	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-धीमान	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-नपा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बकाना	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	B-STAT	O
-महेंद्र	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-डेरा	XC	TEMP	O	O	O	O
-कालोनी	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-गलियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बनवाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ग्रांट	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-मंजूर	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
+नगरपालिका
+के
+एमई
+विकास
+धीमान
+ने
+बताया
+कि
+नपा
+के
+बकाना
+रोड
+पर
+स्थित
+महेंद्र
+¨
+सह
+डेरा
+कालोनी
+की
+सभी
+चार
+गलियों
+को
+बनवाने
+के
+लिए
+सरकार
+ने
+लगभग
+40
+लाख
+रुपए
+की
+ग्रांट
+राशि
+मंजूर
+की
+है
 
-वहीं	PRP	TEMP	O	O	O	O
-वार्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बकाना	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पशु	XC	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-महेंद्र	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-डेरा	XC	TEMP	O	O	O	O
-कालोनी	NNP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-सवा	QF	TEMP	O	O	O	O
-किलोमीटर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सडक	JJ	TEMP	O	O	O	O
-मार्ग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-46	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लागत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लोहे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पोल	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-वाट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लाईट	NN	TEMP	O	O	B-MISC	OCC
-लगवाई	VM	TEMP	B-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
+वहीं
+वार्ड
+के
+बकाना
+रोड
+पर
+पशु
+अस्पताल
+से
+लेकर
+महेंद्र
+¨
+सह
+डेरा
+कालोनी
+तक
+सवा
+किलोमीटर
+के
+सडक
+मार्ग
+पर
+46
+लाख
+रुपए
+की
+लागत
+से
+लोहे
+के
+पोल
+व
+100
+वाट
+की
+लाईट
+लगवाई
+जाएगी
 
-जिससे	PRP	TEMP	O	O	O	O
-सडक	JJ	TEMP	O	O	O	O
-मार्ग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-रोशनी	NN	TEMP	B-MISC	O	B-MISC	OCC
-रहेगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिससे
+सडक
+मार्ग
+पर
+रात
+के
+समय
+भी
+रोशनी
+रहेगी
+.
 
-पशु	XC	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पीछे	NST	TEMP	O	O	O	O
-बनी	VM	TEMP	O	O	O	O
-कालोनी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्ट्रीट	XC	TEMP	O	O	O	O
-लाईट	NN	TEMP	B-MISC	O	O	O
-लगवाने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-मंजूर	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पशु
+अस्पताल
+के
+पीछे
+बनी
+कालोनी
+में
+स्ट्रीट
+लाईट
+लगवाने
+के
+लिए
+पांच
+लाख
+रुपए
+की
+राशि
+मंजूर
+की
+गई
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कालोनी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-गली	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्ट्रीट	XC	TEMP	O	O	O	O
-लाईट	NN	TEMP	O	O	O	O
-लगेगी	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इस
+राशि
+से
+कालोनी
+की
+हर
+गली
+में
+स्ट्रीट
+लाईट
+लगेगी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-जाट	JJ	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गली	NN	TEMP	O	O	O	O
-नं	VM	TEMP	O	O	O	O
-4	QC	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लाखों	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लागत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बनाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+साथ
+जाट
+नगर
+की
+गली
+नं
+4
+को
+लाखों
+रुपए
+की
+लागत
+से
+बनाया
+जाएगा
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-गलियों	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-स्ट्रीट	XC	TEMP	O	O	O	O
-लाइटों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-टेडर	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+सभी
+गलियों
+व
+स्ट्रीट
+लाइटों
+के
+टेडर
+हो
+चुके
+है
+.
 
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-वार्ड	NN	TEMP	O	O	O	O
-नं	VM	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विकासकार्य	NN	TEMP	O	O	O	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कराए	VM	TEMP	I-MISC	O	I-MISC	O
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जल्द
+ही
+वार्ड
+नं
+1
+में
+विकासकार्य
+शुरू
+कराए
+जाएंगे
+.
 
-वार्ड	XC	TEMP	O	O	O	O
-पार्षद	XC	TEMP	O	O	O	O
-जसवंत	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-वार्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-करोडों	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-मंजूर	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हार्दिक	JJ	TEMP	O	O	O	O
-आभार	NN	TEMP	B-MISC	O	O	O
-प्रकट	JJ	TEMP	I-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वार्ड
+पार्षद
+जसवंत
+¨
+सह
+ने
+वार्ड
+के
+लिए
+करोडों
+रुपए
+की
+राशि
+मंजूर
+किए
+जाने
+पर
+मुख्यमंत्री
+का
+हार्दिक
+आभार
+प्रकट
+किया
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-अवसर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-गंगाराम	JJ	TEMP	O	O	O	O
-पोटली	NN	TEMP	O	O	O	O
+इस
+अवसर
+पर
+निवासी
+गंगाराम
+पोटली
 
-धर्मेन्द्र	NNP	TEMP	O	O	O	O
-सैनी	VM	TEMP	O	O	O	O
+धर्मेन्द्र
+सैनी
 
-राजेश	XC	TEMP	O	O	O	O
-रोहिला	NN	TEMP	O	O	O	O
+राजेश
+रोहिला
 
-राकेश	XC	TEMP	O	O	O	O
-रोहिला	NN	TEMP	O	O	O	O
+राकेश
+रोहिला
 
-राजेश	XC	TEMP	O	O	O	O
-ढांडा	XC	TEMP	O	O	O	O
+राजेश
+ढांडा
 
-जस	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-वद्र	NN	TEMP	O	O	O	O
-¨	PSP	TEMP	O	O	O	O
-सह	QC	TEMP	O	O	O	O
-कुलदीप	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
+जस
+¨
+वद्र
+¨
+सह
+कुलदीप
+शर्मा
 
-देवी	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
+देवी
+¨
+सह
 
-मदनलाल	JJ	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
+मदनलाल
+ठेकेदार
 
-रेशम	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-उपस्थित	JJ	TEMP	O	O	B-STAT	DEC
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+रेशम
+¨
+सह
+आदि
+उपस्थित
+थे
+.

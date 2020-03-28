@@ -1,221 +1,221 @@
-﻿अमरोहा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-गृहस्वामी	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गैरमौजूदगी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मकान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ताले	NN	TEMP	O	O	O	OCC
-तोड	VM	TEMP	B-MISC	O	B-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-जेवरात	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿अमरोहा
+:
+गृहस्वामी
+की
+गैरमौजूदगी
+में
+चोरों
+ने
+मकान
+के
+ताले
+तोड
+कर
+दस
+हजार
+रुपये
+की
+नकदी
+व
+जेवरात
+समेत
+लगभग
+दो
+लाख
+रुपये
+का
+सामान
+चोरी
+कर
+लिया
+.
 
-घटना	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-रविवार	JJ	TEMP	O	B	O	O
-सुबह	NN	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+घटना
+की
+जानकारी
+रविवार
+सुबह
+को
+हुई
+.
 
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रिपोर्ट
+दर्ज
+कराने
+के
+लिए
+तहरीर
+दे
+दी
+गई
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-नगर	NN	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुहल्ला	JJ	TEMP	O	O	O	O
-कटरा	XC	TEMP	O	O	O	O
-बख्तावर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+यह
+घटना
+नगर
+कोतवाली
+के
+मुहल्ला
+कटरा
+बख्तावर
+की
+है
+.
 
-यहां	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सतीश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	B-STAT	OCC
-रहता	VM	TEMP	O	O	I-STAT	O
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+यहां
+पर
+सतीश
+कुमार
+का
+परिवार
+रहता
+है
+.
 
-मूल	JJ	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पाकबडा	JJ	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-गदौ़डा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-सतीश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-किराए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मकान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-रहते	VM	TEMP	O	O	B-STAT	OCC
-हैं	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+मूल
+रूप
+से
+पाकबडा
+थाना
+क्षेत्र
+के
+गांव
+¨
+गदौ़डा
+के
+रहने
+वाले
+सतीश
+कुमार
+यहां
+पर
+किराए
+के
+मकान
+में
+परिवार
+के
+साथ
+रहते
+हैं
+.
 
-बीती	NN	TEMP	O	O	O	O
-17	QC	TEMP	O	B	O	O
-अक्तूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-दीपावली	NN	TEMP	B-MISC	O	B-MISC	O
-मनाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-गए	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीती
+17
+अक्तूबर
+को
+वह
+परिवार
+को
+लेकर
+दीपावली
+मनाने
+के
+लिए
+गांव
+गए
+थे
+.
 
-लिहाजा	NN	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मकान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ताला	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लिहाजा
+यहां
+के
+मकान
+में
+ताला
+लगा
+था
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-मकान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ताले	VM	TEMP	O	O	B-MISC	O
-तोड	NN	TEMP	B-MISC	O	B-MISC	OCC
-लिए	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+किसी
+रात
+को
+चोरों
+ने
+उनके
+मकान
+के
+ताले
+तोड
+लिए
+.
 
-यहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चोर	NN	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सोनाी-चांदी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जेवरात	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कीमती	JJ	TEMP	O	O	O	O
-कपडे	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यहां
+से
+चोर
+दस
+हजार
+रुपये
+की
+नकदी
+,
+सोनाी-चांदी
+के
+जेवरात
+व
+कीमती
+कपडे
+समेत
+लगभग
+दो
+लाख
+रुपये
+का
+सामान
+चोरी
+कर
+ले
+गए
+.
 
-रविवार	NN	TEMP	O	B	O	O
-सुबह	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-सतीश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-लौटे	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रविवार
+सुबह
+को
+जब
+सतीश
+कुमार
+घर
+वापस
+लौटे
+तो
+घटना
+की
+जानकारी
+हुई
+.
 
-सतीश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-चोर	NN	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ले	VM	TEMP	B-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सतीश
+कुमार
+ने
+बताया
+कि
+चोर
+लगभग
+दो
+लाख
+रुपये
+का
+सामान
+चोरी
+कर
+ले
+गए
+हैं
+.
 
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घटना
+की
+रिपोर्ट
+दर्ज
+कराने
+के
+लिए
+तहरीर
+दे
+दी
+गई
+है
+.

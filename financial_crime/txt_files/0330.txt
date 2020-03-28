@@ -1,125 +1,125 @@
-﻿मोरना	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-ककरौली	NN	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जडवड	XC	TEMP	O	O	O	O
-कटिया	NNP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जंगल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हाइटेंशन	XC	TEMP	O	O	O	O
-विद्युत	XC	TEMP	O	O	O	O
-लाइन	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-तार	NN	TEMP	O	O	O	O
-टूटने	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-ज्ञानवीर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गन्ने	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खेत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आग	NN	TEMP	B-MISC	O	B-MISC	OCC
-लग	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿मोरना
+:
+ककरौली
+क्षेत्र
+के
+जडवड
+कटिया
+गांव
+के
+जंगल
+में
+हाइटेंशन
+विद्युत
+लाइन
+का
+तार
+टूटने
+से
+किसान
+ज्ञानवीर
+के
+गन्ने
+के
+खेत
+में
+आग
+लग
+गई
+.
 
-आग	NN	TEMP	O	O	B-MISC	O
-फैलने	VM	TEMP	O	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-महेंद्र	XC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-ब्रह्मपाल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-चपेट	NN	TEMP	B-MISC	O	B-MISC	O
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-आ	VM	TEMP	I-MISC	O	I-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आग
+फैलने
+से
+महेंद्र
+व
+ब्रह्मपाल
+की
+फसल
+चपेट
+में
+आ
+गई
+.
 
-सूचना	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सैकडों	QC	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ट्रैक्टर	NN	TEMP	O	O	O	O
-चलाकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-आग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-काबू	NN	TEMP	B-MISC	O	B-MISC	O
-पाया	VM	TEMP	I-MISC	O	I-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-तब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-बीघा	NN	TEMP	O	O	O	O
-गन्ना	NN	TEMP	O	O	O	O
-जल	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सूचना
+पर
+गांव
+से
+सैकडों
+लोग
+पहुंचे
+और
+फसल
+पर
+ट्रैक्टर
+चलाकर
+आग
+पर
+काबू
+पाया
+,
+लेकिन
+तब
+तक
+10
+बीघा
+गन्ना
+जल
+गया
+.
 
-जिला	JJ	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-सदस्य	JJ	TEMP	O	O	O	O
-नजर	NN	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-मेहर	NN	TEMP	O	O	O	O
-चंद	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-भाजपा	JJ	TEMP	O	O	O	O
-मंडल	NN	TEMP	O	O	O	O
-अध्यक्ष	NN	TEMP	O	O	O	O
-डा	VM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+जिला
+पंचायत
+सदस्य
+नजर
+¨
+सह
+,
+प्रधान
+मेहर
+चंद
+,
+भाजपा
+मंडल
+अध्यक्ष
+डा
+.
 
-दिनेश	XC	TEMP	O	O	O	O
-धीमान	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सुदेश	XC	TEMP	O	O	O	O
-पाल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सुंदर	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राहुल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-धर्मेद्र	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-महेंद्र	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बालिस्टर	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-हरेंद्र	JJ	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एसडीएम	XC	TEMP	O	O	O	O
-जानसठ	XC	TEMP	O	O	O	O
-श्याम	XC	TEMP	O	O	O	O
-अवध	XC	TEMP	O	O	O	O
-चौहान	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मुआवजा	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिलाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिनेश
+धीमान
+,
+सुदेश
+पाल
+,
+सुंदर
+,
+राहुल
+,
+धर्मेद्र
+,
+महेंद्र
+,
+बालिस्टर
+व
+हरेंद्र
+आदि
+ने
+एसडीएम
+जानसठ
+श्याम
+अवध
+चौहान
+से
+पीडित
+किसानों
+को
+फसल
+का
+मुआवजा
+दिलाने
+की
+मांग
+की
+है
+.

@@ -1,301 +1,301 @@
 
-अंबेडकरनगर	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सिगरेट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-महंगा	JJ	TEMP	O	O	O	O
-बेचने	VM	TEMP	O	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	IAC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-विवाद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दुकानदार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पिटाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अंबेडकरनगर
+:
+सिगरेट
+को
+एक
+रुपये
+महंगा
+बेचने
+को
+लेकर
+हुए
+विवाद
+में
+युवकों
+ने
+दुकानदार
+की
+पिटाई
+कर
+दी
+.
 
-जिसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-गुस्साए	VM	TEMP	O	O	O	O
-दुकानदार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लाइसेंसी	JJ	TEMP	O	O	O	O
-बंदूक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फायर	NN	TEMP	O	O	B-MISC	O
-झोंक	VM	TEMP	O	O	I-MISC	OCC
-दिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसके
+बाद
+गुस्साए
+दुकानदार
+ने
+लाइसेंसी
+बंदूक
+से
+फायर
+झोंक
+दिया
+.
 
-गोली	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-गंभीर	JJ	TEMP	O	O	O	O
-रुप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गोली
+लगने
+से
+युवक
+गंभीर
+रुप
+से
+घायल
+हो
+गया
+.
 
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंची	VM	TEMP	O	O	B-STAT	DES
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-घायल	JJ	TEMP	O	O	B-MISC	O
-हो	VM	TEMP	O	O	I-MISC	O
-जिला	JJ	TEMP	O	O	O	O
-चिकित्सालय	NN	TEMP	O	O	O	O
-भेज	VM	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हिरासत	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-लेकर	VM	TEMP	I-MISC	O	I-MISC	O
-बंदूक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मौके
+पर
+पहुंची
+पुलिस
+ने
+घायल
+हो
+जिला
+चिकित्सालय
+भेज
+आरोपी
+को
+हिरासत
+में
+लेकर
+बंदूक
+को
+बरामद
+कर
+लिया
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-कवायद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जुटी	VM	TEMP	B-MISC	O	B-STAT	OCC
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+मुकदमा
+दर्ज
+करने
+की
+कवायद
+में
+जुटी
+है
+.
 
-मामला	NN	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मथानी	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-रात	NN	TEMP	O	B	O	O
-लगभग	RB	TEMP	O	B	O	O
-आठ	QC	TEMP	O	I	O	O
-बजे	NN	TEMP	O	I	B-MISC	O
-की	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामला
+उक्त
+थाना
+क्षेत्र
+के
+मथानी
+गांव
+में
+सोमवार
+रात
+लगभग
+आठ
+बजे
+की
+है
+.
 
-गांव	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-आदर्श	JJ	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-जगदीश	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाबा	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-लखनऊ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उपचार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दैरान	NN	TEMP	O	O	O	O
-मौत	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गांव
+निवासी
+आदर्श
+¨
+सह
+पुत्र
+जगदीश
+¨
+सह
+के
+बाबा
+का
+सोमवार
+को
+लखनऊ
+में
+उपचार
+के
+दैरान
+मौत
+हो
+गई
+थी
+.
 
-जिस	DEM	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रिश्तेदारों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भीड	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगी	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिस
+कारण
+उनके
+घर
+पर
+रिश्तेदारों
+की
+भीड
+लगी
+थी
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-शाम	NN	TEMP	O	B	O	O
-करीब	RB	TEMP	O	B	O	O
-आठ	QC	TEMP	O	I	O	O
-बजे	RP:?	TEMP	O	I	O	O
-भीटी	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रिऊना	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-रिश्तेदार	NN	TEMP	O	O	O	O
-संदीप	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-नसीरपुर	XC	TEMP	O	O	O	O
-बाजार	NNP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-चंद्रशेखर	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सिगरेट	NN	TEMP	O	O	B-MISC	OCC
-लेने	VM	TEMP	O	O	I-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+शाम
+करीब
+आठ
+बजे
+भीटी
+थाना
+क्षेत्र
+के
+रिऊना
+निवासी
+उनके
+रिश्तेदार
+संदीप
+¨
+सह
+नसीरपुर
+बाजार
+स्थित
+चंद्रशेखर
+पांडेय
+की
+दुकान
+पर
+सिगरेट
+लेने
+गए
+.
 
-जहां	PRP	TEMP	O	O	O	O
-चंद्रशेखर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सिगरेट	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-महंगी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जहां
+चंद्रशेखर
+ने
+सिगरेट
+एक
+रुपये
+महंगी
+दी
+.
 
-यह	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-पहुंचने	VM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-संदीप	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आदर्श	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बताई	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+यह
+बात
+घर
+पहुंचने
+पर
+संदीप
+ने
+आदर्श
+को
+बताई
+.
 
-जिसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-साथियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	O	O	B-MISC	OCC
-आदर्श	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चंद्रशेखर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पिटाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसके
+बाद
+साथियों
+के
+साथ
+पहुंचे
+आदर्श
+ने
+चंद्रशेखर
+की
+पिटाई
+कर
+दी
+.
 
-युवकों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पिटाई	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-गुस्साए	VM	TEMP	O	O	O	O
-दुकानदार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मकान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-छत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लाइसेंसी	JJ	TEMP	O	O	O	O
-बंदूक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फायर	NN	TEMP	O	O	B-MISC	O
-झोंक	VM	TEMP	O	O	I-MISC	OCC
-दिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+युवकों
+की
+पिटाई
+से
+गुस्साए
+दुकानदार
+ने
+मकान
+की
+छत
+से
+लाइसेंसी
+बंदूक
+से
+फायर
+झोंक
+दिया
+.
 
-गोली	JJ	TEMP	O	O	O	O
-आदर्श	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पैर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जांघ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगने	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गोली
+आदर्श
+के
+पैर
+,
+जांघ
+में
+लगने
+से
+वह
+घायल
+हो
+गया
+.
 
-जिसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अफरा	XC	TEMP	O	O	O	O
-तफरी	NN	TEMP	B-MISC	O	O	O
-मच	VM	TEMP	I-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसके
+बाद
+गांव
+में
+अफरा
+तफरी
+मच
+गई
+.
 
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंची	VM	TEMP	O	O	B-STAT	DES
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-घायल	JJ	TEMP	O	O	B-MISC	O
-हो	VM	TEMP	O	O	I-MISC	O
-जिला	JJ	TEMP	O	O	O	O
-चिकित्सालय	NN	TEMP	O	O	O	O
-भेज	VM	TEMP	O	O	O	O
-आरोपी	JJ	TEMP	O	O	O	O
-चंद्रशेखर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हिरासत	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-ले	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मौके
+पर
+पहुंची
+पुलिस
+ने
+घायल
+हो
+जिला
+चिकित्सालय
+भेज
+आरोपी
+चंद्रशेखर
+को
+हिरासत
+में
+ले
+लिया
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-वारदात	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-प्रयुक्त	JJ	TEMP	O	O	O	O
-बंदूक	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+वारदात
+में
+प्रयुक्त
+बंदूक
+भी
+बरामद
+की
+है
+.
 
-थानाध्यक्ष	JJ	TEMP	O	O	O	O
-ज्ञानेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हिरासत	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-लेकर	VM	TEMP	I-MISC	O	I-MISC	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थानाध्यक्ष
+ज्ञानेंद्र
+कुमार
+¨
+सह
+ने
+बताया
+कि
+आरोपी
+को
+हिरासत
+में
+लेकर
+मुकदमा
+दर्ज
+करने
+की
+कार्रवाई
+की
+जा
+रही
+है
+.

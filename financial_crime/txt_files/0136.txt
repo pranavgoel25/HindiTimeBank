@@ -1,262 +1,262 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
+﻿संवाद
+सूत्र
 
-बिदुपुर	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-बिदुपुर	XC	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-भैरोपुर	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लोड	NN	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शराब	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जब्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिदुपुर
+:
+बिदुपुर
+थाने
+की
+पुलिस
+ने
+गुरुवार
+की
+रात
+भैरोपुर
+गांव
+से
+एक
+ट्रक
+पर
+लोड
+लगभग
+तीन
+लाख
+रुपये
+मूल्य
+की
+शराब
+को
+जब्त
+कर
+लिया
+.
 
-शराब	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंदर	NST	TEMP	O	O	O	O
-बने	VM	TEMP	O	O	O	O
-विशेष	JJ	TEMP	O	O	O	O
-ढंग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-केबिन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-छिपा	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-रखा	VAUX	TEMP	B-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शराब
+को
+ट्रक
+के
+अंदर
+बने
+विशेष
+ढंग
+के
+केबिन
+में
+छिपा
+कर
+रखा
+गया
+था
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-गिरफ्तार	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+मौके
+पर
+ट्रक
+चालक
+को
+भी
+गिरफ्तार
+कर
+लिया
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-पकडे	VM	TEMP	O	O	B-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूछताछ	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+पकडे
+गए
+ट्रक
+चालक
+से
+पूछताछ
+कर
+रही
+है
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बरामद	JJ	TEMP	O	O	O	OCC
-मोबाइल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सीडीआर	NN	TEMP	O	O	O	O
-खंगाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+उसके
+पास
+से
+बरामद
+मोबाइल
+का
+सीडीआर
+खंगाल
+रही
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिदुपुर	XC	TEMP	O	O	O	O
-थानाध्यक्ष	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-देर	NN	TEMP	O	O	O	O
-रात	NN	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-भैरोपुर	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बांसवाडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-यूपी	JJ	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	B-MISC	O
-खडी	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसमें	PRP	TEMP	O	O	O	O
-शराब	NN	TEMP	O	O	B-MISC	O
-लोड	VM	TEMP	O	O	I-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+बिदुपुर
+थानाध्यक्ष
+ने
+बताया
+कि
+गुरुवार
+की
+देर
+रात
+सूचना
+मिली
+थी
+कि
+भैरोपुर
+गांव
+की
+बांसवाडी
+में
+एक
+यूपी
+नंबर
+ट्रक
+खडी
+है
+और
+उसमें
+शराब
+लोड
+है
+.
 
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलते	VM	TEMP	I-MISC	O	I-MISC	O
-ही	RP	TEMP	O	O	O	O
-एसआई	XC	TEMP	O	O	O	O
-गजेंद्र	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
+सूचना
+मिलते
+ही
+एसआई
+गजेंद्र
+¨
+सह
 
-पानेश्वर	XC	TEMP	O	O	O	O
-पासवान	NNP	TEMP	O	O	O	O
+पानेश्वर
+पासवान
 
-विजय	XC	TEMP	O	O	O	O
-पासवान	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-बल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विजय
+पासवान
+व
+पुलिस
+बल
+के
+साथ
+वे
+वहां
+पहुंच
+गए
+.
 
-जब	PRP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाशी	NN	TEMP	B-MISC	O	B-MISC	OCC
-ली	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंदर	NST	TEMP	O	O	O	O
-बने	VM	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-विशेष	JJ	TEMP	O	O	O	O
-केबिन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भारी	JJ	TEMP	O	O	O	O
-मात्रा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शराब	NN	TEMP	O	O	B-MISC	O
-मिली	VM	TEMP	B-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जब
+ट्रक
+की
+तलाशी
+ली
+गई
+तो
+ट्रक
+के
+अंदर
+बने
+एक
+विशेष
+केबिन
+से
+भारी
+मात्रा
+में
+शराब
+मिली
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-शराब	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जब्त	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-थाने	VAUX	TEMP	O	O	I-MISC	O
-ले	VM	TEMP	B-MISC	O	I-MISC	OCC
-आई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ट्रक
+व
+शराब
+को
+जब्त
+कर
+थाने
+ले
+आई
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-यूपी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हाथरस	XC	TEMP	O	O	O	O
-जिला	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोरसांड	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भाखरी	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मित्रपाल	NN	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-पुष्पेंद्र	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गिरफ्तार	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+मौके
+से
+ट्रक
+चालक
+यूपी
+के
+हाथरस
+जिला
+के
+मोरसांड
+थाना
+के
+भाखरी
+गांव
+के
+मित्रपाल
+शर्मा
+के
+पुत्र
+पुष्पेंद्र
+शर्मा
+को
+गिरफ्तार
+कर
+लिया
+.
 
-थानाध्यक्ष	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-180	QC	TEMP	O	O	O	O
-एमएल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-22	QC	TEMP	O	O	O	O
-कार्टन	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बोरा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पैक	NN	TEMP	O	O	O	O
-550	QC	TEMP	O	O	O	O
-बोतल	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-375	QC	TEMP	O	O	O	O
-एमएल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-13	QC	TEMP	O	O	O	O
-कार्टन	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बोरा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पैक	NN	TEMP	O	O	O	O
-412	QC	TEMP	O	O	O	O
-बोतल	NN	TEMP	O	O	O	O
-शराब	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थानाध्यक्ष
+ने
+बताया
+कि
+ट्रक
+से
+180
+एमएल
+का
+22
+कार्टन
+व
+बोरा
+में
+पैक
+550
+बोतल
+तथा
+375
+एमएल
+का
+13
+कार्टन
+व
+बोरा
+में
+पैक
+412
+बोतल
+शराब
+को
+बरामद
+किया
+गया
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-जब्त	NN	TEMP	O	O	O	O
-581	QC	TEMP	O	O	O	O
-लीटर	XC	TEMP	O	O	O	O
-शराब	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कीमत	NN	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+जब्त
+581
+लीटर
+शराब
+की
+कीमत
+लगभग
+तीन
+लाख
+रुपये
+है
+.

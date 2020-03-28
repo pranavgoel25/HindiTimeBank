@@ -1,151 +1,151 @@
-﻿हाथरस	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-बिसावर	NN	TEMP	O	O	O	O
-पंचायत	XC	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मंगलवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-बिजली	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-विद्युत	XC	TEMP	O	O	O	O
-शिविर	NN	TEMP	O	O	B-MISC	OCC
-लगाया	VM	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿हाथरस
+:
+बिसावर
+पंचायत
+घर
+पर
+मंगलवार
+को
+बिजली
+विभाग
+ने
+विद्युत
+शिविर
+लगाया
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	O	O
-एसडीओ	XC	TEMP	O	O	O	O
-एपी	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जेई	NN	TEMP	O	O	O	O
-प्रदीप	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राजन	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-लाइनमैन	NN	TEMP	O	O	O	O
-रंजीत	JJ	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रामवीर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शंकर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हुसियार	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-समस्याएं	NN	TEMP	O	O	B-MISC	O
-सुनी	VM	TEMP	B-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इसमें
+मौजूद
+एसडीओ
+एपी
+¨
+सह
+,
+जेई
+प्रदीप
+कुमार
+,
+राजन
+¨
+सह
+,
+लाइनमैन
+रंजीत
+¨
+सह
+,
+रामवीर
+¨
+सह
+,
+शंकर
+¨
+सह
+,
+हुसियार
+¨
+सह
+ने
+उपभोक्ताओं
+की
+समस्याएं
+सुनी
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-दूर	NST	TEMP	O	O	B-MISC	OCC
-करने	VM	TEMP	O	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-आश्वासन	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+दूर
+करने
+का
+आश्वासन
+दिया
+.
 
-शिविर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रूपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वसूली	NN	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	I-MISC	O
-की	VM	TEMP	B-MISC	O	I-MISC	-1
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शिविर
+में
+करीब
+दो
+लाख
+रूपये
+की
+वसूली
+भी
+की
+गई
+.
 
---	JJ	TEMP	O	O	O	O
-झगडे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुआ	VM	TEMP	O	O	B-MISC	O
-घायल	JJ	TEMP	O	O	O	O
-सहपऊ	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-नगला	JJ	TEMP	O	O	O	O
-प्राण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-सत्यवीर	JJ	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-सुखवीर	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+--
+झगडे
+में
+हुआ
+घायल
+सहपऊ
+:
+गांव
+नगला
+प्राण
+के
+रहने
+वाले
+सत्यवीर
+पुत्र
+सुखवीर
+¨
+सह
+को
+मारपीट
+कर
+घायल
+कर
+दिया
+.
 
-देर	JJ	TEMP	O	B	O	O
-रात	NN	TEMP	O	I	O	O
-नाजुक	JJ	TEMP	O	O	O	O
-हालत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सामुदायिक	JJ	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	B-MISC	O
-लाया	VM	TEMP	B-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देर
+रात
+नाजुक
+हालत
+में
+सामुदायिक
+स्वास्थ्य
+केंद्र
+लाया
+गया
+.
 
-जहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आगरा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रेफर	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जहां
+से
+आगरा
+के
+लिए
+रेफर
+कर
+दिया
+गया
+है
+.
 
-बताते	VM	TEMP	B-MISC	O	B-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-सत्यवीर	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मित्रों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-पार्टी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-था	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+बताते
+हैं
+कि
+सत्यवीर
+अपने
+के
+मित्रों
+के
+साथ
+पार्टी
+में
+था
+.
 
-यहां	PRP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	O
-झगडा	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यहां
+किसी
+बात
+को
+लेकर
+झगडा
+हो
+गया
+.
 
---	NN	TEMP	O	O	O	O
+--

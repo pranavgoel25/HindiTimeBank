@@ -1,316 +1,316 @@
 
-[	SYM	TEMP	O	O	O	O
-स्थानीय	JJ	TEMP	O	O	O	O
-संपादकीय	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
+[
+स्थानीय
+संपादकीय
+:
+दिल्ली
+]
 
-सुरजीत	JJ	TEMP	O	O	O	O
-पुंढीर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अलीगढ़	NN	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कितना	QF	TEMP	O	O	O	O
-धन	NN	TEMP	O	O	B-MISC	O
-जुटा	VM	TEMP	B-MISC	O	I-MISC	OCC
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-?	SYM	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-?	SYM	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-औसतन	NN	TEMP	O	O	O	O
-इतना	QF	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बजट	VM	TEMP	B-MISC	O	B-MISC	OCC
-देती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुरजीत
+पुंढीर
+,
+अलीगढ़
+कोई
+प्रधान
+एक
+साल
+में
+गांव
+के
+लिए
+कितना
+धन
+जुटा
+सकता
+है
+?
+10
+-
+20
+-
+30
+लाख
+?
+सरकार
+भी
+औसतन
+इतना
+ही
+बजट
+देती
+है
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अलीगढ़	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-सीतापुर	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-राकेश	XC	TEMP	O	O	O	O
-कुमारी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बहुत	TEMP	INTF	TEMP	O	O	O	O
-लंबी	JJ	TEMP	O	O	O	O
-लकीर	NN	TEMP	O	O	O	O
-खींच	VM	TEMP	O	O	B-MISC	OCC
-डाली	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+,
+अलीगढ़
+के
+गांव
+सीतापुर
+की
+प्रधान
+राकेश
+कुमारी
+ने
+बहुत
+लंबी
+लकीर
+खींच
+डाली
+है
+.
 
-इतनी	QF	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-विधायक	JJ	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-रश्क	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इतनी
+कि
+कुछ
+विधायक
+भी
+उनसे
+रश्क
+कर
+सकते
+हैं
+.
 
-दरअसल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राकेश	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-डेढ़	NNP	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-ढाई	XC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	O	OCC
-करा	VM	TEMP	I-MISC	O	B-MISC	O
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दरअसल
+,
+राकेश
+ने
+डेढ़
+साल
+में
+ढाई
+करोड
+रुपये
+के
+काम
+करा
+लिए
+.
 
-समस्याओं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-संहारक	JJ	TEMP	O	O	O	O
-राकेश	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-राम	XC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-सरीखा	NN	TEMP	O	O	O	O
-मान	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+समस्याओं
+की
+संहारक
+राकेश
+को
+गांव
+वाले
+भी
+'
+राम
+'
+सरीखा
+मान
+रहे
+हैं
+.
 
-रविवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-जीत	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जश्न	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मनाने	VM	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	O	O	O	O
-तैयारी	NN	TEMP	B-MISC	O	B-STAT	DECL
-है	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+रविवार
+को
+गांव
+में
+'
+जीत
+'
+का
+जश्न
+भी
+मनाने
+की
+तैयारी
+है
+.
 
-करीब	RB	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-कार्यो	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लोकार्पण	NN	TEMP	O	O	O	OCC
-भी	RP	TEMP	O	O	O	O
-होगा	VM	TEMP	O	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+करीब
+60
+लाख
+के
+विकास
+कार्यो
+का
+लोकार्पण
+भी
+होगा
+.
 
-यह	DEM	TEMP	O	O	O	O
-कायापलट	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राजधानी	NN	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-144	QC	TEMP	O	O	O	O
-किमी	NN	TEMP	O	O	O	O
-दूर	NST	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-सीतापुर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+यह
+कायापलट
+हुई
+है
+,
+देश
+की
+राजधानी
+दिल्ली
+से
+करीब
+144
+किमी
+दूर
+स्थित
+गांव
+सीतापुर
+में
+.
 
-जनवरी	NNP	TEMP	O	B	O	O
-2016	QC	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-राकेश	XC	TEMP	O	O	O	O
-कुमारी	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-55	QC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	B-MISC	O
-बनीं	VM	TEMP	O	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-समस्याओं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अंबार	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-तोहफे	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मिला	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जनवरी
+2016
+में
+राकेश
+कुमारी
+(
+55
+)
+गांव
+की
+प्रधान
+बनीं
+तो
+समस्याओं
+का
+अंबार
+'
+तोहफे
+'
+में
+मिला
+.
 
-अधिकांश	JJ	TEMP	O	O	O	O
-सडकें	NN	TEMP	O	O	O	O
-कच्ची	JJ	TEMP	O	O	B-MISC	O
-थीं	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अधिकांश
+सडकें
+कच्ची
+थीं
+.
 
-नाला	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-गंदा	JJ	TEMP	O	O	O	O
-पानी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भरा	VM	TEMP	O	O	B-MISC	OCC
-रहता	VAUX	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नाला
+न
+होने
+से
+गंदा
+पानी
+भी
+गांव
+में
+भरा
+रहता
+था
+.
 
-अधिकांश	JJ	TEMP	O	O	O	O
-हैंडपंप	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जवाब	NN	TEMP	B-MISC	O	O	O
-दे	VM	TEMP	I-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अधिकांश
+हैंडपंप
+भी
+जवाब
+दे
+रहे
+थे
+.
 
-इंटर	NN	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-राकेश	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चुनौतियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निबटने	VM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-खाका	NN	TEMP	B-MISC	O	B-MISC	O
-खींचना	VM	TEMP	I-MISC	O	I-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इंटर
+पास
+राकेश
+ने
+चुनौतियों
+से
+निबटने
+का
+खाका
+खींचना
+शुरू
+किया
+.
 
-वह	PRP	TEMP	O	O	O	O
-जानती	VM	TEMP	B-MISC	O	B-MISC	OCC
-थीं	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बजट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-अधिकांश	JJ	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+वह
+जानती
+थीं
+कि
+ग्राम
+पंचायत
+के
+बजट
+से
+कुछ
+काम
+हो
+सकते
+हैं
+,
+अधिकांश
+नहीं
+.
 
-लिहाजा	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दूसरे	JJ	TEMP	O	O	O	O
-रास्ते	NN	TEMP	O	O	O	O
-देखने	VM	TEMP	O	O	B-MISC	OCC
-होंगे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लिहाजा
+,
+दूसरे
+रास्ते
+देखने
+होंगे
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-बेटे	NN	TEMP	O	O	B-MISC	OCC
-डॉ	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+उनके
+बेटे
+डॉ
+.
 
-लोकेश	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अहम	JJ	TEMP	O	O	O	O
-भूमिका	NN	TEMP	O	O	B-MISC	O
-निभाई	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लोकेश
+शर्मा
+ने
+अहम
+भूमिका
+निभाई
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-जल	XC	TEMP	O	O	O	O
-निगम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-सवा	XC	TEMP	O	O	O	O
-करोड	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लागत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पानी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टंकी	NN	TEMP	O	O	O	O
-मंजूर	JJ	TEMP	O	O	B-MISC	OCC
-कराई	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+जल
+निगम
+से
+करीब
+सवा
+करोड
+की
+लागत
+से
+पानी
+की
+टंकी
+मंजूर
+कराई
+.
 
-राज्यसभा	NN	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-कपिल	XC	TEMP	O	O	O	O
-सिब्बल	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जुटाए	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+राज्यसभा
+सदस्य
+कपिल
+सिब्बल
+से
+भी
+10
+लाख
+रुपये
+जुटाए
+.
 
-पूर्व	JJ	TEMP	O	O	O	O
-प्रधानमंत्री	NN	TEMP	O	O	O	O
-मनमोहन	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मिले	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-भरोसा	NN	TEMP	O	O	O	O
-ले	VM	TEMP	O	O	B-MISC	OCC
-आए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पूर्व
+प्रधानमंत्री
+मनमोहन
+सिंह
+से
+भी
+मिले
+और
+10
+लाख
+रुपये
+देने
+का
+भरोसा
+ले
+आए
+.
 
-स्थानीय	JJ	TEMP	O	O	O	O
-सांसद-विधायक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लाखों	QC	TEMP	O	O	O	O
-जुटा	VM	TEMP	O	O	B-MISC	OCC
-लिए	VAUX	TEMP	O	O	I-MISC	O
+स्थानीय
+सांसद-विधायक
+से
+भी
+लाखों
+जुटा
+लिए

@@ -1,410 +1,410 @@
 
-गोरखपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-क्षेत्रीय	JJ	TEMP	O	O	O	O
-श्रीगाधी	NN	TEMP	O	O	O	O
-आश्रम	NN	TEMP	O	O	O	O
-गोलघर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बजट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-फेर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उलझ	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रह	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गोरखपुर
+:
+क्षेत्रीय
+श्रीगाधी
+आश्रम
+गोलघर
+के
+विकास
+मद
+का
+एक
+करोड
+पांच
+लाख
+रुपये
+बजट
+के
+फेर
+में
+उलझ
+कर
+रह
+गए
+हैं
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-संस्था	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जुडे	VM	TEMP	B-MISC	O	O	OCC
-गोरखपुर	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-महराजगंज	NN	TEMP	O	O	O	O
-जिले	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-22	QC	TEMP	O	O	O	O
-कतिन-बुनकरों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-26	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-,	SYM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-प्रोत्साहन	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बोनस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाना	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+संस्था
+से
+जुडे
+गोरखपुर
+और
+महराजगंज
+जिले
+के
+22
+कतिन-बुनकरों
+का
+26
+लाख
+रुपये
+भी
+शामिल
+है
+,
+जो
+उन्हें
+प्रोत्साहन
+राशि
+के
+रूप
+में
+बोनस
+के
+तौर
+पर
+दिया
+जाना
+है
+.
 
-संस्था	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जिम्मेदार	JJ	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-अनवरत	JJ	TEMP	O	O	B-MISC	O
-दौड	VM	TEMP	B-MISC	O	I-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-कहकर	VM	TEMP	B-MISC	O	B-MISC	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-बजट	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संस्था
+के
+जिम्मेदार
+इसे
+लेकर
+अनवरत
+दौड
+लगा
+रहे
+हैं
+,
+लेकिन
+हर
+बार
+उन्हें
+यह
+कहकर
+वापस
+कर
+दिया
+जाता
+है
+कि
+अभी
+बजट
+नहीं
+है
+.
 
-खादी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बढ़ावा	NN	TEMP	O	O	B-MISC	O
-देने	VM	TEMP	B-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-खादी	NN	TEMP	O	O	O	O
-ग्रामोद्योग	NN	TEMP	O	O	O	O
-आयोग	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मार्केटिंग	XC	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-निधि	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-एमडीए	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खादी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-उत्पादक	JJ	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-विपणन	JJ	TEMP	O	O	O	O
-संस्थानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्रोत्साहन	XC	TEMP	O	O	O	O
-राशि	XC	TEMP	O	O	O	O
-प्रदान	NN	TEMP	B-MISC	O	B-MISC	OCC
-करता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खादी
+को
+बढ़ावा
+देने
+के
+लिए
+खादी
+ग्रामोद्योग
+आयोग
+,
+मार्केटिंग
+विकास
+निधि
+(
+एमडीए
+)
+के
+तौर
+पर
+खादी
+के
+उत्पादक
+और
+विपणन
+संस्थानों
+को
+प्रोत्साहन
+राशि
+प्रदान
+करता
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-संस्था	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-उत्पादन	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-विपणन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-डिटेल	NN	TEMP	O	O	O	O
-आयोग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भेजना	VM	TEMP	B-MISC	O	B-MISC	OCC
-पडता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-आयोग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-निधि	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+लिए
+संस्था
+को
+अपने
+उत्पादन
+और
+विपणन
+का
+डिटेल
+आयोग
+को
+भेजना
+पडता
+है
+और
+फिर
+उस
+आधार
+पर
+उसे
+आयोग
+की
+ओर
+से
+विकास
+निधि
+जारी
+की
+जाती
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-निधि	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-हिस्सा	NN	TEMP	O	O	O	O
-कतिन-बुनकरों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बोनस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+निधि
+का
+25
+फीसद
+हिस्सा
+कतिन-बुनकरों
+को
+बोनस
+के
+तौर
+पर
+दिया
+जाता
+है
+.
 
-इसी	DEM	TEMP	O	O	O	O
-क्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-संस्था	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-2011	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	O
-2015	QC	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-उत्पादन	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-विपणन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-डिटेल	NN	TEMP	B-MISC	O	O	O
-भेजा	VM	TEMP	I-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-एमडीए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+क्रम
+में
+संस्था
+की
+ओर
+से
+2011
+से
+लेकर
+2015
+तक
+का
+उत्पादन
+और
+विपणन
+का
+डिटेल
+भेजा
+गया
+और
+एमडीए
+के
+मद
+में
+करीब
+तीन
+करोड
+की
+मांग
+की
+गई
+.
 
-उसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-आयोग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बकाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-रह	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसमें
+से
+करीब
+दो
+करोड
+रुपये
+तो
+पिछले
+वर्ष
+आयोग
+ने
+जारी
+कर
+दिए
+लेकिन
+एक
+करोड
+पांच
+लाख
+रुपया
+फिर
+भी
+बकाया
+रह
+गया
+.
 
-ऐसे	PRP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कतिन-बुनकरों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बोनस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बकाया	NN	TEMP	O	O	O	O
-73	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-47	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-26	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बकाया	VM	TEMP	B-MISC	O	B-STAT	DECL
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+ऐसे
+में
+कतिन-बुनकरों
+के
+बोनस
+के
+रूप
+में
+बकाया
+73
+लाख
+रुपये
+में
+से
+47
+लाख
+रुपये
+पिछले
+वर्ष
+दे
+दिए
+गए
+लेकिन
+उनका
+26
+लाख
+रुपये
+अभी
+भी
+बकाया
+है
+.
 
-संस्थान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-आयोग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संपर्क	NN	TEMP	O	O	B-MISC	OCC
-साधते	VM	TEMP	B-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-कहकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-टाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बजट	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	O
-प्राप्त	JJ	TEMP	I-MISC	O	I-MISC	O
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संस्थान
+के
+लोग
+जब
+इसे
+लेकर
+दिल्ली
+स्थित
+आयोग
+से
+संपर्क
+साधते
+हैं
+तो
+उन्हें
+यह
+कहकर
+टाल
+दिया
+जाता
+है
+कि
+अभी
+भारत
+सरकार
+से
+बजट
+नहीं
+प्राप्त
+हुआ
+है
+.
 
-बजट	NN	TEMP	O	O	O	O
-मिलते	VM	TEMP	B-MISC	O	O	O
-ही	RP	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बजट
+मिलते
+ही
+धनराशि
+जारी
+कर
+दी
+जाएगी
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-बजट	NN	TEMP	O	O	O	O
-कब	WQ	TEMP	O	O	O	O
-मिलेगा	VM	TEMP	B-MISC	O	O	O
-,	SYM	TEMP	O	O	O	O
-इसका	PRP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-ठोस	NN	TEMP	O	O	O	O
-जवाब	NN	TEMP	O	O	O	O
-आयोग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-होता	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+वह
+बजट
+कब
+मिलेगा
+,
+इसका
+कोई
+ठोस
+जवाब
+आयोग
+के
+अधिकारियों
+के
+पास
+नहीं
+होता
+.
 
-ऐसे	PRP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सूत	JJ	TEMP	O	O	B-STAT	O
-कातकर	VM	TEMP	B-MISC	O	I-STAT	O
-जीवन-यापन	NN	TEMP	O	O	I-STAT	DES
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-कतिन-बुनकरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-निराशा	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+ऐसे
+में
+सूत
+कातकर
+जीवन-यापन
+करने
+वाले
+कतिन-बुनकरों
+में
+भी
+निराशा
+है
+.
 
---------	JJ	TEMP	O	O	O	O
-एमडीए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बकाया	VM	TEMP	B-MISC	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-खादी	NN	TEMP	O	O	O	O
-ग्रामोद्योग	NN	TEMP	O	O	O	O
-आयोग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-संपर्क	NN	TEMP	B-MISC	O	B-MISC	OCC
-साधा	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+--------
+एमडीए
+की
+बकाया
+धनराशि
+के
+लिए
+खादी
+ग्रामोद्योग
+आयोग
+के
+दिल्ली
+कार्यालय
+से
+लगातार
+संपर्क
+साधा
+जा
+रहा
+है
+.
 
-उनका	PRP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-केंद्र	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बजट	NN	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	OCC
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-वजह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दिक्कत	NN	TEMP	B-MISC	O	B-MISC	O
-आ	VM	TEMP	I-MISC	O	I-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनका
+कहना
+है
+कि
+इस
+मद
+में
+केंद्र
+सरकार
+से
+बजट
+न
+मिलने
+की
+वजह
+से
+दिक्कत
+आ
+रही
+है
+.
 
-फिलहाल	RB	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-हमारा	PRP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	O	O	B-MISC	OCC
-जारी	JJ	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिलहाल
+इसे
+लेकर
+हमारा
+प्रयास
+जारी
+है
+.
 
-खादी	NN	TEMP	O	O	O	O
-ग्रामोद्योग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मंडलीय	JJ	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-पूरा	JJ	TEMP	O	O	B-MISC	O
-सहयोग	NN	TEMP	O	O	I-MISC	OCC
-मिल	VM	TEMP	B-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
+खादी
+ग्रामोद्योग
+के
+मंडलीय
+कार्यालय
+का
+भी
+इसमें
+पूरा
+सहयोग
+मिल
+रहा
+है

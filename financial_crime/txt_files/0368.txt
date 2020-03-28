@@ -1,198 +1,198 @@
-﻿मुंबई	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-एएनआई	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿मुंबई
+(
+एएनआई
+)
+.
 
-मुंबई	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोकल	XC	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जन्म	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मुंबई
+के
+लोकल
+ट्रेन
+में
+एक
+महिला
+ने
+एक
+बच्चे
+को
+जन्म
+दिया
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-26	QC	TEMP	O	O	O	O
-वर्षीय	JJ	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-सलमा	XC	TEMP	O	O	O	O
-शेख	XC	TEMP	O	O	O	O
-कल	XC	TEMP	O	O	O	O
-रात	NN	TEMP	O	O	O	O
-लोकल	JJ	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सीएसटी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कल्याण	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-जा	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बताया
+जाता
+है
+कि
+26
+वर्षीय
+महिला
+सलमा
+शेख
+कल
+रात
+लोकल
+ट्रेन
+से
+सीएसटी
+से
+कल्याण
+की
+तरफ
+जा
+रही
+थी
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-दादर	JJ	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-सेंट्रल	XC	TEMP	O	O	O	O
-लाइन	XC	TEMP	O	O	O	O
-प्लेटफॉर्म	NNP	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंचते	VM	TEMP	B-MISC	O	B-MISC	OCC
-ही	RP	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बच्ची	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जन्म	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+दादर
+स्टेशन
+सेंट्रल
+लाइन
+प्लेटफॉर्म
+नंबर
+3
+पर
+पहुंचते
+ही
+महिला
+ने
+बच्ची
+को
+जन्म
+दिया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-तुरंत	RB	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-दोनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-इलाज	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-केईएम	XC	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भर्ती	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जहां	PRP	TEMP	O	O	O	O
-दोनों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-हालत	NN	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-स्थिर	JJ	TEMP	O	O	O	O
-बताई	VM	TEMP	B-MISC	O	B-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+तुरंत
+बाद
+ही
+मां
+और
+बच्चे
+दोनों
+को
+पास
+इलाज
+के
+लिए
+केईएम
+अस्पताल
+में
+भर्ती
+कराया
+गया
+,
+जहां
+दोनों
+की
+हालत
+अब
+स्थिर
+बताई
+जा
+रही
+है
+.
 
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-यात्रियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-स्टेशनों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-स्थापित	JJ	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-वन	XC	TEMP	O	O	O	O
-रुपीज	NN	TEMP	O	O	O	O
-क्लिनिक	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जानकारी
+के
+मुताबिक
+,
+यात्रियों
+की
+सहायता
+के
+लिए
+स्टेशनों
+पर
+स्थापित
+'
+वन
+रुपीज
+क्लिनिक
+'
+के
+द्वारा
+उक्त
+महिला
+की
+मदद
+की
+गई
+थी
+.
 
-महिला	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-17	QC	TEMP	O	B	O	O
-बजे	RP:?	TEMP	O	I	O	O
-बच्चे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जन्म	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-उस	DEM	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-जीआरपी	JJ	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-डॉ	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+महिला
+ने
+10
+:
+17
+बजे
+बच्चे
+को
+जन्म
+दिया
+उस
+समय
+महिला
+जीआरपी
+अधिकारी
+डॉ
+.
 
-प्रज्वलित	JJ	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	B-STAT	OCC
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+प्रज्वलित
+और
+कुछ
+अन्य
+शामिल
+थे
+.
 
-बता	VM	TEMP	B-MISC	O	B-MISC	REP
-दें	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-इसी	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-मार्च	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-सुल्ताना	XC	TEMP	O	O	O	O
-खातून	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दादर	XC	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जन्म	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बता
+दें
+कि
+इसी
+तरह
+मार्च
+में
+एक
+महिला
+सुल्ताना
+खातून
+ने
+दादर
+रेलवे
+स्टेशन
+में
+एक
+बच्चे
+को
+जन्म
+दिया
+था
+.
 
-यह	DEM	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	B-MISC	O	O	O
-:	SYM	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ओला	VM	TEMP	O	O	O	O
-कैब	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बच्	XC	TEMP	O	O	O	O
-‍	NNP	TEMP	O	O	O	O
-चे	PSP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	O
-जन्	XC	TEMP	I-MISC	O	O	O
-‍	NNP	TEMP	I-MISC	O	O	O
-म	RP	TEMP	I-MISC	O	O	O
-,	SYM	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दे	VM	TEMP	O	O	B-MISC	OCC
-दिया	VAUX	TEMP	O	O	I-MISC	O
-ये	DEM	TEMP	O	O	O	O
-गिफ्ट	NN	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+महिला
+ने
+ओला
+कैब
+में
+बच्
+‍
+चे
+को
+दिया
+जन्
+‍
+म
+,
+कंपनी
+ने
+दे
+दिया
+ये
+गिफ्ट

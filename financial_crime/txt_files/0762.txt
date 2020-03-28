@@ -1,136 +1,136 @@
 
-नौगावां	NN	TEMP	O	O	O	O
-सादात	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-घर	RDP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-टहलने	VM	TEMP	B-MISC	O	B-STAT	DESC
-निकला	VM	TEMP	I-MISC	O	I-STAT	O
-छात्र	NN	TEMP	B-MISC	O	O	O
-लापता	VM	TEMP	I-MISC	O	B-MISC	OCC
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नौगावां
+सादात
+:
+घर
+से
+टहलने
+निकला
+छात्र
+लापता
+हो
+गया
+.
 
-काफी	QF	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-सुराग	NN	TEMP	O	O	B-MISC	OCC
-नही	NEG	TEMP	B-MISC	O	I-MISC	O
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+काफी
+तलाश
+करने
+के
+बाद
+भी
+उसका
+सुराग
+नही
+मिला
+.
 
-परिजनों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपहरण	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-आशंका	NN	TEMP	B-MISC	O	B-MISC	OCC
-जताते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परिजनों
+ने
+अपहरण
+की
+आशंका
+जताते
+हुए
+थाने
+में
+तहरीर
+दे
+दी
+है
+.
 
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-बीलना	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इरशाद	XC	TEMP	O	O	O	O
-अली	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	B-STAT	OCC
-रहता	VM	TEMP	O	O	I-STAT	O
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+थाना
+क्षेत्र
+के
+गांव
+बीलना
+में
+इरशाद
+अली
+का
+परिवार
+रहता
+है
+.
 
-उसका	PRP	TEMP	O	O	O	O
-बेटा	NN	TEMP	O	O	O	O
-अरबाज	JJ	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-इंटर	NN	TEMP	O	O	O	O
-कालेज	XC	TEMP	O	O	O	O
-बादशाहपुर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कक्षा	NN	TEMP	O	O	O	O
-नौ	QC	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-छात्र	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उसका
+बेटा
+अरबाज
+किसान
+इंटर
+कालेज
+बादशाहपुर
+में
+कक्षा
+नौ
+का
+छात्र
+है
+.
 
-रविवार	NN	TEMP	O	B	O	O
-शाम	NN	TEMP	O	B	O	O
-पांच	QC	TEMP	O	B	O	O
-बजे	RP:?	TEMP	O	I	O	O
-अरबाज	NN	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-टहलने	VM	TEMP	B-MISC	O	B-MISC	OCC
-निकला	VM	TEMP	I-MISC	O	I-MISC	O
-परंतु	CC	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नही	NEG	TEMP	I-MISC	O	I-MISC	O
-लौटा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रविवार
+शाम
+पांच
+बजे
+अरबाज
+घर
+से
+टहलने
+निकला
+परंतु
+वापस
+नही
+लौटा
+.
 
-परिजनों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परिजनों
+ने
+उसे
+काफी
+तलाश
+किया
+.
 
-सभी	QF	TEMP	O	O	O	O
-रिश्तेदारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-ढूंढा	VM	TEMP	O	O	B-MISC	OCC
-मगर	CC	TEMP	O	O	O	O
-सफलता	NN	TEMP	O	O	B-MISC	O
-नही	NEG	TEMP	B-MISC	O	I-MISC	O
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सभी
+रिश्तेदारों
+के
+यहां
+भी
+ढूंढा
+मगर
+सफलता
+नही
+मिली
+.
 
-परिजनों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अरबाज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अपहरण	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-आशंका	NN	TEMP	B-MISC	O	B-MISC	OCC
-जताई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परिजनों
+ने
+अरबाज
+के
+अपहरण
+की
+आशंका
+जताई
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+थाने
+में
+तहरीर
+दे
+दी
+है
+.
 
-छात्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लापता	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-परिजनों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हडकंप	NN	TEMP	B-MISC	O	B-MISC	OCC
-मचा	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+छात्र
+के
+लापता
+होने
+से
+परिजनों
+में
+हडकंप
+मचा
+है
+.

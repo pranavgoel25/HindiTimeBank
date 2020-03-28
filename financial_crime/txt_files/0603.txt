@@ -1,65 +1,65 @@
 
-बसंतपुर	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-सिवान	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-स्थानीय	JJ	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लछुआ	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-बलिराम	NNP	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-विशेश्वर	NN	TEMP	O	O	O	O
-साह	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अखिलेश	XC	TEMP	O	O	O	O
-साह	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विनोद	XC	TEMP	O	O	O	O
-साह	NN	TEMP	O	O	O	O
-सहित	JJ	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-30	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-सोने	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चेन	NN	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-एफआइआर	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बसंतपुर
+(
+सिवान
+)
+:
+स्थानीय
+थाना
+क्षेत्र
+के
+लछुआ
+निवासी
+बलिराम
+कुमार
+ने
+विशेश्वर
+साह
+,
+अखिलेश
+साह
+,
+विनोद
+साह
+सहित
+पांच
+लोगों
+के
+मारपीट
+कर
+30
+हजार
+रुपये
+और
+सोने
+की
+चेन
+छीन
+लेने
+की
+एफआइआर
+दर्ज
+कराई
+है
+.
 
-दूसरे	QO	TEMP	O	O	O	O
-पक्ष	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विशेश्वर	NN	TEMP	O	O	O	O
-साह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ढाई	QF	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-छीनने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-एफआइआर	XC	TEMP	O	O	O	O
-बलिराम	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कराई	VM	TEMP	B-MISC	O	B-MISC	DECL
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दूसरे
+पक्ष
+के
+विशेश्वर
+साह
+ने
+भी
+मारपीट
+कर
+ढाई
+हजार
+रुपये
+छीनने
+की
+एफआइआर
+बलिराम
+पर
+कराई
+है
+.

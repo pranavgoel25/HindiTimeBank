@@ -1,762 +1,762 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-भिवानी	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-बाल	XC	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-सूचना	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जनसंपर्क	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-भाषा	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-कविता	NN	TEMP	O	O	O	O
-जैन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-महाराजा	XC	TEMP	O	O	O	O
-अग्रसेन	NNP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-दिए	VM	TEMP	O	O	B-STAT	DESC
-गए	VAUX	TEMP	O	O	I-STAT	O
-एक	QC	TEMP	O	O	O	O
-रुपया-एक	JJ	TEMP	O	O	O	O
-ईट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिद्धांत	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-जदा	NN	TEMP	O	O	O	O
-रखना	VM	TEMP	B-MISC	O	B-MISC	OCC
-होगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+भिवानी
+:
+महिला
+एवं
+बाल
+विकास
+तथा
+सूचना
+,
+जनसंपर्क
+एवं
+भाषा
+विभाग
+की
+मंत्री
+कविता
+जैन
+ने
+कहा
+कि
+महाराजा
+अग्रसेन
+द्वारा
+दिए
+गए
+एक
+रुपया-एक
+ईट
+के
+सिद्धांत
+को
+¨
+जदा
+रखना
+होगा
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-मिलकर	VM	TEMP	B-MISC	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-विकास	NN	TEMP	B-MISC	O	B-MISC	OCC
-होता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+मिलकर
+प्रयास
+करने
+से
+ही
+समाज
+का
+विकास
+होता
+है
+.
 
-जिस	DEM	TEMP	O	O	O	O
-प्रकार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-महाराजा	XC	TEMP	O	O	O	O
-अग्रसेन	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	OCC
-चलने	VM	TEMP	O	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-ठीक	RB	TEMP	O	O	O	O
-उसी	DEM	TEMP	O	O	O	O
-प्रकार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आज	NN	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-एक-साथ	PRP	TEMP	O	O	O	O
-मिलकर	VM	TEMP	O	O	B-MISC	OCC
-चलने	VM	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-जरूरत	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जिस
+प्रकार
+से
+महाराजा
+अग्रसेन
+से
+समाज
+को
+साथ
+लेकर
+चलने
+का
+काम
+किया
+,
+ठीक
+उसी
+प्रकार
+से
+आज
+फिर
+एक
+बार
+एक-साथ
+मिलकर
+चलने
+की
+जरूरत
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-वैश्य	JJ	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बेटियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-शिक्षित	JJ	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-व	CC	TEMP	O	O	O	O
-बेटियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बचाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-अपील	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+वैश्य
+समाज
+से
+बेटियों
+को
+शिक्षित
+बनाने
+व
+बेटियों
+को
+बचाने
+की
+अपील
+की
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-विधायक	JJ	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-घनश्यामदास	XC	TEMP	O	O	O	O
-सर्राफ	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-रखी	VM	TEMP	B-MISC	O	B-STAT	DES
-गई	VAUX	TEMP	I-MISC	O	I-STAT	O
-मांग	NN	TEMP	B-MISC	O	O	O
-को	PSP	TEMP	O	O	O	O
-पूरा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-रोहतक	XC	TEMP	O	O	O	O
-गेट	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-महाराजा	XC	TEMP	O	O	O	O
-अग्रसेन	XC	TEMP	O	O	O	O
-द्वार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-महाराजा	XC	TEMP	O	O	O	O
-अग्रसेन	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-पार्क	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-बनारसीदास	XC	TEMP	O	O	O	O
-गुप्ता	NNP	TEMP	O	O	O	O
-स्मृति	XC	TEMP	O	O	O	O
-पार्क	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-कम्युनिटी	JJ	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-करवाए	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	O	O	B-MISC	O
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+विधायक
+एवं
+पूर्व
+मंत्री
+घनश्यामदास
+सर्राफ
+द्वारा
+रखी
+गई
+मांग
+को
+पूरा
+करते
+हुए
+रोहतक
+गेट
+पर
+महाराजा
+अग्रसेन
+द्वार
+का
+निर्माण
+करने
+,
+शहर
+में
+महाराजा
+अग्रसेन
+के
+नाम
+पर
+एक
+पार्क
+और
+पूर्व
+मुख्यमंत्री
+बनारसीदास
+गुप्ता
+स्मृति
+पार्क
+में
+एक
+कम्युनिटी
+सेंटर
+का
+निर्माण
+करवाए
+जाने
+की
+घोषणा
+की
+.
 
-कार्यक्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कवि	XC	TEMP	O	O	O	O
-सम्मेलन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आयोजन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिसमें	PRP	TEMP	O	O	O	O
-विख्यात	JJ	TEMP	O	O	O	O
-कवियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-रचनाओं	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-श्रोताओं	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-राष्ट्रभक्ति	NN	TEMP	O	O	B-MISC	O
-जगाने	VM	TEMP	O	O	I-MISC	O
-व	CC	TEMP	O	O	O	O
-गुदगुदाने	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कार्यक्रम
+में
+कवि
+सम्मेलन
+का
+आयोजन
+किया
+गया
+,
+जिसमें
+विख्यात
+कवियों
+ने
+अपनी
+रचनाओं
+से
+श्रोताओं
+में
+राष्ट्रभक्ति
+जगाने
+व
+गुदगुदाने
+का
+काम
+किया
+.
 
-मंत्री	NN	TEMP	O	O	O	O
-कविता	NN	TEMP	O	O	O	O
-जैन	XC	TEMP	O	O	O	O
-बुधवार	NN	TEMP	O	O	O	O
-देर	NN	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-अनाज	NN	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आयोजित	JJ	TEMP	O	O	O	O
-प्रदेश	NN	TEMP	O	O	O	O
-स्तरीय	JJ	TEMP	O	O	O	O
-महाराजा	XC	TEMP	O	O	O	O
-अग्रसेन	XC	TEMP	O	O	O	O
-जयंती	NNP	TEMP	O	O	O	O
-समारोह	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बतौर	JJ	TEMP	O	O	O	O
-मुख्यातिथि	NN	TEMP	O	O	O	O
-संबोधित	JJ	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रहीं	VAUX	TEMP	O	O	I-MISC	O
-थी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंत्री
+कविता
+जैन
+बुधवार
+देर
+रात
+अनाज
+मंडी
+में
+आयोजित
+प्रदेश
+स्तरीय
+महाराजा
+अग्रसेन
+जयंती
+समारोह
+को
+बतौर
+मुख्यातिथि
+संबोधित
+कर
+रहीं
+थी
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-महाराजा	XC	TEMP	O	O	O	O
-अग्रसेन	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सेवाभाव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मंत्र	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जीवन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-धारण	NN	TEMP	B-MISC	O	B-MISC	OCC
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-होगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+महाराजा
+अग्रसेन
+के
+सेवाभाव
+के
+मंत्र
+को
+जीवन
+में
+धारण
+करना
+होगा
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-प्रधानमंत्री	NN	TEMP	O	O	O	O
-नरेंद्र	JJ	TEMP	O	O	O	O
-मोदी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-वर्तमान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-व्याप्त	JJ	TEMP	O	O	O	O
-बुराइयों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दूर	NST	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-संकल्प	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सिद्धि	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिद्धांत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चलने	VM	TEMP	O	O	B-MISC	O
-का	PSP	TEMP	O	O	O	O
-अभियान	NN	TEMP	B-MISC	O	O	OCC
-चलाया	VM	TEMP	I-MISC	O	B-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-महाराजा	XC	TEMP	O	O	O	O
-अग्रसेन	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मार्ग	NN	TEMP	O	O	O	O
-प्रशस्त	JJ	TEMP	O	O	B-MISC	OCC
-करता	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+प्रधानमंत्री
+नरेंद्र
+मोदी
+ने
+भी
+वर्तमान
+में
+समाज
+में
+व्याप्त
+बुराइयों
+को
+दूर
+करने
+के
+लिए
+संकल्प
+से
+सिद्धि
+के
+सिद्धांत
+पर
+चलने
+का
+अभियान
+चलाया
+है
+,
+जो
+महाराजा
+अग्रसेन
+के
+मार्ग
+प्रशस्त
+करता
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-हमने	PRP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-सिद्धांत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	B-MISC	DESC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-2022	QC	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-प्रकार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सामाजिक	JJ	TEMP	O	O	O	O
-बुराईयों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मुक्त	JJ	TEMP	O	O	B-MISC	OCC
-करना	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+हमने
+इस
+सिद्धांत
+पर
+चलते
+हुए
+2022
+तक
+समाज
+को
+विभिन्न
+प्रकार
+की
+सामाजिक
+बुराईयों
+से
+मुक्त
+करना
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वैश्य	JJ	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-हमेशा	RB	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-सेवा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बढ़-चढ़	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-भाग	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+वैश्य
+समाज
+ने
+हमेशा
+ही
+देश
+व
+समाज
+सेवा
+में
+बढ़-चढ़
+कर
+भाग
+लिया
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नींव	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	B-MISC	OCC
-करता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+विकास
+की
+नींव
+का
+काम
+करता
+है
+.
 
-उद्योग	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-पर्यावरण	NN	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-विपुल	JJ	TEMP	O	O	O	O
-गोयल	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-महाराजा	XC	TEMP	O	O	O	O
-जयंती	NNP	TEMP	O	O	O	O
-समारोह	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रदेशभर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आयोजित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-चाहिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-ताकि	CC	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-सुधार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	OCC
-किए	VM	TEMP	O	O	B-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-कार्याे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मालूम	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-सके	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उद्योग
+एवं
+पर्यावरण
+मंत्री
+विपुल
+गोयल
+ने
+कहा
+कि
+महाराजा
+जयंती
+समारोह
+में
+प्रदेशभर
+में
+आयोजित
+होने
+चाहिए
+ताकि
+समाज
+को
+लोगों
+को
+उनके
+द्वारा
+समाज
+सुधार
+के
+लिए
+किए
+गए
+कार्याे
+के
+बारे
+में
+मालूम
+हो
+सके
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वैश्य	NN	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-वंश	NN	TEMP	O	O	O	OCC
-नहीं	NEG	TEMP	O	O	O	O
-बल्कि	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-संस्कृति	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-सिद्धांत	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	B-MISC	OCC
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+वैश्य
+कोई
+वंश
+नहीं
+बल्कि
+एक
+संस्कृति
+और
+सिद्धांत
+का
+नाम
+है
+.
 
-गोयल	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-दलगत	JJ	TEMP	O	O	O	O
-राजनीति	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ऊपर	NST	TEMP	O	O	O	O
-उठकर	VM	TEMP	O	O	B-MISC	O
-काम	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गोयल
+ने
+कहा
+कि
+सरकार
+दलगत
+राजनीति
+से
+ऊपर
+उठकर
+काम
+कर
+रही
+है
+.
 
-प्रत्येक	QF	TEMP	O	O	O	O
-जिलों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-समाधान	NN	TEMP	O	O	O	O
-दिवस	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आयोजन	NN	TEMP	B-MISC	O	B-MISC	O
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-उद्योगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संबंधित	JJ	TEMP	O	O	O	O
-समस्याओं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-निपटारा	NN	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-जा	VAUX	TEMP	O	O	I-MISC	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रत्येक
+जिलों
+में
+समाधान
+दिवस
+का
+आयोजन
+करके
+उद्योगों
+से
+संबंधित
+समस्याओं
+का
+मौके
+पर
+ही
+निपटारा
+किया
+जा
+रहा
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-भिवानी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-समाधान	NN	TEMP	O	O	O	O
-दिवस	NN	TEMP	O	O	O	O
-आयोजित	JJ	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-जाएगा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+भिवानी
+में
+भी
+जल्द
+ही
+समाधान
+दिवस
+आयोजित
+किया
+जाएगा
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-भिवानी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उद्योगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संबंधित	JJ	TEMP	O	O	O	O
-क्लीयरेंस	NN	TEMP	O	O	O	O
-प्रमाणों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-अडचन	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-आने	VM	TEMP	O	O	I-MISC	O
-दी	VAUX	TEMP	O	O	I-MISC	O
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+भिवानी
+में
+उद्योगों
+से
+संबंधित
+क्लीयरेंस
+प्रमाणों
+के
+जारी
+करने
+में
+अडचन
+नहीं
+आने
+दी
+जाएगी
+.
 
-सांसद	JJ	TEMP	O	O	O	O
-धर्मबीर	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इतिहास	NN	TEMP	O	O	O	O
-गवाह	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-वैश्य	JJ	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बिना	NEG	TEMP	O	O	O	O
-अधूरा	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सांसद
+धर्मबीर
+¨
+सह
+ने
+कहा
+कि
+इतिहास
+गवाह
+है
+कि
+देश
+व
+गांव
+का
+विकास
+वैश्य
+समाज
+के
+बिना
+अधूरा
+है
+.
 
-जहां	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-वैश्य	JJ	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-खडा	VM	TEMP	O	O	B-MISC	OCC
-होता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-आप	PRP	TEMP	O	O	O	O
-दौडने	VM	TEMP	O	O	B-MISC	OCC
-लगता	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जहां
+पर
+वैश्य
+समाज
+खडा
+होता
+है
+,
+वहां
+विकास
+अपने
+आप
+दौडने
+लगता
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अमेरिका	NNP	TEMP	O	O	O	O
-जैसे	PSP	TEMP	O	O	O	O
-देशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बागडोर	NN	TEMP	O	O	O	O
-उद्योगपति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हाथों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सौंपी	VM	TEMP	B-MISC	O	B-STAT	OCC
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+अमेरिका
+जैसे
+देशों
+ने
+भी
+अपने
+देश
+की
+बागडोर
+उद्योगपति
+के
+हाथों
+में
+सौंपी
+है
+.
 
-देश	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिडला	VM	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-खजाने	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मुंह	NN	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-आजादी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-खोल	VM	TEMP	O	O	B-MISC	OCC
-दिया	VAUX	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देश
+में
+बिडला
+ने
+अपने
+खजाने
+को
+मुंह
+देश
+की
+आजादी
+के
+लिए
+खोल
+दिया
+था
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-भिवानी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-शिक्षण	NN	TEMP	O	O	O	O
-संस्थाएं	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-वैश्य	JJ	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-देन	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+भिवानी
+में
+सभी
+शिक्षण
+संस्थाएं
+व
+अस्पताल
+वैश्य
+समाज
+की
+देन
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-आज	NN	TEMP	O	O	O	O
-जरूरत	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-व्यापारियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-राहत	NN	TEMP	B-MISC	O	B-MISC	OCC
-प्रदान	NN	TEMP	I-MISC	O	I-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+आज
+जरूरत
+है
+व्यापारियों
+को
+राहत
+प्रदान
+करने
+की
+.
 
-ऐसी	DEM	TEMP	O	O	O	O
-नीति	NN	TEMP	O	O	O	O
-लागू	JJ	TEMP	O	O	B-MISC	OCC
-होनी	VM	TEMP	O	O	I-MISC	O
-चाहिए	VAUX	TEMP	O	O	I-MISC	O
-जिससे	PRP	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-सुरक्षित	JJ	TEMP	O	O	O	O
-महसूस	JJ	TEMP	O	O	O	O
-करे	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जिससे	PRP	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-व्यापार	NN	TEMP	O	O	O	O
-खुशी-खुशी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कर	VM	TEMP	O	O	B-MISC	O
-सके	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऐसी
+नीति
+लागू
+होनी
+चाहिए
+जिससे
+कि
+व्यापारी
+सुरक्षित
+महसूस
+करे
+,
+जिससे
+कि
+वह
+अपना
+व्यापार
+खुशी-खुशी
+से
+कर
+सके
+.
 
-विधायक	JJ	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-घनश्यामदास	XC	TEMP	O	O	O	O
-सर्राफ	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-संबोधन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-वैश्य	JJ	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-गरीब	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-अपील	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विधायक
+एवं
+पूर्व
+मंत्री
+घनश्यामदास
+सर्राफ
+ने
+कहा
+कि
+अपने
+संबोधन
+में
+वैश्य
+समाज
+के
+लोगों
+से
+गरीब
+लोगों
+की
+मदद
+करने
+की
+अपील
+की
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-हमेशा	RB	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-अहम	JJ	TEMP	O	O	O	O
-योगदान	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+इस
+समाज
+ने
+हमेशा
+ही
+देश
+व
+समाज
+के
+विकास
+में
+अपना
+अहम
+योगदान
+दिया
+है
+.
 
-अंबाला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विधायक	JJ	TEMP	O	O	O	O
-असीम	JJ	TEMP	O	O	O	O
-गोयल	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-आढ़त	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बजाय	PSP:?	TEMP	O	O	O	O
-आढ़तियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-जाएगा	VAUX	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-स्वीकृति	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मुहर	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अंबाला
+के
+विधायक
+असीम
+गोयल
+ने
+कहा
+कि
+अब
+आढ़त
+का
+पैसा
+किसानों
+की
+बजाय
+आढ़तियों
+के
+खाते
+ही
+जाएगा
+,
+इस
+योजना
+पर
+मुख्यमंत्री
+ने
+अपनी
+स्वीकृति
+की
+मुहर
+लगा
+दी
+है
+.
 
-समारोह	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अंतरराष्ट्रीय	JJ	TEMP	O	O	O	O
-वैश्य	JJ	TEMP	O	O	O	O
-महासम्मेलन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-राष्ट्रीय	JJ	TEMP	O	O	O	O
-अध्यक्ष	NN	TEMP	O	O	O	O
-बाबूलाल	JJ	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अशोक	XC	TEMP	O	O	O	O
-मित्तल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पवन	XC	TEMP	O	O	O	O
-बुवानीवाला	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बृजलाल	NNP	TEMP	O	O	O	O
-सर्राफ	NN	TEMP	O	O	O	O
-सहित	JJ	TEMP	O	O	O	O
-अनेक	QF	TEMP	O	O	O	O
-पदाधिकारियों	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-संबोधित	JJ	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+समारोह
+को
+अंतरराष्ट्रीय
+वैश्य
+महासम्मेलन
+के
+राष्ट्रीय
+अध्यक्ष
+बाबूलाल
+गुप्ता
+,
+अशोक
+मित्तल
+,
+पवन
+बुवानीवाला
+,
+बृजलाल
+सर्राफ
+सहित
+अनेक
+पदाधिकारियों
+भी
+संबोधित
+किया
+.
 
-इस	DEM	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-बनारसीदास	XC	TEMP	O	O	O	O
-गुप्ता	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-अजय	XC	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दर्शना	XC	TEMP	O	O	O	O
-सर्राफ	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-उमा	XC	TEMP	O	O	O	O
-गोयल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सीमा	XC	TEMP	O	O	O	O
-बंसल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-लघु	JJ	TEMP	O	O	O	O
-उद्योग	NN	TEMP	O	O	O	O
-संगठन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रदेशाध्यक्ष	JJ	TEMP	O	O	O	O
-रमेश	XC	TEMP	O	O	O	O
-बंसल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शिवरत्न	XC	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रवीण	JJ	TEMP	O	O	O	O
-गर्ग	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नंद	XC	TEMP	O	O	O	O
-किशोर	XC	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-तरसेम	XC	TEMP	O	O	O	O
-मित्तल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विजय	XC	TEMP	O	O	O	O
-बंसल	NNP	TEMP	O	O	O	O
-टैणी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मुरारीलाल	JJ	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-धर्मेंद्र	NNP	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-जदल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-र	RP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-वद्र	NN	TEMP	O	O	O	O
-लाखोटिया	JJ	TEMP	O	O	O	O
-सहित	JJ	TEMP	O	O	O	O
-वैश्य	JJ	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-सहित	JJ	TEMP	O	O	O	O
-अनेक	QF	TEMP	O	O	O	O
-गणमान्य	JJ	TEMP	O	O	O	O
-नागरिक	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	B-MISC	O	B-STAT	DECL
-थे	VM	TEMP	I-MISC	O	I-STAT	O
+इस
+मौके
+पर
+पूर्व
+मुख्यमंत्री
+बनारसीदास
+गुप्ता
+के
+पुत्र
+अजय
+गुप्ता
+,
+दर्शना
+सर्राफ
+,
+उमा
+गोयल
+,
+सीमा
+बंसल
+,
+लघु
+उद्योग
+संगठन
+के
+प्रदेशाध्यक्ष
+रमेश
+बंसल
+,
+शिवरत्न
+गुप्ता
+,
+प्रवीण
+गर्ग
+,
+नंद
+किशोर
+अग्रवाल
+,
+तरसेम
+मित्तल
+,
+विजय
+बंसल
+टैणी
+,
+मुरारीलाल
+गुप्ता
+,
+धर्मेंद्र
+¨
+जदल
+,
+र
+¨
+वद्र
+लाखोटिया
+सहित
+वैश्य
+समाज
+सहित
+अनेक
+गणमान्य
+नागरिक
+मौजूद
+थे

@@ -1,486 +1,486 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-बहादुरगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-नेशनल	XC	TEMP	O	O	O	O
-ग्रीन	XC	TEMP	O	O	O	O
-ट्रिब्यूनल	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-एनजीटी	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आदेशों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-नगर	NN	TEMP	O	O	O	O
-परिषद	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दिनभर	NN	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	DECL
-.	SYM	TEMP	O	O	O	O
+बहादुरगढ़
+:
+नेशनल
+ग्रीन
+ट्रिब्यूनल
+(
+एनजीटी
+)
+के
+आदेशों
+पर
+कार्रवाई
+करते
+हुए
+नगर
+परिषद
+ने
+शहर
+में
+दिनभर
+कार्रवाई
+की
+है
+.
 
-नगर	NN	TEMP	O	O	O	O
-परिषद	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सडक	JJ	TEMP	O	O	O	O
-किनारे	NN	TEMP	O	O	O	O
-अवैध	JJ	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-सामग्री	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-स्टॉक	NN	TEMP	O	O	B-STAT	DES
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-छह	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चालान	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+परिषद
+ने
+सडक
+किनारे
+अवैध
+रूप
+से
+निर्माण
+सामग्री
+का
+स्टॉक
+करने
+वाले
+छह
+लोगों
+के
+चालान
+किए
+है
+.
 
-उन	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पाच-पाच	NN	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-किया	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन
+पर
+पाच-पाच
+हजार
+रुपये
+जुर्माना
+भी
+किया
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नप	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चालान	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-12	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	O	O	O	O
-वसूल	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+कुछ
+दिन
+पहले
+भी
+नप
+की
+ओर
+से
+इन
+लोगों
+के
+चालान
+कर
+12
+हजार
+रुपये
+जुर्माना
+वसूल
+किया
+जा
+चुका
+है
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-परिषद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-स्थानों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चल	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-निर्माण	NN	TEMP	O	O	O	O
-कार्याें	NN	TEMP	B-MISC	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-रूकवाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+नगर
+परिषद
+के
+अधिकारियों
+ने
+शहर
+में
+कई
+स्थानों
+पर
+चल
+रहे
+निर्माण
+कार्याें
+को
+भी
+रूकवाया
+है
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-परिषद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चल	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-निर्माण	NN	TEMP	O	O	O	O
-कार्याें	NN	TEMP	B-MISC	O	O	O
-को	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-रोक	VM	TEMP	B-MISC	O	B-MISC	OCC
-देने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-अपील	NN	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	I-MISC	O
-की	VM	TEMP	B-MISC	O	I-MISC	-1
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+नगर
+परिषद
+की
+ओर
+से
+शहर
+में
+चल
+रहे
+निर्माण
+कार्याें
+को
+कुछ
+दिन
+के
+रोक
+देने
+की
+अपील
+भी
+की
+है
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नप	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कूडा	NN	TEMP	O	O	O	OCC
-न	NEG	TEMP	B-MISC	O	B-MISC	O
-जलाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-अपील	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+नप
+ने
+लोगों
+से
+किसी
+तरह
+का
+कूडा
+न
+जलाने
+की
+अपील
+की
+है
+.
 
-अगर	CC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-कूडा	NN	TEMP	O	O	O	O
-जलाता	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-पकडा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+कोई
+कूडा
+जलाता
+हुआ
+पकडा
+गया
+तो
+उसके
+खिलाफ
+कार्रवाई
+की
+जाएगी
+तथा
+उस
+पर
+दो
+हजार
+रुपये
+का
+जुर्माना
+किया
+जाएगा
+.
 
-सडकों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-किया	VM	TEMP	O	O	O	O
-सुबह-शाम	NN	TEMP	O	O	O	O
-पानी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-छिडकाव	NN	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भारी	JJ	TEMP	O	O	O	O
-मात्रा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-वायु	XC	TEMP	O	O	O	O
-प्रदूषण	NN	TEMP	O	O	O	O
-धुएं	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-धुल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वजह	NN	TEMP	O	O	B-MISC	O
-से	PSP	TEMP	O	O	I-MISC	O
-हो	VM	TEMP	O	O	I-MISC	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सडकों
+पर
+किया
+सुबह-शाम
+पानी
+का
+छिडकाव
+इस
+समय
+शहर
+में
+भारी
+मात्रा
+में
+वायु
+प्रदूषण
+धुएं
+और
+धुल
+की
+वजह
+से
+हो
+रहा
+है
+.
 
-सडकों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उडती	VM	TEMP	O	O	B-STAT	O
-धूल	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-प्रदूषण	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	B-MISC	OCC
-बढ़ाया	VM	TEMP	B-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सडकों
+पर
+उडती
+धूल
+ने
+भी
+प्रदूषण
+का
+स्तर
+बढ़ाया
+है
+.
 
-ऐसे	PRP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एनजीटी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	B-MISC	O	B-MISC	O
-दिए	VM	TEMP	I-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-सडकों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-धूल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उडने	VM	TEMP	B-MISC	O	O	O
-से	PSP	TEMP	O	O	O	O
-रोकने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-सुबह-शाम	NN	TEMP	O	O	O	O
-पानी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-छिडकाव	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऐसे
+में
+एनजीटी
+की
+ओर
+से
+आदेश
+दिए
+गए
+है
+सडकों
+पर
+धूल
+को
+उडने
+से
+रोकने
+के
+लिए
+सुबह-शाम
+पानी
+का
+छिडकाव
+किया
+जाए
+.
 
-इन्हीं	DEM	TEMP	O	O	O	O
-आदेशों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-परिषद	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-मार्गाें	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पानी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-छिडकाव	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-ताकि	CC	TEMP	O	O	O	O
-धूल	NN	TEMP	O	O	B-MISC	OCC
-न	NEG	TEMP	B-MISC	O	I-MISC	O
-उड	VM	TEMP	I-MISC	O	I-MISC	O
-सके	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-प्रदूषण	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-राहत	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिल	VM	TEMP	I-MISC	O	I-MISC	O
-सके	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन्हीं
+आदेशों
+के
+चलते
+नगर
+परिषद
+ने
+शहर
+के
+कुछ
+मार्गाें
+पर
+पानी
+का
+छिडकाव
+कराया
+है
+ताकि
+धूल
+न
+उड
+सके
+और
+प्रदूषण
+से
+लोगों
+को
+कुछ
+राहत
+मिल
+सके
+.
 
-कूडा	NN	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	O
-जलाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	O	O	O	OCC
-नगर	NN	TEMP	O	O	O	O
-परिषद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सफाई	JJ	TEMP	O	O	O	O
-दरोगा	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सफाई	JJ	TEMP	O	O	O	O
-कर्मचारियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कडे	JJ	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-सफाई	NN	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-कूडे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बिल्कुल	RB	TEMP	O	O	B-MISC	O
-न	NEG	TEMP	B-MISC	O	I-MISC	OCC
-जलाएं	NN	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कूडा
+न
+जलाने
+के
+भी
+निर्देश
+नगर
+परिषद
+के
+अधिकारियों
+की
+ओर
+से
+सफाई
+दरोगा
+व
+सफाई
+कर्मचारियों
+को
+कडे
+निर्देश
+दिए
+गए
+है
+कि
+वे
+सफाई
+करने
+के
+बाद
+कूडे
+को
+बिल्कुल
+न
+जलाएं
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-आसपास	NST	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जागरूक	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करे	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-कूडा	NN	TEMP	O	O	B-MISC	O
-न	NEG	TEMP	B-MISC	O	I-MISC	O
-जलाएं	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+अपने
+आसपास
+के
+क्षेत्र
+में
+लोगों
+को
+भी
+जागरूक
+करे
+कि
+वे
+कूडा
+न
+जलाएं
+.
 
-इतना	QF	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-नप	NN	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सख्त	JJ	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-कूडा	NN	TEMP	O	O	O	O
-जलाता	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-पाया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इतना
+ही
+नहीं
+नप
+अधिकारियों
+ने
+सख्त
+निर्देश
+दिए
+है
+कि
+अगर
+कोई
+कूडा
+जलाता
+हुआ
+पाया
+जाता
+है
+तो
+उस
+पर
+2
+हजार
+रुपये
+का
+जुर्माना
+करने
+के
+निर्देश
+दिए
+गए
+है
+.
 
-वर्जन	NN	TEMP	O	O	O	O
-नप	NN	TEMP	O	O	O	O
-सडक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सामग्री	NN	TEMP	O	O	O	O
-रखने	VM	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चालान	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वर्जन
+नप
+सडक
+पर
+सामग्री
+रखने
+वालों
+के
+चालान
+किए
+गए
+है
+.
 
-उन	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-किया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन
+पर
+जुर्माना
+भी
+किया
+गया
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-स्थानों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-निर्माण	XC	TEMP	O	O	B-MISC	OCC
-कार्य	NN	TEMP	B-MISC	O	I-MISC	O
-भी	RP	TEMP	O	O	O	O
-रुकवाए	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+शहर
+में
+कई
+स्थानों
+पर
+निर्माण
+कार्य
+भी
+रुकवाए
+गए
+हैं
+.
 
--रमेश	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
+-रमेश
+शर्मा
 
-एमई	XC	TEMP	O	O	O	O
-वर्जन	NN	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-वासियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपील	NN	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	B	O	O
-दिनों	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	OCC
-कार्य	NN	TEMP	B-MISC	O	O	O
-रोक	VM	TEMP	B-MISC	O	B-MISC	OCC
-दें	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एमई
+वर्जन
+शहर
+वासियों
+से
+अपील
+की
+है
+कि
+वे
+कुछ
+दिनों
+के
+निर्माण
+कार्य
+रोक
+दें
+.
 
-अगर	CC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-सोच	VM	TEMP	O	O	I-MISC	OCC
-रहा	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-विचार	NN	TEMP	O	O	O	O
-फिलहाल	RB	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-टाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-दें	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+कोई
+नया
+घर
+बनाने
+की
+सोच
+रहा
+है
+तो
+उसका
+विचार
+फिलहाल
+कुछ
+दिन
+के
+लिए
+टाल
+दें
+.
 
-जब	PRP	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-सामान्य	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-जाए	VAUX	TEMP	O	O	I-MISC	O
-तब	PRP	TEMP	O	O	O	O
-निर्माण	XC	TEMP	O	O	B-MISC	OCC
-कार्य	NN	TEMP	B-MISC	O	I-MISC	O
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दें	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+स्थिति
+सामान्य
+हो
+जाए
+तब
+निर्माण
+कार्य
+शुरू
+कर
+दें
+.
 
-फिलहाल	RB	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-परिषद	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	B-MISC	O	O	O
-दें	VM	TEMP	I-MISC	O	B-MISC	OCC
-ताकि	CC	TEMP	O	O	O	O
-स्मॉग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-राहत	NN	TEMP	O	O	B-MISC	OCC
-मिल	VM	TEMP	O	O	I-MISC	O
-सके	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिलहाल
+लोग
+नगर
+परिषद
+का
+साथ
+दें
+ताकि
+स्मॉग
+से
+कुछ
+राहत
+मिल
+सके
+.
 
--मुकेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
+-मुकेश
+कुमार
 
-सचिव	XC	TEMP	O	O	O	O
+सचिव
 
-नगर	NN	TEMP	O	O	O	O
-परिषद	NN	TEMP	O	O	O	O
+नगर
+परिषद

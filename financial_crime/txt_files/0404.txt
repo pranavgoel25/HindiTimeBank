@@ -1,272 +1,272 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हमीरपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-उपभोक्ता	NN	TEMP	O	O	O	O
-फोरम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चोरी	NN	TEMP	O	O	B-MISC	OCC
-गए	VM	TEMP	O	O	I-MISC	O
-ट्रैक्टर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बीमा	NN	TEMP	O	O	O	O
-क्लेम	NN	TEMP	B-MISC	O	O	O
-न	NEG	TEMP	I-MISC	O	O	O
-देने	VM	TEMP	I-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मैग्मा	XC	TEMP	O	O	O	O
-इंश्योरेंस	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+हमीरपुर
+:
+जिला
+उपभोक्ता
+फोरम
+ने
+चोरी
+गए
+ट्रैक्टर
+का
+बीमा
+क्लेम
+न
+देने
+पर
+मैग्मा
+इंश्योरेंस
+कंपनी
+के
+प्रबंधक
+पर
+दस
+हजार
+रुपये
+का
+जुर्माना
+लगाया
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बीमा	JJ	TEMP	O	O	O	O
-क्लेम	NN	TEMP	O	O	O	O
-3.66	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-दो	QC	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-अंदर	NST	TEMP	B-MISC	O	O	O
-अदा	NN	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+बीमा
+क्लेम
+3.66
+लाख
+रुपये
+की
+धनराशि
+दो
+माह
+के
+अंदर
+अदा
+करने
+के
+निर्देश
+दिए
+है
+.
 
-फोरम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रीडर	NN	TEMP	O	O	O	O
-स्वतंत्र	JJ	TEMP	O	O	O	O
-रावत	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-मुख्यालय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रमेडी	NN	TEMP	O	O	O	O
-मोहल्ला	XC	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-प्रमोद	XC	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-राजेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-15	QC	TEMP	O	I	O	O
-जुलाई	NNP	TEMP	O	I	O	O
-2016	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-प्रबंधक	JJ	TEMP	O	O	O	O
-मैग्मा	XC	TEMP	O	O	O	O
-एचडीआई	XC	TEMP	O	O	O	O
-जनरल	XC	TEMP	O	O	O	O
-इंश्योरेंस	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-आर्यनगर	XC	TEMP	O	O	O	O
-कानपुर	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-प्रबंधक	JJ	TEMP	O	O	O	O
-मैग्मा	XC	TEMP	O	O	O	O
-पार्क	NNP	TEMP	O	O	O	O
-स्टीट	XC	TEMP	O	O	O	O
-कोलकाता	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-वाद	XC	TEMP	O	O	O	O
-दायर	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फोरम
+के
+रीडर
+स्वतंत्र
+रावत
+ने
+बताया
+कि
+मुख्यालय
+के
+रमेडी
+मोहल्ला
+निवासी
+प्रमोद
+कुमार
+शर्मा
+पुत्र
+राजेंद्र
+कुमार
+ने
+पिछले
+15
+जुलाई
+2016
+को
+प्रबंधक
+मैग्मा
+एचडीआई
+जनरल
+इंश्योरेंस
+कंपनी
+आर्यनगर
+कानपुर
+व
+प्रबंधक
+मैग्मा
+पार्क
+स्टीट
+कोलकाता
+के
+खिलाफ
+वाद
+दायर
+किया
+.
 
-जिसमें	PRP	TEMP	O	O	O	O
-वादी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अधिवक्ता	NN	TEMP	O	O	O	O
-रुद्र	XC	TEMP	O	O	O	O
-प्रताप	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वादी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मौदहा	JJ	TEMP	O	O	O	O
-कस्बे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-श्री	XC	TEMP	O	O	O	O
-राम	NNP	TEMP	O	O	O	O
-मशीनरी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ट्रैक्टर	NN	TEMP	O	O	B-MISC	O
-खरीदा	VM	TEMP	B-MISC	O	I-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसमें
+वादी
+के
+अधिवक्ता
+रुद्र
+प्रताप
+¨
+सह
+ने
+कहा
+कि
+वादी
+ने
+मौदहा
+कस्बे
+के
+श्री
+राम
+मशीनरी
+से
+ट्रैक्टर
+खरीदा
+था
+.
 
-उसका	PRP	TEMP	O	O	O	O
-बीमा	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कराया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसका
+बीमा
+भी
+कराया
+गया
+था
+.
 
-जिसकी	PRP	TEMP	O	O	O	O
-पालिसी	NN	TEMP	O	O	O	O
-25	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-2013	QC	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-24	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-2014	QC	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-वैध	JJ	TEMP	O	O	B-MISC	OCC
-थी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसकी
+पालिसी
+25
+नवंबर
+2013
+से
+24
+नवंबर
+2014
+तक
+वैध
+थी
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसी	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-वादी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ट्रैक्टर	NN	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-मार्च	NNP	TEMP	O	O	O	O
-2014	QC	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बताया
+कि
+उसी
+दौरान
+वादी
+का
+ट्रैक्टर
+तीन
+मार्च
+2014
+को
+चोरी
+चला
+गया
+.
 
-वादी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जिसके	PRP	TEMP	O	O	O	O
-खोने	VM	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वादी
+ने
+जिसके
+खोने
+की
+रिपोर्ट
+भी
+दर्ज
+कराई
+.
 
-जिसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-वादी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-अभिलेख	NN	TEMP	O	O	O	O
-बीमा	JJ	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जिसके
+बाद
+वादी
+ने
+सभी
+अभिलेख
+बीमा
+कार्यालय
+को
+दिए
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-बीमा	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बीमा	JJ	TEMP	O	O	O	O
-क्लेम	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-पत्रावली	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निस्तारण	NN	TEMP	B-MISC	O	B-MISC	O
-नही	NEG	TEMP	I-MISC	O	I-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+बीमा
+कंपनी
+ने
+बीमा
+क्लेम
+की
+पत्रावली
+का
+निस्तारण
+नही
+किया
+गया
+.
 
-जो	PRP	TEMP	O	O	O	O
-उपभोक्ता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-सेवा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कमी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंतर्गत	PSP:?	TEMP	O	O	O	O
-आता	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जो
+उपभोक्ता
+के
+साथ
+सेवा
+में
+कमी
+के
+अंतर्गत
+आता
+है
+.
 
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सुनवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-फोरम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अध्यक्ष	NN	TEMP	O	O	O	O
-संतोष	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-विश्वकर्मा	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सदस्या	NN	TEMP	O	O	O	O
-हुमैरा	XC	TEMP	O	O	O	O
-फात्मा	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मैग्मा	XC	TEMP	O	O	O	O
-जनरल	XC	TEMP	O	O	O	O
-इंश्योरेंस	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बीमा	JJ	TEMP	O	O	O	O
-क्लेम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-3.66	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-दो	QC	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-अंदर	NST	TEMP	B-MISC	O	O	O
-अदा	NN	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	B-MISC	O	B-MISC	O
-दिए	VM	TEMP	I-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+मामले
+की
+सुनवाई
+करते
+हुए
+फोरम
+के
+अध्यक्ष
+संतोष
+कुमार
+विश्वकर्मा
+व
+सदस्या
+हुमैरा
+फात्मा
+ने
+मैग्मा
+जनरल
+इंश्योरेंस
+कंपनी
+के
+प्रबंधक
+को
+बीमा
+क्लेम
+की
+3.66
+लाख
+रुपये
+की
+धनराशि
+दो
+माह
+के
+अंदर
+अदा
+करने
+के
+आदेश
+दिए
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-मुकदमा	JJ	TEMP	O	O	O	O
-खर्च	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-शारीरिक	JJ	TEMP	O	O	O	O
-कष्ट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-अदा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
+साथ
+ही
+मुकदमा
+खर्च
+व
+शारीरिक
+कष्ट
+के
+दस
+हजार
+रुपये
+भी
+अदा
+करने
+को
+कहा

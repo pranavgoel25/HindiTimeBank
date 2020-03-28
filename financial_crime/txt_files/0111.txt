@@ -1,122 +1,122 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
+﻿संवाद
+सूत्र
 
-भूना	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-टोहाना	VM	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-हैफेड	NN	TEMP	O	O	O	O
-गोदाम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निकट	NST	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-जेबीटी	NN	TEMP	O	O	O	O
-अध्यापक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-सेंध	NN	TEMP	B-MISC	O	O	O
-मारकर	VM	TEMP	I-MISC	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-चुरा	VM	TEMP	B-MISC	O	B-MISC	OCC
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भूना
+:
+टोहाना
+रोड
+पर
+हैफेड
+गोदाम
+के
+निकट
+स्थित
+जेबीटी
+अध्यापक
+के
+घर
+सेंध
+मारकर
+अज्ञात
+चोरों
+ने
+25
+हजार
+रुपये
+की
+राशि
+चुरा
+ली
+है
+.
 
-राजकीय	JJ	TEMP	O	O	O	O
-प्राथमिक	JJ	TEMP	O	O	O	O
-पाठशाला-भूना	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कार्यरत	JJ	TEMP	O	O	O	O
-अध्यापक	NN	TEMP	O	O	O	O
-होशियार	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	OCC
-भूना	VM	TEMP	O	O	B-MISC	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-देकर	VM	TEMP	B-MISC	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरूद्ध	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+राजकीय
+प्राथमिक
+पाठशाला-भूना
+में
+कार्यरत
+अध्यापक
+होशियार
+¨
+सह
+ने
+मामले
+की
+शिकायत
+भूना
+पुलिस
+ने
+देकर
+अज्ञात
+चोरों
+के
+विरूद्ध
+कार्रवाई
+करने
+की
+मांग
+की
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-अज्ञात	JJ	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+मामला
+दर्ज
+करके
+अज्ञात
+चोरों
+की
+तलाश
+शुरू
+कर
+दी
+है
+.
 
-बता	VM	TEMP	O	O	B-MISC	REP
-दें	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-जेबीटी	JJ	TEMP	O	O	O	O
-अध्यापक	NN	TEMP	O	O	O	O
-होशियार	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पूरा	JJ	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-गत	JJ	TEMP	O	O	O	O
-दिनों	NN	TEMP	O	O	O	O
-भिवानी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-विवाह	NN	TEMP	O	O	O	O
-समारोह	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिरकत	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	B-MISC	O	I-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बता
+दें
+कि
+जेबीटी
+अध्यापक
+होशियार
+¨
+सह
+का
+पूरा
+परिवार
+गत
+दिनों
+भिवानी
+में
+एक
+विवाह
+समारोह
+में
+शिरकत
+करने
+गया
+हुआ
+था
+.
 
-जब	PRP	TEMP	O	O	O	O
-वापस	JJ	TEMP	O	O	B-MISC	OCC
-आकर	VM	TEMP	O	O	I-MISC	O
-देखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-सारा	QF	TEMP	O	O	O	O
-समान	JJ	TEMP	O	O	O	O
-बिखरा	VM	TEMP	B-MISC	O	B-MISC	OCC
-पडा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-अलमारी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-गायब	JJ	TEMP	B-MISC	O	B-STAT	DECL
-थे	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जब
+वापस
+आकर
+देखा
+तो
+सारा
+समान
+बिखरा
+पडा
+था
+और
+अलमारी
+में
+से
+25
+हजार
+रुपये
+गायब
+थे
+.

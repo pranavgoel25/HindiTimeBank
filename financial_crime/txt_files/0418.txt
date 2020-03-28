@@ -1,201 +1,201 @@
 
-अलीगढ़	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-स्वच्छता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-संवेदनशील	JJ	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-आयुक्त	JJ	TEMP	O	O	O	O
-संतोष	NN	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-गंदगी	NN	TEMP	B-MISC	O	O	O
-फैलाने	VM	TEMP	I-MISC	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-ठोस	XC	TEMP	O	O	O	O
-कदम	NN	TEMP	O	O	O	O
-उठाने	VM	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-तैयारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अलीगढ़
+:
+स्वच्छता
+के
+प्रति
+संवेदनशील
+नगर
+आयुक्त
+संतोष
+कुमार
+शर्मा
+ने
+गंदगी
+फैलाने
+वालों
+के
+खिलाफ
+ठोस
+कदम
+उठाने
+की
+तैयारी
+कर
+रहे
+हैं
+.
 
-नगर	NN	TEMP	O	O	O	O
-निगम	JJ	TEMP	O	O	O	O
-अधिनियम	NN	TEMP	O	O	O	O
-1959	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंतर्गत	PSP:?	TEMP	O	O	O	O
-गंदगी	NN	TEMP	B-MISC	O	O	O
-फैलाने	VM	TEMP	I-MISC	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-चार्ज	NN	TEMP	B-MISC	O	B-MISC	O
-पडेगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+निगम
+अधिनियम
+1959
+के
+अंतर्गत
+गंदगी
+फैलाने
+वालों
+पर
+अब
+अधिक
+चार्ज
+पडेगा
+.
 
-ऑन	XC	TEMP	O	O	O	O
-स्पॉट	XC	TEMP	O	O	O	O
-फाइन	XC	TEMP	O	O	O	O
-पॉलिसी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	B-MISC	O	O	O
-वसूला	VAUX	TEMP	I-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऑन
+स्पॉट
+फाइन
+पॉलिसी
+के
+तहत
+मौके
+पर
+ही
+जुर्माना
+वसूला
+जाएगा
+.
 
-यह	DEM	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-2000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-होगा	VM	TEMP	O	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+यह
+जुर्माना
+200
+रुपये
+से
+लेकर
+2000
+रुपये
+तक
+होगा
+.
 
-इस	DEM	TEMP	O	O	O	O
-पॉलिसी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गंदगी	NN	TEMP	B-MISC	O	O	O
-फैलाने	VM	TEMP	I-MISC	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बचना	VM	TEMP	B-MISC	O	B-MISC	OCC
-मुश्किल	JJ	TEMP	O	O	B-MISC	O
-होगा	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+पॉलिसी
+के
+गंदगी
+फैलाने
+वालों
+का
+बचना
+मुश्किल
+होगा
+.
 
-नगर	NN	TEMP	O	O	O	O
-आयुक्त	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	B	O	O
-वर्ष	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गंदगी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-जागरूक	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+आयुक्त
+ने
+कहा
+कि
+दो
+वर्ष
+से
+लोगों
+को
+गंदगी
+को
+लेकर
+जागरूक
+किया
+जा
+रहा
+है
+.
 
-शहर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-सहयोग	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शहर
+के
+लोगों
+ने
+काफी
+सहयोग
+किया
+.
 
-समाजिक	JJ	TEMP	O	O	O	O
-संस्थाएं	NN	TEMP	O	O	O	O
-स्वयं	PRP	TEMP	O	O	O	O
-आगे	NST	TEMP	B-MISC	O	O	O
-बढ़कर	VM	TEMP	I-MISC	O	B-MISC	OCC
-आई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+समाजिक
+संस्थाएं
+स्वयं
+आगे
+बढ़कर
+आई
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-ऐसे	DEM	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-जानबूझकर	VM	TEMP	O	O	O	O
-गंदगी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+,
+अभी
+भी
+कुछ
+ऐसे
+लोग
+हैं
+,
+जो
+जानबूझकर
+गंदगी
+करते
+हैं
+.
 
-पॉलीथीन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कचरा	NN	TEMP	B-MISC	O	O	O
-लपेटकर	VM	TEMP	I-MISC	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-सडक	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-फेंक	VM	TEMP	B-MISC	O	B-MISC	OCC
-देते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिससे	PRP	TEMP	O	O	O	O
-पशुओं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-झुंड	NN	TEMP	O	O	O	O
-इकट्ठा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पॉलीथीन
+में
+कचरा
+लपेटकर
+उसे
+सडक
+आदि
+पर
+फेंक
+देते
+हैं
+,
+जिससे
+पशुओं
+का
+झुंड
+इकट्ठा
+हो
+जाता
+है
+.
 
-नगर	NN	TEMP	O	O	O	O
-आयुक्त	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-ऑन	XC	TEMP	O	O	O	O
-स्पॉट	NNP	TEMP	O	O	O	O
-पॉलिसी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	B-MISC	O	O	O
-बनाकर	VM	TEMP	I-MISC	O	B-MISC	OCC
-शासन	NN	TEMP	B-MISC	O	O	O
-को	PSP	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अनुमति	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलते	VM	TEMP	I-MISC	O	I-MISC	O
-ही	RP	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-लागू	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+आयुक्त
+ने
+बताया
+कि
+ऑन
+स्पॉट
+पॉलिसी
+का
+प्रस्ताव
+बनाकर
+शासन
+को
+भेज
+दिया
+गया
+है
+,
+वहां
+से
+अनुमति
+मिलते
+ही
+इसे
+लागू
+कर
+दिया
+जाएगा
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-गंदगी	NN	TEMP	B-MISC	O	O	O
-फैलाने	VM	TEMP	I-MISC	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-2000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	B-MISC	O	O	O
-वसूला	VAUX	TEMP	I-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकेगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+गंदगी
+फैलाने
+वालों
+से
+2000
+रुपये
+तक
+जुर्माना
+वसूला
+जा
+सकेगा
+.

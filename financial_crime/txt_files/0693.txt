@@ -1,313 +1,313 @@
 
-अलीगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-इगलास	XC	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-खेडिया	NN	TEMP	O	O	O	O
-गुरु	XC	TEMP	O	O	O	O
-देव	NNP	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-नामजद	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-बेटे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिलाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ठगी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अलीगढ़
+:
+इगलास
+कोतवाली
+क्षेत्र
+के
+गांव
+खेडिया
+गुरु
+देव
+निवासी
+एक
+व्यक्ति
+ने
+दो
+नामजद
+सहित
+चार
+लोगों
+के
+खिलाफ
+बेटे
+को
+नौकरी
+दिलाने
+के
+नाम
+पर
+ठगी
+करने
+की
+रिपोर्ट
+कोर्ट
+के
+आदेश
+पर
+दर्ज
+कराई
+है
+.
 
-खेडिया	NN	TEMP	O	O	O	O
-गुरु	XC	TEMP	O	O	O	O
-देव	XC	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-राजवीर	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-बालकिशन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-15	QC	TEMP	O	B	O	O
-जुलाई	NNP	TEMP	O	I	O	O
-2015	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-धर्मवीर	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-नेकराम	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-बरारी	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-रिफायनरी	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-मथुरा	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-भूदेव	XC	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-फूलपुर	NN	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आए	VM	TEMP	B-MISC	O	B-STAT	OCC
-.	SYM	TEMP	O	O	O	O
+खेडिया
+गुरु
+देव
+निवासी
+राजवीर
+पुत्र
+बालकिशन
+का
+कहना
+है
+कि
+15
+जुलाई
+2015
+को
+धर्मवीर
+सिंह
+पुत्र
+नेकराम
+निवासी
+बरारी
+थाना
+रिफायनरी
+(
+मथुरा
+)
+व
+राजेश
+पुत्र
+भूदेव
+निवासी
+फूलपुर
+उसके
+घर
+पर
+आए
+.
 
-इन	DEM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-धर्मवीर	XC	TEMP	O	O	O	O
-सेंट	XC	TEMP	O	O	O	O
-पीटरसन	XC	TEMP	O	O	O	O
-एंड	XC	TEMP	O	O	O	O
-मदर	XC	TEMP	O	O	O	O
-टेरेसा	XC	TEMP	O	O	O	O
-चिल्ड्रन	XC	TEMP	O	O	O	O
-एजूकेशन	XC	TEMP	O	O	O	O
-एंड	XC	TEMP	O	O	O	O
-वेलफेयर	XC	TEMP	O	O	O	O
-आर्गनाइजेशन	NNP	TEMP	O	O	O	O
-संस्था	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-डिवीजनल	JJ	TEMP	O	O	O	O
-डायरेक्टर	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+इन
+लोगों
+ने
+बताया
+कि
+धर्मवीर
+सेंट
+पीटरसन
+एंड
+मदर
+टेरेसा
+चिल्ड्रन
+एजूकेशन
+एंड
+वेलफेयर
+आर्गनाइजेशन
+संस्था
+का
+डिवीजनल
+डायरेक्टर
+है
+.
 
-इन्होंने	PRP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-उमेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सुपरवाइजर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कही	VM	TEMP	I-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इन्होंने
+उसके
+पुत्र
+उमेश
+कुमार
+को
+सुपरवाइजर
+की
+नौकरी
+लगाने
+की
+बात
+कही
+.
 
-नौकरी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एवज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रु	NN	TEMP	O	O	O	O
-पये	VM	TEMP	O	O	O	O
-गारंटी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-.	SYM	TEMP	O	O	O	O
+नौकरी
+के
+एवज
+में
+दो
+लाख
+रु
+पये
+गारंटी
+के
+लिए
+देने
+को
+कहा
+.
 
-उसका	PRP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-25	QC	TEMP	O	B	O	O
-जुलाई	NNP	TEMP	O	I	O	O
-2015	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-भैंस	NN	TEMP	B-MISC	O	O	O
-बेचकर	VM	TEMP	I-MISC	O	B-MISC	O
-व	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रु	VM	TEMP	B-MISC	O	B-MISC	OCC
-पये	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकर	VM	TEMP	B-MISC	O	I-MISC	O
-इन्हें	PRP	TEMP	O	O	O	O
-दे	VM	TEMP	O	O	B-MISC	OCC
-दिए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसका
+कहना
+है
+कि
+25
+जुलाई
+2015
+को
+उसने
+भैंस
+बेचकर
+व
+अन्य
+लोगों
+से
+रु
+पये
+लेकर
+इन्हें
+दे
+दिए
+.
 
-इनके	PRP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	B	O	O
-सितंबर	NNP	TEMP	O	I	O	O
-2015	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-आकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-नियुक्ति	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	B	O	O
-दिनों	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-तुम्हारे	PRP	TEMP	O	O	O	O
-बेटे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ट्रेनिंग	NN	TEMP	B-MISC	O	B-MISC	OCC
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिल	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इनके
+द्वारा
+तीन
+सितंबर
+2015
+को
+घर
+आकर
+नियुक्ति
+पत्र
+दे
+दिया
+और
+कहा
+कि
+कुछ
+दिनों
+बाद
+तुम्हारे
+बेटे
+की
+ट्रेनिंग
+होगी
+और
+इसे
+नौकरी
+मिल
+जाएगी
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-दिनों	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-टहलाते	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-न	NEG	TEMP	O	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-बेटे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ट्रेनिंग	NN	TEMP	B-MISC	O	B-MISC	O
-हुई	VM	TEMP	I-MISC	O	I-MISC	OCC
-न	NEG	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	O	O	B-MISC	OCC
-मिली	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+का
+आरोप
+है
+कि
+उक्त
+लोग
+काफी
+दिनों
+तक
+उसे
+टहलाते
+रहे
+न
+तो
+उसके
+बेटे
+की
+ट्रेनिंग
+हुई
+न
+ही
+नौकरी
+मिली
+.
 
-जब	PRP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-रु	NN	TEMP	O	O	O	O
-पये	VM	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मांगे	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-धर्मवीर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-चेक	NN	TEMP	O	O	B-MISC	O
-दे	VM	TEMP	B-MISC	O	I-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+उसने
+अपने
+रु
+पये
+वापस
+मांगे
+तो
+धर्मवीर
+ने
+10
+हजार
+व
+30
+हजार
+का
+चेक
+दे
+दिया
+.
 
-बाकी	QF	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-मांगने	VM	TEMP	B-MISC	O	B-MISC	O
-पर	PSP	TEMP	O	O	O	O
-टहलाता	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाकी
+पैसे
+मांगने
+पर
+टहलाता
+रहा
+.
 
-आरोप	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-22	QC	TEMP	O	B	O	O
-जनवरी	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-दोनों	JJ	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-आए	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-बेटे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गाडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिठा	VM	TEMP	O	O	B-MISC	O
-लिया	VAUX	TEMP	O	O	I-MISC	O
-जिसमें	PRP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	DEC
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+आरोप
+है
+कि
+22
+जनवरी
+को
+दोनों
+लोग
+उसके
+घर
+आए
+और
+उसे
+व
+उसके
+बेटे
+को
+गाडी
+में
+बिठा
+लिया
+जिसमें
+दो
+लोग
+पहले
+से
+मौजूद
+थे
+.
 
-इन	DEM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रास्ते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रु	VM	TEMP	O	O	B-MISC	OCC
-पये	VAUX	TEMP	O	O	I-MISC	O
-मांगने	VM	TEMP	B-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	OCC
-से	PSP	TEMP	I-MISC	O	I-MISC	O
-मारने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+लोगों
+ने
+रास्ते
+में
+उनके
+साथ
+मारपीट
+की
+और
+आगे
+से
+रु
+पये
+मांगने
+पर
+जान
+से
+मारने
+की
+धमकी
+दी
+.
 
-कोतवाल	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोतवाल
+ने
+बताया
+कि
+इस
+संबंध
+में
+कोर्ट
+के
+आदेश
+पर
+रिपोर्ट
+दर्ज
+की
+गई
+है
+.

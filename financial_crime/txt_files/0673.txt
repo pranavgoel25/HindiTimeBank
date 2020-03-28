@@ -1,467 +1,467 @@
 
-सौरभ	XC	TEMP	O	O	O	O
-सुमन	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रांची	NNP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+सौरभ
+सुमन
+,
+रांची
+.
 
-क्या	WQ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-कर्मचारी	JJ	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-लेने	VM	TEMP	O	O	B-MISC	OCC
-से	PSP	TEMP	O	O	O	O
-इन्कार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+क्या
+बैंक
+कर्मचारी
+सिक्का
+लेने
+से
+इन्कार
+कर
+रहे
+हैं
+.
 
-अगर	CC	TEMP	O	O	O	O
-हां	TEMP	INJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	B	O	O
-दिनों	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-आपकी	PRP	TEMP	O	O	O	O
-समस्या	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हल	NN	TEMP	B-MISC	O	B-STAT	OCC
-निकलने	VM	TEMP	I-MISC	O	I-STAT	O
-वाला	PSP	TEMP	O	O	I-STAT	O
-है	VM	TEMP	O	O	I-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+अगर
+हां
+,
+तो
+कुछ
+दिनों
+में
+आपकी
+समस्या
+का
+हल
+निकलने
+वाला
+है
+.
 
-बैंकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-कैश	XC	TEMP	O	O	O	O
-डिपोजिट	XC	TEMP	O	O	O	O
-मशीन	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-दिखती	VM	TEMP	B-MISC	O	O	O
-थी	VAUX	TEMP	I-MISC	O	O	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-क्वायन	XC	TEMP	O	O	O	O
-डिपोजिट	XC	TEMP	O	O	O	O
-मशीनें	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लगाई	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएंगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंकों
+में
+अब
+तक
+तो
+कैश
+डिपोजिट
+मशीन
+ही
+दिखती
+थी
+,
+लेकिन
+अब
+क्वायन
+डिपोजिट
+मशीनें
+भी
+लगाई
+जाएंगी
+.
 
-यहां	PRP	TEMP	O	O	O	O
-आप	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-सकेंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यहां
+आप
+एक
+रुपये
+से
+10
+रुपये
+तक
+के
+सिक्के
+जमा
+कर
+सकेंगे
+.
 
-वह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-महज	RP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-मिनटों	NN	TEMP	O	O	O	OCC
-में	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+वह
+भी
+महज
+कुछ
+मिनटों
+में
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-शुरुआत	NN	TEMP	O	O	O	O
-एसबीआइ	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	I-MISC	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-की	VM	TEMP	O	O	B-MISC	OCC
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+शुरुआत
+एसबीआइ
+की
+ओर
+से
+की
+जाएगी
+.
 
-एसबीआइ	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मुख्य	JJ	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-मशीन	NN	TEMP	O	O	B-MISC	OCC
-लगाई	VM	TEMP	B-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एसबीआइ
+की
+मुख्य
+शाखा
+में
+जल्द
+ही
+यह
+मशीन
+लगाई
+जाएगी
+.
 
-अगर	CC	TEMP	O	O	O	O
-आपके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-जरा	QF	TEMP	O	O	O	O
-लंबा	JJ	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-उबाऊ	JJ	TEMP	O	O	B-MISC	OCC
-होगा	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+आपके
+पास
+अधिक
+संख्या
+में
+सिक्के
+हैं
+,
+तो
+यह
+काम
+जरा
+लंबा
+और
+उबाऊ
+होगा
+.
 
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ऐसी	DEM	TEMP	O	O	O	O
-क्वायन	JJ	TEMP	O	O	O	O
-मशीनें	NN	TEMP	O	O	O	O
-थीं	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जिनके	PRP	TEMP	O	O	O	O
-जरिये	PSP	TEMP	O	O	O	O
-ग्राहक	JJ	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-पाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभी
+तक
+बैंकों
+में
+ऐसी
+क्वायन
+मशीनें
+थीं
+,
+जिनके
+जरिये
+ग्राहक
+सिक्के
+निकाल
+पाते
+थे
+.
 
-अब	PRP	TEMP	O	O	O	O
-जमा	NN	TEMP	O	O	B-MISC	OCC
-करने	VM	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-सुविधा	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मिलेगी	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+अब
+जमा
+करने
+की
+सुविधा
+भी
+मिलेगी
+.
 
-इधर	NST	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	B	O	O
-दिनों	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सिक्कों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-शिकायतें	NN	TEMP	B-MISC	O	B-MISC	OCC
-सामने	NST	TEMP	I-MISC	O	I-MISC	O
-आ	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थीं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इधर
+कुछ
+दिनों
+से
+बाजार
+में
+सिक्कों
+को
+लेकर
+लगातार
+शिकायतें
+सामने
+आ
+रही
+थीं
+.
 
-नोटबंदी	NN	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-बड़ी	XC	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सिक्कों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उतार	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-वक्त	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-हाथ	NN	TEMP	B-MISC	O	O	O
-खड़े	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नोटबंदी
+के
+दौरान
+बड़ी
+संख्या
+में
+सिक्कों
+को
+तो
+बाजार
+में
+उतार
+दिया
+गया
+,
+लेकिन
+जब
+जमा
+करने
+का
+वक्त
+आया
+तो
+बैंकों
+ने
+हाथ
+खड़े
+कर
+दिए
+.
 
-बाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-करोड़ों	NN	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-उतर	VM	TEMP	B-MISC	O	B-MISC	OCC
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाजार
+में
+करोड़ों
+रुपये
+मूल्य
+के
+सिक्के
+उतर
+चुके
+हैं
+.
 
-ऐसे	PRP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-समस्या	NN	TEMP	O	O	O	O
-सिक्कों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-आ	VM	TEMP	O	O	B-MISC	OCC
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऐसे
+में
+समस्या
+सिक्कों
+को
+जमा
+करने
+में
+आ
+रही
+है
+.
 
-बैंक	NN	TEMP	O	O	O	O
-कर्मचारियों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-साफ	JJ	TEMP	B-MISC	O	O	O
-कहना	VM	TEMP	I-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-सिक्कों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गिनती	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-लंबा	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	B-MISC	O
-लगता	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+कर्मचारियों
+का
+साफ
+कहना
+है
+कि
+सिक्कों
+की
+गिनती
+करने
+में
+लंबा
+समय
+लगता
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+कारण
+जमा
+नहीं
+किया
+जा
+रहा
+था
+.
 
-एक	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिक्कों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कर	VM	TEMP	O	O	B-MISC	O
-सकेंगे	VAUX	TEMP	O	O	I-MISC	O
-जमा	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिक्कों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकेगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+बार
+में
+हजार
+रुपये
+मूल्य
+के
+सिक्कों
+को
+कर
+सकेंगे
+जमा
+एक
+बार
+में
+हजार
+रुपये
+मूल्य
+के
+सिक्कों
+को
+जमा
+किया
+जा
+सकेगा
+.
 
-एक	QC	TEMP	O	O	O	O
-समस्या	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-कि	CC	TEMP	O	O	O	O
-सिक्कों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-एक-एक	NN	TEMP	B-MISC	O	B-MISC	OCC
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-डालना	VAUX	TEMP	I-MISC	O	I-MISC	OCC
-होगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+समस्या
+यह
+है
+कि
+सिक्कों
+को
+जमा
+करने
+के
+लिए
+उन्हें
+एक-एक
+करके
+डालना
+होगा
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-तैयारियां	NN	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-की	VM	TEMP	O	O	B-MISC	O
-जा	VAUX	TEMP	O	O	I-MISC	O
-चुकी	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+तैयारियां
+बैंकों
+में
+की
+जा
+चुकी
+है
+.
 
-कुछ	QF	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-दिनों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-सुविधा	NN	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	O	O	B-MISC	OCC
-होगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+ही
+दिनों
+में
+सभी
+बैंकों
+में
+यह
+सुविधा
+उपलब्ध
+होगी
+.
 
-सिक्कों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेने	VM	TEMP	B-MISC	O	B-MISC	O
-से	PSP	TEMP	O	O	O	O
-इन्कारबाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	OCC
-बेकार	JJ	TEMP	B-MISC	O	B-MISC	O
-हो	VM	TEMP	I-MISC	O	I-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सिक्कों
+को
+लेने
+से
+इन्कारबाजार
+में
+सिक्के
+बेकार
+हो
+रहे
+हैं
+.
 
-10	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिक्कों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेने	VM	TEMP	O	O	B-MISC	O
-से	PSP	TEMP	O	O	O	O
-व्यवसायी	NN	TEMP	B-MISC	O	O	O
-मना	VM	TEMP	I-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+10
+के
+सिक्कों
+को
+लेने
+से
+व्यवसायी
+मना
+कर
+रहे
+हैं
+.
 
-ऐसे	PRP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-परेशान	JJ	TEMP	O	O	O	O
-आम	JJ	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+ऐसे
+में
+परेशान
+आम
+लोग
+हैं
+.
 
-व्यवसायियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-आम	JJ	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-सिक्कों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बड़ा	XC	TEMP	O	O	O	O
-कलेक्शन	NN	TEMP	B-MISC	O	O	O
-जमा	JJ	TEMP	I-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+व्यवसायियों
+से
+लेकर
+आम
+लोग
+तक
+के
+पास
+सिक्कों
+का
+बड़ा
+कलेक्शन
+जमा
+हो
+गया
+है
+.
 
----सिक्कों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कमी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+---सिक्कों
+की
+कमी
+को
+लेकर
+बैंकों
+को
+निर्देश
+दिए
+गए
+हैं
+.
 
-सिक्के	NN	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	O
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-मना	VM	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सिक्के
+जमा
+लेने
+से
+बैंक
+मना
+नहीं
+कर
+सकते
+हैं
+.
 
-हां	TEMP	INJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सिक्कों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-जरूर	RB	TEMP	O	O	O	O
-लगता	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हां
+,
+सिक्कों
+को
+जमा
+करने
+में
+समय
+जरूर
+लगता
+है
+.
 
-ऐसे	PRP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-क्वायन	XC	TEMP	O	O	O	O
-डिपोजिट	XC	TEMP	O	O	O	O
-मशीन	NN	TEMP	B-MISC	O	O	O
-लगाने	VM	TEMP	I-MISC	O	B-MISC	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऐसे
+में
+क्वायन
+डिपोजिट
+मशीन
+लगाने
+को
+भी
+कहा
+गया
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-प्रक्रिया	NN	TEMP	O	O	O	O
-आसान	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+यह
+प्रक्रिया
+आसान
+हो
+जाएगी
+.
 
--	SYM	TEMP	O	O	O	O
-पैटिक	NN	TEMP	O	O	O	O
-बारला	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-क्षेत्रीय	JJ	TEMP	O	O	O	O
-निदेशक	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-आरबीआइ---	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ेंः	XC	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिका	VM	TEMP	O	O	B-MISC	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-महंगा	JJ	TEMP	O	O	O	O
-बकरा	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ऐसे	PRP	TEMP	O	O	O	O
-तय	JJ	TEMP	O	O	B-MISC	O
-होती	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-कीमतयह	CC	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ेंः	XC	TEMP	O	O	O	O
-...	NNP	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-इसलिए	CC	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-तीन	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-खाते	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जानिए	VM	TEMP	O	O	O	O
+-
+पैटिक
+बारला
+,
+क्षेत्रीय
+निदेशक
+,
+आरबीआइ---
+यह
+भी
+पढ़ेंः
+40
+हजार
+में
+बिका
+सबसे
+महंगा
+बकरा
+,
+ऐसे
+तय
+होती
+है
+कीमतयह
+भी
+पढ़ेंः
+...
+तो
+इसलिए
+बंद
+हो
+जाएंगे
+तीन
+लाख
+बैंक
+खाते
+,
+जानिए

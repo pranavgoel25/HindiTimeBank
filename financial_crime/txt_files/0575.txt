@@ -1,557 +1,557 @@
-पटना	NNP	TEMP	O	O	O	O
-[	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+पटना
+[
+जेएनएन
+]
+.
 
-भारतीय	JJ	TEMP	O	O	O	O
-रिजर्व	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-लॉन्च	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भारतीय
+रिजर्व
+बैंक
+ने
+200
+रुपए
+का
+नोट
+लॉन्च
+कर
+दिया
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-प्रमुख	JJ	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शाखाओं	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+नोट
+कुछ
+प्रमुख
+बैंकों
+की
+शाखाओं
+तक
+तो
+पहुंच
+चुका
+है
+,
+लेकिन
+अभी
+यह
+बिहार
+में
+नहीं
+आया
+है
+.
 
-बैंक	NN	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-महीने	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंत	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-अगले	JJ	TEMP	O	O	O	O
-महीने	NN	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-आ	VM	TEMP	O	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+अधिकारियों
+के
+मुताबिक
+इस
+महीने
+के
+अंत
+तक
+या
+अगले
+महीने
+नया
+नोट
+बिहार
+में
+भी
+आ
+जाएगा
+.
 
-बिहार	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-बेसब्री	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इसका	PRP	TEMP	O	O	O	O
-इंतजार	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिहार
+में
+भी
+लोग
+बेसब्री
+से
+इसका
+इंतजार
+कर
+रहे
+हैं
+.
 
-स्टेट	XC	TEMP	O	O	O	O
-बैंक	XC	TEMP	O	O	O	O
-अॉफ	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आफिसर्स	XC	TEMP	O	O	O	O
-एसोसिएशन	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बिहार	XC	TEMP	O	O	O	O
-झारखंड	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अध्यक्ष	NN	TEMP	O	O	O	O
-उमाकांत	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-अगले	JJ	TEMP	O	O	O	O
-महीने	NN	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-आने	VM	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-संभावना	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हाथ	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिलने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-इंतजार	NN	TEMP	B-MISC	O	B-MISC	OCC
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-होगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+स्टेट
+बैंक
+अॉफ
+इंडिया
+के
+आफिसर्स
+एसोसिएशन
+के
+बिहार
+झारखंड
+के
+अध्यक्ष
+उमाकांत
+सिंह
+ने
+बताया
+कि
+अभी
+बिहार
+में
+अभी
+तक
+200
+रुपए
+को
+नोट
+नहीं
+आया
+है
+लेकिन
+अगले
+महीने
+इसके
+बिहार
+आने
+की
+संभावना
+है
+,
+लेकिन
+अभी
+बैंकों
+से
+लोगों
+के
+हाथ
+तक
+और
+एटीएम
+से
+मिलने
+के
+लिए
+लोगों
+को
+इंतजार
+करना
+होगा
+.
 
-3	QC	TEMP	O	B	O	O
-महीने	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-आएगा	VM	TEMP	O	O	O	O
-एटीएम	XC	TEMP	O	O	O	O
-मेंएटीएम	XC	TEMP	O	O	O	O
-निर्माता	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-एजीएस	XC	TEMP	O	O	O	O
-ट्रांजेक्ट	XC	TEMP	O	O	O	O
-टेक्नोलॉजीज	NN	TEMP	O	O	O	O
-लिमिटेड	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चेयरमैन	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-एमडी	XC	TEMP	O	O	O	O
-रवि	XC	TEMP	O	O	O	O
-बी	XC	TEMP	O	O	O	O
-गोयल	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोटों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आने	VM	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	B	O	O
-90	QC	TEMP	O	I	O	O
-दिन	NN	TEMP	O	I	O	O
-यानी	CC	TEMP	O	O	O	O
-3	QC	TEMP	O	B	O	O
-महीने	NN	TEMP	O	I	O	O
-का	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	B-MISC	O	B-MISC	OCC
-लग	VM	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+3
+महीने
+बाद
+आएगा
+एटीएम
+मेंएटीएम
+निर्माता
+कंपनी
+एजीएस
+ट्रांजेक्ट
+टेक्नोलॉजीज
+लिमिटेड
+के
+चेयरमैन
+और
+एमडी
+रवि
+बी
+गोयल
+के
+अनुसार
+200
+रुपए
+के
+नोटों
+को
+एटीएम
+में
+आने
+में
+करीब
+90
+दिन
+यानी
+3
+महीने
+का
+समय
+लग
+सकता
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	O	O	B-MISC	REP
-है	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-होंगे	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	O	O
-भी	RP	TEMP	O	O	O	O
-चलता	VM	TEMP	O	O	B-MISC	OCC
-रहेगा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+है
+कि
+इस
+दौरान
+एटीएम
+बंद
+नहीं
+होंगे
+और
+काम
+भी
+चलता
+रहेगा
+.
 
-अभी	PRP	TEMP	O	O	O	O
-आरबीआई	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रीकैलिबरेट	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-मशीनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हिसाब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कैलिबरेट	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	O	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-होगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभी
+आरबीआई
+ने
+भी
+एटीएम
+को
+रीकैलिबरेट
+करने
+के
+कोई
+निर्देश
+नहीं
+दिए
+हैं
+,
+निर्देश
+मिलने
+के
+बाद
+ही
+एटीएम
+मशीनों
+को
+200
+रुपए
+के
+हिसाब
+से
+कैलिबरेट
+करने
+का
+काम
+शुरू
+होगा
+.
 
-क्यों	WQ	TEMP	O	O	O	O
-हो	VM	TEMP	O	O	B-MISC	OCC
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-देरी	NN	TEMP	O	O	O	O
-?	SYM	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-4	QC	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कैसेट	NN	TEMP	O	O	B-MISC	OCC
-होती	VM	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-अलग-अलग	JJ	TEMP	O	O	O	O
-आकारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोटों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-संभालने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-होती	VM	TEMP	O	O	B-STAT	OCC
-हैं	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+क्यों
+हो
+रही
+है
+देरी
+?
+एक
+एटीएम
+में
+3
+-
+4
+तरह
+की
+कैसेट
+होती
+हैं
+,
+जो
+अलग-अलग
+आकारों
+के
+नोटों
+को
+संभालने
+के
+लिए
+होती
+हैं
+.
 
-200	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आकार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हिसाब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-कैलिबरेट	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-इसमें	PRP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-थोड़ा	NNP	TEMP	O	O	B-MISC	O
-वक्त	NN	TEMP	O	O	I-MISC	O
-लगेगा	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+200
+रुपए
+के
+नोट
+के
+आकार
+के
+हिसाब
+से
+अभी
+उन्हें
+कैलिबरेट
+नहीं
+किया
+गया
+है
+और
+इसमें
+अभी
+थोड़ा
+वक्त
+लगेगा
+.
 
-आपको	PRP	TEMP	O	O	O	O
-बता	VM	TEMP	O	O	B-MISC	OCC
-दें	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-मौजूदा	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-2000	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-निकलते	VM	TEMP	O	O	B-MISC	OCC
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आपको
+बता
+दें
+कि
+मौजूदा
+समय
+में
+एटीएम
+से
+100
+,
+500
+और
+2000
+रुपए
+के
+नोट
+निकलते
+हैं
+.
 
-200	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आकार	NN	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-नोटों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अलग	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+200
+के
+नोट
+का
+आकार
+अन्य
+सभी
+नोटों
+से
+अलग
+है
+.
 
-न	NEG	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मेल	NN	TEMP	O	O	O	OCC
-खाता	VM	TEMP	O	O	O	O
-है	VAUX	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ना	NEG	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-2000	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+न
+तो
+यह
+100
+और
+500
+के
+नोट
+से
+मेल
+खाता
+है
+,
+ना
+ही
+2000
+रुपए
+के
+नोट
+से
+.
 
-अब	PRP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एटीएम	XC	TEMP	O	O	O	O
-निर्माताओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-नए	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हिसाब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कैलिबरेट	NN	TEMP	B-MISC	O	B-MISC	OCC
-करेंगे	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-इंजीनियर	NNP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-पूरा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+200
+के
+नोट
+को
+एटीएम
+निर्माताओं
+को
+दिया
+जाएगा
+,
+जिसके
+बाद
+वह
+नए
+नोट
+के
+हिसाब
+से
+एटीएम
+को
+कैलिबरेट
+करेंगे
+और
+फिर
+इंजीनियर
+द्वारा
+यह
+काम
+पूरा
+किया
+जाएगा
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-आप	PRP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-सकेंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+आप
+200
+रुपए
+के
+नोट
+एटीएम
+से
+भी
+प्राप्त
+कर
+सकेंगे
+.
 
-फिलहाल	RB	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-बड़े	NNP	TEMP	O	O	O	O
-शहरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-मुख्य	JJ	TEMP	O	O	O	O
-ब्रांच	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-मिल	VM	TEMP	B-MISC	O	O	O
-रहा	VAUX	TEMP	I-MISC	O	O	O
-हैआपको	CC	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-जारी	JJ	TEMP	O	O	O	O
-हुआ	VM	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निकालने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-नवंबर	NNP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इंतजार	NN	TEMP	B-MISC	O	B-MISC	OCC
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-होगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिलहाल
+यह
+कुछ
+बड़े
+शहरों
+में
+स्थित
+मुख्य
+ब्रांच
+में
+ही
+मिल
+रहा
+हैआपको
+नया
+जारी
+हुआ
+200
+रुपये
+का
+नोट
+एटीएम
+से
+निकालने
+के
+लिए
+नवंबर
+तक
+का
+इंतजार
+करना
+होगा
+.
 
-रिजर्व	XC	TEMP	O	O	O	O
-बैंक	XC	TEMP	O	O	O	O
-ऑफ	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	O	O	O
-हफ्ते	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रिजर्व
+बैंक
+ऑफ
+इंडिया
+ने
+इस
+नोट
+को
+पिछले
+हफ्ते
+ही
+जारी
+किया
+है
+.
 
-फिलहाल	RB	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-केवल	RP	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ब्रांच	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मिल	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिलहाल
+यह
+नोट
+केवल
+बैंकों
+की
+ब्रांच
+में
+मिल
+रहा
+है
+.
 
-क्या	WQ	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खासियत	JJ	TEMP	O	O	O	O
-...	NN	TEMP	O	O	O	O
--संतरी	JJ	TEMP	O	O	O	O
-रंग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-नोेट	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रंग	NN	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-आकर्षक	JJ	TEMP	O	O	O	O
-है-नोट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-छोटे	JJ	TEMP	O	O	O	O
-शब्दों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-RBI	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-India	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-छपा	NN	TEMP	O	O	O	O
-है-सेक्यूरिटी	NN	TEMP	O	O	O	O
-थ्रेड	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-RBI	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-होगा	VM	TEMP	O	O	O	O
-जिसका	PRP	TEMP	O	O	O	O
-रंग	NN	TEMP	O	O	B-MISC	O
-बदल	VM	TEMP	O	O	I-MISC	O
-जाएगा-नोट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-झुका	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-देखने	VM	TEMP	B-MISC	O	B-MISC	O
-पर	PSP	TEMP	O	O	I-MISC	O
-हरे	VM	TEMP	O	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-नीले	JJ	TEMP	O	O	O	O
-रंग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बदल	VM	TEMP	O	O	O	O
-जाएगा-नोट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-वाटर	XC	TEMP	O	O	O	O
-मार्क	NN	TEMP	O	O	O	O
-होगा-दृष्टिहीन	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-पहचानने	VM	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	O	O
-सुविधा	NN	TEMP	O	O	O	O
-होगी-नोट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बायीं	NN	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-छापने	VM	TEMP	O	O	B-MISC	O
-का	PSP	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-लिखा	VM	TEMP	O	O	B-MISC	OCC
-होगा-स्लोगन	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-स्वच्छ	JJ	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लोगो	NN	TEMP	O	O	O	OCC
-छापा	VM	TEMP	B-MISC	O	B-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है-	JJ	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-प्रमुख	JJ	TEMP	O	O	O	O
-भाषाओं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पैनल	JJ	TEMP	O	O	O	O
-है-नोट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सांची	JJ	TEMP	O	O	O	O
-स्तूप	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-चित्र	NN	TEMP	B-MISC	O	B-MISC	OCC
-छपा	VM	TEMP	I-MISC	O	I-MISC	O
-होगा	VAUX	TEMP	I-MISC	O	I-MISC	O
+क्या
+है
+200
+रुपये
+के
+नोट
+की
+खासियत
+...
+-संतरी
+रंग
+के
+इस
+नोेट
+का
+रंग
+काफी
+आकर्षक
+है-नोट
+पर
+छोटे
+शब्दों
+में
+RBI
+,
+India
+,
+भारत
+और
+200
+छपा
+है-सेक्यूरिटी
+थ्रेड
+पर
+RBI
+,
+भारत
+होगा
+जिसका
+रंग
+बदल
+जाएगा-नोट
+को
+झुका
+कर
+देखने
+पर
+हरे
+से
+नीले
+रंग
+में
+बदल
+जाएगा-नोट
+पर
+200
+का
+वाटर
+मार्क
+होगा-दृष्टिहीन
+लोगों
+के
+लिए
+नोट
+पहचानने
+में
+सुविधा
+होगी-नोट
+के
+बायीं
+तरफ
+छापने
+का
+साल
+लिखा
+होगा-स्लोगन
+सहित
+स्वच्छ
+भारत
+का
+लोगो
+छापा
+गया
+है-
+देश
+की
+सभी
+प्रमुख
+भाषाओं
+का
+पैनल
+है-नोट
+के
+बीच
+में
+सांची
+स्तूप
+का
+चित्र
+छपा
+होगा

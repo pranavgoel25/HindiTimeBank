@@ -1,131 +1,131 @@
 
-सारण	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+सारण
+.
 
-भेल्दी	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रामचक	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चापाकल	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पानी	NN	TEMP	O	O	B-MISC	O
-भरने	VM	TEMP	B-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-विवाद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	B-MISC	O	B-STAT	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-जख्मी	VM	TEMP	B-MISC	O	B-MISC	OCC
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भेल्दी
+थाना
+क्षेत्र
+के
+रामचक
+गांव
+में
+चापाकल
+से
+पानी
+भरने
+के
+विवाद
+में
+हुई
+मारपीट
+में
+एक
+महिला
+जख्मी
+हो
+गई
+.
 
-जख्मी	JJ	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-चता	VM	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इलाज	NN	TEMP	O	O	O	O
-गडखा	NN	TEMP	O	O	O	O
-सामुदायिक	JJ	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुआ	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जख्मी
+महिला
+¨
+चता
+देवी
+का
+इलाज
+गडखा
+सामुदायिक
+स्वास्थ्य
+केंद्र
+में
+हुआ
+.
 
-¨	NN	TEMP	O	O	O	O
-चता	VM	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-गडखा	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्राथमिकी	JJ	TEMP	O	O	O	O
-दर्ज	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-साहिब	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-धर्मनाथ	XC	TEMP	O	O	O	O
-राय	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नामजद	NN	TEMP	O	O	O	O
-अभियुक्त	JJ	TEMP	B-MISC	O	B-MISC	O
-बनाया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+¨
+चता
+देवी
+ने
+गडखा
+थाना
+में
+प्राथमिकी
+दर्ज
+कराते
+हुए
+साहिब
+कुमार
+और
+धर्मनाथ
+राय
+को
+नामजद
+अभियुक्त
+बनाया
+है
+.
 
-मारपीट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-क्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गले	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सोने	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चेन	NN	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मारपीट
+के
+क्रम
+में
+गले
+से
+सोने
+की
+चेन
+छीन
+ली
+गई
+.
 
-वही	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विवाद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बसंतपुर	NNP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-चाय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-विवाद	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-जिसमें	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वही
+एक
+रुपये
+के
+विवाद
+में
+बसंतपुर
+गांव
+में
+एक
+चाय
+की
+दुकान
+पर
+विवाद
+हो
+गया
+है
+जिसमें
+एक
+युवक
+घायल
+हो
+गया
+.
 
-घायल	JJ	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-मुकेश	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इलाज	NN	TEMP	O	O	O	O
-पीएचसी	JJ	TEMP	O	O	O	O
-गडखा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+घायल
+युवक
+मुकेश
+का
+इलाज
+पीएचसी
+गडखा
+में
+हुई
+.
 
-मुकेश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-फर्द	NN	TEMP	O	O	O	O
-बयान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गडखा	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्राथमिकी	JJ	TEMP	O	O	O	O
-दर्ज	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मुकेश
+के
+फर्द
+बयान
+पर
+गडखा
+थाना
+में
+प्राथमिकी
+दर्ज
+की
+गई
+है
+.

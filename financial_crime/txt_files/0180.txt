@@ -1,306 +1,306 @@
-﻿दीवानगंज	NN	TEMP	O	O	O	O
+﻿दीवानगंज
 
-प्रतापगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-कनाडा	NN	TEMP	O	O	O	O
-भेजने	VM	TEMP	O	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-ऐंठ	VM	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	B-MISC	O	B-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रतापगढ़
+:
+कनाडा
+भेजने
+के
+नाम
+पर
+क्षेत्र
+के
+दो
+लोगों
+सहित
+छह
+लोगों
+से
+तीन
+लाख
+रुपये
+ऐंठ
+ले
+गए
+.
 
-खुद	PRP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ठगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-एहसास	NN	TEMP	O	O	O	OCC
-तब	PRP	TEMP	O	O	O	O
-हुआ	VM	TEMP	O	O	O	O
+खुद
+को
+ठगे
+जाने
+का
+एहसास
+तब
+हुआ
 
-जब	PRP	TEMP	O	O	O	O
-पंजाब	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोहाली	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ताला	NN	TEMP	O	O	O	O
-लटकता	VM	TEMP	B-MISC	O	B-MISC	OCC
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+पंजाब
+के
+मोहाली
+में
+स्थित
+कार्यालय
+पर
+ताला
+लटकता
+मिला
+.
 
-पीडितों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मोहाली	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडितों
+ने
+मोहाली
+पुलिस
+से
+इसकी
+शिकायत
+की
+है
+.
 
-पंजाब	NNP	TEMP	O	O	O	O
-प्रांत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोहाली	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वीजा	NN	TEMP	O	O	O	O
-मास्टर	XC	TEMP	O	O	O	O
-टूरिस्ट	XC	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विज्ञापन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देखकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-कंधई	NNP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जगदीशगढ़	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-बद्री	JJ	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-विश्वकर्मा	NNP	TEMP	O	O	O	O
+पंजाब
+प्रांत
+के
+मोहाली
+की
+वीजा
+मास्टर
+टूरिस्ट
+कंपनी
+के
+विज्ञापन
+को
+देखकर
+कंधई
+थाना
+क्षेत्र
+के
+जगदीशगढ़
+निवासी
+बद्री
+प्रसाद
+विश्वकर्मा
 
-पट्टी	NN	TEMP	O	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बंधवा	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-मुन्ना	NN	TEMP	O	O	O	O
-शेख	XC	TEMP	O	O	O	O
+पट्टी
+कोतवाली
+क्षेत्र
+के
+बंधवा
+निवासी
+मुन्ना
+शेख
 
-अंतू	NN	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ककहरा	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-रमेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
+अंतू
+थाने
+के
+ककहरा
+निवासी
+रमेश
+कुमार
 
-नगर	NN	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गोसाई	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पूरवा	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-शिवशंकर	XC	TEMP	O	O	O	O
+नगर
+कोतवाली
+के
+गोसाई
+का
+पूरवा
+निवासी
+शिवशंकर
 
-रायबरेली	XC	TEMP	O	O	O	O
-जिले	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रेम	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-मोहाली	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रायबरेली
+जिले
+के
+प्रेम
+कुमार
+सहित
+छह
+लोग
+मोहाली
+गए
+.
 
-वहां	PRP	TEMP	O	O	O	O
-बातचीत	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कर्मचारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कनाडा	NN	TEMP	O	O	B-MISC	OCC
-जाने	VM	TEMP	B-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-वीजा	NN	TEMP	O	O	O	O
+वहां
+बातचीत
+के
+दौरान
+कंपनी
+के
+कर्मचारियों
+ने
+कनाडा
+जाने
+के
+नाम
+पर
+वीजा
 
-पासपोर्ट	NN	TEMP	O	O	O	O
-बनवाने	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-प्रत्ये	JJ	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पासपोर्ट
+बनवाने
+के
+लिए
+प्रत्ये
+से
+40
+-
+40
+हजार
+रुपये
+ले
+लिया
+.
 
-एक	QC	TEMP	O	B	O	O
-सप्ताह	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-इन्हें	PRP	TEMP	O	O	O	O
-मेडिकल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-मोहाली	NN	TEMP	O	O	B-MISC	OCC
-बुलाया	VM	TEMP	B-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+सप्ताह
+बाद
+इन्हें
+मेडिकल
+के
+लिए
+मोहाली
+बुलाया
+गया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-दस-दस	XC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराकर	VM	TEMP	I-MISC	O	I-MISC	O
-इन्हें	PRP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-कहकर	VM	TEMP	B-MISC	O	B-MISC	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-भेज	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-20	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-कनाडा	NN	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-वीजा	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पासपोर्ट	NN	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-डाक	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+लिए
+दस-दस
+हजार
+रुपये
+जमा
+कराकर
+इन्हें
+यह
+कहकर
+वापस
+भेज
+दिया
+गया
+कि
+20
+दिन
+बाद
+कनाडा
+जाने
+के
+लिए
+वीजा
+व
+पासपोर्ट
+सभी
+के
+घरों
+पर
+डाक
+द्वारा
+भेज
+दिया
+जाएगा
+.
 
-लौटने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-बीत	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
+लौटने
+के
+बाद
+तीन
+माह
+बीत
+गया
 
-लेकिन	CC	TEMP	O	O	O	O
-वीजा	NN	TEMP	O	O	O	O
+लेकिन
+वीजा
 
-पासपोर्ट	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पासपोर्ट
+नहीं
+आया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-सभी	PRP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-कंपनी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोहाली	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-ताला	NN	TEMP	B-MISC	O	O	O
-लटका	VM	TEMP	I-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+यह
+सभी
+सभी
+लोग
+कंपनी
+के
+मोहाली
+स्थित
+कार्यालय
+पहुंचे
+तो
+वहां
+ताला
+लटका
+हुआ
+था
+.
 
-अगल-बगल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूछने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-इन्हें	PRP	TEMP	O	O	O	O
-ठगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-एहसास	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगल-बगल
+के
+लोगों
+से
+पूछने
+के
+बाद
+इन्हें
+ठगे
+जाने
+का
+एहसास
+हुआ
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मोहाली	NN	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जाकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-अपनी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+इन
+लोगों
+ने
+मोहाली
+थाने
+में
+जाकर
+अपनी
+शिकायत
+दर्ज
+कराई
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्थानीय	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+में
+स्थानीय
+पुलिस
+से
+कोई
+शिकायत
+नहीं
+की
+गई
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कंधई	NNP	TEMP	O	O	O	O
-एसओ	XC	TEMP	O	O	O	O
-कृष्णवीर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+कंधई
+एसओ
+कृष्णवीर
+¨
+सह
+ने
+बताया
+कि
+इस
+मामले
+की
+उन्हें
+कोई
+जानकारी
+नहीं
+है
+.
 
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभी
+तक
+कोई
+तहरीर
+नहीं
+मिली
+है
+.

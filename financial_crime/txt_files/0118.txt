@@ -1,312 +1,312 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-दक्षिणी	XC	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-बेरोजगार	JJ	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगवाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ठगी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-प्रकाश	NN	TEMP	B-MISC	O	B-MISC	O
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दक्षिणी
+दिल्ली
+:
+बेरोजगार
+युवक
+से
+नौकरी
+लगवाने
+के
+नाम
+पर
+एक
+लाख
+रुपये
+की
+ठगी
+करने
+का
+मामला
+प्रकाश
+में
+आया
+है
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-पुष्पेंद्र	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-परिहार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
+पीडित
+पुष्पेंद्र
+सिंह
+परिहार
+का
+आरोप
+है
+कि
+नोटबंदी
+के
+दौरान
+जब
+वह
+बैंक
+की
+लाइन
+में
+लगा
+हुआ
+था
 
-तभी	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-संपर्क	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मंत्रालय	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जान-पहचान	NN	TEMP	O	O	B-MISC	OCC
-होने	VM	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	OCC
-कह	VM	TEMP	B-MISC	O	B-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिलवाने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-भरोसा	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तभी
+एक
+युवक
+ने
+उससे
+संपर्क
+किया
+था
+और
+मंत्रालय
+व
+बैंक
+में
+जान-पहचान
+होने
+की
+बात
+कह
+कर
+नौकरी
+दिलवाने
+का
+भरोसा
+दिया
+था
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+उसने
+एक
+लाख
+रुपये
+उसे
+दिए
+थे
+.
 
-अब	PRP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-आरोपी	JJ	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-लौटा	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+नौकरी
+नहीं
+मिलने
+पर
+आरोपी
+रुपये
+नहीं
+लौटा
+रहा
+है
+.
 
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-वसंत	JJ	TEMP	O	O	O	O
-कुंज	NN	TEMP	O	O	O	O
-नार्थ	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शिकायत
+मिलने
+पर
+वसंत
+कुंज
+नार्थ
+थाना
+पुलिस
+इस
+मामले
+में
+आगे
+की
+कार्रवाई
+कर
+रही
+है
+.
 
-पुष्पेंद्र	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-परिहार	NN	TEMP	O	O	O	O
-नंगला	JJ	TEMP	O	O	O	O
-देवत	XC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
+पुष्पेंद्र
+सिंह
+परिहार
+नंगला
+देवत
+गांव
 
-वसंत	NNP	TEMP	O	O	O	O
-एंक्लेव	NNP	TEMP	O	O	O	O
-रहता	VM	TEMP	O	O	B-STAT	O
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+वसंत
+एंक्लेव
+रहता
+है
+.
 
-दिल्ली	NNP	TEMP	O	O	O	O
-विश्वविद्यालय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ग्रेजुएशन	NN	TEMP	O	O	B-MISC	OCC
-करने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-एमबीए	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिल्ली
+विश्वविद्यालय
+से
+ग्रेजुएशन
+करने
+के
+बाद
+उसने
+एमबीए
+किया
+था
+.
 
-इसी	PRP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+बीच
+नोटबंदी
+की
+घोषणा
+हो
+गई
+.
 
-वह	PRP	TEMP	O	O	O	O
-उन	DEM	TEMP	O	O	O	O
-दिनों	NN	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-तभी	PRP	TEMP	O	O	O	O
-शिवराज	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-नामक	JJ	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	I-MISC	O
-मिला	VM	TEMP	B-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+वह
+उन
+दिनों
+बैंक
+की
+लाइन
+में
+लगा
+हुआ
+था
+तभी
+शिवराज
+शर्मा
+नामक
+एक
+युवक
+उसे
+लाइन
+में
+मिला
+.
 
-उसने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-मंत्रालय	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अच्छी	JJ	TEMP	O	O	O	O
-जान	NN	TEMP	O	O	B-MISC	O
-पहचान	VM	TEMP	O	O	I-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+बताया
+कि
+उसकी
+मंत्रालय
+और
+कई
+बैंकों
+में
+अधिकारियों
+से
+अच्छी
+जान
+पहचान
+है
+.
 
-वह	PRP	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगवा	VM	TEMP	I-MISC	O	I-MISC	O
-देगा	VAUX	TEMP	I-MISC	O	I-MISC	O
+वह
+उसकी
+नौकरी
+लगवा
+देगा
 
-लेकिन	CC	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-होंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+उसे
+12
+लाख
+रुपये
+देने
+होंगे
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-झांसे	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	I-MISC	O	O	O
-आ	VM	TEMP	I-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+उसके
+झांसे
+में
+आ
+गया
+.
 
-उसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-एडवांस	NN	TEMP	O	O	B-MISC	OCC
-दे	VM	TEMP	B-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+बाद
+उसने
+एक
+लाख
+रुपये
+एडवांस
+दे
+दिया
+.
 
-कुछ	QF	TEMP	O	B	O	O
-समय	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-वैकेंसी	NN	TEMP	B-MISC	O	B-MISC	O
-निकली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+समय
+बाद
+दो
+बैंकों
+में
+वैकेंसी
+निकली
+.
 
-उसके	PRP	TEMP	O	O	O	O
-फार्म	NN	TEMP	B-MISC	O	B-MISC	O
-भरने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+फार्म
+भरने
+के
+लिए
+युवक
+ने
+आवेदन
+कर
+दिया
+.
 
-परिणाम	NN	TEMP	B-MISC	O	B-MISC	O
-आने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संपर्क	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
+परिणाम
+आने
+के
+बाद
+जब
+नौकरी
+नहीं
+मिली
+तो
+उसने
+आरोपी
+से
+संपर्क
+किया
 
-लेकिन	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लौटा	VM	TEMP	B-MISC	O	B-MISC	OCC
-देगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+उसने
+कहा
+कि
+वह
+रुपये
+लौटा
+देगा
+.
 
-इसी	PRP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-चेक	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
+इसी
+बीच
+उसने
+एक
+चेक
+भी
+दिया
 
-जो	PRP	TEMP	O	O	O	O
-जुलाई-	NN	TEMP	O	O	O	O
-2017	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बाउंस	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जो
+जुलाई-
+2017
+में
+बाउंस
+हो
+गया
+.
 
-उसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-फोन	NN	TEMP	B-MISC	O	O	O
-बंद	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+बाद
+आरोपी
+ने
+अपना
+मोबाइल
+फोन
+बंद
+कर
+लिया
+है
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करवाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+ने
+शुक्रवार
+को
+मामला
+दर्ज
+करवाया
+.

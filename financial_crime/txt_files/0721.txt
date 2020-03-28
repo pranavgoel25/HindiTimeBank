@@ -1,255 +1,255 @@
 
-जासं	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-इलाहाबाद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-अ	SYM	TEMP	O	O	O	O
-‌	QC	TEMP	O	O	O	O
-र्द्धकुंभ	NN	TEMP	O	O	O	O
-मेले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तैयारियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-क्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-जहां	PRP	TEMP	O	O	O	O
-एडीए	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-चरण	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-सडकों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सुंदरीकरण	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-चौडीकरण	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-सुदृढ़ीकरण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-टेंडर	NN	TEMP	B-MISC	O	B-MISC	O
-निकाल	VM	TEMP	I-MISC	O	I-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जासं
+,
+इलाहाबाद
+:
+अ
+‌
+र्द्धकुंभ
+मेले
+की
+तैयारियों
+के
+क्रम
+में
+एक
+ओर
+जहां
+एडीए
+ने
+पहले
+चरण
+में
+11
+सडकों
+के
+सुंदरीकरण
+,
+चौडीकरण
+और
+सुदृढ़ीकरण
+के
+लिए
+टेंडर
+निकाल
+दिया
+है
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-निगम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लागत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-दर्जन	NN	TEMP	O	O	O	O
-सडकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चमकाने	VM	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-तैयारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+,
+दूसरी
+तरफ
+नगर
+निगम
+ने
+भी
+लगभग
+10
+करोड
+रुपये
+की
+लागत
+से
+एक
+दर्जन
+सडकों
+को
+चमकाने
+की
+तैयारी
+कर
+ली
+है
+.
 
-पहले	NST	TEMP	O	O	O	O
-चरण	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-उत्तरी	JJ	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-दक्षिणी	JJ	TEMP	O	O	O	O
-विधानसभा	JJ	TEMP	O	O	O	O
-क्षेत्रों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-महत्वपूर्ण	JJ	TEMP	O	O	O	O
-मार्गो	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सुदृढ़ीकरण	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	O	O
-कराया	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाना	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पहले
+चरण
+में
+शहर
+उत्तरी
+और
+शहर
+दक्षिणी
+विधानसभा
+क्षेत्रों
+के
+महत्वपूर्ण
+मार्गो
+के
+सुदृढ़ीकरण
+का
+कार्य
+कराया
+जाना
+है
+.
 
-दारागंज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दशाश्वमेध	JJ	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मोरी	XC	TEMP	O	O	O	O
-गेट	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-खुनखुन	NN	TEMP	O	O	O	O
-शिवाला	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अल्लापुर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-फीट	NN	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जीटी	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मटियारा	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जवाहर	XC	TEMP	O	O	O	O
-लाल	XC	TEMP	O	O	O	O
-नेहरू	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-सुधार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दारागंज
+में
+दशाश्वमेध
+रोड
+का
+मोरी
+गेट
+से
+खुनखुन
+शिवाला
+,
+अल्लापुर
+में
+60
+फीट
+रोड
+से
+जीटी
+रोड
+,
+मटियारा
+रोड
+से
+जवाहर
+लाल
+नेहरू
+रोड
+तक
+सुधार
+का
+कार्य
+कराया
+जाएगा
+.
 
-तिलक	NN	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बाघंबरी	JJ	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-तिलक	NN	TEMP	O	O	O	O
-शिक्षण	XC	TEMP	O	O	O	O
-संस्थान	NN	TEMP	B-MISC	O	B-MISC	OCC
-होते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-प्रयाग	NN	TEMP	O	O	O	O
-घाट	JJ	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-सडक	JJ	TEMP	O	O	O	O
-सुदृढ़ीकरण	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अल्लापुर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-80	QC	TEMP	O	O	O	O
-फीट	NN	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बाघंबरी	JJ	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-डॉट	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पुल	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-सुधार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+तिलक
+नगर
+में
+बाघंबरी
+रोड
+से
+तिलक
+शिक्षण
+संस्थान
+होते
+हुए
+प्रयाग
+घाट
+रेलवे
+स्टेशन
+तक
+सडक
+सुदृढ़ीकरण
+का
+कार्य
+,
+अल्लापुर
+में
+80
+फीट
+रोड
+का
+बाघंबरी
+रोड
+से
+रेलवे
+डॉट
+का
+पुल
+तक
+सुधार
+का
+कार्य
+कराने
+का
+प्रस्ताव
+है
+.
 
-नूरुल्ला	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मीरापुर	JJ	TEMP	O	O	O	O
-सब्जी	QF	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-गुरु	XC	TEMP	O	O	O	O
-गोविंद	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बक्शी	NN	TEMP	O	O	O	O
-बांध	VM	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-क्रासिंग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एनी	XC	TEMP	O	O	O	O
-बेसेंट	NNP	TEMP	O	O	O	O
-स्कूल	NN	TEMP	B-MISC	O	B-MISC	OCC
-होते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-बडी	JJ	TEMP	O	O	O	O
-पुलिया	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दारागंज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-निराला	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जीटी	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बक्शी	JJ	TEMP	O	O	O	O
-बांध	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+नूरुल्ला
+रोड
+से
+मीरापुर
+सब्जी
+मंडी
+तक
+गुरु
+गोविंद
+सिंह
+रोड
+,
+बक्शी
+बांध
+रेलवे
+क्रासिंग
+से
+एनी
+बेसेंट
+स्कूल
+होते
+हुए
+बडी
+पुलिया
+,
+दारागंज
+में
+निराला
+रोड
+का
+जीटी
+रोड
+से
+बक्शी
+बांध
+तक
+कार्य
+कराने
+की
+योजना
+है
+.
 
-बक्शीखुर्द	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दारागंज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फुलवरिया	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रयाग	NN	TEMP	O	O	O	O
-घाट	JJ	TEMP	O	O	O	O
-रेलवे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मध्य	NST	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कीडगंज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यमुना	XC	TEMP	O	O	O	O
-बैंक	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-शुभम	XC	TEMP	O	O	O	O
-गेस्ट	XC	TEMP	O	O	O	O
-हाउस	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जलनिगम	XC	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-उत्तरी	JJ	TEMP	O	O	O	O
-पटरी	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-नाली	JJ	TEMP	O	O	O	O
-सुधार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नूरुल्ला	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-पटरी	NN	TEMP	O	O	O	O
-सुधार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बक्शीखुर्द
+,
+दारागंज
+में
+फुलवरिया
+रोड
+से
+प्रयाग
+घाट
+रेलवे
+के
+मध्य
+तक
+,
+कीडगंज
+में
+यमुना
+बैंक
+रोड
+पर
+शुभम
+गेस्ट
+हाउस
+से
+जलनिगम
+कार्यालय
+तक
+उत्तरी
+पटरी
+एवं
+नाली
+सुधार
+का
+कार्य
+,
+नूरुल्ला
+रोड
+एवं
+उसकी
+पटरी
+सुधार
+का
+कार्य
+कराया
+जाएगा
+.

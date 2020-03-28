@@ -1,175 +1,175 @@
 
-गजरौला	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गच्चा	NN	TEMP	B-MISC	O	B-MISC	O
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-हेल्पर	XC	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-नगदी	NN	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	IAC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गजरौला
+:
+चालक
+को
+गच्चा
+देकर
+हेल्पर
+ट्रक
+से
+20
+हजार
+नगदी
+चोरी
+कर
+फरार
+हो
+गया
+.
 
-बदायूं	NN	TEMP	O	O	O	O
-अंतर्गत	JJ	TEMP	O	O	O	O
-ग्राम	XC	TEMP	O	O	O	O
-आलापुर	NNP	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-कृष्ण	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+बदायूं
+अंतर्गत
+ग्राम
+आलापुर
+निवासी
+कृष्ण
+कुमार
+ट्रक
+चालक
+है
+.
 
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-उत्तराखंड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लालकुआ	NN	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कागज	NN	TEMP	B-MISC	O	O	O
-लादकर	VM	TEMP	I-MISC	O	B-MISC	OCC
-दिल्ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सोमवार
+को
+वह
+उत्तराखंड
+के
+लालकुआ
+क्षेत्र
+से
+ट्रक
+में
+कागज
+लादकर
+दिल्ली
+जा
+रहा
+था
+.
 
-साथ	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-धर्मवीर	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-दातागंज	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बदायूं	NN	TEMP	O	O	O	O
-बतौर	JJ	TEMP	O	O	O	O
-हेल्पर	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	DECL
-था	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+साथ
+में
+धर्मवीर
+निवासी
+दातागंज
+,
+बदायूं
+बतौर
+हेल्पर
+मौजूद
+था
+.
 
-दोपहर	NN	TEMP	O	B	O	O
-करीब	RB	TEMP	O	B	O	O
-एक	QC	TEMP	O	I	O	O
-बजे	RP:?	TEMP	O	I	O	O
-हाईवे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-थानान्तर्गत	JJ	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-सलारपुर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निकट	NST	TEMP	O	O	O	O
-ढाबे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खाना	NN	TEMP	O	O	O	O
-खाने	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कृष्ण	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रोक	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-ढाबे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चला	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दोपहर
+करीब
+एक
+बजे
+हाईवे
+पर
+थानान्तर्गत
+ग्राम
+सलारपुर
+के
+निकट
+ढाबे
+पर
+खाना
+खाने
+के
+लिए
+कृष्ण
+ने
+ट्रक
+को
+रोक
+लिया
+और
+ढाबे
+पर
+चला
+गया
+.
 
-हेल्पर	XC	TEMP	O	O	O	O
-धर्मवीर	XC	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खिडकी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-शीशा	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रुक	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हेल्पर
+धर्मवीर
+ट्रक
+की
+खिडकी
+का
+शीशा
+बंद
+करने
+के
+लिए
+रुक
+गया
+.
 
-काफी	QF	TEMP	O	O	O	O
-देर	NN	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-धर्मवीर	JJ	TEMP	O	O	O	O
-ढाबे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-पहुंचा	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-कृष्ण	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आकर	VM	TEMP	B-MISC	O	B-MISC	O
-देखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-था	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+काफी
+देर
+बाद
+भी
+धर्मवीर
+ढाबे
+पर
+नहीं
+पहुंचा
+तो
+कृष्ण
+ने
+ट्रक
+पर
+आकर
+देखा
+तो
+वह
+वहां
+भी
+नहीं
+था
+.
 
-उसने	PRP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-टोल	XC	TEMP	O	O	O	O
-टैक्स	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-तेल	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-खर्च	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रखी	VM	TEMP	B-MISC	O	O	O
-बीस	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नगदी	NN	TEMP	B-MISC	O	O	O
-भी	RP	TEMP	O	O	O	O
-गायब	JJ	TEMP	B-MISC	O	B-STAT	OCC
-थी	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उसने
+ट्रक
+में
+टोल
+टैक्स
+,
+तेल
+एवं
+अन्य
+खर्च
+के
+लिए
+रखी
+बीस
+हजार
+की
+नगदी
+भी
+गायब
+थी
+.
 
-उसे	PRP	TEMP	O	O	O	O
-शक	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-धर्मवीर	JJ	TEMP	O	O	O	O
-नगदी	NN	TEMP	O	O	O	O
-चोरी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निकालकर	VM	TEMP	B-MISC	O	B-MISC	O
-भाग	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसे
+शक
+हुआ
+कि
+धर्मवीर
+नगदी
+चोरी
+से
+निकालकर
+भाग
+गया
+.
 
-उसने	PRP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	I-MISC	-1
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+तहरीर
+थाना
+पुलिस
+को
+दी
+है
+.

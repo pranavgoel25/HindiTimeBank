@@ -1,220 +1,220 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अलीगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-सैनिकों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मृत्यु	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	B-MISC	O
-देगी	VM	TEMP	B-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+अलीगढ़
+:
+पूर्व
+सैनिकों
+की
+मृत्यु
+पर
+अब
+सरकार
+उनके
+परिवार
+को
+10
+हजार
+रुपये
+की
+सहायता
+राशि
+देगी
+.
 
-दिवंगत	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पुष्पमाला	NN	TEMP	O	O	O	O
-अर्पित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-होने	VM	TEMP	O	O	B-STAT	DES
-वाले	PSP	TEMP	O	O	I-STAT	O
-खर्च	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भरपाई	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-योजना	NN	TEMP	B-MISC	O	O	O
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिवंगत
+को
+पुष्पमाला
+अर्पित
+करने
+के
+लिए
+होने
+वाले
+खर्च
+की
+भरपाई
+को
+सरकार
+ने
+यह
+योजना
+शुरू
+की
+है
+.
 
-सैनिक	XC	TEMP	O	O	O	O
-कल्याण	XC	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अफसर	NN	TEMP	O	O	O	O
-दाह	XC	TEMP	O	O	O	O
-संस्कार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-पुष्प	NN	TEMP	O	O	O	O
-माला	NN	TEMP	O	O	O	O
-अर्पित	JJ	TEMP	B-MISC	O	B-MISC	O
-करेंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सैनिक
+कल्याण
+बोर्ड
+के
+अफसर
+दाह
+संस्कार
+पर
+यह
+पुष्प
+माला
+अर्पित
+करेंगे
+.
 
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सदस्यों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मृत्यु	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-9412722784	QC	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-देनी	VM	TEMP	I-MISC	O	I-MISC	O
-होगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+लिए
+परिवार
+के
+सदस्यों
+को
+मृत्यु
+पर
+9412722784
+पर
+सूचना
+देनी
+होगी
+.
 
-जिला	JJ	TEMP	O	O	O	O
-सैनिक	XC	TEMP	O	O	O	O
-कल्याण	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-पुनर्वास	NN	TEMP	O	O	O	O
-अधिकारी	JJ	TEMP	O	O	O	O
-राजीव	XC	TEMP	O	O	O	O
-अत्री	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-सैनिकों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-समस्याओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-गंभीर	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+जिला
+सैनिक
+कल्याण
+एवं
+पुनर्वास
+अधिकारी
+राजीव
+अत्री
+ने
+बताया
+कि
+पूर्व
+सैनिकों
+की
+समस्याओं
+को
+लेकर
+सरकार
+काफी
+गंभीर
+है
+.
 
-हर	QF	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-उनकी	PRP	TEMP	O	O	O	O
-पेंशन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बढ़ोत्तरी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होती	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हर
+साल
+उनकी
+पेंशन
+में
+बढ़ोत्तरी
+होती
+है
+.
 
-अब	PRP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-मृत्यु	NN	TEMP	O	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	B-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-फैसला	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+सरकार
+ने
+उनकी
+मृत्यु
+के
+बाद
+भी
+परिवार
+को
+सहायता
+देने
+का
+फैसला
+लिया
+गया
+है
+.
 
-अब	PRP	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-भूतपूर्व	JJ	TEMP	O	O	O	O
-सैनिक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मृत्यु	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	B-MISC	O
-देगी	VM	TEMP	B-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+अब
+अगर
+किसी
+भूतपूर्व
+सैनिक
+की
+मृत्यु
+हो
+जाती
+है
+,
+तो
+सरकार
+उसके
+परिवार
+को
+10
+हजार
+रुपये
+की
+सहायता
+राशि
+देगी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परिजनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दाह	XC	TEMP	O	O	O	O
-संस्कार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-सैनिक	XC	TEMP	O	O	O	O
-कल्याण	XC	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अफसरों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	O	O
-देनी	VM	TEMP	I-MISC	O	B-MISC	OCC
-होगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+लिए
+पीडित
+परिवार
+के
+परिजनों
+को
+दाह
+संस्कार
+से
+पहले
+ही
+सैनिक
+कल्याण
+बोर्ड
+के
+अफसरों
+को
+जानकारी
+देनी
+होगी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+लिए
+एक
+नंबर
+भी
+जारी
+किया
+गया
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-थल	XC	TEMP	O	O	O	O
-सेनाध्यक्ष	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पुष्पमाला	NN	TEMP	O	O	O	O
-अर्पित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+धनराशि
+थल
+सेनाध्यक्ष
+की
+तरफ
+से
+पुष्पमाला
+अर्पित
+करने
+के
+लिए
+दी
+जाएगी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-दाह	NN	TEMP	O	O	O	O
-संस्कार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-अफसर	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जाकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-सैनिक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शव	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पुष्पमाला	NN	TEMP	O	O	B-MISC	OCC
-अर्पित	JJ	TEMP	B-MISC	O	I-MISC	O
-करेंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+दाह
+संस्कार
+के
+समय
+अफसर
+भी
+जाकर
+सैनिक
+के
+शव
+पर
+पुष्पमाला
+अर्पित
+करेंगे
+.

@@ -1,116 +1,116 @@
-﻿टांडा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-मुहल्ला	JJ	TEMP	O	O	O	O
-बरगद	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-मारूफ	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-सात	QC	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-पूर्व	NST	TEMP	O	O	O	O
-मुहल्ला	XC	TEMP	O	O	O	O
-टंडोली	NNP	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-फईम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सऊदी	JJ	TEMP	O	O	O	O
-अरब	XC	TEMP	O	O	O	O
-नौकरी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-भेजने	VM	TEMP	B-MISC	O	B-MISC	O
-को	PSP	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿टांडा
+:
+मुहल्ला
+बरगद
+निवासी
+मारूफ
+का
+कहना
+है
+कि
+उसने
+सात
+माह
+पूर्व
+मुहल्ला
+टंडोली
+निवासी
+फईम
+को
+सऊदी
+अरब
+नौकरी
+के
+लिए
+भेजने
+को
+40
+हजार
+रुपये
+दिए
+थे
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+अपना
+मोबाइल
+भी
+दिया
+था
+.
 
-सात	QC	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मिल	VM	TEMP	I-MISC	O	I-MISC	O
-पाया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-रकम	NN	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सात
+माह
+बाद
+न
+तो
+पास
+वापस
+मिल
+पाया
+है
+और
+न
+ही
+रकम
+वापस
+मिली
+है
+.
 
-कई	QF	TEMP	O	O	O	O
-चक्कर	NN	TEMP	B-MISC	O	O	O
-लगाने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-साथी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बजया	NN	TEMP	O	O	O	O
-दोनों	JJ	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-सऊदी	JJ	TEMP	O	O	O	O
-अरब	NN	TEMP	O	O	O	O
-भाग	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कई
+चक्कर
+लगाने
+के
+बाद
+भी
+उसने
+व
+उसके
+साथी
+ने
+रुपये
+देने
+के
+बजया
+दोनों
+आरोपी
+सऊदी
+अरब
+भाग
+गए
+हैं
+.
 
-उसने	PRP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-पूर्व	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-सुनवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+तीन
+माह
+पूर्व
+भी
+पुलिस
+को
+तहरीर
+दी
+थी
+,
+लेकिन
+सुनवाई
+नहीं
+हुई
+.
 
-मारूफ	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-आरोपियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-रकम	NN	TEMP	B-MISC	O	B-MISC	O
-दिलाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मारूफ
+ने
+तहरीर
+देकर
+आरोपियों
+से
+उसकी
+रकम
+दिलाने
+की
+मांग
+की
+है
+.

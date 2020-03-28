@@ -1,437 +1,437 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
+﻿संवाद
+सहयोगी
 
-गढ़मुक्तेश्वर	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सभावली	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-गढ़	NN	TEMP	O	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	DESC
-वाले	PSP	TEMP	O	O	I-STAT	O
-दो	QC	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मेरठ	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-14	QC	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-विदेश	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगवाने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-झांसा	NN	TEMP	B-MISC	O	B-MISC	OCC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-करीब	RB	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-ठग	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गढ़मुक्तेश्वर
+:
+¨
+सभावली
+और
+गढ़
+कोतवाली
+क्षेत्र
+के
+रहने
+वाले
+दो
+युवकों
+ने
+मेरठ
+निवासी
+14
+युवकों
+से
+विदेश
+में
+नौकरी
+लगवाने
+का
+झांसा
+देकर
+करीब
+दस
+लाख
+रुपये
+ठग
+लिए
+.
 
-कुवैत	NN	TEMP	O	O	O	O
+कुवैत
 
-सऊदी	JJ	TEMP	O	O	O	O
-अरब	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-इराक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगवाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-कहकर	VM	TEMP	B-MISC	O	B-MISC	O
-फर्जी	NN	TEMP	O	O	O	O
-वीजा	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-थमा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सऊदी
+अरब
+और
+इराक
+में
+नौकरी
+लगवाने
+की
+बात
+कहकर
+फर्जी
+वीजा
+भी
+थमा
+दिया
+.
 
-मेडिकल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-पीसीसी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-पहुंचे	VAUX	TEMP	B-MISC	O	I-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-वीजा	NN	TEMP	O	O	B-MISC	OCC
-होने	VM	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मेडिकल
+के
+बाद
+जब
+युवक
+पीसीसी
+कराने
+पहुंचे
+तो
+उन्हें
+फर्जी
+वीजा
+होने
+की
+जानकारी
+मिली
+.
 
-पीडितों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मांगे	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-हत्या	NN	TEMP	O	O	O	OCC
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडितों
+ने
+रुपये
+वापस
+मांगे
+तो
+आरोपियों
+ने
+हत्या
+की
+धमकी
+दी
+.
 
-शुक्रवार	NN	TEMP	O	O	O	O
-दोपहर	NN	TEMP	O	O	O	O
-पीडितों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सभावली	NN	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-पहुंचकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-आरोपियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शुक्रवार
+दोपहर
+पीडितों
+ने
+¨
+सभावली
+थाने
+पहुंचकर
+आरोपियों
+के
+खिलाफ
+तहरीर
+दी
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+मामले
+की
+जांच
+शुरू
+कर
+दी
+है
+.
 
-मेरठ	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पीपली	NN	TEMP	O	O	O	O
-खेडा	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-इरफान	XC	TEMP	O	O	O	O
+मेरठ
+के
+पीपली
+खेडा
+निवासी
+इरफान
 
-गुलफाम	NN	TEMP	O	O	O	O
+गुलफाम
 
-शाहिद	NN	TEMP	O	O	O	O
+शाहिद
 
-रोहित	NN	TEMP	O	O	O	O
+रोहित
 
-अनस	XC	TEMP	O	O	O	O
+अनस
 
-शाहनवाज	NN	TEMP	O	O	O	O
+शाहनवाज
 
-विपिन	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	O	O
-तहरीर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शाहनवाज	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-फिरोज	NN	TEMP	O	O	O	O
-नामक	JJ	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आना-जाना	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विपिन
+आदि
+ने
+पुलिस
+को
+दी
+तहरीर
+में
+बताया
+कि
+उनके
+गांव
+में
+शाहनवाज
+और
+फिरोज
+नामक
+युवक
+का
+आना-जाना
+था
+.
 
-शाहनवाज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-वैठ	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-फिरोज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-फुलडी	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शाहनवाज
+ने
+खुद
+को
+वैठ
+और
+फिरोज
+ने
+खुद
+को
+फुलडी
+निवासी
+बताया
+था
+.
 
-शाहनवाज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पीपली	XC	TEMP	O	O	O	O
-खेडा	NNP	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-सऊदी	JJ	TEMP	O	O	O	O
-अरब	XC	TEMP	O	O	O	O
+शाहनवाज
+ने
+पीपली
+खेडा
+निवासी
+युवकों
+से
+कहा
+कि
+वह
+सऊदी
+अरब
 
-कुवैत	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-इराक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	O	O
-कंपनियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगवाते	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुवैत
+और
+इराक
+में
+मौजूद
+कंपनियों
+में
+नौकरी
+लगवाते
+हैं
+.
 
-शाहनवाज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लिस्ट	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दिखाई	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+शाहनवाज
+ने
+इन
+युवकों
+को
+कंपनी
+की
+लिस्ट
+भी
+दिखाई
+.
 
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	O
-लगवाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-शाहनवाज	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-फिरोज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-प्रत्येक	QF	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-1.5	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नौकरी
+लगवाने
+के
+नाम
+पर
+शाहनवाज
+और
+फिरोज
+ने
+प्रत्येक
+से
+1.5
+लाख
+रुपये
+की
+मांग
+की
+.
 
-मेरठ	XC	TEMP	O	O	O	O
-निवासी	NNP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देकर	VM	TEMP	B-MISC	O	B-MISC	O
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-पाने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-तैयार	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मेरठ
+निवासी
+सभी
+युवक
+रुपये
+देकर
+नौकरी
+पाने
+को
+तैयार
+हो
+गए
+.
 
-शाहनवाज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पासपोर्ट	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-दिल्ली	NNP	TEMP	O	O	B-MISC	O
-बुलाया	VM	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शाहनवाज
+ने
+सभी
+को
+पासपोर्ट
+लेकर
+दिल्ली
+बुलाया
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-शाहनवाज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-14	QC	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पासपोर्ट	NN	TEMP	O	O	O	OCC
-और	CC	TEMP	O	O	O	O
-प्रति	RP:?	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+शाहनवाज
+ने
+14
+युवकों
+से
+पासपोर्ट
+और
+प्रति
+युवक
+50
+हजार
+रुपये
+ले
+लिए
+.
 
-करीब	RB	TEMP	O	B	O	O
-15	QC	TEMP	O	I	O	O
-दिन	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मेडिकल	XC	TEMP	B-MISC	O	B-MISC	O
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मेडिकल	XC	TEMP	B-MISC	O	B-MISC	O
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+करीब
+15
+दिन
+बाद
+आरोपियों
+ने
+युवकों
+से
+मेडिकल
+कराने
+के
+नाम
+पर
+मेडिकल
+कराने
+के
+नाम
+पर
+20
+-
+20
+हजार
+रुपये
+और
+ले
+लिए
+.
 
-कुछ	QF	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-शाहनवाज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-वीजा	NN	TEMP	O	O	O	O
-पकडा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+दिन
+बाद
+शाहनवाज
+ने
+सभी
+युवकों
+को
+फर्जी
+वीजा
+पकडा
+दिया
+.
 
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-विदेश	NN	TEMP	B-MISC	O	O	O
-भेजने	VM	TEMP	I-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	O
-कही	VM	TEMP	I-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जल्द
+ही
+विदेश
+भेजने
+की
+बात
+कही
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-वीजा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-वीजा	NN	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+युवकों
+ने
+जब
+वीजा
+की
+जांच
+कराई
+तो
+पता
+चला
+कि
+वह
+वीजा
+फर्जी
+है
+.
 
-इरफान	NN	TEMP	O	O	O	O
+इरफान
 
-गुलफाम	NN	TEMP	O	O	O	O
+गुलफाम
 
-शाहिद	NN	TEMP	O	O	O	O
+शाहिद
 
-रोहित	NN	TEMP	O	O	O	O
+रोहित
 
-अनस	XC	TEMP	O	O	O	O
+अनस
 
-शाहनवाज	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-विपिन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-शाहनवाज	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-फिरोज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फर्जीवाडे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कही	VM	TEMP	I-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-दोनों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मांगने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-जान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-माने	JJ	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शाहनवाज
+और
+विपिन
+ने
+जब
+शाहनवाज
+व
+फिरोज
+से
+फर्जीवाडे
+की
+बात
+कही
+तो
+दोनों
+ने
+रुपये
+वापस
+मांगने
+पर
+जान
+से
+माने
+की
+धमकी
+दी
+.
 
-इस	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-हडप	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+तरह
+आरोपियों
+ने
+सभी
+युवकों
+से
+करीब
+दस
+लाख
+रुपये
+हडप
+लिए
+.
 
-सभी	QF	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-शुक्रवार	JJ	TEMP	O	O	O	O
-दोपहर	NN	TEMP	O	O	O	O
-वैठ	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
+सभी
+पीडित
+युवक
+शुक्रवार
+दोपहर
+वैठ
+गांव
+पहुंचे
 
-जहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-शाहनवाज	NN	TEMP	O	O	O	O
-नामक	JJ	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-किराए	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कमरा	NN	TEMP	O	O	B-MISC	OCC
-लेकर	VM	TEMP	O	O	I-MISC	O
-रहता	VAUX	TEMP	B-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जहां
+से
+पता
+चला
+कि
+शाहनवाज
+नामक
+युवक
+यहां
+किराए
+पर
+कमरा
+लेकर
+रहता
+था
+.
 
-एसओ	XC	TEMP	O	O	O	O
-हरपाल	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-तहरीर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एसओ
+हरपाल
+¨
+सह
+का
+कहना
+है
+कि
+तहरीर
+के
+आधार
+पर
+मामले
+की
+जांच
+की
+जा
+रही
+है
+.

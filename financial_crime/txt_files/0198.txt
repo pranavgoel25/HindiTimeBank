@@ -1,302 +1,302 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-कानपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-क्रिप्टो	XC	TEMP	O	O	O	O
-करेंसी	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हम	PRP	TEMP	O	O	O	O
-डिजिटल	XC	TEMP	O	O	O	O
-करेंसी	NNP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कहते	VM	TEMP	B-MISC	O	B-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कानपुर
+:
+क्रिप्टो
+करेंसी
+को
+हम
+डिजिटल
+करेंसी
+भी
+कहते
+हैं
+.
 
-दुनिया	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-देशों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इसका	PRP	TEMP	O	O	O	O
-प्रचलन	NN	TEMP	B-MISC	O	B-STAT	O
-है	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+दुनिया
+के
+कई
+देशों
+में
+इसका
+प्रचलन
+है
+.
 
-गुरुवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-आइआइटियंस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-करेंसी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-होने	VM	TEMP	O	O	B-STAT	DES
-वाले	PSP	TEMP	O	O	I-STAT	O
-लाभ	NN	TEMP	O	O	O	O
+गुरुवार
+को
+आइआइटियंस
+ने
+इस
+करेंसी
+से
+होने
+वाले
+लाभ
 
-नुकसान	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-उपयोग	NN	TEMP	O	O	O	O
-संबंधी	JJ	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हासिल	NN	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नुकसान
+व
+इसके
+उपयोग
+संबंधी
+जानकारी
+हासिल
+की
+.
 
-मौका	NN	TEMP	O	O	B-STAT	O
-था	VM	TEMP	O	O	I-STAT	O
-आइआइटी	XC	TEMP	O	O	O	O
-कानपुर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-शुरू	NN	TEMP	O	O	B-MISC	O
-हुई	VM	TEMP	O	O	I-MISC	O
-साइबर	XC	TEMP	O	O	O	O
-सिक्योरिटी	NNP	TEMP	O	O	O	O
-जागरूकता	VM	TEMP	O	O	O	O
-सप्ताह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंतर्गत	PSP:?	TEMP	O	O	O	O
-दुनिया	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-साइबर	XC	TEMP	O	O	O	O
-सिक्योरिटी	NNP	TEMP	O	O	O	O
-प्रतियोगिता	NN	TEMP	I-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-दूसरे	QO	TEMP	O	O	O	O
-संस्करण	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+मौका
+था
+आइआइटी
+कानपुर
+में
+गुरुवार
+से
+शुरू
+हुई
+साइबर
+सिक्योरिटी
+जागरूकता
+सप्ताह
+के
+अंतर्गत
+दुनिया
+की
+सबसे
+बडी
+साइबर
+सिक्योरिटी
+प्रतियोगिता
+के
+दूसरे
+संस्करण
+का
+.
 
-इस	DEM	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-छात्र-छात्राओं	NN	TEMP	O	O	O	O
+इस
+मौके
+पर
+छात्र-छात्राओं
 
-प्रोफेसर	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-आगंतुकों	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-तमाम	JJ	TEMP	O	O	O	O
-कंपनियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रतिनिधि	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-साइबर	XC	TEMP	O	O	O	O
-सिक्योरिटी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-उपयोग	NN	TEMP	O	O	O	O
-होने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-नेटवर्क	XC	TEMP	O	O	O	O
-टेलेमेट्री	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-समझा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+प्रोफेसर
+व
+अन्य
+आगंतुकों
+(
+तमाम
+कंपनियों
+के
+प्रतिनिधि
+)
+ने
+मोबाइल
+व
+साइबर
+सिक्योरिटी
+के
+दौरान
+उपयोग
+होने
+वाली
+नेटवर्क
+टेलेमेट्री
+को
+भी
+समझा
+.
 
-कंप्यूटर	XC	TEMP	O	O	O	O
-साइंस	XC	TEMP	O	O	O	O
-एंड	XC	TEMP	O	O	O	O
-इंजीनिय	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-रग	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-डा	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+कंप्यूटर
+साइंस
+एंड
+इंजीनिय
+¨
+रग
+विभाग
+के
+डा
+.
 
-संदीप	XC	TEMP	O	O	O	O
-शुक्ला	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-प्रतिभागियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-नेटवर्क	XC	TEMP	O	O	O	O
-टेलेमेट्री	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हम	PRP	TEMP	O	O	O	O
-नेटवर्क	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निगरानी	NN	TEMP	O	O	B-MISC	OCC
-कह	VM	TEMP	B-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संदीप
+शुक्ला
+ने
+प्रतिभागियों
+को
+बताया
+कि
+नेटवर्क
+टेलेमेट्री
+को
+हम
+नेटवर्क
+की
+निगरानी
+कह
+सकते
+हैं
+.
 
-मौजूदा	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तमाम	JJ	TEMP	O	O	O	O
-नेटवर्क	NN	TEMP	O	O	O	O
-आपरेटर	NN	TEMP	O	O	O	O
-हमारे	PRP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	B-MISC	O
-हैं	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मौजूदा
+समय
+में
+तमाम
+नेटवर्क
+आपरेटर
+हमारे
+सामने
+हैं
+.
 
-हम	PRP	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-चयन	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-उसका	PRP	TEMP	O	O	O	O
-उपयोग	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
+हम
+खुद
+किसी
+एक
+का
+चयन
+कर
+उसका
+उपयोग
+करते
+हैं
 
-मगर	CC	TEMP	O	O	O	O
-हमें	PRP	TEMP	O	O	O	O
-नेटवर्क	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निगरानी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ध्यान	NN	TEMP	B-MISC	O	B-MISC	OCC
-देना	VM	TEMP	I-MISC	O	I-MISC	O
-होगा	VAUX	TEMP	O	I-MISC	O	I-MISC	O
-क्योंकि	CC	TEMP	O	O	O	O
-नेटवर्क	XC	TEMP	O	O	O	O
-गडबडाने	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-परेशानियों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सामना	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-करना	VM	TEMP	B-MISC	O	B-MISC	OCC
-पडता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मगर
+हमें
+नेटवर्क
+की
+निगरानी
+पर
+ध्यान
+देना
+होगा
+क्योंकि
+नेटवर्क
+गडबडाने
+से
+कई
+परेशानियों
+का
+सामना
+भी
+करना
+पडता
+है
+.
 
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-तीन	QC	TEMP	O	B	O	O
-दिनों	NN	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-चलने	VM	TEMP	O	O	B-STAT	DESC
-वाले	PSP	TEMP	O	O	I-STAT	O
-इस	DEM	TEMP	O	O	O	O
-आयोजन	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-उद्योग	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-शैक्षिक	JJ	TEMP	O	O	O	O
-जगत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आठ	QC	TEMP	O	O	O	O
-वक्ता	NN	TEMP	O	O	O	O
-व्याख्यान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-विचार	NN	TEMP	B-MISC	O	B-MISC	O
-रखेंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कहा
+कि
+तीन
+दिनों
+तक
+चलने
+वाले
+इस
+आयोजन
+में
+उद्योग
+व
+शैक्षिक
+जगत
+के
+आठ
+वक्ता
+व्याख्यान
+के
+माध्यम
+से
+अपने
+विचार
+रखेंगे
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-आइआइटी	XC	TEMP	O	O	O	O
-कानपुर	NNP	TEMP	O	O	O	O
-इंटरडिसीपिलनरी	XC	TEMP	O	O	O	O
-सेंटर	XC	TEMP	O	O	O	O
-फॉर	XC	TEMP	O	O	O	O
-साइबर	XC	TEMP	O	O	O	O
-सिक्योरिटी	XC	TEMP	O	O	O	O
-एंड	XC	TEMP	O	O	O	O
-साइबर	XC	TEMP	O	O	O	O
-डिफेंस	XC	TEMP	O	O	O	O
-ऑफ	XC	TEMP	O	O	O	O
-क्रिटिकल	XC	TEMP	O	O	O	O
-इन्फ्रास्ट्रक्चर	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गतिविधियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विषय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+आइआइटी
+कानपुर
+इंटरडिसीपिलनरी
+सेंटर
+फॉर
+साइबर
+सिक्योरिटी
+एंड
+साइबर
+डिफेंस
+ऑफ
+क्रिटिकल
+इन्फ्रास्ट्रक्चर
+की
+गतिविधियों
+के
+विषय
+में
+भी
+बताया
+.
 
-64	QC	TEMP	O	O	O	O
-प्रतिभागी	NN	TEMP	O	O	O	O
-लेंगे	VM	TEMP	B-MISC	O	O	OCC
-हिस्सा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-दिवसीय	JJ	TEMP	O	O	O	O
-प्रतियोगिता	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-64	QC	TEMP	O	O	O	O
-प्रतिभागी	NN	TEMP	O	O	O	O
-हिस्सा	VM	TEMP	B-MISC	O	B-MISC	OCC
-लेंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+64
+प्रतिभागी
+लेंगे
+हिस्सा
+:
+तीन
+दिवसीय
+प्रतियोगिता
+में
+64
+प्रतिभागी
+हिस्सा
+लेंगे
+.
 
-आइआइटी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिलाया	VM	TEMP	B-MISC	O	B-STAT	O
-था	VAUX	TEMP	I-MISC	O	I-STAT	O
-हाथ	NN	TEMP	I-MISC	O	O	O
-:	SYM	TEMP	O	O	O	O
-साइबर	XC	TEMP	O	O	O	O
-सिक्योरिटी	NNP	TEMP	O	O	O	O
-जागरूकता	VM	TEMP	O	O	O	O
-सप्ताह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्थापना	NN	TEMP	O	O	O	O
-14	QC	TEMP	O	B	O	O
-वर्ष	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-न्यूयार्क	XC	TEMP	O	O	O	O
-यूनिवर्सिटी	NNP	TEMP	O	O	O	O
-टेंडन	XC	TEMP	O	O	O	O
-स्कूल	XC	TEMP	O	O	O	O
-ऑफ	XC	TEMP	O	O	O	O
-इंजीनिय	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-रग	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-की	VM	TEMP	B-MISC	O	B-MISC	-1
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आइआइटी
+से
+मिलाया
+था
+हाथ
+:
+साइबर
+सिक्योरिटी
+जागरूकता
+सप्ताह
+की
+स्थापना
+14
+वर्ष
+पहले
+न्यूयार्क
+यूनिवर्सिटी
+टेंडन
+स्कूल
+ऑफ
+इंजीनिय
+¨
+रग
+द्वारा
+की
+गई
+थी
+.
 
-वर्ष	NN	TEMP	O	B	O	O
-2016	QC	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-एनवाययू	XC	TEMP	O	O	O	O
-टेंडन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-कार्यक्रम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-विश्व	NN	TEMP	O	O	O	O
-भर	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आगे	NST	TEMP	B-MISC	O	O	O
-बढ़ाने	NN	TEMP	I-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-आइआइटी	XC	TEMP	O	O	O	O
-कानपुर	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-एनवाययू	XC	TEMP	O	O	O	O
-अबूधाबी	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हाथ	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलाया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वर्ष
+2016
+में
+एनवाययू
+टेंडन
+ने
+इस
+कार्यक्रम
+को
+विश्व
+भर
+में
+आगे
+बढ़ाने
+के
+लिए
+आइआइटी
+कानपुर
+व
+एनवाययू
+अबूधाबी
+से
+हाथ
+मिलाया
+था
+.

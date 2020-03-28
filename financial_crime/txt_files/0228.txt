@@ -1,122 +1,122 @@
-﻿पट्टी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रतापगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पेडऱा	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-नूर	XC	TEMP	O	O	O	O
-मोहम्मद	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-विदेश	NN	TEMP	B-MISC	O	O	O
-भेजने	VM	TEMP	I-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-90	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-डकारने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बरहूपुर	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿पट्टी
+,
+प्रतापगढ़
+:
+कोतवाली
+क्षेत्र
+के
+पेडऱा
+गांव
+निवासी
+नूर
+मोहम्मद
+को
+विदेश
+भेजने
+के
+नाम
+पर
+90
+हजार
+रुपये
+डकारने
+के
+मामले
+में
+पुलिस
+ने
+बरहूपुर
+गांव
+निवासी
+तीन
+लोगों
+के
+खिलाफ
+धोखाधडी
+का
+मुकदमा
+दर्ज
+किया
+है
+.
 
-पेडरा	XC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-नूर	XC	TEMP	O	O	O	O
-मोहम्मद	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-22	QC	TEMP	O	B	O	O
-अप्रैल	NNP	TEMP	O	I	O	O
-2015	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-विदेश	NN	TEMP	B-MISC	O	O	O
-भेजने	VM	TEMP	I-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बरहूपुर	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	B-MISC	O
-मो	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पेडरा
+गांव
+निवासी
+नूर
+मोहम्मद
+का
+आरोप
+है
+कि
+22
+अप्रैल
+2015
+को
+विदेश
+भेजने
+के
+नाम
+पर
+बरहूपुर
+गांव
+निवासी
+मो
+.
 
-तारिक	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-आरिफ	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कुद्दस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तारिक
+,
+आरिफ
+व
+कुद्दस
+ने
+उनसे
+रुपये
+लिए
+थे
+.
 
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मांगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाद
+में
+जब
+रुपये
+मांगे
+गए
+तो
+धमकी
+दी
+जा
+रही
+है
+.
 
-इससे	PRP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-डरे	NN	TEMP	B-MISC	O	B-MISC	O
-सहमे	VM	TEMP	I-MISC	O	I-MISC	OCC
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+लोग
+परिवार
+के
+डरे
+सहमे
+हुए
+हैं
+.
 
-तहरीर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तीनों	QC	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-धाराओं	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तहरीर
+के
+आधार
+पर
+पुलिस
+ने
+तीनों
+आरोपियों
+के
+खिलाफ
+धोखाधडी
+सहित
+अन्य
+धाराओं
+में
+मुकदमा
+दर्ज
+किया
+है
+.

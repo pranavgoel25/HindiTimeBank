@@ -1,135 +1,135 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-पाकबडा	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-टैम्पो	NN	TEMP	O	O	O	O
-यूनियन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अध्यक्ष	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भाजपा	JJ	TEMP	O	O	O	O
-नेता	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-साथियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सहयोगी
+पाकबडा
+:
+टैम्पो
+यूनियन
+के
+अध्यक्ष
+ने
+भाजपा
+नेता
+व
+अन्य
+साथियों
+के
+खिलाफ
+पुलिस
+को
+तहरीर
+दी
+थी
+.
 
-यूनियन	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अध्यक्ष	JJ	TEMP	O	O	O	O
-रहीस	NN	TEMP	O	O	O	O
-अहमद	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	DEC
-है	VM	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-भाजपा	NN	TEMP	O	O	O	O
-नेता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-हर	QF	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-माग	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यूनियन
+के
+अध्यक्ष
+रहीस
+अहमद
+का
+आरोप
+है
+कि
+भाजपा
+नेता
+ने
+हर
+माह
+दो
+लाख
+रुपये
+की
+माग
+की
+.
 
-एतराज	NN	TEMP	O	O	O	O
-जताने	VM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भाजपा	JJ	TEMP	O	O	O	O
-नेता	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-साथियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एतराज
+जताने
+पर
+भाजपा
+नेता
+व
+उसके
+साथियों
+ने
+धमकी
+दी
+.
 
-तहरीर	NN	TEMP	O	O	O	O
-मे	PSP	TEMP	O	O	O	O
-रंगदारी	NN	TEMP	B-MISC	O	O	OCC
-न	NEG	TEMP	I-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	OCC
-से	PSP	TEMP	I-MISC	O	I-MISC	O
-मारने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तहरीर
+मे
+रंगदारी
+न
+देने
+पर
+जान
+से
+मारने
+की
+धमकी
+देने
+का
+आरोप
+लगाया
+था
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-कार्यवाही	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-टैम्पों	NN	TEMP	O	O	O	O
-यूनियन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रोष	NN	TEMP	O	O	O	O
-व्याप्त	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+द्वारा
+कार्यवाही
+न
+करने
+पर
+टैम्पों
+यूनियन
+में
+रोष
+व्याप्त
+है
+.
 
-इन	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
--	SYM	TEMP	O	O	O	O
-मास	NN	TEMP	O	O	O	O
-पकडने	VM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ग्रामीणों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-मारपीट	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+मामले
+में
+कार्रवाई
+नहीं
+-
+मास
+पकडने
+पर
+ग्रामीणों
+ने
+पुलिस
+के
+साथ
+मारपीट
+की
+.
 
--पाकबडा	JJ	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-ख्वाजा	XC	TEMP	O	O	O	O
-पेट्रोल	NNP	TEMP	O	O	O	O
-पंप	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+-पाकबडा
+स्थित
+ख्वाजा
+पेट्रोल
+पंप
+पर
+लूट
+का
+प्रयास
+किया
+.
 
--हाईकोर्ट	NN	TEMP	O	O	O	O
-मे	PSP	TEMP	O	O	O	O
-लिपिक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लाखों	QC	TEMP	O	O	O	O
-रूपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ठगी	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+-हाईकोर्ट
+मे
+लिपिक
+की
+नौकरी
+के
+नाम
+पर
+लाखों
+रूपये
+की
+ठगी
+की
+.

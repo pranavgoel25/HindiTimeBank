@@ -1,233 +1,233 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-काहनूवान	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-विजिलेंस	XC	TEMP	O	O	O	O
-ब्यूरो	XC	TEMP	O	O	O	O
-अमृतसर	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-गुरदासपुर	NNP	TEMP	O	O	O	O
-विजिलेंस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-डीएसपी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सहयोग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-इंतकाल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एवज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रिश्वत	NN	TEMP	B-MISC	O	B-MISC	OCC
-लेते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-एक	QC	TEMP	O	O	O	O
-पटवारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रंगे	JJ	TEMP	B-MISC	O	O	O
-हाथ	NN	TEMP	I-MISC	O	O	O
-गिरफ्तार	VM	TEMP	I-MISC	O	B-MISC	OCC
-किया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सहयोगी
+,
+काहनूवान
+:
+विजिलेंस
+ब्यूरो
+अमृतसर
+ने
+गुरदासपुर
+विजिलेंस
+के
+डीएसपी
+के
+सहयोग
+से
+जमीन
+के
+इंतकाल
+के
+एवज
+में
+तीन
+हजार
+की
+रिश्वत
+लेते
+हुए
+एक
+पटवारी
+को
+रंगे
+हाथ
+गिरफ्तार
+किया
+है
+.
 
-सब	QF	TEMP	O	O	O	O
-तहसील	NN	TEMP	O	O	O	O
-काहनूवान	JJ	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पडते	VM	TEMP	O	O	B-MISC	O
-कानूगो	VM	TEMP	O	O	I-MISC	O
-हलका	JJ	TEMP	O	O	O	O
-कोट	NN	TEMP	O	O	O	O
-खां	NN	TEMP	O	O	O	O
-मोह	VM	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पडते	VM	TEMP	O	O	B-MISC	O
-गांव	NN	TEMP	O	O	O	O
-तक्कड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-बलदेव	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-चन्नण	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रकबे	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-माल	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इंतकाल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-लटका	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सब
+तहसील
+काहनूवान
+में
+पडते
+कानूगो
+हलका
+कोट
+खां
+मोह
+मद
+में
+पडते
+गांव
+तक्कड
+के
+किसान
+बलदेव
+¨
+सह
+पुत्र
+चन्नण
+¨
+सह
+ने
+बताया
+कि
+उसकी
+जमीन
+के
+रकबे
+का
+माल
+विभाग
+में
+इंतकाल
+का
+काम
+लटका
+हुआ
+था
+.
 
-इसके	PRP	TEMP	O	O	O	O
-एवज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हलका	JJ	TEMP	O	O	O	O
-पटवारी	NN	TEMP	O	O	O	O
-गुरदीप	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	PSP	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+एवज
+में
+हलका
+पटवारी
+गुरदीप
+¨
+सह
+उनसे
+दस
+हजार
+की
+मांग
+कर
+रहा
+था
+.
 
-उनका	PRP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सौदा	NN	TEMP	O	O	B-MISC	OCC
-तय	JJ	TEMP	O	O	I-MISC	O
-हुआ	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनका
+तीन
+हजार
+रुपये
+में
+सौदा
+तय
+हुआ
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-विजिलेंस	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-गुरदासपुर	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कर	VM	TEMP	O	O	B-MISC	O
-दी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+उसने
+मामले
+की
+शिकायत
+विजिलेंस
+विभाग
+गुरदासपुर
+के
+कार्यालय
+में
+कर
+दी
+.
 
-विजिलेंस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एसपी	NN	TEMP	O	O	O	O
-ते	PSP	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-जदरपाल	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-गठन	NN	TEMP	B-MISC	O	O	O
-करके	VM	TEMP	I-MISC	O	O	O
-पटवारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रंगे	JJ	TEMP	O	O	O	O
-हाथ	NN	TEMP	B-MISC	O	O	O
-काबू	NN	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ट्रैप	NN	TEMP	O	O	O	O
-सब	QF	TEMP	O	O	O	O
-तहसील	NN	TEMP	O	O	O	O
-काहनूवान	JJ	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नजदीक	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विजिलेंस
+के
+एसपी
+ते
+¨
+जदरपाल
+¨
+सह
+ने
+टीम
+का
+गठन
+करके
+पटवारी
+को
+रंगे
+हाथ
+काबू
+करने
+के
+लिए
+ट्रैप
+सब
+तहसील
+काहनूवान
+के
+नजदीक
+लगा
+दिया
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पटवारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तहसील	JJ	TEMP	O	O	O	O
-कांप्लेक्स	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-पटवार	NN	TEMP	O	O	O	O
-खाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जाकर	VM	TEMP	B-MISC	O	B-MISC	DESC
-तीन	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रिश्वत	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-विजिलेंस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-गवाह	NN	TEMP	O	O	O	O
-हरमीत	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-एडीओ	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-मदर	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उपस्थिति	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पटवारी	JJ	TEMP	O	O	O	O
-गुरदीप	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रिश्वत	NN	TEMP	B-MISC	O	B-MISC	OCC
-लेते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-रंगेहाथ	NN	TEMP	O	O	O	O
-गिरफ्तार	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+जब
+किसान
+ने
+पटवारी
+को
+तहसील
+कांप्लेक्स
+में
+स्थिति
+पटवार
+खाने
+में
+जाकर
+तीन
+हजार
+रिश्वत
+दी
+तो
+विजिलेंस
+की
+टीम
+ने
+सरकारी
+गवाह
+हरमीत
+¨
+सह
+व
+एडीओ
+पर
+¨
+मदर
+कुमार
+की
+उपस्थिति
+में
+पटवारी
+गुरदीप
+¨
+सह
+को
+रिश्वत
+लेते
+हुए
+रंगेहाथ
+गिरफ्तार
+कर
+लिया
+.
 
-एसपी	NN	TEMP	O	O	O	O
-ते	CC	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-जदर	JJ	TEMP	O	O	O	O
-पाल	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अमृतसर	NN	TEMP	B-MISC	O	O	O
-ले	VM	TEMP	I-MISC	O	B-MISC	O
-जाकर	VAUX	TEMP	I-MISC	O	I-MISC	O
-उसके	PRP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-लिया	VAUX	TEMP	O	O	I-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एसपी
+ते
+¨
+जदर
+पाल
+¨
+सह
+ने
+बताया
+कि
+आरोपी
+को
+अमृतसर
+ले
+जाकर
+उसके
+खिलाफ
+मामला
+दर्ज
+कर
+लिया
+गया
+है
+.

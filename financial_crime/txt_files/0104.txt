@@ -1,73 +1,73 @@
-सिवान	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+सिवान
+.
 
-पचरूखी	JJ	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जसौली	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जुडी	NN	TEMP	O	O	O	O
-हाता	VM	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-शिक्षक	XC	TEMP	O	O	O	O
-सकलदेव	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दिनदहाडे	NN	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-नकद	NN	TEMP	O	O	B-MISC	O
-और	CC	TEMP	O	O	O	O
-लाखों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जेवरात	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पचरूखी
+थाना
+क्षेत्र
+के
+जसौली
+के
+जुडी
+हाता
+निवासी
+शिक्षक
+सकलदेव
+¨
+सह
+के
+घर
+से
+दिनदहाडे
+20
+हजार
+रुपये
+नकद
+और
+लाखों
+के
+जेवरात
+की
+चोरी
+हो
+गई
+.
 
-घटना	NN	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-शिक्षक	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-विद्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-थे	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+घटना
+के
+समय
+शिक्षक
+अपने
+विद्यालय
+में
+थे
+.
 
-परिवार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कहीं	PRP	TEMP	O	O	O	O
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-समारोह	NN	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-गए	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परिवार
+के
+सदस्य
+भी
+कहीं
+शादी
+समारोह
+में
+गए
+हुए
+थे
+.
 
-थाना	VM	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-अमित	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-उनको	PRP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थाना
+प्रभारी
+अमित
+कुमार
+¨
+सह
+ने
+बताया
+कि
+अभी
+उनको
+सूचना
+नहीं
+मिली
+है
+.

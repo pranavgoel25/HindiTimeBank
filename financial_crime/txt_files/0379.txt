@@ -1,567 +1,567 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-झज्जर	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-व्यापारियों	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-युवाओं	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-श्रमिकों	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कर्मचारियों	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-आमजन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सुविधा	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-झूठे	JJ	TEMP	O	O	O	O
-सपने	NN	TEMP	O	O	O	O
-दिखाकर	VM	TEMP	B-MISC	O	O	O
-सत्ता	NN	TEMP	O	O	O	O
-हथियाने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-भाजपा	JJ	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रदेश	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जनता	NN	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आज	NN	TEMP	O	O	O	O
-परेशान	JJ	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-नाराज	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+झज्जर
+:
+किसानों
+,
+व्यापारियों
+,
+युवाओं
+,
+श्रमिकों
+,
+कर्मचारियों
+व
+आमजन
+को
+विकास
+व
+सुविधा
+देने
+के
+झूठे
+सपने
+दिखाकर
+सत्ता
+हथियाने
+वाली
+भाजपा
+सरकार
+से
+प्रदेश
+की
+जनता
+पूरी
+तरह
+से
+आज
+परेशान
+व
+नाराज
+है
+.
 
-भाजपा	NN	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-चुनावी	JJ	TEMP	O	O	O	O
-वादा	NN	TEMP	O	O	O	O
-पूरा	JJ	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-असफल	JJ	TEMP	O	O	O	O
-साबित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भाजपा
+अपना
+एक
+भी
+चुनावी
+वादा
+पूरा
+करने
+में
+असफल
+साबित
+हुई
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-हरियाणा	NNP	TEMP	O	O	O	O
-विधानसभा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नेता	NN	TEMP	O	O	O	O
-प्रतिपक्ष	JJ	TEMP	O	O	O	O
-अभय	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-चौटाला	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रविवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-झज्जर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आयोजित	JJ	TEMP	O	O	O	O
-जिला	NN	TEMP	O	O	O	O
-स्तरीय	JJ	TEMP	O	O	O	O
-बैठक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	O	O
-कार्यकर्ताओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-संबोधित	JJ	TEMP	O	O	B-MISC	OCC
-करते	VM	TEMP	O	O	I-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-कही	VM	TEMP	B-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+यह
+बात
+हरियाणा
+विधानसभा
+में
+नेता
+प्रतिपक्ष
+अभय
+¨
+सह
+चौटाला
+ने
+रविवार
+को
+झज्जर
+में
+आयोजित
+जिला
+स्तरीय
+बैठक
+में
+मौजूद
+कार्यकर्ताओं
+को
+संबोधित
+करते
+हुए
+कही
+.
 
-नेता	NN	TEMP	O	O	O	O
-प्रतिपक्ष	JJ	TEMP	O	O	O	O
-अभय	XC	TEMP	O	O	O	O
-चौटाला	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-देवीलाल	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जन्मदिवस	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	B	O	O
-सितंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-भिवानी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	O
-सम्मान	NN	TEMP	O	O	O	O
-दिवस	NN	TEMP	O	O	O	O
-समारोह	NN	TEMP	O	O	O	O
-रैली	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अपार	JJ	TEMP	O	O	O	O
-सफलता	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कार्यकर्ताओं	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-आमजन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-धन्यवाद	NN	TEMP	O	O	B-MISC	OCC
-व्यक्त	JJ	TEMP	B-MISC	O	I-MISC	O
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नेता
+प्रतिपक्ष
+अभय
+चौटाला
+ने
+देवीलाल
+के
+जन्मदिवस
+पर
+25
+सितंबर
+को
+भिवानी
+में
+हुई
+सम्मान
+दिवस
+समारोह
+रैली
+की
+अपार
+सफलता
+पर
+कार्यकर्ताओं
+व
+आमजन
+का
+धन्यवाद
+व्यक्त
+किया
+.
 
-चौटाला	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-एसवाईएल	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-प्रदेश	NN	TEMP	O	O	O	O
-सरकार	JJ	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गुमराह	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चौटाला
+ने
+कहा
+कि
+एसवाईएल
+पर
+केंद्र
+व
+प्रदेश
+सरकार
+किसानों
+को
+गुमराह
+कर
+रही
+है
+.
 
-फरवरी	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एसवाईएल	XC	TEMP	O	O	O	O
-नहर	NNP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इनेलो	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-बडा	JJ	TEMP	O	O	O	O
-कदम	NN	TEMP	B-MISC	O	O	O
-उठाया	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फरवरी
+में
+एसवाईएल
+नहर
+निर्माण
+को
+लेकर
+दिल्ली
+में
+इनेलो
+द्वारा
+बडा
+कदम
+उठाया
+जाएगा
+.
 
-चौटाला	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-संबोधन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-हरियाणा	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-होने	VM	TEMP	O	O	B-STAT	DES
-वाले	PSP	TEMP	O	O	I-STAT	O
-आगामी	JJ	TEMP	O	O	O	O
-विधानसभा	JJ	TEMP	O	O	O	O
-चुनाव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इनेलो	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-बनने	VM	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बुजुर्गों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-2500	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-पेंशन	NN	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-दिलवाई	VM	TEMP	B-MISC	O	B-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-युवाओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रोजगार	NN	TEMP	O	O	O	OCC
-दिलाए	VM	TEMP	B-MISC	O	B-MISC	O
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-गरीब	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विवाह	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-प्रदेश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दुकानदार	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-श्रमिक	XC	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-छत्तीस	QC	TEMP	O	O	O	O
-बिरादरी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भलाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चौटाला
+ने
+अपने
+संबोधन
+में
+कहा
+कि
+हरियाणा
+में
+होने
+वाले
+आगामी
+विधानसभा
+चुनाव
+में
+इनेलो
+की
+सरकार
+बनने
+पर
+बुजुर्गों
+को
+हर
+माह
+2500
+रुपये
+पेंशन
+घर
+पर
+ही
+दिलवाई
+जाएगी
+,
+युवाओं
+को
+रोजगार
+दिलाए
+जाएंगे
+,
+गरीब
+की
+बेटी
+के
+विवाह
+में
+5
+लाख
+रुपये
+देने
+के
+अलावा
+प्रदेश
+के
+किसान
+,
+व्यापारी
+,
+दुकानदार
+,
+श्रमिक
+कर्मचारी
+व
+छत्तीस
+बिरादरी
+की
+भलाई
+करने
+का
+काम
+किया
+जाएगा
+.
 
-कांग्रेस	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-भाजपा	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बरसते	VM	TEMP	O	O	B-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-2004	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इनेलो	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कार्यकाल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तात्कालीन	JJ	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-ओमप्रकाश	XC	TEMP	O	O	O	O
-चौटाला	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दादूपूर	NN	TEMP	O	O	O	O
-नलवी	JJ	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-167	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-मंजूर	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कांग्रेस
+व
+भाजपा
+पर
+बरसते
+हुए
+उन्होंने
+कहा
+कि
+2004
+में
+इनेलो
+के
+कार्यकाल
+में
+तात्कालीन
+मुख्यमंत्री
+ओमप्रकाश
+चौटाला
+ने
+दादूपूर
+नलवी
+के
+निर्माण
+के
+लिए
+167
+करोड
+रुपये
+की
+धनराशि
+मंजूर
+कर
+दी
+थी
+.
 
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कांग्रेस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-आई	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-नहर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-करवाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाद
+में
+कांग्रेस
+की
+सरकार
+आई
+और
+उसने
+नहर
+का
+निर्माण
+नहीं
+करवाया
+.
 
-कांग्रेस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राह	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	B-STAT	DESC
-हुए	VAUX	TEMP	O	O	I-STAT	O
-भाजपा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खट्टर	NN	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दादूपूर	NN	TEMP	O	O	O	O
-नलवी	JJ	TEMP	O	O	O	O
-नहर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	B-MISC	O	B-MISC	OCC
-करवाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बजाय	PSP:?	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-नहर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रदद	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कांग्रेस
+की
+राह
+पर
+चलते
+हुए
+भाजपा
+की
+खट्टर
+सरकार
+ने
+भी
+दादूपूर
+नलवी
+नहर
+का
+निर्माण
+करवाने
+की
+बजाय
+इस
+नहर
+को
+बनाने
+की
+योजना
+को
+रदद
+कर
+दिया
+है
+.
 
-अभय	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-दादूपूर	NN	TEMP	O	O	O	O
-नलवी	JJ	TEMP	O	O	O	O
-नहर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-जिलों	NN	TEMP	O	O	O	O
-कुरूक्षेत्र	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-यमुनानगर	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अंबाला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-14	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-एकड	NN	TEMP	O	O	O	O
-भूमि	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सचाई	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-पानी	NN	TEMP	O	O	B-MISC	O
-मिलना	VM	TEMP	B-MISC	O	I-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभय
+ने
+बताया
+कि
+दादूपूर
+नलवी
+नहर
+से
+तीन
+जिलों
+कुरूक्षेत्र
+,
+यमुनानगर
+व
+अंबाला
+के
+किसानों
+की
+लगभग
+एक
+लाख
+14
+हजार
+एकड
+भूमि
+को
+¨
+सचाई
+के
+लिए
+पानी
+मिलना
+था
+.
 
-मगर	CC	TEMP	O	O	O	O
-हरियाणा	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-विरोधी	JJ	TEMP	O	O	O	O
-खट्टर	NN	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-नहर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रद्द	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मगर
+हरियाणा
+की
+किसान
+विरोधी
+खट्टर
+सरकार
+ने
+इस
+नहर
+को
+भी
+बनाने
+की
+योजना
+को
+रद्द
+कर
+दिया
+है
+.
 
-अभय	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भला	RP	TEMP	O	O	B-MISC	O
-करने	VM	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बजाय	PSP:?	TEMP	O	O	O	O
-हरियाणा	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भाजपा	NN	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जबरदस्ती	NN	TEMP	O	O	O	O
-प्रधानमंत्री	JJ	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-बीमा	JJ	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-थोपकर	VM	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आर्थिक	JJ	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कमजोर	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभय
+ने
+कहा
+कि
+किसानों
+का
+भला
+करने
+की
+बजाय
+हरियाणा
+की
+भाजपा
+सरकार
+ने
+किसानों
+पर
+जबरदस्ती
+प्रधानमंत्री
+फसल
+बीमा
+योजना
+थोपकर
+किसानों
+को
+आर्थिक
+रूप
+से
+कमजोर
+करने
+का
+काम
+किया
+.
 
-बैठक	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	O	O
-कार्यकर्ताओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-इनेलो	PRP	TEMP	O	O	O	O
-जिलाध्यक्ष	JJ	TEMP	O	O	O	O
-कर्मबीर	NN	TEMP	O	O	O	O
-राठी	NN	TEMP	O	O	O	O
-सहित	JJ	TEMP	O	O	O	O
-अनेक	QF	TEMP	O	O	O	O
-पदाधिकरियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-संबोधित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैठक
+में
+मौजूद
+कार्यकर्ताओं
+को
+इनेलो
+जिलाध्यक्ष
+कर्मबीर
+राठी
+सहित
+अनेक
+पदाधिकरियों
+ने
+भी
+संबोधित
+किया
+.
 
-इस	DEM	TEMP	O	O	O	O
-अवसर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जिलाध्यक्ष	JJ	TEMP	O	O	O	O
-कर्मबीर	NN	TEMP	O	O	O	O
-राठी	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-विधायक	NN	TEMP	O	O	O	O
-पूर्ण	JJ	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-डाबडा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-युवा	JJ	TEMP	O	O	O	O
-जिलाध्यक्ष	JJ	TEMP	O	O	O	O
-संजय	NN	TEMP	O	O	O	O
-कबलाना	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बलवान	JJ	TEMP	O	O	O	O
-सुहाग	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राकेश	XC	TEMP	O	O	O	O
-जाखड	NNP	TEMP	O	O	O	O
-हल्का	JJ	TEMP	O	O	O	O
-अध्यक्ष	NN	TEMP	O	O	O	O
-झज्जर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-महावीर	XC	TEMP	O	O	O	O
-गुलिया	NN	TEMP	O	O	O	O
-हल्काध्यक्ष	JJ	TEMP	O	O	O	O
-बादली	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राजबीर	XC	TEMP	O	O	O	O
-परनाला	NN	TEMP	O	O	O	O
-हल्का	JJ	TEMP	O	O	O	O
-अध्यक्ष	NN	TEMP	O	O	O	O
-बहादुरगढ़	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बलराज	XC	TEMP	O	O	O	O
-खरहर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हल्का	JJ	TEMP	O	O	O	O
-अध्यक्ष	NN	TEMP	O	O	O	O
-बेरी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सतपाल	XC	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नरदेव	XC	TEMP	O	O	O	O
-दहिया	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-साधूराम	NN	TEMP	O	O	O	O
-झामरी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हरेंद्र	XC	TEMP	O	O	O	O
-सिलाना	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-उपेंद्र	XC	TEMP	O	O	O	O
-कादयान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रामचंद्र	XC	TEMP	O	O	O	O
-हसनपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-महेंद्र	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-ढाकला	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ओम	XC	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पार्षद	XC	TEMP	O	O	O	O
-प्रवीण	XC	TEMP	O	O	O	O
-राठी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बबीता	XC	TEMP	O	O	O	O
-पूनिया	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शीला	XC	TEMP	O	O	O	O
-फोगाट	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-महावीर	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-धर्मवीर	XC	TEMP	O	O	O	O
-साल्हहावास	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हुकम	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-हरिजन	XC	TEMP	O	O	O	O
-नेता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-चेतराम	XC	TEMP	O	O	O	O
-पाटोदा	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विजय	XC	TEMP	O	O	O	O
-पाटोदा	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कृष्ण	XC	TEMP	O	O	O	O
-बामडोली	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-संजीव	XC	TEMP	O	O	O	O
-मलिक	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रितेश	XC	TEMP	O	O	O	O
-छिकारा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हरदीप	XC	TEMP	O	O	O	O
-छिक्कारा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बॉ	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-क्सग	NN	TEMP	O	O	O	O
-बेरी	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-संदीप	NN	TEMP	O	O	O	O
-जाखौदा	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मांगेराम	XC	TEMP	O	O	O	O
-डीघल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सत्यव्रत	XC	TEMP	O	O	O	O
-कादियान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जगबीर	XC	TEMP	O	O	O	O
-रूहिल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-भूप	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-राठी	NNP	TEMP	O	O	O	O
-सहित	JJ	TEMP	O	O	O	O
-सैकडों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पार्टी	NN	TEMP	O	O	O	O
-कार्यकर्ता	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	OCC
-रहे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इस
+अवसर
+पर
+जिलाध्यक्ष
+कर्मबीर
+राठी
+,
+पूर्व
+विधायक
+पूर्ण
+¨
+सह
+डाबडा
+,
+युवा
+जिलाध्यक्ष
+संजय
+कबलाना
+,
+बलवान
+सुहाग
+,
+राकेश
+जाखड
+हल्का
+अध्यक्ष
+झज्जर
+,
+महावीर
+गुलिया
+हल्काध्यक्ष
+बादली
+,
+राजबीर
+परनाला
+हल्का
+अध्यक्ष
+बहादुरगढ़
+,
+बलराज
+खरहर
+,
+हल्का
+अध्यक्ष
+बेरी
+,
+सतपाल
+पहलवान
+,
+नरदेव
+दहिया
+,
+साधूराम
+झामरी
+,
+हरेंद्र
+सिलाना
+,
+उपेंद्र
+कादयान
+,
+रामचंद्र
+हसनपुर
+,
+महेंद्र
+¨
+सह
+ढाकला
+,
+ओम
+पहलवान
+,
+पार्षद
+प्रवीण
+राठी
+,
+बबीता
+पूनिया
+,
+शीला
+फोगाट
+,
+महावीर
+शर्मा
+,
+धर्मवीर
+साल्हहावास
+,
+हुकम
+¨
+सह
+हरिजन
+नेता
+,
+चेतराम
+पाटोदा
+,
+विजय
+पाटोदा
+,
+कृष्ण
+बामडोली
+,
+संजीव
+मलिक
+,
+रितेश
+छिकारा
+,
+हरदीप
+छिक्कारा
+,
+बॉ
+¨
+क्सग
+बेरी
+,
+संदीप
+जाखौदा
+,
+मांगेराम
+डीघल
+,
+सत्यव्रत
+कादियान
+,
+जगबीर
+रूहिल
+,
+भूप
+¨
+सह
+राठी
+सहित
+सैकडों
+की
+संख्या
+में
+पार्टी
+कार्यकर्ता
+मौजूद
+रहे
+.

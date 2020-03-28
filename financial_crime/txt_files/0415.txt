@@ -1,118 +1,118 @@
 
-हाथरस	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-विद्युत	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-जहां	PRP	TEMP	O	O	O	O
-राजस्व	XC	TEMP	O	O	O	O
-वसूली	NNP	TEMP	O	O	B-MISC	OCC
-बढ़ाने	NN	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-संभव	JJ	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-वहीं	PRP	TEMP	O	O	O	O
-बिल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गडबडी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नाकों	NN	TEMP	B-MISC	O	O	O
-चने	VM	TEMP	I-MISC	O	B-MISC	OCC
-चबवाया	VM	TEMP	I-MISC	O	I-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हाथरस
+:
+विद्युत
+विभाग
+जहां
+राजस्व
+वसूली
+बढ़ाने
+के
+लिए
+हर
+संभव
+प्रयास
+कर
+रहा
+है
+वहीं
+बिल
+में
+गडबडी
+को
+लेकर
+उपभोक्ताओं
+को
+नाकों
+चने
+चबवाया
+जाता
+है
+.
 
-वैसे	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-विद्युत	XC	TEMP	O	O	O	O
-बिल	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-मिल	VM	TEMP	I-MISC	O	I-MISC	O
-पाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वैसे
+भी
+विभाग
+की
+ओर
+से
+लोगों
+को
+समय
+से
+विद्युत
+बिल
+नहीं
+मिल
+पाते
+.
 
-जब	PRP	TEMP	O	O	O	O
-मिलते	VM	TEMP	B-MISC	O	B-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-कुछ	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नीचे	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-खिसक	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	I-MISC	O	O	O
+जब
+मिलते
+हैं
+तो
+कुछ
+के
+पांव
+के
+नीचे
+से
+जमीन
+ही
+खिसक
+जाती
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अनियमितता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शिकार	NN	TEMP	B-MISC	O	B-STAT	O
-हुए	VM	TEMP	I-MISC	O	I-STAT	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-STAT	O
-थाना	VAUX	TEMP	I-MISC	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-चंदपा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रभारी	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+इस
+तरह
+की
+अनियमितता
+के
+शिकार
+हुए
+हैं
+थाना
+कोतवाली
+चंदपा
+के
+प्रभारी
+.
 
-उनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	O	O
-बिल	NN	TEMP	O	O	O	O
-3.60	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आया	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनके
+पास
+बकाया
+बिल
+3.60
+लाख
+रुपये
+का
+आया
+है
+.
 
-कोतवाली	JJ	TEMP	O	O	O	O
-चंदपा	NN	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-रमाकांत	XC	TEMP	O	O	O	O
-पचौरी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-वर्ष	NN	TEMP	O	O	O	O
-2014	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बिल	NN	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोतवाली
+चंदपा
+प्रभारी
+रमाकांत
+पचौरी
+ने
+बताया
+वर्ष
+2014
+से
+बिल
+थाने
+पर
+नहीं
+आया
+.
 
-अब	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-बिल	NN	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
+अब
+एक
+साथ
+बिल
+भेज
+दिया
+गया
+है

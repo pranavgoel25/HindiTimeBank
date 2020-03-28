@@ -1,303 +1,303 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
+﻿संवाद
+सूत्र
 
-बरौनी	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-बेगूसराय	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-शनिवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-यशवंतपुर-मुफ्फरपुर	XC	TEMP	O	O	O	O
-एक्सप्रेस	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्कॉर्ट	XC	TEMP	O	O	O	O
-पार्टी	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-जबरन	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-छीनने	VM	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-प्रकाश	NN	TEMP	B-MISC	O	B-MISC	O
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बरौनी
+(
+बेगूसराय
+)
+:
+शनिवार
+को
+यशवंतपुर-मुफ्फरपुर
+एक्सप्रेस
+में
+स्कॉर्ट
+पार्टी
+द्वारा
+जबरन
+रुपये
+छीनने
+का
+मामला
+प्रकाश
+में
+आया
+है
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-रेल	XC	TEMP	O	O	O	O
-एसपी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करने	VM	TEMP	B-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हडकंप	NN	TEMP	B-MISC	O	B-MISC	OCC
-मच	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+शिकायत
+रेल
+एसपी
+से
+करने
+के
+बाद
+अधिकारियों
+में
+हडकंप
+मच
+गया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बरौनी	JJ	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बयान	NN	TEMP	B-MISC	O	O	O
-लेकर	VM	TEMP	I-MISC	O	O	O
-नवगछिया	JJ	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+बरौनी
+स्टेशन
+पर
+बयान
+लेकर
+नवगछिया
+भेज
+दिया
+गया
+.
 
-बताया	VM	TEMP	O	O	B-MISC	OCC
-जाता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-यशवंतपुर-मुजफ्फरपुर	XC	TEMP	O	O	O	O
-एक्सप्रेस	NNP	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यात्रा	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-रेलयात्रियों	NN	TEMP	O	O	O	O
-मोतिहारी	XC	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-छोटेलाल	NNP	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-2100	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-रोहित	JJ	TEMP	O	O	O	O
-कुमार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-स्कॉर्ट	NN	TEMP	O	O	O	O
-पार्टी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-धौंस	NN	TEMP	B-MISC	O	B-MISC	O
-दिखाकर	VM	TEMP	I-MISC	O	I-MISC	O
-जबरन	NN	TEMP	O	O	B-MISC	OCC
-छीन	VM	TEMP	B-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बताया
+जाता
+है
+कि
+यशवंतपुर-मुजफ्फरपुर
+एक्सप्रेस
+ट्रेन
+में
+यात्रा
+के
+दौरान
+दो
+रेलयात्रियों
+मोतिहारी
+निवासी
+छोटेलाल
+यादव
+से
+2100
+रुपये
+एवं
+रोहित
+कुमार
+से
+तीन
+सौ
+रुपये
+स्कॉर्ट
+पार्टी
+ने
+धौंस
+दिखाकर
+जबरन
+छीन
+लिया
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-रेलयात्री	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-रेल	XC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-अधीक्षक	JJ	TEMP	O	O	O	O
-कटिहार	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कंट्रोल	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+पीडित
+रेलयात्री
+ने
+इसकी
+जानकारी
+रेल
+पुलिस
+अधीक्षक
+कटिहार
+व
+कंट्रोल
+को
+दी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हडकंप	NN	TEMP	B-MISC	O	B-MISC	OCC
-मच	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-रेल	XC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-हरकत	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	I-MISC	O	O	O
-आ	VM	TEMP	I-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+रेलवे
+में
+हडकंप
+मच
+गई
+और
+रेल
+पुलिस
+हरकत
+में
+आ
+गई
+.
 
-ट्रेन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बरौनी	JJ	TEMP	O	O	O	O
-जंक्शन	NN	TEMP	O	O	O	O
-पहुंचने	VM	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रेल	XC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-उपाधीक्षक	JJ	TEMP	O	O	O	O
-एके	XC	TEMP	O	O	O	O
-झा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नेतृत्व	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इंस्पेक्टर	XC	TEMP	O	O	O	O
-कामेश्वर	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
+ट्रेन
+के
+बरौनी
+जंक्शन
+पहुंचने
+पर
+रेल
+पुलिस
+उपाधीक्षक
+एके
+झा
+के
+नेतृत्व
+में
+इंस्पेक्टर
+कामेश्वर
+चौधरी
 
-थानाध्यक्ष	JJ	TEMP	O	O	O	O
-आलोक	XC	TEMP	O	O	O	O
-प्रताप	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-रेलयात्री	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-स्कॉर्ट	NN	TEMP	O	O	O	O
-पार्टी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूछताछ	NN	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+थानाध्यक्ष
+आलोक
+प्रताप
+¨
+सह
+ने
+पीडित
+रेलयात्री
+सहित
+स्कॉर्ट
+पार्टी
+से
+पूछताछ
+.
 
-जीआरपी	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	O
-ज्यों	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-स्कॉर्ट	NN	TEMP	O	O	O	O
-पार्टी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूछताछ	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-इसी	PRP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-सिपाही	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चकमा	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-भाग	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जीआरपी
+थाना
+के
+सामने
+ज्यों
+ही
+स्कॉर्ट
+पार्टी
+से
+पूछताछ
+की
+जा
+रही
+थी
+इसी
+दौरान
+एक
+सिपाही
+पुलिस
+को
+चकमा
+देकर
+भाग
+गया
+.
 
-जिसने	PRP	TEMP	O	O	O	O
-रेलयात्री	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जबरन	NN	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-छीने	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसने
+रेलयात्री
+से
+जबरन
+रुपये
+छीने
+थे
+.
 
-उसकी	PRP	TEMP	O	O	O	O
-पहचान	NN	TEMP	O	O	O	O
-वैशाली	JJ	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-सिपाही	NN	TEMP	O	O	O	O
-कृष्णकांत	JJ	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-सिपाही	JJ	TEMP	O	O	O	O
-नंबर-	NN	TEMP	O	O	O	O
-262	QC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसकी
+पहचान
+वैशाली
+जिला
+निवासी
+सिपाही
+कृष्णकांत
+(
+सिपाही
+नंबर-
+262
+)
+के
+रूप
+में
+हुई
+.
 
-सिपाही	NN	TEMP	O	O	O	O
-बरौनी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कटिहार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-19705	QC	TEMP	O	O	O	O
-इंदौर-गोहाटी	XC	TEMP	O	O	O	O
-एक्सप्रेस	NNP	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्कॉर्ट	NN	TEMP	O	O	B-MISC	OCC
-करते	VM	TEMP	O	O	I-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-गया	VAUX	TEMP	B-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सिपाही
+बरौनी
+से
+कटिहार
+के
+लिए
+19705
+इंदौर-गोहाटी
+एक्सप्रेस
+ट्रेन
+में
+स्कॉर्ट
+करते
+हुए
+गया
+था
+.
 
-जहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-यशवंतपुर-मुफ्फरपुर	XC	TEMP	O	O	O	O
-एक्सप्रेस	NNP	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-लौट	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जहां
+से
+वह
+यशवंतपुर-मुफ्फरपुर
+एक्सप्रेस
+ट्रेन
+लेकर
+लौट
+रहा
+था
+.
 
-बरौनी	JJ	TEMP	O	O	O	O
-जीआरपी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-रेलयात्री	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-फर्द	NN	TEMP	O	O	O	O
-बयान	NN	TEMP	B-MISC	O	O	O
-लेकर	VM	TEMP	I-MISC	O	O	O
-अग्रिम	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-नवगछिया	JJ	TEMP	O	O	O	O
-जीआरपी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बरौनी
+जीआरपी
+ने
+पीडित
+रेलयात्री
+के
+फर्द
+बयान
+लेकर
+अग्रिम
+कार्रवाई
+के
+लिए
+नवगछिया
+जीआरपी
+को
+भेज
+दिया
+है
+.
 
-चूंकि	CC	TEMP	O	O	O	O
-घटना	NN	TEMP	O	O	O	OCC
-नवगछिया	JJ	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समीप	NST	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बताया	VM	TEMP	O	O	B-MISC	OCC
-गई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चूंकि
+घटना
+नवगछिया
+स्टेशन
+के
+समीप
+की
+ही
+बताया
+गई
+है
+.
 
-इधर	XC	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-बरौनी	JJ	TEMP	O	O	O	O
-जंक्शन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्लेटफॉर्म	NN	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-घंटे	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-खडी	VM	TEMP	O	O	B-MISC	OCC
-रही	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इधर
+घटना
+के
+कारण
+उक्त
+ट्रेन
+बरौनी
+जंक्शन
+के
+प्लेटफॉर्म
+संख्या
+छह
+पर
+लगभग
+एक
+घंटे
+तक
+खडी
+रही
+.
 
-जिससे	PRP	TEMP	O	O	O	O
-रेलयात्रियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-परेशानी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सामना	NN	TEMP	B-MISC	O	B-MISC	OCC
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-पडा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिससे
+रेलयात्रियों
+को
+परेशानी
+का
+सामना
+करना
+पडा
+.

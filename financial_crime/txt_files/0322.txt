@@ -1,201 +1,201 @@
-﻿सगरा	NN	TEMP	O	O	O	O
-सुंदरपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रतापगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सीएचसी	JJ	TEMP	O	O	O	O
-गौरा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संविदा	JJ	TEMP	O	O	O	O
-चिकित्सक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-शीशा	NN	TEMP	O	O	O	O
-तोडकर	VM	TEMP	B-MISC	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-हमलावर	NN	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	B-MISC	O
-ले	VM	TEMP	B-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿सगरा
+सुंदरपुर
+,
+प्रतापगढ़
+:
+सीएचसी
+गौरा
+के
+संविदा
+चिकित्सक
+के
+कार
+का
+शीशा
+तोडकर
+बाइक
+सवार
+हमलावर
+50
+हजार
+रुपये
+,
+मोबाइल
+लूट
+ले
+गए
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+में
+पुलिस
+को
+तहरीर
+दी
+गई
+है
+.
 
-कोतवाल	NN	TEMP	O	O	O	O
-घटना	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-संदिग्ध	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मान	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोतवाल
+घटना
+को
+संदिग्ध
+मान
+रहे
+हैं
+.
 
-लालगंज	XC	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-डेईडीह	XC	TEMP	O	O	O	O
-मेंहदी	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-बाबूगंज	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-डा	VM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+लालगंज
+कोतवाली
+क्षेत्र
+के
+डेईडीह
+मेंहदी
+(
+बाबूगंज
+)
+निवासी
+डा
+.
 
-जबर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-मंगल	JJ	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-सीएचसी	JJ	TEMP	O	O	O	O
-गौरा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-संविदा	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चिकित्सक	NN	TEMP	O	O	B-STAT	OCC
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जबर
+¨
+सह
+यादव
+पुत्र
+मंगल
+¨
+सह
+यादव
+सीएचसी
+गौरा
+में
+संविदा
+पर
+चिकित्सक
+हैं
+.
 
-वह	PRP	TEMP	O	O	O	O
-सीएचसी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-शाम	NN	TEMP	O	B	O	O
-लगभग	RB	TEMP	O	B	O	O
-पौने	QF	TEMP	O	I	O	O
-सात	QC	TEMP	O	I	O	O
-बजे	RP:?	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-पहुंचने	VM	TEMP	B-MISC	O	B-MISC	OCC
-वाले	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-तभी	PRP	TEMP	O	O	O	O
-रास्ते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-रोक	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वह
+सीएचसी
+से
+सोमवार
+शाम
+लगभग
+पौने
+सात
+बजे
+घर
+पहुंचने
+वाले
+थे
+,
+तभी
+रास्ते
+में
+तीन
+बाइक
+सवार
+छह
+लोगों
+ने
+उन्हें
+रोक
+लिया
+.
 
-कार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-शीशा	NN	TEMP	O	O	O	O
-तोडकर	VM	TEMP	B-MISC	O	O	O
-50	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-लिए	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कार
+का
+शीशा
+तोडकर
+50
+हजार
+रुपये
+,
+मोबाइल
+लूट
+लिए
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	OCC
-निकले	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+धमकी
+देते
+हुए
+भाग
+निकले
+.
 
-डाक्टर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-फौरन	NN	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-डायल	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डाक्टर
+ने
+फौरन
+100
+डायल
+पुलिस
+को
+सूचना
+दिया
+.
 
-थोडी	QF	TEMP	O	O	O	O
-देर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-डायल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-डाक्टर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूछताछ	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थोडी
+देर
+में
+100
+डायल
+के
+पुलिस
+कर्मी
+पहुंचे
+और
+घटना
+के
+बारे
+में
+डाक्टर
+से
+पूछताछ
+की
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कब्जे	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-लेकर	VM	TEMP	I-MISC	O	I-MISC	O
-कोतवाली	NNP	TEMP	O	O	O	O
-चले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+कार
+को
+कब्जे
+में
+लेकर
+कोतवाली
+चले
+गए
+.
 
-इस	PRP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कोतवाल	NN	TEMP	O	O	O	O
-बालेंदु	XC	TEMP	O	O	O	O
-गौतम	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-शीशा	NN	TEMP	O	O	B-MISC	O
-तोडा	VM	TEMP	B-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+बारे
+में
+कोतवाल
+बालेंदु
+गौतम
+ने
+बताया
+कि
+कार
+का
+शीशा
+तोडा
+गया
+है
+.
 
-आपसी	PRP	TEMP	O	O	O	O
-रंजिश	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-,	SYM	TEMP	O	O	O	O
-लूट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-गलत	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+आपसी
+रंजिश
+का
+मामला
+है
+,
+लूट
+की
+बात
+गलत
+है
+.

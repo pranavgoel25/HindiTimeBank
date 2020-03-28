@@ -1,341 +1,341 @@
 
-नई	JJ	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+नई
+दिल्ली
+(
+जेएनएन
+)
+.
 
-200	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-चरणबद्ध	JJ	TEMP	O	O	O	O
-तरीके	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एटीएम	XC	TEMP	O	O	O	O
-मशीनों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	O	O	B-MISC	OCC
-करवाया	VM	TEMP	O	O	I-MISC	O
-जाएगा	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-क्योंकि	CC	TEMP	O	O	O	O
-इससे	PRP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-मशीनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रीसैट	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-ताकि	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-कैसेट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-व्यवस्थित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सके	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+200
+रुपए
+का
+नया
+नोट
+चरणबद्ध
+तरीके
+से
+एटीएम
+मशीनों
+में
+उपलब्ध
+करवाया
+जाएगा
+,
+क्योंकि
+इससे
+पहले
+मशीनों
+को
+रीसैट
+किया
+जाएगा
+ताकि
+उसके
+कैसेट
+में
+200
+रुपए
+के
+नोट
+को
+व्यवस्थित
+किया
+जा
+सके
+.
 
-200	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-लाने	VM	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-पीछे	NST	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-गणित	JJ	TEMP	O	O	B-MISC	OCC
-समझाते	VM	TEMP	O	O	I-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-आरबीआई	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आने	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बड़े	NNP	TEMP	O	O	O	O
-मूल्यवर्ग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बदले	NN	TEMP	O	O	O	O
-फुटकर	VM	TEMP	O	O	O	O
-लेन-देन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आसानी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+200
+रुपए
+का
+नया
+नोट
+लाने
+के
+पीछे
+का
+गणित
+समझाते
+हुए
+आरबीआई
+ने
+कहा
+कि
+नया
+नोट
+बाजार
+में
+आने
+से
+बड़े
+मूल्यवर्ग
+के
+बदले
+फुटकर
+लेन-देन
+में
+आसानी
+हो
+जाएगी
+.
 
-आरबीआई	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-चमक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-पीलापन	NN	TEMP	O	O	O	OCC
-लिए	PSP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-मूल्यों	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-रेनर्ड	JJ	TEMP	O	O	O	O
-सीरीज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-करेंसी	JJ	TEMP	O	O	O	O
-नोटों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंतर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	B-MISC	O
-करेगा	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आरबीआई
+ने
+कहा
+कि
+चमक
+के
+साथ
+पीलापन
+लिए
+200
+रुपये
+के
+नोट
+विभिन्न
+मूल्यों
+वाले
+रेनर्ड
+सीरीज
+की
+करेंसी
+नोटों
+के
+बीच
+के
+अंतर
+को
+कम
+करेगा
+.
 
-आपको	PRP	TEMP	O	O	O	O
-बता	VM	TEMP	O	O	B-MISC	OCC
-दें	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-रेनर्ड	JJ	TEMP	O	O	O	O
-सीरीज	NN	TEMP	O	O	O	O
-पसंदीदा	JJ	TEMP	O	O	O	O
-संख्याओं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-पद्धति	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-जिसे	PRP	TEMP	O	O	O	O
-फ्रांसीसी	JJ	TEMP	O	O	O	O
-सेना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-इंजिनियर	NN	TEMP	O	O	O	O
-चार्ल्स	QC	TEMP	O	O	O	O
-रेनर्ड	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पेश	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आपको
+बता
+दें
+कि
+रेनर्ड
+सीरीज
+पसंदीदा
+संख्याओं
+की
+एक
+पद्धति
+है
+जिसे
+फ्रांसीसी
+सेना
+के
+एक
+इंजिनियर
+चार्ल्स
+रेनर्ड
+ने
+पेश
+किया
+था
+.
 
-इंडस्ट्री	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-डिजाइन	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इस्तेमाल	NN	TEMP	O	O	O	O
-होनेवाले	VM	TEMP	O	O	O	O
-रेनर्ड	JJ	TEMP	O	O	O	O
-सीरीज	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-करेंसी	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मूल्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-तय	JJ	TEMP	I-MISC	O	I-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-उपयोगी	JJ	TEMP	O	O	O	O
-साबित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इंडस्ट्री
+और
+डिजाइन
+में
+इस्तेमाल
+होनेवाले
+रेनर्ड
+सीरीज
+को
+करेंसी
+नोट
+का
+मूल्य
+तय
+करने
+में
+उपयोगी
+साबित
+हुआ
+है
+.
 
-आपको	PRP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-बता	VM	TEMP	O	O	B-MISC	REP
-दें	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-तरह-तरह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रेनर्ड	JJ	TEMP	O	O	O	O
-सीरीज	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इस्तेमाल	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-जिसके	PRP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-अगली	JJ	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-पहली	QC	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दोगुना	QF	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-ढाई	QF	TEMP	O	O	O	O
-गुना	QF	TEMP	O	O	O	O
-होती	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आपको
+जानकारी
+के
+लिए
+बता
+दें
+कि
+कई
+देश
+तरह-तरह
+की
+रेनर्ड
+सीरीज
+का
+इस्तेमाल
+करते
+हैं
+जिसके
+तहत
+अगली
+संख्या
+पहली
+संख्या
+का
+दोगुना
+या
+ढाई
+गुना
+होती
+है
+.
 
-आरबीआई	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बयान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	O	O	B-MISC	O
-,	SYM	TEMP	O	O	O	O
-“	NN	TEMP	O	O	O	O
-ऐसे	DEM	TEMP	O	O	O	O
-अनुपात	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वजह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आम	JJ	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अधिकतम	JJ	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोटों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अदला-बदली	NN	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-सकती	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आरबीआई
+ने
+एक
+बयान
+में
+कहा
+,
+“
+ऐसे
+अनुपात
+की
+वजह
+से
+आम
+तौर
+पर
+अधिकतम
+तीन
+मूल्य
+के
+नोटों
+से
+उस
+नोट
+की
+अदला-बदली
+हो
+सकती
+है
+.
 
-भारत	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हमारे	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-2000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+भारत
+में
+हमारे
+पास
+1
+,
+2
+,
+5
+,
+10
+,
+20
+,
+50
+,
+100
+,
+500
+और
+2000
+रुपये
+के
+नोट
+हैं
+.
 
-”	JJ	TEMP	O	O	O	O
-गौरतलब	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-आरबीआई	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-2000	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-तब	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-मशीनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रीसेट	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+”
+गौरतलब
+है
+कि
+जब
+आरबीआई
+ने
+2000
+और
+500
+का
+नया
+नोट
+जारी
+किया
+था
+तब
+भी
+एटीएम
+मशीनों
+को
+रीसेट
+किया
+गया
+था
+.
 
-ऐसा	PRP	TEMP	O	O	O	O
-इसलिए	PSP	TEMP	O	O	O	O
-ताकि	CC	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	B-MISC	O	B-MISC	OCC
-निकलने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-आसानी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-क्योंकि	CC	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-वजन	NN	TEMP	O	O	O	O
-अलग	JJ	TEMP	O	O	O	O
-अलग	JJ	TEMP	B-MISC	O	B-MISC	O
-होता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-निकालने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-मशीन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उसी	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सेट	NN	TEMP	B-MISC	O	B-MISC	O
-करना	VM	TEMP	I-MISC	O	I-MISC	OCC
-पड़ता	NNP	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऐसा
+इसलिए
+ताकि
+एटीएम
+से
+नोट
+निकलने
+में
+आसानी
+हो
+,
+क्योंकि
+हर
+नोट
+का
+वजन
+अलग
+अलग
+होता
+है
+और
+उसे
+निकालने
+के
+लिए
+मशीन
+को
+उसी
+तरह
+से
+सेट
+करना
+पड़ता
+है
+.
 
-आपको	PRP	TEMP	O	O	O	O
-बता	VM	TEMP	O	O	B-MISC	OCC
-दें	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-मशीन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-कैसेट	NN	TEMP	B-MISC	O	B-MISC	O
-होते	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-कैसेट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-22	QC	TEMP	O	O	O	O
-पैकेट	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जिसमे	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रत्येक	QF	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-होते	VM	TEMP	B-MISC	O	B-STAT	DECL
-हैं	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+आपको
+बता
+दें
+कि
+एक
+एटीएम
+मशीन
+में
+चार
+कैसेट
+होते
+हैं
+और
+हर
+कैसेट
+में
+नोट
+के
+22
+पैकेट
+,
+जिसमे
+से
+प्रत्येक
+में
+100
+नोट
+होते
+हैं
+.

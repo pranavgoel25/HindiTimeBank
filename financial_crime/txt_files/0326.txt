@@ -1,176 +1,176 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नाहन	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-सराहा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-पच्छाद	XC	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ठाकुरद्वारा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+नाहन
+:
+पुलिस
+थाना
+सराहा
+के
+तहत
+पच्छाद
+क्षेत्र
+के
+ठाकुरद्वारा
+में
+एक
+ट्रक
+से
+15
+लाख
+12
+हजार
+रुपये
+की
+नकदी
+बरामद
+की
+है
+.
 
-रविवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-ठाकुरद्वारा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-चंडीगढ़	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आ	VM	TEMP	O	O	B-STAT	DES
-रहे	VAUX	TEMP	O	O	I-STAT	O
-ट्रक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चेकिंग	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रोका	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+रविवार
+को
+ठाकुरद्वारा
+के
+पास
+चंडीगढ़
+की
+तरफ
+से
+आ
+रहे
+ट्रक
+को
+पुलिस
+ने
+चेकिंग
+के
+लिए
+रोका
+.
 
-ट्रक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चेकिंग	NN	TEMP	B-MISC	O	O	OCC
-की	PSP	TEMP	I-MISC	O	O	O
-तो	CC	TEMP	O	O	O	O
-ड्राइवर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बरामद	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ट्रक
+की
+पुलिस
+ने
+चेकिंग
+की
+तो
+ड्राइवर
+के
+पास
+से
+15
+लाख
+12
+हजार
+रुपये
+बरामद
+हुए
+.
 
-ड्राइवर	NN	TEMP	O	O	O	O
-सुरेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-बलका	NN	TEMP	O	O	O	O
-बराटल	JJ	TEMP	O	O	O	O
-डाकघर	NN	TEMP	O	O	O	O
-पंजाहल	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-जामन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सेर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-बनाचल	XC	TEMP	O	O	O	O
-माइक्रो	XC	TEMP	O	O	O	O
-फूड	NN	TEMP	O	O	O	O
-मशरूम	JJ	TEMP	O	O	O	O
-फैक्टरी	NN	TEMP	O	O	B-MISC	O
-की	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-चंडीगढ़	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लाई	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ड्राइवर
+सुरेंद्र
+कुमार
+निवासी
+बलका
+बराटल
+डाकघर
+पंजाहल
+ने
+पुलिस
+को
+बताया
+है
+कि
+यह
+नकदी
+जामन
+की
+सेर
+में
+स्थित
+बनाचल
+माइक्रो
+फूड
+मशरूम
+फैक्टरी
+की
+है
+,
+जो
+चंडीगढ़
+से
+लाई
+जा
+रही
+थी
+.
 
-डीएसपी	XC	TEMP	O	O	O	O
-मीनाक्षी	XC	TEMP	O	O	O	O
-भारद्वाज	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-पच्छाद	XC	TEMP	O	O	O	O
-वीरू	XC	TEMP	O	O	O	O
-अहमद	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नेतृत्व	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कब्जे	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-ले	VM	TEMP	I-MISC	O	I-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जाच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीएसपी
+मीनाक्षी
+भारद्वाज
+ने
+कहा
+कि
+पुलिस
+ने
+थाना
+प्रभारी
+पच्छाद
+वीरू
+अहमद
+के
+नेतृत्व
+में
+नकदी
+को
+कब्जे
+में
+ले
+लिया
+है
+,
+पुलिस
+मामले
+की
+जाच
+कर
+रही
+है
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-आबकारी	JJ	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-कराधान	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	OCC
-भी	RP	TEMP	O	O	O	O
-ली	VM	TEMP	O	O	B-MISC	O
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+जांच
+में
+आबकारी
+एवं
+कराधान
+विभाग
+की
+सहायता
+भी
+ली
+जाएगी
+.
 
-गौरतलब	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-विधानसभा	JJ	TEMP	O	O	O	O
-चुनाव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दृष्टिगत	JJ	TEMP	O	O	O	O
-सिरमौर	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जिला	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सारी	QF	TEMP	O	O	O	O
-सीमाओं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नाकेबंदी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गौरतलब
+है
+कि
+विधानसभा
+चुनाव
+के
+दृष्टिगत
+सिरमौर
+पुलिस
+ने
+जिला
+की
+सारी
+सीमाओं
+की
+नाकेबंदी
+की
+है
+.

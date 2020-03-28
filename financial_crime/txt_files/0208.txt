@@ -1,216 +1,216 @@
-﻿सरैयाहाट	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-दुमका	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सरैयाहाट	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-धौनी	NN	TEMP	O	O	O	O
-जंगल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निकट	NST	TEMP	O	O	O	O
-बुधवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-अपराधियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-गोली	JJ	TEMP	B-MISC	O	B-MISC	O
-मारकर	VM	TEMP	I-MISC	O	I-MISC	O
-एसकेएस	XC	TEMP	O	O	O	O
-माइक्रो	XC	TEMP	O	O	O	O
-फाइनेंस	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-70	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लूट	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿सरैयाहाट
+(
+दुमका
+)
+:
+सरैयाहाट
+थाना
+क्षेत्र
+के
+धौनी
+जंगल
+के
+निकट
+बुधवार
+को
+अपराधियों
+ने
+गोली
+मारकर
+एसकेएस
+माइक्रो
+फाइनेंस
+के
+कर्मी
+से
+70
+हजार
+रुपये
+लूट
+लिए
+.
 
-प्राथमिक	JJ	TEMP	O	O	O	O
-इलाज	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-गंभीर	JJ	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घायल	JJ	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-रेफर	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्राथमिक
+इलाज
+के
+बाद
+गंभीर
+रूप
+से
+घायल
+कर्मी
+को
+बाहर
+रेफर
+कर
+दिया
+गया
+है
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-रोशन	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-गोड्डा	XC	TEMP	O	O	O	O
-जिला	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पैरडीह	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रहनेवाला	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बताया
+गया
+कि
+कर्मी
+रोशन
+कुमार
+¨
+सह
+गोड्डा
+जिला
+के
+पैरडीह
+गांव
+का
+रहनेवाला
+है
+.
 
-वह	PRP	TEMP	O	O	O	O
-सरैयाहाट	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कार्यरत	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+वह
+सरैयाहाट
+स्थित
+कंपनी
+के
+कार्यालय
+में
+कार्यरत
+है
+.
 
-पटवी	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	B-MISC	O	O	O
-कलेक्शन	NN	TEMP	I-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-सरैयाहाट	NN	TEMP	O	O	O	O
-लौट	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पटवी
+गांव
+से
+कंपनी
+के
+लिए
+पैसा
+कलेक्शन
+कर
+सरैयाहाट
+लौट
+रहा
+था
+.
 
-इसी	PRP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-अपराधियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लूटने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-पीठ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गोली	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मार	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+बीच
+अपराधियों
+ने
+रुपये
+लूटने
+के
+लिए
+उसकी
+पीठ
+में
+गोली
+मार
+दी
+.
 
-गोली	NN	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-छाती	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-होकर	VM	TEMP	O	O	B-MISC	OCC
-बाहर	NST	TEMP	B-MISC	O	I-MISC	O
-निकल	VM	TEMP	I-MISC	O	I-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-लहुलुहान	NN	TEMP	B-MISC	O	O	O
-होकर	VM	TEMP	I-MISC	O	B-MISC	OCC
-गिर	VM	TEMP	B-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गोली
+उसकी
+छाती
+से
+होकर
+बाहर
+निकल
+गई
+और
+वह
+लहुलुहान
+होकर
+गिर
+गया
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-अपराधी	JJ	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भरा	JJ	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	OCC
-निकले	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+अपराधी
+रुपये
+से
+भरा
+बैग
+लेकर
+भाग
+निकले
+.
 
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सरैयाहाट	JJ	TEMP	O	O	O	O
-सीएचसी	NN	TEMP	O	O	O	O
-पहुंचाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+बाद
+में
+किसी
+व्यक्ति
+ने
+बाइक
+से
+सरैयाहाट
+सीएचसी
+पहुंचाया
+.
 
-रोशन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गंभीर	JJ	TEMP	O	O	O	O
-हालत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-कितनी	QF	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लूट	NN	TEMP	O	O	B-MISC	OCC
-में	PSP	TEMP	O	O	I-MISC	O
-हुई	VM	TEMP	B-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-इसका	PRP	TEMP	O	O	O	O
-स्पष्ट	JJ	TEMP	B-MISC	O	O	O
-पता	JJ	TEMP	I-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-चल	VM	TEMP	I-MISC	O	I-MISC	O
-सका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मानें	NN	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-रकम	NN	TEMP	O	O	O	O
-70	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+रोशन
+की
+गंभीर
+हालत
+के
+कारण
+कितनी
+राशि
+की
+लूट
+में
+हुई
+है
+इसका
+स्पष्ट
+पता
+नहीं
+चल
+सका
+है
+,
+लेकिन
+की
+मानें
+तो
+यह
+रकम
+70
+हजार
+रुपये
+के
+करीब
+है
+.
 
-सूचना	NN	TEMP	O	O	O	OCC
-पर	PSP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-महेश	XC	TEMP	O	O	O	O
-प्रसाद	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+सूचना
+पर
+थाना
+प्रभारी
+महेश
+प्रसाद
+¨
+सह
+पहुंचे
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-जुटी	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+घटना
+की
+जांच
+करने
+में
+पुलिस
+जुटी
+है
+.
 
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-इसका	PRP	TEMP	O	O	O	O
-खुलासा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जल्द
+ही
+इसका
+खुलासा
+किया
+जाएगा
+.

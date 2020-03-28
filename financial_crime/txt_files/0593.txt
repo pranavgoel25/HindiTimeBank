@@ -1,230 +1,230 @@
 
-बोकारो	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-छापेमारी	NN	TEMP	B-MISC	O	O	OCC
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-किशोरी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-प्रेमी	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-दोस्त	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-गिरफ्तार	VM	TEMP	B-MISC	O	B-MISC	OCC
-किया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बोकारो
+:
+पुलिस
+ने
+छापेमारी
+के
+दौरान
+एक
+किशोरी
+को
+उसके
+प्रेमी
+और
+एक
+अन्य
+दोस्त
+के
+साथ
+गिरफ्तार
+किया
+है
+.
 
-किशोरी	NN	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भागलपुर	NNP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-नौगछिया	NN	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-MISC	OCC
-वाली	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किशोरी
+बिहार
+के
+भागलपुर
+जिला
+स्थित
+नौगछिया
+थाने
+की
+रहने
+वाली
+है
+.
 
-किशोरी	NN	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-बहन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	B-STAT	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-अपने	PRP	TEMP	O	O	O	O
-प्रेमी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किशोरी
+अपनी
+बडी
+बहन
+की
+शादी
+के
+लिए
+रखे
+दो
+लाख
+रुपये
+लेकर
+अपने
+प्रेमी
+के
+साथ
+फरार
+हो
+गई
+थी
+.
 
-बोकारो	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिटी	XC	TEMP	O	O	O	O
-सेंटर	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-होटल	NN	TEMP	O	O	O	O
-युवराज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तीनों	QC	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पकडा	VM	TEMP	O	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-इनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बोकारो
+के
+सिटी
+सेंटर
+स्थित
+होटल
+युवराज
+में
+पुलिस
+ने
+तीनों
+को
+पकडा
+और
+इनके
+पास
+से
+एक
+लाख
+रुपये
+भी
+बरामद
+किए
+हैं
+.
 
-किशोरी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पिता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-राहुल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	O	O	B-MISC	OCC
-करवाया	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-बेटी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अगवा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-..	JJ	TEMP	O	O	O	O
-नौगछिया	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रहनेवाली	JJ	TEMP	O	O	O	O
-पंद्रह	QC	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-किशोरी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पिता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किशोरी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रेमी	NN	TEMP	O	O	O	O
-राहुल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-स्थानीय	JJ	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अगवा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करवाई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किशोरी
+के
+पिता
+ने
+राहुल
+पर
+दर्ज
+करवाया
+है
+बेटी
+को
+अगवा
+करने
+का
+मामला
+..
+नौगछिया
+की
+रहनेवाली
+पंद्रह
+साल
+की
+किशोरी
+के
+पिता
+ने
+किशोरी
+के
+प्रेमी
+राहुल
+पर
+वहां
+स्थानीय
+थाने
+में
+बेटी
+को
+अगवा
+करने
+की
+रिपोर्ट
+दर्ज
+करवाई
+है
+.
 
-दर्ज	JJ	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बडी	JJ	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-तय	JJ	TEMP	B-MISC	O	I-MISC	O
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दर्ज
+रिपोर्ट
+में
+बताया
+गया
+है
+कि
+बडी
+बेटी
+की
+शादी
+तय
+हुई
+थी
+.
 
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लाकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-रखा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शादी
+के
+लिए
+ही
+उन्होंने
+दो
+लाख
+रुपये
+घर
+में
+लाकर
+रखा
+था
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-पैसों	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	IAC
-राहुल	XC	TEMP	O	O	B-MISC	O
-फरार	NN	TEMP	O	O	I-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+इन
+पैसों
+और
+उनकी
+बेटी
+को
+लेकर
+राहुल
+फरार
+हो
+गया
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बोकारो	XC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नौगछिया	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+बोकारो
+पुलिस
+ने
+नौगछिया
+पुलिस
+को
+सूचना
+दे
+दी
+है
+.
 
-सिटी	XC	TEMP	O	O	O	O
-डीएसपी	XC	TEMP	O	O	O	O
-अजय	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-होटल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-कमरे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवती	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+सिटी
+डीएसपी
+अजय
+कुमार
+को
+सूचना
+मिली
+थी
+कि
+होटल
+के
+एक
+कमरे
+में
+दो
+युवक
+एक
+युवती
+के
+साथ
+हैं
+.
 
-महिला	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-प्रभारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-डीएसपी	JJ	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-तीनों	QC	TEMP	O	O	O	O
-पकडे	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+महिला
+थाना
+प्रभारी
+के
+साथ
+डीएसपी
+मौके
+पर
+पहुंचे
+तो
+तीनों
+पकडे
+गए
+.

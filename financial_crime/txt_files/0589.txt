@@ -1,426 +1,426 @@
 
-अलीगढ़	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सीडीएफ	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-हद	NN	TEMP	O	O	O	O
-एग्रो	XC	TEMP	O	O	O	O
-इंडस्ट्रीज	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-मीट	XC	TEMP	O	O	O	O
-फैक्ट्री	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रविवार	JJ	TEMP	O	O	O	O
-दोपहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शॉर्ट	XC	TEMP	O	O	B-MISC	O
-सर्किट	NN	TEMP	O	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-आग	NN	TEMP	B-MISC	O	B-MISC	OCC
-लग	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अलीगढ़
+:
+सीडीएफ
+स्थित
+¨
+हद
+एग्रो
+इंडस्ट्रीज
+(
+मीट
+फैक्ट्री
+)
+में
+रविवार
+दोपहर
+में
+शॉर्ट
+सर्किट
+से
+आग
+लग
+गई
+.
 
-आग	NN	TEMP	O	O	O	O
-इतनी	TEMP	INTF	TEMP	O	O	O	O
-भयंकर	JJ	TEMP	O	O	B-MISC	OCC
-थी	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-मशीन	NN	TEMP	O	O	O	O
-रूम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-विलास	NN	TEMP	O	O	O	O
-फ्रीजर	NNP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	O	O	B-MISC	OCC
-गई	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिसमें	PRP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-कीमत	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मीट	NN	TEMP	O	O	O	O
-रखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आग
+इतनी
+भयंकर
+थी
+कि
+मशीन
+रूम
+से
+विलास
+फ्रीजर
+तक
+पहुंच
+गई
+,
+जिसमें
+करीब
+तीन
+करोड़
+रुपये
+कीमत
+का
+मीट
+रखा
+हुआ
+था
+.
 
-आग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-काबू	NN	TEMP	O	O	B-MISC	O
-पाने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-दमकलों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	B-MISC	O	B-MISC	OCC
-ली	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आग
+पर
+काबू
+पाने
+के
+लिए
+तीन
+दमकलों
+की
+मदद
+ली
+गई
+.
 
-आग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लाखों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नुकसान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अनुमान	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आग
+से
+लाखों
+के
+नुकसान
+का
+अनुमान
+लगाया
+जा
+रहा
+है
+.
 
-गनीमत	NN	TEMP	O	O	B-MISC	O
-रही	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बकरीद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-फैक्ट्री	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	O	O	B-STAT	DEC
-थी	VM	TEMP	O	O	I-STAT	O
-,	SYM	TEMP	O	O	O	O
-वर्ना	XC	TEMP	O	O	O	O
-बड़ा	NNP	TEMP	O	O	O	O
-हादसा	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-हो	VM	TEMP	B-MISC	O	B-MISC	OCC
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गनीमत
+रही
+कि
+बकरीद
+के
+चलते
+फैक्ट्री
+बंद
+थी
+,
+वर्ना
+बड़ा
+हादसा
+भी
+हो
+सकता
+था
+.
 
-¨	JJ	TEMP	O	O	O	O
-हद	NN	TEMP	O	O	O	O
-एग्रो	XC	TEMP	O	O	O	O
-इंडस्ट्रीज	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रिफ्रेशर	XC	TEMP	O	O	O	O
-प्लांट	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दोपहर	NN	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-साढ़े	NNP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-बजे	RP:?	TEMP	O	O	O	O
-आग	NN	TEMP	O	O	B-MISC	OCC
-लगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+¨
+हद
+एग्रो
+इंडस्ट्रीज
+के
+रिफ्रेशर
+प्लांट
+में
+दोपहर
+करीब
+साढ़े
+तीन
+बजे
+आग
+लगी
+.
 
-उस	DEM	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-फैक्ट्री	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मीट	NN	TEMP	O	O	O	O
-एक्सपोर्ट	XC	TEMP	O	O	O	O
-एक्साइज	XC	TEMP	O	O	O	O
-इंचार्ज	XC	TEMP	O	O	O	O
-डीके	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सिक्योरिटी	NNP	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	DECL
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उस
+समय
+फैक्ट्री
+में
+मीट
+एक्सपोर्ट
+एक्साइज
+इंचार्ज
+डीके
+शर्मा
+व
+सिक्योरिटी
+वाले
+ही
+मौजूद
+थे
+.
 
-आग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	O	O	B-MISC	OCC
-पुलिस	NN	TEMP	O	O	O	O
-कंट्रोल	JJ	TEMP	O	O	O	O
-रूम	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अग्निशमन	JJ	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आग
+की
+सूचना
+पुलिस
+कंट्रोल
+रूम
+व
+अग्निशमन
+केंद्र
+को
+दी
+गई
+.
 
-जब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-आग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-काबू	NN	TEMP	O	O	B-MISC	OCC
-पाया	VM	TEMP	B-MISC	O	I-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-विलास	NN	TEMP	O	O	O	O
-फ्रीजर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कोल्ड	XC	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+तक
+आग
+पर
+काबू
+पाया
+जाता
+,
+यह
+विलास
+फ्रीजर
+से
+कोल्ड
+स्टोर
+तक
+पहुंच
+गई
+.
 
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंची	VM	TEMP	B-MISC	O	B-STAT	DES
-तीन	QC	TEMP	O	O	O	O
-दमकलों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-ढाई	QF	TEMP	O	O	O	O
-घंटे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-काबू	NN	TEMP	O	O	B-MISC	OCC
-पाया	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मौके
+पर
+पहुंची
+तीन
+दमकलों
+ने
+करीब
+ढाई
+घंटे
+में
+काबू
+पाया
+.
 
-डीके	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-तीन	QC	TEMP	O	B	O	O
-अगस्त	NN	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-फैक्ट्री	NN	TEMP	B-MISC	O	O	O
-चालू	VM	TEMP	I-MISC	O	B-MISC	OCC
-हुई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीके
+शर्मा
+ने
+बताया
+कि
+तीन
+अगस्त
+को
+फैक्ट्री
+चालू
+हुई
+थी
+.
 
-इस	DEM	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-कोल्ड	XC	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-250	QC	TEMP	O	O	O	O
-मीट्रिक	JJ	TEMP	O	O	O	O
-टन	NN	TEMP	O	O	O	O
-मीट	NN	TEMP	O	O	O	O
-रखा	VM	TEMP	O	O	B-MISC	OCC
-हुआ	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिसे	PRP	TEMP	O	O	O	O
-माइनस	NNP	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-डिग्री	XC	TEMP	O	O	O	O
-तापमान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रखा	VM	TEMP	O	O	B-MISC	OCC
-जाता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+समय
+कोल्ड
+स्टोर
+करीब
+250
+मीट्रिक
+टन
+मीट
+रखा
+हुआ
+है
+,
+जिसे
+माइनस
+30
+डिग्री
+तापमान
+पर
+रखा
+जाता
+है
+.
 
-आग	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सीधा	JJ	TEMP	O	O	O	O
-असर	NN	TEMP	O	O	O	O
-मीट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-पडा	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-रिफ्रेशर	XC	TEMP	O	O	O	O
-प्लांट	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-विलास	XC	TEMP	O	O	O	O
-फ्रीजर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बडा	JJ	TEMP	O	O	O	O
-नुकसान	NN	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आग
+का
+सीधा
+असर
+मीट
+पर
+नहीं
+पडा
+है
+,
+लेकिन
+रिफ्रेशर
+प्लांट
+और
+विलास
+फ्रीजर
+को
+बडा
+नुकसान
+हुआ
+है
+.
 
-केबिल	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-जल	VM	TEMP	O	O	B-MISC	OCC
-गई	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+केबिल
+आदि
+जल
+गई
+हैं
+.
 
-कोल्ड	XC	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-..	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-सप्ताह	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हो	VM	TEMP	O	O	B-MISC	O
-पाएगी	VAUX	TEMP	O	O	I-MISC	O
-चालू	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-सप्ताह	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-फैक्ट्री	NN	TEMP	O	O	O	O
-ठीक	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होकर	VM	TEMP	I-MISC	O	I-MISC	O
-दोबारा	VAUX	TEMP	I-MISC	O	I-MISC	OCC
-चालू	VAUX	TEMP	I-MISC	O	I-MISC	O
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोल्ड
+स्टोर
+भी
+बंद
+हो
+गया
+..
+एक
+सप्ताह
+में
+हो
+पाएगी
+चालू
+:
+एक
+सप्ताह
+में
+फैक्ट्री
+ठीक
+होकर
+दोबारा
+चालू
+हो
+सकती
+है
+.
 
-अग्निकांड	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	O	O	O	O
-फैक्ट्री	NN	TEMP	O	O	O	O
-मालिक	XC	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-हाजी	XC	TEMP	O	O	O	O
-सिराजुद्दीन	NNP	TEMP	O	O	O	O
-कुरैशी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अग्निकांड
+की
+सूचना
+फैक्ट्री
+मालिक
+दिल्ली
+निवासी
+हाजी
+सिराजुद्दीन
+कुरैशी
+को
+भेज
+दी
+गई
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सप्लायर	XC	TEMP	O	O	O	O
-हाजी	XC	TEMP	O	O	O	O
-सलीम	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-प्रधान	NN	TEMP	O	O	O	O
-रफात	JJ	TEMP	O	O	O	O
-खां	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	DECL
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इस
+मौके
+पर
+सप्लायर
+हाजी
+सलीम
+,
+पूर्व
+प्रधान
+रफात
+खां
+सहित
+कई
+लोग
+मौजूद
+थे
+.
 
-...........	JJ	TEMP	O	O	O	O
-आग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बडा	JJ	TEMP	O	O	O	O
-नुकसान	NN	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+...........
+आग
+से
+बडा
+नुकसान
+हुआ
+है
+.
 
-सही	JJ	TEMP	O	O	O	O
-आकलन	NN	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-हो	VM	TEMP	O	O	B-MISC	-1
-पाएगा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सही
+आकलन
+तो
+सोमवार
+तक
+ही
+हो
+पाएगा
+.
 
-कोल्ड	XC	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मीट	NN	TEMP	O	O	O	O
-सुरक्षित	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+कोल्ड
+स्टोर
+में
+मीट
+सुरक्षित
+है
+.
 
-कोल्ड	XC	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-चालू	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-घंटे	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-रखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोल्ड
+स्टोर
+चालू
+न
+होने
+की
+स्थिति
+में
+इसे
+दस
+घंटे
+तक
+रखा
+जा
+सकता
+है
+.
 
-कोल्ड	XC	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चालू	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-वैकल्पिक	JJ	TEMP	O	O	O	O
-व्यवस्था	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-जा	VAUX	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोल्ड
+स्टोर
+को
+चालू
+करने
+के
+लिए
+वैकल्पिक
+व्यवस्था
+की
+जा
+रही
+है
+.
 
-डीके	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एक्सपोर्ट	XC	TEMP	O	O	O	O
-एक्साइज	XC	TEMP	O	O	O	O
-इंचार्ज	XC	TEMP	O	O	O	O
-आग	NN	TEMP	B-MISC	O	B-MISC	O
-लगने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-शॉर्ट	JJ	TEMP	O	O	O	O
-सर्किट	NN	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीके
+शर्मा
+,
+एक्सपोर्ट
+एक्साइज
+इंचार्ज
+आग
+लगने
+का
+कारण
+शॉर्ट
+सर्किट
+पता
+चला
+है
+.
 
-तीन	QC	TEMP	O	O	O	O
-दमकलों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-काबू	NN	TEMP	O	O	B-MISC	OCC
-पाया	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तीन
+दमकलों
+ने
+आग
+पर
+काबू
+पाया
+.
 
-फैक्ट्री	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नुकसान	NN	TEMP	O	O	O	O
-कितना	QF	TEMP	O	O	O	O
-हुआ	VM	TEMP	O	O	B-STAT	O
-है	VAUX	TEMP	O	O	I-STAT	O
-,	SYM	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-मांगी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फैक्ट्री
+में
+नुकसान
+कितना
+हुआ
+है
+,
+इसकी
+जानकारी
+मांगी
+गई
+है
+.
 
-नुकसान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फिलहाल	RB	TEMP	O	O	O	O
-बताना	VM	TEMP	O	O	O	OCC
-मुश्किल	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+नुकसान
+के
+बारे
+में
+फिलहाल
+बताना
+मुश्किल
+है
+.
 
-संजय	XC	TEMP	O	O	O	O
-जायसवाल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-फायर	XC	TEMP	O	O	O	O
-सर्विस	XC	TEMP	O	O	O	O
-ऑफिसर	NNP	TEMP	O	O	O	O
+संजय
+जायसवाल
+,
+फायर
+सर्विस
+ऑफिसर

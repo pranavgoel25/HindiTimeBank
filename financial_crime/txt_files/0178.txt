@@ -1,546 +1,546 @@
-﻿राजीव	XC	TEMP	O	O	O	O
-ऋषि	XC	TEMP	O	O	O	O
+﻿राजीव
+ऋषि
 
-अंबाला	JJ	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-चौडमस्तपुर	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कैलाश	XC	TEMP	O	O	O	O
-एग्रो	XC	TEMP	O	O	O	O
-फूड	XC	TEMP	O	O	O	O
-राइस	XC	TEMP	O	O	O	O
-मिल	NNP	TEMP	O	O	O	O
-संचालिका	XC	TEMP	O	O	O	O
-ममता	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सगला	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-हरियाणा	XC	TEMP	O	O	O	O
-राज्य	XC	TEMP	O	O	O	O
-कृषि	XC	TEMP	O	O	O	O
-विपणन	XC	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-एचएसएएमबी	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-एजेंसी	XC	TEMP	O	O	O	O
-हरियाणा	NNP	TEMP	O	O	O	O
-एग्रो	XC	TEMP	O	O	O	O
-इंडस्ट्रीज	NNP	TEMP	O	O	O	O
-कारपोरेशन	NN	TEMP	O	O	O	O
-अंबाला	NN	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-7.99	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चावल	NN	TEMP	O	O	O	O
-गटक	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अंबाला
+शहर
+चौडमस्तपुर
+की
+कैलाश
+एग्रो
+फूड
+राइस
+मिल
+संचालिका
+ममता
+¨
+सगला
+ने
+हरियाणा
+राज्य
+कृषि
+विपणन
+बोर्ड
+(
+एचएसएएमबी
+)
+की
+खरीद
+एजेंसी
+हरियाणा
+एग्रो
+इंडस्ट्रीज
+कारपोरेशन
+अंबाला
+शहर
+के
+करीब
+7.99
+करोड
+के
+चावल
+गटक
+लिए
+.
 
-दो	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-चावल	NN	TEMP	O	O	O	O
-एचएसएएमबी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-पहुंचा	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-एजेंसी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नोटिस	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-जवाब	NN	TEMP	B-MISC	O	B-MISC	O
-मांगा	VM	TEMP	I-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दो
+साल
+बाद
+भी
+जब
+चावल
+एचएसएएमबी
+के
+पास
+नहीं
+पहुंचा
+तो
+एजेंसी
+को
+नोटिस
+जारी
+कर
+जवाब
+मांगा
+गया
+.
 
-नोटिस	NN	TEMP	B-MISC	O	O	O
-मिलने	VM	TEMP	I-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खरीद	VM	TEMP	O	O	B-STAT	OCC
-एजेंसी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-राइस	XC	TEMP	O	O	O	O
-मिलर	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूची	NN	TEMP	B-MISC	O	O	O
-खंगाली	NNP	TEMP	I-MISC	O	O	O
-तो	RP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-कैलाश	XC	TEMP	O	O	O	O
-एग्रो	XC	TEMP	O	O	O	O
-फूड	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-7311.90	QC	TEMP	O	O	O	O
-एमटी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-महज	RB	TEMP	O	O	O	O
-3077.305	QC	TEMP	O	O	O	O
-मीट्रिक	JJ	TEMP	O	O	O	O
-टन	NN	TEMP	O	O	O	O
-चावल	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नोटिस
+मिलने
+पर
+खरीद
+एजेंसी
+ने
+जब
+राइस
+मिलर
+की
+सूची
+खंगाली
+तो
+पता
+चला
+कि
+कैलाश
+एग्रो
+फूड
+ने
+7311.90
+एमटी
+में
+से
+महज
+3077.305
+मीट्रिक
+टन
+चावल
+ही
+वापस
+किया
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-मिल	VM	TEMP	O	O	O	O
-संचालिका	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बचे	VM	TEMP	O	O	B-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-1821.668	QC	TEMP	O	O	O	O
-मीट्रिक	JJ	TEMP	O	O	O	O
-टन	NN	TEMP	O	O	O	O
-चावल	NN	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मांगे	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-हाथ	NN	TEMP	O	O	B-MISC	O
-खडे	VM	TEMP	B-MISC	O	I-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-अंडरग्राउंड	NN	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+जब
+मिल
+संचालिका
+से
+बचे
+हुए
+1821.668
+मीट्रिक
+टन
+चावल
+वापस
+मांगे
+गए
+तो
+उसने
+हाथ
+खडे
+कर
+दिए
+और
+वह
+अंडरग्राउंड
+हो
+गई
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-खरीद	JJ	TEMP	O	O	O	O
-एजेंसी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-दीपचंद	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नग्गल	JJ	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ठगी	NN	TEMP	O	O	B-MISC	OCC
-व	CC	TEMP	O	O	O	O
-अमानत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खयानत	JJ	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+खरीद
+एजेंसी
+के
+जिला
+प्रबंधक
+दीपचंद
+ने
+नग्गल
+थाने
+में
+ठगी
+व
+अमानत
+में
+खयानत
+मामला
+दर्ज
+कराया
+था
+.
 
-आर्थिक	JJ	TEMP	O	O	O	O
-अपराध	NN	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तफ्तीश	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-ममता	NN	TEMP	O	O	O	O
-कुरुक्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सेक्टर-	NN	TEMP	O	O	O	O
-7	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मकान	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-253	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बतौर	JJ	TEMP	O	O	O	O
-किराएदार	NN	TEMP	O	O	B-MISC	O
-रहती	VM	TEMP	O	O	I-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आर्थिक
+अपराध
+शाखा
+की
+तफ्तीश
+में
+पता
+चला
+कि
+ममता
+कुरुक्षेत्र
+के
+सेक्टर-
+7
+के
+मकान
+नंबर
+253
+में
+बतौर
+किराएदार
+रहती
+है
+.
 
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-7	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-छापा	NN	TEMP	B-MISC	O	O	O
-मारकर	VM	TEMP	I-MISC	O	B-MISC	O
-उसे	PRP	TEMP	O	O	O	O
-पकड	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+टीम
+ने
+7
+नवंबर
+को
+छापा
+मारकर
+उसे
+पकड
+लिया
+.
 
-आरोपी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-8	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पेश	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-6	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-रिमांड	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आरोपी
+को
+8
+नवंबर
+को
+कोर्ट
+में
+पेश
+कर
+6
+दिन
+रिमांड
+पर
+लिया
+गया
+.
 
-उसकी	PRP	TEMP	O	O	O	O
-निशानदेही	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-प्रदीप	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सगला	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पकडने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-दबिश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गंई	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-हाथ	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसकी
+निशानदेही
+पर
+प्रदीप
+¨
+सगला
+को
+पकडने
+के
+लिए
+दबिश
+दी
+गंई
+लेकिन
+वह
+हाथ
+नहीं
+आया
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-रिमांड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कबूल	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-पति	NN	TEMP	O	O	O	O
-प्रदीप	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सगला	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कहने	VM	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खरीद	JJ	TEMP	O	O	O	O
-एजेंसी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-एग्रीमेंट	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+रिमांड
+में
+महिला
+ने
+कबूल
+किया
+कि
+उसने
+पति
+प्रदीप
+¨
+सगला
+के
+कहने
+पर
+खरीद
+एजेंसी
+के
+साथ
+एग्रीमेंट
+किया
+था
+.
 
-उसे	PRP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	OCC
-पता	JJ	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-चावल	NN	TEMP	O	O	B-MISC	O
-कहां	VM	TEMP	B-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसे
+नहीं
+पता
+कि
+चावल
+कहां
+गया
+.
 
-प्रदीप	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-चावल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-वापस	JJ	TEMP	O	O	B-MISC	OCC
-खरीद	VM	TEMP	O	O	I-MISC	O
-एजेंसी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लौटाने	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-बजाय	PSP:?	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-इधर-उधर	NNP	TEMP	O	O	B-MISC	O
-बेच	VM	TEMP	B-MISC	O	I-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रदीप
+ने
+ही
+चावल
+को
+वापस
+खरीद
+एजेंसी
+को
+लौटाने
+के
+बजाय
+उसे
+इधर-उधर
+बेच
+दिया
+.
 
-शुक्रवार	NN	TEMP	O	B	O	O
-शाम	NN	TEMP	O	B	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ममता	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-न्यायिक	JJ	TEMP	O	O	O	O
-हिरासत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शुक्रवार
+शाम
+कोर्ट
+के
+आदेश
+पर
+ममता
+को
+न्यायिक
+हिरासत
+में
+भेज
+दिया
+गया
+.
 
-हेराफेरी	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-घटनाक्रम	NN	TEMP	O	O	O	O
-6	QC	TEMP	O	B	O	O
-सितंबर	NNP	TEMP	O	I	O	O
-2017	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-खरीद	JJ	TEMP	O	O	O	O
-एजेंसी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-दीपचंद	XC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नग्गल	JJ	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ममता	NN	TEMP	O	O	O	OCC
-¨	XC	TEMP	O	O	O	O
-सगला	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पति	XC	TEMP	O	O	O	O
-प्रदीप	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सगला	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हेराफेरी
+का
+घटनाक्रम
+6
+सितंबर
+2017
+को
+खरीद
+एजेंसी
+के
+जिला
+प्रबंधक
+दीपचंद
+की
+शिकायत
+पर
+नग्गल
+थाने
+में
+ममता
+¨
+सगला
+व
+पति
+प्रदीप
+¨
+सगला
+के
+खिलाफ
+मुकदमा
+दर्ज
+किया
+गया
+.
 
-केस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-कैलाश	XC	TEMP	O	O	O	O
-एग्रो	XC	TEMP	O	O	O	O
-फूड्स	NN	TEMP	O	O	O	O
-ममता	VM	TEMP	O	O	B-MISC	O
-¨	XC	TEMP	O	O	O	O
-सगला	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+केस
+के
+अनुसार
+कैलाश
+एग्रो
+फूड्स
+ममता
+¨
+सगला
+के
+नाम
+है
+.
 
-मार्के	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-टग	NN	TEMP	O	O	O	O
-कमेटी	NNP	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीद	JJ	TEMP	O	O	O	O
-एजेंसी	NN	TEMP	O	O	O	O
-हरियाणा	XC	TEMP	O	O	O	O
-एग्रो	XC	TEMP	O	O	O	O
-इंडस्ट्रीज	NNP	TEMP	O	O	O	O
-कॉरपोरेशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-2015	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-16	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-एग्रीमेंट	NN	TEMP	O	O	O	O
-साइन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मार्के
+¨
+टग
+कमेटी
+बोर्ड
+की
+खरीद
+एजेंसी
+हरियाणा
+एग्रो
+इंडस्ट्रीज
+कॉरपोरेशन
+के
+साथ
+उसने
+2015
+-
+16
+के
+लिए
+एक
+एग्रीमेंट
+साइन
+किया
+था
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-राइस	NN	TEMP	O	O	O	O
-मिल	VM	TEMP	O	O	O	O
-संचालिका	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-7311.90	QC	TEMP	O	O	O	O
-मीट्रिक	JJ	TEMP	O	O	O	O
-टन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-67	QC	TEMP	O	O	O	O
-फीसदी	NN	TEMP	O	O	O	O
-4898.97	QC	TEMP	O	O	O	O
-एमटी	NN	TEMP	O	O	O	O
-चावल	NN	TEMP	O	O	O	O
-31	QC	TEMP	O	O	O	O
-मार्च	NNP	TEMP	O	O	O	O
-2016	QC	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-लौटाना	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-केवल	RB	TEMP	O	O	O	O
-3077.305	QC	TEMP	O	O	O	O
-मीट्रिक	JJ	TEMP	O	O	O	O
-टन	NN	TEMP	O	O	O	O
-चावल	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-लौटाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इसके
+अनुसार
+राइस
+मिल
+संचालिका
+को
+7311.90
+मीट्रिक
+टन
+में
+से
+67
+फीसदी
+4898.97
+एमटी
+चावल
+31
+मार्च
+2016
+तक
+लौटाना
+था
+लेकिन
+उसने
+केवल
+3077.305
+मीट्रिक
+टन
+चावल
+ही
+लौटाया
+.
 
-दंपती	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-फर्म	XC	TEMP	O	O	O	O
-कृष्णा	XC	TEMP	O	O	O	O
-एग्रो	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चावल	NN	TEMP	O	O	O	O
-डकारने	VM	TEMP	B-MISC	O	O	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-आरोपी	JJ	TEMP	O	O	O	O
-दंपती	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-फर्म	NN	TEMP	O	O	O	O
-कृष्ण	XC	TEMP	O	O	O	O
-एग्रो	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चावलों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-हेराफेरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दंपती
+की
+दूसरी
+फर्म
+कृष्णा
+एग्रो
+पर
+भी
+10
+करोड
+के
+चावल
+डकारने
+का
+आरोप
+आरोपी
+दंपती
+ने
+अपनी
+दूसरी
+फर्म
+कृष्ण
+एग्रो
+के
+माध्यम
+से
+भी
+करीब
+10
+करोड
+के
+चावलों
+की
+हेराफेरी
+की
+है
+.
 
-15	QC	TEMP	O	B	O	O
-दिसंबर	NNP	TEMP	O	I	O	O
-2016	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-नग्गल	JJ	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	O	O	B-MISC	OCC
-केस	NN	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-2013	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-14	QC	TEMP	O	B	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-हरियाणा	XC	TEMP	O	O	O	O
-एग्रो	XC	TEMP	O	O	O	O
-कारपोरेशन	XC	TEMP	O	O	O	O
-लिमिटेड	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-करार	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+15
+दिसंबर
+2016
+को
+नग्गल
+थाने
+में
+दर्ज
+केस
+के
+मुताबिक
+2013
+-
+14
+के
+लिए
+भी
+हरियाणा
+एग्रो
+कारपोरेशन
+लिमिटेड
+के
+साथ
+करार
+किया
+गया
+था
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-7180.99	QC	TEMP	O	O	O	O
-मीट्रिक	JJ	TEMP	O	O	O	O
-टन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-4811.26	QC	TEMP	O	O	O	O
-एमटी	NN	TEMP	O	O	O	O
-चावल	NN	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
+इसके
+अनुसार
+7180.99
+मीट्रिक
+टन
+में
+से
+4811.26
+एमटी
+चावल
+वापस
+करना
+था
 
-लेकिन	CC	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-केवल	RB	TEMP	O	O	O	O
-2672.35	QC	TEMP	O	O	O	O
-मीट्रिक	JJ	TEMP	O	O	O	O
-टन	NN	TEMP	O	O	B-MISC	O
-लौटाया	VM	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+आरोपियों
+ने
+केवल
+2672.35
+मीट्रिक
+टन
+लौटाया
+.
 
-------------	JJ	TEMP	O	O	O	O
-वर्जन	NN	TEMP	O	O	O	O
-वर्जन	NN	TEMP	O	O	O	O
-आर्थिक	JJ	TEMP	O	O	O	O
-अपराध	NN	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	O	O
-जांच	NN	TEMP	O	O	O	O
-अधिकारी	JJ	TEMP	O	O	O	O
-एएसआइ	XC	TEMP	O	O	O	O
-कुलविदंर	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-राइस	NN	TEMP	O	O	O	O
-मिल	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-इधर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उधर	NST	TEMP	O	O	O	DES
-करने	VM	TEMP	O	O	B-STAT	DES
-वाले	PSP	TEMP	O	O	I-STAT	O
-प्रदीप	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-जारी	JJ	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+------------
+वर्जन
+वर्जन
+आर्थिक
+अपराध
+शाखा
+में
+तैनात
+जांच
+अधिकारी
+एएसआइ
+कुलविदंर
+¨
+सह
+के
+मुताबिक
+राइस
+मिल
+के
+माध्यम
+से
+करीब
+18
+करोड
+इधर
+से
+उधर
+करने
+वाले
+प्रदीप
+की
+तलाश
+जारी
+है
+.
 
-उसके	PRP	TEMP	O	O	O	O
-पकडे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-लगेगा	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-चावल	NN	TEMP	O	O	O	O
-किसे	WQ	TEMP	O	O	O	O
-बेचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+पकडे
+जाने
+के
+बाद
+ही
+पता
+लगेगा
+कि
+उसने
+चावल
+किसे
+बेचे
+हैं
+.

@@ -1,186 +1,186 @@
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बटाला	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-सदर	JJ	TEMP	O	O	O	O
-बटाला	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-महिलाओं	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-की	VM	TEMP	O	O	B-STAT	O
-गई	VAUX	TEMP	O	O	I-STAT	O
-शिकायत	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लडके	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भांजे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिलवाने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-झांसा	NN	TEMP	B-MISC	O	B-MISC	OCC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-2	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ठगी	NN	TEMP	B-MISC	O	B-MISC	OCC
-मारने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+बटाला
+:
+थाना
+सदर
+बटाला
+की
+पुलिस
+ने
+दो
+महिलाओं
+द्वारा
+की
+गई
+शिकायत
+की
+जांच
+के
+बाद
+एक
+महिला
+के
+लडके
+एवं
+दूसरी
+महिला
+के
+भांजे
+को
+रेलवे
+में
+नौकरी
+दिलवाने
+का
+झांसा
+देकर
+2
+लाख
+रुपये
+की
+ठगी
+मारने
+के
+आरोप
+में
+एक
+व्यक्ति
+पर
+मामला
+दर्ज
+किया
+है
+.
 
-एएसआइ	XC	TEMP	O	O	O	O
-रजिन्द्र	XC	TEMP	O	O	O	O
-पाल	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-बलविन्द्र	XC	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-जागीर	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	VM	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-लखविन्द्र	XC	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-कुलवंत	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-दोनों	NN	TEMP	O	O	O	O
-वासी	XC	TEMP	O	O	O	O
-घसीटपुर	NNP	TEMP	O	O	O	O
-कलां	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-कुलवंत	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-पूर्ण	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	VM	TEMP	O	O	O	O
-वासी	XC	TEMP	O	O	O	O
-खूह	NN	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-गली	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सबल	NN	TEMP	O	O	O	O
-चौंक	VM	TEMP	O	O	O	O
-बटाला	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लडके	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भांजे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रेलवे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिलवाने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-झांसा	NN	TEMP	B-MISC	O	B-MISC	OCC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-दो	VAUX	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-थे	VM	TEMP	O	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-ना	NEG	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	O	O	B-MISC	OCC
-दिलवाई	VM	TEMP	B-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-ना	NEG	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लौटाए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एएसआइ
+रजिन्द्र
+पाल
+ने
+बताया
+कि
+बलविन्द्र
+कौर
+पत्नी
+जागीर
+¨
+सह
+एवं
+लखविन्द्र
+कौर
+पत्नी
+कुलवंत
+¨
+सह
+दोनों
+वासी
+घसीटपुर
+कलां
+ने
+पुलिस
+को
+शिकायत
+की
+थी
+कि
+कुलवंत
+¨
+सह
+पुत्र
+पूर्ण
+¨
+सह
+वासी
+खूह
+वाली
+गली
+¨
+सबल
+चौंक
+बटाला
+ने
+एक
+महिला
+के
+लडके
+एवं
+दूसरी
+महिला
+के
+भांजे
+को
+रेलवे
+में
+नौकरी
+दिलवाने
+का
+झांसा
+देकर
+दो
+लाख
+रुपये
+लिए
+थे
+और
+ना
+तो
+उन्हें
+नौकरी
+दिलवाई
+और
+ना
+ही
+उनके
+रुपये
+लौटाए
+जा
+रहे
+हैं
+.
 
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-एसआइ	XC	TEMP	O	O	O	O
-सुखपाल	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-इंचार्ज	XC	TEMP	O	O	O	O
-एंटी	XC	TEMP	O	O	O	O
-फ्राड	NN	TEMP	O	O	O	O
-स्टाफ	NN	TEMP	O	O	O	O
-बटाला	VM	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-एसपी	XC	TEMP	O	O	O	O
-मुख्यालय	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-इंवेस्टिगेशन	XC	TEMP	O	O	O	O
-बटाला	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-सदर	JJ	TEMP	O	O	O	O
-बटाला	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-भादंस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धारा	NN	TEMP	O	O	O	O
-420	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामले
+की
+जांच
+एसआइ
+सुखपाल
+¨
+सह
+इंचार्ज
+एंटी
+फ्राड
+स्टाफ
+बटाला
+एवं
+एसपी
+मुख्यालय
+पुलिस
+इंवेस्टिगेशन
+बटाला
+द्वारा
+जांच
+करने
+के
+बाद
+थाना
+सदर
+बटाला
+की
+पुलिस
+ने
+उक्त
+आरोपी
+के
+खिलाफ
+भादंस
+की
+धारा
+420
+के
+तहत
+मामला
+दर्ज
+कर
+लिया
+है
+.

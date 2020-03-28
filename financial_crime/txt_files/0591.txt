@@ -1,132 +1,132 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-फिरोजपुर	NNP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-सदर	JJ	TEMP	O	O	O	O
-जीरा	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-अस्सी	XC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-स्टांप	NN	TEMP	O	O	O	O
-ठगी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+फिरोजपुर
+थाना
+सदर
+जीरा
+पुलिस
+ने
+तीन
+लोगों
+के
+खिलाफ
+शिकायत
+के
+आधार
+अस्सी
+हजार
+रुपये
+के
+स्टांप
+ठगी
+का
+मुकदमा
+दर्ज
+किया
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	B-STAT	DESC
-गई	VAUX	TEMP	O	O	I-STAT	O
-शिकायत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अरकफवाला	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-आशा	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-गुरभेज	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-पिता	NN	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-गदर	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हस्ताक्षर	NN	TEMP	B-MISC	O	B-MISC	O
-करके	VM	TEMP	I-MISC	O	I-MISC	OCC
-व	CC	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-गदर	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जह	PRP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-फोटो	NN	TEMP	O	O	B-MISC	O
-करवा	VM	TEMP	B-MISC	O	I-MISC	OCC
-करके	VAUX	TEMP	I-MISC	O	I-MISC	O
-जो	PRP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-गदर	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अस्सी	XC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-स्टांप	NN	TEMP	O	O	O	O
-खरीद	NN	TEMP	B-MISC	O	B-MISC	OCC
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-उसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ठगी	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+को
+दी
+गई
+शिकायत
+में
+अरकफवाला
+निवासी
+आशा
+¨
+सह
+ने
+बताया
+कि
+गुरभेज
+¨
+सह
+ने
+अपने
+पिता
+जो
+¨
+गदर
+¨
+सह
+का
+हस्ताक्षर
+करके
+व
+जो
+¨
+गदर
+¨
+सह
+की
+जह
+अपनी
+फोटो
+करवा
+करके
+जो
+¨
+गदर
+¨
+सह
+के
+नाम
+पर
+अस्सी
+हजार
+रुपये
+के
+स्टांप
+खरीद
+करके
+उसके
+साथ
+ठगी
+की
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गुरभेज	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गुरमीत	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-गदर	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-लिया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+शिकायत
+के
+आधार
+पर
+गुरभेज
+,
+गुरमीत
+व
+जो
+¨
+गदर
+¨
+सह
+के
+खिलाफ
+मामला
+दर्ज
+कर
+लिया
+है
+.
 
-जांच	NN	TEMP	O	O	O	O
-अधिकारी	JJ	TEMP	O	O	O	O
-जुगराज	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गिरफ्तारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जांच
+अधिकारी
+जुगराज
+¨
+सह
+ने
+बताया
+कि
+अभी
+किसी
+की
+गिरफ्तारी
+नहीं
+हुई
+है
+.

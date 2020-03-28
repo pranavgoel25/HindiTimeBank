@@ -1,435 +1,435 @@
-﻿लखनऊ	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿लखनऊ
+(
+जेएनएन
+)
+.
 
-दीपावली	NN	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-शाम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-पहुंचने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जद्दोजेहद	NN	TEMP	O	O	O	O
-अंतिम	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-रही	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दीपावली
+पर
+शाम
+के
+समय
+तक
+अपने
+घर
+पहुंचने
+के
+लिए
+लोगों
+के
+जद्दोजेहद
+अंतिम
+समय
+तक
+जारी
+रही
+.
 
-इसका	PRP	TEMP	O	O	O	O
-विमान	NN	TEMP	O	O	O	O
-कंपनियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भरपूर	JJ	TEMP	O	O	O	O
-फायदा	NN	TEMP	B-MISC	O	B-MISC	OCC
-उठाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसका
+विमान
+कंपनियों
+ने
+भरपूर
+फायदा
+उठाया
+.
 
-व्यस्तम	JJ	TEMP	O	O	O	O
-रूट	XC	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-मुंबई	NNP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-इंदौर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-देहरादून	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-जयपुर	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विमानों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-एक-एक	JJ	TEMP	O	O	O	O
-सीट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	O
-लोग	NN	TEMP	O	O	O	O
-परेशान	JJ	TEMP	B-MISC	O	B-STAT	DECL
-हुए	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+व्यस्तम
+रूट
+दिल्ली
+और
+मुंबई
+ही
+नहीं
+इंदौर
+,
+देहरादून
+और
+जयपुर
+के
+विमानों
+में
+भी
+एक-एक
+सीट
+को
+लेकर
+लोग
+परेशान
+हुए
+.
 
-मुंबई	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लखनऊ	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-28,200	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिका	XC	TEMP	B-MISC	O	O	O
-.	SYM	TEMP	O	O	O	O
+मुंबई
+से
+लखनऊ
+का
+टिकट
+गुरुवार
+को
+28,200
+रुपये
+में
+बिका
+.
 
-जेट	XC	TEMP	O	O	O	O
-एयरवेज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-8.55	QC	TEMP	O	B	O	O
-बजे	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-विमान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-29,200	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-इंडिगो	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दोपहर	NN	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-बजे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उड़ान	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-16,155	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-गो	QC	TEMP	O	O	O	O
-एयर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दोपहर	NN	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-बजे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विमान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-15,699	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-रहा	VM	TEMP	O	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+जेट
+एयरवेज
+की
+रात
+8.55
+बजे
+के
+विमान
+का
+किराया
+29,200
+रुपये
+,
+इंडिगो
+की
+दोपहर
+3
+:
+20
+बजे
+की
+उड़ान
+का
+किराया
+16,155
+और
+गो
+एयर
+की
+दोपहर
+3
+:
+0
+5
+बजे
+के
+विमान
+का
+किराया
+15,699
+रुपये
+तक
+रहा
+.
 
-दिल्ली	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लखनऊ	NN	TEMP	O	O	B-MISC	O
-आने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-खासी	JJ	TEMP	O	O	O	O
-मांग	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिल्ली
+से
+लखनऊ
+आने
+के
+लिए
+भी
+खासी
+मांग
+रही
+.
 
-दिल्ली	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-उच्चतम	JJ	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रहा	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+दिल्ली
+का
+किराया
+अपने
+उच्चतम
+स्तर
+पर
+रहा
+.
 
-दिल्ली	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लखनऊ	NN	TEMP	O	O	O	O
-आने	VM	TEMP	O	O	B-STAT	O
-वालों	PSP	TEMP	O	O	I-STAT	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-एयर	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शाम	NN	TEMP	O	O	O	O
-6	QC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-बजे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विमान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-16,000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिल्ली
+से
+लखनऊ
+आने
+वालों
+के
+लिए
+एयर
+इंडिया
+की
+शाम
+6
+:
+40
+बजे
+के
+विमान
+का
+किराया
+16,000
+रुपये
+तक
+पहुंच
+गया
+.
 
-जेट	XC	TEMP	O	O	O	O
-एयरवेज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शाम	NN	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-बजे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उड़ान	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-13,600	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-55	QC	TEMP	O	B	O	O
-बजे	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-विमान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-11,877	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-रहा	VM	TEMP	O	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+जेट
+एयरवेज
+की
+शाम
+5
+:
+50
+बजे
+की
+उड़ान
+का
+किराया
+13,600
+और
+5
+:
+55
+बजे
+के
+विमान
+का
+किराया
+11,877
+रुपये
+तक
+रहा
+.
 
-इंदौर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लखनऊ	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जेट	NN	TEMP	O	O	O	O
-एयरवेज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-9	QC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-30	QC	TEMP	O	B	O	O
-बजे	NN	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-फ्लाइट	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-22,655	QC	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इंदौर
+से
+लखनऊ
+की
+जेट
+एयरवेज
+की
+रात
+9
+:
+30
+बजे
+की
+फ्लाइट
+का
+किराया
+22,655
+तक
+रहा
+.
 
-एयर	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शाम	NN	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-बजे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उड़ान	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-19,366	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-रहा	VM	TEMP	O	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+एयर
+इंडिया
+की
+शाम
+5
+:
+0
+बजे
+की
+उड़ान
+का
+किराया
+19,366
+रुपये
+तक
+रहा
+.
 
-देहरादून	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लखनऊ	NN	TEMP	O	O	O	O
-किराया	VM	TEMP	O	O	O	O
-जहां	PRP	TEMP	O	O	O	O
-2,500	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-3,000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-रहता	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-वह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बढ़	NNP	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देहरादून
+से
+लखनऊ
+किराया
+जहां
+2,500
+से
+3,000
+रुपये
+के
+बीच
+रहता
+था
+वह
+भी
+बढ़
+गया
+.
 
-एयर	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शाम	NN	TEMP	O	O	O	O
-7	QC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-बजे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विमान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-10,366	QC	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एयर
+इंडिया
+के
+शाम
+7
+:
+5
+बजे
+के
+विमान
+का
+टिकट
+10,366
+तक
+रहा
+.
 
-जबकि	CC	TEMP	O	O	O	O
-जेट	XC	TEMP	O	O	O	O
-एयरवेज	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शाम	NN	TEMP	O	O	O	O
-4	QC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-30	QC	TEMP	O	B	O	O
-बजे	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-विमान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-9161	QC	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+जेट
+एयरवेज
+के
+शाम
+4
+:
+30
+बजे
+के
+विमान
+का
+किराया
+9161
+तक
+पहुंच
+गया
+.
 
-पटना	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लखनऊ	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एयर	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	O	O	O
-8	QC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-55	QC	TEMP	O	B	O	O
-बजे	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-विमान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-13,000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-हो	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पटना
+से
+लखनऊ
+का
+एयर
+इंडिया
+की
+रात
+8
+:
+55
+बजे
+के
+विमान
+का
+किराया
+13,000
+रुपये
+तक
+हो
+गया
+.
 
-जयपुर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लखनऊ	NNP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जेट	NN	TEMP	O	O	O	O
-एयरवेज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दोपहर	NN	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-बजे	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-5,600	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिका	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जयपुर
+से
+लखनऊ
+तक
+का
+जेट
+एयरवेज
+की
+दोपहर
+3
+:
+50
+बजे
+का
+टिकट
+5,600
+रुपये
+में
+बिका
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-लाल	JJ	TEMP	O	O	O	O
-बत्ती	NN	TEMP	O	O	B-MISC	OCC
-तो	RP	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	B-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-रुतबा	NN	TEMP	O	O	B-MISC	O
-बचाने	VM	TEMP	B-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-नेम	XC	TEMP	O	O	O	O
-प्लेट	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सहारावापसी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	O
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-आसान	NN	TEMP	I-MISC	O	O	O
-:	SYM	TEMP	O	O	O	O
-दीपावली	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-लखनऊ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वापसी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-विमान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-बढ़ेगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+लाल
+बत्ती
+तो
+गई
+लेकिन
+अब
+रुतबा
+बचाने
+के
+लिए
+'
+नेम
+प्लेट
+'
+का
+सहारावापसी
+भी
+न
+होगी
+आसान
+:
+दीपावली
+के
+बाद
+लखनऊ
+से
+वापसी
+के
+लिए
+भी
+विमान
+का
+किराया
+मांग
+के
+अनुसार
+बढ़ेगा
+.
 
-लखनऊ	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-14,000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लखनऊ
+से
+दिल्ली
+का
+किराया
+14,000
+रुपये
+तक
+पहुंच
+गया
+है
+.
 
-जबकि	CC	TEMP	O	O	O	O
-मुंबई	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-19,000	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	B-MISC	O
-हो	VM	TEMP	B-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+मुंबई
+का
+किराया
+भी
+19,000
+हजार
+के
+करीब
+हो
+गया
+है
+.
 
-इसी	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-जयपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-देहरादून	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-इंदौर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-विमान	NN	TEMP	O	O	O	O
-किराया	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बढ़	NN	TEMP	B-MISC	O	B-MISC	O
-रहा	VM	TEMP	I-MISC	O	I-MISC	DECL
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+तरह
+जयपुर
+,
+देहरादून
+,
+इंदौर
+का
+विमान
+किराया
+भी
+बढ़
+रहा
+है
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	NN	TEMP	B-MISC	O	O	OCC
-:	SYM	TEMP	O	O	O	O
-आज	NN	TEMP	O	O	O	O
-लखनऊ	XC	TEMP	O	O	O	O
-मेट्रो	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रफ्तार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ब्रेक	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-चाइनीज	NN	TEMP	B-MISC	O	O	O
-मांझा	NN	TEMP	I-MISC	O	O	O
+यह
+भी
+पढ़ें
+:
+आज
+लखनऊ
+मेट्रो
+की
+रफ्तार
+पर
+ब्रेक
+लगा
+सकता
+है
+चाइनीज
+मांझा

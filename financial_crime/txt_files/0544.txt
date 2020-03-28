@@ -1,334 +1,334 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कुठौंद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-औरैया	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लौट	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-गल्ला	JJ	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लिफ्ट	NN	TEMP	B-MISC	O	B-MISC	O
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-कार	NN	TEMP	O	O	O	O
-सवारों	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-52	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लूटने	VM	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-प्रकाश	NN	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	I-MISC	O
-आया	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सूत्र
+,
+कुठौंद
+:
+औरैया
+से
+लौट
+रहे
+गल्ला
+व्यापारी
+को
+लिफ्ट
+देकर
+कार
+सवारों
+द्वारा
+52
+हजार
+रुपये
+लूटने
+का
+मामला
+प्रकाश
+में
+आया
+है
+.
 
-व्यापारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-सवारों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-लूट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिये	PSP	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+व्यापारी
+ने
+अज्ञात
+कार
+सवारों
+के
+विरुद्ध
+लूट
+की
+रिपोर्ट
+दर्ज
+कराने
+के
+लिये
+थाने
+में
+तहरीर
+दी
+है
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	O	OCC
-में	PSP	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-कहानी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	B-MISC	OCC
-आ	VM	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+जांच
+में
+दूसरी
+कहानी
+भी
+सामने
+आ
+रही
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-जुआ	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-हार	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+के
+अनुसार
+व्यापारी
+जुआ
+में
+रुपये
+हार
+गया
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गुमराह	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लूट	NN	TEMP	O	O	O	OCC
-की	PSP	TEMP	O	O	O	O
-झूठी	JJ	TEMP	O	O	O	O
-कहानी	NN	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-गढ़ी	XC	TEMP	O	O	O	O
-गई	VAUX	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-लिहाजा	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-मुकदमा	JJ	TEMP	O	O	O	O
-दर्ज	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+व
+परिवार
+वालों
+को
+गुमराह
+करने
+के
+लिए
+लूट
+की
+झूठी
+कहानी
+उसके
+द्वारा
+गढ़ी
+गई
+,
+लिहाजा
+अभी
+मुकदमा
+दर्ज
+नहीं
+किया
+गया
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-अधीक्षक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+अधीक्षक
+का
+कहना
+है
+कि
+जांच
+के
+बाद
+कार्रवाई
+की
+जाएगी
+.
 
-कुठौंद	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-गल्ला	JJ	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-बृजेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गल्ला	NN	TEMP	O	O	O	O
-बेचने	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिये	PSP	TEMP	O	O	O	O
-औरैया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुठौंद
+निवासी
+गल्ला
+व्यापारी
+बृजेश
+कुमार
+शुक्रवार
+को
+गल्ला
+बेचने
+के
+लिये
+औरैया
+गया
+था
+.
 
-उसके	PRP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-52	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-नौ	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-58	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-गल्ला	NN	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-औरैया	NN	TEMP	O	O	O	O
-मंडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बेचा	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+उसके
+मुताबिक
+52
+हजार
+नौ
+सौ
+58
+रुपये
+का
+गल्ला
+उसने
+औरैया
+मंडी
+में
+बेचा
+.
 
-गांव	NN	TEMP	O	O	O	O
-लौटने	VM	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-शाम	NN	TEMP	O	O	O	O
-साढ़े	NNP	TEMP	O	O	O	O
-सात	QC	TEMP	O	O	O	O
-बजे	VM	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-जालौन	NN	TEMP	O	O	O	O
-चौराहे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-इंतजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खडा	VM	TEMP	O	O	B-MISC	OCC
-था	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-इसी	PRP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-मारुति	NN	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-नजदीक	NN	TEMP	O	O	O	O
-आकर	VM	TEMP	B-MISC	O	O	O
-रुकी	VM	TEMP	I-MISC	O	B-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-सवारों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-कुठौंद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-जा	VAUX	TEMP	O	O	B-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गांव
+लौटने
+के
+लिए
+शाम
+साढ़े
+सात
+बजे
+वह
+जालौन
+चौराहे
+पर
+बस
+के
+इंतजार
+में
+खडा
+था
+,
+इसी
+बीच
+एक
+मारुति
+कार
+उसके
+नजदीक
+आकर
+रुकी
+,
+कार
+सवारों
+ने
+उससे
+कहा
+कि
+वे
+कुठौंद
+की
+तरफ
+ही
+जा
+रहे
+हैं
+.
 
-लिहाजा	NN	TEMP	B-MISC	O	O	O
-बिना	NEG	TEMP	I-MISC	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-डर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बैठ	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लिहाजा
+बिना
+किसी
+डर
+के
+वह
+कार
+में
+बैठ
+गया
+.
 
-परंतु	CC	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-दूर	NST	TEMP	O	O	O	O
-जाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-सवारों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-उससे	PRP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लूट	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-गाडी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उतार	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परंतु
+बाद
+में
+कुछ
+दूर
+जाने
+के
+बाद
+कार
+सवारों
+ने
+मारपीट
+कर
+उससे
+रुपये
+लूट
+लिए
+और
+उसे
+गाडी
+से
+उतार
+दिया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-पहुंचा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+किसी
+तरह
+वह
+घर
+पहुंचा
+.
 
-बृजेश	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शनिवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बृजेश
+ने
+शनिवार
+को
+मुकदमा
+दर्ज
+कराने
+के
+लिए
+थाने
+में
+तहरीर
+दी
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-छानबीन	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-कहानी	NN	TEMP	O	O	B-MISC	OCC
-सामने	NST	TEMP	O	O	I-MISC	O
-आयी	VM	TEMP	B-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+पुलिस
+ने
+छानबीन
+की
+तो
+मामले
+की
+दूसरी
+ही
+कहानी
+सामने
+आयी
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-अधीक्षक	JJ	TEMP	O	O	O	O
-अमरेंद्र	XC	TEMP	O	O	O	O
-प्रसाद	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-कुठौंद	JJ	TEMP	O	O	O	O
-थानाध्यक्ष	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-कराई	VM	TEMP	B-MISC	O	B-STAT	O
-गई	VAUX	TEMP	I-MISC	O	I-STAT	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	O
-में	PSP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-जुआ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रकम	NN	TEMP	B-MISC	O	O	O
-हार	VM	TEMP	I-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+अधीक्षक
+अमरेंद्र
+प्रसाद
+¨
+सह
+ने
+बताया
+कि
+कुठौंद
+थानाध्यक्ष
+द्वारा
+कराई
+गई
+जांच
+में
+पता
+चला
+है
+कि
+व्यापारी
+जुआ
+में
+रकम
+हार
+गया
+था
+.
 
-घर	NN	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हिसाब	NN	TEMP	O	O	B-MISC	OCC
-न	NEG	TEMP	B-MISC	O	I-MISC	O
-देना	VM	TEMP	I-MISC	O	I-MISC	O
-पडा	VAUX	TEMP	I-MISC	O	I-MISC	O
-इसलिए	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-लूट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कहानी	NN	TEMP	O	O	O	O
-गढ़	NN	TEMP	B-MISC	O	B-MISC	O
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घर
+वालों
+को
+रुपये
+का
+हिसाब
+न
+देना
+पडा
+इसलिए
+उसने
+लूट
+की
+कहानी
+गढ़
+दी
+.
 
-फिर	RB	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गंभीरता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेते	VM	TEMP	B-MISC	O	B-STAT	O
-हुए	VAUX	TEMP	I-MISC	O	I-STAT	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिर
+भी
+मामले
+को
+गंभीरता
+से
+लेते
+हुए
+कार्रवाई
+की
+जा
+रही
+है
+.

@@ -1,176 +1,176 @@
-﻿मुंगेर	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿मुंगेर
+.
 
-मालदा	XC	TEMP	O	O	O	O
-डिवीजन	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एडीआरएम	XC	TEMP	O	O	O	O
-बीके	XC	TEMP	O	O	O	O
-साहु	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एसीएम	XC	TEMP	O	O	O	O
-भागलपुर	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एसए	JJ	TEMP	O	O	O	O
-मीना	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जमालपुर	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-मुंगेर	JJ	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सघन	JJ	TEMP	O	O	O	O
-टिकट	NN	TEMP	B-MISC	O	O	O
-चे	PSP	TEMP	I-MISC	O	B-MISC	O
-¨	JJ	TEMP	I-MISC	O	I-MISC	O
-कग	NN	TEMP	I-MISC	O	I-MISC	O
-अभियान	NN	TEMP	I-MISC	O	I-MISC	O
-चलाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मालदा
+डिवीजन
+के
+एडीआरएम
+बीके
+साहु
+के
+निर्देश
+पर
+एसीएम
+भागलपुर
+के
+एसए
+मीना
+ने
+जमालपुर
+और
+मुंगेर
+स्टेशन
+पर
+सघन
+टिकट
+चे
+¨
+कग
+अभियान
+चलाया
+गया
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-बिना	NEG	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-यात्रा	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-रेल	XC	TEMP	O	O	O	O
-यात्री	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हडकंप	NN	TEMP	B-MISC	O	B-MISC	OCC
-मच	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+बिना
+टिकट
+के
+यात्रा
+कर
+रहे
+रेल
+यात्री
+में
+हडकंप
+मच
+गया
+.
 
-मुंगेर	JJ	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहली	QO	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	B-MISC	OCC
-चे	PSP	TEMP	O	O	I-MISC	O
-¨	JJ	TEMP	O	O	I-MISC	O
-कग	NN	TEMP	O	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-असर	NN	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-दिनों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तुलना	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मुंगेर
+स्टेशन
+पर
+पहली
+बार
+टिकट
+चे
+¨
+कग
+का
+यह
+असर
+रहा
+कि
+अन्य
+दिनों
+की
+तुलना
+में
+अधिक
+टिकट
+की
+बिक्री
+हुई
+.
 
-इस	DEM	TEMP	O	O	O	O
-बावत	NN	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-सीआइटी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आरके	XC	TEMP	O	O	O	O
-मंडल	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-टिकट	NN	TEMP	B-MISC	O	B-MISC	O
-चे	PSP	TEMP	I-MISC	O	I-MISC	O
-¨	XC	TEMP	I-MISC	O	I-MISC	O
-कग	XC	TEMP	I-MISC	O	I-MISC	O
-अभियान	NN	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-दर्जनों	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पकडा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
+इस
+बावत
+जानकारी
+देते
+हुए
+सीआइटी
+के
+आरके
+मंडल
+ने
+बताया
+टिकट
+चे
+¨
+कग
+अभियान
+में
+दर्जनों
+लोगों
+को
+पकडा
+गया
 
-जिससे	PRP	TEMP	O	O	O	O
-जुर्माने	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वसूली	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिससे
+जुर्माने
+की
+राशि
+के
+रूप
+में
+दस
+हजार
+से
+अधिक
+की
+वसूली
+की
+गई
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-टिकट	NN	TEMP	B-MISC	O	O	O
-चे	PSP	TEMP	I-MISC	O	B-MISC	O
-¨	XC	TEMP	I-MISC	O	I-MISC	O
-कग	XC	TEMP	I-MISC	O	I-MISC	O
-अभियान	NN	TEMP	I-MISC	O	I-MISC	O
-लगातार	RB	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-रहेगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+टिकट
+चे
+¨
+कग
+अभियान
+लगातार
+जारी
+रहेगा
+.
 
-इधर	XC	TEMP	O	O	O	O
+इधर
 
-मुंगेर	JJ	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-काउंटर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-जांच	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-असर	NN	TEMP	O	O	O	OCC
-यह	PRP	TEMP	O	O	O	O
-रहा	VM	TEMP	O	O	B-MISC	REP
-है	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-दिनों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जहां	PRP	TEMP	O	O	O	O
-1200	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-1300	QC	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-टिकट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कटाते	VM	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मुंगेर
+स्टेशन
+के
+टिकट
+काउंटर
+के
+कर्मचारी
+ने
+कहा
+कि
+टिकट
+जांच
+का
+असर
+यह
+रहा
+है
+कि
+अन्य
+दिनों
+में
+जहां
+1200
+से
+1300
+लोग
+ही
+टिकट
+कटाते
+थे
+.
 
-रविवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-बढ़	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-1800	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-पार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रविवार
+को
+टिकट
+की
+संख्या
+बढ़
+कर
+1800
+से
+दो
+हजार
+पार
+कर
+गई
+.

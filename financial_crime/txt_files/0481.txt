@@ -1,184 +1,184 @@
 
-अंबेडकरनगर	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-घाघरा	XC	TEMP	O	O	O	O
-ब्रिज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वाराणसी	JJ	TEMP	O	O	O	O
-मार्ग	NN	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-भूमि	NN	TEMP	O	O	O	O
-अधिग्रहण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-मजिस्ट्रेट	NN	TEMP	O	O	O	O
-न्यायालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दायर	NN	TEMP	O	O	O	O
-वाद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-डीएम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-फैसला	NN	TEMP	B-MISC	O	B-MISC	O
-सुनाया	VM	TEMP	I-MISC	O	I-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अंबेडकरनगर
+:
+घाघरा
+ब्रिज
+से
+वाराणसी
+मार्ग
+निर्माण
+को
+लेकर
+भूमि
+अधिग्रहण
+के
+मामले
+में
+जिला
+मजिस्ट्रेट
+न्यायालय
+में
+दायर
+वाद
+पर
+डीएम
+ने
+फैसला
+सुनाया
+है
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-नौ	QC	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रतिकर	NN	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+नौ
+किसानों
+को
+करीब
+तीन
+करोड
+रुपये
+का
+प्रतिकर
+भुगतान
+किया
+जाएगा
+.
 
-यूनियन	XC	TEMP	O	O	O	O
-ऑफ	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विपक्ष	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दायर	NN	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-वादों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सुनवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-डीएम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-सर्वजीत	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-47	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-34	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-477	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कन्हैयालाल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-23	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-37	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-वेद	XC	TEMP	O	O	O	O
-प्रकाश	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-89	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-241	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रामचरित्र	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-49	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-67	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-385	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रामसुंदर	XC	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-16	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-90	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बृज	XC	TEMP	O	O	O	O
-किशोर	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-27	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-47	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-722	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रमापति	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-24	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-924	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कलावती	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-66	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-42	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-रामबचन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-41	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-816	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-स्वीकृति	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यूनियन
+ऑफ
+इंडिया
+एवं
+अन्य
+के
+विपक्ष
+में
+दायर
+इन
+वादों
+की
+सुनवाई
+करते
+हुए
+डीएम
+ने
+किसान
+सर्वजीत
+को
+47
+लाख
+34
+हजार
+477
+रुपये
+,
+कन्हैयालाल
+को
+15
+लाख
+23
+हजार
+37
+रुपये
+,
+वेद
+प्रकाश
+को
+89
+लाख
+तीन
+हजार
+241
+रुपये
+,
+रामचरित्र
+को
+49
+लाख
+67
+हजार
+385
+रुपये
+,
+रामसुंदर
+को
+16
+लाख
+12
+हजार
+90
+रुपये
+,
+बृज
+किशोर
+आदि
+को
+27
+लाख
+47
+हजार
+722
+रुपये
+,
+रमापति
+को
+दो
+लाख
+24
+हजार
+924
+रुपये
+,
+कलावती
+को
+पांच
+लाख
+66
+हजार
+42
+रुपये
+तथा
+रामबचन
+को
+41
+लाख
+दो
+हजार
+816
+रुपये
+दिए
+जाने
+की
+स्वीकृति
+दी
+है
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अपर	PRP	TEMP	O	O	O	O
-जिलाधिकारी	JJ	TEMP	O	O	O	O
-वित्त	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-राजस्व	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-चुकी	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बताया
+गया
+कि
+अपर
+जिलाधिकारी
+वित्त
+एवं
+राजस्व
+को
+उक्त
+धनराशि
+प्राप्त
+हो
+चुकी
+है
+.
 
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-संबंधित	JJ	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-खाते	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जल्द
+ही
+संबंधित
+किसानों
+के
+बैंक
+खाते
+में
+इसे
+भेज
+दिया
+जाएगा
+.

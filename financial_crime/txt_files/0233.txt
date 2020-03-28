@@ -1,198 +1,198 @@
-हडप	NN	TEMP	B-MISC	O	O	O
-लिया	PSP	TEMP	I-MISC	O	O	O
-युवक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पासपोर्ट	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-डिडौली	NN	TEMP	O	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-सिनौरा	JJ	TEMP	O	O	O	O
-जलालाबाद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जोया	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-विदेश	NN	TEMP	O	O	O	O
-घूमने	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-उतावला	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हडप
+लिया
+युवक
+का
+पासपोर्ट
+और
+रुपये
+डिडौली
+कोतवाली
+क्षेत्र
+के
+ग्राम
+सिनौरा
+जलालाबाद
+की
+घटना
+संवाद
+सूत्र
+,
+जोया
+:
+विदेश
+घूमने
+के
+नाम
+पर
+हर
+कोई
+उतावला
+हो
+जाता
+है
+.
 
-इसी	DEM	TEMP	O	O	O	O
-उतावलेपन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-शरीफपुर	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-ठगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चंगुल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फंस	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+उतावलेपन
+को
+शरीफपुर
+गांव
+का
+व्यक्ति
+ठगों
+के
+चंगुल
+में
+फंस
+गया
+.
 
-ठगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	OCC
-सिर्फ	RB	TEMP	O	O	O	O
-35	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-हडपे	VM	TEMP	B-MISC	O	B-MISC	OCC
-बल्कि	CC	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-पासपोर्ट	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-उडन	NN	TEMP	B-MISC	O	O	O
-छू	VM	TEMP	I-MISC	O	B-MISC	OCC
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ठगों
+ने
+उससे
+न
+सिर्फ
+35
+हजार
+रुपये
+हडपे
+बल्कि
+उसका
+पासपोर्ट
+भी
+लेकर
+उडन
+छू
+हो
+गए
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	O	O	O	OCC
-डिडौली	NN	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-देकर	VM	TEMP	O	O	B-MISC	O
-नामजद	JJ	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+ने
+इसकी
+तहरीर
+डिडौली
+कोतवाली
+में
+देकर
+नामजद
+मुकदमा
+दर्ज
+कराया
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-छानबीन	NN	TEMP	B-MISC	O	O	OCC
-में	PSP	TEMP	O	O	O	O
-जुटी	VM	TEMP	B-MISC	O	B-STAT	DECL
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+छानबीन
+में
+जुटी
+है
+.
 
-डिडौली	NN	TEMP	O	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-सिनौरा	JJ	TEMP	O	O	O	O
-जलालाबाद	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-देशराज	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-विदेश	NN	TEMP	B-MISC	O	O	O
-घूमने	VM	TEMP	I-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-ललक	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डिडौली
+कोतवाली
+क्षेत्र
+के
+ग्राम
+सिनौरा
+जलालाबाद
+निवासी
+देशराज
+¨
+सह
+को
+विदेश
+घूमने
+की
+ललक
+हुई
+.
 
-उसने	PRP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-शरीफपुर	XC	TEMP	O	O	O	O
-मजरा	XC	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-जुनैद	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बातचीत	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	I-MISC	O	O	O
-.	SYM	TEMP	O	O	O	O
+उसने
+गांव
+के
+ही
+शरीफपुर
+मजरा
+निवासी
+जुनैद
+से
+इस
+बारे
+में
+बातचीत
+की
+.
 
-जुनैद	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-बातों-बातों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बहका	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जुनैद
+ने
+उसे
+बातों-बातों
+में
+बहका
+लिया
+.
 
-जुनैद	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-देशराज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पासपोर्ट	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-35	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मांगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जुनैद
+ने
+देशराज
+से
+पासपोर्ट
+और
+35
+हजार
+रुपये
+मांगे
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-देशराज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नकद	JJ	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-पासपोर्ट	NN	TEMP	O	O	B-MISC	OCC
-दे	VM	TEMP	B-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+पर
+देशराज
+ने
+नकद
+रुपया
+और
+पासपोर्ट
+दे
+दिया
+.
 
-मामला	NN	TEMP	B-MISC	O	O	OCC
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	O
-बना	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-देशराज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जुनैद	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-पासपोर्ट	NN	TEMP	O	O	B-MISC	O
-मांगा	VM	TEMP	B-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-जुनैद	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-से	PSP	TEMP	O	O	O	O
-मना	NEG	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामला
+नहीं
+बना
+तो
+देशराज
+ने
+जुनैद
+से
+रुपया
+और
+पासपोर्ट
+मांगा
+तो
+जुनैद
+ने
+देने
+से
+मना
+कर
+दिया
+.
 
-देशराज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-डिडौली	NN	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-जुनैद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देशराज
+ने
+डिडौली
+कोतवाली
+में
+तहरीर
+देकर
+जुनैद
+के
+खिलाफ
+धोखाधडी
+का
+मुकदमा
+दर्ज
+कराया
+है
+.

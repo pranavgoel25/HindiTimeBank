@@ -1,153 +1,153 @@
-﻿नुआंव	NN	TEMP	O	O	O	O
-कैमूर	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-पीएनबी	JJ	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-नुआंव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उच्चकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-खाताधारी	JJ	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ब्लेड	NN	TEMP	B-MISC	O	B-MISC	OCC
-मार	VM	TEMP	I-MISC	O	I-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-45	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रूपया	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-भागने	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-सफल	JJ	TEMP	B-MISC	O	B-STAT	DECL
-रहे	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+﻿नुआंव
+कैमूर
+:
+पीएनबी
+शाखा
+नुआंव
+में
+उच्चकों
+ने
+एक
+महिला
+खाताधारी
+महिला
+के
+बैग
+में
+ब्लेड
+मार
+कर
+45
+हजार
+रूपया
+लेकर
+भागने
+में
+सफल
+रहे
+.
 
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-छाता	NN	TEMP	O	O	O	O
-बराढी	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-उत्क्रमित	JJ	TEMP	O	O	O	O
-मध्य	JJ	TEMP	O	O	O	O
-बिद्यालय	NN	TEMP	O	O	O	O
-छाता	VM	TEMP	O	O	O	O
-बराढ़ी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एचएम	XC	TEMP	O	O	O	O
-सुनीता	XC	TEMP	O	O	O	O
-कुमारी	XC	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दोपहर	NN	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-45	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रूपया	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-निकासी	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-प्लास्टिक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-थैला	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रख	VM	TEMP	B-MISC	O	B-MISC	OCC
-जैसे	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-काउंटर	NN	TEMP	O	O	O	O
-छोडी	VM	TEMP	B-MISC	O	O	O
-उच्चकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ब्लेड	NN	TEMP	B-MISC	O	B-MISC	OCC
-मार	VM	TEMP	I-MISC	O	I-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-राशि	NN	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	OCC
-गए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जानकारी
+के
+मुताबिक
+थाना
+क्षेत्र
+के
+छाता
+बराढी
+गांव
+निवासी
+उत्क्रमित
+मध्य
+बिद्यालय
+छाता
+बराढ़ी
+की
+एचएम
+सुनीता
+कुमारी
+सोमवार
+की
+दोपहर
+शाखा
+से
+45
+हजार
+5
+सौ
+रूपया
+की
+राशि
+निकासी
+कर
+प्लास्टिक
+के
+थैला
+में
+रख
+जैसे
+ही
+काउंटर
+छोडी
+उच्चकों
+ने
+ब्लेड
+मार
+कर
+राशि
+ले
+कर
+भाग
+गए
+.
 
-जैसे	PRP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-एचएम	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-शाखा	NN	TEMP	O	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-शोर	NN	TEMP	B-MISC	O	B-MISC	O
-मचाना	VM	TEMP	I-MISC	O	I-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जैसे
+ही
+एचएम
+को
+जानकारी
+हुई
+शाखा
+में
+ही
+शोर
+मचाना
+शुरू
+किया
+.
 
-शाखा	NN	TEMP	O	O	O	O
-प्रबंधक	JJ	TEMP	O	O	O	O
-चंद्र	XC	TEMP	O	O	O	O
-प्रकाश	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-सीसीटीवी	JJ	TEMP	O	O	O	O
-कैमरा	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-फुटेज	NN	TEMP	O	O	O	O
-देखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शाखा
+प्रबंधक
+चंद्र
+प्रकाश
+ने
+बताया
+कि
+सीसीटीवी
+कैमरा
+का
+फुटेज
+देखा
+गया
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-घटनाक्रम	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-²श्य	NN	TEMP	O	O	O	O
-कहीं	PRP	TEMP	O	O	O	O
-दिखाई	VM	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-पड	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+घटनाक्रम
+का
+²श्य
+कहीं
+दिखाई
+नहीं
+पड
+रहा
+है
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-एसआई	NN	TEMP	O	O	O	O
-मनोज	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-एचएम	XC	TEMP	O	O	O	O
-थाना	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-प्राथमिकी	JJ	TEMP	B-MISC	O	O	O
-दर्ज	NN	TEMP	I-MISC	O	B-MISC	O
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-हेतु	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	O	O
-लिख	VM	TEMP	I-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+एसआई
+मनोज
+कुमार
+ने
+बताया
+कि
+एचएम
+थाना
+पर
+प्राथमिकी
+दर्ज
+कराने
+हेतु
+आवेदन
+लिख
+रही
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+अपनी
+कार्रवाई
+शुरू
+कर
+दी
+है
+.

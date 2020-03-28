@@ -1,311 +1,311 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हाथरस	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-चाइनीज	NN	TEMP	O	O	O	O
-दीपक	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-झालर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-विरोध	NN	TEMP	B-MISC	O	O	O
-दर्ज	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-व	CC	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-परंपरागत	JJ	TEMP	O	O	O	O
-दीपोत्सव	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मिट्टी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दीपक	NN	TEMP	O	O	O	O
-जलाने	VM	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रथा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बढ़ावा	NN	TEMP	B-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-समन्वय	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-भाजपा	NN	TEMP	O	O	O	O
-अनुसूचित	JJ	TEMP	O	O	O	O
-मोर्चा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-महामंत्री	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-स्टाल	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाकर	VM	TEMP	I-MISC	O	I-MISC	O
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-दीपक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿संवाद
+सहयोगी
+,
+हाथरस
+:
+चाइनीज
+दीपक
+,
+झालर
+की
+बिक्री
+का
+विरोध
+दर्ज
+कराने
+व
+अपने
+परंपरागत
+दीपोत्सव
+पर
+मिट्टी
+के
+दीपक
+जलाने
+की
+प्रथा
+को
+बढ़ावा
+देने
+के
+लिए
+जिला
+विकास
+समन्वय
+व
+विकास
+समिति
+के
+सदस्य
+व
+भाजपा
+अनुसूचित
+मोर्चा
+के
+जिला
+महामंत्री
+द्वारा
+स्टाल
+लगाकर
+एक
+रुपये
+में
+15
+दीपक
+की
+बिक्री
+की
+.
 
-इससे	PRP	TEMP	O	O	O	O
-जुटाए	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-फंड	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-शहीद	XC	TEMP	O	O	O	O
-कोष	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+जुटाए
+गए
+फंड
+को
+शहीद
+कोष
+में
+जमा
+किया
+जाएगा
+.
 
-पहली	QC	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-साडी	JJ	TEMP	O	O	O	O
-गिफ्ट	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पहली
+खरीद
+पर
+एक
+महिला
+को
+साडी
+गिफ्ट
+की
+गई
+.
 
-बागला	NNP	TEMP	O	O	O	O
-मार्ग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-शनिवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	B	O	O
-11	QC	TEMP	O	B	O	O
-बजे	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-दीपक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	B-MISC	O	O	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बागला
+मार्ग
+पर
+शनिवार
+को
+सुबह
+11
+बजे
+से
+दीपक
+की
+बिक्री
+शुरू
+हुई
+.
 
-स्टाल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-उद्घाटन	NN	TEMP	O	O	O	O
-भाजपा	JJ	TEMP	O	O	O	O
-नेता	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-गौ	QC	TEMP	O	O	O	O
-सेवा	NN	TEMP	O	O	O	O
-रक्षक	JJ	TEMP	O	O	O	O
-आशीष	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किया	VM	TEMP	B-MISC	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+स्टाल
+का
+उद्घाटन
+भाजपा
+नेता
+व
+गौ
+सेवा
+रक्षक
+आशीष
+शर्मा
+ने
+किया
+.
 
-दीपक	NN	TEMP	B-MISC	O	B-MISC	O
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पुरुषों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लाइन	NN	TEMP	B-MISC	O	B-MISC	O
-लग	VM	TEMP	I-MISC	O	I-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दीपक
+लेने
+के
+लिए
+सुबह
+से
+ही
+महिला
+,
+पुरुषों
+की
+लाइन
+लग
+गई
+.
 
-लाइन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-लगी	VM	TEMP	O	O	O	OCC
-महिला	NN	TEMP	O	O	O	O
-रमपनुपर	PSP	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-राधा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दीपक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-साडी	NN	TEMP	O	O	O	O
-गिफ्ट	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लाइन
+में
+सबसे
+आगे
+लगी
+महिला
+रमपनुपर
+निवासी
+राधा
+को
+दीपक
+के
+साथ
+साडी
+गिफ्ट
+की
+गई
+.
 
-देखते	VM	TEMP	B-MISC	O	O	O
-ही	RP	TEMP	I-MISC	O	O	O
-देखते	VM	TEMP	I-MISC	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-दीपक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+देखते
+ही
+देखते
+कुछ
+ही
+समय
+में
+15
+हजार
+दीपक
+की
+खरीद
+लोगों
+ने
+की
+.
 
-सभी	QF	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कागज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खोखों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दीपक	NN	TEMP	O	O	O	O
-रखकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	B-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निवेदन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-दीपावली	NN	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-दीपक	XC	TEMP	O	O	O	O
-शहीद	XC	TEMP	O	O	O	O
-सैनिकों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-अवश्य	JJ	TEMP	O	O	O	O
-जलाएं	NN	TEMP	B-MISC	O	O	O
-.	SYM	TEMP	O	O	O	O
+सभी
+को
+कागज
+के
+खोखों
+में
+दीपक
+रखकर
+दिए
+और
+सभी
+से
+निवेदन
+किया
+कि
+दीपावली
+पर
+एक
+दीपक
+शहीद
+सैनिकों
+के
+नाम
+अवश्य
+जलाएं
+.
 
-नागरिकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-अभियान	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-भूरि-भूरि	NN	TEMP	O	O	O	O
-प्रशंसा	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नागरिकों
+ने
+इस
+अभियान
+की
+भूरि-भूरि
+प्रशंसा
+की
+.
 
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चीन	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-झालर	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पटाखों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	O
-चलाने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-संकल्प	NN	TEMP	B-MISC	O	B-MISC	O
-दिलाया	VM	TEMP	I-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लोगों
+ने
+चीन
+की
+झालर
+व
+पटाखों
+को
+न
+चलाने
+का
+संकल्प
+दिलाया
+गया
+.
 
-ज्यादा	QF	TEMP	O	O	O	O
-भीड	NN	TEMP	O	O	O	OCC
-एकत्रित	JJ	TEMP	B-MISC	O	O	O
-होने	VM	TEMP	I-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बागला	JJ	TEMP	O	O	O	O
-मार्केट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दुकानदारों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सहयोग	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ज्यादा
+भीड
+एकत्रित
+होने
+पर
+बागला
+मार्केट
+के
+दुकानदारों
+ने
+सहयोग
+किया
+.
 
-विनोद	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-दीपक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-फंड	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-शहीद	XC	TEMP	O	O	O	O
-कोष	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विनोद
+चौधरी
+ने
+कहा
+कि
+दीपक
+की
+बिक्री
+के
+फंड
+को
+शहीद
+कोष
+में
+जमा
+किया
+जाएगा
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-कार्यवाह	NN	TEMP	O	O	O	O
-रामहरी	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रवल	JJ	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नंद	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-निमेष	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-निजामुद्दीन	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जय	RDP	TEMP	O	O	O	O
-सौरभ	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सूरज	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विनय	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-सेंगर	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कृष्ण	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अंकित	JJ	TEMP	O	O	O	O
-अग्रवाल	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अजय	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अजय	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राजा	XC	TEMP	O	O	O	O
-माहौर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सहयोग	NN	TEMP	B-MISC	O	B-MISC	O
-रहा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+जिला
+सह
+कार्यवाह
+रामहरी
+,
+प्रवल
+कुमार
+,
+नंद
+कुमार
+निमेष
+,
+निजामुद्दीन
+,
+जय
+सौरभ
+,
+सूरज
+कुमार
+,
+विनय
+कुमार
+सेंगर
+,
+कृष्ण
+कुमार
+,
+अंकित
+अग्रवाल
+,
+अजय
+चौधरी
+,
+अजय
+कुमार
+,
+राजा
+माहौर
+का
+सहयोग
+रहा
+.
 
-अंतिम	JJ	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लेबर	XC	TEMP	O	O	O	O
-कॉलोनी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गीता	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-साडी	NN	TEMP	O	O	B-MISC	OCC
-दी	VM	TEMP	B-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अंतिम
+खरीद
+पर
+भी
+लेबर
+कॉलोनी
+की
+गीता
+को
+साडी
+दी
+गई
+.

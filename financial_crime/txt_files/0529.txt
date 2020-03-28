@@ -1,210 +1,210 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हाथरस	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सादाबाद	JJ	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवती	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-पार	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-शातिर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-निकालने	VM	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-स्थानीय	JJ	TEMP	O	O	O	O
-एक	XC	TEMP	O	O	O	O
-पेट्रोल	NNP	TEMP	O	O	O	O
-पम्प	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पेट्रोल	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-भरवाया	VM	TEMP	B-MISC	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+संवाद
+सूत्र
+,
+हाथरस
+:
+सादाबाद
+में
+एक
+युवती
+का
+एटीएम
+कार्ड
+पार
+करने
+के
+बाद
+किसी
+शातिर
+ने
+कार्ड
+से
+पैसे
+निकालने
+के
+अलावा
+स्थानीय
+एक
+पेट्रोल
+पम्प
+से
+बाइक
+में
+पेट्रोल
+भी
+भरवाया
+.
 
-घटना	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पीडिता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घटना
+की
+जानकारी
+पर
+पीडिता
+ने
+कोतवाली
+में
+शिकायत
+की
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-सीसीटीवी	JJ	TEMP	O	O	O	O
-फुटेज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-शातिर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तलाशने	VM	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-जुट	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+सीसीटीवी
+फुटेज
+की
+सहायता
+से
+शातिर
+को
+तलाशने
+में
+जुट
+गई
+है
+.
 
-ज्योति	XC	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-शिवकेन्द्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-सैनपुर	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-देते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-अगस्त	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-गुम	VM	TEMP	B-MISC	O	B-MISC	OCC
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ज्योति
+पुत्री
+शिवकेन्द्र
+कुमार
+निवासी
+सैनपुर
+ने
+तहरीर
+देते
+हुए
+बताया
+है
+कि
+20
+अगस्त
+को
+उसका
+एटीएम
+कार्ड
+गुम
+हो
+गया
+था
+.
 
-उस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-खोने	VM	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गौर	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उस
+दौरान
+एटीएम
+कार्ड
+खोने
+की
+बात
+पर
+गौर
+नहीं
+किया
+गया
+.
 
-रविवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-पुन	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रविवार
+को
+पुन
+:
+कार्ड
+की
+तलाश
+की
+गई
+लेकिन
+कार्ड
+नहीं
+मिला
+.
 
-इसलिए	CC	TEMP	O	O	O	O
-ज्योति	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ब्लॉक	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-एसबीआई	NN	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-पहुंची	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-अगस्त	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-18,600	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकल	VM	TEMP	O	O	B-MISC	OCC
-चुके	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसलिए
+ज्योति
+कार्ड
+को
+ब्लॉक
+कराने
+के
+लिए
+एसबीआई
+शाखा
+पहुंची
+तो
+वहां
+जानकारी
+हुई
+कि
+एटीएम
+कार्ड
+से
+20
+अगस्त
+को
+ही
+दो
+बार
+में
+18,600
+रुपये
+निकल
+चुके
+हैं
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पेट्रोल	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-भरवाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-सादाबाद	JJ	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पंप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-लिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+से
+100
+रुपये
+का
+पेट्रोल
+भी
+भरवाया
+गया
+है
+,
+जो
+कि
+सादाबाद
+की
+पंप
+से
+ही
+लिया
+गया
+था
+.
 
-अब	PRP	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+कार्ड
+को
+बंद
+किया
+जा
+चुका
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-शातिर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पकडने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	B-MISC	OCC
-ले	VM	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+शातिर
+को
+पकडने
+के
+लिए
+बैंक
+की
+मदद
+ले
+रही
+है
+.
 
-ट्रांजेक्शन	NN	TEMP	O	O	O	O
-संबंधी	JJ	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-फुटेज	NN	TEMP	O	O	O	O
-जुटाई	VM	TEMP	O	O	B-MISC	OCC
-जा	VAUX	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ट्रांजेक्शन
+संबंधी
+जानकारी
+व
+फुटेज
+जुटाई
+जा
+रही
+हैं
+.

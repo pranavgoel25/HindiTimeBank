@@ -1,264 +1,264 @@
-﻿लखनऊ	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿लखनऊ
+(
+जेएनएन
+)
+.
 
-लखनऊ	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोहनलालगंज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गोपालखेड़ा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-कूदकर	VM	TEMP	B-MISC	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लखनऊ
+के
+मोहनलालगंज
+के
+गोपालखेड़ा
+में
+सोमवार
+को
+एक
+युवक
+ने
+ट्रेन
+के
+आगे
+कूदकर
+जान
+दे
+दी
+.
 
-युवक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सुसाइड	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+युवक
+के
+पास
+से
+सुसाइड
+नोट
+बरामद
+किया
+गया
+है
+.
 
-नोट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-प्यार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-झांसा	NN	TEMP	B-MISC	O	B-MISC	OCC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-पांच	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-हड़पने	VM	TEMP	B-MISC	O	B-MISC	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नोट
+में
+युवक
+ने
+एक
+महिला
+पर
+प्यार
+का
+झांसा
+देकर
+पांच
+लाख
+रुपये
+हड़पने
+का
+आरोप
+लगाया
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+मामले
+की
+जांच
+कर
+रही
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-डलौना	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-छेदालाल	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बेटा	NN	TEMP	O	O	O	O
-दिलीप	XC	TEMP	O	O	O	O
-साहू	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-26	QC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-मोहनलालगंज	NNP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-पेंट	NN	TEMP	O	O	O	O
-फैक्ट्री	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	B-MISC	OCC
-करता	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+के
+मुताबिक
+डलौना
+निवासी
+छेदालाल
+का
+बेटा
+दिलीप
+साहू
+(
+26
+)
+मोहनलालगंज
+स्थित
+एक
+पेंट
+फैक्ट्री
+में
+काम
+करता
+था
+.
 
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-दिलीप	XC	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फैक्ट्री	NN	TEMP	O	O	B-MISC	OCC
-जाने	VM	TEMP	B-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-कहकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-निकला	VAUX	TEMP	B-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सोमवार
+को
+दिलीप
+घर
+से
+फैक्ट्री
+जाने
+की
+बात
+कहकर
+निकला
+था
+.
 
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घरवालों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-दिलीप	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आत्महत्या	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाद
+में
+घरवालों
+को
+सूचना
+मिली
+कि
+दिलीप
+ने
+आत्महत्या
+कर
+ली
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-छानबीन	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-तो	RP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-शव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सुसाइड	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-मिला	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+छानबीन
+की
+तो
+उन्हें
+शव
+के
+पास
+से
+सुसाइड
+नोट
+मिला
+.
 
-नोट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दिलीप	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रिश्तेदार	NN	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-मौत	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जिम्मेदार	JJ	TEMP	B-MISC	O	B-MISC	O
-ठहराया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नोट
+में
+दिलीप
+ने
+एक
+रिश्तेदार
+महिला
+को
+अपनी
+मौत
+का
+जिम्मेदार
+ठहराया
+है
+.
 
-उसने	PRP	TEMP	O	O	O	O
-लिखा	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-वर्षों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्यार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नाटक	NN	TEMP	B-MISC	O	B-MISC	OCC
-करती	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-झांसा	NN	TEMP	B-MISC	O	B-MISC	OCC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-उससे	PRP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+लिखा
+है
+कि
+वह
+उक्त
+महिला
+कई
+वर्षों
+से
+प्यार
+का
+नाटक
+करती
+रही
+और
+शादी
+का
+झांसा
+देकर
+उससे
+पांच
+लाख
+रुपये
+ले
+लिए
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	B-MISC	O	O	O
-:	SYM	TEMP	O	O	O	O
-मुरादाबाद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-अनोखे	JJ	TEMP	O	O	O	O
-तरीके	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किया	VM	TEMP	O	O	B-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-शहीदों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-याद	NN	TEMP	O	O	O	O
-जब	NN	TEMP	O	O	O	O
-मैंने	PRP	TEMP	O	O	O	O
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-मना	NEG	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिससे	PRP	TEMP	O	O	O	O
-आहत	NN	TEMP	B-MISC	O	B-MISC	O
-होकर	VM	TEMP	I-MISC	O	I-MISC	O
-मैं	PRP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-हूं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+मुरादाबाद
+में
+इस
+अनोखे
+तरीके
+से
+किया
+गया
+शहीदों
+को
+याद
+जब
+मैंने
+शादी
+के
+लिए
+कहा
+तो
+उसने
+मना
+कर
+दिया
+,
+जिससे
+आहत
+होकर
+मैं
+अपनी
+जान
+दे
+रहा
+हूं
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-बिंदुओं	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+का
+कहना
+है
+कि
+विभिन्न
+बिंदुओं
+पर
+मामले
+की
+जांच
+की
+जा
+रही
+है
+.
 
-पोस्टमार्टम	NN	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-मिलने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-आगे	NST	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पोस्टमार्टम
+रिपोर्ट
+मिलने
+के
+बाद
+आगे
+की
+कार्रवाई
+की
+जाएगी
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	B-MISC	O	O	O
-:	SYM	TEMP	O	O	O	O
-आरुषि	XC	TEMP	O	O	O	O
-तलवार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माता	XC	TEMP	O	O	O	O
-पिता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दान	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	I-MISC	O	O	O
-जेल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-सारी	QF	TEMP	O	O	O	O
-कमाई	NN	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+आरुषि
+तलवार
+के
+माता
+पिता
+ने
+दान
+की
+जेल
+की
+अपनी
+सारी
+कमाई

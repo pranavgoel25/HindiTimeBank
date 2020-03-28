@@ -1,135 +1,135 @@
 
-हाथरस	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सिलाई	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	B-STAT	O
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-एक	QC	TEMP	O	O	O	O
-कारीगर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अचेत	JJ	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-शातिर	JJ	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	B-MISC	O
-ले	VM	TEMP	I-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हाथरस
+:
+दिल्ली
+में
+सिलाई
+का
+काम
+करने
+वाले
+एक
+कारीगर
+को
+अचेत
+कर
+शातिर
+रुपये
+व
+मोबाइल
+लूट
+ले
+गए
+.
 
-दिल्ली	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-लौटते	VM	TEMP	O	O	O	O
-वक्त	NN	TEMP	O	O	O	O
-देर	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-हाथरस	XC	TEMP	O	O	O	O
-जंक्शन	XC	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-रुक	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिल्ली
+से
+अपने
+गांव
+लौटते
+वक्त
+देर
+हो
+जाने
+के
+कारण
+वह
+हाथरस
+जंक्शन
+रेलवे
+स्टेशन
+पर
+ही
+रुक
+गया
+था
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बातों	NN	TEMP	O	O	B-MISC	OCC
-में	PSP	TEMP	O	O	I-MISC	O
-लेकर	VM	TEMP	B-MISC	O	I-MISC	O
-उसे	PRP	TEMP	O	O	O	O
-नशीला	JJ	TEMP	O	O	O	O
-पदार्थ	NN	TEMP	O	O	O	O
-खिला	VM	TEMP	O	O	B-MISC	OCC
-दिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+किसी
+व्यक्ति
+ने
+बातों
+में
+लेकर
+उसे
+नशीला
+पदार्थ
+खिला
+दिया
+.
 
-सुबह	RDP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-बेहोशी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अवस्था	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पडा	NN	TEMP	O	O	B-MISC	OCC
-मिला	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुबह
+युवक
+बेहोशी
+की
+अवस्था
+में
+पडा
+मिला
+.
 
-रेलवे	XC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भर्ती	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रेलवे
+पुलिस
+ने
+उसे
+जिला
+अस्पताल
+में
+भर्ती
+कराया
+.
 
-होश	NN	TEMP	B-MISC	O	B-MISC	O
-आने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-बिहारीलाल	NNP	TEMP	O	O	O	O
-उर्फ	XC	TEMP	O	O	O	O
-राजू	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-लीलाधर	XC	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-मान	XC	TEMP	O	O	O	O
-महौ	NNP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-हाथरस	XC	TEMP	O	O	O	O
-जंक्शन	NN	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-तथा	CC	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+होश
+आने
+पर
+युवक
+ने
+अपना
+नाम
+बिहारीलाल
+उर्फ
+राजू
+पुत्र
+लीलाधर
+निवासी
+गांव
+मान
+महौ
+थाना
+हाथरस
+जंक्शन
+बताया
+तथा
+पूरी
+घटना
+की
+जानकारी
+दी
+.
 
-उसके	PRP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-शातिर	JJ	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-पार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+अनुसार
+शातिर
+उसके
+पास
+रखे
+15
+हजार
+रुपये
+व
+मोबाइल
+पार
+कर
+ले
+गया
+.
 
-घायल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-उपचार	NN	TEMP	B-MISC	O	B-MISC	OCC
-चल	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घायल
+का
+अभी
+उपचार
+चल
+रहा
+है
+.

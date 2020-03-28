@@ -1,82 +1,82 @@
 
-जामताडा	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-चित्तरंजन	JJ	TEMP	O	O	O	O
-रेलइंजन	NN	TEMP	O	O	O	O
-कारखाना	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-चिरेका	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भारत	XC	TEMP	O	O	O	O
-स्काउट	NNP	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-गाइड्स	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-स्वयं	PRP	TEMP	O	O	O	O
-सेवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पश्चिम	JJ	TEMP	O	O	O	O
-बंगाल	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बालूरगाहट	NN	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आई	VM	TEMP	O	O	O	O
-बाढ़	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रभावित	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	B-MISC	O
-करने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-राहत	XC	TEMP	O	O	O	O
-सामग्री	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-दान	NN	TEMP	O	O	O	O
-एकत्र	JJ	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जामताडा
+:
+चित्तरंजन
+रेलइंजन
+कारखाना
+(
+चिरेका
+)
+में
+भारत
+स्काउट
+एवं
+गाइड्स
+के
+स्वयं
+सेवकों
+ने
+पश्चिम
+बंगाल
+के
+बालूरगाहट
+जिले
+में
+आई
+बाढ़
+से
+प्रभावित
+लोगों
+की
+मदद
+व
+सहायता
+करने
+के
+लिए
+राहत
+सामग्री
+व
+दान
+एकत्र
+किया
+.
 
-राहत	XC	TEMP	O	O	O	O
-सामग्री	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-दान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	O	O	O	O
-तकरीबन	NN	TEMP	O	O	O	O
-66,000	QC	TEMP	O	O	O	O
-रुपयों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-राशि	XC	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-स्काउट	XC	TEMP	O	O	O	O
-एंड	XC	TEMP	O	O	O	O
-गाइड्स	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संयुक्त	JJ	TEMP	O	O	O	O
-सचिव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-भेजी	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+राहत
+सामग्री
+एवं
+दान
+में
+प्राप्त
+तकरीबन
+66,000
+रुपयों
+की
+सहायता
+राशि
+भारत
+स्काउट
+एंड
+गाइड्स
+के
+संयुक्त
+सचिव
+के
+जरिए
+भेजी
+गई
+.
 
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-स्काउट	XC	TEMP	O	O	O	O
-एडं	XC	TEMP	O	O	O	O
-गाइड्स	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चितरंजन	NN	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-उपस्थित	JJ	TEMP	B-MISC	O	B-STAT	DEC
-थे	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+मौके
+पर
+स्काउट
+एडं
+गाइड्स
+के
+चितरंजन
+शाखा
+के
+सदस्य
+उपस्थित
+थे
+.

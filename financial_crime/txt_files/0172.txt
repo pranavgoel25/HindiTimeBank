@@ -1,331 +1,331 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-अलीगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-धर्मसमाज	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-डीएस	XC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-डिग्री	NN	TEMP	O	O	O	O
-कॉलेज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बास्केटबॉल	NN	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लागत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मूवेबल	JJ	TEMP	O	O	O	O
-बास्केटबॉल	NN	TEMP	O	O	O	O
-पोल	NNP	TEMP	O	O	O	O
-लगवाए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अलीगढ़
+:
+धर्मसमाज
+(
+डीएस
+)
+डिग्री
+कॉलेज
+के
+बास्केटबॉल
+कोर्ट
+में
+चार
+लाख
+रुपये
+की
+लागत
+के
+मूवेबल
+बास्केटबॉल
+पोल
+लगवाए
+जाएंगे
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लागत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-बास्केटबॉल	NN	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-तैयार	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+लगभग
+10
+लाख
+रुपये
+की
+लागत
+से
+नया
+बास्केटबॉल
+कोर्ट
+भी
+तैयार
+किया
+जाएगा
+.
 
-यह	DEM	TEMP	O	O	O	O
-मूवेबल	XC	TEMP	O	O	O	O
-पोल	NNP	TEMP	O	O	O	O
-प्रतियोगिता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-जगह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हटाए	VM	TEMP	B-MISC	O	B-MISC	OCC
-व	CC	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लगाए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+मूवेबल
+पोल
+प्रतियोगिता
+के
+बाद
+अपनी
+जगह
+से
+हटाए
+व
+फिर
+से
+लगाए
+जा
+सकते
+हैं
+.
 
-अंतरराष्ट्रीय	JJ	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रतियोगिताओं	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-यही	DEM	TEMP	O	O	O	O
-पोल	NN	TEMP	O	O	B-MISC	O
-लगाए	VM	TEMP	B-MISC	O	I-MISC	OCC
-जाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अंतरराष्ट्रीय
+स्तर
+की
+प्रतियोगिताओं
+में
+यही
+पोल
+लगाए
+जाते
+हैं
+.
 
-कॉलेज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-क्रीडा	NN	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-अजय	XC	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दावा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-ऐसे	PRP	TEMP	O	O	O	O
-पोल	NN	TEMP	O	O	O	O
-लगवाने	VM	TEMP	O	O	O	O
-वाला	PSP	TEMP	O	O	O	O
-डीएस	XC	TEMP	O	O	O	O
-कॉलेज	XC	TEMP	O	O	O	O
-जिले	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पहला	QO	TEMP	O	O	O	O
-कॉलेज	NN	TEMP	O	O	B-MISC	O
-होगा	VM	TEMP	O	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+कॉलेज
+के
+क्रीडा
+प्रभारी
+अजय
+कुमार
+सिंह
+ने
+दावा
+किया
+कि
+ऐसे
+पोल
+लगवाने
+वाला
+डीएस
+कॉलेज
+जिले
+का
+पहला
+कॉलेज
+होगा
+.
 
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-एएमयू	NN	TEMP	O	O	O	O
-जैसे	PSP	TEMP	O	O	O	O
-संस्थान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मूवेबल	JJ	TEMP	O	O	O	O
-बास्केटबाल	NN	TEMP	O	O	O	O
-पोल	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-लगाए	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कहा
+कि
+अभी
+एएमयू
+जैसे
+संस्थान
+में
+भी
+मूवेबल
+बास्केटबाल
+पोल
+नहीं
+लगाए
+गए
+हैं
+.
 
-वहां	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पोल	NNP	TEMP	O	O	B-MISC	O
-गाडे	VM	TEMP	B-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहां
+भी
+जमीन
+में
+पोल
+गाडे
+गए
+हैं
+.
 
-20	QC	TEMP	O	O	O	O
-गुणा	NN	TEMP	O	O	O	O
-35	QC	TEMP	O	O	O	O
-मीटर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बनेगा	VM	TEMP	B-MISC	O	B-MISC	O
-फर्श	NN	TEMP	O	O	O	O
-नए	JJ	TEMP	O	O	O	O
-बास्केटबॉल	NN	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कंक्रीट	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-गुणा	NN	TEMP	O	O	O	O
-35	QC	TEMP	O	O	O	O
-मीटर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-फर्श	NN	TEMP	O	O	O	O
-बनाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+20
+गुणा
+35
+मीटर
+का
+बनेगा
+फर्श
+नए
+बास्केटबॉल
+कोर्ट
+में
+कंक्रीट
+का
+20
+गुणा
+35
+मीटर
+का
+फर्श
+बनाया
+जाएगा
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-3.5	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लागत	NN	TEMP	B-MISC	O	B-MISC	OCC
-आएगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+करीब
+3.5
+लाख
+रुपये
+की
+लागत
+आएगी
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-अंतरराष्ट्रीय	JJ	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लाइटिंग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-जिसमें	PRP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-2.5	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-आएगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+अंतरराष्ट्रीय
+स्तर
+की
+लाइटिंग
+की
+जाएगी
+जिसमें
+लगभग
+2.5
+लाख
+रुपये
+का
+खर्च
+आएगा
+.
 
-शूटिंग	XC	TEMP	O	O	O	O
-रेंज	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बास्केटबॉल	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-जगह	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-कॉलेज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुराने	JJ	TEMP	O	O	O	O
-छात्रावास	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-बास्केटबॉल	NN	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-जर्जर	JJ	TEMP	O	O	O	O
-हालत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पडा	VM	TEMP	B-MISC	O	B-STAT	OCC
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+शूटिंग
+रेंज
+व
+बास्केटबॉल
+एक
+जगह
+अभी
+कॉलेज
+के
+पुराने
+छात्रावास
+के
+पास
+बास्केटबॉल
+कोर्ट
+जर्जर
+हालत
+में
+पडा
+है
+.
 
-अब	PRP	TEMP	O	O	O	O
-इसको	PRP	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-बिल्डिंग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-बनी	VM	TEMP	O	O	O	O
-एनसीसी	XC	TEMP	O	O	O	O
-शूटिंग	XC	TEMP	O	O	O	O
-रेंज	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बनाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+इसको
+नई
+बिल्डिंग
+के
+पास
+बनी
+एनसीसी
+शूटिंग
+रेंज
+पर
+ही
+बनाया
+जाएगा
+.
 
-शूटिंग	NN	TEMP	B-MISC	O	B-MISC	OCC
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-तब	PRP	TEMP	O	O	O	O
-पोल	NN	TEMP	O	O	B-MISC	OCC
-हटा	VM	TEMP	B-MISC	O	I-MISC	O
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-व	CC	TEMP	O	O	O	O
-बास्केटबॉल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-पोल	NN	TEMP	O	O	B-MISC	OCC
-लगा	VM	TEMP	B-MISC	O	I-MISC	O
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शूटिंग
+होगी
+तब
+पोल
+हटा
+लिए
+जाएंगे
+व
+बास्केटबॉल
+के
+समय
+पोल
+लगा
+लिए
+जाएंगे
+.
 
-दो	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-बाद	NST	TEMP	O	O	O	O
-उछलेगी	VM	TEMP	O	O	O	O
-बास्केटबॉल	NN	TEMP	O	O	O	O
-कॉलेज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-दो	QC	TEMP	O	I	O	O
-साल	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-बास्केटबॉल	JJ	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-टूटी-फूटी	JJ	TEMP	O	O	O	O
-अवस्था	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पडा	VM	TEMP	O	O	B-STAT	OCC
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+दो
+साल
+बाद
+उछलेगी
+बास्केटबॉल
+कॉलेज
+में
+पिछले
+दो
+साल
+से
+बास्केटबॉल
+कोर्ट
+टूटी-फूटी
+अवस्था
+में
+पडा
+है
+.
 
-हॉस्टल	NN	TEMP	B-MISC	O	O	O
-तोडे	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-भारी	JJ	TEMP	O	O	O	O
-वाहन	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-गुजरे	VM	TEMP	B-MISC	O	O	OCC
-जिससे	PRP	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फर्श	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उखड	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हॉस्टल
+तोडे
+जाने
+के
+चलते
+कोर्ट
+से
+ट्रक
+व
+अन्य
+भारी
+वाहन
+भी
+गुजरे
+जिससे
+कोर्ट
+की
+फर्श
+भी
+उखड
+गई
+.
 
-दो	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-यहां	PRP	TEMP	O	O	O	O
-खेल	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दो
+साल
+यहां
+खेल
+नहीं
+हो
+रहा
+.
 
-...	XC	TEMP	O	O	O	O
-इंजीनियर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+...
+इंजीनियर
+से
+बात
+हो
+रही
+है
+.
 
-पोल	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कोटेशन	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मंगाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पोल
+का
+कोटेशन
+भी
+मंगाया
+है
+.
 
-अगले	JJ	TEMP	O	B	O	O
-महीने	NN	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-मूवेबल	JJ	TEMP	O	O	O	O
-पोल	NN	TEMP	O	O	O	O
-आ	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगले
+महीने
+तक
+मूवेबल
+पोल
+आ
+जाएंगे
+.
 
-उत्कृष्ट	JJ	TEMP	O	O	O	O
-बास्केटबॉल	NN	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	B-MISC	OCC
-तैयार	JJ	TEMP	B-MISC	O	I-MISC	O
-होगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उत्कृष्ट
+बास्केटबॉल
+कोर्ट
+तैयार
+होगा
+.
 
--	SYM	TEMP	O	O	O	O
-राजीव	XC	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
-अनु	XC	TEMP	O	O	O	O
+-
+राजीव
+अग्रवाल
+अनु
 
-सचिव	NN	TEMP	O	O	O	O
+सचिव
 
-डीएस	XC	TEMP	O	O	O	O
-प्रबंध	NN	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+डीएस
+प्रबंध
+समिति
+.
 
-------------------	NN	TEMP	O	O	O	O
+------------------

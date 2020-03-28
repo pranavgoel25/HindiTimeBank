@@ -1,60 +1,60 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	XC	TEMP	O	O	O	O
+﻿संवाद
+सहयोगी
 
-ब	RP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-ठडा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-आसरा	NN	TEMP	O	O	O	O
-वेलफेयर	XC	TEMP	O	O	O	O
-सोसायटी	NNP	TEMP	O	O	O	O
-ब	RP	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-ठडा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समाजसेवी	JJ	TEMP	O	O	O	O
-कार्यों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देखते	VM	TEMP	B-MISC	O	B-MISC	IAC
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-नवजीवन	NN	TEMP	O	O	O	O
-बांसल	JJ	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-देवराज	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-जदल	XC	TEMP	O	O	O	O
-मंडी	NNP	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सहयोग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संस्था	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-दान	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ब
+¨
+ठडा
+:
+आसरा
+वेलफेयर
+सोसायटी
+ब
+¨
+ठडा
+के
+समाजसेवी
+कार्यों
+को
+देखते
+हुए
+नवजीवन
+बांसल
+ठेकेदार
+ने
+देवराज
+¨
+जदल
+मंडी
+बोर्ड
+के
+सहयोग
+से
+संस्था
+को
+11
+हजार
+रुपये
+की
+राशि
+दान
+दी
+.
 
-इस	DEM	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-संस्था	NN	TEMP	O	O	O	O
-संस्थापक	JJ	TEMP	O	O	O	O
-रमेश	XC	TEMP	O	O	O	O
-मेहता	NNP	TEMP	O	O	O	O
+इस
+मौके
+पर
+संस्था
+संस्थापक
+रमेश
+मेहता
 
-सदस्य	NN	TEMP	O	O	O	O
-लवली	JJ	TEMP	O	O	O	O
-बांसल	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दानी	JJ	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-धन्यवाद	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सदस्य
+लवली
+बांसल
+ने
+दानी
+परिवार
+का
+धन्यवाद
+किया
+.

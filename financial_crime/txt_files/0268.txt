@@ -1,460 +1,460 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रोहतक	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	B-MISC	O
-कर	VM	TEMP	O	O	I-MISC	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लॉटरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-निकलने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-लालच	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+रोहतक
+:
+फोन
+कर
+एक
+व्यक्ति
+को
+पहले
+तो
+25
+लाख
+रुपये
+की
+लॉटरी
+निकलने
+का
+लालच
+दिया
+.
 
-फिर	RB	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-बदले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-टैक्स	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करवाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कहे	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+फिर
+उसके
+बदले
+में
+टैक्स
+के
+नाम
+पर
+25
+हजार
+रुपये
+जमा
+करवाने
+के
+लिए
+कहे
+.
 
-जब	PRP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करवा	VM	TEMP	I-MISC	O	I-MISC	O
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-लॉटरी	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ठगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-एहसास	NN	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+पैसे
+जमा
+करवा
+दिए
+और
+लॉटरी
+नहीं
+मिली
+तो
+खुद
+के
+ठगे
+जाने
+का
+एहसास
+हुआ
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-फिर	RB	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-लॉटरी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दोबारा	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करवाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-फोन	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-सीधा	JJ	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+एक
+दिन
+फिर
+जब
+लॉटरी
+के
+नाम
+पर
+दोबारा
+से
+पैसे
+जमा
+करवाने
+के
+लिए
+फोन
+आया
+तो
+पीडित
+सीधा
+थाने
+पहुंच
+गया
+.
 
-फोन	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	B-MISC	IAC
-देकर	VM	TEMP	B-MISC	O	I-MISC	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फोन
+नंबर
+वाले
+व्यक्ति
+के
+खिलाफ
+थाने
+में
+शिकायत
+देकर
+कार्रवाई
+की
+मांग
+की
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-करने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-पीजीआइ	XC	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-क्रेडिट	JJ	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-डिटेल	NN	TEMP	B-MISC	O	O	OCC
-पूछ	VM	TEMP	I-MISC	O	B-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-उससे	PRP	TEMP	O	O	O	O
-शॉ	NN	TEMP	B-MISC	O	B-MISC	OCC
-¨	JJ	TEMP	I-MISC	O	I-MISC	O
-पग	NN	TEMP	I-MISC	O	I-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+,
+एक
+अन्य
+मामले
+में
+एक
+अज्ञात
+फोन
+करने
+वाले
+ने
+एक
+पीजीआइ
+कर्मी
+के
+क्रेडिट
+कार्ड
+की
+डिटेल
+पूछ
+कर
+उससे
+शॉ
+¨
+पग
+कर
+ली
+.
 
-कर्मी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तब	PRP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-जब	PRP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फोन	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कर्मी
+को
+तब
+पता
+चला
+जब
+बैंक
+की
+ओर
+से
+फोन
+आया
+.
 
-किलोई	RDP	TEMP	O	O	O	O
-दोपाना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	DES
-वाले	PSP	TEMP	O	O	I-STAT	O
-संजय	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-बेटे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+किलोई
+दोपाना
+के
+रहने
+वाले
+संजय
+ने
+पुलिस
+को
+शिकायत
+दी
+है
+कि
+उनके
+बेटे
+के
+पास
+उनके
+नाम
+से
+मोबाइल
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-फोन	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+पर
+20
+अक्टूबर
+को
+फोन
+आया
+.
 
-फोन	NN	TEMP	O	O	B-STAT	O
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपयों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लॉटरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-निकल	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फोन
+करने
+वाले
+ने
+बताया
+कि
+उनकी
+25
+लाख
+रुपयों
+की
+लॉटरी
+निकल
+गई
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-लॉटरी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पैसों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	B-MISC	O	O	O
-डलवाने	VM	TEMP	I-MISC	O	B-MISC	OCC
-होंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+लॉटरी
+के
+पैसों
+को
+पाने
+के
+लिए
+खाते
+में
+पैसे
+डलवाने
+होंगे
+.
 
-उनके	PRP	TEMP	O	O	O	O
-लडके	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	B-STAT	O
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	DES
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-डलवा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनके
+लडके
+ने
+फोन
+करने
+वाले
+की
+ओर
+से
+दिए
+गए
+खाते
+में
+25
+हजार
+रुपये
+डलवा
+दिए
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-लॉटरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-आई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+लॉटरी
+नहीं
+आई
+.
 
-फिर	RB	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ठगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-एहसास	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिर
+उन्हें
+खुद
+के
+ठगे
+जाने
+का
+एहसास
+हुआ
+.
 
-एक	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-फोन	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+बार
+फिर
+से
+उनके
+पास
+फोन
+आया
+.
 
-फोन	NN	TEMP	O	O	O	O
-करने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-ने	PSP	TEMP	O	O	O	O
-इस	PRP	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-पक्का	XC	TEMP	O	O	O	O
-विश्वास	NN	TEMP	B-MISC	O	O	O
-दिलाते	VM	TEMP	I-MISC	O	B-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-दोबारा	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करवाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कही	VM	TEMP	I-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+फोन
+करने
+वाले
+ने
+इस
+बार
+पक्का
+विश्वास
+दिलाते
+हुए
+दोबारा
+से
+पैसे
+जमा
+करवाने
+की
+बात
+कही
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-इस	PRP	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-सतर्कता	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिखाई	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-सीधा	JJ	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जाकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-फोन	NN	TEMP	O	O	O	O
-करने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-व्यक्ति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+इस
+बार
+उन्होंने
+सतर्कता
+दिखाई
+और
+सीधा
+थाने
+में
+जाकर
+फोन
+करने
+वाले
+व्यक्ति
+के
+खिलाफ
+शिकायत
+दे
+दी
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+आरोपी
+के
+खिलाफ
+धोखाधडी
+करने
+के
+आरोप
+में
+मुकदमा
+दर्ज
+कर
+लिया
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-छानबीन	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+इस
+मामले
+की
+छानबीन
+कर
+रही
+है
+.
 
-पीजीआइ	XC	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-क्रेडिट	JJ	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कर	VM	TEMP	O	O	B-MISC	O
-ली	VAUX	TEMP	O	O	I-MISC	O
-शॉ	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-पग	XC	TEMP	O	O	O	O
-पीजीआइ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	DES
-वाले	PSP	TEMP	O	O	I-STAT	O
-एक	QC	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-क्रेडिट	JJ	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	B-STAT	DES
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-एक	QC	TEMP	O	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शॉ	XC	TEMP	B-MISC	O	O	O
-¨	NNP	TEMP	I-MISC	O	O	O
-पग	NN	TEMP	I-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीजीआइ
+कर्मी
+के
+क्रेडिट
+कार्ड
+से
+कर
+ली
+शॉ
+¨
+पग
+पीजीआइ
+में
+रहने
+वाले
+एक
+कर्मी
+के
+क्रेडिट
+कार्ड
+से
+फोन
+करने
+वाले
+एक
+अज्ञात
+ने
+शॉ
+¨
+पग
+कर
+ली
+.
 
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पीजीआइ	CC	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-20	QC	TEMP	O	B	O	O
-सितंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-फोन	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जानकारी
+के
+अनुसार
+,
+पीजीआइ
+कर्मी
+के
+पास
+करीब
+एक
+माह
+पहले
+20
+सितंबर
+को
+फोन
+आया
+.
 
-फोन	NN	TEMP	O	O	B-STAT	O
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-क्रेडिट	JJ	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चालू	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कह	VM	TEMP	I-MISC	O	O	O
-सारी	QF	TEMP	O	O	O	O
-डिटेल	NN	TEMP	O	O	O	O
-पूछ	VM	TEMP	B-MISC	O	B-MISC	OCC
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फोन
+करने
+वाले
+ने
+क्रेडिट
+कार्ड
+को
+चालू
+करने
+की
+बात
+कह
+सारी
+डिटेल
+पूछ
+ली
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-क्रेडिट	JJ	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-शॉ	XC	TEMP	B-MISC	O	O	O
-¨	NNP	TEMP	I-MISC	O	O	O
-पग	NN	TEMP	I-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+क्रेडिट
+कार्ड
+से
+शॉ
+¨
+पग
+कर
+ली
+.
 
-26	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-क्रेडिट	JJ	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बकाया	NN	TEMP	O	O	O	O
-पैसे	NN	TEMP	B-MISC	O	O	O
-जमा	JJ	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-आई	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-ठगी	NN	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-एहसास	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+26
+अक्टूबर
+को
+बैंक
+वाले
+की
+ओर
+से
+जब
+क्रेडिट
+कार्ड
+के
+बकाया
+पैसे
+जमा
+करने
+की
+बात
+आई
+तो
+उन्हें
+इस
+ठगी
+का
+एहसास
+हुआ
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-तुरंत	RB	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-आरोपी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-कानूनी	JJ	TEMP	O	O	B-MISC	OCC
-कार्रवाई	NN	TEMP	B-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+तुरंत
+ही
+अज्ञात
+व्यक्ति
+के
+खिलाफ
+थाने
+में
+शिकायत
+देकर
+आरोपी
+के
+खिलाफ
+कानूनी
+कार्रवाई
+की
+मांग
+की
+है
+.

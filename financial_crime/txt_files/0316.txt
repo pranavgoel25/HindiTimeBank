@@ -1,317 +1,317 @@
-﻿अलीगढ़	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-बिना	NEG	TEMP	O	O	B-MISC	O
-बताए	VM	TEMP	O	O	I-MISC	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	B-STAT	O
-गए	VM	TEMP	O	O	I-STAT	O
-पांच	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-कहां	WQ	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कैसे	WQ	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	O	O
-किए	VM	TEMP	I-MISC	O	O	O
-?	SYM	TEMP	O	O	O	O
-माता	XC	TEMP	O	O	O	O
--पिता	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-पूछना	VM	TEMP	O	O	B-MISC	O
-बेटे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अच्छा	JJ	TEMP	B-MISC	O	B-MISC	O
-न	NEG	TEMP	I-MISC	O	I-MISC	OCC
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿अलीगढ़
+:
+बिना
+बताए
+घर
+से
+लिए
+गए
+पांच
+हजार
+रुपये
+कहां
+और
+कैसे
+खर्च
+किए
+?
+माता
+-पिता
+का
+यह
+पूछना
+बेटे
+को
+अच्छा
+न
+लगा
+.
 
-नाराज	JJ	TEMP	B-MISC	O	B-MISC	O
-होकर	VM	TEMP	I-MISC	O	I-MISC	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निकले	VM	TEMP	B-MISC	O	O	OCC
-सचिन	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-16	QC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आत्महत्या	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नाराज
+होकर
+घर
+से
+निकले
+सचिन
+(
+16
+)
+ने
+आत्महत्या
+कर
+ली
+.
 
-मंगलवार	NN	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-शव	NN	TEMP	O	O	O	O
-पेड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लटका	VM	TEMP	O	O	B-MISC	OCC
-मिला	XC	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंगलवार
+की
+सुबह
+उसका
+शव
+पेड
+से
+लटका
+मिला
+.
 
-मामला	NN	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-मुख्यालय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-किलो	NN	TEMP	O	O	O	O
-मीटर	NN	TEMP	O	O	O	O
-दूर	NST	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-गौडा	XC	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-सिकतरी	VM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+मामला
+जिला
+मुख्यालय
+से
+करीब
+25
+किलो
+मीटर
+दूर
+स्थित
+गौडा
+क्षेत्र
+के
+गांव
+सिकतरी
+का
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उत्तमपुर	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-योगेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रह	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+गांव
+में
+उत्तमपुर
+के
+योगेश
+कुमार
+काफी
+समय
+से
+रह
+रहे
+हैं
+.
 
-वह	PRP	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-हाथरस	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+वह
+डाक
+विभाग
+हाथरस
+में
+कर्मचारी
+हैं
+.
 
-रविवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-गायब	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रविवार
+को
+उनके
+घर
+से
+पांच
+हजार
+रुपये
+गायब
+हो
+गए
+.
 
-सोमवार	NNP	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-सचिन	NN	TEMP	O	O	O	OCC
-ले	VM	TEMP	B-MISC	O	B-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-दोस्तों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सोमवार
+की
+सुबह
+पता
+लगा
+कि
+रुपये
+सचिन
+ले
+गया
+और
+दोस्तों
+के
+साथ
+खर्च
+कर
+दिए
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पूछताछ	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-नाराज	JJ	TEMP	O	O	O	O
-सचिन	NN	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	B	O	O
-दस	QC	TEMP	O	B	O	O
-बजे	RP:?	TEMP	O	I	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चला	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+पूछताछ
+करने
+से
+नाराज
+सचिन
+सुबह
+दस
+बजे
+घर
+से
+चला
+गया
+.
 
-काफी	QF	TEMP	O	O	O	O
-देर	NN	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	O
-लौटने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	I-MISC	ASP
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+काफी
+देर
+बाद
+भी
+न
+लौटने
+पर
+तलाश
+शुरू
+की
+गई
+.
 
-मोबाइल	JJ	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-रिसीव	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मोबाइल
+फोन
+वह
+रिसीव
+नहीं
+कर
+रहा
+था
+.
 
-आसपास	NST	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांवों	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-रिश्तेदारों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आसपास
+के
+गांवों
+और
+रिश्तेदारों
+से
+भी
+कोई
+जानकारी
+नहीं
+मिली
+.
 
-मंगलवार	NN	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	B	O	O
-आठ	QC	TEMP	O	B	O	O
-बजे	RP:?	TEMP	O	I	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-आधा	QF	TEMP	O	O	O	O
-किलोमीटर	NN	TEMP	O	O	O	O
-दूर	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-खाली	JJ	TEMP	O	O	O	O
-प्लाट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पीछे	NST	TEMP	O	O	O	O
-सचिन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-शव	NN	TEMP	O	O	O	O
-पेड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लटका	NN	TEMP	O	O	B-MISC	O
-मिला	VM	TEMP	B-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+मंगलवार
+की
+सुबह
+आठ
+बजे
+घर
+से
+करीब
+आधा
+किलोमीटर
+दूर
+एक
+खाली
+प्लाट
+के
+पीछे
+सचिन
+का
+शव
+पेड
+से
+लटका
+मिला
+.
 
-इससे	PRP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कोहराम	NN	TEMP	B-MISC	O	B-MISC	OCC
-मच	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+परिवार
+में
+कोहराम
+मच
+गया
+.
 
-बडी	JJ	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-एकत्रित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बडी
+संख्या
+में
+लोग
+एकत्रित
+हो
+गए
+.
 
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जानकारी
+मिलने
+पर
+पुलिस
+भी
+पहुंच
+गई
+.
 
-थानाध्यक्ष	JJ	TEMP	O	O	O	O
-शभू	XC	TEMP	O	O	O	O
-नाथ	XC	TEMP	O	O	O	O
-तिवारी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-परिजनों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कानूनी	JJ	TEMP	B-MISC	O	B-MISC	O
-कार्रवाई	NN	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-इन्कार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थानाध्यक्ष
+शभू
+नाथ
+तिवारी
+ने
+बताया
+कि
+परिजनों
+ने
+कानूनी
+कार्रवाई
+से
+इन्कार
+कर
+दिया
+गया
+.
 
-इसलिए	CC	TEMP	O	O	O	O
-पंचनामा	NN	TEMP	O	O	O	O
-भर	RP	TEMP	O	O	O	O
-शव	NN	TEMP	O	O	O	O
-परिजनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सौंप	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसलिए
+पंचनामा
+भर
+शव
+परिजनों
+को
+सौंप
+दिया
+गया
+.
 
---	NN	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-वीं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-छात्र	NN	TEMP	O	O	O	O
-था	VM	TEMP	O	O	O	O
-सचिन	NN	TEMP	O	O	O	O
-योगेश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बेटे	NN	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+--
+11
+वीं
+का
+छात्र
+था
+सचिन
+योगेश
+के
+दो
+बेटे
+हैं
+.
 
-बडा	JJ	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-वर्षीय	JJ	TEMP	O	O	O	O
-आकाश	NN	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-वीं	XC	TEMP	O	O	O	O
-कक्षा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पढ़ता	VM	TEMP	O	O	B-STAT	OCC
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+बडा
+20
+वर्षीय
+आकाश
+12
+वीं
+कक्षा
+में
+पढ़ता
+है
+.
 
-छोटा	JJ	TEMP	O	O	O	O
-बेटा	NN	TEMP	O	O	O	O
-सचिन	XC	TEMP	O	O	O	O
-गंगादेवी	XC	TEMP	O	O	O	O
-इंटर	XC	TEMP	O	O	O	O
-कॉलेज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-वीं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-छात्र	NN	TEMP	O	O	B-MISC	OCC
-था	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+छोटा
+बेटा
+सचिन
+गंगादेवी
+इंटर
+कॉलेज
+में
+11
+वीं
+का
+छात्र
+था
+.
 
-योगेश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भाई	NN	TEMP	O	O	O	O
-सतेंद्र	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-उर्फ	XC	TEMP	O	O	O	O
-सत्ता	NN	TEMP	O	O	O	O
-चौधरी	JJ	TEMP	O	O	O	O
-भाजपा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मंडल	NN	TEMP	O	O	O	O
-संयोजक	JJ	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+योगेश
+के
+भाई
+सतेंद्र
+चौधरी
+उर्फ
+सत्ता
+चौधरी
+भाजपा
+के
+मंडल
+संयोजक
+हैं
+.

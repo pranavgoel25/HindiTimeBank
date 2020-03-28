@@ -1,187 +1,187 @@
-﻿खगौल	XC	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-पटना	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-गाडीखाना	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-स्टेट	XC	TEMP	O	O	O	O
-बैंक	XC	TEMP	O	O	O	O
-ऑफ	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	B-MISC	O	O	O
-जमा	JJ	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-दुकानदार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उचक्कों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-16	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿खगौल
+(
+पटना
+)
+:
+गाडीखाना
+स्थित
+स्टेट
+बैंक
+ऑफ
+इंडिया
+की
+शाखा
+में
+पैसा
+जमा
+करने
+गए
+दुकानदार
+से
+उचक्कों
+ने
+16
+हजार
+रुपये
+छीन
+लिए
+और
+फरार
+हो
+गए
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दुकानदार	JJ	TEMP	O	O	O	O
-पृथ्वी	NN	TEMP	O	O	O	O
-रंजन	XC	TEMP	O	O	O	O
-दास	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-स्थानीय	JJ	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+दुकानदार
+पृथ्वी
+रंजन
+दास
+ने
+स्थानीय
+थाने
+में
+मामला
+दर्ज
+कराया
+है
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	O
-वह	PRP	TEMP	O	O	O	O
-स्टेट	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	B-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+ने
+बताया
+कि
+दुकान
+से
+20
+हजार
+रुपये
+लेकर
+वह
+स्टेट
+बैंक
+में
+जमा
+करने
+गया
+था
+.
 
-काउंटर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भीड	NN	TEMP	O	O	O	O
-देख	VM	TEMP	B-MISC	O	B-MISC	OCC
-खाना	NN	TEMP	O	O	O	O
-खाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-जाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+काउंटर
+पर
+भीड
+देख
+खाना
+खाने
+के
+लिए
+घर
+जाने
+लगा
+.
 
-इसी	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-पूर्व	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बैठा	VM	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-आदमी	NN	TEMP	O	O	O	O
-आया	VM	TEMP	B-MISC	O	B-MISC	OCC
-बोला	VM	TEMP	B-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-आपके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-खुदरा	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-तो	CC	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दीजिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+दौरान
+पूर्व
+से
+बैंक
+में
+बैठा
+एक
+अज्ञात
+आदमी
+आया
+बोला
+कि
+आपके
+पास
+खुदरा
+है
+तो
+दे
+दीजिए
+.
 
-मैंने	PRP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	B-MISC	OCC
-बदल	VM	TEMP	B-MISC	O	I-MISC	O
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मैंने
+उससे
+नोट
+बदल
+लिए
+.
 
-पुन	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-मुझे	PRP	TEMP	O	O	O	O
-दिए	VM	TEMP	O	O	B-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-नोट	NN	TEMP	O	O	O	O
-गिनती	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-मागे	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-मैंने	PRP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुन
+:
+उसने
+मुझे
+दिए
+हुए
+नोट
+गिनती
+करने
+के
+लिए
+मागे
+तो
+मैंने
+उसे
+दे
+दिया
+.
 
-इसी	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आठ	QC	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-चकमा	NN	TEMP	B-MISC	O	B-MISC	O
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-निकाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+दौरान
+उसने
+दो
+हजार
+के
+आठ
+नोट
+उसने
+चकमा
+देकर
+निकाल
+लिए
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-बिना	NEG	TEMP	B-MISC	O	O	O
-गिनती	NN	TEMP	I-MISC	O	O	O
-किए	VM	TEMP	I-MISC	O	O	O
-पॉकेट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखकर	VM	TEMP	I-MISC	O	B-MISC	OCC
-जमा	JJ	TEMP	O	O	O	O
-पर्ची	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सुधार	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-फॉर्म	NN	TEMP	O	O	B-MISC	OCC
-भरने	VM	TEMP	B-MISC	O	I-MISC	O
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+के
+अनुसार
+पैसे
+बिना
+गिनती
+किए
+पॉकेट
+में
+रखकर
+जमा
+पर्ची
+को
+सुधार
+करने
+के
+लिए
+फॉर्म
+भरने
+लगा
+.
 
-फिर	RB	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गिनती	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-निकाले	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-देखा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसमें	PRP	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आठ	QC	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-नदारद	JJ	TEMP	B-MISC	O	B-STAT	DECL
-हैं	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+फिर
+नोट
+की
+गिनती
+के
+लिए
+निकाले
+तो
+देखा
+कि
+उसमें
+2
+हजार
+के
+आठ
+नोट
+नदारद
+हैं
+.

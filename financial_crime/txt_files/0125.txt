@@ -1,354 +1,354 @@
-﻿जासं	NNP	TEMP	O	O	O	O
+﻿जासं
 
-जौनपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-पालिका	XC	TEMP	O	O	O	O
-परिषद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चुनाव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रत्याशियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-भर	RP	TEMP	O	O	O	O
-चुनाव	NN	TEMP	B-MISC	O	O	O
-प्रचार	NN	TEMP	I-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-दिहाडी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-मिल	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जौनपुर
+:
+नगर
+पालिका
+परिषद
+के
+चुनाव
+में
+प्रत्याशियों
+के
+साथ
+दिन
+भर
+चुनाव
+प्रचार
+करने
+के
+लिए
+दिहाडी
+पर
+भी
+लोग
+मिल
+रहे
+हैं
+.
 
-आलम	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-कि	CC	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-महिलाएं	NN	TEMP	O	O	O	O
-जनसंपर्क	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-तैयार	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आलम
+यह
+है
+कि
+तीन
+सौ
+रुपये
+में
+महिलाएं
+जनसंपर्क
+के
+लिए
+तैयार
+हो
+जा
+रही
+हैं
+.
 
-बकायदा	NN	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	B-MISC	O
-करके	VM	TEMP	O	O	I-MISC	O
-सौदेबाजी	NN	TEMP	O	O	O	OCC
-भी	RP	TEMP	O	O	O	O
-की	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बकायदा
+इसके
+लिए
+फोन
+करके
+सौदेबाजी
+भी
+की
+जा
+रही
+है
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-प्रत्याशी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-इससे	PRP	TEMP	O	O	O	O
-गुरेज	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+कुछ
+एक
+प्रत्याशी
+भी
+इससे
+गुरेज
+नहीं
+कर
+रहे
+हैं
+.
 
-नगर	NN	TEMP	O	O	O	O
-पालिका	XC	TEMP	O	O	O	O
-परिषद	XC	TEMP	O	O	O	O
-जौनपुर	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सीट	NN	TEMP	O	O	O	O
-सामान्य	JJ	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
+नगर
+पालिका
+परिषद
+जौनपुर
+की
+सीट
+सामान्य
+महिला
+है
 
-इससे	PRP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-राजनीतिक	JJ	TEMP	O	O	O	O
-दलों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-प्रत्याशी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-महिलाओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उतारा	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+सभी
+राजनीतिक
+दलों
+ने
+प्रत्याशी
+के
+तौर
+पर
+महिलाओं
+को
+उतारा
+है
+.
 
-आज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बढ़ती	NN	TEMP	O	O	O	O
-व्यस्तता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-चुनाव	NN	TEMP	O	O	O	O
-प्रत्याशी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-जनसंपर्क	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-महिलाएं	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-घूम	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आज
+की
+बढ़ती
+व्यस्तता
+के
+कारण
+चुनाव
+प्रत्याशी
+के
+साथ
+जनसंपर्क
+में
+महिलाएं
+नहीं
+घूम
+रही
+हैं
+.
 
-कोई	RDP	TEMP	O	O	O	O
-नौकरी	NN	TEMP	O	O	O	O
-पेशे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-घरेलू	JJ	TEMP	O	O	O	O
-कामों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-व्यस्त	JJ	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
+कोई
+नौकरी
+पेशे
+में
+तो
+कोई
+घरेलू
+कामों
+में
+व्यस्त
+हैं
 
-ऐसे	PRP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-कार्यकर्ताओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-टहलाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-प्रत्याशी	JJ	TEMP	O	O	O	O
-ठेके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऐसे
+में
+महिला
+कार्यकर्ताओं
+को
+साथ
+में
+टहलाने
+के
+लिए
+कुछ
+प्रत्याशी
+ठेके
+पर
+बात
+कर
+रहे
+हैं
+.
 
-दिनभर	NN	TEMP	O	O	O	O
-चुनाव	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-प्रति	RP:?	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हिसाब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिनभर
+चुनाव
+के
+लिए
+प्रति
+महिला
+के
+हिसाब
+से
+तीन
+सौ
+रुपये
+दिए
+जा
+रहे
+हैं
+.
 
-ये	PRP	TEMP	O	O	O	O
-ऐसी	DEM	TEMP	O	O	O	O
-महिलाएं	NN	TEMP	O	O	B-MISC	O
-होंगी	VM	TEMP	O	O	I-MISC	O
-जो	PRP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-शिक्षित	JJ	TEMP	O	O	B-MISC	O
-होंगी	VM	TEMP	O	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-दिखने	VM	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-स्मार्ट	NN	TEMP	O	O	B-MISC	OCC
-रहेंगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ये
+ऐसी
+महिलाएं
+होंगी
+जो
+पूरी
+तरह
+शिक्षित
+होंगी
+और
+दिखने
+में
+भी
+स्मार्ट
+रहेंगी
+.
 
-एक	QC	TEMP	O	O	O	O
-ऑडियो	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-खुलासा	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
+एक
+ऑडियो
+में
+यह
+खुलासा
+हुआ
 
-जिसमें	PRP	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-कह	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-वार्डो	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घूमकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-प्रचार	NN	TEMP	B-MISC	O	O	O
-करेंगी	VM	TEMP	I-MISC	O	O	O
-फिर	RB	TEMP	O	O	O	O
-प्रत्याशी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दोबारा	NN	TEMP	O	O	O	O
-पहुंचने	VM	TEMP	O	O	O	OCC
-पर	PSP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-असर	NN	TEMP	O	O	B-MISC	OCC
-करेगा	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसमें
+महिला
+ठेकेदार
+यह
+कह
+रही
+है
+कि
+पहले
+वह
+कई
+वार्डो
+में
+घूमकर
+प्रचार
+करेंगी
+फिर
+प्रत्याशी
+के
+दोबारा
+पहुंचने
+पर
+और
+असर
+करेगा
+.
 
-चाहे	CC:?	TEMP	O	O	O	O
-प्रत्याशी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-महिलाएं	NN	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-हों	VM	TEMP	O	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-टहलने	VM	TEMP	O	O	B-MISC	O
-पर	PSP	TEMP	O	O	O	O
-जनता	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-मैसेज	NN	TEMP	B-MISC	O	O	OCC
-भी	RP	TEMP	I-MISC	O	O	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चाहे
+प्रत्याशी
+के
+साथ
+महिलाएं
+कम
+हों
+तो
+उनके
+साथ
+में
+टहलने
+पर
+जनता
+में
+यह
+मैसेज
+भी
+जाएगा
+.
 
-दैनिक	JJ	TEMP	O	O	O	O
-जागरण	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बाबत	NN	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-सकपका	VM	TEMP	B-MISC	O	B-MISC	O
-गईं	VAUX	TEMP	I-MISC	O	I-MISC	O
+दैनिक
+जागरण
+ने
+इस
+बाबत
+बात
+की
+तो
+पहले
+वह
+सकपका
+गईं
 
-फिर	RB	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	OCC
-होता	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	O	OCC
-हो	VM	TEMP	I-MISC	O	B-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिर
+कहा
+कि
+कुछ
+दिन
+पहले
+कहा
+होता
+तो
+काम
+हो
+जाता
+.
 
-कुछ	QF	TEMP	O	O	O	O
-देर	NN	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-दो-तीन	JJ	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	B-MISC	O	O	O
-दीजिए	VM	TEMP	I-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-देखती	VM	TEMP	B-MISC	O	B-MISC	OCC
-हूं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+देर
+बात
+करने
+के
+बाद
+कहा
+कि
+दो-तीन
+दिन
+का
+समय
+दीजिए
+तो
+देखती
+हूं
+.
 
-इस	DEM	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बाबत	NN	TEMP	O	O	O	O
-आम	JJ	TEMP	O	O	O	O
-आदमी	NN	TEMP	O	O	O	O
-पार्टी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-संयोजक	NN	TEMP	O	O	O	O
-डा	VM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+इस
+फोन
+की
+बाबत
+आम
+आदमी
+पार्टी
+के
+जिला
+संयोजक
+डा
+.
 
-अनुराग	XC	TEMP	O	O	O	O
-मिश्र	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	B-MISC	OCC
-आया	VM	TEMP	B-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
+अनुराग
+मिश्र
+ने
+बताया
+कि
+इस
+तरह
+का
+फोन
+उनके
+पास
+आया
+है
 
-जिसका	PRP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-ऑडियो	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बनाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसका
+उन्होंने
+ऑडियो
+भी
+बनाया
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-जवाब	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उनको	PRP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-आवश्यकता	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+जवाब
+में
+कहा
+कि
+उनको
+इस
+तरह
+की
+कोई
+आवश्यकता
+नहीं
+है
+.
 
-राजनीति	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भ्रष्टाचार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खत्म	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-आए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-ऐसे	DEM	TEMP	O	O	O	O
-फिजूल	JJ	TEMP	O	O	O	O
-खर्चों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-विश्वास	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-रखते	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+राजनीति
+में
+भ्रष्टाचार
+को
+खत्म
+करने
+आए
+हैं
+तो
+ऐसे
+फिजूल
+खर्चों
+पर
+वह
+विश्वास
+नहीं
+रखते
+हैं
+.

@@ -1,297 +1,297 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जुलाना	VM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-पूर्व	NST	TEMP	O	O	O	O
-जनस्वास्थ्य	JJ	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-सत्यनारायण	XC	TEMP	O	O	O	O
-लाठर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जुलाना	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-पेट्रोल	JJ	TEMP	O	O	O	O
-पंप	NN	TEMP	O	O	O	O
-संकट	NN	TEMP	O	O	O	O
-मोचन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-ब्यान	NN	TEMP	O	O	O	OCC
-हल्फिया	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-ब्लैंक	JJ	TEMP	O	O	O	O
-चेक	NN	TEMP	O	O	O	O
-देकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-करीब	RB	TEMP	O	O	O	O
-बीस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-लीटर	NN	TEMP	O	O	O	O
-तेल	NN	TEMP	O	O	B-MISC	OCC
-ले	VM	TEMP	B-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿संवाद
+सूत्र
+,
+जुलाना
+:
+पूर्व
+जनस्वास्थ्य
+मंत्री
+सत्यनारायण
+लाठर
+के
+जुलाना
+में
+स्थित
+पेट्रोल
+पंप
+संकट
+मोचन
+से
+एक
+व्यक्ति
+ब्यान
+हल्फिया
+और
+ब्लैंक
+चेक
+देकर
+करीब
+बीस
+हजार
+लीटर
+तेल
+ले
+गया
+.
 
-उसने	PRP	TEMP	O	O	O	O
-11	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-अंदर	NST	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-वादा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+11
+दिन
+के
+अंदर
+रुपये
+देने
+का
+वादा
+किया
+था
+.
 
-जब	PRP	TEMP	O	O	O	O
-तय	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पंप	NN	TEMP	O	O	O	O
-कर्मियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-संपर्क	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+तय
+समय
+पर
+राशि
+नहीं
+मिली
+तो
+पंप
+कर्मियों
+ने
+उससे
+फोन
+पर
+संपर्क
+करने
+का
+प्रयास
+किया
+,
+लेकिन
+वह
+बंद
+मिला
+.
 
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	B-MISC	OCC
-एसपी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	B-MISC	-1
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामले
+की
+शिकायत
+एसपी
+को
+दी
+गई
+है
+.
 
-लाठर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पुत्रवधू	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-संकट	NN	TEMP	O	O	O	O
-मोचन	XC	TEMP	O	O	O	O
-पेट्रोल	NNP	TEMP	O	O	O	O
-पंप	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रो	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+लाठर
+की
+पुत्रवधू
+व
+संकट
+मोचन
+पेट्रोल
+पंप
+की
+प्रो
+.
 
-निर्मला	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एसपी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-मैसर्ज	XC	TEMP	O	O	O	O
-श्रीराम	XC	TEMP	O	O	O	O
-टेलीकॉम	XC	TEMP	O	O	O	O
-सर्विस	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
-संदीप	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-खेडाखेमावती	NN	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-ससुर	JJ	TEMP	O	O	O	O
-सत्यनारायण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-आया	VM	TEMP	B-MISC	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+निर्मला
+ने
+एसपी
+को
+दी
+शिकायत
+में
+बताया
+कि
+मैसर्ज
+श्रीराम
+टेलीकॉम
+सर्विस
+के
+ठेकेदार
+संदीप
+निवासी
+खेडाखेमावती
+उसके
+ससुर
+सत्यनारायण
+के
+पास
+आया
+.
 
-उसने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-विजन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-टावरों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-डीजल	XC	TEMP	O	O	O	O
-सप्लाई	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-करता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+कहा
+कि
+वह
+विजन
+के
+टावरों
+पर
+डीजल
+सप्लाई
+का
+कार्य
+करता
+है
+.
 
-उसे	PRP	TEMP	O	O	O	O
-प्रतिदिन	NN	TEMP	O	O	O	O
-1800	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-2000	QC	TEMP	O	O	O	O
-लीटर	NN	TEMP	O	O	O	O
-डीजल	NN	TEMP	O	O	B-STAT	O
-चाहिए	VM	TEMP	B-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उसे
+प्रतिदिन
+1800
+से
+2000
+लीटर
+डीजल
+चाहिए
+.
 
-11	QC	TEMP	O	O	O	O
-वें	PRP	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-आरटीजीएस	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सारा	QF	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+11
+वें
+दिन
+आरटीजीएस
+से
+सारा
+भुगतान
+कर
+दिया
+जाएगा
+.
 
-सिक्योरिटी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ब्यान	NN	TEMP	O	O	O	O
-हल्फिया	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-ब्लैंक	JJ	TEMP	O	O	O	O
-चेक	NN	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सिक्योरिटी
+के
+तौर
+पर
+उसने
+एक
+ब्यान
+हल्फिया
+और
+ब्लैंक
+चेक
+दे
+दिया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-दस	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-पेट्रोल	JJ	TEMP	O	O	O	O
-पंप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-2000	QC	TEMP	O	O	O	O
-लीटर	NN	TEMP	O	O	O	O
-डीजल	NN	TEMP	O	O	B-MISC	OCC
-ले	VM	TEMP	B-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+आरोपी
+दस
+दिन
+तक
+लगातार
+पेट्रोल
+पंप
+से
+2000
+लीटर
+डीजल
+ले
+गया
+.
 
-निर्मला	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-संदीप	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+निर्मला
+ने
+आरोप
+लगाया
+कि
+संदीप
+ने
+करीब
+12
+लाख
+रुपये
+की
+धोखाधडी
+की
+है
+.
 
---------	NN	TEMP	O	O	O	O
-6	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एसपी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पता	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-पैन	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+--------
+6
+अक्टूबर
+को
+दी
+शिकायत
+में
+एसपी
+को
+आरोपी
+का
+नाम
+,
+पता
+,
+आधार
+कार्ड
+तथा
+पैन
+कार्ड
+दे
+दिया
+गया
+है
+.
 
-पूरा	JJ	TEMP	O	O	O	O
-पता	JJ	TEMP	O	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-संतोषजनक	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पूरा
+पता
+देने
+के
+बाद
+भी
+पुलिस
+ने
+कोई
+संतोषजनक
+कार्रवाई
+नहीं
+की
+है
+.
 
-सत्यनारायण	XC	TEMP	O	O	O	O
-लाठर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पूर्व	NST	TEMP	O	O	O	O
-जनस्वास्थ्य	JJ	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-------------------------	JJ	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-जुटी	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सत्यनारायण
+लाठर
+,
+पूर्व
+जनस्वास्थ्य
+मंत्री
+------------------------
+शिकायत
+के
+आधार
+पर
+पुलिस
+मामले
+की
+जांच
+में
+जुटी
+हुई
+है
+.
 
-जगह-जगह	NN	TEMP	O	O	O	O
-छापेमारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जगह-जगह
+छापेमारी
+की
+जा
+रही
+है
+.
 
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-आरोपी	JJ	TEMP	O	O	O	O
-गिरफ्त	NN	TEMP	B-MISC	O	B-MISC	O
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-होगा	VM	TEMP	I-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जल्द
+ही
+आरोपी
+गिरफ्त
+में
+होगा
+.
 
-सुरेंद्र	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जुलाना	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-प्रभारी	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+सुरेंद्र
+¨
+सह
+,
+जुलाना
+थाना
+प्रभारी
+.

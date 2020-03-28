@@ -1,166 +1,166 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कानपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सफाई	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-गंदगी	NN	TEMP	O	O	O	O
-फेंकने	VM	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-निगम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	B	O	O
-से	PSP	TEMP	O	O	O	O
-शिकंजा	NN	TEMP	O	O	B-MISC	OCC
-कसना	VM	TEMP	O	O	I-MISC	O
-शुरू	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-दिया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+कानपुर
+:
+सफाई
+के
+बाद
+भी
+गंदगी
+फेंकने
+वालों
+पर
+नगर
+निगम
+की
+टीम
+ने
+सोमवार
+से
+शिकंजा
+कसना
+शुरू
+कर
+दिया
+है
+.
 
-नगर	NN	TEMP	O	O	O	O
-निगम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जोनल	XC	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-अफसर	XC	TEMP	O	O	O	O
-रमेश	XC	TEMP	O	O	O	O
-गंगवार	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-सेनेटरी	JJ	TEMP	O	O	O	O
-इंस्पेक्टर	XC	TEMP	O	O	O	O
-संजीव	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नसीमाबाद	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिवम	XC	TEMP	O	O	O	O
-भोजनालय	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-सडक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गंदगी	NN	TEMP	O	O	B-MISC	OCC
-फेंकने	VM	TEMP	B-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-फुटपाथ	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भंट्टी	NN	TEMP	B-MISC	O	O	O
-रखकर	VM	TEMP	I-MISC	O	B-MISC	OCC
-अतिक्रमण	NN	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-मालिक	XC	TEMP	O	O	O	O
-विजय	XC	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+निगम
+के
+जोनल
+स्वास्थ्य
+अफसर
+रमेश
+गंगवार
+और
+सेनेटरी
+इंस्पेक्टर
+संजीव
+यादव
+ने
+नसीमाबाद
+रोड
+में
+शिवम
+भोजनालय
+द्वारा
+सडक
+पर
+गंदगी
+फेंकने
+और
+फुटपाथ
+पर
+भंट्टी
+रखकर
+अतिक्रमण
+करने
+पर
+मालिक
+विजय
+गुप्ता
+पर
+पांच
+सौ
+रुपये
+जुर्माना
+लगाया
+.
 
-इसी	DEM	TEMP	O	O	O	O
-कडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ओमनगर	JJ	TEMP	O	O	O	O
-दर्शनपुरवा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-राजाराम	XC	TEMP	O	O	O	O
-शुक्ला	NNP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-भंडार	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-दोनों	JJ	TEMP	O	O	O	O
-पत्तल	NN	TEMP	O	O	O	O
-डाल	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+कडी
+में
+ओमनगर
+दर्शनपुरवा
+में
+राजाराम
+शुक्ला
+द्वारा
+भंडार
+कर
+रोड
+पर
+ही
+दोनों
+पत्तल
+डाल
+दिए
+थे
+.
 
-स्वास्थ्य	XC	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-सफाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-जुट	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+स्वास्थ्य
+टीम
+द्वारा
+कार्रवाई
+किए
+जाने
+पर
+खुद
+ही
+सफाई
+करने
+में
+जुट
+गया
+.
 
-जुर्माना	NN	TEMP	B-MISC	O	O	O
-न	NEG	TEMP	I-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-चालान	NN	TEMP	O	O	B-MISC	OCC
-काटकर	VM	TEMP	O	O	I-MISC	O
-कोर्ट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जुर्माना
+न
+देने
+पर
+चालान
+काटकर
+कोर्ट
+के
+लिए
+भेज
+दिया
+गया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-गंदगी	NN	TEMP	O	O	O	O
-फेंकने	VM	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-चालान	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+स्वास्थ्य
+टीम
+ने
+गंदगी
+फेंकने
+में
+कई
+लोगों
+का
+चालान
+किया
+.
 
-प्रशासन	NN	TEMP	O	O	O	O
-अविनाश	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-अफसरों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	O	O	B-MISC	OCC
-दिए	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-गंदगी	NN	TEMP	O	O	O	O
-फेंकने	VM	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-रोज	NN	TEMP	O	O	O	OCC
-अभियान	NN	TEMP	O	O	O	O
-चलाया	VM	TEMP	B-MISC	O	B-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	B-MISC	O	O	OCC
-वसूला	VAUX	TEMP	I-MISC	O	B-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
+प्रशासन
+अविनाश
+सिंह
+ने
+सभी
+स्वास्थ्य
+अफसरों
+को
+आदेश
+दिए
+है
+कि
+गंदगी
+फेंकने
+वालों
+के
+खिलाफ
+रोज
+अभियान
+चलाया
+जाए
+और
+मौके
+पर
+ही
+जुर्माना
+वसूला
+जाए

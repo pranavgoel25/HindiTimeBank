@@ -1,232 +1,232 @@
 
-पटना	NNP	TEMP	O	O	O	O
-[	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+पटना
+[
+जेएनएन
+]
+.
 
-सुप्रीम	XC	TEMP	O	O	O	O
-कोर्ट	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वो	PRP	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-रेप	NN	TEMP	O	O	O	O
-पीड़िता	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-मुआवजा	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-जिसके	PRP	TEMP	O	O	O	O
-गर्भपात	NN	TEMP	B-MISC	O	B-MISC	O
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-इजाजत	NN	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुप्रीम
+कोर्ट
+ने
+बिहार
+सरकार
+को
+निर्देश
+दिया
+है
+कि
+वो
+उस
+रेप
+पीड़िता
+को
+दस
+लाख
+रुपए
+मुआवजा
+दे
+जिसके
+गर्भपात
+कराने
+की
+इजाजत
+कोर्ट
+ने
+नहीं
+दी
+थी
+.
 
-सुप्रीम	JJ	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ये	DEM	TEMP	O	O	O	O
-मुआवजा	NN	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-लापरवाही	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वजह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	O
-का	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुप्रीम
+कोर्ट
+ने
+ये
+मुआवजा
+बिहार
+सरकार
+द्वारा
+लापरवाही
+की
+वजह
+से
+देने
+का
+आदेश
+दिया
+है
+.
 
-बता	VM	TEMP	O	O	B-MISC	REP
-दें	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-9	QC	TEMP	O	I	O	O
-मई	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-सुप्रीम	JJ	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वो	PRP	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-मुआवजा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दें	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+बता
+दें
+कि
+पिछले
+9
+मई
+को
+सुप्रीम
+कोर्ट
+ने
+बिहार
+सरकार
+को
+निर्देश
+दिया
+था
+कि
+वो
+उस
+महिला
+को
+तीन
+लाख
+रुपए
+मुआवजा
+के
+रूप
+में
+दें
+.
 
-कोर्ट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एम्स	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पीड़िता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-इलाज	NN	TEMP	B-MISC	O	B-MISC	O
-करा	VM	TEMP	I-MISC	O	I-MISC	O
-पूरा	JJ	TEMP	B-MISC	O	O	O
-ग्राफिक	JJ	TEMP	I-MISC	O	B-MISC	O
-बताएं	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोर्ट
+ने
+एम्स
+को
+निर्देश
+दिया
+था
+कि
+पीड़िता
+के
+इलाज
+करा
+पूरा
+ग्राफिक
+बताएं
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-इलाज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-पर्याप्त	JJ	TEMP	O	O	O	O
-व्यवस्था	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-जाए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+बिहार
+सरकार
+को
+निर्देश
+दिया
+था
+कि
+उसके
+इलाज
+के
+लिए
+पर्याप्त
+व्यवस्था
+की
+जाए
+.
 
-महिला	NN	TEMP	O	O	O	O
-रेप	XC	TEMP	O	O	O	O
-पीड़िता	XC	TEMP	O	O	O	O
-एचआईवी	XC	TEMP	O	O	O	O
-पॉजिटिव	NNP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+महिला
+रेप
+पीड़िता
+एचआईवी
+पॉजिटिव
+है
+.
 
-उसने	PRP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-गर्भ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पल	VM	TEMP	O	O	B-STAT	OCC
-रहे	VAUX	TEMP	O	O	I-STAT	O
-भ्रूण	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हटाने	VM	TEMP	O	O	B-MISC	O
-की	PSP	TEMP	O	O	O	O
-अनुमति	NN	TEMP	B-MISC	O	B-MISC	OCC
-मांगी	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+अपने
+गर्भ
+में
+पल
+रहे
+भ्रूण
+को
+हटाने
+की
+अनुमति
+मांगी
+थी
+.
 
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हाईकोर्ट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-वर्षीय	JJ	TEMP	O	O	O	O
-बलात्कार	NN	TEMP	O	O	O	O
-पीड़ित	JJ	TEMP	O	O	O	O
-लडकी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-26	QC	TEMP	O	O	O	O
-सप्ताह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भ्रूण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गर्भपात	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अनुमति	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामले
+में
+हाईकोर्ट
+ने
+इस
+10
+वर्षीय
+बलात्कार
+पीड़ित
+लडकी
+के
+26
+सप्ताह
+के
+भ्रूण
+के
+गर्भपात
+की
+अनुमति
+नहीं
+दी
+थी
+.
 
-कोर्ट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मेडिकल	XC	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-विचार	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जिसमें	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-गर्भपात	NN	TEMP	B-MISC	O	O	O
-करना	VM	TEMP	I-MISC	O	O	OCC
-न	NEG	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-लड़की	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जीवन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-अच्छा	JJ	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-और	CC	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-भ्रूण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+कोर्ट
+ने
+मेडिकल
+बोर्ड
+की
+रिपोर्ट
+पर
+विचार
+किया
+जिसमें
+कहा
+गया
+कि
+'
+गर्भपात
+करना
+न
+तो
+इस
+लड़की
+के
+जीवन
+के
+लिए
+अच्छा
+है
+और
+न
+ही
+भ्रूण
+के
+लिए
+.
 
-'	SYM	TEMP	O	O	O	O
-कोर्ट	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सुझाव	NN	TEMP	O	O	O	OCC
-दिया	VM	TEMP	B-MISC	O	B-MISC	O
-कि	CC	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-प्रत्येक	QF	TEMP	O	O	O	O
-राज्य	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ऐसे	DEM	TEMP	O	O	O	O
-मामलों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तत्परता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निर्णय	NN	TEMP	B-MISC	O	B-MISC	O
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-स्थाई	JJ	TEMP	O	O	O	O
-मेडिकल	XC	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-गठित	JJ	TEMP	B-MISC	O	B-MISC	O
-करे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+'
+कोर्ट
+ने
+सुझाव
+दिया
+कि
+केंद्र
+सरकार
+प्रत्येक
+राज्य
+में
+ऐसे
+मामलों
+में
+तत्परता
+से
+निर्णय
+लेने
+के
+लिए
+स्थाई
+मेडिकल
+बोर्ड
+गठित
+करे
+.

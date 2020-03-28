@@ -1,257 +1,257 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-महम	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-विदेशों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमा	JJ	TEMP	O	O	O	O
-काला	XC	TEMP	O	O	O	O
-धन	NN	TEMP	O	O	O	O
-लाकर	VM	TEMP	B-MISC	O	O	O
-हर	QF	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-लालच	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-सत्ता	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आई	QC	TEMP	O	O	O	O
-भाजपा	NN	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-खटारा	JJ	TEMP	O	O	O	O
-साबित	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सहयोगी
+,
+महम
+:
+विदेशों
+में
+जमा
+काला
+धन
+लाकर
+हर
+व्यक्ति
+के
+खाते
+में
+15
+लाख
+रुपये
+जमा
+करने
+का
+लालच
+देकर
+सत्ता
+में
+आई
+भाजपा
+सरकार
+अब
+खटारा
+साबित
+हो
+रही
+है
+.
 
-ये	DEM	TEMP	O	O	O	O
-शब्द	NN	TEMP	O	O	O	O
-इनसो	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-राष्ट्रीय	JJ	TEMP	O	O	O	O
-अध्यक्ष	NN	TEMP	O	O	O	O
-दिग्विजय	XC	TEMP	O	O	O	O
-चौटाला	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहे	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+ये
+शब्द
+इनसो
+के
+राष्ट्रीय
+अध्यक्ष
+दिग्विजय
+चौटाला
+ने
+कहे
+.
 
-वे	PRP	TEMP	O	O	O	O
-हल्के	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-सैमाण	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-जनसभा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-संबोधित	JJ	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वे
+हल्के
+के
+गांव
+सैमाण
+में
+एक
+जनसभा
+को
+संबोधित
+कर
+रहे
+थे
+.
 
-वे	PRP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	B	O	O
-सितंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-चौ	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+वे
+क्षेत्र
+के
+लोगों
+से
+25
+सितंबर
+को
+चौ
+.
 
-देवीलाल	NNP	TEMP	O	O	O	O
-जयंती	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भिवानी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आयोजित	JJ	TEMP	O	O	O	O
-रैली	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-न्योता	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-आए	VM	TEMP	B-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देवीलाल
+जयंती
+पर
+भिवानी
+में
+आयोजित
+रैली
+का
+न्योता
+देने
+आए
+थे
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-भाजपा	NN	TEMP	O	O	O	O
-सत्ता	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-वायदों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भुलाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+भाजपा
+सत्ता
+में
+आने
+के
+बाद
+सभी
+वायदों
+को
+भुलाया
+जा
+रहा
+है
+.
 
-कांग्रेस	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बरसते	VM	TEMP	O	O	B-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-कांग्रेस	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-वजूद	NN	TEMP	O	O	O	O
-खत्म	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कांग्रेस
+पर
+बरसते
+हुए
+उन्होंने
+कहा
+कि
+कांग्रेस
+का
+वजूद
+खत्म
+हो
+चुका
+है
+.
 
-पूर्व	JJ	TEMP	O	O	O	O
-मुख्यमंत्री	NN	TEMP	O	O	O	O
-भूपेंद्र	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	QC	TEMP	O	O	O	O
-हुड्डा	NN	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-पार्टी	NN	TEMP	O	O	O	O
-बनाने	VM	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-फिराक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+पूर्व
+मुख्यमंत्री
+भूपेंद्र
+¨
+सह
+हुड्डा
+अब
+नई
+पार्टी
+बनाने
+की
+फिराक
+में
+हैं
+.
 
-क्योंकि	CC	TEMP	O	O	O	O
-कांग्रेस	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रहते	VM	TEMP	O	O	B-STAT	O
-हुए	VAUX	TEMP	O	O	I-STAT	O
-उनको	PRP	TEMP	O	O	O	O
-सीबीआई	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भय	NN	TEMP	B-MISC	O	B-MISC	OCC
-सताने	VM	TEMP	I-MISC	O	I-MISC	O
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+क्योंकि
+कांग्रेस
+में
+रहते
+हुए
+उनको
+सीबीआई
+का
+भय
+सताने
+लगा
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-हल्के	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-किशनगढ़	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सीसर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-भैणी	JJ	TEMP	O	O	O	O
-मातो	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मदीना	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गद्दी	NN	TEMP	O	O	O	O
-खेडी	JJ	TEMP	O	O	O	O
-गावों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दौरा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+हल्के
+के
+गांव
+किशनगढ़
+,
+सीसर
+,
+भैणी
+मातो
+,
+मदीना
+,
+गद्दी
+खेडी
+गावों
+का
+दौरा
+किया
+.
 
-इस	DEM	TEMP	O	O	O	O
-अवसर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जिलाध्यक्ष	JJ	TEMP	O	O	O	O
-सतीश	XC	TEMP	O	O	O	O
-नांदल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-महंत	JJ	TEMP	O	O	O	O
-सतीश	XC	TEMP	O	O	O	O
-दास	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-वेदप्रकाश	XC	TEMP	O	O	O	O
-भराण	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सत्यप्रकाश	XC	TEMP	O	O	O	O
-बिसला	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नरेश	NN	TEMP	O	O	O	O
-बडा	JJ	TEMP	O	O	O	O
-भैण	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सेठी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अजय	XC	TEMP	O	O	O	O
-मलिक	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-संदीप	XC	TEMP	O	O	O	O
-नहरा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हरज्ञान	XC	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-र	RP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-वद्र	NN	TEMP	O	O	O	O
-सांगवान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रामदिया	NNP	TEMP	O	O	O	O
-राठी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-संजय	XC	TEMP	O	O	O	O
-बल्हारा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पूर्व	XC	TEMP	O	O	O	O
-जीएम	XC	TEMP	O	O	O	O
-कुलदीप	XC	TEMP	O	O	O	O
-अहलावत	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सोनू	XC	TEMP	O	O	O	O
-जांगडा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-महेंद्र	XC	TEMP	O	O	O	O
-सीसर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-राठी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-धर्म	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-पांचाल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पप्पू	NN	TEMP	O	O	O	O
-भैणी	JJ	TEMP	O	O	O	O
-भैरो	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कृष्ण	XC	TEMP	O	O	O	O
-खत्री	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सुनील	JJ	TEMP	O	O	O	O
-उर्फ	NN	TEMP	O	O	O	O
-काला	JJ	TEMP	O	O	O	O
-सरपंच	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सुनिता	NN	TEMP	O	O	O	O
-भैणी	JJ	TEMP	O	O	O	O
-भैरो	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-इनेलो	PRP	TEMP	O	O	O	O
-कार्यकर्ता	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	OCC
-रहे	VM	TEMP	O	O	I-STAT	O
+इस
+अवसर
+पर
+जिलाध्यक्ष
+सतीश
+नांदल
+,
+महंत
+सतीश
+दास
+,
+वेदप्रकाश
+भराण
+,
+सत्यप्रकाश
+बिसला
+,
+नरेश
+बडा
+भैण
+,
+सेठी
+,
+अजय
+मलिक
+,
+संदीप
+नहरा
+,
+हरज्ञान
+ठेकेदार
+,
+र
+¨
+वद्र
+सांगवान
+,
+रामदिया
+राठी
+,
+संजय
+बल्हारा
+,
+पूर्व
+जीएम
+कुलदीप
+अहलावत
+,
+सोनू
+जांगडा
+,
+महेंद्र
+सीसर
+,
+राजेश
+राठी
+,
+धर्म
+¨
+सह
+पांचाल
+,
+पप्पू
+भैणी
+भैरो
+,
+कृष्ण
+खत्री
+,
+सुनील
+उर्फ
+काला
+सरपंच
+,
+सुनिता
+भैणी
+भैरो
+आदि
+इनेलो
+कार्यकर्ता
+मौजूद
+रहे

@@ -1,543 +1,543 @@
-﻿देहरादून	NNP	TEMP	O	O	O	O
+﻿देहरादून
 
-[	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-वाहनों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अनोखे	JJ	TEMP	O	O	O	O
-नंबरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चाहत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	O
-खास	JJ	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-लाखों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पीछे	NST	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-हट	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+[
+जेएनएन
+]
+:
+वाहनों
+पर
+अनोखे
+नंबरों
+की
+चाहत
+में
+आम
+से
+लेकर
+खास
+तक
+लाखों
+रुपये
+खर्च
+करने
+से
+भी
+पीछे
+नहीं
+हट
+रहे
+.
 
-परिवहन	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अनोखे	JJ	TEMP	O	O	O	O
-नंबरों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ऑनलाइन	XC	TEMP	O	O	O	O
-बोली	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इस	PRP	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-बिका	NN	TEMP	B-MISC	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-77	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+परिवहन
+विभाग
+की
+अनोखे
+नंबरों
+के
+लिए
+ऑनलाइन
+बोली
+में
+इस
+बार
+0
+0
+0
+1
+बिका
+एक
+लाख
+77
+हजार
+में
+.
 
-खरीददार	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मसूरी	NNP	TEMP	O	O	O	O
-विधायक	JJ	TEMP	O	O	O	O
-गणेश	XC	TEMP	O	O	O	O
-जोशी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बेटे	NN	TEMP	O	O	O	O
-मयंक	JJ	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खरीददार
+भी
+मसूरी
+विधायक
+गणेश
+जोशी
+के
+बेटे
+मयंक
+रहे
+.
 
-बताया	VM	TEMP	O	O	B-MISC	REP
-जा	VAUX	TEMP	O	O	I-MISC	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-32	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-गाड़ी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	B-MISC	O
-खरीदा	VM	TEMP	B-MISC	O	I-MISC	DECL
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बताया
+जा
+रहा
+कि
+उन्होंने
+अपनी
+32
+लाख
+की
+नई
+गाड़ी
+के
+लिए
+यह
+नंबर
+खरीदा
+है
+.
 
-मयंक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-14	QC	TEMP	O	B	O	O
-नवंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	-1
-.	SYM	TEMP	O	O	O	O
+मयंक
+की
+14
+नवंबर
+को
+शादी
+भी
+है
+.
 
-लिहाजा	XC	TEMP	O	O	O	O
+लिहाजा
 
-घरवालों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-गिफ्ट	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-माना	VM	TEMP	O	O	B-MISC	OCC
-जा	VAUX	TEMP	O	O	I-MISC	O
-रहा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घरवालों
+की
+तरफ
+से
+यह
+शादी
+का
+गिफ्ट
+भी
+माना
+जा
+रहा
+.
 
-दूसरा	QO	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मयंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-दूसरी	QO	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-खरीदा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+दूसरा
+नंबर
+भी
+मयंक
+ने
+ही
+दूसरी
+कार
+के
+लिए
+खरीदा
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-7	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बोली	NN	TEMP	O	O	O	O
-36	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लगाकर	VM	TEMP	O	O	B-MISC	O
-नंबर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खरीद	NN	TEMP	B-MISC	O	B-MISC	OCC
-लिया	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+0
+0
+0
+7
+नंबर
+की
+बोली
+36
+हजार
+रुपये
+लगाकर
+नंबर
+को
+खरीद
+लिया
+.
 
-वहीं	PRP	TEMP	O	O	O	O
+वहीं
 
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-पौने	QF	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिकने	VM	TEMP	B-MISC	O	O	O
-से	PSP	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-फूला	VM	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	OCC
-समा	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दस
+हजार
+रुपये
+का
+नंबर
+पौने
+दो
+लाख
+रुपये
+में
+बिकने
+से
+विभाग
+फूला
+नहीं
+समा
+रहा
+.
 
-पिछली	JJ	TEMP	O	O	O	O
-बोली	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यही	DEM	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-35	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिका	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पिछली
+बोली
+में
+यही
+नंबर
+दो
+लाख
+35
+हजार
+में
+बिका
+था
+.
 
-कारोबारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-मर्सडीज	NN	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-2.35	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बोली	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाकर	VM	TEMP	I-MISC	O	I-MISC	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-खरीदा	VM	TEMP	B-MISC	O	B-STAT	OCC
-था	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+कारोबारी
+ने
+अपनी
+मर्सडीज
+कार
+के
+लिए
+2.35
+लाख
+की
+बोली
+लगाकर
+0
+0
+0
+1
+नंबर
+खरीदा
+था
+.
 
-इस	PRP	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-सीरीज	NN	TEMP	O	O	O	O
-यूके	NN	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-7	QC	TEMP	O	O	O	O
-डीए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-पुरानी	JJ	TEMP	O	O	O	O
-सीरीज	NN	TEMP	O	O	O	O
-यूके	NN	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-7	QC	TEMP	O	O	O	O
-बीजेड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-नंबरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बोली	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाई	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+बार
+नई
+सीरीज
+यूके
+0
+7
+डीए
+के
+साथ
+पुरानी
+सीरीज
+यूके
+0
+7
+बीजेड
+के
+कुछ
+नंबरों
+की
+बोली
+लगाई
+गई
+.
 
-बीजेड	NN	TEMP	O	O	O	O
-सीरीज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-4	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिका	XC	TEMP	B-MISC	O	O	O
-.	SYM	TEMP	O	O	O	O
+बीजेड
+सीरीज
+में
+0
+0
+0
+4
+नंबर
+11
+हजार
+रुपये
+में
+बिका
+.
 
-वहीं	PRP	TEMP	O	O	O	O
+वहीं
 
-डीए	RDP	TEMP	O	O	O	O
-सीरीज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-बीस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बेचा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीए
+सीरीज
+में
+0
+0
+0
+5
+बीस
+हजार
+रुपये
+में
+बेचा
+गया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-4444	QC	TEMP	O	O	O	O
-15	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-786	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिका	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+4444
+15
+हजार
+व
+0
+786
+नंबर
+11
+हजार
+में
+बिका
+.
 
-नंबरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बोली	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एआरटीओ	XC	TEMP	O	O	O	O
-अरविंद	XC	TEMP	O	O	O	O
-पांडे	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-6666	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बोली	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-9000	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बोली	NN	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	I-MISC	O
-बिका	VM	TEMP	B-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+नंबरों
+की
+बोली
+के
+बारे
+में
+एआरटीओ
+अरविंद
+पांडे
+ने
+बताया
+कि
+6666
+नंबर
+12
+हजार
+की
+बोली
+और
+9000
+नंबर
+दस
+हजार
+रुपये
+की
+बोली
+में
+बिका
+.
 
-इसी	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
+इसी
+तरह
+0
+0
+0
+2
 
-9999	QC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-6	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
+9999
+व
+0
+0
+0
+6
+नंबर
+दस
+हजार
+रुपये
 
-जबकि	CC	TEMP	O	O	O	O
-7000	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
+जबकि
+7000
+नंबर
+11
+हजार
 
-9999	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बोली	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिका	XC	TEMP	B-MISC	O	O	O
-.	SYM	TEMP	O	O	O	O
+9999
+नंबर
+दस
+हजार
+की
+बोली
+में
+बिका
+.
 
-एआरटीओ	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-9	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-14	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
+एआरटीओ
+ने
+बताया
+कि
+0
+0
+0
+9
+नंबर
+14
+हजार
+रुपये
 
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
+0
+0
+11
+नंबर
+11
+हजार
 
-जबकि	CC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-99	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-999	QC	TEMP	O	O	O	O
-नंबरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बोली	NN	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लगी	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जबकि
+0
+0
+99
+और
+0
+999
+नंबरों
+की
+बोली
+दस
+हजार
+रुपये
+लगी
+.
 
-शुक्रवार	NN	TEMP	O	B	O	O
-शाम	NN	TEMP	O	B	O	O
-चार	QC	TEMP	O	B	O	O
-बजे	RP:?	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-चली	VM	TEMP	O	O	O	OCC
-बोली	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रक्रिया	NN	TEMP	B-MISC	O	O	O
-अब	PRP	TEMP	O	O	O	O
-लॉक	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शुक्रवार
+शाम
+चार
+बजे
+तक
+चली
+बोली
+की
+प्रक्रिया
+अब
+लॉक
+कर
+दी
+गई
+है
+.
 
-परिवहन	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वाहनों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रिजर्व	XC	TEMP	O	O	O	O
-फैंसी	NN	TEMP	O	O	O	O
-नंबरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ऑनलाइन	XC	TEMP	O	O	O	O
-नीलामी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्रक्रिया	NN	TEMP	B-MISC	O	O	O
-सितंबर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-शुरू	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परिवहन
+विभाग
+की
+ओर
+से
+वाहनों
+के
+लिए
+रिजर्व
+फैंसी
+नंबरों
+की
+ऑनलाइन
+नीलामी
+की
+प्रक्रिया
+सितंबर
+से
+शुरू
+हुई
+थी
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-बढ़-चढ़कर	VM	TEMP	O	O	B-MISC	OCC
-भाग	NN	TEMP	B-MISC	O	B-MISC	O
-ले	VM	TEMP	I-MISC	O	I-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+लोग
+बढ़-चढ़कर
+भाग
+ले
+रहे
+.
 
-उम्मीद	NN	TEMP	O	O	O	OCC
-नहीं	NEG	TEMP	O	O	B-MISC	O
-हुई	VM	TEMP	O	O	I-MISC	O
-पूरी	JJ	TEMP	O	O	O	O
-भले	JJ	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-बोली	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सर्वाधिक	JJ	TEMP	O	O	O	O
-कीमत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बिका	VM	TEMP	B-MISC	O	O	OCC
+उम्मीद
+नहीं
+हुई
+पूरी
+भले
+0
+0
+0
+1
+बोली
+में
+सर्वाधिक
+कीमत
+पर
+बिका
 
-लेकिन	CC	TEMP	O	O	O	O
-परिवहन	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उम्मीदें	NN	TEMP	O	O	O	O
-और	QF	TEMP	O	O	O	O
-ज्यादा	QF	TEMP	O	O	O	O
-थीं	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+लेकिन
+परिवहन
+विभाग
+की
+उम्मीदें
+और
+ज्यादा
+थीं
+.
 
-विभाग	NN	TEMP	O	O	O	O
-अनुमान	NN	TEMP	B-MISC	O	O	OCC
-लगा	VM	TEMP	I-MISC	O	B-STAT	O
-रहा	VAUX	TEMP	I-MISC	O	I-STAT	O
-था	VAUX	TEMP	I-MISC	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-पिछली	JJ	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कीमत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ज्यादा	QF	TEMP	O	O	O	O
-बिकेगा	VM	TEMP	B-MISC	O	B-MISC	OCC
+विभाग
+अनुमान
+लगा
+रहा
+था
+कि
+यह
+नंबर
+पिछली
+बार
+की
+कीमत
+से
+ज्यादा
+बिकेगा
 
-लेकिन	CC	TEMP	O	O	O	O
-इस	PRP	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-पिछली	NN	TEMP	O	O	O	O
-बार	RDP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिका	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+लेकिन
+इस
+बार
+यह
+पिछली
+बार
+से
+कम
+में
+बिका
+.
 
-विभाग	NN	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उम्मीद	NN	TEMP	O	O	O	O
-तीन-चार	NN	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-बिकने	VM	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-मानता	VM	TEMP	O	O	I-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विभाग
+इस
+नंबर
+की
+उम्मीद
+तीन-चार
+लाख
+रुपये
+तक
+बिकने
+की
+मानता
+है
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	O	O	O	OCC
-:	SYM	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-वीआइपी	JJ	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बोली	XC	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+'
+0
+0
+0
+1
+'
+वीआइपी
+नंबर
+की
+बोली
 
-कीमत	NN	TEMP	O	O	O	O
-जानकर	VM	TEMP	O	O	O	O
-आप	PRP	TEMP	O	O	O	O
-रह	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैरान	PRP	TEMP	I-MISC	O	O	O
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	NN	TEMP	O	O	B-MISC	OCC
-:	SYM	TEMP	O	O	I-MISC	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-0	QC	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-बड़ी	XC	TEMP	O	O	O	O
-बोली	NNP	TEMP	O	O	O	O
-1.70	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NNP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	NN	TEMP	B-MISC	O	O	OCC
-:	SYM	TEMP	O	O	O	O
-त्योहारी	JJ	TEMP	O	O	O	O
-सीजन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यात्रियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अतिरिक्त	JJ	TEMP	O	O	O	O
-कोच	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सुविधा	NN	TEMP	O	O	O	O
+कीमत
+जानकर
+आप
+रह
+जाएंगे
+हैरान
+यह
+भी
+पढ़ें
+:
+0
+0
+0
+1
+के
+लिए
+अब
+तक
+की
+सबसे
+बड़ी
+बोली
+1.70
+लाख
+रुपये
+यह
+भी
+पढ़ें
+:
+त्योहारी
+सीजन
+में
+इस
+ट्रेन
+में
+यात्रियों
+को
+अतिरिक्त
+कोच
+की
+सुविधा

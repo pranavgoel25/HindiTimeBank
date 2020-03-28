@@ -1,411 +1,411 @@
 
-अमरोहा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-पालिका	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नया	JJ	TEMP	B-MISC	O	O	O
-जलकर	VM	TEMP	I-MISC	O	O	O
-घोषित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अमरोहा
+:
+पालिका
+ने
+नया
+जलकर
+घोषित
+कर
+दिया
+है
+.
 
-अब	PRP	TEMP	O	O	O	O
-हर	QF	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-50	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-घरेलू	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-75	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-कार्मशियल	JJ	TEMP	O	O	O	O
-वसूला	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+हर
+माह
+50
+रुपया
+घरेलू
+और
+75
+रुपया
+कार्मशियल
+वसूला
+जाएगा
+.
 
-यह	PRP	TEMP	O	O	O	O
-य	RP	TEMP	O	O	O	O
-सितंबर	XC	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लागू	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+य
+सितंबर
+माह
+से
+लागू
+होगा
+.
 
-आडिट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-भीतर	NST	TEMP	O	O	O	O
-हुए	VM	TEMP	B-MISC	O	B-MISC	OCC
-पौने	QF	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नुकसान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-पालिका	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शासन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आदेश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-जलमूल्य	NN	TEMP	O	O	O	O
-घोषित	JJ	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आडिट
+में
+चार
+साल
+के
+भीतर
+हुए
+पौने
+तीन
+करोड
+के
+नुकसान
+के
+बाद
+पालिका
+ने
+शासन
+के
+आदेश
+के
+तहत
+यह
+जलमूल्य
+घोषित
+किया
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-जल	NN	TEMP	O	O	B-MISC	O
-उपकर	VM	TEMP	B-MISC	O	I-MISC	O
-भी	RP	TEMP	O	O	O	O
-उपभोक्ता	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देना	VM	TEMP	O	O	B-MISC	OCC
-पडेगा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+हर
+माह
+दो
+रुपया
+जल
+उपकर
+भी
+उपभोक्ता
+को
+देना
+पडेगा
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-वसूली	NN	TEMP	O	O	B-MISC	OCC
-पूर्व	NST	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भांति	PSP	TEMP	O	O	O	O
-कर	VM	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-किया	VM	TEMP	O	O	B-MISC	-1
-जाएगा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+वसूली
+पूर्व
+की
+भांति
+कर
+विभाग
+द्वारा
+किया
+जाएगा
+.
 
-पालिका	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आडिट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-बडा	JJ	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	B-MISC	OCC
-आया	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पालिका
+में
+आडिट
+के
+दौरान
+बडा
+मामला
+सामने
+आया
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पालिका	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-पौने	QF	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-राजस्व	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	I-MISC	O	O	O
-हानि	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+पता
+चला
+कि
+पालिका
+को
+करीब
+पौने
+तीन
+करोड
+रुपये
+राजस्व
+की
+हानि
+हुई
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-नुकसान	NN	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-सालों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुआ	VM	TEMP	O	O	B-STAT	OCC
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+यह
+नुकसान
+पिछले
+चार
+सालों
+में
+हुआ
+है
+.
 
-पालिका	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-नुकसान	NN	TEMP	O	O	O	OCC
-किसी	PRP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-बल्कि	CC	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पहुंचाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पालिका
+को
+यह
+नुकसान
+किसी
+और
+नहीं
+बल्कि
+बोर्ड
+ने
+पहुंचाया
+था
+.
 
-अक्टूबर	NNP	TEMP	O	O	O	O
-1997	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शासन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-घरेलू	XC	TEMP	O	O	O	O
-जल	XC	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दर	NN	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कामर्शियल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-75	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रतिमाह	NN	TEMP	O	O	O	OCC
-निर्धारित	JJ	TEMP	B-MISC	O	B-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-मगर	CC	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-शासनादेश	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दरकिनार	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-जलमूल्य	NN	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रतिमाह	NN	TEMP	O	O	O	O
-निर्धारित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अक्टूबर
+1997
+में
+शासन
+ने
+घरेलू
+जल
+मूल्य
+की
+दर
+50
+रुपये
+और
+कामर्शियल
+की
+75
+रुपये
+प्रतिमाह
+निर्धारित
+की
+थी
+मगर
+बोर्ड
+ने
+इस
+शासनादेश
+को
+दरकिनार
+करते
+हुए
+जलमूल्य
+10
+रुपये
+प्रतिमाह
+निर्धारित
+कर
+दिया
+.
 
-इस	DEM	TEMP	O	O	O	O
-खबर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दैनिक	JJ	TEMP	O	O	O	O
-जागरण	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चार	XC	TEMP	O	O	O	O
-सितंबर	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लगाया	VM	TEMP	O	O	O	O
-पौने	QF	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-करोड	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-चूना	NN	TEMP	O	O	O	OCC
-'	SYM	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-आठ	QC	TEMP	O	B	O	O
-सितंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-जलकल	XC	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तैयार	JJ	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-'	SYM	TEMP	O	O	O	O
-जलकर	VM	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-शीर्षक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रकाशित	JJ	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+खबर
+को
+दैनिक
+जागरण
+ने
+चार
+सितंबर
+के
+अंक
+में
+'
+बोर्ड
+ने
+लगाया
+पौने
+तीन
+करोड
+का
+चूना
+'
+और
+आठ
+सितंबर
+को
+'
+जलकल
+ने
+तैयार
+किया
+'
+जलकर
+'
+का
+नया
+प्रस्ताव
+'
+शीर्षक
+से
+प्रकाशित
+किया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-हरकत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आई	QC	TEMP	O	O	O	O
-पालिका	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+हरकत
+में
+आई
+पालिका
+ने
+इस
+पर
+कार्रवाई
+शुरू
+कर
+दी
+.
 
-प्रभारी	JJ	TEMP	O	O	O	O
-ईओ	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जलकल	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जेई	XC	TEMP	O	O	O	O
-बीआर	XC	TEMP	O	O	O	O
-अशोक	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हरी	JJ	TEMP	O	O	O	O
-झंडी	NN	TEMP	O	O	B-MISC	OCC
-दे	VM	TEMP	B-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रभारी
+ईओ
+ने
+जलकल
+विभाग
+के
+जेई
+बीआर
+अशोक
+के
+प्रस्ताव
+को
+हरी
+झंडी
+दे
+दी
+.
 
-प्रस्ताव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घरेलू	JJ	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कार्मशियल	NN	TEMP	O	O	O	O
-75	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रतिमाह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जलमूल्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-देना	VM	TEMP	I-MISC	O	I-MISC	O
-होगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रस्ताव
+में
+घरेलू
+50
+रुपये
+और
+कार्मशियल
+75
+रुपये
+प्रतिमाह
+की
+दर
+से
+जलमूल्य
+देना
+होगा
+.
 
-यही	PRP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-प्रति	RP:?	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जल	XC	TEMP	O	O	O	O
-प्रदूषण	NN	TEMP	O	O	O	O
-उपकर	VM	TEMP	B-MISC	O	B-MISC	O
-भी	RP	TEMP	O	O	O	O
-लगेगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+यही
+नहीं
+प्रति
+कनेक्शन
+पर
+दो
+रुपये
+जल
+प्रदूषण
+उपकर
+भी
+लगेगा
+.
 
-यह	DEM	TEMP	O	O	O	O
-जल	NN	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-एक	XC	TEMP	O	O	O	O
-सितंबर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लागू	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+जल
+मूल्य
+एक
+सितंबर
+से
+लागू
+कर
+दिया
+गया
+है
+.
 
-शासनादेश	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पालन	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-पालिका	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पौने	QF	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चपत	NN	TEMP	O	O	O	O
-पालिका	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लगी	VM	TEMP	O	O	B-MISC	OCC
-थी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शासनादेश
+का
+पालन
+न
+करने
+से
+पालिका
+को
+पौने
+तीन
+करोड
+रुपये
+की
+चपत
+पालिका
+को
+लगी
+थी
+.
 
-इसको	PSP	TEMP	O	O	O	O
-गंभीरता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेते	VM	TEMP	B-MISC	O	B-STAT	O
-हुए	VAUX	TEMP	I-MISC	O	I-STAT	O
-जलकल	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-1997	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शासनादेश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हिसाब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घरेलू	JJ	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कार्मशियल	NN	TEMP	O	O	O	O
-75	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रतिमाह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जलमूल्य	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	O	O	O	O
-तैयार	JJ	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसको
+गंभीरता
+से
+लेते
+हुए
+जलकल
+विभाग
+ने
+1997
+के
+शासनादेश
+के
+हिसाब
+से
+घरेलू
+50
+रुपये
+और
+कार्मशियल
+75
+रुपये
+प्रतिमाह
+की
+दर
+से
+जलमूल्य
+का
+प्रस्ताव
+तैयार
+किया
+था
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जलउपकर	VM	TEMP	O	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-देना	VM	TEMP	B-MISC	O	B-MISC	OCC
-होगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+दो
+रुपया
+प्रति
+माह
+उपभोक्ताओं
+को
+जलउपकर
+भी
+देना
+होगा
+.
 
-इस	DEM	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-घोषित	JJ	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-गजट	NN	TEMP	B-MISC	O	B-MISC	OCC
-करा	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+प्रस्ताव
+को
+घोषित
+कर
+गजट
+करा
+दिया
+गया
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-जल	NN	TEMP	O	O	O	O
-मूल्य	NN	TEMP	O	O	O	O
-एक	XC	TEMP	O	O	O	O
-सितंबर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लागू	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+जल
+मूल्य
+एक
+सितंबर
+से
+लागू
+किया
+गया
+है
+.
 
-जलकर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वसूली	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-विभाग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सौंपी	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जलकर
+की
+वसूली
+कर
+विभाग
+को
+सौंपी
+गई
+है
+.
 
-विजेंद्र	XC	TEMP	O	O	O	O
-पाल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	B-MISC	O
-ईओ	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विजेंद्र
+पाल
+,
+प्रभारी
+ईओ
+.

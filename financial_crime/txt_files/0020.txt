@@ -1,5 +1,5 @@
 नवादा,NN,TEMP,O,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 बिहार,XC,TEMP,O,O
 मंदिर,NNP,TEMP,O,O
@@ -24,7 +24,7 @@
 की,VM,TEMP,I-MISC,O
 गई,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 गौरतलब,NN,TEMP,B-STAT,DEC
 हो,VM,TEMP,I-STAT,O
@@ -46,7 +46,7 @@
 प्राप्त,JJ,TEMP,B-MISC,OCC
 हुई,VM,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 कार्यपालक,XC,TEMP,O,O
 अभियंता,NNP,TEMP,O,O
@@ -69,7 +69,7 @@
 किया,VM,TEMP,I-MISC,O
 गया,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 वर्तमान,NN,TEMP,O,O
 में,PSP,TEMP,O,O
@@ -113,7 +113,7 @@
 की,VM,TEMP,I-MISC,O
 गई,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 वारिसलीगंज,JJ,TEMP,O,O
 प्रखंड,NN,TEMP,O,O
@@ -313,7 +313,7 @@
 की,VM,TEMP,I-MISC,O
 गई,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 जिला,JJ,TEMP,O,O
 पदाधिकारी,NN,TEMP,O,O
@@ -333,7 +333,7 @@
 से,PSP,TEMP,O,O
 कराया,VM,TEMP,B-MISC,OCC
 जाएगा,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 प्रत्येक,QF,TEMP,O,O
 योजना,NN,TEMP,O,O
@@ -353,7 +353,7 @@
 कराना,VM,TEMP,I-MISC,O
 सुनिश्चित,JJ,TEMP,B-MISC,OCC
 करेंगे,VM,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 कार्यस्थल,NN,TEMP,O,O
 पर,PSP,TEMP,O,O
@@ -394,7 +394,7 @@
 दिया,VM,TEMP,I-MISC,-1
 गया,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 डीएम,NN,TEMP,O,O
 ने,PSP,TEMP,O,O
@@ -417,4 +417,4 @@
 में,PSP,TEMP,O,O
 सुनिश्चित,JJ,TEMP,B-MISC,OCC
 करेंगे,VM,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O

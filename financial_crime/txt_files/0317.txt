@@ -1,385 +1,385 @@
-﻿बरेली	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿बरेली
+(
+जागरण
+संवाददाता
+)
+.
 
-रूहेलखंड	XC	TEMP	O	O	O	O
-विश्वविद्यालय	XC	TEMP	O	O	O	O
-प्रशासन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कैंपस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लाइब्रेरी	NN	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-किताबें	NN	TEMP	O	O	O	O
-खरीदने	VM	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-ऑर्डर	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रूहेलखंड
+विश्वविद्यालय
+प्रशासन
+ने
+कैंपस
+के
+हर
+विभाग
+में
+लाइब्रेरी
+बनाने
+के
+लिए
+दो
+करोड़
+रुपये
+की
+किताबें
+खरीदने
+का
+ऑर्डर
+कर
+दिया
+है
+.
 
-रूसा	NN	TEMP	O	O	O	O
-समन्वयक	JJ	TEMP	O	O	O	O
-प्रो	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+रूसा
+समन्वयक
+प्रो
+.
 
-एके	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अधिकतम	JJ	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंतराल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ये	DEM	TEMP	O	O	O	O
-पुस्तकालय	NN	TEMP	O	O	B-MISC	OCC
-बन	VM	TEMP	B-MISC	O	I-MISC	O
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एके
+सरकार
+का
+कहना
+है
+कि
+अधिकतम
+दो
+माह
+के
+अंतराल
+में
+ये
+पुस्तकालय
+बन
+जाएंगे
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-स्पष्ट	JJ	TEMP	B-MISC	O	B-MISC	O
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-बुक	JJ	TEMP	O	O	O	O
-फेयर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-विभागाध्यक्षों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-किताबें	NN	TEMP	O	O	O	O
-पसंद	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थीं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-संस्तुति	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-देश-विदेश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-63	QC	TEMP	O	O	O	O
-प्रकाशकों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-किताबें	NN	TEMP	O	O	B-MISC	O
-मंगाई	VM	TEMP	B-MISC	O	I-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+स्पष्ट
+किया
+बुक
+फेयर
+में
+विभागाध्यक्षों
+ने
+जो
+किताबें
+पसंद
+की
+थीं
+,
+उनकी
+संस्तुति
+पर
+ही
+देश-विदेश
+के
+63
+प्रकाशकों
+की
+किताबें
+मंगाई
+हैं
+.
 
-विभागों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पुस्तकालय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संसाधन	NN	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-सवाल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-वो	PRP	TEMP	O	O	O	O
-कहते	VM	TEMP	B-MISC	O	B-MISC	REP
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-प्रक्रिया	NN	TEMP	B-MISC	O	B-MISC	O
-चल	VM	TEMP	I-MISC	O	I-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विभागों
+में
+पुस्तकालय
+के
+संसाधन
+उपलब्ध
+कराने
+के
+सवाल
+पर
+वो
+कहते
+हैं
+कि
+इसकी
+प्रक्रिया
+चल
+रही
+है
+.
 
-रखरखाव	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-बुक्स	NN	TEMP	O	O	O	O
-इश्यू	NN	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जिम्मेदारी	NN	TEMP	O	O	B-MISC	OCC
-तय	JJ	TEMP	B-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रखरखाव
+और
+बुक्स
+इश्यू
+करने
+के
+लिए
+भी
+किसी
+की
+जिम्मेदारी
+तय
+की
+जाएगी
+.
 
-रूसा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दिए	VM	TEMP	O	O	B-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-आठ	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-राष्ट्रीय	JJ	TEMP	O	O	O	O
-उच्चतर	JJ	TEMP	O	O	O	O
-शिक्षा	XC	TEMP	O	O	O	O
-अभियान	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-रूसा	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-भर	RP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-रुविवि	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-आठ	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रूसा
+ने
+दिए
+हैं
+आठ
+करोड़
+:
+राष्ट्रीय
+उच्चतर
+शिक्षा
+अभियान
+(
+रूसा
+)
+ने
+लगभग
+साल
+भर
+पहले
+रुविवि
+को
+विकास
+के
+लिए
+आठ
+करोड़
+रुपये
+दिए
+थे
+.
 
-इसी	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-किताबें	NN	TEMP	O	O	B-MISC	OCC
-खरीदी	VM	TEMP	B-MISC	O	I-MISC	O
-जानी	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+से
+दो
+करोड़
+की
+किताबें
+खरीदी
+जानी
+हैं
+.
 
-विकास	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-होने	VM	TEMP	B-MISC	O	I-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विकास
+के
+अन्य
+काम
+भी
+होने
+हैं
+.
 
-पर	PSP	TEMP	O	O	O	O
-विवि	XC	TEMP	O	O	O	O
-प्रशासन	NN	TEMP	O	O	O	O
-सालभर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किताबें	NN	TEMP	O	O	O	O
-खरीदने	VM	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उलझा	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पर
+विवि
+प्रशासन
+सालभर
+से
+किताबें
+खरीदने
+में
+ही
+उलझा
+रहा
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-किताबों	NN	TEMP	O	O	O	O
-ऑर्डर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कही	VM	TEMP	I-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+अब
+किताबों
+ऑर्डर
+की
+बात
+कही
+गई
+है
+.
 
-हॉस्टल-टॉयलेट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-3.30	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-खर्च	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-विवि	XC	TEMP	O	O	O	O
-प्रशासन	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-रूसा	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिले	VM	TEMP	O	O	B-MISC	OCC
-3.50	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-पाया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हॉस्टल-टॉयलेट
+पर
+3.30
+करोड़
+खर्च
+:
+विवि
+प्रशासन
+अभी
+तक
+रूसा
+से
+मिले
+3.50
+करोड़
+रुपये
+ही
+खर्च
+कर
+पाया
+है
+.
 
-तीन	RDP	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-हॉस्टल	JJ	TEMP	O	O	O	OCC
-निर्माण	NN	TEMP	B-MISC	O	O	O
-और	CC	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-टॉयलेट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तीन
+करोड़
+रुपये
+हॉस्टल
+निर्माण
+और
+50
+लाख
+रुपये
+के
+टॉयलेट
+पर
+खर्च
+किए
+हैं
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-एक-पाई	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-खर्च	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+अभी
+तक
+एक-पाई
+भी
+खर्च
+नहीं
+हुई
+है
+.
 
-जबकि	CC	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-विवि	NN	TEMP	O	O	O	O
-प्रशासन	NN	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-धन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-उपयोग	NN	TEMP	B-MISC	O	B-MISC	OCC
-करता	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-छात्रों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-रहते	VM	TEMP	O	O	O	O
-इसका	PRP	TEMP	O	O	O	O
-लाभ	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिल	VM	TEMP	I-MISC	O	I-MISC	O
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+अगर
+विवि
+प्रशासन
+समय
+पर
+इस
+धन
+का
+उपयोग
+करता
+तो
+छात्रों
+को
+भी
+समय
+रहते
+इसका
+लाभ
+मिल
+जाता
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	B-MISC	O	O	O
-:	SYM	TEMP	O	O	O	O
-आजम	NN	TEMP	O	O	O	O
-खां	PRP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-,	SYM	TEMP	O	O	O	O
-लाल	JJ	TEMP	O	O	O	O
-किला	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-राष्ट्रपति	XC	TEMP	O	O	O	O
-भवन	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-संसद	JJ	TEMP	O	O	O	O
-भवन	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-गुलामी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निशानीअभी	NN	TEMP	O	O	O	O
-4.30	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बाकी	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-रूसा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-फंड	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-विवि	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-4.30	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बकाया	VM	TEMP	B-MISC	O	B-STAT	DECL
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+आजम
+खां
+ने
+कहा
+,
+लाल
+किला
+के
+साथ
+राष्ट्रपति
+भवन
+व
+संसद
+भवन
+भी
+गुलामी
+की
+निशानीअभी
+4.30
+करोड़
+रुपये
+बाकी
+:
+रूसा
+के
+फंड
+से
+विवि
+के
+पास
+अभी
+करीब
+4.30
+करोड़
+रुपये
+बकाया
+है
+.
 
-विवि	XC	TEMP	O	O	O	O
-प्रशासन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-ई	SYM	TEMP	O	O	O	O
-टेंडरिंग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वजह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बाकी	JJ	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-अटके	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विवि
+प्रशासन
+का
+कहना
+है
+कि
+ई
+टेंडरिंग
+की
+वजह
+से
+बाकी
+काम
+अटके
+थे
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-डिजिटल	JJ	TEMP	O	O	O	O
-प्रक्रियाएं	NN	TEMP	O	O	O	O
-थीं	VM	TEMP	O	O	B-MISC	O
-,	SYM	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-वो	PRP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+कुछ
+डिजिटल
+प्रक्रियाएं
+थीं
+,
+अब
+वो
+पूरी
+कर
+ली
+गई
+हैं
+.
 
-जो	PRP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	O	OCC
-होने	VM	TEMP	I-MISC	O	B-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	B-MISC	O	O	O
-बना	VM	TEMP	I-MISC	O	B-STAT	O
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-,	SYM	TEMP	O	O	O	O
-बस	RP	TEMP	O	O	O	O
-टेंडर	NN	TEMP	B-MISC	O	B-MISC	O
-होना	VM	TEMP	I-MISC	O	I-MISC	OCC
-बाकी	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जो
+काम
+होने
+हैं
+,
+उनका
+प्रस्ताव
+बना
+है
+,
+बस
+टेंडर
+होना
+बाकी
+है
+.
 
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-ऑनलाइन	XC	TEMP	O	O	O	O
-टेंडर	NN	TEMP	O	O	B-MISC	O
-निकाले	VM	TEMP	B-MISC	O	I-MISC	OCC
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जल्द
+ही
+ऑनलाइन
+टेंडर
+निकाले
+जाएंगे
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	B-MISC	O	O	OCC
-:	SYM	TEMP	O	O	O	O
-राहतः	RB	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-पीसीएस	XC	TEMP	O	O	O	O
-परीक्षा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-अंकों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-होगा	VM	TEMP	O	O	B-MISC	O
-साक्षात्कार	NN	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+राहतः
+अब
+पीसीएस
+परीक्षा
+में
+100
+अंकों
+का
+होगा
+साक्षात्कार

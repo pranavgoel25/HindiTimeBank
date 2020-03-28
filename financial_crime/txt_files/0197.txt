@@ -1,687 +1,687 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-भिवानी	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-इनेलो	XC	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-प्रकोष्ठ	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बैठक	NN	TEMP	B-MISC	O	B-MISC	OCC
-जिला	JJ	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-रण	NN	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-श्योराण	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नेतृत्व	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बृहस्पतिवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रोहतक	XC	TEMP	O	O	O	O
-गेट	NNP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-चौ	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+भिवानी
+:
+इनेलो
+कर्मचारी
+प्रकोष्ठ
+की
+बैठक
+जिला
+प्रधान
+रण
+¨
+सह
+श्योराण
+के
+नेतृत्व
+में
+बृहस्पतिवार
+को
+रोहतक
+गेट
+स्थित
+चौ
+.
 
-देवीलाल	NNP	TEMP	O	O	O	O
-सदन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आयोजित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देवीलाल
+सदन
+में
+आयोजित
+की
+गई
+.
 
-बैठक	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रकोष्ठ	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनेकों	QF	TEMP	O	O	O	O
-पदाधिकारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	OCC
-लिया	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैठक
+में
+प्रकोष्ठ
+के
+अनेकों
+पदाधिकारियों
+ने
+भाग
+लिया
+.
 
-बैठक	NN	TEMP	B-MISC	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्रदेश	NN	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नेता	NN	TEMP	O	O	O	O
-जगमेंद्र	XC	TEMP	O	O	O	O
-सांगवान	NNP	TEMP	O	O	O	O
+बैठक
+को
+प्रदेश
+स्तर
+के
+नेता
+जगमेंद्र
+सांगवान
 
-करतार	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-पंघाल	XC	TEMP	O	O	O	O
+करतार
+¨
+सह
+पंघाल
 
-शक्ति	NN	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-सिवाच	NNP	TEMP	O	O	O	O
+शक्ति
+¨
+सह
+सिवाच
 
-प्रदेश	XC	TEMP	O	O	O	O
-सचिव	XC	TEMP	O	O	O	O
-बलदेव	XC	TEMP	O	O	O	O
-घणघस	NN	TEMP	O	O	O	O
+प्रदेश
+सचिव
+बलदेव
+घणघस
 
-भिवानी	NN	TEMP	O	O	O	O
-देहात	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-कुलवंत	XC	TEMP	O	O	O	O
-कोटिया	NNP	TEMP	O	O	O	O
+भिवानी
+देहात
+के
+प्रधान
+कुलवंत
+कोटिया
 
-सूबे	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-गोलागढ़	NN	TEMP	O	O	O	O
+सूबे
+¨
+सह
+गोलागढ़
 
-प्रदेश	NN	TEMP	O	O	O	O
-सचिव	XC	TEMP	O	O	O	O
-सूरजभान	NNP	TEMP	O	O	O	O
+प्रदेश
+सचिव
+सूरजभान
 
-सूबे	NN	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सहरागी	JJ	TEMP	O	O	O	O
+सूबे
+¨
+सहरागी
 
-हलका	JJ	TEMP	O	O	O	O
-तोशाम	NN	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-अनार	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
+हलका
+तोशाम
+प्रधान
+अनार
+¨
+सह
 
-दयानंद	XC	TEMP	O	O	O	O
-श्योराण	NNP	TEMP	O	O	O	O
+दयानंद
+श्योराण
 
-जोगेंद्र	XC	TEMP	O	O	O	O
-ढांडा	XC	TEMP	O	O	O	O
-मंगल	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-सूई	NN	TEMP	O	O	O	O
+जोगेंद्र
+ढांडा
+मंगल
+¨
+सह
+सूई
 
-रमेश	XC	TEMP	O	O	O	O
-बूरा	NN	TEMP	O	O	O	O
-मा	RP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+रमेश
+बूरा
+मा
+.
 
-महेंद्र	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-सिवाडा	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-संबोधित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+महेंद्र
+¨
+सह
+सिवाडा
+ने
+भी
+संबोधित
+किया
+.
 
-प्रदेश	NN	TEMP	O	O	O	O
-सचिव	XC	TEMP	O	O	O	O
-बलदेव	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	QC	TEMP	O	O	O	O
-घणघस	NN	TEMP	O	O	O	O
+प्रदेश
+सचिव
+बलदेव
+¨
+सह
+घणघस
 
-प्रदेश	XC	TEMP	O	O	O	O
-महासचिव	XC	TEMP	O	O	O	O
-करतार	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	QC	TEMP	O	O	O	O
-पंघाल	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-रण	NN	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-मान	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-25	QC	TEMP	O	B	O	O
-सितंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-जन	XC	TEMP	O	O	O	O
-नायक	NN	TEMP	O	O	O	O
-ताऊ	XC	TEMP	O	O	O	O
-देवीलाल	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सम्मान	NN	TEMP	O	O	O	O
-दिवस	NN	TEMP	O	O	O	O
-अवसर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अजय	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-चौटाला	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-इनेलो	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सरकार	NN	TEMP	B-MISC	O	O	O
-बनने	VM	TEMP	I-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जन्म	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रदेश
+महासचिव
+करतार
+¨
+सह
+पंघाल
+व
+जिला
+प्रधान
+रण
+¨
+सह
+मान
+ने
+कहा
+कि
+25
+सितंबर
+को
+जन
+नायक
+ताऊ
+देवीलाल
+के
+सम्मान
+दिवस
+अवसर
+पर
+अजय
+¨
+सह
+चौटाला
+ने
+घोषणा
+की
+थी
+कि
+इनेलो
+के
+सरकार
+बनने
+पर
+बेटी
+के
+जन्म
+होने
+पर
+पांच
+लाख
+रुपये
+दिए
+जाएंगे
+.
 
-बुढ़ापा	NN	TEMP	O	O	O	O
-पेंशन	NN	TEMP	O	O	O	O
-2500	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुढ़ापा
+पेंशन
+2500
+रुपये
+दिए
+जाएंगे
+.
 
-एसवाइएल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पानी	NN	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	O
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-आगामी	JJ	TEMP	O	O	O	O
-दिनों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पार्टी	NN	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-एलान	NN	TEMP	B-MISC	O	B-MISC	O
-करेगी	VM	TEMP	I-MISC	O	I-MISC	O
-कर्मचारी	NN	TEMP	O	O	O	O
-प्रकोष्ठ	NN	TEMP	O	O	O	O
-बढ़-चढ़	NN	TEMP	O	O	O	O
-भाग	VM	TEMP	B-MISC	O	B-MISC	OCC
-लेगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एसवाइएल
+का
+पानी
+न
+मिलने
+पर
+आगामी
+दिनों
+में
+पार्टी
+जो
+भी
+एलान
+करेगी
+कर्मचारी
+प्रकोष्ठ
+बढ़-चढ़
+भाग
+लेगा
+.
 
-ललित	JJ	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
+ललित
+कुमार
 
-जम्मू	XC	TEMP	O	O	O	O
-राष्ट्रपिता	NN	TEMP	O	O	O	O
-महात्मा	XC	TEMP	O	O	O	O
-गांधी	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-डाक	NN	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-करोडपति	NN	TEMP	B-MISC	O	B-MISC	O
-बना	VM	TEMP	I-MISC	O	I-MISC	OCC
-सकती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जम्मू
+राष्ट्रपिता
+महात्मा
+गांधी
+की
+दस
+रुपये
+की
+एक
+डाक
+टिकट
+किसी
+को
+भी
+करोडपति
+बना
+सकती
+है
+.
 
-शर्त	NN	TEMP	O	O	O	O
-सिर्फ	RB	TEMP	O	O	O	O
-इतनी	QF	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-डाक	NN	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-1948	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-सर्विस	XC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-प्रिंट	NN	TEMP	O	O	B-MISC	OCC
-होना	VM	TEMP	O	O	I-MISC	O
-चाहिए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शर्त
+सिर्फ
+इतनी
+है
+कि
+यह
+डाक
+टिकट
+वर्ष
+1948
+में
+जारी
+हुई
+हो
+और
+इस
+पर
+'
+सर्विस
+'
+प्रिंट
+होना
+चाहिए
+.
 
-आजादी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तत्काल	RB	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गवर्नर	XC	TEMP	O	O	O	O
-जनरल	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-विशेष	JJ	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ओवरप्रिंट	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-यह	DEM	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-दुनिया	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-छपी	XC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	B-MISC	OCC
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आजादी
+के
+तत्काल
+बाद
+भारत
+के
+गवर्नर
+जनरल
+के
+लिए
+विशेष
+रूप
+से
+ओवरप्रिंट
+की
+गई
+यह
+डाक
+टिकट
+दुनिया
+में
+सबसे
+'
+कम
+छपी
+'
+हुई
+टिकट
+है
+.
 
-अंतिम	JJ	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-जिनेवा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-STAT	O
-नीलामी	NN	TEMP	O	O	O	OCC
-में	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-डेविड	XC	TEMP	O	O	O	O
-फेल्डमैन	NNP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-डाक	NN	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-डालर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बेची	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अंतिम
+बार
+जिनेवा
+में
+हुई
+नीलामी
+में
+'
+डेविड
+फेल्डमैन
+'
+ने
+यह
+डाक
+टिकट
+दो
+लाख
+डालर
+में
+बेची
+गई
+थी
+.
 
-अगर	CC	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गवर्नर	XC	TEMP	O	O	O	O
-जनरल	NNP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-कैंसिल	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	B-MISC	O
-की	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-वास्तविक	JJ	TEMP	O	O	O	O
-डाक	NN	TEMP	O	O	O	O
-टिकट	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-कीमत	NN	TEMP	O	O	O	O
-करोडों	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+अगर
+किसी
+के
+पास
+डाक
+विभाग
+के
+गवर्नर
+जनरल
+द्वारा
+'
+कैंसिल
+'
+की
+गई
+वास्तविक
+डाक
+टिकट
+हो
+तो
+उसकी
+कीमत
+करोडों
+में
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-दुलर्भ	XC	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पीछे	NST	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कहानी	NN	TEMP	O	O	O	O
-बडी	TEMP	INTF	TEMP	O	O	O	O
-दिलचस्प	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इस
+दुलर्भ
+डाक
+टिकट
+के
+पीछे
+की
+कहानी
+बडी
+दिलचस्प
+है
+.
 
-आजादी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूर्व	NST	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ब्रिटिश	JJ	TEMP	O	O	O	O
-शासन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-डाक	NN	TEMP	O	O	O	O
-टिकट	NN	TEMP	B-MISC	O	B-MISC	OCC
-चलती	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आजादी
+से
+पूर्व
+भारत
+में
+ब्रिटिश
+शासन
+की
+डाक
+टिकट
+चलती
+थी
+.
 
-जब	PRP	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-आजाद	NN	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-भारत	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-टिकट	NN	TEMP	B-MISC	O	B-MISC	O
-जारी	JJ	TEMP	I-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+देश
+आजाद
+हुआ
+तो
+भारत
+सरकार
+की
+ओर
+से
+अपनी
+डाक
+टिकट
+जारी
+की
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-ब्रिटिश	JJ	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-दफ्तर	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	O	O	B-MISC	IAC
-करते	VM	TEMP	O	O	I-MISC	O
-समय	NN	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-टिकटों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-आवश्यकता	NN	TEMP	O	O	B-MISC	OCC
-पडी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+ब्रिटिश
+सरकार
+को
+अपने
+दफ्तर
+बंद
+करते
+समय
+डाक
+टिकटों
+की
+आवश्यकता
+पडी
+.
 
-भारत	NNP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-1948	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गांधी	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तस्वीर	NN	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-कीमत	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-सर्विस	XC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-सिर्फ	RB	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भारत
+सरकार
+ने
+वर्ष
+1948
+में
+गांधी
+की
+तस्वीर
+वाली
+दस
+रुपये
+कीमत
+की
+'
+सर्विस
+'
+टिकट
+सिर्फ
+200
+ही
+जारी
+की
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गवर्नर	NN	TEMP	O	O	O	O
-जनरल	XC	TEMP	O	O	O	O
-ऑफ	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-इस्तेमाल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	B-MISC	OCC
-गई	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+से
+100
+टिकट
+उस
+समय
+के
+गवर्नर
+जनरल
+ऑफ
+इंडिया
+को
+इस्तेमाल
+के
+लिए
+दी
+गई
+.
 
-शेष	JJ	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गणमान्य	JJ	TEMP	O	O	O	O
-लोगों-अधिकारियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तोहफे	NN	TEMP	O	O	O	OCC
-में	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+शेष
+100
+में
+से
+कुछ
+उस
+समय
+के
+गणमान्य
+लोगों-अधिकारियों
+को
+तोहफे
+में
+.
 
-कुछ	QF	TEMP	O	O	O	O
-आज	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-राष्ट्रीय	JJ	TEMP	O	O	O	O
-अभिलेखागार	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-संग्रहालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+आज
+भी
+राष्ट्रीय
+अभिलेखागार
+व
+डाक
+संग्रहालय
+में
+उपलब्ध
+है
+.
 
-केवल	RB	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-थी	VM	TEMP	O	O	B-STAT	O
-जो	PRP	TEMP	O	O	O	O
-निजी	JJ	TEMP	O	O	O	O
-हाथों	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	O	O	B-MISC	OCC
-पाई	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+केवल
+दस
+टिकट
+ही
+थी
+जो
+निजी
+हाथों
+तक
+पहुंच
+पाई
+.
 
-यहीं	PRP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-आज	NN	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-दुलर्भ	NN	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-बेशकीमती	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यहीं
+कारण
+है
+कि
+आज
+यह
+दुलर्भ
+डाक
+टिकट
+बेशकीमती
+हो
+गई
+हैं
+.
 
-------------	XC	TEMP	O	O	O	O
-फर्जी	NNP	TEMP	O	O	O	O
-टिकटों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भरमार	NN	TEMP	O	O	O	O
-दुलर्भ	JJ	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	O	OCC
-का	PSP	TEMP	O	O	O	O
-अंदाजा	NN	TEMP	O	O	O	O
-इससे	PRP	TEMP	O	O	O	O
-लगाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-ऑनलाइन	NN	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-खरीदने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-इंक्वायरी	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-डाले	VM	TEMP	O	O	B-MISC	O
-तो	CC	TEMP	O	O	O	O
-दर्जनों	NN	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-ऐसी	DEM	TEMP	O	O	O	O
-डाक	NN	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	B-MISC	O
-सामने	NST	TEMP	O	O	I-MISC	OCC
-आ	VM	TEMP	O	O	I-MISC	O
-जाती	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+------------
+फर्जी
+टिकटों
+की
+भरमार
+दुलर्भ
+डाक
+टिकट
+की
+मांग
+का
+अंदाजा
+इससे
+लगाया
+जा
+सकता
+है
+कि
+अगर
+कोई
+ऑनलाइन
+इसे
+खरीदने
+के
+लिए
+'
+इंक्वायरी
+'
+डाले
+तो
+दर्जनों
+फर्जी
+ऐसी
+डाक
+टिकट
+सामने
+आ
+जाती
+हैं
+.
 
-इन	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-सर्विस	XC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-अंकित	JJ	TEMP	O	O	O	O
-रहता	VM	TEMP	O	O	B-STAT	O
-है	VAUX	TEMP	O	O	I-STAT	O
+इन
+पर
+'
+सर्विस
+'
+अंकित
+रहता
+है
 
-लेकिन	CC	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-वास्तविक	JJ	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-क्योंकि	CC	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-डाक	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तत्कालीन	JJ	TEMP	O	O	O	O
-गवर्नर	XC	TEMP	O	O	O	O
-जनरल	NNP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-कैंसिल	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	B-MISC	O
-की	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-नहीं	NEG	TEMP	O	O	I-MISC	O
-होती	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+यह
+वास्तविक
+नहीं
+क्योंकि
+यह
+डाक
+विभाग
+के
+तत्कालीन
+गवर्नर
+जनरल
+द्वारा
+'
+कैंसिल
+'
+की
+गई
+नहीं
+होती
+.
 
-कुछ	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-इस्तेमाल	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-टिकट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-बेचने	VM	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+लोग
+इस्तेमाल
+की
+गई
+टिकट
+के
+नाम
+इसे
+बेचने
+का
+प्रयास
+करते
+हैं
+.
 
-------------	NN	TEMP	O	O	O	O
--यह	NNP	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-दुर्लभ	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+------------
+-यह
+डाक
+टिकट
+काफी
+दुर्लभ
+है
+.
 
-भारत	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आज	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-टिकट	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-दावा	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भारत
+में
+आज
+तक
+किसी
+ने
+यह
+टिकट
+होने
+का
+दावा
+नहीं
+किया
+.
 
-अंतरराष्ट्रीय	JJ	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नीलामी	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-डालर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिकने	VM	TEMP	O	O	B-MISC	O
-की	PSP	TEMP	O	O	O	O
-पुष्टि	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अंतरराष्ट्रीय
+स्तर
+की
+नीलामी
+के
+दौरान
+इसके
+दो
+लाख
+डालर
+में
+बिकने
+की
+पुष्टि
+हुई
+है
+.
 
--चंद्र	XC	TEMP	O	O	O	O
-मोहन	XC	TEMP	O	O	O	O
-भट्ट	NN	TEMP	O	O	O	O
+-चंद्र
+मोहन
+भट्ट
 
-सुपरिंटेंडेंट	XC	TEMP	O	O	O	O
-पोस्ट	XC	TEMP	O	O	O	O
-आफिसेस-	NNP	TEMP	O	O	O	O
--मुझे	PRP	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-एकत्रित	JJ	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-शौक	NN	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सुपरिंटेंडेंट
+पोस्ट
+आफिसेस-
+-मुझे
+डाक
+टिकट
+एकत्रित
+करने
+का
+शौक
+है
+.
 
-मेरे	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-आजादी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-जारी	JJ	TEMP	O	O	B-MISC	O
-हुई	VM	TEMP	O	O	I-MISC	O
-कुछ	QF	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+मेरे
+पास
+आजादी
+के
+बाद
+जारी
+हुई
+कुछ
+डाक
+टिकट
+है
+.
 
-मैंने	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-दुलर्भ	JJ	TEMP	O	O	O	O
-डाक	XC	TEMP	O	O	O	O
-टिकट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सुना	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-कभी	PRP	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-देखने	VM	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-सौभाग्य	NN	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-हुआ	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मैंने
+भी
+इस
+दुलर्भ
+डाक
+टिकट
+के
+बारे
+में
+सुना
+है
+लेकिन
+कभी
+इसे
+देखने
+का
+सौभाग्य
+प्राप्त
+नहीं
+हुआ
+.
 
--रमेश	XC	TEMP	O	O	O	O
-बडयाल	NNP	TEMP	O	O	O	O
+-रमेश
+बडयाल

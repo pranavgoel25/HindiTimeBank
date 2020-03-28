@@ -1,327 +1,327 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-यमुनानगर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-आंध्र	XC	TEMP	O	O	O	O
-प्रदेश	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मॉडल	NN	TEMP	O	O	O	O
-टाउन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-90	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पशु	XC	TEMP	O	O	O	O
-फीड	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सप्लीमेंट	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-51	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-लौटाए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यमुनानगर
+:
+आंध्र
+प्रदेश
+के
+एक
+व्यक्ति
+ने
+मॉडल
+टाउन
+के
+एक
+व्यक्ति
+से
+90
+लाख
+रुपये
+की
+पशु
+फीड
+व
+सप्लीमेंट
+लेकर
+51
+लाख
+रुपये
+नहीं
+लौटाए
+.
 
-रुपये	NN	TEMP	B-MISC	O	O	O
-मांगने	VM	TEMP	I-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	OCC
-से	PSP	TEMP	I-MISC	O	I-MISC	O
-मारने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रुपये
+मांगने
+पर
+उसे
+जान
+से
+मारने
+की
+धमकी
+दी
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-इकॉनोमिक	JJ	TEMP	O	O	O	O
-सेल	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-की	VM	TEMP	B-MISC	O	I-MISC	-1
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+की
+जांच
+इकॉनोमिक
+सेल
+ने
+भी
+की
+.
 
-थाना	VM	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-यमुनानगर	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-धाराओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-केस	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थाना
+शहर
+यमुनानगर
+पुलिस
+ने
+आरोपी
+के
+खिलाफ
+विभिन्न
+धाराओं
+के
+तहत
+केस
+दर्ज
+कर
+लिया
+.
 
-मॉडल	NN	TEMP	O	O	O	O
-टाउन	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-मनन	NN	TEMP	O	O	O	O
-साहनी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-यमुनानगर	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हरिओम	XC	TEMP	O	O	O	O
-इंप्लेक्स	XC	TEMP	O	O	O	O
-पोल्ट्री	NNP	TEMP	O	O	O	O
-फीड	NN	TEMP	O	O	O	O
+मॉडल
+टाउन
+निवासी
+मनन
+साहनी
+ने
+थाना
+शहर
+यमुनानगर
+पुलिस
+को
+दी
+शिकायत
+में
+बताया
+कि
+उसकी
+शहर
+में
+हरिओम
+इंप्लेक्स
+पोल्ट्री
+फीड
 
-सप्लीमेंट	JJ	TEMP	O	O	O	O
-सप्लाई	NN	TEMP	O	O	B-MISC	O
-करने	VM	TEMP	O	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सप्लीमेंट
+सप्लाई
+करने
+का
+काम
+है
+.
 
-सितंबर	NNP	TEMP	O	B	O	O
-2014	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-आंध्र	XC	TEMP	O	O	O	O
-प्रदेश	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विजयवाडा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पातामाता	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-श्याम	XC	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-आया	VM	TEMP	B-MISC	O	B-MISC	OCC
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सितंबर
+2014
+को
+उसके
+पास
+आंध्र
+प्रदेश
+के
+विजयवाडा
+के
+पातामाता
+निवासी
+श्याम
+प्रसाद
+आया
+था
+.
 
-श्याम	XC	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-विन	XC	TEMP	O	O	O	O
-स्ट्रीट	XC	TEMP	O	O	O	O
-इंटरट्रेड	XC	TEMP	O	O	O	O
-वेकटा	XC	TEMP	O	O	O	O
-मिडाउ	XC	TEMP	O	O	O	O
-आरआर	XC	TEMP	O	O	O	O
-गार्डनस	XC	TEMP	O	O	O	O
-फ्लोर	NNP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फर्म	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+श्याम
+प्रसाद
+ने
+बताया
+कि
+उसकी
+विन
+स्ट्रीट
+इंटरट्रेड
+वेकटा
+मिडाउ
+आरआर
+गार्डनस
+फ्लोर
+नाम
+से
+फर्म
+है
+.
 
-वह	PRP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-90	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पोल्ट्री	JJ	TEMP	O	O	O	O
-फीड	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सप्लीमेंट	NN	TEMP	O	O	B-MISC	O
-खरीदना	VM	TEMP	B-MISC	O	I-MISC	OCC
-चाहता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वह
+उससे
+90
+लाख
+रुपये
+की
+पोल्ट्री
+फीड
+व
+सप्लीमेंट
+खरीदना
+चाहता
+है
+.
 
-श्याम	XC	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-विश्वास	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-वो	PRP	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	O	O
-को	PSP	TEMP	O	O	O	O
-तैयार	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+श्याम
+प्रसाद
+पर
+विश्वास
+कर
+वो
+उससे
+सामान
+देने
+को
+तैयार
+हो
+गया
+.
 
-उसके	PRP	TEMP	O	O	O	O
-बताए	VM	TEMP	O	O	O	O
-पते	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-उसी	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-90	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-पहुंचा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+बताए
+पते
+पर
+उसने
+उसी
+दौरान
+90
+लाख
+रुपये
+का
+सामान
+पहुंचा
+दिया
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-30	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-2014	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-श्याम	XC	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+से
+उसने
+30
+अक्टूबर
+2014
+को
+श्याम
+प्रसाद
+ने
+उसे
+30
+लाख
+रुपये
+दे
+दिए
+थे
+.
 
-परंतु	CC	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-लौटाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परंतु
+इसके
+बाद
+उसने
+एक
+रुपया
+भी
+उन्हें
+नहीं
+लौटाया
+.
 
-श्याम	XC	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरफ	NST	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-51	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-7379	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	B-STAT	DECL
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+श्याम
+प्रसाद
+की
+तरफ
+अभी
+तक
+51
+लाख
+7379
+रुपया
+बकाया
+है
+.
 
-इस	PRP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-श्याम	XC	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	I-MISC	O	O	O
-परंतु	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-टाल	VM	TEMP	B-MISC	O	B-MISC	O
-मटोल	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-देता	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+बारे
+में
+उसने
+कई
+बार
+श्याम
+प्रसाद
+से
+बात
+की
+परंतु
+वह
+हर
+बार
+टाल
+मटोल
+कर
+देता
+.
 
-परंतु	CC	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-लौटाए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परंतु
+अब
+तक
+उसके
+रुपये
+नहीं
+लौटाए
+.
 
-कुछ	QF	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	B-MISC	O	O	O
-मांगने	VM	TEMP	I-MISC	O	B-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-जान	NN	TEMP	B-MISC	O	B-MISC	OCC
-से	PSP	TEMP	I-MISC	O	I-MISC	O
-मारने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+दिन
+पहले
+आरोपी
+ने
+रुपये
+मांगने
+पर
+उसे
+जान
+से
+मारने
+की
+धमकी
+दी
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	B-MISC	OCC
-उसने	PRP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-यमुनानगर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+शिकायत
+उसने
+थाना
+शहर
+यमुनानगर
+में
+दी
+.
 
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-सब	QF	TEMP	O	O	O	O
-इंस्पेक्टर	XC	TEMP	O	O	O	O
-हुकम	XC	TEMP	O	O	O	O
-चंद	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-श्याम	XC	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-धाराओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-केस	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामले
+की
+जांच
+कर
+रहे
+सब
+इंस्पेक्टर
+हुकम
+चंद
+ने
+बताया
+कि
+श्याम
+प्रसाद
+के
+खिलाफ
+विभिन्न
+धाराओं
+के
+तहत
+केस
+दर्ज
+कर
+लिया
+है
+.
 
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामले
+की
+जांच
+की
+जा
+रही
+है
+.

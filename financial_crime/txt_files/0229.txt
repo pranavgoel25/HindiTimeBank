@@ -1,199 +1,199 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-उरई	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-गरीबों	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-असहायों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-सिर्फ	RB	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भरपेट	JJ	TEMP	O	O	O	O
-भोजन	NN	TEMP	O	O	O	O
-मिल	VM	TEMP	B-MISC	O	B-MISC	OCC
-सकेगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+उरई
+:
+गरीबों
+,
+असहायों
+को
+अब
+सिर्फ
+10
+रुपये
+में
+भरपेट
+भोजन
+मिल
+सकेगा
+.
 
-रेलवे	XC	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समीप	NST	TEMP	O	O	O	O
-रविवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अन्नपूर्णा	JJ	TEMP	O	O	O	O
-रसोई	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शुरुआत	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रेलवे
+स्टेशन
+के
+समीप
+रविवार
+को
+अन्नपूर्णा
+रसोई
+की
+शुरुआत
+की
+गई
+.
 
-जहां	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उनको	PRP	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-रोज	NN	TEMP	O	O	O	O
-ताजा	JJ	TEMP	O	O	O	O
-भोजन	NN	TEMP	O	O	O	O
-मिलेगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जहां
+पर
+उनको
+हर
+रोज
+ताजा
+भोजन
+मिलेगा
+.
 
-अन्नपूर्णा	JJ	TEMP	O	O	O	O
-रसोई	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शुरुआत	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-विधायक	JJ	TEMP	O	O	O	O
-गौरीशंकर	XC	TEMP	O	O	O	O
-वर्मा	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इसे	PRP	TEMP	O	O	O	O
-पुण्य	NN	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+अन्नपूर्णा
+रसोई
+की
+शुरुआत
+करते
+हुए
+विधायक
+गौरीशंकर
+वर्मा
+ने
+इसे
+पुण्य
+काम
+बताया
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-गरीबों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संपन्न	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आगे	NST	TEMP	B-MISC	O	B-MISC	OCC
-आना	VM	TEMP	I-MISC	O	I-MISC	O
-चाहिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+गरीबों
+की
+मदद
+के
+लिए
+समाज
+के
+संपन्न
+लोगों
+को
+आगे
+आना
+चाहिए
+.
 
-केवल	RP	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-चीज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-निर्भरता	NN	TEMP	O	O	O	O
-उचित	JJ	TEMP	O	O	B-MISC	O
-नहीं	NEG	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+केवल
+सरकारी
+स्तर
+पर
+ही
+हर
+चीज
+के
+लिए
+निर्भरता
+उचित
+नहीं
+है
+.
 
-सभी	QF	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सहयोग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-समाज	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अच्छा	JJ	TEMP	B-MISC	O	O	O
-बनाया	VM	TEMP	I-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सभी
+के
+सहयोग
+से
+ही
+समाज
+को
+अच्छा
+बनाया
+जा
+सकता
+है
+.
 
-बुंदेलखंड	XC	TEMP	O	O	O	O
-लोक	XC	TEMP	O	O	O	O
-मंच	NN	TEMP	O	O	O	O
-ट्रस्ट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संयोजक	NN	TEMP	O	O	O	O
-संत	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	B	O	O
-10	QC	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-2	QC	TEMP	O	O	O	O
-बजे	VM	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भोजन	NN	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	B-MISC	O	B-MISC	OCC
-रहेगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुंदेलखंड
+लोक
+मंच
+ट्रस्ट
+के
+संयोजक
+संत
+कुमार
+गुप्ता
+ने
+बताया
+कि
+सुबह
+10
+से
+2
+बजे
+तक
+यहां
+पर
+भोजन
+उपलब्ध
+रहेगा
+.
 
-जितने	QF	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	B-MISC	O
-आएंगे	VM	TEMP	B-MISC	O	I-MISC	O
-सबको	PRP	TEMP	O	O	O	O
-भोजन	NN	TEMP	O	O	O	O
-मिलेगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+जितने
+भी
+लोग
+आएंगे
+सबको
+भोजन
+मिलेगा
+.
 
-मंच	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-उद्देश्य	NN	TEMP	O	O	O	O
-गरीबों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सेवा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंच
+का
+उद्देश्य
+गरीबों
+की
+सेवा
+करना
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-रसोई	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मकसद	NN	TEMP	O	O	O	O
-यही	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-कि	CC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भूखा	NN	TEMP	O	O	B-MISC	OCC
-न	NEG	TEMP	B-MISC	O	I-MISC	O
-सोये	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+रसोई
+का
+मकसद
+यही
+है
+कि
+कोई
+भी
+शहर
+में
+भूखा
+न
+सोये
+.
 
-इस	DEM	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-डा	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+इस
+मौके
+पर
+डा
+.
 
-राजेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रामदास	NNP	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-महेश	XC	TEMP	O	O	O	O
-सक्सेना	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-संतोष	XC	TEMP	O	O	O	O
-माहेश्वरी	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राधेरमन	XC	TEMP	O	O	O	O
-पुरवार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-लक्ष्मीचंद्र	XC	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-युद्धवीर	XC	TEMP	O	O	O	O
-कंथरिया	NNP	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	OCC
-रहे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+राजेंद्र
+कुमार
+,
+रामदास
+गुप्ता
+,
+महेश
+सक्सेना
+,
+संतोष
+माहेश्वरी
+,
+राधेरमन
+पुरवार
+,
+लक्ष्मीचंद्र
+गुप्ता
+,
+युद्धवीर
+कंथरिया
+समेत
+कई
+लोग
+मौजूद
+रहे
+.

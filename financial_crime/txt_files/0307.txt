@@ -1,301 +1,301 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-फरीदाबाद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-ओल्ड	XC	TEMP	O	O	O	O
-फरीदाबाद	NNP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-खेडी	NN	TEMP	O	O	O	O
-पुल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लीला	XC	TEMP	O	O	O	O
-ठाकुर	NNP	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्मृति	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-41	QC	TEMP	O	O	O	O
-वें	PRP	TEMP	O	O	O	O
-दंगल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आयोजन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+फरीदाबाद
+:
+ओल्ड
+फरीदाबाद
+स्थित
+खेडी
+पुल
+पर
+लीला
+ठाकुर
+पहलवान
+की
+स्मृति
+में
+41
+वें
+दंगल
+का
+आयोजन
+किया
+गया
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-हरियाणा	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-उत्तर	XC	TEMP	O	O	O	O
-प्रदेश	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पंजाब	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-राजस्थान	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पहलवानों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-हिस्सा	NN	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+हरियाणा
+,
+उत्तर
+प्रदेश
+,
+पंजाब
+,
+दिल्ली
+और
+राजस्थान
+के
+पहलवानों
+ने
+हिस्सा
+लिया
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-उत्तर	XC	TEMP	O	O	O	O
-प्रदेश	XC	TEMP	O	O	O	O
-मीरपुर	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विधायक	JJ	TEMP	O	O	O	O
-अवतार	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-भडाना	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रदेश	NN	TEMP	O	O	O	O
-उद्योगमंत्री	NN	TEMP	O	O	O	O
-विपुल	JJ	TEMP	O	O	O	O
-गोयल	NN	TEMP	O	O	O	O
-मुख्य	JJ	TEMP	O	O	O	O
-अतिथि	NN	TEMP	O	O	O	O
-थे	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+उत्तर
+प्रदेश
+मीरपुर
+के
+विधायक
+अवतार
+¨
+सह
+भडाना
+,
+प्रदेश
+उद्योगमंत्री
+विपुल
+गोयल
+मुख्य
+अतिथि
+थे
+.
 
-इनके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-नागर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पूर्व	JJ	TEMP	O	O	O	O
-पार्षद	XC	TEMP	O	O	O	O
-योगेश	XC	TEMP	O	O	O	O
-ढींगडा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-तंवर	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-समाजसेवी	JJ	TEMP	O	O	O	O
-तिलक	NN	TEMP	O	O	O	O
-राज	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-विशिष्ठ	JJ	TEMP	O	O	O	O
-अतिथि	NN	TEMP	O	O	B-STAT	O
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इनके
+अलावा
+राजेश
+नागर
+,
+पूर्व
+पार्षद
+योगेश
+ढींगडा
+,
+राजेश
+तंवर
+और
+समाजसेवी
+तिलक
+राज
+शर्मा
+विशिष्ठ
+अतिथि
+थे
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-21	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-कुश्तियां	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	B-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+100
+से
+लेकर
+21
+हजार
+रुपये
+तक
+कुश्तियां
+कराई
+गई
+.
 
-21	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	B-MISC	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जसराम	JJ	TEMP	O	O	O	O
-अखाडा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पहलवान	NST	TEMP	O	O	O	O
-विक्रम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जीती	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+21
+हजार
+रुपये
+की
+कुश्ती
+दिल्ली
+के
+जसराम
+अखाडा
+के
+पहलवान
+विक्रम
+ने
+जीती
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	B-MISC	O	O	O
-हुईं	VM	TEMP	I-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+वहीं
+11
+हजार
+रुपये
+की
+पांच
+कुश्ती
+हुईं
+.
 
-इनमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-कुश्ती	QF	TEMP	B-MISC	O	O	O
-बराबरी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-छूटी	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इनमें
+से
+तीन
+कुश्ती
+बराबरी
+पर
+छूटी
+.
 
-5100	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-27	QC	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	B-MISC	O	B-MISC	O
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+5100
+रुपये
+की
+27
+कुश्ती
+कराई
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-3100	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-38	QC	TEMP	O	O	O	O
-मुकाबले	NN	TEMP	B-MISC	O	B-MISC	O
-हुए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+3100
+की
+38
+मुकाबले
+हुए
+.
 
-इनमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-35	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-फाइनल	NN	TEMP	O	O	O	O
-मुकाबले	JJ	TEMP	B-MISC	O	O	O
-हुए	VM	TEMP	I-MISC	O	O	O
-,	SYM	TEMP	O	O	O	O
-जबकि	CC	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-मुकाबले	NN	TEMP	B-MISC	O	O	O
-बराबरी	NN	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	I-MISC	O	O	O
-छूटे	VM	TEMP	I-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इनमें
+से
+35
+के
+फाइनल
+मुकाबले
+हुए
+,
+जबकि
+3
+मुकाबले
+बराबरी
+पर
+छूटे
+.
 
-1100	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	B-MISC	O	B-MISC	O
-हुईं	VM	TEMP	I-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+1100
+रुपये
+की
+40
+कुश्ती
+हुईं
+.
 
-इनमें	PRP	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-बराबरी	NN	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	I-MISC	O	O	O
-छूटी	VM	TEMP	I-MISC	O	B-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-जबकि	CC	TEMP	O	O	O	O
-29	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-फाइनल	NN	TEMP	O	O	O	O
-मुकाबले	NN	TEMP	B-MISC	O	O	O
-कराए	VM	TEMP	I-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इनमें
+11
+बराबरी
+पर
+छूटी
+,
+जबकि
+29
+के
+फाइनल
+मुकाबले
+कराए
+गए
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कुश्तियां	NN	TEMP	B-MISC	O	O	O
-संपन्न	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+500
+रुपये
+की
+कुश्तियां
+संपन्न
+कराई
+गई
+.
 
-इनमें	PRP	TEMP	O	O	O	O
-6	QC	TEMP	O	O	O	O
-मुकाबले	NN	TEMP	B-MISC	O	O	O
-बराबरी	NN	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	I-MISC	O	O	O
-छूटे	VM	TEMP	I-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इनमें
+6
+मुकाबले
+बराबरी
+पर
+छूटे
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-250	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-कुश्ती	NN	TEMP	B-MISC	O	B-MISC	O
-हुई	VM	TEMP	I-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+वहीं
+250
+रुपये
+की
+60
+कुश्ती
+हुई
+.
 
-इनमें	PRP	TEMP	O	O	O	O
-23	QC	TEMP	O	O	O	O
-मुकाबले	NN	TEMP	B-MISC	O	O	O
-बराबरी	NN	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	I-MISC	O	O	O
-रहे	VM	TEMP	I-MISC	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+इनमें
+23
+मुकाबले
+बराबरी
+पर
+रहे
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-कुंवर	XC	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-ठाकुर	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मंच	NN	TEMP	O	O	O	O
-संचालन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+कुंवर
+विकास
+ठाकुर
+ने
+मंच
+संचालन
+किया
+.
 
-इस	DEM	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-महाराणा	XC	TEMP	O	O	O	O
-प्रताप	XC	TEMP	O	O	O	O
-राजपूत	XC	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रदेश	NN	TEMP	O	O	O	O
-अधक्ष	JJ	TEMP	O	O	O	O
-किशन	NN	TEMP	O	O	O	O
-ठाकुर	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ठाकुर	JJ	TEMP	O	O	O	O
-रूमाल	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ठाकुर	JJ	TEMP	O	O	O	O
-पोपन	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शीशपाल	NN	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कैप्टन	XC	TEMP	O	O	O	O
-जीवन	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-आनंद	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	QC	TEMP	O	O	O	O
-तोमर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-केशव	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कुंवर	XC	TEMP	O	O	O	O
-पाल	XC	TEMP	O	O	O	O
-राणा	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सूबेदार	JJ	TEMP	O	O	O	O
-उदयपाल	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-राठौर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-लीलू	XC	TEMP	O	O	O	O
-पहलवान	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-लक्ष्मण	NN	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-जैजू	JJ	TEMP	O	O	O	O
-पहलवान	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-निर्णायक	JJ	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भूमिका	NN	TEMP	O	O	B-MISC	OCC
-निभाई	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मौके
+पर
+महाराणा
+प्रताप
+राजपूत
+समिति
+के
+प्रदेश
+अधक्ष
+किशन
+ठाकुर
+,
+ठाकुर
+रूमाल
+¨
+सह
+,
+ठाकुर
+पोपन
+¨
+सह
+,
+शीशपाल
+पहलवान
+,
+कैप्टन
+जीवन
+¨
+सह
+,
+आनंद
+¨
+सह
+तोमर
+,
+केशव
+,
+कुंवर
+पाल
+राणा
+,
+सूबेदार
+उदयपाल
+¨
+सह
+राठौर
+,
+लीलू
+पहलवान
+,
+लक्ष्मण
+पहलवान
+और
+जैजू
+पहलवान
+ने
+निर्णायक
+की
+भूमिका
+निभाई
+.

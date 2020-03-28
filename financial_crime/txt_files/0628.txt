@@ -1,85 +1,85 @@
 
-तमंचे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-भैंस	NN	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-अकराबाद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-पनेठी	VM	TEMP	O	O	B-MISC	O
-चौकी	VAUX	TEMP	O	O	I-MISC	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-वारदात	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तमंचे
+के
+बल
+पर
+दो
+भैंस
+लूट
+ले
+गए
+अकराबाद
+:
+पनेठी
+चौकी
+क्षेत्र
+में
+लगातार
+वारदात
+हो
+रही
+हैं
+.
 
-बीती	JJ	TEMP	O	O	O	O
-रात	NN	TEMP	O	O	O	O
-गाव	NN	TEMP	O	O	O	O
-पनेठी	VM	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बदमाश	JJ	TEMP	O	O	O	O
-तमंचे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-वीरपाल	NN	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-होडिल	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भैंस	NN	TEMP	B-MISC	O	O	O
-खोल	VM	TEMP	I-MISC	O	B-MISC	OCC
-ले	VM	TEMP	B-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बीती
+रात
+गाव
+पनेठी
+से
+बदमाश
+तमंचे
+के
+बल
+पर
+वीरपाल
+सिंह
+पुत्र
+होडिल
+सिंह
+की
+भैंस
+खोल
+ले
+गए
+.
 
-दूसरी	QO	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	O	OCC
-गाव	NN	TEMP	O	O	O	O
-भिलावटी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-जहां	PRP	TEMP	O	O	O	O
-रमेशचंद	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-महाबीर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-कुछ	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-भैंस	NN	TEMP	O	O	B-MISC	O
-खोलकर	VM	TEMP	B-MISC	O	I-MISC	OCC
-ले	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दूसरी
+घटना
+गाव
+भिलावटी
+में
+हुई
+,
+जहां
+रमेशचंद
+पुत्र
+महाबीर
+से
+मारपीट
+कर
+कुछ
+लोग
+भैंस
+खोलकर
+ले
+गए
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-विरोध	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तमंचा	NN	TEMP	O	O	B-MISC	O
-दिखाकर	VM	TEMP	B-MISC	O	I-MISC	OCC
-धमकाया	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-भैंस	NN	TEMP	B-MISC	O	B-MISC	O
-खोल	VM	TEMP	I-MISC	O	I-MISC	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+ने
+बताया
+कि
+विरोध
+किया
+तो
+बदमाशों
+ने
+तमंचा
+दिखाकर
+धमकाया
+और
+भैंस
+खोल
+ले
+गए
+.

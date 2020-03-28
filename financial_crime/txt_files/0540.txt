@@ -1,316 +1,316 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बाढ़डा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-अटेला	JJ	TEMP	O	O	O	O
-कलां	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-मालिक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-राजस्थान	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-शोरूम	NN	TEMP	O	O	O	O
-संचालक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मशहूर	JJ	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-गलत	JJ	TEMP	O	O	O	O
-मॉडल	NN	TEMP	O	O	O	O
-बता	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-उसे	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-पुराना	JJ	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-चेसिस	NN	TEMP	O	O	B-MISC	OCC
-दे	VM	TEMP	O	O	I-MISC	O
-दिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सहयोगी
+,
+बाढ़डा
+:
+गांव
+अटेला
+कलां
+के
+एक
+ट्रक
+मालिक
+ने
+राजस्थान
+के
+एक
+शोरूम
+संचालक
+पर
+मशहूर
+कंपनी
+के
+ट्रक
+का
+गलत
+मॉडल
+बता
+कर
+उसे
+एक
+वर्ष
+पुराना
+ट्रक
+का
+चेसिस
+दे
+दिया
+.
 
-पीडित	JJ	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-इस	DEM	TEMP	O	O	O	O
-गोरखधंधे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उजागर	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-सारे	QF	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भांड़ाफोड	NN	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पीडित
+व्यक्ति
+ने
+पुलिस
+को
+शिकायत
+देकर
+इस
+गोरखधंधे
+को
+उजागर
+किया
+तो
+सारे
+मामले
+का
+भांड़ाफोड
+हुआ
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शोरूम	NN	TEMP	O	O	O	O
-संचालक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चपत	NN	TEMP	B-MISC	O	O	O
-लगाने	VM	TEMP	I-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-दस्तावेजों	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तलब	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+शोरूम
+संचालक
+को
+तीन
+लाख
+की
+चपत
+लगाने
+पर
+सभी
+दस्तावेजों
+सहित
+पुलिस
+स्टेशन
+में
+तलब
+किया
+है
+.
 
-गांव	NN	TEMP	O	O	O	O
-अटेला	JJ	TEMP	O	O	O	O
-कलां	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-धर्मेद्र	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-भार	NN	TEMP	O	O	O	O
-ढ़ोने	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-राजस्थान	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-श्री	XC	TEMP	O	O	O	O
-गंगानगर	NNP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-नामी	JJ	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शोरूम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-टाटा	NN	TEMP	O	O	O	O
-2518	QC	TEMP	O	O	O	O
-मॉडल	NN	TEMP	O	O	O	O
-2017	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीद	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-शोरूम	NN	TEMP	O	O	O	O
-प्रबंधक	JJ	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कहे	VM	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-उनको	PRP	TEMP	O	O	O	O
-एचडीएफसी	JJ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-बीस	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कीमत	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-कर	VM	TEMP	O	O	B-MISC	O
-दिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गांव
+अटेला
+कलां
+निवासी
+धर्मेद्र
+ने
+पुलिस
+को
+दी
+शिकायत
+में
+बताया
+कि
+उसे
+भार
+ढ़ोने
+के
+कार्य
+के
+लिए
+राजस्थान
+के
+श्री
+गंगानगर
+शहर
+की
+एक
+नामी
+कंपनी
+के
+शोरूम
+से
+ट्रक
+टाटा
+2518
+मॉडल
+2017
+की
+खरीद
+की
+थी
+और
+शोरूम
+प्रबंधक
+के
+कहे
+अनुसार
+उनको
+एचडीएफसी
+बैंक
+से
+लगभग
+बीस
+लाख
+की
+कीमत
+का
+भुगतान
+भी
+कर
+दिया
+.
 
-शोरूम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कर्मचारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-लंबे	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-उनको	PRP	TEMP	O	O	O	O
-कागजात	NN	TEMP	B-MISC	O	O	O
-ही	RP	TEMP	I-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-दिए	VM	TEMP	O	O	B-MISC	O
-तो	CC	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्माण	NN	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-जगह	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खाली	JJ	TEMP	B-MISC	O	B-MISC	O
-छोड	VM	TEMP	I-MISC	O	I-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शोरूम
+के
+कर्मचारियों
+ने
+पहले
+तो
+लंबे
+समय
+तक
+उनको
+कागजात
+ही
+नहीं
+दिए
+और
+जब
+दिए
+तो
+ट्रक
+के
+निर्माण
+वर्ष
+जगह
+को
+खाली
+छोड
+दिया
+.
 
-उसने	PRP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-संपर्क	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नए	JJ	TEMP	O	O	O	O
-कागजात	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-कहकर	VM	TEMP	B-MISC	O	B-MISC	O
-टालमटोल	NN	TEMP	B-MISC	O	I-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-लगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+इस
+बारे
+में
+जब
+उनसे
+संपर्क
+किया
+तो
+वे
+जल्द
+ही
+नए
+कागजात
+देने
+की
+बात
+कहकर
+टालमटोल
+करने
+लगे
+.
 
-उसने	PRP	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-चेसिस	NN	TEMP	O	O	O	O
-नंबरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-करवाई	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-चैसिस	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गाडी	NN	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-2017	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बजाए	VM	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-2016	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बनी	VM	TEMP	O	O	B-MISC	OCC
-हुई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसने
+इन
+चेसिस
+नंबरों
+की
+जांच
+करवाई
+तो
+पता
+चला
+कि
+इस
+चैसिस
+नंबर
+की
+गाडी
+तो
+वर्ष
+2017
+की
+बजाए
+वर्ष
+2016
+में
+बनी
+हुई
+है
+.
 
-शोरूम	NN	TEMP	O	O	O	O
-कर्मचारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसको	PRP	TEMP	O	O	O	O
-गलत	JJ	TEMP	O	O	O	O
-तरीके	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ट्रक	NN	TEMP	O	O	B-MISC	O
-बेच	VM	TEMP	B-MISC	O	I-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-उसको	PRP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चपत	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शोरूम
+कर्मचारियों
+ने
+उसको
+गलत
+तरीके
+से
+ट्रक
+बेच
+कर
+उसको
+तीन
+लाख
+की
+चपत
+लगाई
+है
+.
 
-बाक्स	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	OCC
-मिली	VM	TEMP	O	O	B-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-होगी	VM	TEMP	O	O	O	O
-जांच	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-एसएचओ	NNP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-शमशेर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-मान	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-संबंधित	JJ	TEMP	O	O	O	O
-शोरूम	NN	TEMP	O	O	O	O
-मालिक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-जरूरी	JJ	TEMP	O	O	O	O
-दस्तावेज	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-शामिल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-बुलाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाक्स
+:
+शिकायत
+मिली
+है
+,
+होगी
+जांच
+:
+एसएचओ
+थाना
+प्रभारी
+शमशेर
+¨
+सह
+मान
+ने
+कहा
+कि
+अभी
+शिकायत
+मिली
+है
+और
+संबंधित
+शोरूम
+मालिक
+को
+अपने
+सभी
+जरूरी
+दस्तावेज
+लेकर
+जांच
+में
+शामिल
+होने
+के
+लिए
+बुलाया
+गया
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-कंपनी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शोरूम	NN	TEMP	O	O	O	O
-मालिक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहीं	PRP	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-है	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-कडी	NN	TEMP	O	O	O	O
-कानूनी	JJ	TEMP	O	O	O	O
-कार्यवाही	NN	TEMP	O	O	O	O
-अमल	JJ	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	I-MISC	O
-लाई	VM	TEMP	B-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+की
+जांच
+की
+जाएगी
+और
+कंपनी
+के
+शोरूम
+मालिक
+ने
+कहीं
+धोखाधडी
+की
+है
+तो
+उसके
+खिलाफ
+कडी
+कानूनी
+कार्यवाही
+अमल
+में
+लाई
+जाएगी
+.

@@ -1,217 +1,217 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-तिर्वा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-स्वच्छ	XC	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-मिशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-पंचायत	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कदम	NN	TEMP	B-MISC	O	O	O
-आगे	NST	TEMP	I-MISC	O	O	O
-बढ़ा	XC	TEMP	I-MISC	O	O	OCC
-दिया	NNP	TEMP	I-MISC	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿संवाद
+सहयोगी
+,
+तिर्वा
+:
+स्वच्छ
+भारत
+मिशन
+के
+तहत
+नगर
+पंचायत
+ने
+एक
+और
+कदम
+आगे
+बढ़ा
+दिया
+.
 
-करोडों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-योजनाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-गलियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कूडा	NN	TEMP	O	O	B-MISC	O
-डालने	VM	TEMP	O	O	I-MISC	O
-व	CC	TEMP	O	O	O	O
-गंदगी	NN	TEMP	O	O	O	O
-फैलाने	VM	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	O	O	O	O
-वसूल	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+करोडों
+की
+योजनाओं
+के
+बाद
+भी
+गलियों
+में
+कूडा
+डालने
+व
+गंदगी
+फैलाने
+वालों
+पर
+500
+रुपया
+जुर्माना
+वसूल
+किया
+जाएगा
+.
 
-कूडा	NN	TEMP	B-MISC	O	B-MISC	O
-उठाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कूडा	XC	TEMP	O	O	O	O
-गाडियों	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कूडा	NN	TEMP	B-MISC	O	B-MISC	O
-डालने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-गलियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कूडादानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रखवा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कूडा
+उठाने
+के
+लिए
+कूडा
+गाडियों
+व
+कूडा
+डालने
+के
+लिए
+गलियों
+में
+कूडादानों
+को
+रखवा
+दिया
+गया
+है
+.
 
-शुक्रवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-पंचायत	XC	TEMP	O	O	O	O
-अधिशासी	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-बृजेंद्र	XC	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सफाई	JJ	TEMP	O	O	O	O
-कर्मचारियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-हाथ	NN	TEMP	O	O	O	O
-कूडा	XC	TEMP	O	O	O	O
-गाडी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सौंपा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+शुक्रवार
+को
+नगर
+पंचायत
+अधिशासी
+अधिकारी
+बृजेंद्र
+चौधरी
+ने
+सफाई
+कर्मचारियों
+को
+50
+हाथ
+कूडा
+गाडी
+को
+सौंपा
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गलियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखने	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-कूडादानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+नगर
+की
+गलियों
+में
+रखने
+के
+लिए
+30
+बडे
+कूडादानों
+को
+दिया
+.
 
-कूडादानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मुख्य	JJ	TEMP	O	O	O	O
-जगहों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कूडादानों
+को
+मुख्य
+जगहों
+पर
+रखा
+जाएगा
+.
 
-लोग	NN	TEMP	O	O	O	O
-उसी	PRP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कूडा	NN	TEMP	O	O	B-MISC	OCC
-डालेंगे	VM	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लोग
+उसी
+में
+कूडा
+डालेंगे
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-स्वच्छ	XC	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-मिशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-स्वच्छ	JJ	TEMP	O	O	O	O
-बनाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-नागरिकों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कूडादान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बाल्टी	NN	TEMP	O	O	B-MISC	OCC
-दी	VM	TEMP	B-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुकी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+स्वच्छ
+भारत
+मिशन
+के
+तहत
+नगर
+को
+स्वच्छ
+बनाने
+के
+लिए
+नागरिकों
+के
+घरों
+में
+भी
+कूडादान
+की
+बाल्टी
+दी
+जा
+चुकी
+.
 
-घरों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कूडा	NN	TEMP	O	O	B-MISC	O
-लेने	VM	TEMP	B-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ई-रिक्शा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लगाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घरों
+से
+कूडा
+लेने
+के
+लिए
+ई-रिक्शा
+को
+लगाया
+गया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-गलियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कूडा	NN	TEMP	O	O	O	O
-डालने	VM	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+भी
+गलियों
+में
+कूडा
+डालने
+वालों
+पर
+कार्रवाई
+होगी
+.
 
-शासन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्देशों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-जुर्माना	VM	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-वसूला	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शासन
+के
+निर्देशों
+पर
+500
+रुपया
+जुर्माना
+भी
+वसूला
+जाएगा
+.
 
-अधिशासी	JJ	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एकत्रित	JJ	TEMP	O	O	O	O
-कूडा	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-निस्तारण	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अधिशासी
+अधिकारी
+ने
+बताया
+कि
+नगर
+का
+एकत्रित
+कूडा
+का
+भी
+जल्द
+ही
+निस्तारण
+कर
+दिया
+जाएगा
+.
 
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-जगह	NN	TEMP	O	O	B-MISC	OCC
-देखी	VM	TEMP	B-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+लिए
+नगर
+के
+बाहर
+जगह
+देखी
+गई
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कूडा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-फेंका	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+,
+कूडा
+को
+फेंका
+जाएगा
+.

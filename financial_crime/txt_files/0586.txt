@@ -1,487 +1,487 @@
 
-पटना	NNP	TEMP	O	O	O	O
-[	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+पटना
+[
+जेएनएन
+]
+.
 
-सट्टेबाजों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जाल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फंसकर	VM	TEMP	O	O	B-MISC	OCC
-कंगाल	JJ	TEMP	O	O	O	O
-बने	VM	TEMP	O	O	O	O
-ज्वेलर्स	NN	TEMP	O	O	O	O
-अकेले	JJ	TEMP	O	O	O	O
-पटना	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-STAT	OCC
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सट्टेबाजों
+के
+जाल
+में
+फंसकर
+कंगाल
+बने
+ज्वेलर्स
+अकेले
+पटना
+में
+ही
+नहीं
+हैं
+.
 
-पचास	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-युवा	JJ	TEMP	O	O	O	O
-कारोबारी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-ऐसे	PRP	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-,	SYM	TEMP	O	O	O	O
-जिन्होंने	PRP	TEMP	O	O	O	O
-आइपीएल	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-चैंपियंस	NN	TEMP	O	O	O	O
-ट्रॉफी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सट्टा	NN	TEMP	O	O	B-MISC	OCC
-लगाकर	VM	TEMP	O	O	I-MISC	O
-लाखों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-गंवा	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पचास
+से
+अधिक
+युवा
+कारोबारी
+भी
+ऐसे
+हैं
+,
+जिन्होंने
+आइपीएल
+व
+चैंपियंस
+ट्रॉफी
+में
+सट्टा
+लगाकर
+लाखों
+रुपये
+गंवा
+दिए
+.
 
-जेल	NN	TEMP	B-MISC	O	O	OCC
-भेजा	VM	TEMP	I-MISC	O	B-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-सट्टेबाज	NN	TEMP	O	O	O	O
-आलोक	XC	TEMP	O	O	O	O
-एजेंट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भूमिका	NN	TEMP	B-MISC	O	O	O
-निभा	VM	TEMP	I-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-ग्राहक	JJ	TEMP	O	O	O	O
-सेट	NN	TEMP	O	O	B-MISC	OCC
-करता	VM	TEMP	B-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जेल
+भेजा
+गया
+सट्टेबाज
+आलोक
+एजेंट
+की
+भूमिका
+निभा
+रहा
+था
+,
+जो
+ग्राहक
+सेट
+करता
+था
+.
 
-आइपीएल	NN	TEMP	O	O	O	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-पूर्व	NST	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-आका	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिलने	VM	TEMP	B-MISC	O	O	O
-वह	PRP	TEMP	O	O	O	O
-राजस्थान	NNP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-गया	VAUX	TEMP	O	O	B-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आइपीएल
+शुरू
+होने
+के
+पूर्व
+अपने
+आका
+से
+मिलने
+वह
+राजस्थान
+भी
+गया
+था
+.
 
-सूत्रों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मानें	NN	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-चैंपियंस	XC	TEMP	O	O	O	O
-ट्रॉफी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भारत-पाक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-फाइनल	NN	TEMP	O	O	O	O
-मैच	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-राजस्थान	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जयपुर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बैठा	VM	TEMP	O	O	B-MISC	O
-आरिफ	XC	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मुंबई	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एजेंटों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिये	PSP:?	TEMP	O	O	O	O
-दुबई	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बैठे	VM	TEMP	O	O	B-STAT	O
-सरगना	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जुड़ा	VM	TEMP	O	O	B-MISC	OCC
-रहा	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सूत्रों
+की
+मानें
+तो
+चैंपियंस
+ट्रॉफी
+में
+भारत-पाक
+के
+फाइनल
+मैच
+के
+दौरान
+राजस्थान
+के
+जयपुर
+में
+बैठा
+आरिफ
+दिल्ली
+व
+मुंबई
+के
+एजेंटों
+के
+जरिये
+दुबई
+में
+बैठे
+सरगना
+से
+जुड़ा
+रहा
+.
 
-सट्टा	XC	TEMP	O	O	O	O
-ऑनलाइन	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खेला	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सट्टा
+ऑनलाइन
+और
+मोबाइल
+पर
+खेला
+गया
+था
+.
 
-ताकि	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-करे	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-पकड़ा	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सके	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ताकि
+पुलिस
+अगर
+जांच
+भी
+करे
+तो
+कोई
+पकड़ा
+न
+जा
+सके
+.
 
-अब	PRP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-आलोक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रिमांड	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	IAC
-पूछताछ	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-तैयारी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+अब
+पुलिस
+आलोक
+को
+रिमांड
+पर
+लेकर
+पूछताछ
+की
+तैयारी
+में
+है
+.
 
-दीघा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आरिफ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कराई	VM	TEMP	B-MISC	O	B-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-मुलाकात	NN	TEMP	B-MISC	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तफ्तीश	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	B-MISC	OCC
-आ	VM	TEMP	B-MISC	O	I-MISC	O
-चुकी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-शास्त्रीनगर	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-आलोक	NN	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-राजस्थान	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	B-MISC	OCC
-करता	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दीघा
+के
+युवक
+ने
+आरिफ
+से
+कराई
+थी
+मुलाकात
+पुलिस
+की
+तफ्तीश
+में
+यह
+बात
+सामने
+आ
+चुकी
+है
+कि
+शास्त्रीनगर
+निवासी
+आलोक
+पहले
+राजस्थान
+में
+ही
+काम
+करता
+था
+.
 
-पिछले	JJ	TEMP	O	B	O	O
-कुछ	QF	TEMP	O	I	O	O
-साल	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-पटना	XC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पिछले
+कुछ
+साल
+से
+वह
+पटना
+में
+रहने
+लगा
+.
 
-इसी	DEM	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-मुलाकात	NN	TEMP	O	O	O	O
-दीघा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	DESC
-वाले	PSP	TEMP	O	O	I-STAT	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इसी
+वर्ष
+उसकी
+मुलाकात
+दीघा
+के
+रहने
+वाले
+एक
+युवक
+से
+हुई
+.
 
-उसने	PRP	TEMP	O	O	O	O
-सट्टा	NN	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भाव	NN	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-समझाया	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+उसने
+सट्टा
+बाजार
+का
+भाव
+उसे
+समझाया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-आलोक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-राजस्थान	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जयपुर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बैठे	VM	TEMP	O	O	B-MISC	OCC
-आरिफ	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+आलोक
+को
+राजस्थान
+के
+जयपुर
+में
+बैठे
+आरिफ
+का
+पता
+दिया
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-दीघा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-जुटी	VM	TEMP	B-MISC	O	B-STAT	OCC
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+अब
+दीघा
+के
+उस
+युवक
+की
+तलाश
+में
+जुटी
+है
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-आलोक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दानापुर	JJ	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पटना	NNP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधा	QF	TEMP	O	O	O	O
-दर्जन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	B-MISC	OCC
-बताए	VM	TEMP	B-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-जो	PRP	TEMP	O	O	O	O
-क्रिकेट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सट्टा	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-खेल	NN	TEMP	O	O	B-MISC	OCC
-खेलते	VM	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+आलोक
+ने
+दानापुर
+व
+पटना
+शहर
+के
+आधा
+दर्जन
+से
+अधिक
+लोगों
+के
+नाम
+बताए
+थे
+जो
+क्रिकेट
+में
+सट्टा
+का
+खेल
+खेलते
+हैं
+.
 
-आलोक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-खेल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-70	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-कारोबारी	JJ	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-युवा	NN	TEMP	O	O	O	O
-लाखों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दांव	NN	TEMP	O	O	B-MISC	OCC
-हार	VM	TEMP	O	O	I-MISC	O
-चुके	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आलोक
+ने
+पुलिस
+को
+बताया
+कि
+इस
+खेल
+में
+70
+से
+अधिक
+कारोबारी
+और
+युवा
+लाखों
+रुपये
+का
+दांव
+हार
+चुके
+हैं
+.
 
-मुश्किल	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-सटोरियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पकडना	VM	TEMP	O	O	O	OCC
-सूत्रों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मानें	NN	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मुंबई	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-दुबई	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बैठे	VM	TEMP	O	O	O	O
-सट्टा	XC	TEMP	O	O	O	O
-बाजार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मास्टर	XC	TEMP	O	O	O	O
-लोकल	XC	TEMP	O	O	O	O
-एजेंट्स	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सहारे	NN	TEMP	O	O	O	O
-अपना	PRP	TEMP	O	O	O	O
-कारोबार	NN	TEMP	O	O	O	O
-राजस्थान	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-उत्तर	XC	TEMP	O	O	O	O
-प्रदेश	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-राज्यों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फैलाए	VM	TEMP	O	O	B-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मुश्किल
+है
+सटोरियों
+को
+पकडना
+सूत्रों
+की
+मानें
+तो
+दिल्ली
+,
+मुंबई
+और
+दुबई
+में
+बैठे
+सट्टा
+बाजार
+के
+मास्टर
+लोकल
+एजेंट्स
+के
+सहारे
+अपना
+कारोबार
+राजस्थान
+,
+उत्तर
+प्रदेश
+व
+बिहार
+सहित
+अन्य
+राज्यों
+में
+फैलाए
+हुए
+हैं
+.
 
-इसके	PRP	TEMP	O	O	O	O
-एजेंट	NN	TEMP	O	O	O	O
-जगह-जगह	NN	TEMP	O	O	O	O
-बैठे	VM	TEMP	O	O	B-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+एजेंट
+जगह-जगह
+बैठे
+हैं
+.
 
-नए	JJ	TEMP	O	O	O	O
-ग्राहकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सोच	NN	TEMP	O	O	O	O
-समझकर	VM	TEMP	B-MISC	O	O	O
-बनाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-पुराने	JJ	TEMP	O	O	O	O
-ग्राहकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-संपर्क	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रहते	VM	TEMP	O	O	B-STAT	DECL
-हैं	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+नए
+ग्राहकों
+को
+सोच
+समझकर
+बनाया
+जाता
+है
+और
+पुराने
+ग्राहकों
+से
+लगातार
+संपर्क
+में
+रहते
+हैं
+.
 
-सटोरियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पकडना	VM	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-मुश्किल	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सटोरियों
+को
+पकडना
+काफी
+मुश्किल
+है
+.
 
-कारण	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-ये	DEM	TEMP	O	O	O	O
-सटोरिये	JJ	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-सीधे	JJ	TEMP	O	O	B-MISC	O
-नहीं	NEG	TEMP	O	O	I-MISC	O
-करते	VM	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कारण
+यह
+कि
+ये
+सटोरिये
+कोई
+भी
+बात
+सीधे
+नहीं
+करते
+हैं
+.
 
-इनकी	PRP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-कोड	NNP	TEMP	O	O	O	O
-वर्ड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-होती	VM	TEMP	O	O	B-STAT	DECL
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इनकी
+बात
+कोड
+वर्ड
+में
+होती
+है
+.
 
-कोड	NNP	TEMP	O	O	O	O
-वर्ड	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधे-आधे	JJ	TEMP	O	O	O	O
-अक्षरों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जोड़कर	XC	TEMP	O	O	O	O
-जनरेट	NN	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-जाता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोड
+वर्ड
+को
+दो
+नाम
+के
+आधे-आधे
+अक्षरों
+को
+जोड़कर
+जनरेट
+किया
+जाता
+है
+.
 
-सट्टा	NN	TEMP	B-MISC	O	B-MISC	O
-लगाने	VM	TEMP	I-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-आमने-सामने	PRP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सट्टा
+लगाने
+के
+बाद
+आमने-सामने
+बात
+नहीं
+होगी
+.
 
-बात	NN	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	B-MISC	O
-होगी	VM	TEMP	O	O	I-MISC	OCC
-और	CC	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-सही	JJ	TEMP	O	O	O	O
-कोड	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-बोला	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-तब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-होती	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बात
+फोन
+पर
+ही
+होगी
+और
+जब
+तक
+सही
+कोड
+नहीं
+बोला
+जाएगा
+,
+तब
+तक
+फोन
+पर
+बात
+नहीं
+होती
+थी
+.
 
-आलोक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-भारत	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दांव	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-सट्टे	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कोड	NN	TEMP	O	O	O	O
-वर्ड	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-धोवी	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आलोक
+ने
+पुलिस
+को
+बताया
+था
+कि
+भारत
+पर
+दांव
+लगाने
+का
+सट्टे
+का
+कोड
+वर्ड
+'
+धोवी
+'
+था
+.
 
-'	SYM	TEMP	O	O	O	O
-धो	XC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मतलब	NN	TEMP	O	O	O	O
-महेंद्र	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-धौनी	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-वी	XC	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मतलब	NN	TEMP	O	O	O	O
-विराट	JJ	TEMP	O	O	O	O
-कोहली	NN	TEMP	O	O	O	O
-था	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+'
+धो
+'
+का
+मतलब
+महेंद्र
+सिंह
+धौनी
+और
+'
+वी
+'
+का
+मतलब
+विराट
+कोहली
+था
+.

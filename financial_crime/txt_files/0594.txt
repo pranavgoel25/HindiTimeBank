@@ -1,426 +1,426 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अलीगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-आलू	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बेकदरी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-असर	NN	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-पल्लेदार	JJ	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-मजदूर	XC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कोल्ड	XC	TEMP	O	O	O	O
-स्टोर	XC	TEMP	O	O	O	O
-स्वामियों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+अलीगढ़
+:
+आलू
+की
+बेकदरी
+का
+असर
+किसानों
+पर
+ही
+नहीं
+पल्लेदार
+(
+मजदूर
+)
+व
+कोल्ड
+स्टोर
+स्वामियों
+पर
+भी
+है
+.
 
-नतीजन	NN	TEMP	O	O	O	O
-इगलास	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-मुन्नीलाल	JJ	TEMP	O	O	O	O
-कोल्ड	NN	TEMP	O	O	O	O
-स्टोर	XC	TEMP	O	O	O	O
-स्वामी	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पल्लेदार	JJ	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-नोकझोंक	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नतीजन
+इगलास
+रोड
+स्थित
+मुन्नीलाल
+कोल्ड
+स्टोर
+स्वामी
+व
+पल्लेदार
+ठेकेदार
+के
+बीच
+भुगतान
+को
+लेकर
+नोकझोंक
+हुई
+.
 
-करीब	RB	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-डीएम	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-पहुंचा	VM	TEMP	O	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+करीब
+चार
+लाख
+रुपये
+के
+भुगतान
+का
+मामला
+डीएम
+तक
+पहुंचा
+.
 
-यहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ये	DEM	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-उप	DEM	TEMP	O	O	O	O
-श्रम	NN	TEMP	O	O	O	O
-आयुक्त	JJ	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-पहुंचा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+यहां
+से
+ये
+मामला
+उप
+श्रम
+आयुक्त
+कार्यालय
+पहुंचा
+.
 
-शुक्रवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-केस	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नकद	JJ	TEMP	O	O	O	O
-2.12	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	B-MISC	O
-निपटा	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शुक्रवार
+को
+केस
+दर्ज
+होने
+से
+पहले
+ही
+नकद
+2.12
+लाख
+रुपये
+में
+भुगतान
+के
+बाद
+मामला
+निपटा
+.
 
-दरअसल	CC	TEMP	O	O	O	O
-संभल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-हदूपुरा	XC	TEMP	O	O	O	O
-खेडा	NNP	TEMP	O	O	O	O
-दीप	NN	TEMP	O	O	O	O
-सराय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सउद	NN	TEMP	O	O	O	O
-पल्लेदार	JJ	TEMP	O	O	O	O
-ठेकेदारी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	O	OCC
-करते	VM	TEMP	I-MISC	O	B-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दरअसल
+संभल
+के
+¨
+हदूपुरा
+खेडा
+दीप
+सराय
+के
+सउद
+पल्लेदार
+ठेकेदारी
+का
+काम
+करते
+हैं
+.
 
-इन्होंने	PRP	TEMP	O	O	O	O
-चंदौसी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कादिर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मध्यस्थता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-सीजन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मुन्नीलाल	JJ	TEMP	O	O	O	O
-कोल्ड	XC	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आलू	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अनलोडिंग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन्होंने
+चंदौसी
+के
+कादिर
+की
+मध्यस्थता
+से
+इस
+सीजन
+में
+मुन्नीलाल
+कोल्ड
+स्टोर
+पर
+आलू
+की
+अनलोडिंग
+की
+थी
+.
 
-शर्त	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सउद	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-78	QC	TEMP	O	O	O	O
-श्रमिकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अनलोडिंग	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शर्त
+पर
+सउद
+ने
+78
+श्रमिकों
+से
+अनलोडिंग
+कराई
+थी
+.
 
-22	QC	TEMP	O	O	O	O
-मजदूर	XC	TEMP	O	O	O	O
-कादिर	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+22
+मजदूर
+कादिर
+ने
+उपलब्ध
+कराए
+.
 
-दूसरी	QO	TEMP	O	O	O	O
-मंजिल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आलू	NN	TEMP	O	O	B-MISC	O
-पहुंचाने	VM	TEMP	O	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	O	OCC
-14.50	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-पैकेट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हिसाब	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-होना	VM	TEMP	O	O	B-STAT	OCC
-था	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+दूसरी
+मंजिल
+पर
+आलू
+पहुंचाने
+का
+भुगतान
+14.50
+रुपये
+प्रति
+पैकेट
+के
+हिसाब
+से
+होना
+था
+.
 
-कोल्ड	XC	TEMP	O	O	O	O
-स्टोर	XC	TEMP	O	O	O	O
-संचालक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आठ	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	O	OCC
-उस	DEM	TEMP	O	O	O	O
-समय	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कोल्ड
+स्टोर
+संचालक
+ने
+आठ
+लाख
+रुपये
+का
+भुगतान
+उस
+समय
+कर
+दिया
+था
+.
 
-बाकी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	O
-का	PSP	TEMP	O	O	O	O
-वायदा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाकी
+का
+भुगतान
+बाद
+में
+देने
+का
+वायदा
+किया
+था
+.
 
-समय	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पल्लेदार	JJ	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कोल्ड	XC	TEMP	O	O	O	O
-मालिक	XC	TEMP	O	O	O	O
-मुकेश	XC	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दबाव	NN	TEMP	O	O	O	O
-बनाया	VM	TEMP	O	O	O	OCC
-,	SYM	TEMP	O	O	O	O
-जिससे	PRP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-बिगड	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+समय
+पर
+पैसा
+नहीं
+मिला
+तो
+पल्लेदार
+ठेकेदार
+ने
+भुगतान
+के
+लिए
+कोल्ड
+मालिक
+मुकेश
+अग्रवाल
+पर
+दबाव
+बनाया
+,
+जिससे
+मामला
+बिगड
+गया
+.
 
-सउद	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कादिर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-दशा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-डीएम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-जुलाई	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-प्रार्थना	XC	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-दिया	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+सउद
+व
+कादिर
+ने
+भुगतान
+न
+होने
+की
+दशा
+में
+डीएम
+के
+यहां
+एक
+जुलाई
+को
+प्रार्थना
+पत्र
+दिया
+.
 
-यहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उप	XC	TEMP	O	O	O	O
-श्रम	XC	TEMP	O	O	O	O
-आयुक्त	NN	TEMP	O	O	O	O
-जबीं	PRP	TEMP	O	O	O	O
-आयशा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-श्रम	NN	TEMP	O	O	O	O
-प्रवर्तन	JJ	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-विजय	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+यहां
+से
+उप
+श्रम
+आयुक्त
+जबीं
+आयशा
+ने
+इस
+मामले
+की
+जांच
+श्रम
+प्रवर्तन
+अधिकारी
+विजय
+सिंह
+को
+दी
+.
 
-दोनों	JJ	TEMP	O	O	O	O
-पक्षों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बुलाकर	VM	TEMP	B-MISC	O	B-MISC	O
-समझौता	VM	TEMP	B-MISC	O	I-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दोनों
+पक्षों
+को
+बुलाकर
+समझौता
+हुआ
+.
 
-कोल्ड	XC	TEMP	O	O	O	O
-स्टोर	XC	TEMP	O	O	O	O
-स्वामी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नकद	JJ	TEMP	O	O	O	O
-2.12	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-STAT	OCC
-कराए	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+कोल्ड
+स्टोर
+स्वामी
+ने
+नकद
+2.12
+लाख
+रुपये
+विभाग
+में
+जमा
+कराए
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-नकद	NN	TEMP	O	O	O	O
-पल्लेदार	JJ	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दिए	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इसमें
+से
+12
+हजार
+नकद
+पल्लेदार
+ठेकेदार
+को
+दिए
+.
 
-बाकी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-कोष	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाकी
+के
+पैसे
+विभाग
+ने
+अपने
+कोष
+में
+जमा
+किया
+है
+.
 
-ये	DEM	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-सउद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-खाता	NN	TEMP	O	O	O	O
-खुलने	VM	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	B-MISC	OCC
-होगा	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ये
+पैसा
+सउद
+के
+बैंक
+खाता
+खुलने
+के
+बाद
+भुगतान
+होगा
+.
 
-मुकेश	XC	TEMP	O	O	O	O
-अग्रवाल	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-समझौता	VM	TEMP	B-MISC	O	B-MISC	OCC
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मुकेश
+अग्रवाल
+ने
+कहा
+कि
+मामले
+में
+समझौता
+हो
+गया
+है
+.
 
-वर्जन	NN	TEMP	O	O	O	O
-..	XC	TEMP	O	O	O	O
-कोल्ड	XC	TEMP	O	O	O	O
-संचालक	XC	TEMP	O	O	O	O
-पल्लेदार	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-आनाकानी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वर्जन
+..
+कोल्ड
+संचालक
+पल्लेदार
+व
+ठेकेदार
+का
+भुगतान
+करने
+में
+आनाकानी
+कर
+रहे
+थे
+.
 
-उन्हें	PRP	TEMP	O	O	O	O
-बुलाकर	VM	TEMP	B-MISC	O	B-MISC	O
-समझाया	VM	TEMP	B-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्हें
+बुलाकर
+समझाया
+गया
+.
 
-फिर	RB	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-समझौते	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-तैयार	JJ	TEMP	B-MISC	O	B-STAT	OCC
-हुए	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+फिर
+वे
+समझौते
+के
+लिए
+तैयार
+हुए
+.
 
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भुगतान
+कर
+दिया
+गया
+है
+.
 
--	SYM	TEMP	O	O	O	O
-जबीं	RDP	TEMP	O	O	O	O
-आयशा	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-उप	XC	TEMP	O	O	O	O
-श्रमआयुक्त	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+-
+जबीं
+आयशा
+,
+उप
+श्रमआयुक्त
+.
 
-बकरीद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-गुना	QF	TEMP	O	O	O	O
-खुशी	NN	TEMP	O	O	B-MISC	O
-मिली	VM	TEMP	O	O	I-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बकरीद
+की
+दो
+गुना
+खुशी
+मिली
+है
+.
 
-नकद	JJ	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मिल	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नकद
+भुगतान
+के
+रूप
+में
+12
+हजार
+रुपये
+मिल
+गए
+है
+.
 
-बैंक	NN	TEMP	O	O	O	O
-खाता	VM	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	B-MISC	OCC
-होने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-बाकी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	O	O	B-MISC	OCC
-विभाग	NN	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-देगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+बैंक
+खाता
+न
+होने
+के
+चलते
+बाकी
+का
+भुगतान
+विभाग
+बाद
+में
+देगा
+.
 
--	SYM	TEMP	O	O	O	O
-सउद	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पल्लेदार	JJ	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
+-
+सउद
+,
+पल्लेदार
+ठेकेदार

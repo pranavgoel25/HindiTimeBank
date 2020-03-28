@@ -1,240 +1,240 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सिरसा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-अतिरिक्त	JJ	TEMP	O	O	O	O
-जिला	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-सत्र	NN	TEMP	O	O	O	O
-न्यायाधीश	XC	TEMP	O	O	O	O
-प्रवीण	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अदालत	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-हत्या	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-संतनगर	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-अवतार	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उम्रकैद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सजा	NN	TEMP	B-MISC	O	B-MISC	OCC
-सुनाई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+सिरसा
+:
+अतिरिक्त
+जिला
+एवं
+सत्र
+न्यायाधीश
+प्रवीण
+कुमार
+की
+अदालत
+ने
+पत्नी
+की
+हत्या
+करने
+के
+मामले
+में
+संतनगर
+निवासी
+अवतार
+¨
+सह
+को
+उम्रकैद
+की
+सजा
+सुनाई
+है
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+50
+हजार
+रुपये
+जुर्माना
+किया
+गया
+है
+.
 
-जुर्माना	VM	TEMP	B-MISC	O	O	O
-अदा	VAUX	TEMP	I-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-छह	QC	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-अतिरिक्त	JJ	TEMP	O	O	O	O
-सजा	NN	TEMP	B-MISC	O	O	O
-भुगतनी	VM	TEMP	I-MISC	O	B-MISC	OCC
-होगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जुर्माना
+अदा
+न
+करने
+पर
+छह
+माह
+की
+अतिरिक्त
+सजा
+भुगतनी
+होगी
+.
 
-बाप	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-हत्या	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-केस	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करवाया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाप
+के
+खिलाफ
+बेटी
+ने
+की
+मां
+की
+हत्या
+का
+केस
+दर्ज
+करवाया
+था
+.
 
-यह	PRP	TEMP	O	O	O	O
-था	VM	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दिए	VM	TEMP	O	O	O	OCC
-बयानों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मृतका	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-13	QC	TEMP	O	O	O	O
-वर्षीय	JJ	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-अमनदीप	JJ	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-स्कूल	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-लौटी	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-खून	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लथपथ	JJ	TEMP	O	O	B-MISC	O
-पडी	VM	TEMP	O	O	I-MISC	OCC
-थी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+था
+मामला
+पुलिस
+को
+दिए
+बयानों
+में
+मृतका
+की
+13
+वर्षीय
+बेटी
+अमनदीप
+कौर
+ने
+बताया
+कि
+जब
+वह
+स्कूल
+से
+घर
+लौटी
+तो
+घर
+में
+उसकी
+मां
+खून
+से
+लथपथ
+पडी
+थी
+.
 
-पास	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ईंट	NN	TEMP	O	O	O	O
-पडी	VM	TEMP	O	O	B-MISC	OCC
-हुई	VAUX	TEMP	O	O	I-MISC	O
-थी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पास
+ही
+एक
+ईंट
+पडी
+हुई
+थी
+.
 
-उसका	PRP	TEMP	O	O	O	O
-पिता	NN	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-था	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसका
+पिता
+वहां
+पर
+नहीं
+था
+.
 
-अपनी	PRP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खून	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लथपथ	JJ	TEMP	O	O	O	O
-देखकर	VM	TEMP	B-MISC	O	O	O
-अमनदीप	JJ	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
-रोने	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पडोसी	NN	TEMP	O	O	O	O
-एकत्रित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	O	O	B-MISC	OCC
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	I-MISC	-1
-.	SYM	TEMP	O	O	O	O
+अपनी
+मां
+को
+खून
+से
+लथपथ
+देखकर
+अमनदीप
+कौर
+रोने
+लगी
+तो
+पडोसी
+एकत्रित
+हो
+गए
+और
+मामले
+की
+सूचना
+पुलिस
+को
+दी
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंची	VM	TEMP	B-MISC	O	B-STAT	OCC
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+पुलिस
+मौके
+पर
+पहुंची
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पति-पत्नी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अनबन	JJ	TEMP	B-MISC	O	O	O
-चल	VM	TEMP	I-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-इसी	DEM	TEMP	O	O	O	O
-वजह	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-पिता	NN	TEMP	O	O	O	O
-अवतार	NN	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	PSP	TEMP	O	O	O	O
-परेशान	JJ	TEMP	O	O	B-STAT	DECL
-था	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+बताया
+जाता
+है
+कि
+पति-पत्नी
+के
+बीच
+काफी
+समय
+से
+अनबन
+चल
+रही
+थी
+इसी
+वजह
+को
+लेकर
+उसका
+पिता
+अवतार
+¨
+सह
+परेशान
+था
+.
 
-दोपहर	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अकेला	JJ	TEMP	O	O	O	O
-देखकर	VM	TEMP	B-MISC	O	O	O
-अवतार	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-सिर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ईंट	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-वार	NN	TEMP	B-MISC	O	O	O
-करके	VM	TEMP	I-MISC	O	O	O
-मौत	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	I-MISC	O	O	O
-घाट	NN	TEMP	I-MISC	O	O	O
-उतार	VM	TEMP	I-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दोपहर
+को
+घर
+में
+पत्नी
+को
+अकेला
+देखकर
+अवतार
+¨
+सह
+ने
+उसके
+सिर
+पर
+ईंट
+से
+वार
+करके
+मौत
+के
+घाट
+उतार
+दिया
+और
+मौके
+से
+फरार
+हो
+गया
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लडकी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बयान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पिता	NN	TEMP	O	O	O	O
-अवतार	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-हत्या	NN	TEMP	O	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+लडकी
+के
+बयान
+पर
+पिता
+अवतार
+¨
+सह
+के
+खिलाफ
+हत्या
+का
+मामला
+दर्ज
+किया
+था
+.

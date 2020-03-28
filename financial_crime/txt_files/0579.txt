@@ -1,357 +1,357 @@
 
-आगरा	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-गगन	XC	TEMP	O	O	O	O
-राव	XC	TEMP	O	O	O	O
-पाटिल	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+आगरा
+(
+गगन
+राव
+पाटिल
+)
+.
 
-लंबे	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बोझ	NN	TEMP	O	O	O	O
-तले	NN	TEMP	O	O	O	O
-दबे	JJ	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आखिरकार	RB	TEMP	O	O	O	O
-राहत	NN	TEMP	O	O	B-MISC	OCC
-मिलनी	VM	TEMP	B-MISC	O	I-MISC	O
-शुरू	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लंबे
+समय
+से
+कर्ज
+के
+बोझ
+तले
+दबे
+किसानों
+को
+आखिरकार
+राहत
+मिलनी
+शुरू
+हो
+गई
+है
+.
 
-उनके	PRP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-पहुंचने	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनके
+बैंक
+खातों
+में
+अब
+पैसा
+पहुंचने
+लगा
+है
+.
 
-फिलहाल	RB	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-24	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-181	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बोझ	NN	TEMP	O	O	O	O
-हट	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फिलहाल
+करीब
+24
+हजार
+किसानों
+के
+सिर
+से
+181
+करोड़
+रुपये
+का
+बोझ
+हट
+गया
+है
+.
 
-विधानसभा	JJ	TEMP	B-MISC	O	O	O
-चुनाव	NN	TEMP	I-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भाजपा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लघु	JJ	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-सीमांत	JJ	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	OCC
-माफ	JJ	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-वादा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विधानसभा
+चुनाव
+के
+लिए
+अपने
+घोषणा
+पत्र
+में
+भाजपा
+ने
+लघु
+और
+सीमांत
+किसानों
+का
+कर्ज
+माफ
+करने
+का
+वादा
+किया
+था
+.
 
-कैबिनेट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बैठक	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-घोषणा	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-अलग	JJ	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-आवंटित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-लंबे	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-कर्जमाफी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बाट	NN	TEMP	O	O	O	O
-जोह	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कैबिनेट
+की
+बैठक
+में
+इसकी
+घोषणा
+हुई
+तथा
+अलग
+से
+राशि
+भी
+आवंटित
+कर
+दी
+गई
+,
+लेकिन
+लंबे
+समय
+से
+किसान
+कर्जमाफी
+की
+बाट
+जोह
+रहे
+थे
+.
 
-काफी	QF	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-डाटा	NN	TEMP	O	O	B-MISC	O
-मंगवाने	VM	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-कवायद	NN	TEMP	O	O	B-MISC	OCC
-होती	VM	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+काफी
+समय
+तक
+बैंकों
+से
+डाटा
+मंगवाने
+की
+ही
+कवायद
+होती
+रही
+.
 
-अब	PRP	TEMP	O	O	O	O
-कहीं	PRP	TEMP	O	O	O	O
-जाकर	VM	TEMP	B-MISC	O	B-MISC	O
-राहत	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलना	VM	TEMP	I-MISC	O	I-MISC	O
-शुरू	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+कहीं
+जाकर
+राहत
+मिलना
+शुरू
+हुई
+है
+.
 
-रकम	NN	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-चरणों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पहुंचनी	VM	TEMP	O	O	B-STAT	OCC
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+रकम
+कई
+चरणों
+में
+खातों
+में
+पहुंचनी
+है
+.
 
-29	QC	TEMP	O	O	O	O
-अगस्त	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-181	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+29
+अगस्त
+से
+किसानों
+के
+खातों
+में
+181
+करोड़
+रुपया
+पहुंच
+चुका
+है
+.
 
-अभी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-गुना	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रकम	NN	TEMP	B-MISC	O	O	O
-जानी	VM	TEMP	I-MISC	O	B-MISC	OCC
-बाकी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभी
+भी
+लगभग
+चार
+गुना
+से
+अधिक
+खातों
+में
+रकम
+जानी
+बाकी
+है
+.
 
-दिसंबर	NNP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-कार्य	NN	TEMP	O	O	B-MISC	OCC
-पूरा	JJ	TEMP	B-MISC	O	B-MISC	ASP
-होना	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिसंबर
+तक
+यह
+कार्य
+पूरा
+होना
+है
+.
 
-कई	QF	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कई
+किसानों
+के
+आधार
+कार्ड
+बैंकों
+को
+प्राप्त
+नहीं
+हुए
+हैं
+.
 
-इसके	PRP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-63	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ज्यादा	QF	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-पहुंच	VM	TEMP	I-MISC	O	I-MISC	O
-पाया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+चलते
+63
+हजार
+से
+ज्यादा
+किसानों
+के
+खाते
+में
+पैसा
+नहीं
+पहुंच
+पाया
+है
+.
 
-अग्रणी	NN	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-प्राथमिकता	NN	TEMP	O	O	O	O
-उन	DEM	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जिनके	PRP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-कार्ड	NN	TEMP	O	O	O	O
-आ	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-या	CC	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लिंक	VM	TEMP	B-MISC	O	B-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अग्रणी
+जिला
+प्रबंधक
+के
+मुताबिक
+प्राथमिकता
+उन
+किसानों
+को
+दी
+जा
+रही
+है
+,
+जिनके
+आधार
+कार्ड
+आ
+गए
+हैं
+या
+खातों
+से
+लिंक
+हैं
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-राम	XC	TEMP	O	O	O	O
-मंदिर	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-इंच	NN	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	O
-छोड़ेंगे	VM	TEMP	I-MISC	O	I-MISC	O
-:	SYM	TEMP	O	O	O	O
-डॉ	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+राम
+मंदिर
+की
+एक
+इंच
+जमीन
+नहीं
+छोड़ेंगे
+:
+डॉ
+.
 
-प्रवीण	XC	TEMP	O	O	O	O
-तोगड़ियायह	XC	TEMP	O	O	O	O
-सतर्कता	NN	TEMP	O	O	O	O
-इसलिए	CC	TEMP	O	O	O	O
-बरती	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-ताकि	CC	TEMP	O	O	O	O
-फ्रॉड	NN	TEMP	O	O	B-MISC	O
-न	NEG	TEMP	B-MISC	O	I-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-पाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रवीण
+तोगड़ियायह
+सतर्कता
+इसलिए
+बरती
+जा
+रही
+है
+ताकि
+फ्रॉड
+न
+होने
+पाए
+.
 
-कई	QF	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ऋण	NN	TEMP	B-MISC	O	B-MISC	O
-ले	VM	TEMP	I-MISC	O	I-MISC	OCC
-लेते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कई
+बार
+किसान
+कई
+बैंकों
+से
+ऋण
+ले
+लेते
+हैं
+.
 
-आधार	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-होने	VM	TEMP	B-MISC	O	O	O
-से	PSP	TEMP	O	O	O	O
-धोखाधड़ी	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-आशंका	NN	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-शून्य	JJ	TEMP	O	O	B-MISC	OCC
-रह	VM	TEMP	O	O	I-MISC	O
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आधार
+नंबर
+होने
+से
+धोखाधड़ी
+की
+आशंका
+लगभग
+शून्य
+रह
+जाएगी
+.
 
-लीड	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अग्रणी	NN	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-बिजय	XC	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-कहते	VM	TEMP	B-MISC	O	O	O
-हैं	VAUX	TEMP	I-MISC	O	O	O
-,	SYM	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-चरण	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-24	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खातों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-181	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लीड
+बैंक
+के
+अग्रणी
+जिला
+प्रबंधक
+बिजय
+कुमार
+सिंह
+कहते
+हैं
+,
+पहले
+चरण
+में
+24
+हजार
+किसानों
+के
+खातों
+में
+181
+करोड़
+रुपया
+पहुंच
+चुका
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-सिलसिला	NN	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-चरणों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चलेगा	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+यह
+सिलसिला
+कई
+चरणों
+में
+चलेगा
+.
 
-दिसंबर	NNP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-कार्य	NN	TEMP	O	O	O	OCC
-पूरा	JJ	TEMP	B-MISC	O	B-MISC	ASP
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिसंबर
+तक
+कार्य
+पूरा
+करना
+है
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	B-MISC	O	O	O
-:	SYM	TEMP	O	O	O	O
-चर्चा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लखनऊ	XC	TEMP	O	O	O	O
-मेट्रो	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सपा	NN	TEMP	O	O	O	O
-प्रमुख	JJ	TEMP	O	O	O	O
-अखिलेश	XC	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ट्वीट	XC	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+चर्चा
+में
+लखनऊ
+मेट्रो
+पर
+सपा
+प्रमुख
+अखिलेश
+यादव
+का
+ट्वीट

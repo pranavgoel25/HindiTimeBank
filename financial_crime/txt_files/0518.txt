@@ -1,269 +1,269 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-डबवाली	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सहकारी	JJ	TEMP	O	O	O	O
-समितियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	O	OCC
-के	PSP	TEMP	O	O	O	O
-अनुरूप	PSP:?	TEMP	O	O	O	O
-उर्वरक	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-अग्रिम	JJ	TEMP	B-MISC	O	O	O
-भंडारण	NN	TEMP	I-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-इफ्को	NN	TEMP	O	O	O	O
-नियमित	JJ	TEMP	O	O	O	O
-मार्जिन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अतिरिक्त	PSP:?	TEMP	O	O	O	O
-विशेष	JJ	TEMP	O	O	O	O
-छूट	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कैश	NN	TEMP	O	O	O	O
-डिस्काऊंट	NN	TEMP	O	O	B-MISC	O
-देगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सहयोगी
+,
+डबवाली
+:
+सहकारी
+समितियों
+को
+मांग
+के
+अनुरूप
+उर्वरक
+का
+50
+से
+60
+फीसद
+तक
+अग्रिम
+भंडारण
+करने
+पर
+इफ्को
+नियमित
+मार्जिन
+के
+अतिरिक्त
+विशेष
+छूट
+,
+कैश
+डिस्काऊंट
+देगी
+.
 
-इफ्को	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-डीएपी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-यूरिया	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लाभ	NN	TEMP	O	O	O	OCC
-कमाया	VM	TEMP	B-MISC	O	B-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इफ्को
+के
+अनुसार
+डीएपी
+पर
+50
+से
+60
+,
+यूरिया
+पर
+30
+से
+40
+रुपये
+प्रति
+बैग
+का
+लाभ
+कमाया
+जा
+सकता
+है
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-डीपीटी	NN	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अतर्गत	JJ	TEMP	O	O	O	O
-पीओएस	XC	TEMP	O	O	O	O
-मशीन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	O	O	B-MISC	OCC
-होगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+डीपीटी
+योजना
+के
+अतर्गत
+पीओएस
+मशीन
+के
+माध्यम
+से
+बिक्री
+होगी
+.
 
-प्रत्येक	QF	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जीएसटी	NN	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-लेना	VM	TEMP	B-MISC	O	O	O
-अनिवार्य	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+प्रत्येक
+समिति
+को
+जीएसटी
+नंबर
+लेना
+अनिवार्य
+है
+.
 
-इफको	XC	TEMP	O	O	O	O
-डबवाली	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रबंधक	JJ	TEMP	O	O	O	O
-पवन	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-सारस्वत	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इफको	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-उत्पाद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-बोरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दुर्घटना	NN	TEMP	O	O	O	O
-बीमा	JJ	TEMP	O	O	O	O
-संकटहरक	XC	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंतर्गत	PSP:?	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मिलता	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इफको
+डबवाली
+के
+प्रबंधक
+पवन
+कुमार
+सारस्वत
+ने
+बताया
+कि
+इफको
+के
+उत्पाद
+के
+25
+बोरों
+की
+खरीद
+पर
+एक
+लाख
+रुपये
+तक
+का
+दुर्घटना
+बीमा
+संकटहरक
+योजना
+के
+अंतर्गत
+किसान
+को
+मिलता
+है
+.
 
-उसी	DEM	TEMP	O	O	O	O
-प्रकार	NN	TEMP	O	O	O	O
-कृषि	XC	TEMP	O	O	O	O
-रसायन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-150	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-1000	QC	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बीमा	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-1500	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दुर्घटना	NN	TEMP	O	O	O	O
-बीमा	NN	TEMP	O	O	O	O
-नि	RP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-शुल्क	NN	TEMP	O	O	B-MISC	OCC
-होता	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसी
+प्रकार
+कृषि
+रसायन
+की
+खरीद
+पर
+150
+रुपये
+की
+खरीद
+पर
+1000
+का
+बीमा
+,
+1500
+की
+खरीद
+पर
+एक
+लाख
+का
+दुर्घटना
+बीमा
+नि
+:
+शुल्क
+होता
+है
+.
 
-जो	PRP	TEMP	O	O	O	O
-आकस्मिक	JJ	TEMP	O	O	O	O
-दुर्घटना	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-क्षति	NN	TEMP	B-MISC	O	B-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	O	O
-पीडित	JJ	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मिल	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जो
+आकस्मिक
+दुर्घटना
+व
+क्षति
+होने
+पर
+दो
+लाख
+तक
+की
+मदद
+पीडित
+परिवार
+को
+मिल
+जाती
+है
+.
 
-मंगलवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-इफको	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-फल	NN	TEMP	O	O	O	O
-उत्कृष्टता	VM	TEMP	O	O	O	O
-केंद्र	NN	TEMP	B-MISC	O	O	O
-मांगेआना	VM	TEMP	I-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-सभागार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रशिक्षण	NN	TEMP	O	O	O	O
-शिविर	NN	TEMP	O	O	O	O
-आयोजित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंगलवार
+को
+इफको
+ने
+फल
+उत्कृष्टता
+केंद्र
+मांगेआना
+के
+सभागार
+में
+प्रशिक्षण
+शिविर
+आयोजित
+किया
+.
 
-जिसमें	PRP	TEMP	O	O	O	O
-बिक्री	NN	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-पैक्स	XC	TEMP	O	O	O	O
-प्रंबधक	XC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सहकारी	JJ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-शामिल	JJ	TEMP	B-MISC	O	B-STAT	OCC
-हुए	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जिसमें
+बिक्री
+केंद्र
+प्रभारी
+पैक्स
+प्रंबधक
+व
+सहकारी
+बैंक
+के
+शाखा
+प्रबंधक
+शामिल
+हुए
+.
 
-कार्यक्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-डॉ	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+कार्यक्रम
+में
+डॉ
+.
 
-ओपी	XC	TEMP	O	O	O	O
-गोदारा	XC	TEMP	O	O	O	O
-प्रोजेक्ट	XC	TEMP	O	O	O	O
-आफिसर	XC	TEMP	O	O	O	O
-मांगेआना	XC	TEMP	O	O	O	O
-फार्म	XC	TEMP	O	O	O	O
-मुख्यातिथि	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जबकि	CC	TEMP	O	O	O	O
-कार्यक्रम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अध्यक्षता	NN	TEMP	O	O	O	O
-बहादुर	XC	TEMP	O	O	O	O
-राम	NNP	TEMP	O	O	O	O
-मुख्य	JJ	TEMP	O	O	O	O
-क्षेत्रीय	JJ	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-फतेहाबाद	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+ओपी
+गोदारा
+प्रोजेक्ट
+आफिसर
+मांगेआना
+फार्म
+मुख्यातिथि
+के
+तौर
+पर
+पहुंचे
+जबकि
+कार्यक्रम
+की
+अध्यक्षता
+बहादुर
+राम
+मुख्य
+क्षेत्रीय
+प्रबंधक
+फतेहाबाद
+ने
+की
+.
 
-इस	DEM	TEMP	O	O	O	O
-अवसर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-डॉ	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+अवसर
+पर
+डॉ
+.
 
-रमेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-विषय	NN	TEMP	O	O	O	O
-वस्तु	NN	TEMP	O	O	O	O
-विशेषज्ञ	NN	TEMP	O	O	O	O
-मांगेआना	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-डॉ	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+रमेश
+कुमार
+विषय
+वस्तु
+विशेषज्ञ
+मांगेआना
+,
+डॉ
+.
 
-अमर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-पूनिया	NNP	TEMP	O	O	O	O
-विषय	NN	TEMP	O	O	O	O
-वस्तु	NN	TEMP	O	O	O	O
-विशेषज्ञ	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रणजीत	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-सहायक	JJ	TEMP	O	O	O	O
-इफको	XC	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	DECL
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+अमर
+¨
+सह
+पूनिया
+विषय
+वस्तु
+विशेषज्ञ
+,
+रणजीत
+¨
+सह
+क्षेत्र
+सहायक
+इफको
+मौजूद
+थे
+.

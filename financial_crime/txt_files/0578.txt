@@ -1,362 +1,362 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गुरदासपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-डेयरी	JJ	TEMP	O	O	O	O
-फार्मिंग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-धंधे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उत्साहित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+गुरदासपुर
+:
+डेयरी
+फार्मिंग
+के
+धंधे
+को
+उत्साहित
+करने
+के
+लिए
+बडे
+स्तर
+पर
+प्रयास
+किए
+जा
+रहे
+हैं
+.
 
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-2017	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-75	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कर्जे	NN	TEMP	O	O	O	O
-दिला	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-उन्हें	PRP	TEMP	O	O	O	O
-स्व-रोजगार	NN	TEMP	O	O	O	O
-स्थापित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विभाग
+की
+ओर
+से
+साल
+2017
+में
+अब
+तक
+50
+लोगों
+को
+75
+लाख
+रुपये
+विभिन्न
+बैंकों
+के
+कर्जे
+दिला
+कर
+उन्हें
+स्व-रोजगार
+स्थापित
+करके
+दिए
+हैं
+.
 
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-धंधे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अपनाने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मुफ्त	JJ	TEMP	O	O	O	O
-ट्रे	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-नग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-सब्सिडी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मुहैया	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करवाई	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विभाग
+की
+ओर
+से
+उक्त
+धंधे
+को
+अपनाने
+वाले
+लोगों
+को
+मुफ्त
+ट्रे
+¨
+नग
+के
+अलावा
+सब्सिडी
+भी
+मुहैया
+करवाई
+जा
+रही
+है
+.
 
-डेयरी	JJ	TEMP	O	O	O	O
-पालन	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-डिप्टी	XC	TEMP	O	O	O	O
-डायरेक्टर	XC	TEMP	O	O	O	O
-कश्मीर	NNP	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-गोराया	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-पंजाब	XC	TEMP	O	O	O	O
-सरकार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्देशों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-डेयरी	XC	TEMP	O	O	O	O
-फार्मर	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-धंधे	NN	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-प्रेरित	JJ	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डेयरी
+पालन
+विभाग
+के
+डिप्टी
+डायरेक्टर
+कश्मीर
+¨
+सह
+गोराया
+ने
+बताया
+कि
+पंजाब
+सरकार
+के
+निर्देशों
+के
+तहत
+डेयरी
+फार्मर
+विभाग
+की
+ओर
+से
+किसानों
+व
+अन्य
+लोगों
+को
+इस
+धंधे
+प्रति
+प्रेरित
+करने
+के
+लिए
+कई
+तरह
+से
+प्रयास
+किए
+जा
+रहे
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-ब्लाक	JJ	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सेमिनार	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-विभागीय	JJ	TEMP	O	O	O	O
-योजनाओं	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अवगत	JJ	TEMP	O	O	B-MISC	OCC
-करवाया	VM	TEMP	O	O	I-MISC	O
-जाता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+तहत
+जिला
+व
+ब्लाक
+स्तर
+पर
+सेमिनार
+लगा
+कर
+लोगों
+को
+विभागीय
+योजनाओं
+से
+अवगत
+करवाया
+जाता
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-ब्लाक	NN	TEMP	O	O	O	O
-स्तरीय	JJ	TEMP	O	O	O	O
-कैंप	NN	TEMP	O	O	O	O
-लगाए	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+इस
+साल
+के
+दौरान
+अब
+तक
+पांच
+ब्लाक
+स्तरीय
+कैंप
+लगाए
+गए
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ट्रे	NN	TEMP	B-MISC	O	B-MISC	OCC
-¨	JJ	TEMP	I-MISC	O	I-MISC	O
-नग	NN	TEMP	I-MISC	O	I-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-साल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगाए	VM	TEMP	O	O	B-MISC	OCC
-जाते	VAUX	TEMP	O	O	I-MISC	O
-16	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-7	QC	TEMP	O	O	O	O
-ट्रे	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-नग	NN	TEMP	O	O	O	O
-कैंप	NN	TEMP	B-MISC	O	O	O
-लगा	VM	TEMP	I-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+लोगों
+को
+ट्रे
+¨
+नग
+देने
+के
+लिए
+साल
+में
+लगाए
+जाते
+16
+में
+से
+7
+ट्रे
+¨
+नग
+कैंप
+लगा
+दिए
+गए
+है
+.
 
-सरकार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिलती	VM	TEMP	O	O	B-STAT	O
-है	VAUX	TEMP	O	O	I-STAT	O
-सब्सिडी	NN	TEMP	O	O	O	O
-डिप्टी	XC	TEMP	O	O	O	O
-डायरेक्टर	XC	TEMP	O	O	O	O
-कश्मीर	NNP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-धंधा	NN	TEMP	O	O	O	O
-अपनाने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-दिलाए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सरकार
+से
+मिलती
+है
+सब्सिडी
+डिप्टी
+डायरेक्टर
+कश्मीर
+¨
+सह
+ने
+बताया
+कि
+सरकार
+की
+ओर
+से
+उक्त
+धंधा
+अपनाने
+वाले
+लोगों
+को
+विभाग
+के
+माध्यम
+से
+विभिन्न
+बैंकों
+से
+कर्ज
+दिलाए
+जाते
+है
+.
 
-ताकि	CC	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-आसानी	RB	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-धंधे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-शुरु	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-सके	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ताकि
+लोग
+आसानी
+से
+इस
+धंधे
+को
+शुरु
+कर
+सके
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-धंधा	NN	TEMP	O	O	O	O
-शुरू	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-गाय	NN	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-भैंस	NN	TEMP	O	O	O	O
-कर्ज	NN	TEMP	B-MISC	O	O	O
-दिया	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+उक्त
+धंधा
+शुरू
+करने
+के
+लिए
+60
+हजार
+रुपये
+प्रति
+गाय
+या
+भैंस
+कर्ज
+दिया
+जाता
+है
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अनुसूचित	JJ	TEMP	O	O	O	O
-जाति	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संबंधित	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-33	QC	TEMP	O	O	O	O
-फीसदी	NN	TEMP	O	O	O	O
-सब्सिडी	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-जनरल	JJ	TEMP	O	O	O	O
-वर्ग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-संबंधित	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-फीसदी	NN	TEMP	O	O	O	O
-सब्सिडी	NN	TEMP	O	O	B-MISC	O
-दी	VM	TEMP	O	O	I-MISC	OCC
-जाती	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+से
+अनुसूचित
+जाति
+से
+संबंधित
+लोगों
+को
+33
+फीसदी
+सब्सिडी
+और
+जनरल
+वर्ग
+से
+संबंधित
+लोगों
+को
+25
+फीसदी
+सब्सिडी
+दी
+जाती
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-धंधा	NN	TEMP	O	O	O	O
-शुरू	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-अलग	JJ	TEMP	O	O	O	O
-अलग	JJ	TEMP	O	O	O	O
-योजनाओं	NN	TEMP	B-MISC	O	O	O
-चलाई	VM	TEMP	I-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+विभाग
+की
+ओर
+से
+उक्त
+धंधा
+शुरू
+करने
+के
+लिए
+अलग
+अलग
+योजनाओं
+चलाई
+गई
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-पशुओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इसके
+तहत
+कम
+से
+कम
+दो
+व
+अधिक
+से
+अधिक
+10
+और
+कम
+से
+कम
+पांच
+और
+अधिक
+से
+अधिक
+20
+पशुओं
+के
+लिए
+कर्ज
+योजना
+शामिल
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-डेयरी	JJ	TEMP	O	O	O	O
-फार्मिग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-इस्तेमाल	NN	TEMP	O	O	O	O
-होने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-मशीनरी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-सब्सिडी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दिलवाई	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+विभाग
+की
+ओर
+से
+डेयरी
+फार्मिग
+के
+लिए
+इस्तेमाल
+होने
+वाली
+मशीनरी
+भी
+सब्सिडी
+पर
+दिलवाई
+जाती
+है
+.

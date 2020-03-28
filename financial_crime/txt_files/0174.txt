@@ -1,224 +1,224 @@
-﻿देवरिया	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-भटनी-वाराणसी	NN	TEMP	O	O	O	O
-रेल	XC	TEMP	O	O	O	O
-खंड	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	B-STAT	O
-लार	NN	TEMP	O	O	O	O
-रोड	XC	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चढ़ाने	JJ	TEMP	O	O	B-STAT	O
-आए	VM	TEMP	O	O	I-STAT	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-स्टैंड	NN	TEMP	O	O	O	O
-ठेकेदार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गुर्गों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-स्टैंड	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	OCC
-न	NEG	TEMP	B-MISC	O	B-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-पिटाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
+﻿देवरिया
+:
+भटनी-वाराणसी
+रेल
+खंड
+पर
+स्थित
+लार
+रोड
+रेलवे
+स्टेशन
+पर
+अपने
+बच्चों
+व
+पत्नी
+को
+ट्रेन
+में
+चढ़ाने
+आए
+एक
+युवक
+को
+स्टैंड
+ठेकेदार
+के
+गुर्गों
+ने
+स्टैंड
+का
+पैसा
+न
+देने
+पर
+पिटाई
+कर
+दी
 
-जिससे	PRP	TEMP	O	O	O	O
-वाहन	XC	TEMP	O	O	O	O
-मालिक	NN	TEMP	O	O	O	O
-गंभीर	JJ	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिससे
+वाहन
+मालिक
+गंभीर
+रूप
+से
+घायल
+हो
+गया
+.
 
-इलाज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-सामुदायिक	JJ	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-केंद्र	XC	TEMP	O	O	O	O
-लार	NN	TEMP	O	O	O	O
-पहुंचाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
+इलाज
+के
+लिए
+उसे
+सामुदायिक
+स्वास्थ्य
+केंद्र
+लार
+पहुंचाया
+गया
 
-जहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्राथमिक	JJ	TEMP	O	O	O	O
-उपचार	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-चिकित्सक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-रेफर	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जहां
+से
+प्राथमिक
+उपचार
+के
+बाद
+चिकित्सक
+ने
+जिला
+अस्पताल
+रेफर
+कर
+दिया
+.
 
-लार	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तिलौली	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-शैलेंद्र	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-राम	XC	TEMP	O	O	O	O
-निवास	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	O	O	O
-कृषक	XC	TEMP	O	O	O	O
-एक्सप्रेस	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-निजी	JJ	TEMP	O	O	O	O
-वाहन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चढ़ाने	JJ	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-आया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लार
+थाना
+के
+तिलौली
+निवासी
+शैलेंद्र
+शर्मा
+पुत्र
+राम
+निवास
+शर्मा
+सुबह
+कृषक
+एक्सप्रेस
+में
+निजी
+वाहन
+से
+अपनी
+पत्नी
+व
+बच्चों
+को
+चढ़ाने
+के
+लिए
+लेकर
+आया
+.
 
-लार	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कैंपस	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	O
-गाडी	NN	TEMP	O	O	O	O
-खडा	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-अंदर	NST	TEMP	B-MISC	O	O	O
-चला	VM	TEMP	I-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लार
+रोड
+रेलवे
+स्टेशन
+के
+कैंपस
+में
+एक
+दुकान
+के
+सामने
+गाडी
+खडा
+कर
+अंदर
+चला
+गया
+.
 
-जब	PRP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सदस्यों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ट्रेन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चढ़ाकर	NN	TEMP	B-MISC	O	B-MISC	OCC
-बाहर	NST	TEMP	B-MISC	O	I-MISC	O
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-स्टैंड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-जबरन	XC	TEMP	O	O	O	O
-स्टैंड	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	OCC
-मांगने	VM	TEMP	B-MISC	O	B-MISC	O
-लगे	VAUX	TEMP	I-MISC	O	I-MISC	O
+जब
+वह
+परिवार
+के
+सदस्यों
+को
+ट्रेन
+में
+चढ़ाकर
+बाहर
+आया
+तो
+स्टैंड
+के
+कर्मचारी
+उससे
+जबरन
+स्टैंड
+का
+पैसा
+मांगने
+लगे
 
-उसने	PRP	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	O	O
-से	PSP	TEMP	O	O	O	O
-इन्कार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-गुर्गे	NN	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-टूट	VM	TEMP	O	O	B-MISC	OCC
-पडे	VAUX	TEMP	O	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-पिटाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
+उसने
+देने
+से
+इन्कार
+कर
+दिया
+तो
+गुर्गे
+उस
+पर
+टूट
+पडे
+और
+उसकी
+पिटाई
+कर
+दी
 
-जिससे	PRP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-गंभीर	JJ	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिससे
+वह
+गंभीर
+रूप
+से
+घायल
+हो
+गया
+.
 
-इलाज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सामुदायिक	JJ	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-केंद्र	XC	TEMP	O	O	O	O
-लार	NN	TEMP	O	O	O	O
-पहुंचाया	VM	TEMP	B-MISC	O	B-MISC	OCC
+इलाज
+के
+लिए
+उसे
+लोगों
+ने
+सामुदायिक
+स्वास्थ्य
+केंद्र
+लार
+पहुंचाया
 
-जहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्राथमिक	JJ	TEMP	O	O	O	O
-उपचार	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-चिकित्सक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-रेफर	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जहां
+से
+प्राथमिक
+उपचार
+के
+बाद
+चिकित्सक
+ने
+उसे
+जिला
+अस्पताल
+रेफर
+कर
+दिया
+.
 
-इस	DEM	TEMP	O	O	O	O
-बाबत	NN	TEMP	O	O	O	O
-थानाध्यक्ष	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-मिली	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+बाबत
+थानाध्यक्ष
+ने
+कहा
+कि
+तहरीर
+नहीं
+मिली
+है
+.
 
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-आवश्यक	JJ	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तहरीर
+मिलने
+पर
+आवश्यक
+कार्रवाई
+की
+जाएगी
+.

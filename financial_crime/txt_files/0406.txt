@@ -1,320 +1,320 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-कन्नौज	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सरायमीरा	XC	TEMP	O	O	O	O
-चौकी	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चंद	XC	TEMP	O	O	O	O
-कदम	NN	TEMP	O	O	O	O
-दूर	NST	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ताला	NN	TEMP	O	O	O	O
-तोड	VM	TEMP	B-MISC	O	B-MISC	OCC
-हजारों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-कीमती	JJ	TEMP	O	O	O	O
-इलेक्ट्रानिक	JJ	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-तोडफोड	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-बाहर	NST	TEMP	O	O	O	O
-फेंक	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+कन्नौज
+:
+सरायमीरा
+चौकी
+से
+चंद
+कदम
+दूर
+चोरों
+ने
+दुकान
+का
+ताला
+तोड
+हजारों
+रुपये
+की
+नकदी
+समेत
+कीमती
+इलेक्ट्रानिक
+सामान
+तोडफोड
+कर
+बाहर
+फेंक
+दिए
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पडताल	NN	TEMP	O	O	O	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+पडताल
+शुरू
+कर
+दी
+है
+.
 
-कुछ	QF	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूछताछ	NN	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	I-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	-1
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+लोगों
+से
+पूछताछ
+भी
+की
+गई
+.
 
-सदर	XC	TEMP	O	O	O	O
-कोतवाली	NNP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पनियारेपुर्वा	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-वीरेन्द्र	NNP	TEMP	O	O	O	O
-सैनी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सदर	JJ	TEMP	O	O	O	O
-तहसील	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-फोटो	NN	TEMP	O	O	O	O
-कापी	JJ	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सदर
+कोतवाली
+क्षेत्र
+के
+पनियारेपुर्वा
+निवासी
+वीरेन्द्र
+सैनी
+की
+सदर
+तहसील
+के
+बाहर
+फोटो
+कापी
+समेत
+अन्य
+सामान
+की
+दुकान
+है
+.
 
-वह	PRP	TEMP	O	O	O	O
-मंगलवार	JJ	TEMP	O	B	O	O
-शाम	NN	TEMP	O	I	O	O
-दुकान	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-चले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वह
+मंगलवार
+शाम
+दुकान
+बंद
+कर
+चले
+गए
+.
 
-बुधवार	JJ	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	O	O	O
-पहुंचने	VM	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ताला	NN	TEMP	O	O	O	O
-टूटा	VM	TEMP	B-MISC	O	B-MISC	O
-देख	VAUX	TEMP	I-MISC	O	I-MISC	O
-होश	NN	TEMP	B-MISC	O	O	O
-उड	VM	TEMP	I-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बुधवार
+सुबह
+पहुंचने
+पर
+ताला
+टूटा
+देख
+होश
+उड
+गए
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रखे	VM	TEMP	B-MISC	O	B-STAT	DES
-चार	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-चोर	NN	TEMP	O	O	O	O
-उठा	VM	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	I-MISC	O	B-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बताया
+कि
+दुकान
+पर
+रखे
+चार
+हजार
+रुपये
+व
+सामान
+चोर
+उठा
+ले
+गए
+.
 
-साथ	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इनवर्टर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बैट्री	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-तोडकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-बाहर	NST	TEMP	O	O	O	O
-फेंक	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+में
+इनवर्टर
+,
+बैट्री
+समेत
+अन्य
+सामान
+तोडकर
+बाहर
+फेंक
+गए
+.
 
-सरायमीरा	NN	TEMP	O	O	O	O
-चौकी	VM	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-अरिमर्दन	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-पडताल	NN	TEMP	O	O	I-MISC	O
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सरायमीरा
+चौकी
+प्रभारी
+अरिमर्दन
+¨
+सह
+ने
+मौके
+पर
+पहुंच
+पडताल
+की
+.
 
-जल्द	NN	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पकड	VM	TEMP	O	O	B-MISC	OCC
-माल	NN	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जल्द
+आरोपियों
+को
+पकड
+माल
+बरामद
+किया
+जाएगा
+.
 
-संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-नीलोखेडी	JJ	TEMP	O	O	O	O
-नगरपालिका	NN	TEMP	O	O	O	O
-प्रशासन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-बस्ती	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समीप	NST	TEMP	O	O	O	O
-छतरी	NN	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-स्वच्छता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-कोताही	NN	TEMP	O	O	O	O
-बरतना	VM	TEMP	B-MISC	O	O	O
-महंगा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-पड	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सूत्र
+,
+नीलोखेडी
+नगरपालिका
+प्रशासन
+ने
+किसान
+बस्ती
+के
+समीप
+छतरी
+चौक
+पर
+एक
+दुकान
+को
+स्वच्छता
+के
+प्रति
+कोताही
+बरतना
+महंगा
+पड
+गया
+.
 
-उसे	PRP	TEMP	O	O	O	O
-500	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसे
+500
+रुपए
+का
+जुर्माना
+किया
+.
 
-दुकानदार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नपा	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-दीवारों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बनवाई	VM	TEMP	B-MISC	O	B-STAT	DES
-गई	VAUX	TEMP	I-MISC	O	I-STAT	O
-स्वच्छता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रति	PSP	TEMP	O	O	O	O
-जागरूक	JJ	TEMP	B-MISC	O	B-STAT	O
-करने	VM	TEMP	I-MISC	O	I-STAT	O
-वाली	PSP	TEMP	O	O	I-STAT	O
-पे	PSP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-टग	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कूडा	NN	TEMP	B-MISC	O	B-MISC	O
-फेंकने	VM	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-आग	NN	TEMP	O	O	B-MISC	OCC
-लगाकर	VM	TEMP	B-MISC	O	I-MISC	O
-पें	PSP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-टग	NN	TEMP	O	O	O	O
-खराब	JJ	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-एवज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दुकानदार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दुकानदार
+ने
+नपा
+द्वारा
+दीवारों
+पर
+बनवाई
+गई
+स्वच्छता
+के
+प्रति
+जागरूक
+करने
+वाली
+पे
+¨
+टग
+पर
+कूडा
+फेंकने
+तथा
+आग
+लगाकर
+पें
+¨
+टग
+खराब
+करने
+की
+एवज
+में
+दुकानदार
+पर
+जुर्माना
+किया
+.
 
-नगरपालिका	NN	TEMP	O	O	O	O
-सचिव	XC	TEMP	O	O	O	O
-बलबीर	XC	TEMP	O	O	O	O
-रोहिल्ला	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-स्वच्छ	JJ	TEMP	B-MISC	O	B-MISC	O
-रखने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-संभव	JJ	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगरपालिका
+सचिव
+बलबीर
+रोहिल्ला
+ने
+बताया
+कि
+नगर
+को
+स्वच्छ
+रखने
+के
+लिए
+हर
+संभव
+प्रयास
+किए
+जाएंगे
+.
 
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-कडे	JJ	TEMP	O	O	O	O
-कदम	NN	TEMP	B-MISC	O	O	O
-उठाए	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाएंगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+लिए
+कडे
+कदम
+उठाए
+जाएंगे
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-ज्यादातर	JJ	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-अभियान	NN	TEMP	B-MISC	O	O	O
-में	PSP	TEMP	O	O	O	O
-सहयोग	NN	TEMP	O	O	O	OCC
-भी	RP	TEMP	O	O	O	O
-कर	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-अभियान	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गंभीरता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नही	NEG	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+ज्यादातर
+लोग
+इस
+अभियान
+में
+सहयोग
+भी
+कर
+रहे
+हैं
+,
+लेकिन
+कुछ
+लोग
+अभियान
+को
+गंभीरता
+से
+नही
+ले
+रहे
+.
 
-नगर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-व्यकित	JJ	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-दुकानदार	JJ	TEMP	O	O	O	O
-स्वच्छता	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कोताही	NN	TEMP	O	O	B-MISC	O
-करता	VM	TEMP	B-MISC	O	I-MISC	OCC
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-पाया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+का
+कोई
+व्यकित
+या
+कोई
+दुकानदार
+स्वच्छता
+की
+कोताही
+करता
+हुआ
+पाया
+गया
+तो
+उसे
+मौके
+पर
+ही
+जुर्माना
+किया
+जाएगा
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-नगरवासियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-स्वच्छता	JJ	TEMP	O	O	O	O
-अभियान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बढ़	XC	TEMP	O	O	O	O
-चढ़कर	NNP	TEMP	O	O	O	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	O
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-व	CC	TEMP	O	O	O	O
-कूडे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कूडा	XC	TEMP	O	O	O	O
-वाहन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फेंकने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-अपील	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
+उन्होंने
+नगरवासियों
+से
+स्वच्छता
+अभियान
+में
+बढ़
+चढ़कर
+भाग
+लेने
+व
+कूडे
+को
+कूडा
+वाहन
+में
+फेंकने
+की
+अपील
+की

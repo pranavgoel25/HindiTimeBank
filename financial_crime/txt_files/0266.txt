@@ -1,221 +1,221 @@
-﻿कानपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-कलक्टरगंज	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गुडमंडी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-1.20	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भरी	JJ	TEMP	O	O	O	O
-गुल्लक	NN	TEMP	O	O	O	O
-उडाने	VM	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-गिरफ्तार	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-जेल	NN	TEMP	B-MISC	O	O	O
-भेज	VM	TEMP	I-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿कानपुर
+:
+कलक्टरगंज
+की
+गुडमंडी
+की
+दुकान
+से
+1.20
+लाख
+रुपये
+से
+भरी
+गुल्लक
+उडाने
+वाले
+चार
+चोरों
+को
+पुलिस
+ने
+गिरफ्तार
+कर
+जेल
+भेज
+दिया
+.
 
-उनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-64	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बरामद	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनके
+पास
+से
+64
+हजार
+रुपये
+बरामद
+हुए
+.
 
-बाबूपुरवा	NN	TEMP	O	O	O	O
-बगाही	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-हरिओम	XC	TEMP	O	O	O	O
-तिवारी	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-22	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	O	O	O
-चोर	NN	TEMP	O	O	O	O
-लकडी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-टंट्टर	XC	TEMP	O	O	O	O
-तोड़कर	NNP	TEMP	B-MISC	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-गुल्लक	NN	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाबूपुरवा
+बगाही
+निवासी
+हरिओम
+तिवारी
+की
+दुकान
+से
+22
+अक्टूबर
+की
+रात
+चोर
+लकडी
+का
+टंट्टर
+तोड़कर
+पूरी
+गुल्लक
+ले
+गए
+थे
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-कैश	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-रेजगारी	NN	TEMP	O	O	B-MISC	OCC
-थी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+एक
+लाख
+रुपये
+कैश
+और
+20
+हजार
+रुपये
+रेजगारी
+थी
+.
 
-पास	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-लगे	VM	TEMP	O	O	O	O
-सीसीटीवी	JJ	TEMP	O	O	O	O
-कैमरे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तस्वीर	NN	TEMP	B-MISC	O	O	O
-कैद	NN	TEMP	I-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पास
+ही
+लगे
+सीसीटीवी
+कैमरे
+में
+चोरों
+की
+तस्वीर
+कैद
+हो
+गई
+थी
+.
 
-सोमवार	NNP	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कोपरगंज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रिक्शा	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-तीनों	QC	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गिरफ्तार	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सोमवार
+को
+पुलिस
+ने
+कोपरगंज
+के
+पास
+एक
+रिक्शा
+चालक
+व
+तीनों
+चोरों
+को
+गिरफ्तार
+कर
+लिया
+.
 
-सीओ	XC	TEMP	O	O	O	O
-गौरव	XC	TEMP	O	O	O	O
-बंशवाल	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-माखी	JJ	TEMP	O	O	O	O
-उन्नाव	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-गौतम	JJ	TEMP	O	O	O	O
-जोशी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सीतापुर	NNP	TEMP	O	O	O	O
-पिशावा	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मनोज	JJ	TEMP	O	O	O	O
-यादव	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हरबंशमोहाल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-राजू	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-बांगरमऊ	NNP	TEMP	O	O	O	O
-उन्नाव	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-संतोष	NN	TEMP	O	O	O	O
-पाल	VM	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	B-STAT	OCC
-था	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सीओ
+गौरव
+बंशवाल
+ने
+बताया
+कि
+आरोपियों
+में
+माखी
+उन्नाव
+का
+गौतम
+जोशी
+,
+सीतापुर
+पिशावा
+का
+मनोज
+यादव
+,
+हरबंशमोहाल
+का
+राजू
+और
+बांगरमऊ
+उन्नाव
+का
+संतोष
+पाल
+शामिल
+था
+.
 
-गौतम	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-राजू	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-माल	NN	TEMP	O	O	O	O
-ढोने	VM	TEMP	O	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-बहाने	PSP:?	TEMP	O	O	O	O
-रेकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गौतम
+और
+राजू
+ने
+माल
+ढोने
+के
+बहाने
+रेकी
+करते
+थे
+.
 
-दिनदहाडे	NN	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हजारों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कानपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-हरबंशमोहाल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-पान	NN	TEMP	O	O	O	O
-मसाला	JJ	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवारों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दिनदहाडे	NN	TEMP	O	O	O	O
-हजारों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-माल	NN	TEMP	O	O	O	O
-गायब	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिनदहाडे
+दुकान
+से
+हजारों
+की
+चोरी
+कानपुर
+:
+हरबंशमोहाल
+की
+एक
+पान
+मसाला
+दुकान
+से
+दो
+बाइक
+सवारों
+ने
+दिनदहाडे
+हजारों
+रुपये
+का
+माल
+गायब
+कर
+दिया
+.
 
-जब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-दुकानदार	JJ	TEMP	O	O	B-MISC	OCC
-समझ	VM	TEMP	B-MISC	O	I-MISC	O
-पाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-आरोपी	JJ	TEMP	O	O	O	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+तक
+दुकानदार
+समझ
+पाते
+आरोपी
+फरार
+हो
+गए
+.
 
-दुकानदार	JJ	TEMP	O	O	O	O
-मनीष	XC	TEMP	O	O	O	O
-केसरवानी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-बैठी	VM	TEMP	O	O	B-MISC	OCC
-थीं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दुकानदार
+मनीष
+केसरवानी
+ने
+पुलिस
+को
+बताया
+कि
+दुकान
+पर
+उनकी
+मां
+बैठी
+थीं
+.
 
-दो	QC	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-मसाले	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-गत्ता	NN	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दो
+बाइक
+सवार
+मसाले
+का
+एक
+गत्ता
+ले
+गए
+.

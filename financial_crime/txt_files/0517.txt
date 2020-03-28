@@ -1,194 +1,194 @@
 
-अमरोहा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-अधीक्षण	XC	TEMP	O	O	O	O
-अभियंता	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मंगलवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एक्सईएन	XC	TEMP	O	O	O	O
-अशोक	XC	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-चौरसिया	NNP	TEMP	O	O	O	O
-नेतृत्व	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चिल्ला	VM	TEMP	O	O	O	O
-मुहल्ले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शिविर	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अमरोहा
+:
+अधीक्षण
+अभियंता
+के
+निर्देश
+पर
+मंगलवार
+को
+एक्सईएन
+अशोक
+कुमार
+चौरसिया
+नेतृत्व
+में
+चिल्ला
+मुहल्ले
+में
+शिविर
+लगाया
+गया
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-शाम	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-बिजली	JJ	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-साढ़े	NNP	TEMP	O	O	O	O
-सात	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-राजस्व	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-वसूली	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+शाम
+तक
+बिजली
+विभाग
+ने
+साढ़े
+सात
+लाख
+रुपये
+राजस्व
+की
+वसूली
+की
+.
 
-यही	PRP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-बकाया	VM	TEMP	O	O	I-MISC	O
-जमा	VAUX	TEMP	B-MISC	O	I-MISC	O
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-65	QC	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कनेक्शन	NN	TEMP	O	O	O	O
-बिच्छेदित	JJ	TEMP	O	O	B-MISC	O
-किये	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यही
+नहीं
+बकाया
+जमा
+न
+करने
+पर
+65
+उपभोक्ताओं
+के
+कनेक्शन
+बिच्छेदित
+किये
+.
 
-बिजली	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मंगलवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चिल्ला	VM	TEMP	O	O	O	O
-मुहल्ले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कैंप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिजली
+विभाग
+ने
+मंगलवार
+को
+चिल्ला
+मुहल्ले
+में
+कैंप
+लगाया
+.
 
-जिसमें	PRP	TEMP	O	O	O	O
-एक्सईएन	XC	TEMP	O	O	O	O
-अशोक	XC	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-चौरसिया	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एसडीओ	XC	TEMP	O	O	O	O
-नरेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-जेई	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अलावा	PSP:?	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	DECL
-रहे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जिसमें
+एक्सईएन
+अशोक
+कुमार
+चौरसिया
+,
+एसडीओ
+नरेश
+कुमार
+और
+जेई
+के
+अलावा
+कई
+अन्य
+कर्मचारी
+मौजूद
+रहे
+.
 
-सुबह	NN	TEMP	O	B	O	O
-दस	QC	TEMP	O	B	O	O
-बजे	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-शाम	NN	TEMP	O	B	O	O
-पांच	QC	TEMP	O	B	O	O
-बजे	NN	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-शिविर	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुबह
+दस
+बजे
+से
+शाम
+पांच
+बजे
+तक
+टीम
+शिविर
+लगा
+रहा
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	O	O
-बिजली	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बिला	JJ	TEMP	B-MISC	O	B-MISC	O
-जमा	NN	TEMP	I-MISC	O	I-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+काफी
+संख्या
+में
+उपभोक्ताओं
+ने
+बकाया
+बिजली
+का
+बिला
+जमा
+किया
+.
 
-एक्सईएन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-हर	QF	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-बिजली	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बिल	NN	TEMP	B-MISC	O	O	O
-जमा	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दें	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भार	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-पडेगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक्सईएन
+ने
+कहा
+कि
+कहा
+कि
+अगर
+हर
+माह
+बिजली
+का
+बिल
+जमा
+कर
+दें
+तो
+उपभोक्ताओं
+पर
+बकाया
+का
+भार
+नहीं
+पडेगा
+.
 
-यही	PRP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-इससे	PRP	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-फायदा	NN	TEMP	O	O	B-MISC	OCC
-होगा	VM	TEMP	O	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-हमें	PRP	TEMP	O	O	O	O
-पर्याप्त	JJ	TEMP	O	O	O	O
-बिजली	NN	TEMP	O	O	O	O
-मिलेगी	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+यही
+नहीं
+इससे
+सरकार
+को
+फायदा
+होगा
+और
+हमें
+पर्याप्त
+बिजली
+मिलेगी
+.
 
-इसलिए	CC	TEMP	O	O	O	O
-उपभोक्ता	NN	TEMP	O	O	O	O
-अपना-अपना	JJ	TEMP	O	O	O	O
-बकाया	VM	TEMP	B-MISC	O	O	O
-जमा	JJ	TEMP	I-MISC	O	B-MISC	OCC
-करें	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसलिए
+उपभोक्ता
+अपना-अपना
+बकाया
+जमा
+करें
+.
 
-शाम	NN	TEMP	O	B	O	O
-पांच	QC	TEMP	O	B	O	O
-बजे	NN	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-साढ़े	NNP	TEMP	O	O	O	O
-सात	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	B-MISC	O
-वसूला	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शाम
+पांच
+बजे
+तक
+विभाग
+ने
+करीब
+साढ़े
+सात
+लाख
+बकाया
+वसूला
+है
+.
 
-एक्सईएन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-बकाया	VM	TEMP	B-MISC	O	B-STAT	O
-न	NEG	TEMP	B-MISC	O	I-STAT	O
-देने	VM	TEMP	I-MISC	O	I-STAT	O
-पर	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-उपभोक्ताओं	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लाइन	NN	TEMP	O	O	B-MISC	O
-काटे	VM	TEMP	B-MISC	O	I-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक्सईएन
+ने
+बताया
+कि
+बकाया
+न
+देने
+पर
+20
+उपभोक्ताओं
+का
+लाइन
+काटे
+गए
+है
+.

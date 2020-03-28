@@ -1,262 +1,262 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बटाला	XC	TEMP	O	O	O	O
-नेशनल	XC	TEMP	O	O	O	O
-ग्रीन	XC	TEMP	O	O	O	O
-ट्रिब्यूनल	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पालन	NN	TEMP	O	O	B-MISC	OCC
-करते	VM	TEMP	O	O	I-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-सब	QF	TEMP	O	O	O	O
-डिवीजन	XC	TEMP	O	O	O	O
-लेवल	XC	TEMP	O	O	O	O
-मॉनिट्रिंग	XC	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-खेतों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पराली	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आग	NN	TEMP	O	O	O	O
-लगाने	VM	TEMP	O	O	B-STAT	OCC
-वाले	PSP	TEMP	O	O	I-STAT	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+बटाला
+नेशनल
+ग्रीन
+ट्रिब्यूनल
+के
+निर्देश
+का
+पालन
+करते
+हुए
+सब
+डिवीजन
+लेवल
+मॉनिट्रिंग
+टीम
+द्वारा
+खेतों
+में
+धान
+की
+पराली
+को
+आग
+लगाने
+वाले
+किसानों
+को
+जुर्माना
+किया
+गया
+.
 
-खेतीबाडी	NN	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-अधिकारी	JJ	TEMP	O	O	O	O
-ब्लाक	NN	TEMP	O	O	O	O
-डेरा	XC	TEMP	O	O	O	O
-बाबा	XC	TEMP	O	O	O	O
-नानक	NNP	TEMP	O	O	O	O
-डॉ	VM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+खेतीबाडी
+विकास
+अधिकारी
+ब्लाक
+डेरा
+बाबा
+नानक
+डॉ
+.
 
-बलजिंद्र	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नेतृत्व	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-माल	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कर्मचारी	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	O
-थे	VM	TEMP	O	O	I-STAT	O
-द्वारा	PSP	TEMP	O	O	O	O
-नवा	NN	TEMP	O	O	B-MISC	OCC
-¨	VM	TEMP	O	O	I-MISC	O
-पड	VAUX	TEMP	O	O	I-MISC	O
-एवं	CC	TEMP	O	O	O	O
-मिर्जाजान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दौरा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बलजिंद्र
+¨
+सह
+के
+नेतृत्व
+में
+टीम
+ने
+माल
+विभाग
+एवं
+पुलिस
+विभाग
+के
+कर्मचारी
+भी
+मौजूद
+थे
+द्वारा
+नवा
+¨
+पड
+एवं
+मिर्जाजान
+का
+दौरा
+किया
+गया
+.
 
-नवां	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-पड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-पाया	VM	TEMP	B-MISC	O	B-MISC	O
-कि	CC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-गुरजिंद्र	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-खेत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पराली	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आग	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाकर	VM	TEMP	I-MISC	O	I-MISC	O
-खेत	NN	TEMP	O	O	O	O
-जोत	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-एवं	CC	TEMP	O	O	O	O
-आलू	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बिजाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नवां
+¨
+पड
+में
+टीम
+ने
+जांच
+में
+पाया
+कि
+गांव
+के
+किसान
+गुरजिंद्र
+¨
+सह
+ने
+अपने
+खेत
+में
+धान
+की
+पराली
+को
+आग
+लगाकर
+खेत
+जोत
+दिए
+हैं
+एवं
+आलू
+की
+बिजाई
+कर
+दी
+थी
+.
 
-किसान	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-गलती	NN	TEMP	O	O	B-MISC	OCC
-मान	VM	TEMP	B-MISC	O	I-MISC	O
-लेने	VAUX	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-2500	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-पर्यावरण	NN	TEMP	O	O	O	O
-प्रदूषित	JJ	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किसान
+द्वारा
+अपनी
+गलती
+मान
+लेने
+पर
+टीम
+ने
+उसे
+2500
+रुपये
+पर्यावरण
+प्रदूषित
+करने
+के
+लिए
+जुर्माना
+लगाया
+.
 
-खेतीबाडी	NN	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-डॉ	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+खेतीबाडी
+अधिकारी
+डॉ
+.
 
-बलजिंद्र	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-मॉनिट्रिंग	XC	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-मिर्जाजान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-दौरा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बलजिंद्र
+¨
+सह
+ने
+बताया
+कि
+मॉनिट्रिंग
+टीम
+द्वारा
+गांव
+मिर्जाजान
+का
+दौरा
+किया
+.
 
-इस	DEM	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जिमींदार	JJ	TEMP	O	O	O	O
-वस्सण	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-खेत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अवशेषों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आग	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाकर	VM	TEMP	I-MISC	O	I-MISC	O
-जलाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+गांव
+के
+जिमींदार
+वस्सण
+¨
+सह
+द्वारा
+अपने
+खेत
+में
+धान
+के
+अवशेषों
+को
+आग
+लगाकर
+जलाया
+गया
+था
+.
 
-टीम	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-2500	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-जिसे	PRP	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जमा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+टीम
+द्वारा
+किसान
+को
+2500
+रुपये
+जुर्माना
+किया
+गया
+जिसे
+किसान
+ने
+मौके
+पर
+जमा
+कर
+दिया
+गया
+.
 
-डॉ	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+डॉ
+.
 
-बलजिंद्र	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अपील	NN	TEMP	B-MISC	O	O	OCC
-की	PSP	TEMP	I-MISC	O	O	O
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-वातावरण	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दूषित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-बचाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पराली	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खेतों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आग	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाकर	VM	TEMP	I-MISC	O	I-MISC	O
-ना	NEG	TEMP	B-MISC	O	I-MISC	O
-जलाएं	NN	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बलजिंद्र
+¨
+सह
+ने
+किसानों
+को
+अपील
+की
+कि
+वह
+वातावरण
+को
+दूषित
+होने
+से
+बचाने
+के
+लिए
+धान
+की
+पराली
+को
+खेतों
+में
+आग
+लगाकर
+ना
+जलाएं
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-धान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कटाई	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सब	QF	TEMP	O	O	O	O
-डिवीजन	XC	TEMP	O	O	O	O
-मॉनिट्रिंग	XC	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-निगरानी	NN	TEMP	B-MISC	O	O	OCC
-रखी	VM	TEMP	I-MISC	O	B-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-एवं	CC	TEMP	O	O	O	O
-खेतों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पराली	NN	TEMP	O	O	O	O
-जलाने	VM	TEMP	O	O	B-STAT	OCC
-वाले	PSP	TEMP	O	O	I-STAT	O
-किसानों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बनती	VM	TEMP	O	O	B-MISC	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+धान
+की
+कटाई
+पर
+सब
+डिवीजन
+मॉनिट्रिंग
+टीम
+द्वारा
+पूरी
+निगरानी
+रखी
+जा
+रही
+है
+एवं
+खेतों
+में
+पराली
+जलाने
+वाले
+किसानों
+पर
+बनती
+कार्रवाई
+की
+जाएगी
+.

@@ -1,388 +1,388 @@
 
-------	NN	TEMP	O	O	O	O
+------
 
-अलीगढ़	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-विजयगढ़	NNP	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गाव	NN	TEMP	O	O	O	O
-भाकरी	XC	TEMP	O	O	O	O
-अहिवासी	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मंगलवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-ट्यूशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपयों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	IAC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-विवाद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अधेड	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गोली	NN	TEMP	B-MISC	O	B-MISC	OCC
-मारकर	VM	TEMP	I-MISC	O	I-MISC	O
-हत्या	VAUX	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अलीगढ़
+:
+थाना
+विजयगढ़
+क्षेत्र
+के
+गाव
+भाकरी
+अहिवासी
+में
+मंगलवार
+को
+ट्यूशन
+के
+तीन
+सौ
+रुपयों
+को
+लेकर
+हुए
+विवाद
+में
+अधेड
+की
+गोली
+मारकर
+हत्या
+कर
+दी
+.
 
-दिनदहाडे	NN	TEMP	O	O	B-MISC	O
-हुई	VM	TEMP	O	O	I-MISC	O
-वारदात	NN	TEMP	O	O	B-MISC	O
-से	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सनसनी	NN	TEMP	B-MISC	O	B-MISC	OCC
-फैल	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दिनदहाडे
+हुई
+वारदात
+से
+गांव
+में
+सनसनी
+फैल
+गई
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शव	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-पोस्टमार्टम	NN	TEMP	B-MISC	O	B-MISC	O
-कराकर	VM	TEMP	I-MISC	O	I-MISC	O
-परिजनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सौंप	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+शव
+का
+पोस्टमार्टम
+कराकर
+परिजनों
+को
+सौंप
+दिया
+.
 
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तनाव	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+घटना
+को
+लेकर
+गांव
+में
+तनाव
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-दी	VAUX	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+तैनात
+कर
+दी
+गई
+है
+.
 
-गाव	NN	TEMP	O	O	O	O
-भाकरी	NN	TEMP	O	O	O	O
-अहिवासी	NNP	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-सत्यदेव	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-45	QC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-डेनीराम	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-गाव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रहकर	VM	TEMP	O	O	O	O
-खेतीबाडी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गाव
+भाकरी
+अहिवासी
+निवासी
+सत्यदेव
+शर्मा
+(
+45
+)
+पुत्र
+डेनीराम
+शर्मा
+गाव
+में
+रहकर
+खेतीबाडी
+करते
+थे
+.
 
-गाव	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अर्चना	NN	TEMP	O	O	O	O
-कुमारी	XC	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-रवेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-शर्मा	XC	TEMP	O	O	O	O
-पडोसी	XC	TEMP	O	O	O	O
-गाव	XC	TEMP	O	O	O	O
-दिहोली	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-कालेज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अध्यापक	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+गाव
+की
+अर्चना
+कुमारी
+पुत्री
+रवेंद्र
+कुमार
+शर्मा
+पडोसी
+गाव
+दिहोली
+की
+एक
+कालेज
+में
+अध्यापक
+है
+.
 
-वह	PRP	TEMP	O	O	O	O
-कालेज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-छुट्टी	NN	TEMP	O	O	O	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-गाव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ट्यूशन	NN	TEMP	O	O	B-MISC	OCC
-पढ़ाती	XC	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वह
+कालेज
+से
+छुट्टी
+के
+बाद
+गाव
+के
+कुछ
+बच्चों
+को
+ट्यूशन
+पढ़ाती
+है
+.
 
-सत्यदेव	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बेटा	NN	TEMP	O	O	O	O
-प्राशु	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-गौरी	NNP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-ट्यूशन	NN	TEMP	B-MISC	O	B-MISC	O
-पढ़ते	VM	TEMP	I-MISC	O	I-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सत्यदेव
+शर्मा
+के
+दो
+बच्चों
+में
+बेटा
+प्राशु
+व
+बेटी
+गौरी
+भी
+ट्यूशन
+पढ़ते
+थे
+.
 
-मंगलवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	O	O	O
-अर्चना	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-भाई	NN	TEMP	O	O	O	O
-मनोज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-सत्यदेव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-माह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ट्यूशन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-मागने	VM	TEMP	B-MISC	O	B-MISC	OCC
-आई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंगलवार
+को
+सुबह
+अर्चना
+अपने
+भाई
+मनोज
+के
+साथ
+सत्यदेव
+के
+घर
+अपने
+एक
+माह
+के
+ट्यूशन
+के
+पैसे
+मागने
+आई
+थी
+.
 
-पैसा	NN	TEMP	O	O	O	O
-मागने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-दोनों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कहासुनी	VM	TEMP	O	O	B-MISC	O
-व	CC	TEMP	O	O	O	O
-गाली	NN	TEMP	O	O	O	O
-गलौज	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पैसा
+मागने
+के
+दौरान
+दोनों
+में
+कहासुनी
+व
+गाली
+गलौज
+हो
+गई
+.
 
-तब	PRP	TEMP	O	O	O	O
-गाव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दोनों	JJ	TEMP	O	O	O	O
-पक्षों	NN	TEMP	B-MISC	O	O	O
-समझाकर	VM	TEMP	I-MISC	O	O	O
-घर	NN	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तब
+गाव
+के
+लोगों
+ने
+दोनों
+पक्षों
+समझाकर
+घर
+भेज
+दिया
+.
 
-झगडे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-देर	NN	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-सत्यदेव	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-भाई	NN	TEMP	O	O	O	O
-रमाकात	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	OCC
-बैठे	VM	TEMP	B-MISC	O	B-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+झगडे
+के
+कुछ
+देर
+बाद
+सत्यदेव
+अपने
+भाई
+रमाकात
+के
+घर
+के
+सामने
+बैठे
+थे
+.
 
-आरोप	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-तभी	PRP	TEMP	O	O	O	O
-अर्चना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पिता	NN	TEMP	O	O	O	O
-रवेंद्र	XC	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मनोज	NN	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-सतीश	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विशाल	JJ	TEMP	O	O	B-MISC	O
-आ	VM	TEMP	O	O	I-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आरोप
+है
+कि
+तभी
+अर्चना
+के
+पिता
+रवेंद्र
+कुमार
+शर्मा
+,
+मनोज
+तथा
+सतीश
+,
+राजेश
+,
+विशाल
+आ
+गए
+.
 
-गाली	NN	TEMP	O	O	O	O
-गलौज	NN	TEMP	O	O	B-MISC	OCC
-करते	VM	TEMP	O	O	I-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-मनोज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सत्यदेव	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-तमंचे	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फायर	NN	TEMP	O	O	B-MISC	O
-झोंक	VM	TEMP	O	O	I-MISC	OCC
-दिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गाली
+गलौज
+करते
+हुए
+मनोज
+ने
+सत्यदेव
+शर्मा
+पर
+तमंचे
+से
+फायर
+झोंक
+दिया
+.
 
-गोली	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगते	VM	TEMP	I-MISC	O	I-MISC	O
-ही	RP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-लहूलुहान	JJ	TEMP	O	O	O	O
-होकर	VM	TEMP	O	O	B-MISC	OCC
-गिर	VAUX	TEMP	O	O	I-MISC	O
-पडे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गोली
+लगते
+ही
+वह
+लहूलुहान
+होकर
+गिर
+पडे
+.
 
-गोली	NN	TEMP	B-MISC	O	B-MISC	O
-चलते	VM	TEMP	I-MISC	O	I-MISC	O
-ही	RP	TEMP	O	O	O	O
-गाव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अफरातफरी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-मच	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गोली
+चलते
+ही
+गाव
+में
+अफरातफरी
+मच
+गई
+.
 
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-पाकर	VM	TEMP	I-MISC	O	I-MISC	O
-थाना	VAUX	TEMP	I-MISC	O	O	O
-विजयगढ़	NN	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-निरीक्षक	NN	TEMP	O	O	O	O
-वीरेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-भारती	JJ	TEMP	O	O	O	O
-मयफोर्स	NN	TEMP	O	O	O	O
-गाव	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-घायल	JJ	TEMP	O	O	O	O
-सत्यदेव	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गंभीर	JJ	TEMP	O	O	O	O
-हालत	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एंबुलेंस	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अलीगढ़	NNP	TEMP	O	O	O	O
-मेडिकल	XC	TEMP	O	O	O	O
-कॉलेज	NN	TEMP	O	O	O	O
-भेजा	VM	TEMP	O	O	B-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-जहां	PRP	TEMP	O	O	O	O
-डाक्टरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-मृत	JJ	TEMP	O	O	O	O
-घोषित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घटना
+की
+सूचना
+पाकर
+थाना
+विजयगढ़
+प्रभारी
+निरीक्षक
+वीरेंद्र
+कुमार
+भारती
+मयफोर्स
+गाव
+पहुंचे
+और
+घायल
+सत्यदेव
+को
+गंभीर
+हालत
+में
+एंबुलेंस
+से
+अलीगढ़
+मेडिकल
+कॉलेज
+भेजा
+,
+जहां
+डाक्टरों
+ने
+उसे
+मृत
+घोषित
+कर
+दिया
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मृतक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भाई	NN	TEMP	O	O	O	O
-रमाकांत	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रवेंद्र	XC	TEMP	O	O	O	O
-कुमार	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मनोज	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सतीश	XC	TEMP	O	O	O	O
-राजेश	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विशाल	JJ	TEMP	O	O	O	O
-सहित	JJ	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	O	O	B-MISC	OCC
-कराई	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+में
+मृतक
+के
+भाई
+रमाकांत
+ने
+रवेंद्र
+कुमार
+शर्मा
+,
+मनोज
+,
+सतीश
+राजेश
+,
+विशाल
+सहित
+पांच
+लोगों
+के
+खिलाफ
+रिपोर्ट
+दर्ज
+कराई
+है
+.
 
-एसओ	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गिरफ्तारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एसओ
+ने
+बताया
+कि
+आरोपियों
+की
+गिरफ्तारी
+के
+प्रयास
+किए
+जा
+रहे
+हैं
+.
 
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तनाव	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देखते	VM	TEMP	B-MISC	O	B-MISC	IAC
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-पुलिसकर्मी	NN	TEMP	O	O	O	O
-तैनात	JJ	TEMP	O	O	B-MISC	OCC
-किए	VM	TEMP	O	O	I-MISC	O
-गए	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गांव
+में
+तनाव
+को
+देखते
+हुए
+पुलिसकर्मी
+तैनात
+किए
+गए
+हैं
+.
 
-सत्यदेव	XC	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-भाइयों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तीसरे	QO	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-थे	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+सत्यदेव
+चार
+भाइयों
+में
+तीसरे
+नंबर
+के
+थे
+.
 
-उनकी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-शालिनी	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-परिजनों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रो-रोकर	NN	TEMP	O	O	O	O
-बुरा	JJ	TEMP	O	O	O	O
-हाल	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+उनकी
+पत्नी
+शालिनी
+समेत
+परिजनों
+का
+रो-रोकर
+बुरा
+हाल
+है
+.

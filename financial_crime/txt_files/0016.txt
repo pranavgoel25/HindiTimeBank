@@ -30,7 +30,7 @@
 जुर्माना,VM,TEMP,O,O
 वसूला,VAUX,TEMP,B-MISC,OCC
 गया,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 छावनी,NN,TEMP,O,O
 के,PSP,TEMP,O,O
@@ -56,7 +56,7 @@
 जा,VAUX,TEMP,I-MISC,O
 रहा,VAUX,TEMP,I-MISC,O
 था,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 प्रत्येक,QF,TEMP,O,O
 बंगला,JJ,TEMP,O,O
@@ -68,13 +68,13 @@
 वसूला,VM,TEMP,B-MISC,OCC
 गया,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 राज्य,XC,TEMP,O,O
 ब्यूरो,NNP,TEMP,O,O
 ,SYM,TEMP,O,O
 रांची,NNP,TEMP,O,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 आर्थिक,JJ,TEMP,O,O
 रूप,NN,TEMP,O,O
@@ -113,7 +113,7 @@
 कर,VM,TEMP,I-MISC,O
 दी,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 इस,DEM,TEMP,O,O
 संदर्भ,NN,TEMP,O,O
@@ -139,7 +139,7 @@
 कर,VM,TEMP,I-MISC,O
 चुका,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 सरकार,NN,TEMP,O,O
 के,PSP,TEMP,O,O
@@ -155,7 +155,7 @@
 बड़ी,JJ,TEMP,O,O
 राहत,NN,TEMP,B-MISC,OCC
 मिलेगी,VM,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 इस,DEM,TEMP,O,O
 योजना,NN,TEMP,O,O
@@ -178,7 +178,7 @@
 शुल्क,NN,TEMP,O,O
 पर,PSP,TEMP,O,O
 होगी,VM,TEMP,I-MISC,-1
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 आर्थिक,JJ,TEMP,O,O
 रूप,NN,TEMP,O,O
@@ -218,7 +218,7 @@
 भी,RP,TEMP,O,O
 प्रभावी,JJ,TEMP,B-MISC,OCC
 होगा,VM,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 अधिसूचना,NN,TEMP,O,O
 के,PSP,TEMP,O,O
@@ -240,7 +240,7 @@
 सरकार,JJ,TEMP,O,O
 राहत,NN,TEMP,B-MISC,OCC
 देगी,VM,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 अब,PRP,TEMP,O,O
 तक,RP,TEMP,O,O
@@ -270,7 +270,7 @@
 करना,VM,TEMP,I-MISC,O
 होता,VAUX,TEMP,I-MISC,O
 था,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 विभाग,NN,TEMP,O,O
 ने,PSP,TEMP,O,O
@@ -297,7 +297,7 @@
 निर्धारण,NN,TEMP,B-MISC,OCC
 किया,VM,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 इससे,PRP,TEMP,O,O
 इतर,NST,TEMP,O,O
@@ -334,7 +334,7 @@
 जुर्माना,NN,TEMP,O,O
 सरकार,JJ,TEMP,O,O
 वसूलेगी,VM,TEMP,B-MISC,OCC
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 ग्रीन,XC,TEMP,O,O
 हाउस,NNP,TEMP,O,O
@@ -356,7 +356,7 @@
 छूट,NN,TEMP,B-MISC,OCC
 दी,VM,TEMP,I-MISC,O
 जाएगी,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 जमीन,NN,TEMP,O,O
 की,PSP,TEMP,O,O
@@ -406,4 +406,4 @@
 हजार,QC,TEMP,O,O
 रुपये,NN,TEMP,O,O
 है,VM,TEMP,B-STAT,DEC
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O

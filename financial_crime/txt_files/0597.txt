@@ -1,191 +1,191 @@
 
-गोरखपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सिकरीगंज	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नेवरा	NN	TEMP	O	O	O	O
-बगीचे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-शुक्रवार	JJ	TEMP	O	O	O	O
-दोपहर	NN	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सेवानिवृत्त	JJ	TEMP	O	O	O	O
-लिपिक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-21	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लूट	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गोरखपुर
+:
+सिकरीगंज
+में
+नेवरा
+बगीचे
+के
+पास
+शुक्रवार
+दोपहर
+बाइक
+सवार
+बदमाशों
+ने
+सेवानिवृत्त
+लिपिक
+से
+21
+हजार
+रुपये
+लूट
+लिए
+.
 
-वारदात	NN	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-धक्का	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वारदात
+के
+बाद
+धक्का
+देकर
+फरार
+हो
+गए
+.
 
-सूचना	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंची	VM	TEMP	O	O	B-MISC	OCC
-पुलिस	NN	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-छानबीन	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सूचना
+पर
+पहुंची
+पुलिस
+मामले
+की
+छानबीन
+कर
+रही
+है
+.
 
-सिकरीगंज	NNP	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-भटपुरवा	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-तिलकधारी	JJ	TEMP	O	O	O	O
-शर्मा	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-70	QC	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-सिंचाई	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गंडक	JJ	TEMP	O	O	O	O
-परियोजना	NN	TEMP	O	O	O	O
-मे	PSP	TEMP	O	O	O	O
-लिपिक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पद	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सेवानिवृत्त	JJ	TEMP	O	O	B-STAT	DECL
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सिकरीगंज
+संवाददाता
+के
+अनुसार
+भटपुरवा
+गांव
+निवासी
+तिलकधारी
+शर्मा
+(
+70
+वर्ष
+)
+सिंचाई
+विभाग
+के
+गंडक
+परियोजना
+मे
+लिपिक
+के
+पद
+से
+सेवानिवृत्त
+हैं
+.
 
-शुक्रवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-दोपहर	NN	TEMP	O	B	O	O
-में	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-सिकरीगंज	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	B-STAT	O
-एसबीआइ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-21	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-निकालने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-झोले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखकर	VM	TEMP	O	O	B-MISC	OCC
-घर	NN	TEMP	O	O	O	O
-लौट	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शुक्रवार
+को
+दोपहर
+में
+वह
+सिकरीगंज
+में
+स्थित
+एसबीआइ
+से
+21
+हजार
+रुपये
+निकालने
+के
+बाद
+झोले
+में
+रखकर
+घर
+लौट
+रहे
+थे
+.
 
-टेंपो	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उतरने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-पैदल	JJ	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-जा	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+टेंपो
+से
+उतरने
+के
+बाद
+पैदल
+घर
+जा
+रहे
+थे
+.
 
-इसी	PRP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-नेवार	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बगीचे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	O
-खडे	JJ	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-हाथ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-झोला	NN	TEMP	O	O	B-MISC	O
-छीन	VM	TEMP	B-MISC	O	I-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+बीच
+नेवार
+गांव
+में
+बगीचे
+के
+पास
+बाइक
+लेकर
+खडे
+बदमाशों
+ने
+उनके
+हाथ
+से
+झोला
+छीन
+लिया
+.
 
-विरोध	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-बदमाश	NN	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-धक्का	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	OCC
-निकले	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विरोध
+करने
+पर
+बदमाश
+उन्हें
+धक्का
+देकर
+भाग
+निकले
+.
 
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-पहुंची	VM	TEMP	B-MISC	O	B-MISC	OCC
-सिकरीगंज	NNP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-हुलिया	NN	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-.	SYM	TEMP	O	O	O	O
+सूचना
+देने
+पर
+पहुंची
+सिकरीगंज
+पुलिस
+को
+उन्होंने
+घटना
+की
+जानकारी
+देने
+के
+साथ
+ही
+बदमाशों
+का
+हुलिया
+बताया
+.
 
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सीसीटीवी	JJ	TEMP	O	O	O	O
-फुटेज	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-देखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+के
+सीसीटीवी
+फुटेज
+को
+भी
+देखा
+गया
+.
 
-थाना	VM	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-रवींद्र	XC	TEMP	O	O	O	O
-पांडेय	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-छानबीन	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+थाना
+प्रभारी
+रवींद्र
+पांडेय
+ने
+बताया
+कि
+बदमाशों
+के
+बारे
+में
+छानबीन
+की
+जा
+रही
+है
+.

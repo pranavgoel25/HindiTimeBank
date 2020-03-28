@@ -1,189 +1,189 @@
 
-भोरे	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-गोपालगंज	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-भोरे	JJ	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-वायरलेस	XC	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ऑटो	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बैठने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-विवाद	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-छीन	VM	TEMP	O	O	B-MISC	OCC
-लिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+भोरे
+(
+गोपालगंज
+)
+:
+भोरे
+बाजार
+के
+वायरलेस
+चौक
+पर
+एक
+ऑटो
+में
+बैठने
+के
+विवाद
+को
+लेकर
+कुछ
+लोगों
+ने
+एक
+युवक
+को
+मारपीट
+कर
+घायल
+करने
+के
+बाद
+उसके
+पास
+मौजूद
+चार
+हजार
+रुपया
+छीन
+लिया
+.
 
-इस	DEM	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+घटना
+को
+लेकर
+युवक
+ने
+पांच
+लोगों
+के
+खिलाफ
+थाना
+में
+आवेदन
+दिया
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-पडताल	NN	TEMP	I-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+मामले
+की
+जांच
+पडताल
+कर
+रही
+है
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-बताया	VM	TEMP	O	O	B-MISC	OCC
-जाता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-भोरे	JJ	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-सुजीत	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-वायरलेस	XC	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समीप	NST	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+बताया
+जाता
+है
+कि
+बताया
+जाता
+है
+कि
+भोरे
+बाजार
+निवासी
+सुजीत
+कुमार
+¨
+सह
+का
+वायरलेस
+चौक
+के
+समीप
+दुकान
+है
+.
 
-ये	DEM	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	B-MISC	OCC
-जाने	VM	TEMP	B-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ऑटो	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैठने	VM	TEMP	O	O	B-MISC	OCC
-जा	VAUX	TEMP	O	O	I-MISC	O
-रहे	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ये
+किसी
+काम
+से
+बाहर
+जाने
+के
+लिए
+ऑटो
+पर
+बैठने
+जा
+रहे
+थे
+.
 
-तभी	PRP	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-मंटू	XC	TEMP	O	O	O	O
-पटेल	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-विवाद	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तभी
+उनका
+मंटू
+पटेल
+से
+विवाद
+हो
+गया
+.
 
-इस	DEM	TEMP	O	O	O	O
-विवाद	NN	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-मंटू	XC	TEMP	O	O	O	O
-पटेल	NNP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-साथियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-सुजीत	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	VM	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-छीन	VM	TEMP	O	O	B-MISC	OCC
-लिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+विवाद
+के
+बाद
+मंटू
+पटेल
+अपने
+साथियों
+के
+साथ
+सुजीत
+¨
+सह
+की
+दुकान
+पर
+पहुंच
+गया
+तथा
+उन्हें
+मारपीट
+कर
+घायल
+करने
+के
+बाद
+चार
+हजार
+रुपया
+छीन
+लिया
+.
 
-इस	DEM	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-सुजीत	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मंटू	XC	TEMP	O	O	O	O
-पटेल	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-छोटे	RDP	TEMP	O	O	O	O
-पटेल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अंकित	JJ	TEMP	O	O	O	O
-पटेल	NNP	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-प्रस	XC	TEMP	O	O	O	O
-पटेल	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+घटना
+को
+लेकर
+सुजीत
+¨
+सह
+ने
+मंटू
+पटेल
+,
+छोटे
+पटेल
+,
+अंकित
+पटेल
+तथा
+¨
+प्रस
+पटेल
+के
+खिलाफ
+थाना
+में
+आवेदन
+दिया
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-पडताल	NN	TEMP	I-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
+पुलिस
+मामले
+की
+जांच
+पडताल
+कर
+रही
+है

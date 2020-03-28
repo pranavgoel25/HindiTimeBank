@@ -1,213 +1,213 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-साढौरा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-वीटा	XC	TEMP	O	O	O	O
-मिल्क	XC	TEMP	O	O	O	O
-प्लांट	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-निजामपुर	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-लाहडपुर	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मेधावी	JJ	TEMP	O	O	O	O
-छात्राओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पुरस्कृत	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सहयोगी
+,
+साढौरा
+:
+वीटा
+मिल्क
+प्लांट
+की
+योजना
+के
+तहत
+निजामपुर
+व
+लाहडपुर
+गांव
+में
+मेधावी
+छात्राओं
+को
+पुरस्कृत
+किया
+गया
+.
 
-एरिया	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-रामकर्ण	XC	TEMP	O	O	O	O
-वालिया	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सुपरवाईजर	XC	TEMP	O	O	O	O
-सुरेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-वीं	XC	TEMP	O	O	O	O
-कक्षा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-80	QC	TEMP	O	O	O	O
-प्रतिशत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-मोनिका	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अनमोलदीप	NN	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-5100	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-चैक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	I-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एरिया
+अधिकारी
+रामकर्ण
+वालिया
+व
+सुपरवाईजर
+सुरेश
+कुमार
+ने
+बताया
+कि
+12
+वीं
+कक्षा
+में
+80
+प्रतिशत
+से
+अधिक
+प्राप्त
+करने
+के
+लिए
+मोनिका
+व
+अनमोलदीप
+कौर
+को
+5100
+रुपये
+की
+राशि
+चैक
+के
+माध्यम
+से
+दी
+गई
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-दोनों	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-मिल्क	XC	TEMP	O	O	O	O
-प्लांट	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दूध	NN	TEMP	O	O	O	OCC
-सप्लाई	NN	TEMP	O	O	O	O
-करने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-सदस्यों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बेटियां	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+यह
+दोनों
+ही
+मिल्क
+प्लांट
+को
+दूध
+सप्लाई
+करने
+वाले
+सदस्यों
+की
+बेटियां
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-मिल्क	XC	TEMP	O	O	O	O
-प्लांट	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-बचाओ-बेटी	JJ	TEMP	O	O	O	O
-पढ़ाओ	NN	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-दूध	NN	TEMP	O	O	O	O
-सप्लाई	NN	TEMP	O	O	B-STAT	O
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-सदस्य	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शादी	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-बतौर	JJ	TEMP	O	O	O	O
-कन्यादान	NN	TEMP	O	O	O	O
-1100	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+मिल्क
+प्लांट
+की
+बेटी
+बचाओ-बेटी
+पढ़ाओ
+योजना
+के
+अनुसार
+दूध
+सप्लाई
+करने
+वाले
+सदस्य
+की
+बेटी
+की
+शादी
+में
+बतौर
+कन्यादान
+1100
+रुपये
+दिए
+जाते
+हैं
+.
 
-इसके	PRP	TEMP	O	O	O	O
-अलावा	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-वीं	XC	TEMP	O	O	O	O
-कक्षा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-80	QC	TEMP	O	O	O	O
-प्रतिशत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-अंक	NN	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	O	O	O	O
-करने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-2100	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-स्कोलरशिप	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-जबकि	CC	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-वीं	XC	TEMP	O	O	O	O
-कक्षा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-80	QC	TEMP	O	O	O	O
-प्रतिशत	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-अंक	NN	TEMP	O	O	O	O
-पाने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-5100	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्कोलरशिप	NN	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+अलावा
+10
+वीं
+कक्षा
+में
+80
+प्रतिशत
+से
+अधिक
+अंक
+प्राप्त
+करने
+वाली
+बेटी
+को
+2100
+रुपए
+स्कोलरशिप
+राशि
+दी
+जाती
+है
+,
+जबकि
+12
+वीं
+कक्षा
+में
+80
+प्रतिशत
+से
+अधिक
+अंक
+पाने
+वाली
+बेटी
+को
+5100
+रुपए
+की
+स्कोलरशिप
+राशि
+दी
+जाती
+हैं
+.
 
-बेटी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जन्म	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्रोत्साहित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-सप्लायर	JJ	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जन्म	NN	TEMP	O	O	B-MISC	OCC
-होने	VM	TEMP	B-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-11	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-एफडी	NN	TEMP	O	O	O	O
-भेंट	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-जाती	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बेटी
+के
+जन्म
+को
+प्रोत्साहित
+करने
+के
+लिए
+सप्लायर
+सदस्य
+के
+घर
+बेटी
+का
+जन्म
+होने
+पर
+11
+हजार
+की
+एफडी
+भेंट
+की
+जाती
+है
+.
 
-वीटा	XC	TEMP	O	O	O	O
-मिल्क	XC	TEMP	O	O	O	O
-प्लांट	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दूध	NN	TEMP	O	O	O	O
-डालने	VM	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एक	XC	TEMP	O	O	O	O
-अप्रैल	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-30	QC	TEMP	O	B	O	O
-सितंबर	NNP	TEMP	O	I	O	O
-तक	RP	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-प्रति	RP:?	TEMP	O	O	O	O
-लीटर	NN	TEMP	O	O	O	O
-बोनस	VM	TEMP	O	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वीटा
+मिल्क
+प्लांट
+में
+दूध
+डालने
+वालों
+को
+एक
+अप्रैल
+से
+30
+सितंबर
+तक
+5
+रुपये
+प्रति
+लीटर
+बोनस
+भी
+दिया
+जाता
+है
+.

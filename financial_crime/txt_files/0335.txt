@@ -1,236 +1,236 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-होशियारपुर	XC	TEMP	O	O	O	O
-जिले	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-साहरी	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-साधुओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	O	O	O
-रात	NN	TEMP	O	O	O	O
-800	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-मजदूर	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कत्ल	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿संवाद
+सहयोगी
+,
+होशियारपुर
+जिले
+के
+गांव
+साहरी
+में
+दो
+साधुओं
+ने
+शुक्रवार
+रात
+800
+रुपये
+के
+लिए
+एक
+मजदूर
+का
+कत्ल
+कर
+दिया
+.
 
-साधुओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तेजधार	JJ	TEMP	O	O	O	O
-हथियार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सिर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बार	RP	TEMP	B-MISC	O	O	O
-कर	VM	TEMP	I-MISC	O	O	O
-हत्या	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अंजाम	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साधुओं
+ने
+तेजधार
+हथियार
+से
+सिर
+पर
+बार
+कर
+हत्या
+को
+अंजाम
+दिया
+है
+.
 
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-सुखपाल	XC	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-रघुवीर	JJ	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-बजडा	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-बदायूं	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-उत्तर	XC	TEMP	O	O	O	O
-प्रदेश	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-हाल	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-गांव	XC	TEMP	O	O	O	O
-साहरी	NNP	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-कुछ	QF	TEMP	O	I	O	O
-समय	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-रह	VM	TEMP	O	O	B-MISC	OCC
-रहा	VAUX	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जानकारी
+के
+अनुसार
+सुखपाल
+(
+50
+)
+पुत्र
+रघुवीर
+निवासी
+गांव
+बजडा
+,
+जिला
+बदायूं
+(
+उत्तर
+प्रदेश
+)
+हाल
+निवासी
+गांव
+साहरी
+पिछले
+कुछ
+समय
+से
+अपने
+परिवार
+के
+साथ
+रह
+रहा
+था
+.
 
-वह	PRP	TEMP	O	O	O	O
-जंगल	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लकडी	NN	TEMP	O	O	B-MISC	O
-काटने	VM	TEMP	O	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	B-MISC	O	B-MISC	OCC
-करता	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वह
+जंगल
+से
+लकडी
+काटने
+का
+काम
+करता
+था
+.
 
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-ट्यूबवेल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-साधु	NN	TEMP	O	O	O	O
-रहते	VM	TEMP	B-MISC	O	B-STAT	OCC
-थे	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+गांव
+के
+बाहर
+सरकारी
+ट्यूबवेल
+के
+पास
+दो
+साधु
+रहते
+थे
+.
 
-दोनों	JJ	TEMP	O	O	O	O
-साधुओं	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सुखपाल	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-800	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-उधार	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दोनों
+साधुओं
+ने
+सुखपाल
+से
+800
+रुपये
+उधार
+लिए
+हुए
+थे
+.
 
-शुक्रवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-सुखपाल	JJ	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-साधुओं	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-लेने	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	B-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-में	PSP	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-लौटा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शुक्रवार
+को
+सुखपाल
+घर
+से
+साधुओं
+से
+पैसे
+लेने
+गया
+था
+,
+लेकिन
+रात
+में
+वापस
+नहीं
+लौटा
+.
 
-सुबह	RDP	TEMP	O	O	O	O
-परिवार	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सुखपाल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खोजबीन	NN	TEMP	B-MISC	O	O	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुबह
+परिवार
+ने
+सुखपाल
+की
+खोजबीन
+शुरू
+की
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	B	O	O
-आठ	QC	TEMP	O	B	O	O
-बजे	RP:?	TEMP	O	I	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-ट्यूबवेल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-शव	NN	TEMP	B-MISC	O	O	O
-पडा	VM	TEMP	I-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+सुबह
+आठ
+बजे
+गांव
+के
+ही
+कुछ
+लोगों
+ने
+बताया
+कि
+गांव
+के
+बाहर
+सरकारी
+ट्यूबवेल
+के
+पास
+शव
+पडा
+है
+.
 
-उसके	PRP	TEMP	O	O	O	O
-सिर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गहरे	JJ	TEMP	O	O	O	O
-घाव	NN	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उसके
+सिर
+में
+गहरे
+घाव
+हैं
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सुखपाल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बेटी	NN	TEMP	O	O	O	O
-रानी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-जाकर	VM	TEMP	B-MISC	O	B-MISC	O
-देखा	VM	TEMP	B-MISC	O	I-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-शव	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिनाख्त	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-पिता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रूप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+इस
+पर
+सुखपाल
+की
+बेटी
+रानी
+ने
+वहां
+जाकर
+देखा
+,
+तो
+उसने
+शव
+की
+शिनाख्त
+अपने
+पिता
+के
+रूप
+में
+की
+.
 
-उधर	NST	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हत्या	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अंजाम	NN	TEMP	B-MISC	O	B-MISC	OCC
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-दोनों	JJ	TEMP	O	O	O	O
-साधु	NN	TEMP	O	O	O	O
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हैं	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उधर
+,
+हत्या
+को
+अंजाम
+देने
+के
+बाद
+दोनों
+साधु
+फरार
+हैं
+.
 
-इस	DEM	TEMP	O	O	O	O
-संदर्भ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मेहटियाना	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-हत्या	NN	TEMP	O	O	O	OCC
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-दोनों	JJ	TEMP	O	O	O	O
-साधुओं	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संदर्भ
+में
+मेहटियाना
+पुलिस
+ने
+हत्या
+का
+मामला
+दर्ज
+करके
+दोनों
+साधुओं
+की
+तलाश
+शुरू
+कर
+दी
+है
+.

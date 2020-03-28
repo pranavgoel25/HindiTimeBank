@@ -1,263 +1,263 @@
 
-सिद्धार्थनगर	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-मुद्रा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	IAC
-नेपाल	XC	TEMP	O	O	O	O
-सीमा	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-जनपद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दयनीय	JJ	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+सिद्धार्थनगर
+:
+मुद्रा
+को
+लेकर
+नेपाल
+सीमा
+स्थित
+इस
+जनपद
+की
+स्थिति
+अभी
+भी
+दयनीय
+है
+.
 
-आरबीआइ	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-भेजने	VM	TEMP	B-MISC	O	B-MISC	OCC
-पर	PSP	TEMP	O	O	O	O
-रोक	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आरबीआइ
+ने
+यहां
+के
+बैंकों
+को
+दो
+हजार
+की
+नोट
+भेजने
+पर
+रोक
+लगा
+रही
+है
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-जैसे-तैसे	PSP	TEMP	O	O	O	O
-आ	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+रुपये
+जैसे-तैसे
+आ
+रहे
+हैं
+.
 
-नोट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-जनपद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आए-दिन	NN	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-समस्या	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+नोट
+को
+लेकर
+जनपद
+में
+आए-दिन
+कोई
+न
+कोई
+समस्या
+है
+.
 
-छह	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पूर्व	NST	TEMP	O	O	O	O
-आरबीआई	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-पचास	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उतार	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+छह
+दिन
+पूर्व
+आरबीआई
+ने
+दो
+सौ
+और
+पचास
+रुपये
+की
+नई
+नोट
+बाजार
+में
+उतार
+दी
+.
 
-दिल्ली	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पटना	NNP	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रमुख	JJ	TEMP	O	O	O	O
-शहरों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देखने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-उत्सुकता	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-,	SYM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-सरहद	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पहुंच	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दूर	NST	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+दिल्ली
+,
+पटना
+समेत
+देश
+में
+प्रमुख
+शहरों
+में
+इस
+नोट
+को
+देखने
+की
+उत्सुकता
+है
+,
+पर
+अभी
+तक
+यह
+सरहद
+की
+पहुंच
+से
+दूर
+है
+.
 
-25	QC	TEMP	O	B	O	O
-अगस्त	NN	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-आरबीआइ	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-ला	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+25
+अगस्त
+को
+आरबीआइ
+ने
+बाजार
+में
+दो
+सौ
+की
+नोट
+ला
+दी
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-पचास	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-उतार	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+पचास
+की
+नई
+नोट
+उतार
+दी
+.
 
-पचास	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-खेप	NN	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-आ	VM	TEMP	O	O	B-MISC	OCC
-गई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पहुंच	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+पचास
+की
+कुछ
+खेप
+यहां
+बैंकों
+तक
+आ
+गई
+है
+,
+पर
+दो
+सौ
+की
+नोट
+भी
+पहुंच
+के
+बाहर
+है
+.
 
-यहां	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-गज	NN	TEMP	O	O	O	O
-भर	RP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दूरी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पडोसी	JJ	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-नेपाल	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+यहां
+से
+गज
+भर
+की
+दूरी
+पर
+पडोसी
+देश
+नेपाल
+है
+.
 
-जनपदवासियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गर्व	NN	TEMP	O	O	B-MISC	OCC
-हैं	VM	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-अंतरराष्ट्रीय	JJ	TEMP	O	O	O	O
-सीमा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जनपदवासियों
+को
+गर्व
+हैं
+कि
+वह
+अंतरराष्ट्रीय
+सीमा
+के
+निवासी
+हैं
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-मलाल	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	-1
-कि	CC	TEMP	O	O	O	O
-हर	QF	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-एकदम	RB	TEMP	O	O	O	O
-आखरी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पहुंचती	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+मलाल
+भी
+है
+कि
+हर
+योजना
+यहां
+एकदम
+आखरी
+में
+पहुंचती
+है
+.
 
-शिक्षा	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-स्वास्थ्य	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-हर	QF	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-यही	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	-1
-.	SYM	TEMP	O	O	O	O
+शिक्षा
+,
+स्वास्थ्य
+से
+लेकर
+हर
+क्षेत्र
+की
+स्थिति
+यही
+है
+.
 
-यहां	PRP	TEMP	O	O	O	O
-देश	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मुद्रा	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-देर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पहुंचती	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यहां
+देश
+की
+मुद्रा
+भी
+देर
+से
+पहुंचती
+है
+.
 
-लीड	XC	TEMP	O	O	O	O
-बैंक	XC	TEMP	O	O	O	O
-अफसर	XC	TEMP	O	O	O	O
-कल्पनाथ	XC	TEMP	O	O	O	O
-अनुरागी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-रास्ते	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-कठिनाई	NN	TEMP	O	O	O	OCC
-थी	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+लीड
+बैंक
+अफसर
+कल्पनाथ
+अनुरागी
+ने
+बताया
+कि
+बीच
+रास्ते
+को
+लेकर
+कठिनाई
+थी
+.
 
-अभी	PRP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-आ	VM	TEMP	O	O	I-MISC	O
-सकी	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभी
+नोट
+यहां
+नहीं
+आ
+सकी
+है
+.
 
-यदि	CC	TEMP	O	O	O	O
-गोरखपुर	NNP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-नई	JJ	TEMP	O	O	O	O
-नोटों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खेप	NN	TEMP	O	O	B-MISC	OCC
-आ	VM	TEMP	O	O	I-MISC	O
-जाएगी	VAUX	TEMP	O	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-आने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कठिनाई	NN	TEMP	O	O	B-MISC	O
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	OCC
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यदि
+गोरखपुर
+तक
+भी
+नई
+नोटों
+की
+खेप
+आ
+जाएगी
+तो
+यहां
+आने
+में
+कठिनाई
+नहीं
+होगी
+.

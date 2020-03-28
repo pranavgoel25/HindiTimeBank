@@ -1,179 +1,179 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-हाजीपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सदर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दिग्घी	NN	TEMP	O	O	O	O
-खूर्द	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-प्रस	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दरवाजे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-खडी	JJ	TEMP	O	O	O	O
-स्कॉर्पियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-डिक्की	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चेक	VM	TEMP	O	O	O	O
-बुक	JJ	TEMP	O	O	O	OCC
-चोरी	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-फर्जी	NN	TEMP	O	O	O	O
-हस्ताक्षर	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हाजीपुर
+:
+सदर
+थाना
+क्षेत्र
+के
+दिग्घी
+खूर्द
+गांव
+के
+¨
+प्रस
+कुमार
+के
+दरवाजे
+पर
+खडी
+स्कॉर्पियों
+की
+डिक्की
+से
+चेक
+बुक
+चोरी
+कर
+फर्जी
+हस्ताक्षर
+कर
+एक
+लाख
+रुपये
+की
+निकासी
+कर
+ली
+गई
+.
 
-मिली	VM	TEMP	O	O	B-STAT	OCC
-जानकारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-सदर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दिग्घी	NN	TEMP	O	O	O	O
-खूर्द	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-प्रस	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दरवाजे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-स्कॉर्पियों	NN	TEMP	O	O	B-MISC	O
-लगी	VM	TEMP	B-MISC	O	I-MISC	OCC
-हुई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मिली
+जानकारी
+के
+अनुसार
+सदर
+थाना
+क्षेत्र
+के
+दिग्घी
+खूर्द
+गांव
+के
+¨
+प्रस
+कुमार
+के
+दरवाजे
+पर
+उनकी
+स्कॉर्पियों
+लगी
+हुई
+थी
+.
 
-उसकी	PRP	TEMP	O	O	O	O
-डिक्की	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उत्तर	XC	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-ग्रामीण	JJ	TEMP	O	O	O	O
-बैंक	XC	TEMP	O	O	O	O
-हाजीपुर	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-संचालित	JJ	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-चेक	NN	TEMP	O	O	O	O
-बुक	VM	TEMP	O	O	B-MISC	OCC
-रखा	VAUX	TEMP	B-MISC	O	I-MISC	O
-हुआ	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसकी
+डिक्की
+में
+उत्तर
+बिहार
+ग्रामीण
+बैंक
+हाजीपुर
+में
+संचालित
+उसके
+खाते
+का
+चेक
+बुक
+रखा
+हुआ
+था
+.
 
-जिसे	PRP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसे
+किसी
+ने
+चोरी
+कर
+ली
+.
 
-इस	DEM	TEMP	O	O	O	O
-चेक	NN	TEMP	O	O	O	O
-बुक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-चेक	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उयका	JJ	TEMP	O	O	O	O
-फर्जी	NN	TEMP	O	O	O	O
-हस्ताक्षर	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-बैंक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+चेक
+बुक
+में
+से
+एक
+चेक
+पर
+उयका
+फर्जी
+हस्ताक्षर
+कर
+बैंक
+से
+एक
+लाख
+रुपये
+की
+निकासी
+कर
+ली
+.
 
-इस	DEM	TEMP	O	O	O	O
-निकासी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आए	VM	TEMP	O	O	B-MISC	OCC
-मैसेज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इस
+निकासी
+की
+जानकारी
+उसे
+मोबाइल
+पर
+आए
+मैसेज
+से
+हुई
+.
 
-तब	PRP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-छानबीन	NN	TEMP	O	O	B-MISC	OCC
-बैंक	NN	TEMP	O	O	O	O
-जाकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तब
+उसने
+इसकी
+छानबीन
+बैंक
+जाकर
+की
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-रंजीत	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-नामक	JJ	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उस	DEM	TEMP	O	O	O	O
-चेक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-निकासी	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+पता
+चला
+कि
+किसी
+रंजीत
+कुमार
+नामक
+व्यक्ति
+ने
+उस
+चेक
+से
+निकासी
+की
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	IAC
-सदर	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-धोखाधडी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-प्राथमिकी	JJ	TEMP	O	O	O	O
-रंजीत	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-नामक	JJ	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विरुद्ध	JJ	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+घटना
+को
+लेकर
+सदर
+थाना
+में
+धोखाधडी
+की
+प्राथमिकी
+रंजीत
+कुमार
+नामक
+व्यक्ति
+के
+विरुद्ध
+दर्ज
+कराई
+गई
+है
+.

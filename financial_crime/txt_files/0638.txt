@@ -1,343 +1,343 @@
 
-दरभंगा	NN	TEMP	O	O	O	O
-[	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+दरभंगा
+[
+जेएनएन
+]
+.
 
-पतोर	NN	TEMP	O	O	O	O
-ओपी	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पनसल्ला	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लड़की	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अपहरण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ग्रामीणों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	B	O	O
-युवकों	NN	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-पकड़	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-जमकर	VM	TEMP	O	O	O	O
-धुनाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-व	CC	TEMP	O	O	O	O
-51	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पतोर
+ओपी
+क्षेत्र
+के
+पनसल्ला
+गांव
+में
+एक
+लड़की
+के
+अपहरण
+के
+आरोप
+में
+ग्रामीणों
+ने
+तीन
+युवकों
+को
+पकड़
+कर
+जमकर
+धुनाई
+कर
+दी
+व
+51
+हजार
+रुपये
+का
+जुर्माना
+लगाया
+.
 
-उसकी	PRP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-जब्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसकी
+बाइक
+जब्त
+कर
+ली
+गई
+है
+.
 
-राशि	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-पर	PSP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-देने	VM	TEMP	B-MISC	O	I-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-शर्त	NN	TEMP	B-MISC	O	B-MISC	OCC
-रखी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+राशि
+देने
+पर
+बाइक
+वापस
+कर
+देने
+की
+शर्त
+रखी
+गई
+है
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-तीनों	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-बहेड़ा	NN	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कहुआ	VM	TEMP	O	O	B-MISC	OCC
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रहने	VM	TEMP	O	O	B-STAT	DESC
-वाले	VAUX	TEMP	O	O	I-STAT	O
-हैं	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+बताया
+जाता
+है
+कि
+तीनों
+युवक
+बहेड़ा
+थाने
+के
+कहुआ
+गांव
+के
+रहने
+वाले
+हैं
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अपहरण	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जगह	NN	TEMP	O	O	O	O
-प्रेम	XC	TEMP	O	O	O	O
-प्रसंग	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-निकला	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+हालांकि
+,
+यह
+मामला
+बाद
+में
+अपहरण
+की
+जगह
+प्रेम
+प्रसंग
+का
+निकला
+.
 
-घटना	NN	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	O	O	B-MISC	OCC
-जाता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-तीनों	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पनसल्ला	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+घटना
+के
+संबंध
+में
+बताया
+जाता
+है
+कि
+तीनों
+युवक
+एक
+बाइक
+से
+पनसल्ला
+गांव
+पहुंचे
+.
 
-तय	JJ	TEMP	O	O	O	O
-कार्यक्रम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-लड़की	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तीनों	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-तैयारी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आए	VM	TEMP	O	O	B-MISC	OCC
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तय
+कार्यक्रम
+के
+तहत
+लड़की
+को
+तीनों
+युवक
+अपने
+साथ
+ले
+जाने
+की
+तैयारी
+में
+आए
+थे
+.
 
-एक	QC	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जाना	VM	TEMP	O	O	O	OCC
-मुश्किल	JJ	TEMP	O	O	B-STAT	O
-था	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+एक
+बाइक
+पर
+चार
+लोगों
+को
+जाना
+मुश्किल
+था
+.
 
-इस	DEM	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लड़की	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-छोड़	NNP	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+कारण
+से
+एक
+युवक
+को
+लड़की
+के
+घर
+के
+पास
+छोड़
+दिया
+गया
+.
 
-लड़की	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैठा	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-दो	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	B-MISC	OCC
-आए	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लड़की
+को
+बाइक
+पर
+बैठा
+कर
+दो
+युवक
+गांव
+से
+बाहर
+आए
+.
 
-वहां	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बगीचा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-लड़की	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उतर	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहां
+एक
+बगीचा
+के
+पास
+लड़की
+व
+एक
+युवक
+बाइक
+से
+उतर
+गए
+.
 
-जबकि	CC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-दूसरा	QO	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-तीसरे	QO	TEMP	O	O	O	O
-साथी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रवाना	VM	TEMP	B-MISC	O	B-MISC	OCC
-हो	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+,
+दूसरा
+युवक
+अपने
+तीसरे
+साथी
+को
+लाने
+के
+लिए
+रवाना
+हो
+गया
+.
 
-इसी	PRP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-बगीचा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-लड़की	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देख	VM	TEMP	B-MISC	O	B-MISC	OCC
-हल्ला	NN	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	OCC
-लगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+बीच
+गांव
+के
+लोग
+बगीचा
+में
+युवक
+व
+लड़की
+को
+देख
+हल्ला
+करने
+लगे
+.
 
-दोनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पकड़ने	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+दोनों
+को
+पकड़ने
+के
+बाद
+पता
+चला
+कि
+दो
+युवक
+गांव
+में
+हैं
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-ग्रामीणों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-दोनों	JJ	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दबोच	VM	TEMP	O	O	B-MISC	OCC
-लिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+ग्रामीणों
+ने
+बाइक
+सहित
+दोनों
+युवकों
+को
+दबोच
+लिया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-आक्रोशित	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तीनों	QC	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जमकर	VM	TEMP	O	O	B-MISC	O
-धुनाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+आक्रोशित
+लोगों
+ने
+तीनों
+युवकों
+की
+जमकर
+धुनाई
+कर
+दी
+.
 
-हालांकि	CC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रेम	XC	TEMP	O	O	O	O
-प्रसंग	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	B-MISC	O
-आने	VM	TEMP	O	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	B-MISC	OCC
-पुलिस	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हालांकि
+,
+प्रेम
+प्रसंग
+का
+मामला
+सामने
+आने
+के
+बाद
+गांव
+के
+लोगों
+ने
+इसकी
+शिकायत
+पुलिस
+से
+नहीं
+की
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तीनों	QC	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-51	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+,
+गांव
+वालों
+ने
+तीनों
+युवकों
+पर
+51
+हजार
+रुपये
+का
+जुर्माना
+लगाया
+है
+.
 
-तत्काल	JJ	TEMP	O	O	O	O
-तीनों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-छोड़	NNP	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तत्काल
+तीनों
+को
+छोड़
+दिया
+गया
+है
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जमानत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जब्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+,
+जमानत
+के
+तौर
+पर
+बाइक
+को
+जब्त
+कर
+ली
+गई
+है
+.
 
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-जुर्माना	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-वापस	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बताया
+जाता
+है
+कि
+जुर्माना
+की
+राशि
+देने
+के
+बाद
+बाइक
+वापस
+कर
+दी
+जाएगी
+.

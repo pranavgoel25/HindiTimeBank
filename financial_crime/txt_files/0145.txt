@@ -1,227 +1,227 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-फरीदाबाद	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दवाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-थोक	QF	TEMP	O	O	O	O
-विक्रेता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-कलेक्शन	NN	TEMP	O	O	O	O
-ब्वॉय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	B-MISC	OCC
-करने	VM	TEMP	O	O	I-MISC	O
-वाला	PSP	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-मोटरसाइकिल	JJ	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+फरीदाबाद
+:
+कोतवाली
+क्षेत्र
+में
+दवाओं
+के
+थोक
+विक्रेता
+के
+पास
+कलेक्शन
+ब्वॉय
+के
+तौर
+पर
+काम
+करने
+वाला
+युवक
+मोटरसाइकिल
+और
+60
+हजार
+रुपये
+लेकर
+फरार
+हो
+गया
+.
 
-यह	DEM	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-ग्राहकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एकत्र	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+रुपये
+उसने
+विभिन्न
+ग्राहकों
+से
+एकत्र
+किए
+थे
+.
 
-सेक्टर-	NN	TEMP	O	O	O	O
-49	QC	TEMP	O	O	O	O
-सैनिक	XC	TEMP	O	O	O	O
-कॉलोनी	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-आशीष	NN	TEMP	O	O	O	O
-रस्तोगी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-दवाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-थोक	QF	TEMP	O	O	O	O
-विक्रेता	NN	TEMP	O	O	B-MISC	O
-हैं	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सेक्टर-
+49
+सैनिक
+कॉलोनी
+निवासी
+आशीष
+रस्तोगी
+ने
+पुलिस
+को
+बताया
+कि
+वे
+दवाओं
+के
+थोक
+विक्रेता
+हैं
+.
 
-एनआइटी-	NN	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+एनआइटी-
+1
+में
+उनका
+स्टोर
+है
+.
 
-उनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-खेडी	JJ	TEMP	O	O	O	O
-कलां	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-अजय	XC	TEMP	O	O	O	O
-कलेक्शन	XC	TEMP	O	O	O	O
-ब्वॉय	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-काम	NN	TEMP	O	O	B-MISC	OCC
-करता	VM	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उनके
+पास
+गांव
+खेडी
+कलां
+निवासी
+अजय
+कलेक्शन
+ब्वॉय
+के
+तौर
+पर
+काम
+करता
+था
+.
 
-विभिन्न	JJ	TEMP	O	O	O	O
-ग्राहकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दवाओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-एकत्र	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-अजय	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-मोटरसाइकिल	NN	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विभिन्न
+ग्राहकों
+से
+दवाओं
+के
+रुपये
+एकत्र
+करने
+के
+लिए
+उन्होंने
+अजय
+को
+अपनी
+मोटरसाइकिल
+दी
+हुई
+थी
+.
 
-23	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-अजय	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-ग्राहकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-एकत्र	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+23
+अक्टूबर
+को
+अजय
+ने
+विभिन्न
+ग्राहकों
+से
+करीब
+60
+हजार
+रुपये
+एकत्र
+किए
+थे
+.
 
-शाम	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	OCC
-मोटरसाइकिल	JJ	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	B-MISC	OCC
-पहुंचा	VAUX	TEMP	B-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+शाम
+को
+वह
+न
+मोटरसाइकिल
+लेकर
+पहुंचा
+और
+न
+ही
+रुपये
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-स्विच	NN	TEMP	B-MISC	O	B-MISC	OCC
-ऑफ	PSP	TEMP	I-MISC	O	I-MISC	O
-हो	VM	TEMP	I-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+उसका
+मोबाइल
+भी
+स्विच
+ऑफ
+हो
+गया
+.
 
-आशीष	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-शक	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
+आशीष
+को
+शक
+हुआ
 
-उन्होंने	PRP	TEMP	O	O	O	O
-उसकी	PRP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	O	OCC
-की	PSP	TEMP	I-MISC	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-उसका	PRP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-अता	NN	TEMP	B-MISC	O	O	O
-पता	JJ	TEMP	I-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-था	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+उसकी
+तलाश
+की
+लेकिन
+उसका
+कोई
+अता
+पता
+नहीं
+था
+.
 
-तब	PRP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-पूरा	JJ	TEMP	O	O	O	O
-संदेह	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मोटरसाइकिल	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तब
+उन्हें
+पूरा
+संदेह
+हो
+गया
+कि
+आरोपी
+उनके
+रुपये
+व
+मोटरसाइकिल
+लेकर
+फरार
+हो
+गया
+है
+.
 
-अब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-स्तर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आरोपी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
+अब
+तक
+वे
+अपने
+स्तर
+पर
+आरोपी
+की
+तलाश
+करते
+रहे
+थे
 
-लेकिन	CC	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+अब
+उन्होंने
+पुलिस
+को
+शिकायत
+दी
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-आरोपी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तलाश	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+का
+कहना
+है
+कि
+मुकदमा
+दर्ज
+कर
+आरोपी
+की
+तलाश
+शुरू
+कर
+दी
+है
+.

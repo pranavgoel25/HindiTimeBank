@@ -1,427 +1,427 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बल्लभगढ़	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-में	PSP	TEMP	O	O	O	O
-चोर	NN	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-दुकानों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सेंध	NN	TEMP	B-MISC	O	O	O
-मारी	NN	TEMP	I-MISC	O	B-MISC	O
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-लाखों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-चुराकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	B-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+बल्लभगढ़
+:
+शहर
+में
+एक
+ही
+रात
+में
+चोर
+तीन
+दुकानों
+में
+सेंध
+मारी
+करके
+लाखों
+रुपये
+का
+सामान
+चुराकर
+ले
+गए
+.
 
-आए	VM	TEMP	O	O	B-MISC	OCC
-दिन	NN	TEMP	O	O	O	O
-होने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-घटनाओं	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-व्यापारियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भय	NN	TEMP	B-MISC	O	O	O
-का	PSP	TEMP	I-MISC	O	O	O
-माहौल	NN	TEMP	I-MISC	O	B-STAT	O
-है	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+आए
+दिन
+होने
+वाली
+चोरी
+की
+घटनाओं
+से
+व्यापारियों
+में
+भय
+का
+माहौल
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पकडने	VM	TEMP	O	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-पूरी	JJ	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-विफल	JJ	TEMP	O	O	O	O
-साबित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+चोरों
+को
+पकडने
+में
+पूरी
+तरह
+से
+विफल
+साबित
+हो
+रही
+है
+.
 
-चावला	NN	TEMP	O	O	O	O
-कॉलोनी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रामअवतार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-इलेक्ट्रॉनिक्स	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ओमप्रकाश	XC	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-इलेक्ट्रीकल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-राजकुमार	XC	TEMP	O	O	O	O
-भारद्वाज	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जूतों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+चावला
+कॉलोनी
+में
+रामअवतार
+की
+इलेक्ट्रॉनिक्स
+की
+दुकान
+,
+ओमप्रकाश
+गुप्ता
+की
+इलेक्ट्रीकल
+की
+दुकान
+और
+राजकुमार
+भारद्वाज
+के
+जूतों
+की
+दुकान
+है
+.
 
-इन	DEM	TEMP	O	O	O	O
-दुकानों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चोर	XC	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-छत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रास्ते	NN	TEMP	O	O	B-MISC	O
-अंदर	NST	TEMP	B-MISC	O	I-MISC	O
-घुसे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+दुकानों
+में
+चोर
+सोमवार
+की
+रात
+को
+छत
+के
+रास्ते
+अंदर
+घुसे
+.
 
-चोर	NN	TEMP	O	O	O	O
-रामअवतार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-पंखे	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सीसीटीवी	JJ	TEMP	O	O	O	O
-कैमरे	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-डीबीआर	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-बंडल	NN	TEMP	O	O	O	O
-बिजली	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तार	NN	TEMP	O	O	O	O
-चुराकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	B-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चोर
+रामअवतार
+की
+दुकान
+से
+3
+लाख
+रुपये
+का
+सामान
+,
+तीन
+पंखे
+,
+सीसीटीवी
+कैमरे
+का
+डीबीआर
+और
+50
+बंडल
+बिजली
+की
+तार
+चुराकर
+ले
+गए
+.
 
-ओमप्रकाश	XC	TEMP	O	O	O	O
-गुप्ता	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-30	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-राजकुमार	XC	TEMP	O	O	O	O
-भारद्वाज	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जूतों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-शोरूम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जूते	NN	TEMP	O	O	O	O
-चुराकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-ले	VM	TEMP	B-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ओमप्रकाश
+गुप्ता
+की
+दुकान
+से
+30
+हजार
+रुपये
+का
+सामान
+और
+राजकुमार
+भारद्वाज
+के
+जूतों
+के
+शोरूम
+से
+लाख
+रुपये
+के
+जूते
+चुराकर
+ले
+गए
+.
 
-चोरी	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दुकानदारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मंगलवार	NN	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चोरी
+के
+बारे
+में
+दुकानदारों
+को
+मंगलवार
+सुबह
+पता
+चला
+तो
+उन्होंने
+थाना
+शहर
+पुलिस
+को
+सूचना
+दे
+दी
+.
 
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जाकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-मुआयना	NN	TEMP	B-MISC	O	I-MISC	O
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सूचना
+मिलने
+के
+बाद
+पुलिस
+ने
+मौके
+पर
+जाकर
+मुआयना
+किया
+.
 
-सीसीटीवी	JJ	TEMP	O	O	O	O
-कैमरे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फुटेज	NN	TEMP	O	O	O	O
-खंगाली	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-नकाबपोश	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-फुटेज	NN	TEMP	B-MISC	O	O	O
-कैद	NN	TEMP	I-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सीसीटीवी
+कैमरे
+की
+फुटेज
+खंगाली
+तो
+,
+एक
+नकाबपोश
+की
+फुटेज
+कैद
+हो
+गई
+.
 
-सीसीटीवी	JJ	TEMP	O	O	O	O
-कैमरों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-चोरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-साढ़े	NNP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-घंटे	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अंजाम	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सीसीटीवी
+कैमरों
+के
+अनुसार
+चोरों
+ने
+घटना
+को
+करीब
+साढ़े
+तीन
+घंटे
+में
+अंजाम
+दिया
+है
+.
 
-घटना	NN	TEMP	I-MISC	O	B-MISC	OCC
-स्थल	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सेक्टर-	NN	TEMP	O	O	O	O
-65	QC	TEMP	O	O	O	O
-क्राइम	XC	TEMP	O	O	O	O
-ब्रांच	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दौरा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घटना
+स्थल
+का
+सेक्टर-
+65
+क्राइम
+ब्रांच
+की
+टीम
+ने
+भी
+दौरा
+किया
+.
 
-चावला	NN	TEMP	O	O	O	O
-कॉलोनी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-दुकानों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चावला
+कॉलोनी
+में
+तीन
+दुकानों
+में
+चोरी
+हुई
+है
+.
 
-हमने	PRP	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हमने
+चोरी
+का
+मामला
+दर्ज
+कर
+जांच
+शुरू
+कर
+दी
+है
+.
 
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-आरोपियों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-सुराग	NN	TEMP	B-MISC	O	O	O
-हाथ	NN	TEMP	I-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अभी
+तक
+आरोपियों
+का
+कोई
+सुराग
+हाथ
+नहीं
+लगा
+है
+.
 
-माल	NN	TEMP	O	O	O	O
-कितना	QF	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-इस	PRP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-कहा	VM	TEMP	O	O	I-MISC	O
-जा	VAUX	TEMP	O	O	I-MISC	O
-सकता	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+माल
+कितना
+चोरी
+हुआ
+है
+,
+इस
+बारे
+में
+अभी
+कुछ
+नहीं
+कहा
+जा
+सकता
+.
 
-दुकानदार	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-समान	JJ	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-सूची	NN	TEMP	O	O	O	O
-तैयार	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दुकानदार
+अपने
+समान
+चोरी
+होने
+की
+सूची
+तैयार
+कर
+रहे
+हैं
+.
 
-सूची	NN	TEMP	B-MISC	O	O	O
-मिलने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सूची
+मिलने
+के
+बाद
+ही
+कुछ
+कहा
+जा
+सकता
+है
+.
 
--बलबीर	RDP	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-इंचार्ज	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-चावला	NN	TEMP	O	O	O	O
-कॉलोनी	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-चौकी	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+-बलबीर
+¨
+सह
+,
+इंचार्ज
+,
+चावला
+कॉलोनी
+पुलिस
+चौकी
+.
 
-तीन	QC	TEMP	O	B	O	O
-दुकानों	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-हो	VM	TEMP	B-MISC	O	B-MISC	OCC
-चुकी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-चोरी	NN	TEMP	B-MISC	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-महीने	NN	TEMP	O	I	O	O
-बस	RP	TEMP	O	O	O	O
-अड्डा	NN	TEMP	O	O	O	O
-मार्केट	NN	TEMP	O	O	O	O
-राष्ट्रीय	JJ	TEMP	O	O	O	O
-राजमार्ग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-मोबाइल	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-दुकानों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-छत	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रास्ते	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-सेंधमारी	NN	TEMP	B-MISC	O	B-MISC	O
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-चोर	NN	TEMP	O	O	O	O
-लाखों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तीन
+दुकानों
+में
+पहले
+भी
+हो
+चुकी
+है
+चोरी
+पिछले
+महीने
+बस
+अड्डा
+मार्केट
+राष्ट्रीय
+राजमार्ग
+के
+पास
+मोबाइल
+की
+तीन
+दुकानों
+से
+छत
+के
+रास्ते
+ही
+सेंधमारी
+करके
+चोर
+लाखों
+रुपये
+के
+मोबाइल
+फोन
+और
+अन्य
+सामान
+चोरी
+करके
+ले
+गए
+थे
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-दुकानों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चोरी	NN	TEMP	O	O	B-STAT	DES
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-चोरों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-लगा	VM	TEMP	I-MISC	O	I-MISC	O
-पाई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+अभी
+तक
+इन
+दुकानों
+से
+चोरी
+करने
+वाले
+चोरों
+का
+भी
+पता
+नहीं
+लगा
+पाई
+है
+.
 
-इसी	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-तिगांव	NN	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बिजली	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चोर	NN	TEMP	O	O	O	O
-सेंध	NN	TEMP	B-MISC	O	O	O
-मारी	NN	TEMP	I-MISC	O	B-MISC	O
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-लाखों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-चुराकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-ले	VAUX	TEMP	B-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+तरह
+से
+तिगांव
+रोड
+पर
+भी
+एक
+बिजली
+की
+दुकान
+से
+चोर
+सेंध
+मारी
+करके
+लाखों
+रुपये
+का
+सामान
+चुराकर
+ले
+गए
+.
 
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आए	VM	TEMP	O	O	B-MISC	O
-दिन	NN	TEMP	O	O	O	O
-चोरी	NN	TEMP	B-MISC	O	O	OCC
-की	PSP	TEMP	I-MISC	O	O	O
-घटनाएं	NN	TEMP	I-MISC	O	B-MISC	OCC
-बढ़	NN	TEMP	B-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शहर
+में
+आए
+दिन
+चोरी
+की
+घटनाएं
+बढ़
+रही
+हैं
+.

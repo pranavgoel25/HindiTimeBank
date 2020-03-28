@@ -1,219 +1,219 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पालमपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-निर्वाचन	JJ	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-उडनदस्ते	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मंगलवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-नूरपुर	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समीप	NST	TEMP	O	O	O	O
-जसूर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नाके	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-46	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-460	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿संवाद
+सहयोगी
+,
+पालमपुर
+:
+निर्वाचन
+विभाग
+के
+उडनदस्ते
+ने
+मंगलवार
+को
+नूरपुर
+के
+समीप
+जसूर
+में
+नाके
+के
+दौरान
+3
+लाख
+,
+46
+हजार
+,
+460
+रुपये
+की
+नकदी
+बरामद
+की
+है
+.
 
-उडनदस्ते	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रभारी	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-विद्युत	XC	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सहायक	JJ	TEMP	O	O	O	O
-अभियंता	NN	TEMP	O	O	O	O
-राजीव	XC	TEMP	O	O	O	O
-महाजन	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नेतृत्व	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जसूर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नाके	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-जीप	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-एचपी	XC	TEMP	O	O	O	O
-53	QC	TEMP	O	O	O	O
-ए	SYM	TEMP	O	O	O	O
-1062	QC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रोका	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+उडनदस्ते
+के
+प्रभारी
+एवं
+विद्युत
+बोर्ड
+के
+सहायक
+अभियंता
+राजीव
+महाजन
+के
+नेतृत्व
+में
+टीम
+ने
+जसूर
+में
+नाके
+के
+दौरान
+जीप
+(
+एचपी
+53
+ए
+1062
+)
+को
+रोका
+.
 
-इस	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-तलाशी	NN	TEMP	B-MISC	O	B-MISC	OCC
-ली	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-जीप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-शम्मी	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-बैजनाथ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-3	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-46	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-460	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बरामद	VM	TEMP	B-MISC	O	B-MISC	OCC
-किए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+दौरान
+जब
+तलाशी
+ली
+तो
+जीप
+में
+सवार
+शम्मी
+कुमार
+निवासी
+बैजनाथ
+से
+3
+लाख
+,
+46
+हजार
+,
+460
+रुपये
+बरामद
+किए
+.
 
-टीम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सुशील	JJ	TEMP	O	O	O	O
-कटोच	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-नरेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-शामिल	JJ	TEMP	O	O	B-STAT	DEC
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+टीम
+में
+पुलिस
+विभाग
+के
+सुशील
+कटोच
+व
+नरेश
+कुमार
+शामिल
+थे
+.
 
-...................	XC	TEMP	O	O	O	O
-एलआइसी	NNP	TEMP	O	O	O	O
-अभिकर्ता	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ढाई	QF	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	O	O
-जवाली	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सर्विलेंस	JJ	TEMP	O	O	O	O
-इस्पेक्टर	NN	TEMP	O	O	O	O
-भारती	XC	TEMP	O	O	O	O
-पुन्नी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नेतृत्व	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मैरा	XC	TEMP	O	O	O	O
-फाटक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लगाए	VM	TEMP	O	O	B-STAT	DESC
-गए	VAUX	TEMP	O	O	I-STAT	O
-नाके	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-स्कूटी	NN	TEMP	O	O	O	O
-सवार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ढाई	QF	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नकदी	NN	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+...................
+एलआइसी
+अभिकर्ता
+से
+ढाई
+लाख
+बरामद
+जवाली
+:
+सर्विलेंस
+इस्पेक्टर
+भारती
+पुन्नी
+के
+नेतृत्व
+में
+मैरा
+फाटक
+में
+लगाए
+गए
+नाके
+के
+दौरान
+स्कूटी
+सवार
+से
+ढाई
+लाख
+की
+नकदी
+बरामद
+की
+है
+.
 
-स्कूटी	NN	TEMP	O	O	O	O
-चालक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कैश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पूछा	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-एलआइसी	JJ	TEMP	O	O	O	O
-अभिकर्ता	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-तथा	CC	TEMP	O	O	O	O
-किस्तों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जमा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करवाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-जा	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+स्कूटी
+चालक
+से
+कैश
+के
+बारे
+में
+पूछा
+तो
+उसने
+बताया
+कि
+वह
+एलआइसी
+अभिकर्ता
+है
+तथा
+किस्तों
+को
+जमा
+करवाने
+के
+लिए
+जा
+रहा
+है
+.
 
-दस्तावेज	NN	TEMP	O	O	O	O
-सही	JJ	TEMP	B-MISC	O	B-MISC	OCC
-पाए	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-छोड	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दस्तावेज
+सही
+पाए
+जाने
+पर
+उसे
+छोड
+दिया
+गया
+.
 
-सर्विलेंस	NN	TEMP	O	O	O	O
-इस्पेक्टर	NN	TEMP	O	O	O	O
-भारती	XC	TEMP	O	O	O	O
-पुन्नी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-अभियान	NN	TEMP	B-MISC	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-STAT	O
-है	VM	TEMP	I-MISC	O	I-STAT	O
-व	CC	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-वीडियोग्राफी	NN	TEMP	O	O	O	OCC
-भी	RP	TEMP	O	O	O	O
-की	VM	TEMP	O	O	B-MISC	OCC
-जा	VAUX	TEMP	O	O	I-MISC	O
-रही	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सर्विलेंस
+इस्पेक्टर
+भारती
+पुन्नी
+ने
+कहा
+कि
+यह
+अभियान
+लगातार
+जारी
+है
+व
+इसकी
+वीडियोग्राफी
+भी
+की
+जा
+रही
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-यशवंत	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-गुलशन	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-दल	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	O
-रहा	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इस
+मौके
+पर
+यशवंत
+सिंह
+व
+गुलशन
+कुमार
+सहित
+पुलिस
+दल
+भी
+मौजूद
+रहा
+.

@@ -1,219 +1,219 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-संगरूर	NN	TEMP	O	O	O	O
-विजिलेंस	XC	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-संगरूर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सर्किल	NN	TEMP	O	O	O	O
-सकरौदी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पटवारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-रिश्वत	NN	TEMP	B-MISC	O	B-MISC	OCC
-लेते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-रंगे	JJ	TEMP	O	O	O	O
-हाथों	NN	TEMP	O	O	O	O
-गिरफ्तार	VM	TEMP	B-MISC	O	B-MISC	OCC
-किया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
+,
+संगरूर
+विजिलेंस
+टीम
+ने
+जिला
+संगरूर
+के
+सर्किल
+सकरौदी
+के
+पटवारी
+को
+पांच
+हजार
+रुपये
+रिश्वत
+लेते
+हुए
+रंगे
+हाथों
+गिरफ्तार
+किया
+.
 
-पटवारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-आवेदक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इंतकाल	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-एवज	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-रिश्वत	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पटवारी
+ने
+एक
+आवेदक
+से
+जमीन
+का
+इंतकाल
+दर्ज
+करने
+के
+एवज
+में
+पांच
+हजार
+रुपये
+रिश्वत
+की
+मांग
+की
+थी
+.
 
-विजिलेंस	XC	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पटवारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विजिलेंस
+टीम
+ने
+पटवारी
+के
+खिलाफ
+मामला
+दर्ज
+कर
+कार्रवाई
+शुरू
+कर
+दी
+है
+.
 
-जानकारी	NN	TEMP	O	O	B-MISC	OCC
-देते	VM	TEMP	O	O	I-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-डीएसपी	XC	TEMP	O	O	O	O
-विजिलेंस	XC	TEMP	O	O	O	O
-संगरूर	NN	TEMP	O	O	O	O
-हंस	VM	TEMP	O	O	O	O
-राज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-शिकायतकर्ता	NN	TEMP	O	O	O	O
-सतगुर	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	PSP	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-भानीखेडी	NN	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-फतेहबाद	JJ	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-हरियाणा	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-बंत	XC	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-भानीखेडा	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मौसी	NN	TEMP	O	O	O	O
-गुरदेव	XC	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-इंद्र	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	PSP	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-घराचों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-5.19	QC	TEMP	O	O	O	O
-कनाल	NN	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जानकारी
+देते
+हुए
+डीएसपी
+विजिलेंस
+संगरूर
+हंस
+राज
+ने
+बताया
+कि
+शिकायतकर्ता
+सतगुर
+¨
+सह
+निवासी
+भानीखेडी
+जिला
+फतेहबाद
+(
+हरियाणा
+)
+की
+मां
+बंत
+कौर
+निवासी
+भानीखेडा
+व
+मौसी
+गुरदेव
+कौर
+पत्नी
+इंद्र
+¨
+सह
+निवासी
+घराचों
+की
+5.19
+कनाल
+जमीन
+मौजूद
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-3	QC	TEMP	O	B	O	O
-अक्टूबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-शिकायतकर्ता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रजिस्ट्री	NN	TEMP	B-MISC	O	B-MISC	OCC
-करवाई	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+जमीन
+की
+3
+अक्टूबर
+को
+शिकायतकर्ता
+ने
+रजिस्ट्री
+करवाई
+थी
+.
 
-सतगुर	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-मामा	NN	TEMP	O	O	O	O
-जगरूप	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-अनपढ़	NNP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-,	SYM	TEMP	O	O	O	O
-जिसके	PRP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-जमीन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इंतकाल	NN	TEMP	O	O	O	O
-मामा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करवाने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-सतगुर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-पटवारी	NN	TEMP	O	O	O	O
-प्रेम	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-उर्फ	XC	TEMP	O	O	O	O
-पप्पू	XC	TEMP	O	O	O	O
-सर्किल	NNP	TEMP	O	O	O	O
-सकरौदी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-गया	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-पटवारी	JJ	TEMP	O	O	O	O
-प्रेम	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सतगुर	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इंतकाल	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बदले	JJ	TEMP	O	O	O	O
-पांच	XC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-रिश्वत	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सतगुर
+¨
+सह
+का
+मामा
+जगरूप
+¨
+सह
+अनपढ़
+है
+,
+जिसके
+चलते
+जमीन
+का
+इंतकाल
+मामा
+के
+नाम
+दर्ज
+करवाने
+के
+लिए
+सतगुर
+¨
+सह
+पटवारी
+प्रेम
+कुमार
+उर्फ
+पप्पू
+सर्किल
+सकरौदी
+के
+पास
+गया
+तो
+पटवारी
+प्रेम
+कुमार
+ने
+सतगुर
+¨
+सह
+से
+इंतकाल
+दर्ज
+करने
+के
+बदले
+पांच
+हजार
+रुपये
+रिश्वत
+की
+मांग
+की
+.
 
-विजिलेंस	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पटवारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गवाहों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मौजूदगी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-रिश्वत	NN	TEMP	B-MISC	O	B-MISC	OCC
-लेते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गिरफ्तार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विजिलेंस
+विभाग
+की
+टीम
+ने
+पटवारी
+को
+गवाहों
+को
+मौजूदगी
+में
+पांच
+हजार
+रुपये
+रिश्वत
+लेते
+हुए
+गिरफ्तार
+कर
+लिया
+.
 
-उसके	PRP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-विजिलेंस	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+खिलाफ
+मामला
+दर्ज
+कर
+विजिलेंस
+विभाग
+ने
+कार्रवाई
+शुरू
+कर
+दी
+.

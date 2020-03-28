@@ -1,338 +1,338 @@
-.	SYM	TEMP	O	O	O	O
+.
 
-सात	QC	TEMP	O	O	O	O
-निश्चय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-आर्थिक	JJ	TEMP	O	O	O	O
-हल	NN	TEMP	O	O	O	O
-युवाओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बल	NN	TEMP	O	O	O	O
-कार्यक्रम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-निबंधन	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-परामर्श	JJ	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-सहायक	JJ	TEMP	O	O	O	O
-योजनाएं	NN	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-स्टूडेंट	XC	TEMP	O	O	O	O
-क्रेडिट	XC	TEMP	O	O	O	O
-कार्ड	XC	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मुख्यमंत्री	JJ	TEMP	O	O	O	O
-निश्चय	NN	TEMP	O	O	O	O
-स्वयं	PRP	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-भत्ता	NN	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कुशल	JJ	TEMP	O	O	O	O
-युवा	JJ	TEMP	O	O	O	O
-कार्यक्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-बेहतर	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सात
+निश्चय
+में
+से
+एक
+आर्थिक
+हल
+युवाओं
+को
+बल
+कार्यक्रम
+के
+तहत
+जिला
+निबंधन
+एवं
+परामर्श
+केंद्र
+द्वारा
+तीन
+सहायक
+योजनाएं
+बिहार
+स्टूडेंट
+क्रेडिट
+कार्ड
+योजना
+,
+मुख्यमंत्री
+निश्चय
+स्वयं
+सहायता
+भत्ता
+योजना
+व
+कुशल
+युवा
+कार्यक्रम
+में
+जिले
+की
+स्थिति
+बेहतर
+है
+.
 
-बिहार	NNP	TEMP	O	O	O	O
-स्टूडेंट	XC	TEMP	O	O	O	O
-क्रेडिट	XC	TEMP	O	O	O	O
-कार्ड	XC	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-निबंधन	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-परामर्श	JJ	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अबतक	JJ	TEMP	O	O	O	O
-1485	QC	TEMP	O	O	O	O
-छात्रों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उच्च	JJ	TEMP	O	O	O	O
-शिक्षा	NN	TEMP	O	O	O	OCC
-हासिल	NN	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ऋण	NN	TEMP	B-MISC	O	B-MISC	O
-पाने	VM	TEMP	I-MISC	O	I-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बिहार
+स्टूडेंट
+क्रेडिट
+कार्ड
+योजना
+के
+तहत
+जिला
+निबंधन
+एवं
+परामर्श
+केंद्र
+में
+अबतक
+1485
+छात्रों
+ने
+उच्च
+शिक्षा
+हासिल
+करने
+के
+लिए
+ऋण
+पाने
+के
+लिए
+आवेदन
+किए
+हैं
+.
 
-प्राप्त	JJ	TEMP	O	O	O	O
-आवेदन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-842	QC	TEMP	O	O	O	O
-आवेदनों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-पूरी	JJ	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-निबंधन	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-परामर्श	JJ	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कर	VM	TEMP	B-MISC	O	B-MISC	OCC
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्राप्त
+आवेदन
+में
+से
+842
+आवेदनों
+की
+जांच
+पूरी
+तरह
+जिला
+निबंधन
+एवं
+परामर्श
+केंद्र
+ने
+कर
+ली
+है
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उच्च	JJ	TEMP	O	O	O	O
-शिक्षा	NN	TEMP	O	O	O	O
-ग्रहण	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-इच्छुक	JJ	TEMP	O	O	O	O
-विद्यार्थियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-समस्या	NN	TEMP	O	O	O	O
-आडे	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-आए	VM	TEMP	I-MISC	O	I-MISC	O
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-248	QC	TEMP	O	O	O	O
-छात्रों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-2.5	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-ऋण	NN	TEMP	B-MISC	O	B-MISC	O
-दिलाया	VM	TEMP	I-MISC	O	I-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+से
+उच्च
+शिक्षा
+ग्रहण
+करने
+के
+इच्छुक
+विद्यार्थियों
+के
+सामने
+पैसे
+की
+समस्या
+आडे
+न
+आए
+इसके
+लिए
+248
+छात्रों
+को
+बैंक
+से
+2.5
+करोड
+रुपए
+ऋण
+दिलाया
+जा
+चुका
+है
+.
 
-यह	DEM	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-रविवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-डीएम	NN	TEMP	O	O	B-MISC	O
-डॉ	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+जानकारी
+रविवार
+को
+डीएम
+डॉ
+.
 
-त्यागराजन	NNP	TEMP	O	O	O	O
-एसएम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	B-MISC	O	B-MISC	-1
-.	SYM	TEMP	O	O	O	O
+त्यागराजन
+एसएम
+ने
+दी
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-निबंधन	NN	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोडल	JJ	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
-वरीय	JJ	TEMP	O	O	O	O
-उप	DEM	TEMP	O	O	O	O
-समाहर्ता	NN	TEMP	O	O	O	O
-बृजेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-परिश्रम	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-परिणाम	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-योजना	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	NN	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	O	O	O	O
-4142	QC	TEMP	O	O	O	O
-आवेदनों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-38	QC	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-विद्यार्थियों	NN	TEMP	O	O	O	O
-नौकरी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-आदि	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आर्थिक	JJ	TEMP	O	O	O	O
-परेशानी	NN	TEMP	B-MISC	O	B-MISC	O
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-आए	VM	TEMP	I-MISC	O	I-MISC	O
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-1.90	QC	TEMP	O	O	O	O
-करोड	XC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-वितरित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+जिला
+निबंधन
+केंद्र
+के
+नोडल
+पदाधिकारी
+वरीय
+उप
+समाहर्ता
+बृजेश
+कुमार
+तथा
+प्रबंधक
+के
+परिश्रम
+का
+परिणाम
+है
+कि
+इस
+योजना
+के
+तहत
+प्राप्त
+4142
+आवेदनों
+में
+38
+सौ
+विद्यार्थियों
+नौकरी
+के
+लिए
+आवेदन
+करने
+आदि
+में
+आर्थिक
+परेशानी
+न
+आए
+इसके
+लिए
+1.90
+करोड
+रुपए
+वितरित
+किया
+जा
+चुका
+है
+.
 
-इसी	DEM	TEMP	O	O	O	O
-प्रकार	NN	TEMP	O	O	O	O
-कुशल	JJ	TEMP	O	O	O	O
-युवा	JJ	TEMP	O	O	O	O
-कार्यक्रम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-स्वारोजगार	NN	TEMP	O	O	O	O
-परक	JJ	TEMP	O	O	O	O
-तकनीकी	JJ	TEMP	O	O	O	O
-शिक्षा	NN	TEMP	O	O	O	O
-हासिल	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-9084	QC	TEMP	O	O	O	O
-बेरोजगार	NN	TEMP	O	O	O	O
-युवाकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	B-MISC	O
-दिए	VM	TEMP	I-MISC	O	I-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+प्रकार
+कुशल
+युवा
+कार्यक्रम
+के
+तहत
+लोग
+स्वारोजगार
+परक
+तकनीकी
+शिक्षा
+हासिल
+करने
+के
+लिए
+9084
+बेरोजगार
+युवाकों
+ने
+आवेदन
+दिए
+थे
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-7861	QC	TEMP	O	O	O	O
-आवेदनों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-निबंधन	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-परामर्श	JJ	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-निबंधन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+से
+7861
+आवेदनों
+का
+जिला
+निबंधन
+एवं
+परामर्श
+केंद्र
+द्वारा
+निबंधन
+किया
+जा
+चुका
+है
+.
 
-उसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-7799	QC	TEMP	O	O	O	O
-आवेदन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-निबंधन	NN	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-श्रम	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हस्तांतरित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसमें
+से
+7799
+आवेदन
+को
+जिला
+निबंधन
+केंद्र
+ने
+श्रम
+विभाग
+को
+हस्तांतरित
+कर
+दिया
+है
+.
 
-उसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-6438	QC	TEMP	O	O	O	O
-विद्यार्थी	NN	TEMP	O	O	O	O
-केवल	RP	TEMP	O	O	O	O
-नालंदा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-प्रखंडों	NN	TEMP	O	O	O	O
-कुशल	JJ	TEMP	O	O	O	O
-युवा	JJ	TEMP	O	O	O	O
-कार्यक्रम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-प्रशिक्षण	NN	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसमें
+से
+6438
+विद्यार्थी
+केवल
+नालंदा
+के
+विभिन्न
+प्रखंडों
+कुशल
+युवा
+कार्यक्रम
+के
+तहत
+प्रशिक्षण
+प्राप्त
+कर
+रहे
+हैं
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-निबंधन	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-परामर्श	JJ	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोडल	JJ	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-कौशल	NN	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-प्रशिक्षण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-39	QC	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-खोले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+जिला
+निबंधन
+एवं
+परामर्श
+केंद्र
+के
+नोडल
+पदाधिकारी
+ने
+बताया
+कि
+कौशल
+विकास
+प्रशिक्षण
+के
+लिए
+39
+केंद्र
+खोले
+गए
+हैं
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-प्रखंड	XC	TEMP	O	O	O	O
-कार्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-स्थापित	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+से
+18
+विभिन्न
+प्रखंड
+कार्यालय
+में
+स्थापित
+है
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-मुख्यालय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-21	QC	TEMP	O	O	O	O
-प्रशिक्षण	NN	TEMP	O	O	O	O
-केंद्रों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रशिक्षण	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+जिला
+मुख्यालय
+में
+21
+प्रशिक्षण
+केंद्रों
+में
+प्रशिक्षण
+दिया
+जा
+रहा
+है
+.

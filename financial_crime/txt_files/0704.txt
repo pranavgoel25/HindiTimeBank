@@ -1,636 +1,636 @@
 
-देवरिया	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+देवरिया
+(
+जेएनएन
+)
+.
 
-देवरिया	NNP	TEMP	O	O	O	O
-जनपद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-मासूम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बेचने	VM	TEMP	B-MISC	O	B-MISC	OCC
-का	PSP	TEMP	O	O	O	O
-सनसनीखेज	JJ	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-सामने	NST	TEMP	O	O	B-MISC	OCC
-आया	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+देवरिया
+जनपद
+में
+एक
+मासूम
+को
+दस
+हजार
+रुपये
+में
+बेचने
+का
+सनसनीखेज
+मामला
+सामने
+आया
+है
+.
 
-उसका	PRP	TEMP	O	O	O	O
-सौदा	NN	TEMP	O	O	O	O
-कहीं	PRP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बल्कि	CC	TEMP	O	O	O	O
-सामुदायिक	JJ	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-सलेमपुर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-कर	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बेटे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मरने	VM	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-उसे	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसका
+सौदा
+कहीं
+और
+नहीं
+,
+बल्कि
+सामुदायिक
+स्वास्थ्य
+केंद्र
+सलेमपुर
+में
+ही
+कर
+दिया
+गया
+और
+मां
+को
+बेटे
+के
+मरने
+की
+जानकारी
+देकर
+उसे
+घर
+भेज
+दिया
+गया
+.
 
-जबकि	CC	TEMP	O	O	O	O
-मासूम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पिता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हाथों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-नगद	NN	TEMP	O	O	B-MISC	OCC
-थमा	VM	TEMP	B-MISC	O	I-MISC	O
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-मामले	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दबाने	VM	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-कह	VM	TEMP	B-MISC	O	B-MISC	REP
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+मासूम
+के
+पिता
+के
+हाथों
+में
+चार
+हजार
+रुपये
+नगद
+थमा
+कर
+मामले
+को
+दबाने
+की
+बात
+कह
+दी
+गई
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-भनक	NN	TEMP	B-MISC	O	O	O
-जब	PRP	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लगी	VM	TEMP	O	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-प्रधान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मासूम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कीमत	NN	TEMP	O	O	O	O
-चुका	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-मासूम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गोद	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+भनक
+जब
+गुरुवार
+को
+लगी
+तो
+ग्राम
+प्रधान
+के
+प्रयास
+से
+मासूम
+की
+कीमत
+चुका
+कर
+मासूम
+को
+मां
+की
+गोद
+में
+दे
+दिया
+गया
+.
 
-उधर	PRP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कान	NN	TEMP	B-MISC	O	O	O
-खड़े	JJ	TEMP	I-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराकर	VM	TEMP	B-MISC	O	I-MISC	O
-दोषियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कही	VM	TEMP	I-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उधर
+इस
+मामले
+की
+जानकारी
+होने
+के
+बाद
+स्वास्थ्य
+विभाग
+के
+अधिकारियों
+के
+भी
+कान
+खड़े
+हो
+गए
+हैं
+और
+इसकी
+जांच
+कराकर
+दोषियों
+के
+खिलाफ
+कार्रवाई
+करने
+की
+बात
+कही
+जा
+रही
+है
+.
 
-खुखुंदू	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-धनौती	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-अजय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-इंद्रावती	JJ	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	B	O	O
-अगस्त	NN	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-जन्म	NN	TEMP	O	O	B-MISC	OCC
-दी	VM	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खुखुंदू
+थाना
+क्षेत्र
+के
+ग्राम
+धनौती
+निवासी
+अजय
+की
+पत्नी
+इंद्रावती
+देवी
+ने
+10
+अगस्त
+को
+एक
+बच्चे
+को
+घर
+पर
+ही
+जन्म
+दी
+.
 
-उसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-आशा	NN	TEMP	O	O	O	O
-बहू	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-एंबुलेंस	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सामुदायिक	JJ	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-पहुंचाया	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसके
+बाद
+आशा
+बहू
+ने
+उसे
+एंबुलेंस
+से
+सामुदायिक
+स्वास्थ्य
+केंद्र
+पहुंचाया
+.
 
-उसी	DEM	TEMP	O	B	O	O
-शाम	NN	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-आशा	NN	TEMP	O	O	O	O
-बहू	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इंद्रावती	JJ	TEMP	O	O	O	O
-काे	NN	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मौत	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	REP
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-चलने	VM	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-कहने	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसी
+शाम
+को
+आशा
+बहू
+ने
+इंद्रावती
+काे
+बच्चे
+की
+मौत
+हो
+जाने
+की
+जानकारी
+दी
+और
+फिर
+घर
+चलने
+की
+बात
+कहने
+लगी
+.
 
-इसको	PRP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-आशा	NN	TEMP	O	O	O	O
-बहू	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इंद्रावती	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-विवाद	NN	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-अजय	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-हाथों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सौंप	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मुंह	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-STAT	O
-रखने	VM	TEMP	I-MISC	O	I-STAT	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	B-MISC	O
-कही	VM	TEMP	O	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इसको
+लेकर
+आशा
+बहू
+से
+इंद्रावती
+का
+विवाद
+हुआ
+तो
+वह
+चार
+हजार
+रुपये
+अजय
+के
+हाथों
+में
+सौंप
+दी
+और
+मुंह
+बंद
+रखने
+की
+बात
+कही
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-दंपती	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-चले	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+दंपती
+अपने
+घर
+चले
+गए
+.
 
-इंद्रावती	NNP	TEMP	O	O	O	O
-इसको	PRP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-परेशान	JJ	TEMP	O	O	B-STAT	OCC
-थी	VM	TEMP	O	O	I-STAT	O
-और	CC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चर्चा	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-लगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इंद्रावती
+इसको
+लेकर
+काफी
+परेशान
+थी
+और
+लोगों
+से
+चर्चा
+करने
+लगी
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-बेटे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आशा	NN	TEMP	O	O	O	O
-बहू	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-बेच	NN	TEMP	B-MISC	O	O	OCC
-देने	VM	TEMP	I-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कहने	VM	TEMP	I-MISC	O	B-MISC	OCC
-लगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+अपने
+बेटे
+को
+आशा
+बहू
+द्वारा
+बेच
+देने
+की
+बात
+कहने
+लगी
+.
 
-यह	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-जंगल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-तरह	NN	TEMP	B-MISC	O	O	OCC
-फैल	VM	TEMP	I-MISC	O	B-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-राकेश	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-दरवाजे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंच	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+बात
+जंगल
+में
+आग
+की
+तरह
+फैल
+गई
+और
+फिर
+ग्राम
+प्रधान
+राकेश
+सिंह
+भी
+उसके
+दरवाजे
+पर
+पहुंच
+गए
+.
 
-घटना	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-ली	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-आशा	NN	TEMP	O	O	O	O
-बहू	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूछताछ	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घटना
+की
+जानकारी
+ली
+और
+आशा
+बहू
+से
+पूछताछ
+की
+.
 
-आशा	NN	TEMP	O	O	O	O
-बहू	VM	TEMP	O	O	O	O
-उर्मिला	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-बेटे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बेच	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आशा
+बहू
+उर्मिला
+ने
+बताया
+कि
+उसने
+उसके
+बेटे
+को
+बेच
+दी
+है
+.
 
-ग्राम	XC	TEMP	O	O	O	O
-प्रधान	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-आशा	NN	TEMP	O	O	O	O
-बहू	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-भाटपाररानी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बेलपार	NN	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-पहुंचे	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-जिसको	PRP	TEMP	O	O	O	O
-बच्चा	NN	TEMP	O	O	O	O
-बेचा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-वापस	JJ	TEMP	O	O	B-MISC	OCC
-लाकर	VM	TEMP	O	O	I-MISC	O
-गुरुवार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दोपहर	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-इंद्रावती	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सौंप	VM	TEMP	O	O	B-MISC	OCC
-दिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ग्राम
+प्रधान
+समेत
+कई
+लोग
+आशा
+बहू
+को
+लेकर
+भाटपाररानी
+के
+बेलपार
+गांव
+पहुंचे
+और
+जिसको
+बच्चा
+बेचा
+गया
+था
+,
+उससे
+बच्चे
+को
+वापस
+लाकर
+गुरुवार
+की
+दोपहर
+को
+इंद्रावती
+को
+सौंप
+दिया
+.
 
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-छह	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-खुद	PRP	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-आशा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-इंद्रावती	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
-,	SYM	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-तीसरा	QO	TEMP	O	O	O	O
-बच्चा	NN	TEMP	O	O	O	O
-पैदा	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दस
+हजार
+में
+से
+छह
+हजार
+खुद
+ले
+ली
+आशा
+:
+इंद्रावती
+को
+दो
+बच्चे
+पहले
+से
+ही
+हैं
+,
+यह
+तीसरा
+बच्चा
+पैदा
+हुआ
+है
+.
 
-आशा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-भाटपाररानी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बेलपार	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-रिंकू	XC	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-दिलीप	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बेच	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आशा
+ने
+उसे
+भाटपाररानी
+के
+बेलपार
+निवासी
+रिंकू
+पत्नी
+दिलीप
+को
+दस
+हजार
+रुपये
+में
+ही
+अस्पताल
+में
+बेच
+दिया
+.
 
-जब	PRP	TEMP	O	O	O	O
-इंद्रावती	NNP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मौत	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रोने	VM	TEMP	O	O	B-MISC	OCC
-लगी	VAUX	TEMP	O	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-आशा	NN	TEMP	O	O	O	O
-बहू	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-दे	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-तुम्हारे	PRP	TEMP	O	O	O	O
-बच्चे	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हमने	PRP	TEMP	O	O	O	O
-बेच	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-तुम	PRP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-चुप	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-जाओ	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+इंद्रावती
+अपने
+बच्चे
+की
+मौत
+की
+सूचना
+पर
+रोने
+लगी
+तो
+आशा
+बहू
+ने
+उसे
+दस
+हजार
+रुपये
+में
+से
+चार
+हजार
+रुपये
+दे
+दिया
+और
+बताया
+कि
+तुम्हारे
+बच्चे
+को
+हमने
+बेच
+दिया
+है
+,
+अब
+तुम
+लोग
+चुप
+हो
+जाओ
+.
 
-अधिकारियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-की	VM	TEMP	O	O	B-STAT	O
-गई	VAUX	TEMP	O	O	I-STAT	O
-शिकायत	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-ग्राम	NN	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-राकेश	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-गलत	JJ	TEMP	O	O	O	O
-कार्य	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अधिकारियों
+से
+की
+गई
+शिकायत
+:
+ग्राम
+प्रधान
+राकेश
+सिंह
+ने
+कहा
+कि
+यह
+गलत
+कार्य
+हुआ
+है
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-जिलाधिकारी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-अधिकारियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-की	VM	TEMP	O	O	B-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+शिकायत
+जिलाधिकारी
+से
+लेकर
+अन्य
+अधिकारियों
+से
+की
+है
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-आशा	NN	TEMP	O	O	O	O
-बहू	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-कर्मियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-होनी	VM	TEMP	O	O	I-MISC	O
-चाहिए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+आशा
+बहू
+के
+साथ
+ही
+स्वास्थ्य
+कर्मियों
+के
+खिलाफ
+भी
+कार्रवाई
+होनी
+चाहिए
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-हुए	VM	TEMP	O	O	B-MISC	OCC
-होंगे	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-सख्ती	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-होनी	VM	TEMP	I-MISC	O	I-MISC	O
-चाहिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मामले	NN	TEMP	B-MISC	O	O	O
-सामने	NST	TEMP	I-MISC	O	B-MISC	OCC
-आ	VM	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+इस
+तरह
+के
+और
+भी
+मामले
+हुए
+होंगे
+,
+इसकी
+सख्ती
+से
+जांच
+होनी
+चाहिए
+और
+भी
+मामले
+सामने
+आ
+सकते
+हैं
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-मां	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बातों	NN	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	I-MISC	O	O	O
-आया	VM	TEMP	I-MISC	O	B-MISC	OCC
-गुस्सा	NN	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-आंखों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-घोंप	VM	TEMP	O	O	B-MISC	O
-दी	VAUX	TEMP	O	O	I-MISC	O
-कैंचीदोषी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-होगी	VM	TEMP	O	O	B-MISC	OCC
-कार्रवाई	NN	TEMP	O	O	B-MISC	O
-:	SYM	TEMP	O	O	O	O
-सामुदायिक	JJ	TEMP	O	O	O	O
-स्वास्थ्य	XC	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-सलेमपुर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अधीक्षक	JJ	TEMP	O	O	O	O
-डा	VM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+मां
+की
+बातों
+पर
+आया
+गुस्सा
+तो
+आंखों
+में
+घोंप
+दी
+कैंचीदोषी
+के
+खिलाफ
+होगी
+कार्रवाई
+:
+सामुदायिक
+स्वास्थ्य
+केंद्र
+सलेमपुर
+के
+अधीक्षक
+डा
+.
 
-सुरेंद्र	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-मेरे	PRP	TEMP	O	O	O	O
-संज्ञान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सुरेंद्र
+सिंह
+ने
+कहा
+कि
+यह
+मामला
+मेरे
+संज्ञान
+में
+नहीं
+है
+.
 
-अगर	CC	TEMP	O	O	O	O
-ऐसा	PRP	TEMP	O	O	O	O
-हुआ	VM	TEMP	B-MISC	O	B-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-बहुत	QF	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-गलत	JJ	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+ऐसा
+हुआ
+है
+तो
+यह
+बहुत
+ही
+गलत
+हुआ
+है
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-दोषी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+जांच
+कराई
+जाएगी
+और
+दोषी
+पर
+कार्रवाई
+की
+जाएगी
+.
 
-इस	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कार्य	NN	TEMP	O	O	B-STAT	OCC
-करने	VM	TEMP	O	O	I-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-किसी	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दशा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बख्शे	VM	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-जाएंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+तरह
+के
+कार्य
+करने
+वाले
+किसी
+भी
+दशा
+में
+बख्शे
+नहीं
+जाएंगे
+.
 
-यह	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-पढ़ें	JJ	TEMP	O	O	O	OCC
-:	SYM	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-मौत	NN	TEMP	O	O	O	O
-'	SYM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गेम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	O	O
-पूर्वांचल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दस्तक	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-रहें	VM	TEMP	O	O	O	O
-सावधान	NN	TEMP	O	O	O	O
+यह
+भी
+पढ़ें
+:
+'
+मौत
+'
+के
+गेम
+ने
+दी
+पूर्वांचल
+में
+दस्तक
+,
+रहें
+सावधान

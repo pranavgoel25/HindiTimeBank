@@ -1,429 +1,429 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हमीरपुर	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-माफी	JJ	TEMP	O	O	O	O
-प्रमाण-पत्र	NN	TEMP	O	O	O	O
-मिलते	VM	TEMP	B-MISC	O	B-MISC	OCC
-ही	RP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-होश	NN	TEMP	B-MISC	O	B-MISC	OCC
-उड	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+हमीरपुर
+:
+कर्ज
+माफी
+प्रमाण-पत्र
+मिलते
+ही
+करीब
+12
+से
+अधिक
+किसानों
+के
+होश
+उड
+गए
+.
 
-जब	PRP	TEMP	O	O	O	O
-उनको	PRP	TEMP	O	O	O	O
-मात्र	RB	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-माफी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-दिया	VM	TEMP	O	O	B-MISC	OCC
-गया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+उनको
+मात्र
+10
+रुपये
+या
+20
+रुपये
+माफी
+का
+प्रमाण
+पत्र
+दिया
+गया
+.
 
-किसान	NN	TEMP	O	O	O	O
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-मंच	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-आ	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किसान
+प्रमाण
+पत्र
+लेकर
+मंच
+के
+पास
+आ
+गए
+.
 
-अधिकारियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-समझाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-मानने	VM	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तैयार	JJ	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-हुए	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अधिकारियों
+के
+लाख
+समझाने
+के
+बाद
+किसान
+मानने
+को
+तैयार
+नहीं
+हुए
+.
 
-किसानों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-घेर	VM	TEMP	O	O	B-MISC	OCC
-लिया	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किसानों
+ने
+मंत्री
+को
+घेर
+लिया
+.
 
-मंत्री	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनको	PRP	TEMP	O	O	O	O
-आश्वस्त	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-माफ	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंत्री
+ने
+उनको
+आश्वस्त
+किया
+कि
+एक
+लाख
+तक
+का
+कर्ज
+माफ
+हुआ
+है
+.
 
-¨	JJ	TEMP	O	O	O	O
-प्र	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-टग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गलती	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-होगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+¨
+प्र
+¨
+टग
+में
+गलती
+हुई
+होगी
+.
 
-परेशान	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-जरूरत	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+परेशान
+होने
+की
+जरूरत
+नहीं
+है
+.
 
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जाकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लेना	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+में
+जाकर
+पता
+कर
+लेना
+.
 
-तब	PRP	TEMP	O	O	O	O
-जाकर	VM	TEMP	O	O	B-MISC	OCC
-किसानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चेहरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खुशी	NN	TEMP	O	O	B-MISC	OCC
-लौटी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तब
+जाकर
+किसानों
+के
+चेहरों
+की
+खुशी
+लौटी
+.
 
-प्रभारी	JJ	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-मन्नूलाल	JJ	TEMP	O	O	O	O
-कोरी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-45	QC	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-दिया	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+प्रभारी
+मंत्री
+मन्नूलाल
+कोरी
+ने
+45
+किसानों
+को
+प्रमाण
+पत्र
+दिया
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-प्रत्येक	QF	TEMP	O	O	O	O
-ब्लाक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीडीओ	XC	TEMP	O	O	O	O
-पंडाल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-वितरित	JJ	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+प्रत्येक
+ब्लाक
+के
+बीडीओ
+पंडाल
+में
+किसानों
+को
+प्रमाण
+पत्र
+वितरित
+किया
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+करीब
+12
+किसानों
+को
+सौ
+रुपए
+से
+कम
+का
+प्रमाण
+पत्र
+दिया
+गया
+.
 
-यह	PRP	TEMP	O	O	O	O
-देख	VM	TEMP	O	O	B-MISC	OCC
-किसानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चेहरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खुशी	NN	TEMP	B-MISC	O	B-MISC	OCC
-उड	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+देख
+किसानों
+के
+चेहरों
+की
+खुशी
+उड
+गई
+.
 
-यह	PRP	TEMP	O	O	O	O
-देख	VM	TEMP	B-MISC	O	B-MISC	OCC
-किसान	WQ	TEMP	O	O	O	O
-मंच	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-पहुंच	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+देख
+किसान
+मंच
+के
+पास
+पहुंच
+गए
+.
 
-जैसे	PRP	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-मंत्री	NN	TEMP	O	O	O	O
-मंच	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-नीचे	NST	TEMP	O	O	O	O
-उतरे	VM	TEMP	B-MISC	O	B-MISC	OCC
-वैसे	PRP	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनको	PRP	TEMP	O	O	O	O
-घेर	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जैसे
+ही
+प्रभारी
+मंत्री
+मंच
+से
+नीचे
+उतरे
+वैसे
+किसानों
+ने
+उनको
+घेर
+लिया
+.
 
-किसानों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-दिखाया	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+किसानों
+ने
+प्रमाण
+पत्र
+दिखाया
+.
 
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-देकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-प्र	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-टग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गलती	NN	TEMP	O	O	B-MISC	OCC
-हुई	VM	TEMP	O	O	I-MISC	O
-होगी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रमाण
+पत्र
+देकर
+कर
+उन्होंने
+कहा
+कि
+¨
+प्र
+¨
+टग
+में
+गलती
+हुई
+होगी
+.
 
-आप	PRP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-परेशान	JJ	TEMP	O	O	B-MISC	OCC
-न	NEG	TEMP	O	O	I-MISC	O
-हो	VM	TEMP	O	O	I-MISC	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जाकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-लेना	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आप
+लोग
+परेशान
+न
+हो
+बैंक
+में
+जाकर
+पता
+कर
+लेना
+.
 
-सभी	QF	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-माफ	JJ	TEMP	O	O	B-MISC	OCC
-हो	VM	TEMP	O	O	I-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सभी
+का
+एक
+लाख
+रुपए
+तक
+का
+कर्ज
+माफ
+हो
+गया
+है
+.
 
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-परेशानी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हो	VM	TEMP	O	O	O	O
-डीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+में
+पता
+करने
+के
+बाद
+अगर
+कोई
+परेशानी
+को
+हो
+डीएम
+से
+इसकी
+शिकायत
+करना
+.
 
-घबराने	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-आवश्यकता	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घबराने
+की
+आवश्यकता
+नहीं
+है
+.
 
-किसान	NN	TEMP	O	O	O	O
-शांति	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-उमरी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-डेढ़	NNP	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किसान
+शांति
+निवासी
+उमरी
+ने
+बताया
+कि
+उसने
+बैंक
+से
+डेढ़
+लाख
+का
+कर्ज
+लिया
+है
+.
 
-उसको	PRP	TEMP	O	O	O	O
-मात्र	RB	TEMP	O	O	O	O
-दस	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-37	QC	TEMP	O	O	O	O
-पैसे	NN	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-माफी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसको
+मात्र
+दस
+रुपए
+37
+पैसे
+कर्ज
+माफी
+का
+प्रमाण
+पत्र
+दिया
+गया
+.
 
-इसी	DEM	TEMP	O	O	O	O
-प्रकार	NN	TEMP	O	O	O	O
-मुन्नी	NN	TEMP	O	O	O	O
-लाल	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+प्रकार
+मुन्नी
+लाल
+ने
+बताया
+कि
+उसने
+40
+हजार
+का
+कर्ज
+लिया
+है
+.
 
-उसको	PRP	TEMP	O	O	O	O
-215	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसको
+215
+रुपए
+का
+प्रमाण
+पत्र
+दिया
+गया
+.
 
-इसी	DEM	TEMP	O	O	O	O
-प्रकार	NN	TEMP	O	O	O	O
-नदेहरा	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-यूनुस	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-66	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कर्ज	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-उसको	PRP	TEMP	O	O	O	O
-मात्र	RB	TEMP	O	O	O	O
-36	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-दिया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+प्रकार
+नदेहरा
+गांव
+निवासी
+यूनुस
+ने
+66
+हजार
+का
+कर्ज
+किया
+उसको
+मात्र
+36
+रुपए
+का
+प्रमाण
+पत्र
+दिया
+गया
+.
 
-इसी	DEM	TEMP	O	O	O	O
-प्रकार	NN	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-किसानों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-बांटा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+प्रकार
+अन्य
+किसानों
+को
+भी
+सौ
+रुपए
+से
+कम
+का
+प्रमाण
+पत्र
+बांटा
+गया
+.
 
-इस	DEM	TEMP	O	O	O	O
-संबंध	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-जिलाधिकारी	NN	TEMP	O	O	O	O
-कुंजविहारी	JJ	TEMP	O	O	O	O
-अग्रवाल	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-सूची	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-उसी	DEM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-प्रमाण	NN	TEMP	O	O	O	O
-पत्र	NN	TEMP	O	O	O	O
-बनाए	VM	TEMP	O	O	B-MISC	OCC
-गए	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+संबंध
+में
+प्रभारी
+जिलाधिकारी
+कुंजविहारी
+अग्रवाल
+ने
+कहा
+कि
+बैंक
+की
+ओर
+से
+जो
+सूची
+दी
+गई
+है
+उसी
+के
+आधार
+पर
+प्रमाण
+पत्र
+बनाए
+गए
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-अगर	CC	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-प्र	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-टग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गलती	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-सही	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराया	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+को
+देखा
+जाएगा
+अगर
+¨
+प्र
+¨
+टग
+में
+गलती
+हुई
+है
+तो
+सही
+कराया
+जाएगा
+.

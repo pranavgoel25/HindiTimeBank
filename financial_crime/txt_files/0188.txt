@@ -1,214 +1,214 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-हाथरस	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-गुरुवार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-देर	JJ	TEMP	O	B	O	O
-रात	NN	TEMP	O	I	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	DESC
-तीन	QC	TEMP	O	O	O	O
-शातिरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रेडीमेड	XC	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तमंचे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बट	NN	TEMP	O	O	O	O
-मारकर	VM	TEMP	B-MISC	O	B-MISC	O
-घायल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-26	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-लूटकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-भाग	NN	TEMP	B-MISC	O	B-MISC	O
-जाने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-सफल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हाथरस
+:
+गुरुवार
+की
+देर
+रात
+बाइक
+सवार
+तीन
+शातिरों
+ने
+रेडीमेड
+व्यापारी
+को
+तमंचे
+की
+बट
+मारकर
+घायल
+कर
+दिया
+और
+उनसे
+करीब
+26
+हजार
+रुपया
+लूटकर
+भाग
+जाने
+में
+सफल
+हो
+गए
+.
 
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	O	O	B-MISC	OCC
-इलाका	NN	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दे	VM	TEMP	O	O	B-MISC	-1
-दी	VAUX	TEMP	O	O	I-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-थी	VAUX	TEMP	O	O	I-MISC	O
-मगर	CC	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+मामले
+की
+सूचना
+इलाका
+पुलिस
+को
+दे
+दी
+गई
+थी
+मगर
+रिपोर्ट
+दर्ज
+नहीं
+हुई
+है
+.
 
-कोतवाली	JJ	TEMP	O	O	O	O
-हाथरस	NN	TEMP	O	O	O	O
-जंक्शन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-राजपुर	NNP	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-अवधेश	XC	TEMP	O	O	O	O
-अग्निहोत्री	NNP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-मुरारीलाल	JJ	TEMP	O	O	O	O
-अग्निहोत्री	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कस्बा	NN	TEMP	O	O	O	O
-हाथरस	XC	TEMP	O	O	O	O
-जंक्शन	XC	TEMP	O	O	O	O
-पुल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नीचे	NST	TEMP	O	O	O	O
-रेडीमेड	JJ	TEMP	O	O	O	O
-कपडों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+कोतवाली
+हाथरस
+जंक्शन
+के
+गांव
+राजपुर
+निवासी
+अवधेश
+अग्निहोत्री
+पुत्र
+मुरारीलाल
+अग्निहोत्री
+की
+कस्बा
+हाथरस
+जंक्शन
+पुल
+के
+नीचे
+रेडीमेड
+कपडों
+की
+दुकान
+है
+.
 
-वह	PRP	TEMP	O	O	O	O
-प्रतिदिन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भांति	PSP	TEMP	O	O	O	O
-रात	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	IAC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-वापस	JJ	TEMP	O	O	O	O
-घर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-जा	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
+वह
+प्रतिदिन
+की
+भांति
+रात
+को
+अपनी
+दुकान
+बंद
+कर
+वापस
+घर
+के
+लिए
+जा
+रहे
+थे
 
-तभी	PRP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-प्राइमरी	JJ	TEMP	O	O	O	O
-स्कूल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	B-STAT	DESC
-तीन	QC	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-मिले	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+तभी
+गांव
+से
+पहले
+स्थित
+प्राइमरी
+स्कूल
+के
+पास
+एक
+बाइक
+पर
+सवार
+तीन
+लोग
+मिले
+.
 
-इन	DEM	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-रेडीमेड	XC	TEMP	O	O	O	O
-कपडा	NN	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रोका	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-पूछा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+लोगों
+ने
+रेडीमेड
+कपडा
+व्यापारी
+को
+रोका
+और
+उनसे
+पता
+पूछा
+.
 
-पता	JJ	TEMP	B-MISC	O	B-MISC	O
-बताने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-अनभिज्ञता	NN	TEMP	B-MISC	O	B-MISC	OCC
-जताई	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-बाइक	JJ	TEMP	O	O	O	O
-सवारों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-तमंचे	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बट	JJ	TEMP	O	O	O	O
-प्रहार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-उनसे	PRP	TEMP	O	O	O	O
-थैला	NN	TEMP	O	O	O	O
-छीनकर	VM	TEMP	B-MISC	O	B-MISC	O
-भाग	NN	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-सफल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पता
+बताने
+में
+उन्होंने
+अनभिज्ञता
+जताई
+तो
+बाइक
+सवारों
+ने
+उनके
+साथ
+मारपीट
+की
+और
+तमंचे
+की
+बट
+प्रहार
+कर
+उनसे
+थैला
+छीनकर
+भाग
+जाने
+में
+सफल
+हो
+गए
+.
 
-उसमें	PRP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-नौ	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	B-STAT	OCC
-हुए	VAUX	TEMP	O	O	I-STAT	O
-थे	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+उसमें
+25
+हजार
+नौ
+रुपये
+रखे
+हुए
+थे
+.
 
-मारपीट	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रुपये	NN	TEMP	O	O	O	O
-लूटे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	O	O	O	OCC
-उन्होंने	PRP	TEMP	O	O	O	O
-तत्काल	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	I-MISC	-1
-.	SYM	TEMP	O	O	O	O
+मारपीट
+कर
+रुपये
+लूटे
+जाने
+की
+सूचना
+उन्होंने
+तत्काल
+पुलिस
+को
+दी
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आ	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+व
+गांव
+के
+लोग
+भी
+मौके
+पर
+आ
+गए
+.
 
-बाइक	JJ	TEMP	O	O	O	O
-सवारों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तलाशा	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-लेकिन	CC	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-सुराग	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-मिला	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाइक
+सवारों
+को
+तलाशा
+गया
+लेकिन
+उनका
+कोई
+भी
+सुराग
+नहीं
+मिला
+.

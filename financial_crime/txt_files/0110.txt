@@ -1,326 +1,326 @@
-﻿औरंगाबाद	NNP	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿औरंगाबाद
+.
 
-सहकारिता	XC	TEMP	O	O	O	O
-बैंक	XC	TEMP	O	O	O	O
-लिमिटेड	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-कोऑपरेटिव	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बकायदारों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूची	NN	TEMP	O	O	B-MISC	OCC
-तैयार	JJ	TEMP	B-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सहकारिता
+बैंक
+लिमिटेड
+(
+कोऑपरेटिव
+बैंक
+)
+ने
+बकायदारों
+की
+सूची
+तैयार
+की
+है
+.
 
-बैंक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-करोडों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-किसान	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-व्यवसायियों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	B-STAT	DECL
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+का
+करोडों
+रुपये
+किसान
+एवं
+व्यवसायियों
+पर
+बकाया
+है
+.
 
-रकम	NN	TEMP	B-MISC	O	O	O
-जमा	JJ	TEMP	I-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-से	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-डगमगा	VM	TEMP	B-MISC	O	B-MISC	OCC
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रकम
+जमा
+न
+होने
+से
+बैंक
+की
+स्थिति
+डगमगा
+रही
+है
+.
 
-हालात	NN	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-कि	CC	TEMP	O	O	O	O
-कब	WQ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-कब	WQ	TEMP	O	O	O	O
-बंद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
+हालात
+यह
+है
+कि
+कब
+बैंक
+कब
+बंद
+हो
+जाएगा
 
-कहा	VM	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कहा
+नहीं
+जा
+सकता
+.
 
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बकाएदारों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूची	NN	TEMP	O	O	O	O
-प्रकाशित	JJ	TEMP	B-MISC	O	B-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+ने
+बकाएदारों
+की
+सूची
+प्रकाशित
+की
+है
+.
 
-कई	QF	TEMP	O	O	O	O
-मामलों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-निलाम	NN	TEMP	O	O	O	O
-पत्र	JJ	TEMP	O	O	O	O
-दायर	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-परंतु	CC	TEMP	O	O	O	O
-वसूली	NN	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-पा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कई
+मामलों
+में
+निलाम
+पत्र
+दायर
+किया
+है
+परंतु
+वसूली
+नहीं
+हो
+पा
+रही
+है
+.
 
-प्रबंधक	JJ	TEMP	O	O	O	O
-नंदू	XC	TEMP	O	O	O	O
-राम	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-करहारा	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अजीत	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-24	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	B-STAT	DECL
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+प्रबंधक
+नंदू
+राम
+ने
+बताया
+कि
+करहारा
+के
+अजीत
+कुमार
+¨
+सह
+पर
+24
+लाख
+रुपये
+बकाया
+है
+.
 
-बैंक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सीसी	JJ	TEMP	O	O	O	O
-ऋण	NN	TEMP	B-MISC	O	O	OCC
-कराया	VM	TEMP	I-MISC	O	B-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-परंतु	CC	TEMP	O	O	O	O
-पैसा	NN	TEMP	O	O	O	O
-जामा	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+से
+सीसी
+ऋण
+कराया
+था
+परंतु
+पैसा
+जामा
+नहीं
+किया
+.
 
-अजीत	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-2003	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ऋण	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अजीत
+को
+बैंक
+ने
+2003
+में
+ऋण
+दिया
+था
+.
 
-सत्येंद्र	XC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अजीत	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-21	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	B-STAT	DECL
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सत्येंद्र
+नगर
+के
+अजीत
+कुमार
+¨
+सह
+पर
+बैंक
+का
+21
+लाख
+रुपये
+बकाया
+है
+.
 
-वर्ष	NN	TEMP	O	B	O	O
-2006	QC	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अशोक	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-अजीत	JJ	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सीसी	NN	TEMP	O	O	O	O
-ऋण	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वर्ष
+2006
+में
+बैंक
+ने
+अशोक
+कुमार
+¨
+सह
+के
+पुत्र
+अजीत
+को
+सीसी
+ऋण
+दिया
+था
+.
 
-मदरसा	XC	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-मो	VM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+मदरसा
+रोड
+निवासी
+मो
+.
 
-साजन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-डैजी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-4	79	QC	TEMP	O	O	O	O
+साजन
+की
+पत्नी
+डैजी
+पर
+4
 
-रुपये	NN	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	B-STAT	DECL
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+रुपये
+बकाया
+है
+.
 
-सत्येंद्र	XC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-सुरेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	B-STAT	DECL
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+सत्येंद्र
+नगर
+निवासी
+सुरेंद्र
+कुमार
+पर
+बैंक
+का
+18
+लाख
+रुपये
+बकाया
+है
+.
 
-वर्ष	NN	TEMP	O	O	O	O
-2004	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सुरेंद्र	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कैश	NN	TEMP	O	O	O	O
-क्रेडिट	JJ	TEMP	O	O	O	O
-ऋण	NN	TEMP	B-MISC	O	B-MISC	O
-ली	VM	TEMP	I-MISC	O	I-MISC	OCC
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वर्ष
+2004
+में
+सुरेंद्र
+ने
+कैश
+क्रेडिट
+ऋण
+ली
+थी
+.
 
-श्रीकृष्ण	XC	TEMP	O	O	O	O
-नगर	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-श्रीकांता	NNP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रकम	NN	TEMP	O	O	O	O
-बताया	VM	TEMP	O	O	B-MISC	OCC
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+श्रीकृष्ण
+नगर
+निवासी
+श्रीकांता
+¨
+सह
+के
+पुत्र
+विकास
+कुमार
+पर
+10
+लाख
+रुपये
+से
+अधिक
+का
+रकम
+बताया
+है
+.
 
-विकास	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-2005	QC	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ऋण	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-था	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विकास
+को
+बैंक
+ने
+2005
+में
+ऋण
+दिया
+था
+.
 
-कुटुंबा	NNP	TEMP	O	O	O	O
-प्रखंड	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बसंतपुर	NNP	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-अलखदेव	XC	TEMP	O	O	O	O
-राम	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-जितेंद्र	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-95	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-222	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	B-STAT	DECL
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+कुटुंबा
+प्रखंड
+के
+बसंतपुर
+निवासी
+अलखदेव
+राम
+के
+पुत्र
+जितेंद्र
+कुमार
+पर
+बैंक
+का
+12
+लाख
+95
+हजार
+222
+रुपये
+बकाया
+है
+.
 
-मुंशी	NN	TEMP	B-MISC	O	O	O
-बिगहा	VM	TEMP	I-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-सुनील	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
+मुंशी
+बिगहा
+के
+सुनील
+¨
+सह
 
-सुदर्शन	XC	TEMP	O	O	O	O
-शर्मा	NNP	TEMP	O	O	O	O
+सुदर्शन
+शर्मा
 
-कुलदीप	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-वैद्यनाथ	XC	TEMP	O	O	O	O
-प्रसाद	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-लाखों	QC	TEMP	O	O	O	O
-रुपया	NN	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	B-STAT	DECL
-है	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+कुलदीप
+¨
+सह
+एवं
+वैद्यनाथ
+प्रसाद
+पर
+बैंक
+का
+लाखों
+रुपया
+बकाया
+है
+.
 
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-22	QC	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सूची	NN	TEMP	O	O	B-MISC	OCC
-तैयार	JJ	TEMP	B-MISC	O	I-MISC	O
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंक
+ने
+22
+लोगों
+की
+सूची
+तैयार
+की
+है
+.
 
-प्रबंधक	JJ	TEMP	O	O	O	O
-नंदू	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-जो	DEM	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-बकाया	VM	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-उनके	PRP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-प्राथमिकी	JJ	TEMP	B-MISC	O	O	O
-दर्ज	NN	TEMP	I-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाएगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रबंधक
+नंदू
+ने
+बताया
+कि
+जो
+लोग
+बकाया
+राशि
+नहीं
+दे
+रहे
+हैं
+उनके
+खिलाफ
+प्राथमिकी
+दर्ज
+की
+जाएगी
+.

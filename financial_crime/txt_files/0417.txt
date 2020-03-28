@@ -1,188 +1,188 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अबोहर	XC	TEMP	O	O	O	O
-चौकीदार	NN	TEMP	O	O	O	O
-यूनियन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-शिष्टमंडल	NN	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-वेतन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-तथा	CC	TEMP	O	O	O	O
-वेतन	NN	TEMP	O	O	O	O
-बढ़ाने	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	O	O
-एसडीएम	XC	TEMP	O	O	O	O
-पूनम	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिला	VM	TEMP	B-MISC	O	O	OCC
-,	SYM	TEMP	O	O	O	O
-जिन्होंने	PRP	TEMP	O	O	O	O
-शिष्टमंडल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	O	O
-यूनियन	XC	TEMP	O	O	O	O
-सदस्यों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-विश्वास	NN	TEMP	B-MISC	O	O	O
-दिलाया	VM	TEMP	I-MISC	O	B-MISC	OCC
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-उनकी	PRP	TEMP	O	O	O	O
-मांगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-मनवाने	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-करेंगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+अबोहर
+चौकीदार
+यूनियन
+का
+एक
+शिष्टमंडल
+अपने
+वेतन
+की
+मांग
+को
+लेकर
+तथा
+वेतन
+बढ़ाने
+की
+मांग
+को
+लेकर
+एसडीएम
+पूनम
+¨
+सह
+से
+मिला
+,
+जिन्होंने
+शिष्टमंडल
+में
+मौजूद
+यूनियन
+सदस्यों
+को
+विश्वास
+दिलाया
+कि
+वह
+उनकी
+मांगे
+मनवाने
+का
+प्रयास
+करेंगी
+.
 
-चौकीदार	NN	TEMP	O	O	O	O
-केवल	RP	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हेतराम	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सुख	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-वद्र	NN	TEMP	O	O	O	O
-¨	VM	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राजू	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सतपाल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-साहिब	XC	TEMP	O	O	O	O
-राम	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-राजा	XC	TEMP	O	O	O	O
-राम	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-नीलू	XC	TEMP	O	O	O	O
-राम	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-पिछले	JJ	TEMP	O	B	O	O
-काफी	QF	TEMP	O	I	O	O
-वर्षों	NN	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-गांवों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चौकीदारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बेरुखी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-वेतन	NN	TEMP	O	O	O	O
-1000	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+चौकीदार
+केवल
+¨
+सह
+,
+बोर्ड
+¨
+सह
+,
+हेतराम
+,
+सुख
+¨
+वद्र
+¨
+सह
+,
+राजू
+,
+सतपाल
+,
+साहिब
+राम
+,
+राजा
+राम
+व
+नीलू
+राम
+ने
+बताया
+कि
+वह
+पिछले
+काफी
+वर्षों
+से
+विभिन्न
+गांवों
+में
+चौकीदारी
+कर
+रहे
+हैं
+,
+लेकिन
+सरकार
+की
+बेरुखी
+के
+कारण
+उनका
+वेतन
+1000
+रुपये
+ही
+है
+.
 
-वे	PRP	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-वेतन	NN	TEMP	O	O	O	O
-बढ़ाने	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-चुके	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-वेतन	NN	TEMP	O	O	O	O
-बढ़ाना	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-दूर	NST	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-6	QC	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-का	PSP	TEMP	O	O	O	O
-वेतन	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वे
+कई
+बाद
+अपने
+वेतन
+बढ़ाने
+की
+मांग
+कर
+चुके
+है
+,
+लेकिन
+सरकार
+उनका
+वेतन
+बढ़ाना
+तो
+दूर
+उन्हें
+6
+माह
+का
+वेतन
+भी
+जारी
+नहीं
+कर
+रही
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-गुजारा	NN	TEMP	B-MISC	O	O	O
-होना	VM	TEMP	I-MISC	O	O	O
-बहुत	TEMP	INTF	TEMP	O	O	O	O
-मुश्किल	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-चुका	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+उनका
+गुजारा
+होना
+बहुत
+मुश्किल
+हो
+चुका
+है
+.
 
-चौकीदार	NN	TEMP	O	O	O	O
-यूनियन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-चेतावनी	NN	TEMP	B-MISC	O	O	OCC
-दी	VM	TEMP	I-MISC	O	B-STAT	O
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-वेतन	NN	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-बढ़ाया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-उनका	PRP	TEMP	O	O	O	O
-6	QC	TEMP	O	B	O	O
-माह	NN	TEMP	O	I	O	O
-का	PSP	TEMP	O	O	O	O
-रुका	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-वेतन	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-संघर्ष	NN	TEMP	B-MISC	O	O	O
-करेंगे	VM	TEMP	I-MISC	O	O	O
-,	SYM	TEMP	O	O	O	O
-जिसकी	PRP	TEMP	O	O	O	O
-जिम्मेदारी	NN	TEMP	O	O	O	O
-सारी	QF	TEMP	O	O	O	O
-प्रशासन	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	I-MISC	O	O	O
-होगी	VM	TEMP	I-MISC	O	B-MISC	OCC
+चौकीदार
+यूनियन
+ने
+चेतावनी
+दी
+है
+कि
+अगर
+उनका
+वेतन
+जल्द
+नहीं
+बढ़ाया
+गया
+तथा
+उनका
+6
+माह
+का
+रुका
+हुआ
+वेतन
+न
+दिया
+गया
+तो
+वह
+संघर्ष
+करेंगे
+,
+जिसकी
+जिम्मेदारी
+सारी
+प्रशासन
+की
+होगी

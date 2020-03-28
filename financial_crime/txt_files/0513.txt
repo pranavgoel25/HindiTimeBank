@@ -1,238 +1,238 @@
 
-नई	JJ	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+नई
+दिल्ली
+(
+जेएनएन
+)
+.
 
-1	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-महत्व	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+1
+रुपए
+के
+नोट
+का
+आज
+के
+समय
+में
+कोई
+महत्व
+नहीं
+है
+.
 
-बाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-कभी	PRP	TEMP	O	O	O	O
-कभार	NN	TEMP	B-MISC	O	B-MISC	O
-ही	RP	TEMP	I-MISC	O	I-MISC	O
-दिखता	VM	TEMP	I-MISC	O	I-MISC	OCC
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाजार
+में
+1
+रुपए
+का
+नोट
+अब
+कभी
+कभार
+ही
+दिखता
+है
+.
 
-आमतौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-इसका	PRP	TEMP	O	O	O	O
-इस्तेमाल	NN	TEMP	O	O	O	O
-ग्रामीण	JJ	TEMP	O	O	O	O
-इलाकों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-होने	VM	TEMP	O	O	O	O
-वाली	PSP	TEMP	O	O	O	O
-शादियों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मौकों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जरूर	RB	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-जाता	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आमतौर
+पर
+इसका
+इस्तेमाल
+ग्रामीण
+इलाकों
+में
+होने
+वाली
+शादियों
+के
+मौकों
+पर
+जरूर
+किया
+जाता
+है
+.
 
-लेकिन	CC	TEMP	O	O	O	O
-क्या	WQ	TEMP	O	O	O	O
-आप	PRP	TEMP	O	O	O	O
-कल्पना	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-करोड़पति	XC	TEMP	O	O	B-MISC	O
-बनवा	VM	TEMP	B-MISC	O	I-MISC	OCC
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+क्या
+आप
+कल्पना
+कर
+सकते
+हैं
+कि
+एक
+रुपए
+का
+नोट
+किसी
+को
+करोड़पति
+बनवा
+सकता
+है
+.
 
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-न	NEG	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नहीं
+न
+.
 
-लेकिन	RB	TEMP	O	O	O	O
-इस	PRP	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-यहां	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आप	PRP	TEMP	O	O	O	O
-गलत	JJ	TEMP	O	O	B-MISC	O
-हैं	VM	TEMP	O	O	I-MISC	O
-क्योंकि	CC	TEMP	O	O	O	O
-यही	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-अकेला	JJ	TEMP	O	O	O	O
-ऐसा	DEM	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-आपको	PRP	TEMP	O	O	O	O
-करोड़पति	NNP	TEMP	B-MISC	O	B-MISC	O
-बना	VM	TEMP	I-MISC	O	I-MISC	OCC
-सकता	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लेकिन
+इस
+बार
+यहां
+पर
+आप
+गलत
+हैं
+क्योंकि
+यही
+एक
+अकेला
+ऐसा
+नोट
+है
+जो
+कि
+आपको
+करोड़पति
+बना
+सकता
+है
+.
 
-आखिर	RB	TEMP	O	O	O	O
-कैसे	WQ	TEMP	O	O	O	O
-होगा	VM	TEMP	B-MISC	O	O	O
-यह	PRP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-अधिकांश	JJ	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-बमुश्किल	JJ	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-करेंसी	JJ	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नंबर्स	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देखते	VM	TEMP	B-MISC	O	B-MISC	OCC
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आखिर
+कैसे
+होगा
+यह
+:
+अधिकांश
+लोग
+बमुश्किल
+ही
+करेंसी
+नोट
+के
+नंबर्स
+को
+देखते
+हैं
+.
 
-आपको	PRP	TEMP	O	O	O	O
-अकसर	RB	TEMP	O	O	O	O
-ऐसे	DEM	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-मिलेंगे	VM	TEMP	O	O	O	O
-जिसके	PRP	TEMP	O	O	O	O
-रेयर	NN	TEMP	O	O	O	O
-या	CC	TEMP	O	O	O	O
-यूनिक	JJ	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-होते	VM	TEMP	B-MISC	O	B-STAT	DECL
-हैं	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+आपको
+अकसर
+ऐसे
+नोट
+मिलेंगे
+जिसके
+रेयर
+या
+यूनिक
+नंबर
+होते
+हैं
+.
 
-आपको	PRP	TEMP	O	O	O	O
-जानकर	VM	TEMP	O	O	O	O
-हैरानी	NN	TEMP	B-MISC	O	B-MISC	OCC
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-दुनिया	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-ऐसे	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	DECL
-हैं	VM	TEMP	O	O	I-STAT	O
-जो	PRP	TEMP	O	O	O	O
-इन्हीं	PRP	TEMP	O	O	O	O
-रेयर	XC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-नोट्स	NN	TEMP	O	O	O	O
-कलेक्ट	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-आपको	PRP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-लाखों	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-करोड़ों	NN	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	O	O
-को	PSP	TEMP	O	O	O	O
-तैयार	JJ	TEMP	O	O	O	OCC
-भी	RP	TEMP	O	O	O	O
-हो	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आपको
+जानकर
+हैरानी
+होगी
+कि
+दुनिया
+में
+कुछ
+लोग
+ऐसे
+भी
+मौजूद
+हैं
+जो
+इन्हीं
+रेयर
+नंबर
+वाले
+नोट्स
+कलेक्ट
+करते
+हैं
+और
+आपको
+उसके
+लिए
+लाखों
+और
+करोड़ों
+रुपए
+देने
+को
+तैयार
+भी
+हो
+जाते
+हैं
+.
 
-अगर	CC	TEMP	O	O	O	O
-आपके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-ऐसे	PRP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-नोट	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-तो	CC	TEMP	O	O	O	O
-आप	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-करोड़पति	NNP	TEMP	O	O	B-MISC	OCC
-बन	VM	TEMP	O	O	I-MISC	O
-सकते	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगर
+आपके
+पास
+ऐसे
+कोई
+नोट
+है
+तो
+आप
+भी
+करोड़पति
+बन
+सकते
+हैं
+.
 
-ई-कॉर्मस	NN	TEMP	O	O	O	O
-साइट	JJ	TEMP	O	O	O	O
-ईबे	NN	TEMP	O	O	O	O
-आपको	PRP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-मौका	NN	TEMP	B-MISC	O	B-MISC	OCC
-देती	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ई-कॉर्मस
+साइट
+ईबे
+आपको
+यह
+मौका
+देती
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-साइट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-आप	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-1000	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-यूनिक	JJ	TEMP	O	O	O	O
-नोट्स	NN	TEMP	O	O	O	O
-करोड़ों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बेच	VM	TEMP	B-MISC	O	B-MISC	OCC
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+साइट
+पर
+आप
+एक
+रुपए
+से
+1000
+रुपए
+तक
+के
+यूनिक
+नोट्स
+करोड़ों
+में
+बेच
+सकते
+हैं
+.
 
-आइए	QF	TEMP	O	O	O	O
-जानते	VM	TEMP	O	O	B-MISC	OCC
-हैं	VAUX	TEMP	O	O	I-MISC	O
-ऐसे	DEM	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-खास	JJ	TEMP	O	O	O	O
-नोट्स	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-आपको	PRP	TEMP	O	O	O	O
-करोड़पति	XC	TEMP	B-MISC	O	B-MISC	OCC
-बना	VM	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-:	SYM	TEMP	O	O	O	O
+आइए
+जानते
+हैं
+ऐसे
+कुछ
+खास
+नोट्स
+के
+बारे
+में
+जो
+आपको
+करोड़पति
+बना
+सकते
+हैं
+:

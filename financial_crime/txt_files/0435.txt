@@ -1,350 +1,350 @@
 
-हाथरस	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-सादाबाद	JJ	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मथुरा	NNP	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शराब	NN	TEMP	O	O	O	O
-सेल्समैन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-तमंचे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-1.11	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लूट	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+हाथरस
+:
+सादाबाद
+में
+मथुरा
+रोड
+पर
+बाइक
+सवार
+बदमाशों
+ने
+शराब
+सेल्समैन
+से
+तमंचे
+के
+बल
+पर
+1.11
+लाख
+रुपये
+लूट
+लिए
+.
 
-मारपीट	NN	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-सेल्समैन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-वहीं	PRP	TEMP	O	O	O	O
-पटककर	VM	TEMP	O	O	O	O
-बदमाश	XC	TEMP	O	O	O	O
-मथुरा	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-भाग	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मारपीट
+के
+बाद
+सेल्समैन
+को
+वहीं
+पटककर
+बदमाश
+मथुरा
+की
+ओर
+भाग
+गए
+.
 
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंची	VM	TEMP	O	O	B-STAT	DES
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-नाकाबंदी	NN	TEMP	B-MISC	O	B-MISC	O
-कराई	VM	TEMP	I-MISC	O	I-MISC	OCC
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-बाइक	JJ	TEMP	O	O	O	O
-सवारों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मौके
+पर
+पहुंची
+पुलिस
+ने
+नाकाबंदी
+कराई
+,
+लेकिन
+बाइक
+सवारों
+का
+कुछ
+पता
+नहीं
+चला
+.
 
-हर	QF	TEMP	O	B	O	O
-दो	QC	TEMP	O	I	O	O
-दिन	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-जिले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-घटनाएं	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रोकने	VM	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	O	O
-नाकाम	NN	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+हर
+दो
+दिन
+में
+जिले
+में
+लूट
+की
+घटनाएं
+हो
+रही
+हैं
+,
+पर
+पुलिस
+बदमाशों
+को
+रोकने
+में
+नाकाम
+है
+.
 
-सत्यवीर	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-पुत्र	NN	TEMP	O	O	O	O
-गयादीन	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-नगला	JJ	TEMP	O	O	O	O
-खुशाल	NN	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-करहल	XC	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-मैनपुरी	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-कस्बा	NN	TEMP	O	O	O	O
-बिसावर	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-देशी	JJ	TEMP	O	O	O	O
-शराब	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सेल्समैन	NN	TEMP	O	O	B-MISC	OCC
-हैं	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सत्यवीर
+¨
+सह
+पुत्र
+गयादीन
+निवासी
+नगला
+खुशाल
+थाना
+करहल
+(
+मैनपुरी
+)
+कस्बा
+बिसावर
+स्थित
+देशी
+शराब
+की
+दुकान
+पर
+सेल्समैन
+हैं
+.
 
-सत्यवीर	XC	TEMP	O	O	O	O
-बिसावर	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मई	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकानों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कैश	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-सादाबाद	JJ	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-मैनेजर	XC	TEMP	O	O	O	O
-सज्जनपाल	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-आता	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सत्यवीर
+बिसावर
+व
+मई
+की
+दुकानों
+का
+कैश
+लेकर
+सादाबाद
+में
+मैनेजर
+सज्जनपाल
+को
+देने
+आता
+है
+.
 
-मंगलवार	NN	TEMP	O	B	O	O
-की	PSP	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	B	O	O
-नौ	QC	TEMP	O	B	O	O
-बजे	RP:?	TEMP	O	I	O	O
-सत्यवीर	NN	TEMP	O	O	O	O
-थैले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-1,10,812	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-सादाबाद	JJ	TEMP	O	O	O	O
-आ	VM	TEMP	O	O	B-MISC	OCC
-रहे	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मंगलवार
+की
+सुबह
+नौ
+बजे
+सत्यवीर
+थैले
+में
+1,10,812
+रुपये
+लेकर
+सादाबाद
+आ
+रहे
+थे
+.
 
-थैले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बिसावर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-देशी	JJ	TEMP	O	O	O	O
-शराब	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-21,147	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-अंग्रेजी	JJ	TEMP	O	O	O	O
-शराब	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-38,550	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बीयर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-21,010	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मई	NNP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-अंग्रेजी	NN	TEMP	O	O	O	O
-शराब	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-30,105	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-थे	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+थैले
+में
+बिसावर
+की
+देशी
+शराब
+की
+दुकान
+के
+21,147
+रुपये
+,
+अंग्रेजी
+शराब
+की
+दुकान
+के
+38,550
+रुपये
+,
+बीयर
+की
+दुकान
+के
+21,010
+रुपये
+व
+मई
+स्थित
+अंग्रेजी
+शराब
+की
+दुकान
+के
+30,105
+रुपये
+थे
+.
 
-मथुरा	NNP	TEMP	O	O	O	O
-रोड	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पुसैनी	XC	TEMP	O	O	O	O
-बंबा	NNP	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-मंस्या	XC	TEMP	O	O	O	O
-पुलिया	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-अपाचे	JJ	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	O	DESC
-तीन	QC	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सत्यवीर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तमंचा	NN	TEMP	O	O	B-MISC	O
-दिखाकर	VM	TEMP	B-MISC	O	I-MISC	OCC
-रोक	VM	TEMP	I-MISC	O	B-MISC	O
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-धक्का	NN	TEMP	B-MISC	O	O	O
-देकर	VM	TEMP	I-MISC	O	O	O
-थैला	NN	TEMP	O	O	B-MISC	O
-छीनने	VM	TEMP	B-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-प्रयास	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मथुरा
+रोड
+पर
+पुसैनी
+बंबा
+व
+मंस्या
+पुलिया
+के
+बीच
+अपाचे
+बाइक
+सवार
+तीन
+बदमाशों
+ने
+सत्यवीर
+को
+तमंचा
+दिखाकर
+रोक
+लिया
+तथा
+धक्का
+देकर
+थैला
+छीनने
+का
+प्रयास
+किया
+.
 
-थैला	NN	TEMP	B-MISC	O	O	O
-न	NEG	TEMP	I-MISC	O	O	O
-देने	VM	TEMP	I-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बदमाशों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सेल्समैन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पीटा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+थैला
+न
+देने
+पर
+बदमाशों
+ने
+सेल्समैन
+को
+पीटा
+.
 
-बदमाशों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जाने	VM	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-सत्यवीर	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मैनेजर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	REP
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-तथा	CC	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-100	QC	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बदमाशों
+के
+जाने
+के
+बाद
+सत्यवीर
+ने
+मैनेजर
+को
+घटना
+की
+जानकारी
+दी
+तथा
+इसके
+बाद
+100
+नंबर
+पर
+पुलिस
+को
+सूचना
+दी
+.
 
-सादाबाद	JJ	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-आनन-फानन	NN	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंची	VM	TEMP	B-MISC	O	B-STAT	OCC
-.	SYM	TEMP	O	O	O	O
+सादाबाद
+पुलिस
+आनन-फानन
+मौके
+पर
+पहुंची
+.
 
-घायल	JJ	TEMP	O	O	O	O
-सेल्समैन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सीएचसी	JJ	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घायल
+सेल्समैन
+को
+सीएचसी
+ले
+जाया
+गया
+.
 
-सेल्समैन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करा	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सेल्समैन
+ने
+लूट
+की
+रिपोर्ट
+दर्ज
+करा
+दी
+है
+.
 
-जिले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सक्रिय	JJ	TEMP	O	O	O	O
-लुटेरों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-गिरोह	NN	TEMP	O	O	O	O
-लगातार	RB	TEMP	O	O	O	O
-घटनाओं	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अंजाम	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चुनौती	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिले
+में
+सक्रिय
+लुटेरों
+का
+गिरोह
+लगातार
+घटनाओं
+को
+अंजाम
+देकर
+पुलिस
+को
+चुनौती
+दे
+रहा
+है
+.
 
-कुछ	QF	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-फाइनेंस	XC	TEMP	O	O	O	O
-कर्मी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-60	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+दिन
+पहले
+ही
+शहर
+में
+फाइनेंस
+कर्मी
+से
+60
+हजार
+रुपये
+की
+लूट
+हुई
+थी
+.
 
-इससे	PRP	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-इंजीनियर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-डेढ़	NNP	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-25	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लूट	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+पहले
+इंजीनियर
+से
+डेढ़
+लाख
+व
+व्यापारी
+से
+25
+हजार
+रुपये
+की
+लूट
+हुई
+.
 
-सासनी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सिकंदराराऊ	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-घटनाएं	NN	TEMP	B-MISC	O	O	O
-भी	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-खुल	VM	TEMP	I-MISC	O	I-MISC	O
-पाईं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सासनी
+व
+सिकंदराराऊ
+की
+घटनाएं
+भी
+नहीं
+खुल
+पाईं
+.
 
-इससे	PRP	TEMP	O	O	O	O
-व्यापारियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खौफ	NN	TEMP	B-MISC	O	B-MISC	OCC
-बढ़	NNP	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
+इससे
+व्यापारियों
+में
+खौफ
+बढ़
+गया
+है

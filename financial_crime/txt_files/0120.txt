@@ -1,228 +1,228 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
+﻿संवाद
+सूत्र
 
-सहपऊ	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-कस्बा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सराफ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	O	O
-प्राप्त	JJ	TEMP	I-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-मुंबई	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-39	099	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शॉ	NN	TEMP	B-MISC	O	O	O
-¨	JJ	TEMP	I-MISC	O	O	O
-पग	NN	TEMP	I-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-ली	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सहपऊ
+:
+कस्बा
+के
+सराफ
+से
+मोबाइल
+फोन
+के
+जरिए
+एटीएम
+की
+जानकारी
+प्राप्त
+कर
+ली
+और
+मुंबई
+में
+तीन
+बार
+में
+करीब
+39
+रुपये
+की
+शॉ
+¨
+पग
+कर
+ली
+.
 
-इस	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-सराफ	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-हतप्रभ	JJ	TEMP	B-MISC	O	B-MISC	OCC
-रह	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+बात
+की
+जानकारी
+जब
+सराफ
+को
+हुई
+तो
+वह
+हतप्रभ
+रह
+गए
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लिखित	JJ	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-सहपऊ	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-की	VM	TEMP	O	O	B-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+मामले
+की
+लिखित
+शिकायत
+कोतवाली
+सहपऊ
+व
+बैंक
+शाखा
+में
+की
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पडताल	NN	TEMP	B-MISC	O	O	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+पडताल
+शुरू
+कर
+दी
+है
+.
 
-सहपऊ	NN	TEMP	O	O	O	O
-निवासी	XC	TEMP	O	O	O	O
-सराफ	XC	TEMP	O	O	O	O
-योगेंद्र	XC	TEMP	O	O	O	O
-वर्मा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अनुसार	PSP:?	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	B	O	O
-को	PSP	TEMP	O	O	O	O
-शाम	NN	TEMP	O	B	O	O
-चार	QC	TEMP	O	B	O	O
-बजे	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-फोन	NN	TEMP	B-MISC	O	O	O
-कॉल	NN	TEMP	I-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सहपऊ
+निवासी
+सराफ
+योगेंद्र
+वर्मा
+के
+अनुसार
+उनके
+पास
+शुक्रवार
+को
+शाम
+चार
+बजे
+के
+लगभग
+फोन
+कॉल
+आया
+.
 
-इसी	PRP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	O	O
-प्राप्त	JJ	TEMP	I-MISC	O	B-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+से
+उनके
+एटीएम
+के
+बारे
+में
+जानकारी
+प्राप्त
+की
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-में	PSP	TEMP	O	O	O	O
-आनाकानी	NN	TEMP	O	O	O	O
-तो	CC	TEMP	O	O	O	O
-परेशानी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कही	VM	TEMP	I-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+जानकारी
+देने
+में
+आनाकानी
+तो
+परेशानी
+हो
+जाने
+की
+बात
+कही
+.
 
-एटीएम	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बारे	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-हासिल	NN	TEMP	I-MISC	O	I-MISC	O
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-मुंबई	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शॉ	XC	TEMP	B-MISC	O	B-MISC	O
-¨	NNP	TEMP	I-MISC	O	I-MISC	O
-पग	NN	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एटीएम
+के
+बारे
+में
+जानकारी
+हासिल
+करके
+मुंबई
+में
+तीन
+बार
+में
+शॉ
+¨
+पग
+की
+गई
+.
 
-पहली	QO	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-19	999	QC	TEMP	O	O	O	O
-तथा	CC	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-9550	QC	TEMP	O	O	O	O
--9550	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कट	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पहली
+बार
+में
+19
+तथा
+दो
+बार
+में
+9550
+-9550
+रुपये
+उनके
+खाते
+से
+कट
+गए
+.
 
-इस	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-मैसेज	NN	TEMP	B-MISC	O	B-MISC	O
-आने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	I-MISC	O
-हुई	VM	TEMP	O	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इस
+बात
+की
+जानकारी
+उन्हें
+मैसेज
+आने
+पर
+हुई
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-तत्काल	RB	TEMP	O	O	O	O
-एसबीआइ	JJ	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-शाखा	NN	TEMP	O	O	O	O
-सहपऊ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-पहुंचकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-इस	DEM	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+तत्काल
+एसबीआइ
+बैंक
+शाखा
+सहपऊ
+में
+पहुंचकर
+इस
+मामले
+की
+जानकारी
+दी
+.
 
-इतना	QF	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कोतवाली	JJ	TEMP	O	O	O	O
-सहपऊ	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इतना
+ही
+नहीं
+उन्होंने
+कोतवाली
+सहपऊ
+में
+भी
+तहरीर
+दी
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दिए	VM	TEMP	O	O	B-MISC	DESC
-गए	VAUX	TEMP	O	O	I-MISC	O
-नंबर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-आधार	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पडताल	NN	TEMP	B-MISC	O	O	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
+पुलिस
+ने
+दिए
+गए
+नंबर
+के
+आधार
+पर
+पडताल
+शुरू
+कर
+दी
+है
 
-मगर	CC	TEMP	O	O	O	O
-इसका	PRP	TEMP	O	O	O	O
-हश्र	NN	TEMP	O	O	O	O
-शायद	RB	TEMP	O	O	O	O
-वही	PRP	TEMP	O	O	O	O
-होगा	VM	TEMP	O	O	B-MISC	O
-जो	PRP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मामलों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-होता	VM	TEMP	O	O	B-MISC	OCC
-रहा	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मगर
+इसका
+हश्र
+शायद
+वही
+होगा
+जो
+अब
+तक
+के
+मामलों
+में
+होता
+रहा
+है
+.

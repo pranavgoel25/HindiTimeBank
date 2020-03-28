@@ -1,257 +1,257 @@
 
-संवाद	JJ	TEMP	O	O	O	O
-सहयोगी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-तोशाम	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-एंटी	XC	TEMP	O	O	O	O
-व्हीकल	NNP	TEMP	O	O	O	O
-थैप्ट	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	B	O	O
-देर	JJ	TEMP	O	B	O	O
-रात	NN	TEMP	O	I	O	O
-तोशाम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-860	QC	TEMP	O	O	O	O
-किग्रा	NN	TEMP	O	O	O	O
-चंदन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लकडी	NN	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+संवाद
+सहयोगी
+,
+तोशाम
+:
+एंटी
+व्हीकल
+थैप्ट
+की
+टीम
+ने
+शुक्रवार
+देर
+रात
+तोशाम
+से
+860
+किग्रा
+चंदन
+की
+लकडी
+बरामद
+की
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-तोशाम	NN	TEMP	O	O	O	O
-निवासी	JJ	TEMP	O	O	O	O
-नरेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-धाराओं	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-भारतीय	JJ	TEMP	O	O	O	O
-वन	XC	TEMP	O	O	O	O
-अधिनियम	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करके	VM	TEMP	I-MISC	O	I-MISC	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+तोशाम
+निवासी
+नरेश
+कुमार
+के
+खिलाफ
+विभिन्न
+धाराओं
+व
+भारतीय
+वन
+अधिनियम
+के
+तहत
+मामला
+दर्ज
+करके
+कार्रवाई
+शुरू
+कर
+दी
+है
+.
 
-शुक्रवार	NN	TEMP	O	B	O	O
-देर	JJ	TEMP	O	B	O	O
-रात	NN	TEMP	O	I	O	O
-एंटी	XC	TEMP	O	O	O	O
-व्हीकल	XC	TEMP	O	O	O	O
-थैप्ट	XC	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गुप्त	JJ	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	O
-मिली	VM	TEMP	I-MISC	O	I-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-तोशाम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सिवानी	JJ	TEMP	O	O	O	O
-रोड	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बर्फ	NN	TEMP	O	O	O	O
-फैक्ट्री	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-चंदन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लकडी	NN	TEMP	B-MISC	O	O	O
-लाकर	VM	TEMP	I-MISC	O	B-MISC	OCC
-बेची	VAUX	TEMP	I-MISC	O	I-MISC	O
-जाती	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शुक्रवार
+देर
+रात
+एंटी
+व्हीकल
+थैप्ट
+टीम
+को
+गुप्त
+सूचना
+मिली
+की
+तोशाम
+में
+सिवानी
+रोड
+पर
+बर्फ
+फैक्ट्री
+के
+पास
+चंदन
+की
+लकडी
+लाकर
+बेची
+जाती
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जाकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-देखा	VM	TEMP	B-MISC	O	B-MISC	O
-तो	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-खाली	JJ	TEMP	O	O	O	O
-प्लांट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-लकडी	NN	TEMP	O	O	O	O
-रखी	VM	TEMP	B-MISC	O	B-MISC	OCC
-हुई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+मौके
+पर
+जाकर
+देखा
+तो
+एक
+खाली
+प्लांट
+में
+लकडी
+रखी
+हुई
+थी
+.
 
-चंदन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लकडियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बोरियों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ढ़का	NN	TEMP	O	O	B-MISC	O
-गया	VM	TEMP	O	O	I-MISC	OCC
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चंदन
+की
+लकडियों
+को
+बोरियों
+से
+ढ़का
+गया
+था
+.
 
-लकडियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गिनती	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-चंदन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-छोटी-बडे	NN	TEMP	O	O	O	O
-मिलाकर	VM	TEMP	O	O	B-MISC	O
-54	QC	TEMP	O	O	O	O
-नग	NN	TEMP	O	O	O	O
-प्राप्त	JJ	TEMP	B-MISC	O	B-STAT	OCC
-हुए	VM	TEMP	I-MISC	O	I-STAT	O
-हैं	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+लकडियों
+की
+गिनती
+की
+तो
+चंदन
+की
+छोटी-बडे
+मिलाकर
+54
+नग
+प्राप्त
+हुए
+हैं
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-प्लाट	XC	TEMP	O	O	O	O
-मालिक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-फोन	NN	TEMP	B-MISC	O	B-MISC	O
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-संपर्क	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उससे	PRP	TEMP	O	O	O	O
-चंदन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लकडी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कागजात	NN	TEMP	O	O	O	O
-दिखाने	VM	TEMP	B-MISC	O	O	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-तो	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गुमराह	NN	TEMP	O	O	B-MISC	OCC
-करता	VM	TEMP	B-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+प्लाट
+मालिक
+के
+पास
+फोन
+कर
+संपर्क
+किया
+और
+उससे
+चंदन
+की
+लकडी
+के
+कागजात
+दिखाने
+को
+कहा
+तो
+वह
+पुलिस
+को
+गुमराह
+करता
+रहा
+.
 
-चंदन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लकडी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कागजात	NN	TEMP	B-MISC	O	O	OCC
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	O
-दिखाने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-वन	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-डीएफओ	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+चंदन
+की
+लकडी
+की
+खरीद
+के
+कागजात
+नहीं
+दिखाने
+पर
+पुलिस
+ने
+वन
+विभाग
+के
+डीएफओ
+को
+इसकी
+सूचना
+दी
+.
 
-बाद	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चंदन	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-लकडियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-गाडी	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-डालकर	VM	TEMP	O	O	B-MISC	OCC
-कांटा	NN	TEMP	O	O	O	O
-करवाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-लकडियों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-वजन	NN	TEMP	O	O	O	O
-860	QC	TEMP	O	O	O	O
-किग्रा	NN	TEMP	O	O	O	O
-मिला	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+बाद
+में
+चंदन
+की
+लकडियों
+को
+गाडी
+में
+डालकर
+कांटा
+करवाया
+गया
+तो
+लकडियों
+का
+वजन
+860
+किग्रा
+मिला
+.
 
-आरोपी	NN	TEMP	O	O	O	O
-फिलहाल	RB	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-गिरफ्त	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+आरोपी
+फिलहाल
+पुलिस
+गिरफ्त
+से
+बाहर
+है
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-आरोपी	JJ	TEMP	O	O	O	O
-नरेश	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-धाराओं	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-कार्यवाही	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+आरोपी
+नरेश
+के
+खिलाफ
+विभिन्न
+धाराओं
+के
+तहत
+मामला
+दर्ज
+कर
+कार्यवाही
+शुरू
+कर
+दी
+है
+.
 
-एएसआई	XC	TEMP	O	O	O	O
-कृष्ण	XC	TEMP	O	O	O	O
-मलिक	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-गैर	JJ	TEMP	O	O	O	O
-तरीके	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लाई	VM	TEMP	O	O	B-MISC	O
-गई	VAUX	TEMP	O	O	I-MISC	O
-860	QC	TEMP	O	O	O	O
-किग्रा	NN	TEMP	O	O	O	O
-लकडी	NN	TEMP	O	O	O	O
-बरामद	JJ	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-जिसकी	PRP	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कीमत	NN	TEMP	O	O	O	O
-12	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-बताई	VM	TEMP	O	O	B-MISC	OCC
-गई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
+एएसआई
+कृष्ण
+मलिक
+ने
+बताया
+कि
+उन्होंने
+गैर
+तरीके
+से
+लाई
+गई
+860
+किग्रा
+लकडी
+बरामद
+की
+है
+जिसकी
+बाजार
+में
+कीमत
+12
+लाख
+के
+करीब
+बताई
+गई
+है

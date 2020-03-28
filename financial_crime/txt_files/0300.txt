@@ -1,240 +1,240 @@
-﻿बेगूसराय	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿बेगूसराय
+.
 
-बलिया	NNP	TEMP	O	O	O	O
-थाना	VM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-स्टेशन	NN	TEMP	O	O	O	O
-चौक	NNP	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-एनएच	NN	TEMP	O	O	O	O
-31	QC	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-रेलवे	XC	TEMP	O	O	O	O
-परिसर	NN	TEMP	O	O	O	O
-किनारे	NN	TEMP	O	O	O	O
-दुकानों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शनिवार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मध्य	JJ	TEMP	O	O	O	O
-रात्रि	NN	TEMP	O	O	O	O
-भीषण	NN	TEMP	O	O	O	O
-आग	NN	TEMP	B-MISC	O	B-MISC	OCC
-लग	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बलिया
+थाना
+क्षेत्र
+के
+स्टेशन
+चौक
+स्थित
+एनएच
+31
+व
+रेलवे
+परिसर
+किनारे
+दुकानों
+में
+शनिवार
+की
+मध्य
+रात्रि
+भीषण
+आग
+लग
+गई
+.
 
-जिसमें	PRP	TEMP	O	O	O	O
-देखते	VM	TEMP	O	O	B-MISC	OCC
-ही	RP	TEMP	O	O	I-MISC	O
-देखते	VM	TEMP	O	O	I-MISC	O
-चार	QC	TEMP	O	O	O	O
-दुकानें	NN	TEMP	O	O	O	O
-जल	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-राख	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसमें
+देखते
+ही
+देखते
+चार
+दुकानें
+जल
+कर
+राख
+हो
+गई
+.
 
-इस	DEM	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-दुकानदार	JJ	TEMP	O	O	O	O
-दिलीप	XC	TEMP	O	O	O	O
-राय	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-शिवम	XC	TEMP	O	O	O	O
-स्वीट	XC	TEMP	O	O	O	O
-पैलेस	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बबलू	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बनारसी	JJ	TEMP	O	O	O	O
-भुजा	NN	TEMP	O	O	O	O
-भंडार	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मो	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+इस
+घटना
+में
+दुकानदार
+दिलीप
+राय
+का
+शिवम
+स्वीट
+पैलेस
+,
+बबलू
+कुमार
+का
+बनारसी
+भुजा
+भंडार
+,
+मो
+.
 
-सुलेमान	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सलमान	JJ	TEMP	O	O	O	O
-पान	NN	TEMP	O	O	O	O
-गुमटी	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-रामजी	NNP	TEMP	O	O	O	O
-साह	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नाश्ता-चाय	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-जलकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-राख	NN	TEMP	I-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुलेमान
+का
+सलमान
+पान
+गुमटी
+एवं
+रामजी
+साह
+की
+नाश्ता-चाय
+की
+दुकान
+जलकर
+राख
+हो
+गई
+.
 
-अगलगी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	O	OCC
-फ्रिज	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पंखा	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-इन्वर्टर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बैट्री	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गैस	XC	TEMP	O	O	O	O
-चूल्हा	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-फर्नीचर	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बर्तन	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सहित	PSP	TEMP	O	O	O	O
-लाखों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-जल	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अगलगी
+की
+घटना
+में
+दुकान
+में
+रखे
+फ्रिज
+,
+पंखा
+,
+इन्वर्टर
+,
+बैट्री
+,
+गैस
+चूल्हा
+,
+फर्नीचर
+,
+बर्तन
+,
+सहित
+लाखों
+रुपये
+के
+सामान
+जल
+गए
+.
 
-सबसे	TEMP	INTF	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-क्षति	NN	TEMP	O	O	O	O
-दुकानदार	JJ	TEMP	O	O	O	O
-दिलीप	XC	TEMP	O	O	O	O
-राय	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-हुई	VM	TEMP	O	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+सबसे
+अधिक
+क्षति
+दुकानदार
+दिलीप
+राय
+को
+हुई
+.
 
-घटना	NN	TEMP	B-MISC	O	B-MISC	O
-का	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-शॉर्ट	XC	TEMP	O	O	O	O
-सर्किट	NN	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घटना
+का
+कारण
+शॉर्ट
+सर्किट
+बताया
+जा
+रहा
+है
+.
 
-गश्ती	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-निकले	VM	TEMP	O	O	O	O
-थानाध्यक्ष	JJ	TEMP	O	O	O	O
-सुनील	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नेतृत्व	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-घटना	NN	TEMP	B-MISC	O	B-MISC	OCC
-को	PSP	TEMP	O	O	O	O
-देखा	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+गश्ती
+पर
+निकले
+थानाध्यक्ष
+सुनील
+कुमार
+के
+नेतृत्व
+पर
+पुलिस
+ने
+इस
+घटना
+को
+देखा
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-इसकी	PRP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	O	OCC
-अग्निशामक	JJ	TEMP	O	O	O	O
-दल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-दी	VM	TEMP	O	O	B-MISC	OCC
-गई	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+इसकी
+सूचना
+अग्निशामक
+दल
+को
+दी
+गई
+.
 
-सूचना	NN	TEMP	B-MISC	O	B-MISC	OCC
-मिलते	VM	TEMP	I-MISC	O	I-MISC	O
-ही	RP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-अग्निशामक	JJ	TEMP	O	O	O	O
-वाहन	XC	TEMP	O	O	O	O
-घटनास्थल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पहुंचकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-काफी	QF	TEMP	O	O	O	O
-मशक्कत	NN	TEMP	O	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-आग	NN	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-काबू	NN	TEMP	B-MISC	O	B-MISC	OCC
-पाया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सूचना
+मिलते
+ही
+दो
+अग्निशामक
+वाहन
+घटनास्थल
+पर
+पहुंचकर
+काफी
+मशक्कत
+के
+बाद
+आग
+पर
+काबू
+पाया
+गया
+.
 
-घटना	NN	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाहर	NST	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कई	QF	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-अंदर	NST	TEMP	O	O	O	O
-सोए	VM	TEMP	O	O	B-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-थे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घटना
+के
+समय
+दुकान
+के
+बाहर
+व
+कई
+लोग
+लोग
+अंदर
+सोए
+हुए
+थे
+.
 
-बावजूद	PSP:?	TEMP	O	O	O	O
-आग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भनक	NN	TEMP	B-MISC	O	O	O
-तक	RP	TEMP	I-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-लगी	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-धू	RP	TEMP	O	O	O	O
-धू	RP	TEMP	O	O	O	O
-कर	VM	TEMP	O	O	O	O
-दुकानें	NN	TEMP	O	O	B-MISC	OCC
-जलती	VM	TEMP	B-MISC	O	I-MISC	O
-रहीं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बावजूद
+आग
+की
+भनक
+तक
+नहीं
+लगी
+और
+धू
+धू
+कर
+दुकानें
+जलती
+रहीं
+.
 
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बिजली	NN	TEMP	B-MISC	O	O	O
-कटवाई	VM	TEMP	I-MISC	O	O	O
-एवं	CC	TEMP	O	O	O	O
-दुकान	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अंदर	NST	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सोए	VM	TEMP	O	O	B-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-दुकानदारों	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कर्मियों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उठाया	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+पुलिस
+ने
+बिजली
+कटवाई
+एवं
+दुकान
+के
+अंदर
+में
+सोए
+हुए
+दुकानदारों
+व
+कर्मियों
+को
+उठाया
+.
 
-सुबह	NN	TEMP	O	B	O	O
-में	PSP	TEMP	O	O	O	O
-घटनास्थल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भीड	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगी	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सुबह
+में
+घटनास्थल
+पर
+लोगों
+की
+भीड
+लगी
+रही
+.

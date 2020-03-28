@@ -1,355 +1,355 @@
 
-पूर्वी	JJ	TEMP	O	O	O	O
-चंपारण	NN	TEMP	O	O	O	O
-[	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-]	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+पूर्वी
+चंपारण
+[
+जेएनएन
+]
+.
 
-जिले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ढाका	NN	TEMP	O	O	O	O
-विधान	JJ	TEMP	O	O	O	O
-सभा	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-राजद	NN	TEMP	O	O	O	O
-विधायक	JJ	TEMP	O	O	O	O
-फैसल	NN	TEMP	O	O	O	O
-रहमान	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अपराधियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-कॉल	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-बीस	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रंगदारी	NN	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-STAT	OCC
-कही	VM	TEMP	I-MISC	O	I-STAT	O
-है	VAUX	TEMP	I-MISC	O	I-STAT	O
-,	SYM	TEMP	O	O	O	O
-अन्यथा	NN	TEMP	O	O	O	O
-अंजाम	NN	TEMP	B-MISC	O	B-MISC	O
-भुगतने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	O	O	B-MISC	OCC
-दी	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिले
+की
+ढाका
+विधान
+सभा
+से
+राजद
+विधायक
+फैसल
+रहमान
+से
+अपराधियों
+ने
+एक
+बार
+फिर
+कॉल
+कर
+बीस
+लाख
+की
+रंगदारी
+जल्द
+देने
+की
+बात
+कही
+है
+,
+अन्यथा
+अंजाम
+भुगतने
+की
+धमकी
+दी
+है
+.
 
-अपराधियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-मांगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-पहुंची	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अपराधियों
+ने
+कहा
+है
+कि
+पहले
+भी
+रुपये
+मांगे
+थे
+और
+राशि
+अभी
+तक
+नहीं
+पहुंची
+.
 
-इस	DEM	TEMP	O	O	O	O
-बार	RP	TEMP	O	O	O	O
-जिस	DEM	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रंगदारी	NN	TEMP	O	O	B-MISC	O
-मांगी	VM	TEMP	O	O	I-MISC	OCC
-गई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-नेपाली	JJ	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+इस
+बार
+जिस
+नंबर
+से
+रंगदारी
+मांगी
+गई
+है
+,
+वह
+नेपाली
+नंबर
+है
+.
 
-विधायक	JJ	TEMP	O	O	O	O
-श्री	XC	TEMP	O	O	O	O
-रहमान	NNP	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-दिनों	NN	TEMP	O	O	O	O
-पटना	NNP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+विधायक
+श्री
+रहमान
+इन
+दिनों
+पटना
+में
+है
+.
 
-रंगदारी	NN	TEMP	O	O	O	O
-मांगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-सूचना	NN	TEMP	B-MISC	O	O	OCC
-पटना	NNP	TEMP	O	O	O	O
-एसएसपी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-मोतिहारी	JJ	TEMP	O	O	O	O
-एसपी	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-सिकरहना	XC	TEMP	O	O	O	O
-एएसपी	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-देते	VM	TEMP	O	O	B-MISC	O
-हुए	VAUX	TEMP	O	O	I-MISC	O
-सुरक्षा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	B-MISC	OCC
-की	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रंगदारी
+मांगे
+जाने
+की
+सूचना
+पटना
+एसएसपी
+,
+मोतिहारी
+एसपी
+और
+सिकरहना
+एएसपी
+को
+देते
+हुए
+सुरक्षा
+की
+मांग
+की
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इससे	PRP	TEMP	O	O	O	O
-परिजन	NN	TEMP	O	O	O	O
-काफी	QF	TEMP	O	O	O	O
-डरे	VM	TEMP	O	O	B-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+इससे
+परिजन
+काफी
+डरे
+हुए
+हैं
+.
 
-कुछ	QF	TEMP	O	B	O	O
-दिनों	NN	TEMP	O	I	O	O
-पहले	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-मांगी	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-20	QC	TEMP	O	O	O	O
-लाख	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रंगदारीकुछ	NN	TEMP	O	O	O	O
-दिनों	NN	TEMP	O	O	O	O
-पहले	NST	TEMP	O	O	O	O
-12	QC	TEMP	O	B	O	O
-सितंबर	NNP	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-ढाका	NN	TEMP	O	O	O	O
-विधानसभा	JJ	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आरजेडी	NN	TEMP	O	O	O	O
-विधायक	JJ	TEMP	O	O	O	O
-फैसल	NN	TEMP	O	O	O	O
-रहमान	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-व्यक्ति	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	B-MISC	OCC
-करके	VM	TEMP	O	O	I-MISC	O
-20	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-रंगदारी	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुछ
+दिनों
+पहले
+भी
+मांगी
+गई
+थी
+20
+लाख
+की
+रंगदारीकुछ
+दिनों
+पहले
+12
+सितंबर
+को
+भी
+ढाका
+विधानसभा
+क्षेत्र
+से
+आरजेडी
+विधायक
+फैसल
+रहमान
+के
+मोबाइल
+फोन
+पर
+किसी
+अज्ञात
+व्यक्ति
+ने
+फोन
+करके
+20
+लाख
+रुपये
+की
+रंगदारी
+की
+मांग
+की
+थी
+.
 
-आरजेडी	JJ	TEMP	O	O	O	O
-विधायक	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-रंगदारी	NN	TEMP	B-MISC	O	B-MISC	O
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-अंजाम	NN	TEMP	B-MISC	O	B-MISC	OCC
-भुगतने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	O	O	B-MISC	OCC
-भी	RP	TEMP	O	O	I-MISC	O
-दी	VM	TEMP	O	O	I-MISC	-1
-गई	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आरजेडी
+विधायक
+का
+आरोप
+है
+कि
+रंगदारी
+नहीं
+देने
+पर
+उन्हें
+अंजाम
+भुगतने
+की
+धमकी
+भी
+दी
+गई
+.
 
-सिकरहना	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-अपर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-अधीक्षक	JJ	TEMP	O	O	O	O
-बमबम	NN	TEMP	O	O	O	O
-चौधरी	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-विधायक	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-एफआईआर	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-शुरू	NN	TEMP	B-MISC	O	B-MISC	ASP
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सिकरहना
+के
+अपर
+पुलिस
+अधीक्षक
+बमबम
+चौधरी
+ने
+बताया
+कि
+विधायक
+की
+शिकायत
+पर
+पुलिस
+ने
+एफआईआर
+दर्ज
+करने
+के
+बाद
+कार्रवाई
+शुरू
+कर
+दी
+है
+.
 
-एएसपी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-रंगदारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रकम	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-वाला	PSP	TEMP	O	O	O	O
-शख्स	NN	TEMP	O	O	O	O
-जल्द	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-पुलिस	NN	TEMP	O	O	O	O
-गिरफ्त	NN	TEMP	O	O	B-MISC	O
-में	PSP	TEMP	O	O	I-MISC	O
-होगा	VM	TEMP	O	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+एएसपी
+का
+कहना
+है
+कि
+रंगदारी
+के
+तौर
+पर
+रकम
+की
+मांग
+करने
+वाला
+शख्स
+जल्द
+ही
+पुलिस
+गिरफ्त
+में
+होगा
+.
 
-विधायक	JJ	TEMP	O	O	O	O
-फैसल	NN	TEMP	O	O	O	O
-रहमान	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कहना	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-मंगलवार	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-12	QC	TEMP	O	B	O	O
-सितंबर	NNP	TEMP	O	I	O	O
-की	PSP	TEMP	O	O	O	O
-सुबह	NN	TEMP	O	B	O	O
-जब	PRP	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-ढाका	NN	TEMP	O	O	O	O
-स्थित	JJ	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-आवास	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-थे	VM	TEMP	O	O	B-STAT	OCC
-,	SYM	TEMP	O	O	O	O
-तब	PRP	TEMP	O	O	O	O
-उनके	PRP	TEMP	O	O	O	O
-मोबाइल	JJ	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-भरा	VM	TEMP	I-MISC	O	I-MISC	O
-कॉल	NN	TEMP	B-MISC	O	B-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विधायक
+फैसल
+रहमान
+का
+कहना
+है
+कि
+मंगलवार
+,
+12
+सितंबर
+की
+सुबह
+जब
+वे
+ढाका
+स्थित
+अपने
+आवास
+पर
+थे
+,
+तब
+उनके
+मोबाइल
+फोन
+पर
+धमकी
+भरा
+कॉल
+आया
+.
 
-विधायक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	O
-करने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-ने	PSP	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-हफ्ते	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-भीतर	NST	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-रंगदारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-तौर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-मांगे	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-अभद्र	JJ	TEMP	O	O	O	O
-भाषा	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-इस्तेमाल	NN	TEMP	O	O	B-MISC	OCC
-किया	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+विधायक
+ने
+बताया
+कि
+फोन
+करने
+वाले
+ने
+1
+हफ्ते
+के
+भीतर
+20
+लाख
+रुपये
+रंगदारी
+के
+तौर
+पर
+मांगे
+और
+अभद्र
+भाषा
+का
+इस्तेमाल
+किया
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	O	DES
-करने	VM	TEMP	O	O	B-STAT	O
-वाले	PSP	TEMP	O	O	I-STAT	O
-ने	PSP	TEMP	O	O	O	O
-1	QC	TEMP	O	B	O	O
-सप्ताह	NN	TEMP	O	I	O	O
-के	PSP	TEMP	O	O	O	O
-भीतर	NST	TEMP	O	O	O	O
-राशि	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-देने	VM	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-अंजाम	NN	TEMP	B-MISC	O	B-MISC	OCC
-भुगतने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	O	O	B-MISC	OCC
-भी	RP	TEMP	O	O	I-MISC	O
-दी	VM	TEMP	O	O	I-MISC	-1
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+फोन
+करने
+वाले
+ने
+1
+सप्ताह
+के
+भीतर
+राशि
+नहीं
+देने
+पर
+अंजाम
+भुगतने
+की
+धमकी
+भी
+दी
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-आज	NN	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-अज्ञात	JJ	TEMP	O	O	O	O
-नंबर	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-फोन	NN	TEMP	O	O	B-MISC	O
-कर	VM	TEMP	O	O	I-MISC	O
-विधायक	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रंगदारी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-रुप	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बीस	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तुरत	NN	TEMP	O	O	O	OCC
-पूरा	JJ	TEMP	B-MISC	O	B-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-धमकी	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
+इसके
+बाद
+आज
+फिर
+अज्ञात
+नंबर
+से
+फोन
+कर
+विधायक
+से
+रंगदारी
+के
+रुप
+में
+बीस
+लाख
+रुपये
+की
+मांग
+को
+तुरत
+पूरा
+करने
+की
+धमकी
+दी
+गई
+है

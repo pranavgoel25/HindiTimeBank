@@ -1,283 +1,283 @@
 
-नई	JJ	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+नई
+दिल्ली
+(
+जेएनएन
+)
+.
 
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-छोटा	JJ	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	B-STAT	O
-लेने	VM	TEMP	O	O	I-STAT	O
-वालों	PSP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-अब	PRP	TEMP	O	O	O	O
-जेल	NN	TEMP	O	O	O	O
-जाना	VM	TEMP	O	O	O	O
-पड़ेगा	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+एक
+रुपये
+का
+छोटा
+सिक्का
+न
+लेने
+वालों
+को
+अब
+जेल
+जाना
+पड़ेगा
+.
 
-अफवाह	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-इन	DEM	TEMP	O	O	O	O
-दिनों	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-छोटा	JJ	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-आम	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	O	O	O	O
-व्यापारी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सरकारी	JJ	TEMP	O	O	O	O
-विभागों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-मुसीबत	NN	TEMP	O	O	B-MISC	OCC
-बन	VM	TEMP	O	O	I-MISC	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अफवाह
+के
+चलते
+इन
+दिनों
+एक
+रुपये
+का
+छोटा
+सिक्का
+आम
+लोगों
+से
+लेकर
+व्यापारी
+व
+सरकारी
+विभागों
+के
+लिए
+मुसीबत
+बन
+गया
+है
+.
 
-रिजर्व	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-लेने	VM	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-कड़ी	NNP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दिशानिर्देश	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रिजर्व
+बैंक
+ने
+सिक्का
+न
+लेने
+वालों
+के
+खिलाफ
+कड़ी
+कार्रवाई
+के
+दिशानिर्देश
+जारी
+किए
+हैं
+.
 
-रिजर्व	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	O	O	B-MISC	OCC
-दिए	VM	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-छोटा	JJ	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-नहीं	NEG	TEMP	O	O	B-MISC	OCC
-लेगा	VM	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-भारतीय	JJ	TEMP	O	O	O	O
-करेंसी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-अपमान	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-जेल	NN	TEMP	B-MISC	O	O	O
-भेजा	VM	TEMP	I-MISC	O	B-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रिजर्व
+बैंक
+ने
+निर्देश
+दिए
+हैं
+कि
+जो
+भी
+एक
+रुपये
+का
+छोटा
+सिक्का
+नहीं
+लेगा
+,
+उसके
+खिलाफ
+भारतीय
+करेंसी
+का
+अपमान
+करने
+का
+मुकदमा
+दर्ज
+कर
+जेल
+भेजा
+जाएगा
+.
 
-बैंकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दिए	VM	TEMP	B-MISC	O	B-MISC	OCC
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-निर्देश	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-करेंसी	JJ	TEMP	O	O	O	O
-चेस्ट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ये	DEM	TEMP	O	O	O	O
-सिक्का	NN	TEMP	B-MISC	O	O	O
-लेने	VM	TEMP	I-MISC	O	B-MISC	OCC
-में	PSP	TEMP	O	O	O	O
-ना-नुकुर	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-करेंगे	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बैंकों
+को
+भी
+दिए
+गए
+निर्देश
+:
+बैंकों
+को
+भी
+निर्देश
+दिए
+गए
+हैं
+कि
+वे
+अपनी
+करेंसी
+चेस्ट
+में
+ये
+सिक्का
+लेने
+में
+ना-नुकुर
+नहीं
+करेंगे
+.
 
-जिस	DEM	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-ऐसा	PRP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	B-MISC	OCC
-आएगा	VM	TEMP	O	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-कड़ी	NNP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	O	O	B-MISC	OCC
-होगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिस
+बैंक
+में
+ऐसा
+मामला
+आएगा
+,
+उसके
+प्रबंधक
+के
+खिलाफ
+कड़ी
+कार्रवाई
+होगी
+.
 
-अग्रणी	NN	TEMP	O	O	O	O
-बैंक	JJ	TEMP	O	O	O	O
-प्रबंधक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-रिजर्व	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दिशा	NN	TEMP	O	O	O	O
-निर्देश	NN	TEMP	O	O	B-MISC	OCC
-पहुंच	VM	TEMP	B-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अग्रणी
+बैंक
+प्रबंधक
+के
+पास
+रिजर्व
+बैंक
+के
+दिशा
+निर्देश
+पहुंच
+गए
+हैं
+.
 
-बरेली	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-अग्रणी	NN	TEMP	O	O	O	O
-बैंक	VM	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रबंधक	JJ	TEMP	O	O	O	O
-बृजमोहन	NN	TEMP	O	O	O	O
-कहते	VM	TEMP	B-MISC	O	B-MISC	REP
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-रिजर्व	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-साफ	JJ	TEMP	O	O	O	O
-निर्देश	NN	TEMP	O	O	B-MISC	OCC
-दिए	VM	TEMP	O	O	I-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-छोटा	JJ	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	B-MISC	O
-लेने	VM	TEMP	O	O	I-MISC	O
-वालों	PSP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कड़ी	XC	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बरेली
+के
+जिला
+अग्रणी
+बैंक
+के
+प्रबंधक
+बृजमोहन
+कहते
+हैं
+कि
+रिजर्व
+बैंक
+ने
+साफ
+निर्देश
+दिए
+हैं
+कि
+एक
+रुपये
+का
+छोटा
+सिक्का
+न
+लेने
+वालों
+पर
+कड़ी
+कार्रवाई
+की
+जाए
+.
 
-मुकदमा	NN	TEMP	O	O	O	O
-दर्ज	JJ	TEMP	B-MISC	O	B-MISC	O
-कराकर	VM	TEMP	I-MISC	O	I-MISC	O
-उन्हें	PRP	TEMP	O	O	O	O
-जेल	NN	TEMP	B-MISC	O	B-MISC	O
-भिजवाया	VM	TEMP	I-MISC	O	I-MISC	OCC
-जाएगा	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मुकदमा
+दर्ज
+कराकर
+उन्हें
+जेल
+भिजवाया
+जाएगा
+.
 
-गौरतलब	NN	TEMP	O	O	B-STAT	DEC
-है	VM	TEMP	O	O	I-STAT	O
-कि	CC	TEMP	O	O	O	O
-बीते	JJ	TEMP	O	B	O	O
-साल	NN	TEMP	O	I	O	O
-10	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	O
-भी	RP	TEMP	O	O	O	O
-कुछ	QF	TEMP	O	O	O	O
-अफवाहें	NN	TEMP	O	O	O	O
-सामने	NST	TEMP	B-MISC	O	B-MISC	OCC
-आई	VM	TEMP	I-MISC	O	I-MISC	O
-थीं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गौरतलब
+है
+कि
+बीते
+साल
+10
+रुपए
+के
+सिक्के
+को
+लेकर
+भी
+कुछ
+अफवाहें
+सामने
+आई
+थीं
+.
 
-लोग	NN	TEMP	O	O	O	O
-डर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मारे	VM	TEMP	B-MISC	O	O	O
-10	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-लेने	VM	TEMP	O	O	B-MISC	OCC
-से	PSP	TEMP	O	O	O	O
-बच	VM	TEMP	B-MISC	O	B-MISC	OCC
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+लोग
+डर
+के
+मारे
+10
+रुपए
+का
+सिक्का
+लेने
+से
+बच
+रहे
+थे
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-आरबीआई	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-इसी	PRP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-नया	JJ	TEMP	O	O	O	O
-सिक्का	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-दिया	VAUX	TEMP	O	O	I-MISC	O
-जिसे	PRP	TEMP	O	O	O	O
-लोग	NN	TEMP	O	O	O	O
-नकली	JJ	TEMP	O	O	B-MISC	OCC
-मानने	VM	TEMP	O	O	I-MISC	O
-लगे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+आरबीआई
+ने
+इसी
+बीच
+10
+रुपए
+का
+नया
+सिक्का
+जारी
+कर
+दिया
+जिसे
+लोग
+नकली
+मानने
+लगे
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-आरबीआई	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-स्पष्टीकरण	NN	TEMP	O	O	O	O
-जारी	JJ	TEMP	B-MISC	O	B-MISC	O
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-पड़ा	XC	TEMP	I-MISC	O	O	O
-था	NNP	TEMP	I-MISC	O	O	O
-कि	CC	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पुराने	JJ	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-बिना	NEG	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सिंबल	NN	TEMP	O	O	O	O
-वाले	PSP	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-दोनों	NN	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-मान्य	JJ	TEMP	O	O	B-STAT	O
-हैं	VM	TEMP	O	O	I-STAT	O
+इसके
+बाद
+आरबीआई
+को
+स्पष्टीकरण
+जारी
+करना
+पड़ा
+था
+कि
+10
+रुपए
+के
+पुराने
+सिक्के
+और
+बिना
+रुपए
+के
+सिंबल
+वाले
+सिक्के
+दोनों
+ही
+मान्य
+हैं

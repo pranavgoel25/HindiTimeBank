@@ -1,135 +1,135 @@
 
-जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-भिवानी	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-गांव	XC	TEMP	O	O	O	O
-इंदीवाली	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नजदीक	JJ	TEMP	O	O	O	O
-मोटरसाइकिल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	B-STAT	O
-होकर	VM	TEMP	O	O	I-STAT	O
-लौट	VM	TEMP	O	O	I-STAT	OCC
-रहे	VAUX	TEMP	O	O	I-STAT	O
-व्यक्ति	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-रास्ता	NN	TEMP	O	O	B-MISC	OCC
-रोककर	VM	TEMP	O	O	I-MISC	O
-करीब	RB	TEMP	O	O	O	O
-आधा	QF	TEMP	O	O	O	O
-दर्जन	NN	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-मारपीट	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जागरण
+संवाददाता
+,
+भिवानी
+:
+गांव
+इंदीवाली
+के
+नजदीक
+मोटरसाइकिल
+पर
+सवार
+होकर
+लौट
+रहे
+व्यक्ति
+का
+रास्ता
+रोककर
+करीब
+आधा
+दर्जन
+युवकों
+ने
+उसके
+साथ
+मारपीट
+की
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उक्त	JJ	TEMP	O	O	O	O
-लोगों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-10600	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-छीन	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+उक्त
+लोगों
+ने
+उसके
+10600
+रुपये
+भी
+छीन
+लिए
+.
 
-अस्पताल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-उपचाराधीन	JJ	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-ढिगावा	JJ	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-गोवर्धन	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-शनिवार	JJ	TEMP	O	B	O	O
-शाम	NN	TEMP	O	I	O	O
-करीब	RB	TEMP	O	O	O	O
-7	QC	TEMP	O	O	O	O
-बजे	VM	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-सुगंरपुर	NNP	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मोटरसाइकिल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	B-MISC	O
-होकर	VM	TEMP	O	O	I-MISC	O
-गांव	NN	TEMP	O	O	B-MISC	O
-आ	VM	TEMP	O	O	I-MISC	OCC
-रहा	VAUX	TEMP	O	O	I-MISC	O
-था	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अस्पताल
+में
+उपचाराधीन
+गांव
+ढिगावा
+निवासी
+गोवर्धन
+ने
+बताया
+कि
+वह
+शनिवार
+शाम
+करीब
+7
+बजे
+वह
+सुगंरपुर
+से
+मोटरसाइकिल
+पर
+सवार
+होकर
+गांव
+आ
+रहा
+था
+.
 
-इसी	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-इंदीवाली	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-पहुंचा	VM	TEMP	B-MISC	O	B-MISC	OCC
-तो	CC	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-आधा	QF	TEMP	O	O	O	O
-दर्जन	NN	TEMP	O	O	O	O
-युवकों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-रुकवा	VM	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उसके	PRP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-मारपीट	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+दौरान
+जब
+वह
+गांव
+इंदीवाली
+के
+पास
+पहुंचा
+तो
+करीब
+आधा
+दर्जन
+युवकों
+ने
+उसे
+रुकवा
+लिया
+और
+उसके
+साथ
+मारपीट
+कर
+दी
+.
 
-उक्त	JJ	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-उसे	PRP	TEMP	O	O	O	O
-घायल	JJ	TEMP	O	O	O	O
-अवस्था	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-छोडकर	VM	TEMP	O	O	O	O
-गोवर्धन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-10	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-600	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-छीनकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-फरार	NN	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उक्त
+युवक
+उसे
+घायल
+अवस्था
+में
+छोडकर
+गोवर्धन
+के
+10
+हजार
+600
+रुपये
+छीनकर
+फरार
+हो
+गए
+.
 
-घायल	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-उपचार	NN	TEMP	O	O	O	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-चौ	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+घायल
+को
+उपचार
+के
+लिए
+चौ
+.
 
-बंसीलाल	NNP	TEMP	O	O	O	O
-नागरिक	JJ	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भर्ती	NN	TEMP	O	O	B-MISC	OCC
-करवाया	VM	TEMP	B-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बंसीलाल
+नागरिक
+अस्पताल
+में
+भर्ती
+करवाया
+गया
+है
+.

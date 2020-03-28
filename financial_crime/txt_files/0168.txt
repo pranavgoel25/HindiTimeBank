@@ -1,176 +1,176 @@
-﻿संवाद	JJ	TEMP	O	O	O	O
-सूत्र	NN	TEMP	O	O	O	O
-तपा	VM	TEMP	O	O	O	O
+﻿संवाद
+सूत्र
+तपा
 
-बरनाला	XC	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-शिरोमणि	XC	TEMP	O	O	O	O
-गुरुद्वारा	XC	TEMP	O	O	O	O
-प्रबंधक	XC	TEMP	O	O	O	O
-कमेटी	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-बलदेव	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
-चुंघा	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शिरोमणि	XC	TEMP	O	O	O	O
-गुरुद्वारा	XC	TEMP	O	O	O	O
-प्रबंधक	XC	TEMP	O	O	O	O
-कमेटी	NNP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-कैंसर	XC	TEMP	O	O	O	O
-पीडितों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आर्थिक	JJ	TEMP	O	O	O	O
-सहायता	NN	TEMP	O	O	O	O
-देने	VM	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	O	O
-चलाए	VM	TEMP	O	O	B-STAT	OCC
-अभियान	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-तहत	JJ	TEMP	O	O	O	O
-गुरुद्वारा	XC	TEMP	O	O	O	O
-साहिब	XC	TEMP	O	O	O	O
-पातशाही	NNP	TEMP	O	O	O	O
-6	QC	TEMP	O	O	O	O
-वीं	XC	TEMP	O	O	O	O
-बैसाखी	NN	TEMP	O	O	O	O
-वाला	PSP	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कैंसर	XC	TEMP	O	O	O	O
-पीडितों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-1	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चेक	NN	TEMP	O	O	O	O
-वितरित	JJ	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बरनाला
+:
+शिरोमणि
+गुरुद्वारा
+प्रबंधक
+कमेटी
+के
+सदस्य
+बलदेव
+¨
+सह
+चुंघा
+ने
+शिरोमणि
+गुरुद्वारा
+प्रबंधक
+कमेटी
+द्वारा
+कैंसर
+पीडितों
+को
+आर्थिक
+सहायता
+देने
+की
+चलाए
+अभियान
+के
+तहत
+गुरुद्वारा
+साहिब
+पातशाही
+6
+वीं
+बैसाखी
+वाला
+में
+कैंसर
+पीडितों
+को
+1
+लाख
+50
+हजार
+की
+राशि
+के
+चेक
+वितरित
+किए
+गए
+.
 
-एसजीपीसी	NN	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-बलदेव	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	QC	TEMP	O	O	O	O
-चुघा	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-भजन	NN	TEMP	O	O	O	O
-¨	JJ	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
+एसजीपीसी
+सदस्य
+बलदेव
+¨
+सह
+चुघा
+ने
+बताया
+कि
+भजन
+¨
+सह
 
-गुरमेल	XC	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
+गुरमेल
+कौर
 
-परमजीत	JJ	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
+परमजीत
+कौर
 
-कुलदीप	XC	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
+कुलदीप
+कौर
 
-गुरमीत	XC	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कैंसर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-इलाज	NN	TEMP	B-MISC	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-5	QC	TEMP	O	O	O	O
-कैंसर	NN	TEMP	O	O	O	O
-पीडितों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चेक	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गुरमीत
+कौर
+को
+कैंसर
+के
+इलाज
+के
+लिए
+20
+-
+20
+हजार
+रुपये
+के
+5
+कैंसर
+पीडितों
+को
+चेक
+दिए
+.
 
-इसके	PRP	TEMP	O	O	O	O
-इलावा	NN	TEMP	O	O	O	O
-गुरुद्वारा	XC	TEMP	O	O	O	O
-भगत	XC	TEMP	O	O	O	O
-रविदास	NNP	TEMP	O	O	O	O
-मौड	XC	TEMP	O	O	O	O
-नाभा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बर्तन	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-सुखपुरा	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गुरद्वारा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-चेक	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-व	CC	TEMP	O	O	O	O
-म	XC	TEMP	O	O	O	O
-¨	NNP	TEMP	O	O	O	O
-हद्र	XC	TEMP	O	O	O	O
-कौर	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-हजार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-नकद	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-चेक	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+इलावा
+गुरुद्वारा
+भगत
+रविदास
+मौड
+नाभा
+को
+बर्तन
+व
+सुखपुरा
+के
+गुरद्वारा
+को
+चेक
+दिए
+गए
+व
+म
+¨
+हद्र
+कौर
+को
+20
+हजार
+की
+नकद
+राशि
+का
+चेक
+दिया
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-शिरोमणि	XC	TEMP	O	O	O	O
-गुरुद्वारा	NNP	TEMP	O	O	O	O
-प्रबंधक	JJ	TEMP	O	O	O	O
-कमेटी	NN	TEMP	O	O	O	O
-बिना	NEG	TEMP	O	O	O	O
-किसी	PRP	TEMP	O	O	O	O
-भेद-भाव	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-जाति-पात	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-आर्थिक	JJ	TEMP	O	O	O	O
-राशि	NN	TEMP	O	O	O	O
-मुहैया	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+कि
+शिरोमणि
+गुरुद्वारा
+प्रबंधक
+कमेटी
+बिना
+किसी
+भेद-भाव
+व
+जाति-पात
+से
+यह
+आर्थिक
+राशि
+मुहैया
+कर
+रही
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-अवसर	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जसबीर	JJ	TEMP	O	O	O	O
-¨	NN	TEMP	O	O	O	O
-सह	QC	TEMP	O	O	O	O
-धम्मी	NN	TEMP	O	O	O	O
+इस
+अवसर
+पर
+जसबीर
+¨
+सह
+धम्मी
 
-मैनेजर	XC	TEMP	O	O	O	O
-अमरीक	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	XC	TEMP	O	O	O	O
+मैनेजर
+अमरीक
+¨
+सह
 
-जग्गा	XC	TEMP	O	O	O	O
-¨	XC	TEMP	O	O	O	O
-सह	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-उपस्थित	JJ	TEMP	O	O	B-STAT	DEC
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जग्गा
+¨
+सह
+आदि
+उपस्थित
+थे
+.

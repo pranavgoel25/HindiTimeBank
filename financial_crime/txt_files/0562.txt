@@ -1,424 +1,424 @@
 
-कानपुर	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+कानपुर
+(
+जेएनएन
+)
+.
 
-राज्य	NN	TEMP	O	O	O	O
-वित्त	JJ	TEMP	O	O	O	O
-आयोग	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-मिली	VM	TEMP	O	O	B-STAT	OCC
-धनराशि	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बड़ा	XC	TEMP	O	O	O	O
-घोटाला	NN	TEMP	O	O	B-MISC	O
-सामने	NST	TEMP	B-MISC	O	I-MISC	OCC
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+राज्य
+वित्त
+आयोग
+से
+मिली
+धनराशि
+में
+बड़ा
+घोटाला
+सामने
+आया
+है
+.
 
-घाटमपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-पतारा	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-चौबेपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शिवराजपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बिधनू	JJ	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-भीतरगांव	NST	TEMP	O	O	O	O
-ब्लाक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-गांवों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-64,65,01,967	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-घोटाले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-भेंट	NN	TEMP	O	O	O	OCC
-चढ़	NN	TEMP	B-MISC	O	B-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+घाटमपुर
+,
+पतारा
+,
+चौबेपुर
+,
+शिवराजपुर
+,
+बिधनू
+और
+भीतरगांव
+ब्लाक
+के
+200
+से
+अधिक
+गांवों
+में
+64,65,01,967
+रुपये
+घोटाले
+की
+भेंट
+चढ़
+गए
+.
 
-यह	DEM	TEMP	O	O	O	O
-खुलासा	NN	TEMP	O	O	O	O
-सहकारी	JJ	TEMP	O	O	O	O
-समितियां	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-पंचायतें	NN	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-ऑडिटरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-किया	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+खुलासा
+सहकारी
+समितियां
+एवं
+पंचायतें
+विभाग
+के
+ऑडिटरों
+ने
+किया
+.
 
-ऑडिट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-प्रधान	JJ	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-पंचायत	XC	TEMP	O	O	O	O
-सचिव	XC	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-हिसाब	NN	TEMP	B-MISC	O	O	O
-नहीं	NEG	TEMP	I-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-सके	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऑडिट
+के
+दौरान
+प्रधान
+और
+पंचायत
+सचिव
+कोई
+हिसाब
+नहीं
+दे
+सके
+.
 
-मांगने	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-बिल	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बाउचर	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कैशमेमो	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	B-MISC	O	I-MISC	O
-दिया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मांगने
+के
+बाद
+भी
+उन्होंने
+बिल
+,
+बाउचर
+और
+कैशमेमो
+नहीं
+दिया
+.
 
-अब	PRP	TEMP	O	O	O	O
-डीपीआरओ	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-भेजी	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-60	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-जवाब	NN	TEMP	B-MISC	O	O	O
-उपलब्ध	JJ	TEMP	I-MISC	O	B-MISC	O
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अब
+डीपीआरओ
+को
+रिपोर्ट
+भेजी
+गई
+है
+और
+उनसे
+60
+दिन
+में
+जवाब
+उपलब्ध
+कराने
+को
+कहा
+गया
+है
+.
 
-गांवों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आने	VM	TEMP	O	O	B-STAT	DES
-वाले	PSP	TEMP	O	O	I-STAT	O
-धन	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-खूब	JJ	TEMP	O	O	O	O
-बंदरबांट	NN	TEMP	O	O	B-MISC	OCC
-होती	VM	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+गांवों
+के
+विकास
+को
+आने
+वाले
+धन
+में
+खूब
+बंदरबांट
+होती
+है
+.
 
-वजह	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-पंचायत	XC	TEMP	O	O	O	O
-राज	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-खंड	XC	TEMP	O	O	O	O
-विकास	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-अफसरों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अनदेखी	JJ	TEMP	O	O	B-STAT	DECL
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+वजह
+,
+जिला
+पंचायत
+राज
+अधिकारी
+,
+खंड
+विकास
+अधिकारी
+व
+अन्य
+अफसरों
+की
+अनदेखी
+है
+.
 
-इसका	PRP	TEMP	O	O	O	O
-फायदा	NN	TEMP	B-MISC	O	B-MISC	OCC
-उठाते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-प्रधान	JJ	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-ग्राम	XC	TEMP	O	O	O	O
-पंचायत	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-ग्राम्य	JJ	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-सचिव	XC	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-घोटाले	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसका
+फायदा
+उठाते
+हुए
+प्रधान
+,
+ग्राम
+पंचायत
+अधिकारी
+एवं
+ग्राम्य
+विकास
+अधिकारी
+(
+सचिव
+)
+घोटाले
+कर
+रहे
+हैं
+.
 
-ऑडिटरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अलग-अलग	JJ	TEMP	O	O	O	O
-वित्तीय	JJ	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुए	VM	TEMP	O	O	B-MISC	O
-कार्यों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ऑडिट	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऑडिटरों
+ने
+अलग-अलग
+वित्तीय
+वर्ष
+में
+हुए
+कार्यों
+का
+ऑडिट
+किया
+.
 
-पत्रावलियों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-खूब	QF	TEMP	O	O	O	O
-विकास	NN	TEMP	B-MISC	O	B-MISC	OCC
-हुआ	VM	TEMP	I-MISC	O	I-MISC	O
-,	SYM	TEMP	O	O	O	O
-लेकिन	CC	TEMP	O	O	O	O
-विकास	NN	TEMP	O	O	O	O
-कार्य	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-ईंट	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-सामग्री	NN	TEMP	O	O	O	O
-कहां	WQ	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-खरीदी	VM	TEMP	B-MISC	O	B-MISC	OCC
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-इसका	PRP	TEMP	O	O	O	O
-कोई	PRP	TEMP	O	O	O	O
-लेखाजोखा	NN	TEMP	O	O	B-MISC	OCC
-नहीं	NEG	TEMP	O	O	I-MISC	O
-है	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पत्रावलियों
+में
+तो
+खूब
+विकास
+हुआ
+,
+लेकिन
+विकास
+कार्य
+के
+लिए
+ईंट
+व
+अन्य
+सामग्री
+कहां
+से
+खरीदी
+गई
+इसका
+कोई
+लेखाजोखा
+नहीं
+है
+.
 
-ऑडिटरों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बैंकों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-प्रधानों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाते	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-विवरण	NN	TEMP	B-MISC	O	B-MISC	OCC
-लिया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-पता	JJ	TEMP	B-MISC	O	B-MISC	OCC
-चला	VM	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-किसने	WQ	TEMP	O	O	O	O
-कब	WQ	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-कितनी	QF	TEMP	O	O	O	O
-धनराशि	NN	TEMP	O	O	O	O
-खर्च	NN	TEMP	O	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऑडिटरों
+ने
+बैंकों
+से
+प्रधानों
+के
+खाते
+का
+विवरण
+लिया
+तो
+पता
+चला
+कि
+किसने
+कब
+और
+कितनी
+धनराशि
+खर्च
+की
+.
 
-ज्येष्ठ	JJ	TEMP	O	O	O	O
-लेखा	XC	TEMP	O	O	O	O
-परीक्षा	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-सुनील	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भीतरगांव	NST	TEMP	O	O	O	O
-ब्लाक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-धमना	JJ	TEMP	O	O	O	O
-बुजुर्ग	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सूलपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हसपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-भीतरगांव	NST	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गूंजा	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बैजूपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बरीगांव	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बेहटा	JJ	TEMP	O	O	O	O
-गंभीरपुर	JJ	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-56	QC	TEMP	O	O	O	O
-गांवों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ऑडिट	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ज्येष्ठ
+लेखा
+परीक्षा
+अधिकारी
+सुनील
+कुमार
+ने
+भीतरगांव
+ब्लाक
+के
+धमना
+बुजुर्ग
+,
+सूलपुर
+,
+हसपुर
+,
+भीतरगांव
+,
+गूंजा
+,
+बैजूपुर
+,
+बरीगांव
+,
+बेहटा
+गंभीरपुर
+समेत
+56
+गांवों
+का
+ऑडिट
+किया
+है
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सहायक	JJ	TEMP	O	O	O	O
-लेखा	XC	TEMP	O	O	O	O
-परीक्षा	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
-प्रमोद	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-पतारा	JJ	TEMP	O	O	O	O
-ब्लाक	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-छाजा	VM	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-हथेई	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-भदेवना	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बम्बुराहा	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सहलुरती	NN	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-गिरसी	NN	TEMP	O	O	O	O
-समेत	PSP	TEMP	O	O	O	O
-24	QC	TEMP	O	O	O	O
-गांवों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ऑडिट	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+,
+सहायक
+लेखा
+परीक्षा
+अधिकारी
+प्रमोद
+कुमार
+ने
+पतारा
+ब्लाक
+के
+छाजा
+,
+हथेई
+,
+भदेवना
+,
+बम्बुराहा
+,
+सहलुरती
+,
+गिरसी
+समेत
+24
+गांवों
+का
+ऑडिट
+किया
+.
 
-इसी	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-घाटमपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-चौबेपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-शिवराजपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-बिधनू	JJ	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-ब्लाकों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-200	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-गांवों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-हुए	VM	TEMP	O	O	B-MISC	O
-कार्यों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ऑडिट	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+तरह
+घाटमपुर
+,
+चौबेपुर
+,
+शिवराजपुर
+,
+बिधनू
+आदि
+ब्लाकों
+के
+200
+से
+अधिक
+गांवों
+में
+हुए
+कार्यों
+का
+ऑडिट
+किया
+गया
+.
 
-पतारा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-वित्तीय	JJ	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-2004	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-0	QC	TEMP	O	B	O	O
-5	QC	TEMP	O	I	O	O
-से	PSP	TEMP	O	O	O	O
-2013	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-14	QC	TEMP	O	B	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	B-STAT	O
-हुए	VM	TEMP	O	O	I-STAT	O
-कार्यों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ऑडिट	NN	TEMP	O	O	B-MISC	OCC
-हुआ	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पतारा
+में
+वित्तीय
+वर्ष
+2004
+-
+0
+5
+से
+2013
+-
+14
+के
+बीच
+हुए
+कार्यों
+का
+ऑडिट
+हुआ
+.
 
-इसी	DEM	TEMP	O	O	O	O
-तरह	NN	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-गांवों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-अलग-अलग	JJ	TEMP	O	O	O	O
-वित्तीय	JJ	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कार्यों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-ऑडिट	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसी
+तरह
+अन्य
+गांवों
+में
+भी
+अलग-अलग
+वित्तीय
+वर्ष
+के
+कार्यों
+का
+ऑडिट
+किया
+गया
+.
 
-क्या	WQ	TEMP	O	O	O	O
-कहते	VM	TEMP	O	O	B-MISC	O
-हैं	VAUX	TEMP	O	O	I-MISC	O
-अधिकारी	JJ	TEMP	O	O	O	O
-''	NN	TEMP	O	O	O	O
-अगर	CC	TEMP	O	O	O	O
-अनियमितता	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-तो	CC	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दोषी	JJ	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-उन	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-होगी	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+क्या
+कहते
+हैं
+अधिकारी
+''
+अगर
+अनियमितता
+है
+तो
+जो
+भी
+दोषी
+हैं
+उन
+पर
+कार्रवाई
+होगी
+.
 
-डीपीआरओ	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-मंगाकर	VM	TEMP	O	O	B-MISC	OCC
-देखेंगे	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीपीआरओ
+से
+रिपोर्ट
+मंगाकर
+देखेंगे
+.
 
--	SYM	TEMP	O	O	O	O
-अरुण	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-सीडीओ	XC	TEMP	O	O	O	O
-''	XC	TEMP	O	O	O	O
-ऑडिट	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-गबन	NN	TEMP	O	O	B-MISC	O
-पकड़ा	VM	TEMP	B-MISC	O	I-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+-
+अरुण
+कुमार
+,
+सीडीओ
+''
+ऑडिट
+में
+गबन
+पकड़ा
+गया
+है
+.
 
-डीपीआरओ	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-भेजी	VM	TEMP	O	O	B-MISC	OCC
-गई	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीपीआरओ
+को
+रिपोर्ट
+भेजी
+गई
+है
+.
 
-64	QC	TEMP	O	O	O	O
-करोड़	XC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-अधिक	QF	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-गबन	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+64
+करोड़
+रुपये
+से
+अधिक
+का
+गबन
+है
+.
 
--	SYM	TEMP	O	O	O	O
-शिवपाल	XC	TEMP	O	O	O	O
-हंस	XC	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-प्रभारी	NN	TEMP	O	O	O	O
-सहायक	JJ	TEMP	O	O	O	O
-लेखा	XC	TEMP	O	O	O	O
-परीक्षा	XC	TEMP	O	O	O	O
-अधिकारी	NN	TEMP	O	O	O	O
+-
+शिवपाल
+हंस
+,
+प्रभारी
+सहायक
+लेखा
+परीक्षा
+अधिकारी

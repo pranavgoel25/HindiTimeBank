@@ -1,356 +1,356 @@
-﻿सारण	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+﻿सारण
+.
 
-रेफरल	XC	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-मढ़ौरा	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-दवा	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-अन्य	JJ	TEMP	O	O	O	O
-उपयोगी	JJ	TEMP	O	O	O	O
-चिकित्सीय	JJ	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-खरीद	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-चिकित्सा	XC	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-लाखों	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-घपला	NN	TEMP	B-MISC	O	B-MISC	OCC
-किए	VM	TEMP	I-MISC	O	I-MISC	O
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-प्रकाश	NN	TEMP	B-MISC	O	B-MISC	O
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रेफरल
+अस्पताल
+मढ़ौरा
+में
+दवा
+के
+साथ
+अन्य
+उपयोगी
+चिकित्सीय
+सामान
+की
+खरीद
+के
+नाम
+पर
+प्रभारी
+चिकित्सा
+पदाधिकारी
+द्वारा
+लाखों
+रुपये
+का
+घपला
+किए
+जाने
+का
+मामला
+प्रकाश
+में
+आया
+है
+.
 
-रोगी	NN	TEMP	O	O	O	O
-कल्याण	XC	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सदस्य	NN	TEMP	O	O	O	O
-रोहित	JJ	TEMP	O	O	O	O
-भारद्वाज	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-सिविल	XC	TEMP	O	O	O	O
-सर्जन	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-विभागीय	JJ	TEMP	O	O	O	O
-सचिव	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-आवेदन	NN	TEMP	B-MISC	O	B-MISC	IAC
-देकर	VM	TEMP	I-MISC	O	I-MISC	O
-मामले	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-निष्पक्ष	JJ	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-मांग	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+रोगी
+कल्याण
+समिति
+के
+सदस्य
+रोहित
+भारद्वाज
+ने
+सिविल
+सर्जन
+एवं
+विभागीय
+सचिव
+को
+आवेदन
+देकर
+मामले
+की
+निष्पक्ष
+जांच
+कराने
+की
+मांग
+की
+है
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-मढ़ौरा	NN	TEMP	O	O	O	O
-रेफरल	JJ	TEMP	O	O	O	O
-अस्पताल	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-चिकित्सा	XC	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
-डॉ	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+बताया
+है
+कि
+मढ़ौरा
+रेफरल
+अस्पताल
+के
+प्रभारी
+चिकित्सा
+पदाधिकारी
+डॉ
+.
 
-वीरेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-31	QC	TEMP	O	B	O	O
-मार्च	NNP	TEMP	O	I	O	O
-2017	QC	TEMP	O	I	O	O
-को	PSP	TEMP	O	O	O	O
-मगध	JJ	TEMP	O	O	O	O
-हॉस्पिटल	NN	TEMP	O	O	O	O
-फर्नीचर	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-सर्जिकल	JJ	TEMP	O	O	O	O
-प्राइवेट	XC	TEMP	O	O	O	O
-लिमिटेड	XC	TEMP	O	O	O	O
-पटना	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एडवाइस	NN	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-सीओ	VM	TEMP	B-MISC	O	O	O
-31728925619	QC	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-माध्यम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-ऑफ	XC	TEMP	O	O	O	O
-इंडिया	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खाता	NN	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-35436198789	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-खरीदारी	NN	TEMP	B-MISC	O	O	OCC
-हेतु	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-27	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-443	QC	TEMP	O	O	O	O
-रूपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वीरेश
+कुमार
+द्वारा
+31
+मार्च
+2017
+को
+मगध
+हॉस्पिटल
+फर्नीचर
+एवं
+सर्जिकल
+प्राइवेट
+लिमिटेड
+पटना
+को
+एडवाइस
+संख्या
+सीओ
+31728925619
+के
+माध्यम
+से
+बैंक
+ऑफ
+इंडिया
+के
+खाता
+संख्या
+35436198789
+से
+सामान
+खरीदारी
+हेतु
+एक
+लाख
+27
+हजार
+443
+रूपये
+का
+भुगतान
+किया
+गया
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-जय	XC	TEMP	O	O	O	O
-महावीर	NNP	TEMP	O	O	O	O
-ट्रेड्स	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-खाता	VM	TEMP	O	O	O	O
-संख्या	NN	TEMP	O	O	O	O
-36258720348	QC	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-भुगतान	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+जय
+महावीर
+ट्रेड्स
+को
+खाता
+संख्या
+36258720348
+से
+दो
+लाख
+18
+हजार
+रुपये
+का
+भुगतान
+किया
+गया
+.
 
-जबकि	CC	TEMP	O	O	O	O
-इस	DEM	TEMP	O	O	O	O
-बात	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	O	O	O	O
-स्टोर	JJ	TEMP	O	O	O	O
-इंचार्ज	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-सकी	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-न	NEG	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-खरीद	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	VM	TEMP	I-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-दवाएं	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-उपयोगी	JJ	TEMP	O	O	O	O
-चिकित्सीय	JJ	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-रखे	VM	TEMP	B-MISC	O	B-STAT	OCC
-गए	VAUX	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जबकि
+इस
+बात
+की
+जानकारी
+स्टोर
+इंचार्ज
+को
+नहीं
+हो
+सकी
+और
+न
+ही
+खरीद
+की
+गई
+दवाएं
+व
+उपयोगी
+चिकित्सीय
+सामान
+स्टोर
+में
+रखे
+गए
+.
 
-कुल	QF	TEMP	O	O	O	O
-मिला	VM	TEMP	O	O	B-MISC	OCC
-कर	VAUX	TEMP	O	O	I-MISC	O
-प्रभारी	JJ	TEMP	O	O	O	O
-चिकित्सा	XC	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-लगभग	RB	TEMP	O	O	O	O
-साढे	QF	TEMP	O	O	O	O
-तीन	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-बंटाधार	NN	TEMP	B-MISC	O	B-MISC	OCC
-कर	VM	TEMP	I-MISC	O	I-MISC	O
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+कुल
+मिला
+कर
+प्रभारी
+चिकित्सा
+पदाधिकारी
+ने
+लगभग
+साढे
+तीन
+लाख
+रुपये
+का
+बंटाधार
+कर
+दिया
+.
 
-स्टोर	NN	TEMP	O	O	O	O
-इंचार्ज	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पूछे	VM	TEMP	B-MISC	O	B-MISC	OCC
-जाने	VAUX	TEMP	I-MISC	O	I-MISC	O
-पर	PSP	TEMP	O	O	O	O
-उसने	PRP	TEMP	O	O	O	O
-सामान	NN	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-नहीं	NEG	TEMP	B-MISC	O	B-MISC	OCC
-जमा	NN	TEMP	I-MISC	O	I-MISC	O
-कराने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-बताते	VM	TEMP	B-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-घोटाला	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-संभावना	NN	TEMP	O	O	B-MISC	OCC
-जताई	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+स्टोर
+इंचार्ज
+से
+पूछे
+जाने
+पर
+उसने
+सामान
+स्टोर
+में
+नहीं
+जमा
+कराने
+की
+बात
+बताते
+हुए
+घोटाला
+की
+संभावना
+जताई
+.
 
-जब	PRP	TEMP	O	O	O	O
-मामला	NN	TEMP	O	O	O	O
-रोगी	NN	TEMP	O	O	O	O
-कल्याण	XC	TEMP	O	O	O	O
-समिति	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-सदस्यों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-संज्ञान	NN	TEMP	B-MISC	O	B-MISC	OCC
-में	PSP	TEMP	I-MISC	O	I-MISC	O
-आया	VM	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-वे	PRP	TEMP	O	O	O	O
-स्टोर	NN	TEMP	O	O	O	O
-इंचार्ज	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-दबाव	NN	TEMP	B-MISC	O	O	O
-बनाने	VM	TEMP	I-MISC	O	B-MISC	OCC
-लगे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जब
+मामला
+रोगी
+कल्याण
+समिति
+के
+सदस्यों
+के
+संज्ञान
+में
+आया
+तो
+वे
+स्टोर
+इंचार्ज
+पर
+दबाव
+बनाने
+लगे
+.
 
-जिसका	PRP	TEMP	O	O	O	O
-ऑडियो	XC	TEMP	O	O	O	O
-क्लिप	NN	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	B-MISC	O	B-MISC	OCC
-होने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-दावा	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+जिसका
+ऑडियो
+क्लिप
+उपलब्ध
+होने
+का
+दावा
+किया
+गया
+है
+.
 
-आवेदन	NN	TEMP	O	O	O	O
-कर्ता	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-है	VAUX	TEMP	O	O	I-MISC	O
-कि	CC	TEMP	O	O	O	O
-ये	DEM	TEMP	O	O	O	O
-तो	RP	TEMP	O	O	O	O
-बानगी	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+आवेदन
+कर्ता
+ने
+बताया
+है
+कि
+ये
+तो
+बानगी
+है
+.
 
-यदि	CC	TEMP	O	O	O	O
-निष्पक्ष	JJ	TEMP	O	O	O	O
-जांच	NN	TEMP	B-MISC	O	B-MISC	OCC
-कराई	VM	TEMP	I-MISC	O	I-MISC	O
-जाए	VAUX	TEMP	I-MISC	O	I-MISC	O
-तो	CC	TEMP	O	O	O	O
-बडे	JJ	TEMP	O	O	O	O
-मामले	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-उजागर	JJ	TEMP	B-MISC	O	B-MISC	OCC
-हो	VM	TEMP	I-MISC	O	I-MISC	O
-सकते	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यदि
+निष्पक्ष
+जांच
+कराई
+जाए
+तो
+बडे
+मामले
+भी
+उजागर
+हो
+सकते
+हैं
+.
 
-अस्पताल	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कुव्यवस्था	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-ले	VM	TEMP	O	O	O	O
-अनुमंडल	XC	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-जिला	JJ	TEMP	O	O	O	O
-परिषद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-चेयरपर्सन	NN	TEMP	O	O	O	O
-मीना	XC	TEMP	O	O	O	O
-अरुण	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-अपनी	PRP	TEMP	O	O	O	O
-नाराजगी	NN	TEMP	O	O	O	O
-औचक	JJ	TEMP	O	O	O	O
-निरीक्षण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-जता	VM	TEMP	B-MISC	O	B-MISC	OCC
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+अस्पताल
+में
+कुव्यवस्था
+को
+ले
+अनुमंडल
+पदाधिकारी
+एवं
+जिला
+परिषद
+के
+चेयरपर्सन
+मीना
+अरुण
+ने
+भी
+अपनी
+नाराजगी
+औचक
+निरीक्षण
+के
+दौरान
+जता
+दी
+है
+.
 
-इस	DEM	TEMP	O	O	O	O
-बाबत	NN	TEMP	O	O	O	O
-प्रभारी	JJ	TEMP	O	O	O	O
-चिकित्सा	XC	TEMP	O	O	O	O
-पदाधिकारी	NN	TEMP	O	O	O	O
-डॉ	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+बाबत
+प्रभारी
+चिकित्सा
+पदाधिकारी
+डॉ
+.
 
-वीरेश	XC	TEMP	O	O	O	O
-कुमार	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-आरोप	NN	TEMP	O	O	B-MISC	OCC
-लगाए	VM	TEMP	B-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-वे	PRP	TEMP	O	O	O	O
-निराधार	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+वीरेश
+कुमार
+ने
+बताया
+कि
+जो
+भी
+आरोप
+लगाए
+गए
+हैं
+वे
+निराधार
+है
+.
 
-जो	PRP	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-दवा	NN	TEMP	O	O	B-MISC	OCC
-खरीदी	VM	TEMP	B-MISC	O	I-MISC	O
-गई	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-वह	PRP	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	B-MISC	O	B-STAT	OCC
-है	VM	TEMP	I-MISC	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+जो
+भी
+दवा
+खरीदी
+गई
+है
+वह
+उपलब्ध
+है
+.
 
-उसे	PRP	TEMP	O	O	O	O
-मरीजों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बीच	NST	TEMP	O	O	O	O
-बांटा	VM	TEMP	B-MISC	O	B-MISC	OCC
-भी	RP	TEMP	O	O	O	O
-गया	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उसे
+मरीजों
+के
+बीच
+बांटा
+भी
+गया
+है
+.
 
-दबाव	NN	TEMP	B-MISC	O	O	O
-बनाने	VM	TEMP	I-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-गलत	JJ	TEMP	O	O	O	O
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-जा	VAUX	TEMP	I-MISC	O	I-MISC	O
-रहा	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+दबाव
+बनाने
+के
+लिए
+गलत
+आरोप
+लगाया
+जा
+रहा
+है
+.

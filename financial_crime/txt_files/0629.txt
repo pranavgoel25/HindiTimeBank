@@ -1,111 +1,111 @@
 
-बकरी	NN	TEMP	B-MISC	O	O	OCC
-चरा	VM	TEMP	I-MISC	O	B-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-महिला	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-कुंडल	NN	TEMP	O	O	O	O
-छीने	VM	TEMP	O	O	O	O
-पिसावा	NN	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-गांव	NN	TEMP	O	O	O	O
-मढ़ा	XC	TEMP	O	O	O	O
-हवीवपुर	NNP	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-चंद्रवती	VM	TEMP	O	O	O	O
-पत्	NN	TEMP	O	O	O	O
-‍	PSP	TEMP	O	O	O	O
-‌	NN	TEMP	O	O	O	O
-नी	PSP	TEMP	O	O	O	O
-वीरेंद्र	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-सोमवार	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-पिसावा	PSP:?	TEMP	O	O	O	O
-रजबहा	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पटरी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बकरी	NN	TEMP	O	O	O	O
-चरा	VM	TEMP	O	O	B-MISC	OCC
-रही	VAUX	TEMP	O	O	I-MISC	O
-थी	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बकरी
+चरा
+रही
+महिला
+से
+कुंडल
+छीने
+पिसावा
+:
+क्षेत्र
+के
+गांव
+मढ़ा
+हवीवपुर
+निवासी
+चंद्रवती
+पत्
+‍
+‌
+नी
+वीरेंद्र
+सिंह
+सोमवार
+को
+पिसावा
+रजबहा
+की
+पटरी
+पर
+बकरी
+चरा
+रही
+थी
+.
 
-तभी	PRP	TEMP	O	O	O	O
-दो	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-बाइक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सवार	JJ	TEMP	O	O	B-MISC	OCC
-होकर	VM	TEMP	O	O	I-MISC	O
-आए	VAUX	TEMP	B-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-तमंचे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बल	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कुंडल	NN	TEMP	O	O	O	O
-छीनकर	VM	TEMP	O	O	B-MISC	O
-भाग	NN	TEMP	O	O	B-MISC	OCC
-गए	VM	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+तभी
+दो
+युवक
+बाइक
+पर
+सवार
+होकर
+आए
+और
+तमंचे
+के
+बल
+पर
+कुंडल
+छीनकर
+भाग
+गए
+.
 
-इसकी	PRP	TEMP	O	O	O	O
-रिपोर्ट	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-महिला	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अपने	PRP	TEMP	O	O	O	O
-देवर	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसकी
+रिपोर्ट
+के
+लिए
+महिला
+ने
+अपने
+देवर
+के
+साथ
+थाने
+में
+आकर
+तहरीर
+दे
+दी
+है
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-डेटा	XC	TEMP	O	O	O	O
-कलां	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-कुमारी	XC	TEMP	O	O	O	O
-मंजू	XC	TEMP	O	O	O	O
-पुत्री	NN	TEMP	O	O	O	O
-रोहताश	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-एटीएम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	B	O	O
-दिन	NN	TEMP	O	I	O	O
-में	PSP	TEMP	O	O	O	O
-40	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-दूसरे	NN	TEMP	O	O	O	O
-दिन	NN	TEMP	O	O	O	O
-18	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-पार	VM	TEMP	B-MISC	O	B-MISC	OCC
-कर	VAUX	TEMP	I-MISC	O	I-MISC	O
-दिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+डेटा
+कलां
+निवासी
+कुमारी
+मंजू
+पुत्री
+रोहताश
+सिंह
+के
+एटीएम
+से
+एक
+दिन
+में
+40
+हजार
+दूसरे
+दिन
+18
+हजार
+रुपये
+पार
+कर
+दिए
+.
 
-किशोरी	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-थाने	VM	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आकर	VM	TEMP	B-MISC	O	B-MISC	IAC
-तहरीर	NN	TEMP	B-MISC	O	B-MISC	OCC
-दे	VM	TEMP	I-MISC	O	I-MISC	O
-दी	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+किशोरी
+ने
+थाने
+में
+आकर
+तहरीर
+दे
+दी
+है
+.

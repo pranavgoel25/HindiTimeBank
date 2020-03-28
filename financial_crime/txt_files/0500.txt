@@ -1,299 +1,299 @@
 
-नई	JJ	TEMP	O	O	O	O
-दिल्ली	NNP	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-जेएनएन	NNP	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+नई
+दिल्ली
+(
+जेएनएन
+)
+.
 
-पूर्व	NST	TEMP	O	O	O	O
-मुख्य	JJ	TEMP	O	O	O	O
-आर्थिक	JJ	TEMP	O	O	O	O
-सलाहकार	NN	TEMP	O	O	O	O
-शंकर	XC	TEMP	O	O	O	O
-आचार्य	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-शुक्रवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-भारतीय	JJ	TEMP	O	O	O	O
-रिजर्व	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-(	SYM	TEMP	O	O	O	O
-आरबीआई	NN	TEMP	O	O	O	O
-)	SYM	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-मजबूती	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-रोकना	VM	TEMP	O	O	B-MISC	OCC
-चाहिए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पूर्व
+मुख्य
+आर्थिक
+सलाहकार
+शंकर
+आचार्य
+ने
+शुक्रवार
+को
+कहा
+कि
+भारतीय
+रिजर्व
+बैंक
+(
+आरबीआई
+)
+को
+रुपए
+की
+और
+मजबूती
+को
+रोकना
+चाहिए
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-सही	JJ	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-जब	PRP	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बदला	VM	TEMP	O	O	B-MISC	OCC
-जाना	VAUX	TEMP	O	O	I-MISC	O
-चाहिए	VAUX	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+साथ
+ही
+उन्होंने
+यह
+भी
+कहा
+कि
+यह
+सही
+समय
+है
+जब
+स्थिति
+को
+बदला
+जाना
+चाहिए
+.
 
-आचार्य	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-,	SYM	TEMP	O	O	O	O
-“	NN	TEMP	O	O	O	O
-अर्थव्यवस्था	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-अल्पकालिक	JJ	TEMP	O	O	O	O
-मदद	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-रिजर्व	XC	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-तुरंत	RB	TEMP	O	O	O	O
-कदम	NN	TEMP	B-MISC	O	B-MISC	OCC
-उठाने	VM	TEMP	I-MISC	O	I-MISC	O
-चाहिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-रुपए	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-आ	VM	TEMP	O	O	B-STAT	DESC
-रही	VAUX	TEMP	O	O	I-STAT	O
-मजबूती	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-नरम	JJ	TEMP	B-MISC	O	B-MISC	OCC
-करना	VM	TEMP	I-MISC	O	I-MISC	O
-चाहिए	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+आचार्य
+ने
+कहा
+,
+“
+अर्थव्यवस्था
+की
+अल्पकालिक
+मदद
+के
+लिए
+रिजर्व
+बैंक
+को
+तुरंत
+कदम
+उठाने
+चाहिए
+और
+रुपए
+में
+आ
+रही
+मजबूती
+को
+नरम
+करना
+चाहिए
+.
 
-”	XC	TEMP	O	O	O	O
-एमसीसीआई	XC	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-ओर	NST	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आयोजित	JJ	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-कार्यक्रम	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-बोलते	VM	TEMP	O	O	B-MISC	OCC
-हुए	VAUX	TEMP	O	O	I-MISC	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-इससे	PRP	TEMP	O	O	O	O
-निर्यात	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बल	NN	TEMP	O	O	O	O
-मिलेगा	VM	TEMP	B-MISC	O	O	O
-तथा	CC	TEMP	O	O	O	O
-घरेलू	XC	TEMP	O	O	O	O
-विनिर्माण	XC	TEMP	O	O	O	O
-क्षेत्र	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-तेजी	RB	TEMP	O	O	B-MISC	O
-आएगी	VM	TEMP	O	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+”
+एमसीसीआई
+की
+ओर
+से
+आयोजित
+एक
+कार्यक्रम
+में
+बोलते
+हुए
+उन्होंने
+कहा
+कि
+इससे
+निर्यात
+को
+बल
+मिलेगा
+तथा
+घरेलू
+विनिर्माण
+क्षेत्र
+में
+तेजी
+आएगी
+.
 
-शंकर	XC	TEMP	O	O	O	O
-आचार्य	NNP	TEMP	O	O	O	O
-इंडियन	XC	TEMP	O	O	O	O
-कौंसिल	XC	TEMP	O	O	O	O
-फॉर	XC	TEMP	O	O	O	O
-रिसर्च	XC	TEMP	O	O	O	O
-ऑन	XC	TEMP	O	O	O	O
-इंटरनेशल	NNP	TEMP	O	O	O	O
-इकोनॉमिक	JJ	TEMP	O	O	O	O
-रिलेशंस	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मानद	JJ	TEMP	O	O	O	O
-प्रोफेसर	NN	TEMP	O	O	O	O
-हैं	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+शंकर
+आचार्य
+इंडियन
+कौंसिल
+फॉर
+रिसर्च
+ऑन
+इंटरनेशल
+इकोनॉमिक
+रिलेशंस
+के
+मानद
+प्रोफेसर
+हैं
+.
 
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-फिलहाल	RB	TEMP	O	O	O	O
-जब	PRP	TEMP	O	O	O	O
-अर्थव्यवस्था	NN	TEMP	O	O	O	O
-खराब	JJ	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	O
-,	SYM	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-खर्च	NN	TEMP	O	O	O	O
-बढ़ाकर	VM	TEMP	B-MISC	O	B-MISC	OCC
-इसे	PRP	TEMP	O	O	O	O
-संभालना	VM	TEMP	B-MISC	O	O	O
-आसान	JJ	TEMP	B-MISC	O	B-MISC	OCC
-नहीं	NEG	TEMP	I-MISC	O	I-MISC	O
-होगा	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+उन्होंने
+कहा
+कि
+फिलहाल
+जब
+अर्थव्यवस्था
+खराब
+स्थिति
+में
+है
+,
+सरकार
+के
+लिए
+खर्च
+बढ़ाकर
+इसे
+संभालना
+आसान
+नहीं
+होगा
+.
 
-आचार्य	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-,	SYM	TEMP	O	O	O	O
-“	NN	TEMP	O	O	O	O
-अभी	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-समय	NN	TEMP	O	O	O	O
-इसके	PRP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-काफी	TEMP	INTF	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-संभावनाएं	NN	TEMP	O	O	B-STAT	OCC
-हैं	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+आचार्य
+ने
+कहा
+,
+“
+अभी
+के
+समय
+इसके
+लिए
+काफी
+कम
+संभावनाएं
+हैं
+.
 
-’’	NN	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-जी	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+’’
+उन्होंने
+कहा
+कि
+जी
+.
 
-एस	QC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+एस
+.
 
-टी	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+टी
+.
 
-के	PSP	TEMP	O	O	O	O
-क्रियान्वयन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-राजस्व	XC	TEMP	O	O	O	O
-संग्रहण	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अनिश्चितता	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-यह	DEM	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-है	VM	TEMP	O	O	B-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+के
+क्रियान्वयन
+के
+बाद
+राजस्व
+संग्रहण
+में
+अनिश्चितता
+के
+कारण
+यह
+स्थिति
+है
+.
 
-आचार्य	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-,	SYM	TEMP	O	O	O	O
-‘‘	NN	TEMP	O	O	O	O
-वित्त	JJ	TEMP	O	O	O	O
-वर्ष	NN	TEMP	O	B	O	O
-2017	QC	TEMP	O	I	O	O
--	SYM	TEMP	O	O	O	O
-18	QC	TEMP	O	B	O	O
-में	PSP	TEMP	O	O	O	O
-जो	PRP	TEMP	O	O	O	O
-चिंता	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-STAT	O
-है	VM	TEMP	I-MISC	O	I-STAT	O
-वह	PRP	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-है	VM	TEMP	O	O	O	O
-कि	CC	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-राज्यों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-कुल	QF	TEMP	O	O	O	O
-वित्तीय	JJ	TEMP	O	O	O	O
-घाटा	NN	TEMP	O	O	O	O
-जीडीपी	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-करीब	RB	TEMP	O	O	O	O
-सात	QC	TEMP	O	O	O	O
-फीसद	NN	TEMP	O	O	O	O
-होगा	VM	TEMP	O	O	B-MISC	O
-.	SYM	TEMP	O	O	O	O
+आचार्य
+ने
+कहा
+,
+‘‘
+वित्त
+वर्ष
+2017
+-
+18
+में
+जो
+चिंता
+की
+बात
+है
+वह
+यह
+है
+कि
+केंद्र
+और
+राज्यों
+का
+कुल
+वित्तीय
+घाटा
+जीडीपी
+का
+करीब
+सात
+फीसद
+होगा
+.
 
-जो	PRP	TEMP	O	O	O	O
-कि	RP	TEMP	O	O	O	O
-बहुत	TEMP	INTF	TEMP	O	O	O	O
-ज्यादा	QF	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	DECL
-.	SYM	TEMP	O	O	O	O
+जो
+कि
+बहुत
+ज्यादा
+है
+.
 
-”	NNP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	O	O	B-MISC	REP
-किसान	NN	TEMP	O	O	O	O
-फसल	NN	TEMP	O	O	O	O
-कर्जमाफी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-कारण	NN	TEMP	O	O	O	O
-राज्यों	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-स्थिति	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-खराब	JJ	TEMP	B-MISC	O	O	O
-है	VM	TEMP	I-MISC	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+”
+उन्होंने
+कहा
+किसान
+फसल
+कर्जमाफी
+के
+कारण
+राज्यों
+का
+स्थिति
+और
+भी
+खराब
+है
+.
 
-यहां	PRP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-सरकार	NN	TEMP	O	O	O	O
-मौजूदा	JJ	TEMP	O	O	O	O
-खर्च	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-कर्ज	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-जरिए	PSP	TEMP	O	O	O	O
-निवेश	NN	TEMP	O	O	O	O
-जरूरतों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-पूर्ति	NN	TEMP	O	O	B-MISC	OCC
-कर	VM	TEMP	O	O	I-MISC	O
-सकती	VAUX	TEMP	O	O	I-MISC	O
-है	VAUX	TEMP	O	O	I-MISC	O
-पर	CC	TEMP	O	O	O	O
-इससे	PRP	TEMP	O	O	O	O
-ब्याज	NN	TEMP	O	O	O	O
-दरों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-फिर	RB	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-दबाव	NN	TEMP	O	O	O	OCC
-पड़ेगा	XC	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+यहां
+पर
+उन्होंने
+कहा
+कि
+सरकार
+मौजूदा
+खर्च
+व
+कर्ज
+के
+जरिए
+निवेश
+जरूरतों
+की
+पूर्ति
+कर
+सकती
+है
+पर
+इससे
+ब्याज
+दरों
+पर
+फिर
+से
+दबाव
+पड़ेगा
+.
 
-वहीं	PRP	TEMP	O	O	O	O
-नोटबंदी	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-टिप्पणी	NN	TEMP	B-MISC	O	B-MISC	OCC
-करते	VM	TEMP	I-MISC	O	I-MISC	O
-हुए	VAUX	TEMP	I-MISC	O	I-MISC	O
-उन्होंने	PRP	TEMP	O	O	O	O
-कहा	VM	TEMP	B-MISC	O	B-MISC	REP
-कि	CC	TEMP	O	O	O	O
-यह	PRP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-खतरनाक	JJ	TEMP	O	O	O	O
-प्रयोग	NN	TEMP	O	O	O	O
-था	VM	TEMP	O	O	B-STAT	O
-.	SYM	TEMP	O	O	O	O
+वहीं
+नोटबंदी
+पर
+टिप्पणी
+करते
+हुए
+उन्होंने
+कहा
+कि
+यह
+एक
+खतरनाक
+प्रयोग
+था
+.

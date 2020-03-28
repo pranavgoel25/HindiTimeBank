@@ -1,306 +1,306 @@
-﻿जागरण	NN	TEMP	O	O	O	O
-संवाददाता	NN	TEMP	O	O	O	O
+﻿जागरण
+संवाददाता
 
-बरेली	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-डीएम	XC	TEMP	O	O	O	O
-राघवेंद्र	XC	TEMP	O	O	O	O
-विक्रम	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-व्यापार	NN	TEMP	O	O	O	O
-बंधु	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-बैठक	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	O	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बरेली
+:
+डीएम
+राघवेंद्र
+विक्रम
+सिंह
+ने
+व्यापार
+बंधु
+की
+बैठक
+की
+.
 
-इसमें	PRP	TEMP	O	O	O	O
-व्यापारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-घंटाघर	NN	TEMP	O	O	O	O
-पार्किंग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-अतिरिक्त	JJ	TEMP	O	O	O	O
-वसूली	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-की	PSP	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसमें
+व्यापारियों
+ने
+घंटाघर
+पार्किंग
+में
+अतिरिक्त
+वसूली
+की
+शिकायत
+की
+.
 
-डीएम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-दोपहिया	JJ	TEMP	O	O	O	O
-वाहन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-पांच	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-चार	QC	TEMP	O	O	O	O
-पहिया	NN	TEMP	O	O	O	O
-वाहनों	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-20	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-वसूलने	PRP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+डीएम
+ने
+दोपहिया
+वाहन
+से
+पांच
+और
+चार
+पहिया
+वाहनों
+से
+20
+रुपये
+वसूलने
+के
+निर्देश
+दिए
+.
 
-बोले	VM	TEMP	B-MISC	O	B-MISC	OCC
+बोले
 
-इससे	PRP	TEMP	O	O	O	O
-अतिरिक्त	JJ	TEMP	O	O	O	O
-वसूली	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-होगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इससे
+अतिरिक्त
+वसूली
+पर
+कार्रवाई
+होगी
+.
 
-पार्किंग	XC	TEMP	O	O	O	O
-गेट	NNP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पार्किंग	XC	TEMP	O	O	O	O
-शुल्क	NN	TEMP	O	O	O	O
-लिखवाने	VM	TEMP	B-MISC	O	B-MISC	O
-के	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+पार्किंग
+गेट
+पर
+पार्किंग
+शुल्क
+लिखवाने
+के
+निर्देश
+दिए
+.
 
-राज्यकर	VM	TEMP	O	O	O	O
-दफ्तर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-व्यापारियों	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सुविधा	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-लिफ्ट	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगेगी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+राज्यकर
+दफ्तर
+में
+व्यापारियों
+की
+सुविधा
+को
+लिफ्ट
+लगेगी
+.
 
-शहर	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-अग्निशमन	JJ	TEMP	O	O	O	O
-केंद्र	NN	TEMP	O	O	O	O
-खुलवाने	VM	TEMP	B-MISC	O	O	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	O
-कही	VM	TEMP	I-MISC	O	I-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+शहर
+में
+एक
+और
+अग्निशमन
+केंद्र
+खुलवाने
+की
+बात
+कही
+.
 
-यह	DEM	TEMP	O	O	O	O
-प्रस्ताव	NN	TEMP	O	O	O	O
-शासन	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-भेज	VM	TEMP	B-MISC	O	B-MISC	OCC
-दिया	VAUX	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+यह
+प्रस्ताव
+शासन
+को
+भेज
+दिया
+गया
+है
+.
 
-शहर	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-गली	NN	TEMP	O	O	O	O
+शहर
+की
+गली
 
-मुहल्ले	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-सडकों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पॉलीथीन	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-कूडा	NN	TEMP	O	O	O	O
-जलाना	VM	TEMP	O	O	O	O
-प्रतिबंधित	JJ	TEMP	O	O	B-STAT	O
-है	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+मुहल्ले
+और
+सडकों
+पर
+पॉलीथीन
+एवं
+कूडा
+जलाना
+प्रतिबंधित
+है
+.
 
-इसके	PRP	TEMP	O	O	O	O
-बाद	NST	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-शिकायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-आ	VM	TEMP	I-MISC	O	I-MISC	O
-रही	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+बाद
+भी
+शिकायत
+आ
+रही
+हैं
+.
 
-इसके	PRP	TEMP	O	O	O	O
-चलते	VM	TEMP	O	O	O	O
-वायु	NN	TEMP	O	O	O	O
-प्रदूषण	NN	TEMP	O	O	O	O
-बढ़	NN	TEMP	B-MISC	O	B-MISC	O
-रहा	VM	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इसके
+चलते
+वायु
+प्रदूषण
+बढ़
+रहा
+है
+.
 
-नगर	NN	TEMP	O	O	O	O
-निगम	JJ	TEMP	O	O	O	O
-अफसरों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-कूडा	NN	TEMP	O	O	O	O
-जलाने	VM	TEMP	O	O	O	O
-वालों	PSP	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-खिलाफ	PSP:?	TEMP	O	O	O	O
-कार्रवाई	NN	TEMP	B-MISC	O	B-MISC	OCC
-के	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+नगर
+निगम
+अफसरों
+को
+कूडा
+जलाने
+वालों
+के
+खिलाफ
+कार्रवाई
+के
+निर्देश
+दिए
+.
 
-शिक्षण	XC	TEMP	O	O	O	O
-संस्थान	NN	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-अनाधिकृत	JJ	TEMP	O	O	O	O
-स्थानों	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-पार्किंग	NN	TEMP	B-MISC	O	B-MISC	OCC
-न	NEG	TEMP	I-MISC	O	I-MISC	O
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-हिदायत	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+शिक्षण
+संस्थान
+एवं
+अनाधिकृत
+स्थानों
+पर
+पार्किंग
+न
+करने
+की
+हिदायत
+दी
+.
 
-साथ	NST	TEMP	O	O	O	O
-ही	RP	TEMP	O	O	O	O
-कम	QF	TEMP	O	O	O	O
-उम्र	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बच्चों	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-स्कूटी	NN	TEMP	O	O	O	O
+साथ
+ही
+कम
+उम्र
+के
+बच्चों
+के
+स्कूटी
 
-बाइक	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-चलाने	VM	TEMP	B-MISC	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रोक	VM	TEMP	B-MISC	O	B-MISC	OCC
-लगाने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	O	O
-कही	VM	TEMP	I-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+बाइक
+आदि
+चलाने
+पर
+रोक
+लगाने
+की
+बात
+कही
+.
 
-मामले	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-एसपी	XC	TEMP	O	O	O	O
-टै्रफिक	NNP	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-निजी	JJ	TEMP	O	O	O	O
-शिक्षण	XC	TEMP	O	O	O	O
-संस्थान	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-निरीक्षण	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-निर्देश	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+मामले
+में
+एसपी
+टै्रफिक
+को
+एक
+निजी
+शिक्षण
+संस्थान
+में
+निरीक्षण
+के
+निर्देश
+दिए
+.
 
-व्यापारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-खाद्य	JJ	TEMP	O	O	O	O
-सुरक्षा	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-उत्पीडन	NN	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-आरोप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+व्यापारियों
+ने
+खाद्य
+सुरक्षा
+विभाग
+की
+टीम
+पर
+उत्पीडन
+का
+आरोप
+लगाया
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-डीएम	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-अलग	JJ	TEMP	O	O	O	O
-बैठक	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-का	PSP	TEMP	O	O	O	O
-भरोसा	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिलाया	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इस
+पर
+डीएम
+ने
+अलग
+बैठक
+करने
+का
+भरोसा
+दिलाया
+.
 
-खाद्य	JJ	TEMP	O	O	O	O
-सुरक्षा	XC	TEMP	O	O	O	O
-विभाग	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-टीम	NN	TEMP	O	O	O	O
-शहर-बाजारों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-कैंप	NN	TEMP	B-MISC	O	B-MISC	OCC
-लगाकर	VM	TEMP	I-MISC	O	I-MISC	O
-लोगों	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-जानकारी	NN	TEMP	B-MISC	O	B-MISC	OCC
-देगी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+खाद्य
+सुरक्षा
+विभाग
+की
+टीम
+शहर-बाजारों
+में
+कैंप
+लगाकर
+लोगों
+को
+जानकारी
+देगी
+.
 
-व्यापारियों	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-बैंक	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-न	NEG	TEMP	B-MISC	O	B-MISC	O
-लेने	VM	TEMP	I-MISC	O	I-MISC	O
-की	PSP	TEMP	O	O	O	O
-बात	NN	TEMP	B-MISC	O	B-MISC	OCC
-कही	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+व्यापारियों
+ने
+बैंक
+में
+सिक्के
+न
+लेने
+की
+बात
+कही
+.
 
-इस	DEM	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-डीएम	NN	TEMP	O	O	O	O
-बोले	VM	TEMP	B-MISC	O	O	O
+इस
+पर
+डीएम
+बोले
 
-बैंक	NN	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-सीमा	NN	TEMP	O	O	O	O
-तक	RP	TEMP	O	O	O	O
-सिक्के	NN	TEMP	O	O	O	O
-लेंगी	VM	TEMP	B-MISC	O	O	O
+बैंक
+एक
+सीमा
+तक
+सिक्के
+लेंगी
 
-बाकी	JJ	TEMP	O	O	O	O
-बाजार	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-चलाने	VM	TEMP	B-MISC	O	B-MISC	O
-की	PSP	TEMP	O	O	O	O
-सलाह	NN	TEMP	B-MISC	O	B-MISC	OCC
-दी	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+बाकी
+बाजार
+में
+चलाने
+की
+सलाह
+दी
+.
 
-इस	DEM	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-जीएसटी	XC	TEMP	O	O	O	O
-पोर्टल	NNP	TEMP	O	O	O	O
+इस
+मौके
+पर
+जीएसटी
+पोर्टल
 
-ई-मेल	NN	TEMP	O	O	O	O
+ई-मेल
 
-टैक्स	NN	TEMP	O	O	O	O
-जमा	JJ	TEMP	O	O	O	O
-प्रक्रिया	NN	TEMP	O	O	O	O
+टैक्स
+जमा
+प्रक्रिया
 
-ऑनलाइन	XC	TEMP	O	O	O	O
-व्यवस्था	NN	TEMP	O	O	O	O
-आदि	RP	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बिंदुओं	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सुझाव	NN	TEMP	B-MISC	O	B-MISC	OCC
-दिए	VM	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+ऑनलाइन
+व्यवस्था
+आदि
+पर
+बिंदुओं
+पर
+सुझाव
+दिए
+.
 
-इस	DEM	TEMP	O	O	O	O
-मौके	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-सभी	QF	TEMP	O	O	O	O
-अफसर-कर्मचारी	NN	TEMP	O	O	O	O
-मौजूद	JJ	TEMP	O	O	B-STAT	DECL
-थे	VM	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+इस
+मौके
+पर
+सभी
+अफसर-कर्मचारी
+मौजूद
+थे
+.

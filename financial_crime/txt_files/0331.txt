@@ -1,146 +1,146 @@
-﻿आगरा	NNP	TEMP	O	O	O	O
-:	SYM	TEMP	O	O	O	O
-खंदौली	JJ	TEMP	O	O	O	O
-चौराहे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रविवार	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-टप्पेबाज	NN	TEMP	O	O	O	O
-सेवानिवृत्त	JJ	TEMP	O	O	O	O
-सूबेदार	JJ	TEMP	O	O	O	O
-इंद्रभूषण	XC	TEMP	O	O	O	O
-सिंह	NNP	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-सवा	XC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भरा	JJ	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-ले	VM	TEMP	B-MISC	O	B-MISC	OCC
-भागे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+﻿आगरा
+:
+खंदौली
+चौराहे
+पर
+रविवार
+को
+टप्पेबाज
+सेवानिवृत्त
+सूबेदार
+इंद्रभूषण
+सिंह
+की
+कार
+से
+सवा
+लाख
+रुपये
+से
+भरा
+बैग
+ले
+भागे
+.
 
-टेडी	NN	TEMP	O	O	O	O
-बगिया	NN	TEMP	O	O	O	O
-सौ	QC	TEMP	O	O	O	O
-फुटा	NN	TEMP	O	O	O	O
-निवासी	NN	TEMP	O	O	O	O
-सेवानिवृत्त	JJ	TEMP	O	O	O	O
-सूबेदार	JJ	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-गायत्री	JJ	TEMP	O	O	O	O
-देवी	NN	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-नातिन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-साथ	NST	TEMP	O	O	O	O
-दिल्ली	VM	TEMP	O	O	O	OCC
-जा	VAUX	TEMP	B-MISC	O	B-MISC	O
-रहे	VAUX	TEMP	I-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+टेडी
+बगिया
+सौ
+फुटा
+निवासी
+सेवानिवृत्त
+सूबेदार
+पत्नी
+गायत्री
+देवी
+और
+नातिन
+के
+साथ
+दिल्ली
+जा
+रहे
+थे
+.
 
-पत्नी	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-सवा	XC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-रखे	VM	TEMP	O	O	B-STAT	OCC
-थे	VAUX	TEMP	O	O	I-STAT	O
-.	SYM	TEMP	O	O	O	O
+पत्नी
+के
+बैग
+में
+सवा
+लाख
+रुपये
+रखे
+थे
+.
 
-एक	QC	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-उन्हें	PRP	TEMP	O	O	O	O
-नातिन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-नाम	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-एफडी	NN	TEMP	B-MISC	O	O	O
-करानी	VM	TEMP	I-MISC	O	B-MISC	OCC
-थी	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+एक
+लाख
+रुपये
+की
+उन्हें
+नातिन
+के
+नाम
+से
+एफडी
+करानी
+थी
+.
 
-सूबेदार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-मुताबिक	JJ	TEMP	O	O	O	O
-खंदौली	NN	TEMP	O	O	O	O
-चौराहे	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-नातिन	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-वह	PRP	TEMP	O	O	O	O
-चिप्स	NN	TEMP	O	O	O	O
-खरीदने	VM	TEMP	B-MISC	O	B-MISC	OCC
-रुके	VM	TEMP	B-MISC	O	I-MISC	O
-थे	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+सूबेदार
+के
+मुताबिक
+खंदौली
+चौराहे
+पर
+नातिन
+के
+लिए
+वह
+चिप्स
+खरीदने
+रुके
+थे
+.
 
-इसी	DEM	TEMP	O	O	O	O
-दौरान	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-युवक	NN	TEMP	O	O	O	O
-ने	PSP	TEMP	O	O	O	O
-उनसे	PRP	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-इंजन	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-ऑयल	NN	TEMP	B-MISC	O	O	O
-गिरना	VM	TEMP	I-MISC	O	O	O
-बताया	VM	TEMP	B-MISC	O	B-MISC	OCC
-.	SYM	TEMP	O	O	O	O
+इसी
+दौरान
+एक
+युवक
+ने
+उनसे
+कार
+के
+इंजन
+से
+ऑयल
+गिरना
+बताया
+.
 
-वह	PRP	TEMP	O	O	O	O
-खंदौली	JJ	TEMP	O	O	O	O
-चौराहे	NN	TEMP	O	O	O	O
-के	PSP	TEMP	O	O	O	O
-पास	NST	TEMP	O	O	O	O
-एक	QC	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-मैकेनिक	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-गाडी	NN	TEMP	O	O	B-MISC	OCC
-लेकर	VM	TEMP	B-MISC	O	I-MISC	O
-गए	VAUX	TEMP	B-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+वह
+खंदौली
+चौराहे
+के
+पास
+एक
+कार
+मैकेनिक
+पर
+गाडी
+लेकर
+गए
+.
 
-टप्पेबाज	NN	TEMP	O	O	O	O
-भी	RP	TEMP	O	O	O	O
-वहां	PRP	TEMP	O	O	O	O
-पहुंचा	VM	TEMP	B-MISC	O	B-MISC	OCC
-और	CC	TEMP	O	O	O	O
-कार	NN	TEMP	O	O	O	O
-की	PSP	TEMP	O	O	O	O
-सीट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-बैठी	VM	TEMP	B-MISC	O	B-MISC	OCC
-उनकी	PRP	TEMP	O	O	O	O
-पत्नी	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-बहाने	VM	TEMP	O	O	B-MISC	OCC
-से	PSP	TEMP	O	O	O	O
-नीचे	NST	TEMP	B-MISC	O	B-MISC	O
-उतारा	VM	TEMP	I-MISC	O	I-MISC	O
-और	CC	TEMP	O	O	O	O
-सीट	NN	TEMP	O	O	O	O
-पर	PSP	TEMP	O	O	O	O
-रखा	VM	TEMP	O	O	B-STAT	O
-सवा	QF	TEMP	O	O	O	O
-लाख	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-भरा	JJ	TEMP	O	O	O	O
-बैग	NN	TEMP	O	O	O	O
-लेकर	VM	TEMP	B-MISC	O	B-MISC	O
-भाग	VM	TEMP	B-MISC	O	B-MISC	OCC
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+टप्पेबाज
+भी
+वहां
+पहुंचा
+और
+कार
+की
+सीट
+पर
+बैठी
+उनकी
+पत्नी
+को
+बहाने
+से
+नीचे
+उतारा
+और
+सीट
+पर
+रखा
+सवा
+लाख
+रुपये
+से
+भरा
+बैग
+लेकर
+भाग
+गया
+.

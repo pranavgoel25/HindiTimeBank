@@ -1,71 +1,71 @@
 
-नवादा	NN	TEMP	O	O	O	O
-.	SYM	TEMP	O	O	O	O
+नवादा
+.
 
-प्रखंड	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-संचालित	JJ	TEMP	O	O	O	O
-विभिन्न	JJ	TEMP	O	O	O	O
-उच्च	JJ	TEMP	O	O	O	O
-एवं	CC	TEMP	O	O	O	O
-इंटर	XC	TEMP	O	O	O	O
-विद्यालयों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-शैक्षणिक	JJ	TEMP	O	O	O	O
-व्यवस्था	NN	TEMP	O	O	O	O
-सु²ढ़	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-उद्देश्य	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-आरएस	XC	TEMP	O	O	O	O
-इंटर	XC	TEMP	O	O	O	O
-विद्यालय	XC	TEMP	O	O	O	O
-फतेहपुर	NNP	TEMP	O	O	O	O
-,	SYM	TEMP	O	O	O	O
-विश्वकर्मा	XC	TEMP	O	O	O	O
-इंटर	XC	TEMP	O	O	O	O
-विद्यालय	XC	TEMP	O	O	O	O
-हुडराही	XC	TEMP	O	O	O	O
-रूनीपुर	NNP	TEMP	O	O	O	O
-और	CC	TEMP	O	O	O	O
-इंटर	XC	TEMP	O	O	O	O
-विद्यालय	XC	TEMP	O	O	O	O
-गोपालपुर	NNP	TEMP	O	O	O	O
-का	PSP	TEMP	O	O	O	O
-चयन	NN	TEMP	B-MISC	O	B-MISC	OCC
-किया	VM	TEMP	I-MISC	O	I-MISC	O
-गया	VAUX	TEMP	I-MISC	O	I-MISC	O
-है	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+प्रखंड
+में
+संचालित
+विभिन्न
+उच्च
+एवं
+इंटर
+विद्यालयों
+में
+शैक्षणिक
+व्यवस्था
+सु²ढ़
+करने
+के
+उद्देश्य
+से
+आरएस
+इंटर
+विद्यालय
+फतेहपुर
+,
+विश्वकर्मा
+इंटर
+विद्यालय
+हुडराही
+रूनीपुर
+और
+इंटर
+विद्यालय
+गोपालपुर
+का
+चयन
+किया
+गया
+है
+.
 
-इन	DEM	TEMP	O	O	O	O
-विद्यालयों	NN	TEMP	O	O	O	O
-में	PSP	TEMP	O	O	O	O
-प्रयोगशाला	NN	TEMP	O	O	O	O
-व	CC	TEMP	O	O	O	O
-पुस्तकालय	NN	TEMP	O	O	O	O
-को	PSP	TEMP	O	O	O	O
-सु²ढ़	NN	TEMP	B-MISC	O	B-MISC	OCC
-करने	VM	TEMP	I-MISC	O	I-MISC	O
-के	PSP	TEMP	O	O	O	O
-लिए	PSP	TEMP	O	O	O	O
-बिहार	NNP	TEMP	O	O	O	O
-माध्यमिक	JJ	TEMP	O	O	O	O
-शिक्षा	XC	TEMP	O	O	O	O
-बोर्ड	NN	TEMP	O	O	O	O
-द्वारा	PSP	TEMP	O	O	O	O
-वार्षिक	JJ	TEMP	O	O	O	O
-अनुदान	NN	TEMP	O	O	O	O
-मद	NN	TEMP	O	O	O	O
-से	PSP	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
--	SYM	TEMP	O	O	O	O
-50	QC	TEMP	O	O	O	O
-हजार	QC	TEMP	O	O	O	O
-रुपये	NN	TEMP	O	O	O	O
-उपलब्ध	JJ	TEMP	B-MISC	O	B-MISC	OCC
-कराए	VM	TEMP	I-MISC	O	I-MISC	O
-गए	VAUX	TEMP	I-MISC	O	I-MISC	O
-हैं	VAUX	TEMP	I-MISC	O	I-MISC	O
-.	SYM	TEMP	O	O	O	O
+इन
+विद्यालयों
+में
+प्रयोगशाला
+व
+पुस्तकालय
+को
+सु²ढ़
+करने
+के
+लिए
+बिहार
+माध्यमिक
+शिक्षा
+बोर्ड
+द्वारा
+वार्षिक
+अनुदान
+मद
+से
+50
+-
+50
+हजार
+रुपये
+उपलब्ध
+कराए
+गए
+हैं
+.

@@ -13,7 +13,7 @@
 कग,XC,TEMP,I-MISC,O
 अभियान,NN,TEMP,I-MISC,O
 चला,VM,TEMP,B-MISC,OCC
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 इसके,PRP,TEMP,O,O
 अलावा,PSP,TEMP,O,O
@@ -32,7 +32,7 @@
 हो,VM,TEMP,I-MISC,O
 चुकी,VAUX,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 इस,DEM,TEMP,O,O
 पूरे,JJ,TEMP,O,O
@@ -50,7 +50,7 @@
 रुपये,NN,TEMP,O,O
 वसूले,VM,TEMP,B-MISC,OCC
 गए,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 पूरे,JJ,TEMP,O,O
 महीने,NN,TEMP,O,O
@@ -60,7 +60,7 @@
 रिफ्लेक्टर,NN,TEMP,O,O
 लगवाए,VM,TEMP,B-MISC,OCC
 गए,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 स्कूल-कॉलेजों,NN,TEMP,O,O
 में,PSP,TEMP,O,O
@@ -69,7 +69,7 @@
 का,PSP,TEMP,O,O
 आयोजन,NN,TEMP,B-MISC,OCC
 हुआ,VM,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 गुरुवार,NN,TEMP,O,O
 को,PSP,TEMP,O,O
@@ -79,14 +79,14 @@
 कग,XC,TEMP,I-MISC,O
 अभियान,NN,TEMP,I-MISC,O
 चला,VM,TEMP,B-MISC,ASP
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 ट्रैफिक,JJ,TEMP,O,O
 पुलिस,NN,TEMP,O,O
 ने,PSP,TEMP,O,O
 रिफ्लेक्टर,NN,TEMP,O,O
 लगवाए,VM,TEMP,B-MISC,OCC
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 यातायात,NN,TEMP,B-MISC,OCC
 माह,NN,TEMP,I-MISC,O
@@ -108,7 +108,7 @@
 स्थान,NN,TEMP,O,O
 पर,PSP,TEMP,O,O
 रही,VAUX,TEMP,B-MISC,OCC
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 एसओ,XC,TEMP,O,O
 चंदपा,NN,TEMP,O,O
@@ -130,7 +130,7 @@
 स्थान,NN,TEMP,O,O
 पर,PSP,TEMP,O,O
 रही,VM,TEMP,B-MISC,OCC
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
 ,,,,
 इसके,PRP,TEMP,O,O
 लिए,PSP,TEMP,O,O
@@ -146,4 +146,4 @@
 सम्मानित,JJ,TEMP,B-MISC,OCC
 किया,VM,TEMP,I-MISC,O
 है,VAUX,TEMP,I-MISC,O
-0,SYM,TEMP,O,O
+.,SYM,TEMP,O,O
